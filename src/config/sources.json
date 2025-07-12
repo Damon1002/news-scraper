@@ -84,7 +84,7 @@
           "category": "entertainment",
           "endpoint": "/viewall",
           "maxItems": 20,
-          "updateFrequency": 60
+          "updateFrequency": 2
         }
       ]
     }
