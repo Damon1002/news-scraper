@@ -126,20 +126,27 @@ export class SETNEntertainmentSource extends NewsSource {
       
       const $ = cheerio.load(response.data);
       
-      // Try to extract date from meta tag
-      const publishedTimeMeta = $('meta[property="article:published_time"]').attr('content');
-      if (publishedTimeMeta) {
-        return new Date(publishedTimeMeta);
-      }
-      
-      // Try to extract from time element
+      // Priority 1: Try to extract from time element (more reliable for Taiwan timezone)
       const timeElement = $('time').first().text().trim();
       if (timeElement) {
         // Convert format "2025/07/12 16:41" to ISO format
         const timeMatch = timeElement.match(/(\d{4})\/(\d{2})\/(\d{2})\s+(\d{2}):(\d{2})/);
         if (timeMatch) {
           const [, year, month, day, hour, minute] = timeMatch;
-          return new Date(`${year}-${month}-${day}T${hour}:${minute}:00+08:00`); // Taiwan timezone
+          const taiwanTime = `${year}-${month}-${day}T${hour}:${minute}:00+08:00`;
+          const date = new Date(taiwanTime);
+          return date; // Taiwan timezone converted to UTC
+        }
+      }
+      
+      // Priority 2: Try to extract date from meta tag (but SETN has incorrect timezone info)
+      const publishedTimeMeta = $('meta[property="article:published_time"]').attr('content');
+      if (publishedTimeMeta) {
+        // SETN incorrectly marks Taiwan time as UTC, so we need to handle this
+        if (publishedTimeMeta.includes('Z')) {
+          // Skip this because SETN incorrectly marks Taiwan time as UTC
+        } else {
+          return new Date(publishedTimeMeta);
         }
       }
       
