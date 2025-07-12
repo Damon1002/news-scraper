@@ -96,11 +96,13 @@ export class NewsAggregator {
   private async scrapeCategory(category: NewsCategory): Promise<ScrapingResult[]> {
     const results: ScrapingResult[] = [];
     const promises: Promise<ScrapingResult>[] = [];
+    const activeSourceIds: string[] = [];
 
     for (const [sourceId, source] of this.sources) {
       if (source.getSupportedCategories().includes(category)) {
         console.log(`  🔄 Scraping ${sourceId} for ${category}...`);
         promises.push(source.scrapeCategory(category));
+        activeSourceIds.push(sourceId);
       }
     }
 
@@ -109,7 +111,7 @@ export class NewsAggregator {
     scrapingResults.forEach((result, index) => {
       if (result.status === 'fulfilled') {
         results.push(result.value);
-        const sourceId = Array.from(this.sources.keys())[index];
+        const sourceId = activeSourceIds[index];
         
         if (result.value.success) {
           console.log(`    ✅ ${sourceId}: ${result.value.items.length} items`);
