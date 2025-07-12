@@ -71,7 +71,7 @@ ${rssItems}
 
   public createFeedMetadata(
     category?: NewsCategory,
-    baseUrl: string = 'https://damon1002.github.io/google-news-scraper'
+    baseUrl: string = 'https://damon1002.github.io/news-scraper'
   ): FeedMetadata {
     const categoryName = category ? 
       category.charAt(0).toUpperCase() + category.slice(1) : 'All';

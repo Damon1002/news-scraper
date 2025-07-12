@@ -26,7 +26,7 @@ export class FeedRegistryManager {
   private registryPath: string;
   private baseUrl: string;
 
-  constructor(registryPath: string = 'docs/feeds-registry.json', baseUrl: string = 'https://damon1002.github.io/google-news-scraper') {
+  constructor(registryPath: string = 'docs/feeds-registry.json', baseUrl: string = 'https://damon1002.github.io/news-scraper') {
     this.registryPath = registryPath;
     this.baseUrl = baseUrl;
   }
