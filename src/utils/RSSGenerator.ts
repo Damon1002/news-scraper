@@ -69,6 +69,36 @@ ${rssItems}
 </rss>`;
   }
 
+  public createSourceFeedMetadata(
+    sourceName: string,
+    category: NewsCategory,
+    baseUrl: string = 'https://damon1002.github.io/news-scraper'
+  ): FeedMetadata {
+    let categoryName: string;
+    let language = 'en-US';
+
+    if (category === 'entertainment') {
+      categoryName = '娱乐星闻';
+      language = 'zh-TW';
+    } else {
+      categoryName = category.charAt(0).toUpperCase() + category.slice(1);
+    }
+
+    const sourceId = sourceName.toLowerCase().replace(/\s+/g, '-');
+    
+    return {
+      title: category === 'entertainment' ? `${categoryName} - ${sourceName}` : `${categoryName} News - ${sourceName}`,
+      description: category === 'entertainment' ? 
+        `来自${sourceName}的最新娱乐星闻` : 
+        `Latest ${categoryName.toLowerCase()} news from ${sourceName}`,
+      link: `${baseUrl}/feeds/${category}/${sourceId}.xml`,
+      language,
+      category,
+      lastBuildDate: new Date(),
+      ttl: 60
+    };
+  }
+
   public createFeedMetadata(
     category?: NewsCategory,
     baseUrl: string = 'https://damon1002.github.io/news-scraper'

@@ -69,28 +69,32 @@ export class NewsAggregator {
 
   public async aggregateNews(): Promise<void> {
     const enabledCategories = this.configLoader.getEnabledCategories();
-    const globalConfig = this.configLoader.getGlobalConfig();
     
-    console.log(`🔍 Starting news aggregation for categories: ${enabledCategories.join(', ')}`);
+    console.log(`🔍 Starting individual source feeds for categories: ${enabledCategories.join(', ')}`);
     
+    // Generate individual source feeds for each category
     for (const category of enabledCategories) {
       console.log(`\n📰 Processing category: ${category}`);
       
       const categoryResults = await this.scrapeCategory(category);
-      const allItems = this.consolidateResults(categoryResults);
       
-      if (allItems.length > 0) {
-        await this.generateCategoryFeed(category, allItems);
-        console.log(`✅ Generated ${category} feed with ${allItems.length} items`);
-      } else {
-        console.log(`⚠️  No items found for ${category}`);
+      // Generate separate feed for each source
+      for (const result of categoryResults) {
+        if (result.success && result.items.length > 0) {
+          await this.generateSourceFeed(result, category);
+          console.log(`✅ Generated ${result.source} ${category} feed with ${result.items.length} items`);
+        } else if (!result.success) {
+          console.log(`⚠️  ${result.source} failed for ${category}: ${result.error}`);
+        } else {
+          console.log(`⚠️  No items found for ${result.source} ${category}`);
+        }
       }
     }
 
     await this.generateMasterFeed();
     await this.generateIndexPage();
     
-    console.log('\n🎉 News aggregation completed successfully!');
+    console.log('\n🎉 Individual source feed generation completed successfully!');
   }
 
   private async scrapeCategory(category: NewsCategory): Promise<ScrapingResult[]> {
@@ -155,6 +159,34 @@ export class NewsAggregator {
       .replace(/\s+/g, ' ')
       .trim()
       .slice(0, 100);
+  }
+
+  private async generateSourceFeed(result: ScrapingResult, category: NewsCategory): Promise<void> {
+    const sourceId = result.source.toLowerCase().replace(/\s+/g, '-');
+    const metadata = this.rssGenerator.createSourceFeedMetadata(result.source, category);
+    const feedXML = this.rssGenerator.generateRSSFeed(result.items, metadata);
+    
+    const outputDir = this.configLoader.getGlobalConfig().outputDirectory;
+    const categoryDir = `${outputDir}/${category}`;
+    
+    // Create category directory if it doesn't exist
+    if (!existsSync(categoryDir)) {
+      mkdirSync(categoryDir, { recursive: true });
+    }
+    
+    const feedPath = `${categoryDir}/${sourceId}.xml`;
+    writeFileSync(feedPath, feedXML, 'utf-8');
+
+    // Register the feed in the registry
+    const feedName = `${result.source} - ${category.charAt(0).toUpperCase() + category.slice(1)}`;
+    
+    this.feedRegistry.registerFeed(
+      feedName,
+      category,
+      feedPath,
+      result.items.length,
+      [result.source]
+    );
   }
 
   private async generateCategoryFeed(category: NewsCategory, items: NewsItem[]): Promise<void> {
