@@ -135,12 +135,16 @@ ${rssItems}
   public generateFeedIndex(categories: NewsCategory[]): string {
     const feedLinks = categories.map(category => {
       let categoryName: string;
+      let feedUrl: string;
+      
       if (category === 'entertainment') {
         categoryName = '🎬 娱乐星闻 (SETN)';
+        feedUrl = 'feeds/entertainment/setn-entertainment.xml';
       } else {
         categoryName = category.charAt(0).toUpperCase() + category.slice(1) + ' News';
+        feedUrl = `feeds/${category}.xml`;
       }
-      return `    <li><a href="feeds/${category}.xml">${categoryName}</a></li>`;
+      return `    <li><a href="${feedUrl}">${categoryName}</a></li>`;
     }).join('\n');
 
     return `<!DOCTYPE html>
@@ -161,7 +165,7 @@ ${rssItems}
 </head>
 <body>
     <h1>📰 Multi-Source News Feeds</h1>
-    <p>Automated news aggregation from multiple sources, updated hourly.</p>
+    <p>Automated news aggregation from multiple sources, updated every 2 minutes.</p>
     
     <h2>Available Feeds</h2>
     <ul class="feed-list">
@@ -172,7 +176,7 @@ ${feedLinks}
     <div class="status">
         <h3>Feed Information</h3>
         <ul>
-            <li><strong>Update Frequency:</strong> Every hour</li>
+            <li><strong>Update Frequency:</strong> Every 2 minutes</li>
             <li><strong>Format:</strong> RSS 2.0</li>
             <li><strong>Items per Feed:</strong> Up to 50 latest articles</li>
             <li><strong>Last Updated:</strong> ${new Date().toLocaleString()}</li>
