@@ -9,6 +9,12 @@ google_news.json
 google_news.xml
 docs/feeds/*.xml
 docs/feeds/*.json
+
+# Registry files (auto-generated)
+docs/feeds-registry.json
+docs/FEEDS.md
+
+# Essential project files (explicitly include)
 !package.json
 !package-lock.json
 !tsconfig.json

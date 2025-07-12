@@ -1,6 +1,7 @@
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { ConfigLoader } from './utils/ConfigLoader.js';
 import { RSSGenerator } from './utils/RSSGenerator.js';
+import { FeedRegistryManager } from './utils/FeedRegistry.js';
 import { NewsSource } from './sources/NewsSource.js';
 import { GoogleNewsSource } from './sources/GoogleNewsSource.js';
 import { RedditSource } from './sources/RedditSource.js';
@@ -10,11 +11,13 @@ import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/in
 export class NewsAggregator {
   private configLoader: ConfigLoader;
   private rssGenerator: RSSGenerator;
+  private feedRegistry: FeedRegistryManager;
   private sources: Map<string, NewsSource> = new Map();
 
   constructor() {
     this.configLoader = ConfigLoader.getInstance();
     this.rssGenerator = new RSSGenerator();
+    this.feedRegistry = new FeedRegistryManager();
   }
 
   public async initialize(): Promise<void> {
@@ -153,6 +156,18 @@ export class NewsAggregator {
     const feedPath = `${outputDir}/${category}.xml`;
     
     writeFileSync(feedPath, feedXML, 'utf-8');
+
+    // Register the feed in the registry
+    const sources = [...new Set(items.map(item => item.source))];
+    const feedName = `${category.charAt(0).toUpperCase() + category.slice(1)} Feed`;
+    
+    this.feedRegistry.registerFeed(
+      feedName,
+      category,
+      feedPath,
+      items.length,
+      sources
+    );
   }
 
   private async generateMasterFeed(): Promise<void> {
@@ -183,6 +198,18 @@ export class NewsAggregator {
     
     writeFileSync(feedPath, feedXML, 'utf-8');
     console.log(`✅ Generated master feed with ${consolidatedItems.length} items`);
+
+    // Register the master feed in the registry
+    const sources = [...new Set(consolidatedItems.map(item => item.source))];
+    
+    this.feedRegistry.registerFeed(
+      'Master Feed',
+      undefined,
+      feedPath,
+      consolidatedItems.length,
+      sources,
+      'Combined feed from all categories and sources'
+    );
   }
 
   private async generateIndexPage(): Promise<void> {
@@ -196,6 +223,10 @@ export class NewsAggregator {
     
     writeFileSync(`${docsDir}/index.html`, indexHTML, 'utf-8');
     console.log('✅ Generated feed index page');
+
+    // Generate registry files
+    this.feedRegistry.saveMarkdownRegistry();
+    console.log('✅ Generated feeds registry and documentation');
   }
 
   public async cleanup(): Promise<void> {
