@@ -82,9 +82,9 @@
       "categories": [
         {
           "category": "entertainment",
-          "endpoint": "/",
-          "maxItems": 15,
-          "updateFrequency": 120
+          "endpoint": "/viewall",
+          "maxItems": 20,
+          "updateFrequency": 60
         }
       ]
     }
