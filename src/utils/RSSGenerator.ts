@@ -11,7 +11,8 @@ export class RSSGenerator {
   }
 
   private formatRSSDate(date: Date): string {
-    return date.toUTCString();
+    // Convert to UTC and format as RFC 822 date with +0000 timezone
+    return date.toUTCString().replace('GMT', '+0000');
   }
 
   private createRSSItem(item: NewsItem): string {
