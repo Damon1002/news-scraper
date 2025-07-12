@@ -7,8 +7,12 @@ yarn-error.log*
 # Output files
 google_news.json
 google_news.xml
-*.json
-*.xml
+docs/feeds/*.xml
+docs/feeds/*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!src/config/sources.json
 
 # Build outputs
 dist/

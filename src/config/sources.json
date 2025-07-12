@@ -1,0 +1,80 @@
+{
+  "sources": [
+    {
+      "id": "google-news",
+      "name": "Google News",
+      "type": "rss",
+      "baseUrl": "https://news.google.com/rss",
+      "rateLimit": 10,
+      "enabled": true,
+      "categories": [
+        {
+          "category": "general",
+          "endpoint": "?hl=en-US&gl=US&ceid=US:en",
+          "maxItems": 20,
+          "updateFrequency": 60
+        }
+      ]
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "type": "api",
+      "baseUrl": "https://hacker-news.firebaseio.com/v0",
+      "rateLimit": 20,
+      "enabled": true,
+      "categories": [
+        {
+          "category": "technology",
+          "endpoint": "/topstories.json",
+          "maxItems": 10,
+          "updateFrequency": 60
+        }
+      ]
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "type": "api",
+      "baseUrl": "https://www.reddit.com",
+      "rateLimit": 15,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "NewsAggregator/1.0"
+      },
+      "categories": [
+        {
+          "category": "technology",
+          "endpoint": "/r/technology/hot.json?limit=10",
+          "maxItems": 10,
+          "updateFrequency": 60
+        },
+        {
+          "category": "world",
+          "endpoint": "/r/worldnews/hot.json?limit=15",
+          "maxItems": 15,
+          "updateFrequency": 30
+        },
+        {
+          "category": "science",
+          "endpoint": "/r/science/hot.json?limit=10",
+          "maxItems": 10,
+          "updateFrequency": 120
+        },
+        {
+          "category": "business",
+          "endpoint": "/r/business/hot.json?limit=10",
+          "maxItems": 10,
+          "updateFrequency": 60
+        }
+      ]
+    }
+  ],
+  "global": {
+    "maxItemsPerFeed": 50,
+    "defaultUpdateFrequency": 60,
+    "enabledCategories": ["general", "technology", "business", "world", "science", "health"],
+    "outputDirectory": "docs/feeds",
+    "baseUrl": "https://damon1002.github.io/google-news-scraper"
+  }
+}

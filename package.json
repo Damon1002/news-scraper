@@ -1,0 +1,21 @@
+{
+    "name": "google-news-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "start": "node --loader ts-node/esm src/main.ts",
+      "build": "tsc --project tsconfig.json",
+    "dev": "node --loader ts-node/esm src/main.ts",
+    "clean": "rm -rf docs/feeds/*.xml"
+    },
+    "dependencies": {
+      "axios": "^1.6.0",
+      "cheerio": "^1.0.0-rc.12",
+      "playwright": "^1.40.0"
+    },
+    "devDependencies": {
+      "@types/node": "^20.0.0",
+      "ts-node": "^10.9.0",
+      "typescript": "^5.0.0"
+    }
+  }
