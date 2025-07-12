@@ -68,12 +68,31 @@
           "updateFrequency": 60
         }
       ]
+    },
+    {
+      "id": "setn-entertainment",
+      "name": "SETN Entertainment",
+      "type": "scraper",
+      "baseUrl": "https://star.setn.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/",
+          "maxItems": 15,
+          "updateFrequency": 120
+        }
+      ]
     }
   ],
   "global": {
     "maxItemsPerFeed": 50,
     "defaultUpdateFrequency": 60,
-    "enabledCategories": ["general", "technology", "business", "world", "science", "health"],
+    "enabledCategories": ["general", "technology", "business", "world", "science", "health", "entertainment"],
     "outputDirectory": "docs/feeds",
     "baseUrl": "https://damon1002.github.io/news-scraper"
   }

@@ -6,6 +6,7 @@ import { NewsSource } from './sources/NewsSource.js';
 import { GoogleNewsSource } from './sources/GoogleNewsSource.js';
 import { RedditSource } from './sources/RedditSource.js';
 import { HackerNewsSource } from './sources/HackerNewsSource.js';
+import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -54,6 +55,12 @@ export class NewsAggregator {
           return new HackerNewsSource(config);
         }
         throw new Error(`Unsupported API source: ${config.id}`);
+      
+      case 'scraper':
+        if (config.id === 'setn-entertainment') {
+          return new SETNEntertainmentSource(config);
+        }
+        throw new Error(`Unsupported scraper source: ${config.id}`);
       
       default:
         throw new Error(`Unsupported source type: ${config.type}`);
@@ -174,9 +181,11 @@ export class NewsAggregator {
     console.log('\n🔄 Generating master feed...');
     
     const enabledCategories = this.configLoader.getEnabledCategories();
+    // Exclude entertainment from master feed as requested
+    const masterCategories = enabledCategories.filter(cat => cat !== 'entertainment');
     const allItems: NewsItem[] = [];
 
-    for (const category of enabledCategories) {
+    for (const category of masterCategories) {
       const categoryResults = await this.scrapeCategory(category);
       const categoryItems = this.consolidateResults(categoryResults);
       allItems.push(...categoryItems);
