@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/entertainment/setn-entertainment.xml</link>
     <description>来自SETN Entertainment的最新娱乐星闻</description>
     <language>zh-TW</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 12 Jul 2025 16:52:45 +0000</lastBuildDate>
     <pubDate>Sat, 12 Jul 2025 16:52:45 +0000</pubDate>
+=======
+    <lastBuildDate>Sat, 12 Jul 2025 16:41:32 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 16:41:32 +0000</pubDate>
+>>>>>>> 02854cb (🔄 Update RSS feeds with latest news content)
     <ttl>60</ttl>
     <category>entertainment</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/entertainment/setn-entertainment.xml" rel="self" type="application/rss+xml"/>
@@ -102,17 +107,6 @@
 
     </item>
     <item>
-      <title>直擊／GD清唱〈月亮代表我的心〉告白「我會回來」：繼續陪在我身邊</title>
-      <link>https://star.setn.com/news/1686727?utm_campaign=viewallnews</link>
-      <description>直擊／GD清唱〈月亮代表我的心〉告白「我會回來」：繼續陪在我身邊...</description>
-      <pubDate>Sat, 12 Jul 2025 12:45:00 +0000</pubDate>
-      <source>SETN Entertainment</source>
-      <guid isPermaLink="true">https://star.setn.com/news/1686727?utm_campaign=viewallnews</guid>
-      <category>entertainment</category>
-      <category>setn entertainment</category>
-
-    </item>
-    <item>
       <title>劉品言懷胎5個月鬆口認「有1變化」 釣出好友林心如：現在開始也太早</title>
       <link>https://star.setn.com/news/1686729?utm_campaign=viewallnews</link>
       <description>劉品言懷胎5個月鬆口認「有1變化」 釣出好友林心如：現在開始也太早...</description>
@@ -124,6 +118,31 @@
 
     </item>
     <item>
+      <title>直擊／GD清唱〈月亮代表我的心〉告白「我會回來」：繼續陪在我身邊</title>
+      <link>https://star.setn.com/news/1686727?utm_campaign=viewallnews</link>
+      <description>直擊／GD清唱〈月亮代表我的心〉告白「我會回來」：繼續陪在我身邊...</description>
+      <pubDate>Sat, 12 Jul 2025 12:45:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1686727?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+<<<<<<< HEAD
+      <title>劉品言懷胎5個月鬆口認「有1變化」 釣出好友林心如：現在開始也太早</title>
+      <link>https://star.setn.com/news/1686729?utm_campaign=viewallnews</link>
+      <description>劉品言懷胎5個月鬆口認「有1變化」 釣出好友林心如：現在開始也太早...</description>
+      <pubDate>Sat, 12 Jul 2025 12:45:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1686729?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+=======
+>>>>>>> 02854cb (🔄 Update RSS feeds with latest news content)
       <title>五月天被逼上絕路！F4解散16年真的合體了 驚喜現身大巨蛋</title>
       <link>https://star.setn.com/news/1686704?utm_campaign=viewallnews</link>
       <description>五月天被逼上絕路！F4解散16年真的合體了 驚喜現身大巨蛋...</description>
