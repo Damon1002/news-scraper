@@ -29,8 +29,16 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install dependencies
-      run: npm install
+    - name: Verify checkout and install dependencies
+      run: |
+        echo "GitHub workspace: $GITHUB_WORKSPACE"
+        echo "Current working directory: $(pwd)"
+        echo "Contents of current directory:"
+        ls -la
+        echo "Looking for package.json:"
+        find . -name "package.json" -type f
+        echo "Installing dependencies..."
+        npm install
 
     - name: Install Playwright browsers
       run: npx playwright install chromium --with-deps
@@ -39,17 +47,6 @@ jobs:
       run: |
         mkdir -p docs/feeds
         mkdir -p docs/status
-
-    - name: Verify project structure
-      run: |
-        echo "Current directory:"
-        pwd
-        echo "Files in project:"
-        ls -la
-        echo "Files in src/:"
-        ls -la src/
-        echo "Package.json content:"
-        cat package.json
 
     - name: Run news aggregation
       run: npm start
