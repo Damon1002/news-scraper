@@ -79,6 +79,7 @@ The system generates category-specific RSS feeds and a master feed, automaticall
 - **Error handling**: Graceful fallbacks when sources fail
 - **GitHub Pages hosting**: Free, reliable RSS feed hosting
 - **Automated updates**: Hourly refresh via GitHub Actions
+- **Standardized UTC timestamps**: All publication dates converted to UTC format for consistent external API consumption
 
 ## File Structure
 
@@ -106,12 +107,41 @@ docs/                       # GitHub Pages output
 └── update-feeds.yml       # Automated update workflow
 ```
 
+## Timezone Standardization Requirements
+
+**CRITICAL**: All RSS feeds must use standardized UTC timestamps to ensure consistent external API consumption.
+
+### Implementation Requirements:
+
+1. **UTC Conversion**: All news sources must convert their local publication times to UTC before generating RSS feeds
+2. **Format Standard**: Use RFC 2822 format with `+0000` timezone indicator (e.g., `Sat, 12 Jul 2025 14:37:00 +0000`)
+3. **Source-Specific Handling**: Each news source must handle timezone conversion appropriately:
+   - **Taiwan sources** (e.g., SETN): Convert from Taiwan time (UTC+8) to UTC
+   - **US sources**: Convert from respective local timezones to UTC  
+   - **European sources**: Convert from respective local timezones to UTC
+   - **API sources**: Verify timezone information and convert if necessary
+
+### Technical Implementation:
+
+- Use JavaScript `Date` constructor with proper timezone offset (e.g., `new Date('2025-07-12T22:37:00+08:00')`)
+- Leverage `toUTCString()` method for automatic UTC conversion
+- Replace `GMT` with `+0000` in RSS date formatting for standard compliance
+- Prioritize reliable time sources (e.g., `<time>` elements over potentially incorrect meta tags)
+
+### Benefits:
+
+- **External API Compatibility**: Consistent timezone format enables seamless integration with third-party systems
+- **Cross-Platform Reliability**: Eliminates timezone confusion for RSS feed consumers
+- **Data Consistency**: Ensures all news items have comparable timestamps regardless of source origin
+- **International Usability**: Makes feeds usable across different geographic regions without timezone conversion overhead
+
 ## Adding New Sources
 
 1. Create new source class extending `NewsSource`
-2. Implement `scrapeCategory()` method
+2. Implement `scrapeCategory()` method with proper UTC timezone conversion
 3. Add source configuration to `src/config/sources.json`
 4. Update factory method in `NewsAggregator.createSource()`
+5. **MANDATORY**: Ensure all publication dates are converted to UTC format before returning NewsItem objects
 
 ## RSS Feed URLs
 
