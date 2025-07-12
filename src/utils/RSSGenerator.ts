@@ -73,19 +73,29 @@ ${rssItems}
     category?: NewsCategory,
     baseUrl: string = 'https://damon1002.github.io/news-scraper'
   ): FeedMetadata {
-    const categoryName = category ? 
-      category.charAt(0).toUpperCase() + category.slice(1) : 'All';
-    
-    const categoryDescription = category ? 
-      `${categoryName} news` : 'Latest news from multiple sources';
+    let categoryName: string;
+    let categoryDescription: string;
+    let language = 'en-US';
+
+    if (category === 'entertainment') {
+      categoryName = '娱乐星闻';
+      categoryDescription = '来自三立新闻网的最新娱乐星闻';
+      language = 'zh-TW';
+    } else if (category) {
+      categoryName = category.charAt(0).toUpperCase() + category.slice(1);
+      categoryDescription = `${categoryName} news`;
+    } else {
+      categoryName = 'All';
+      categoryDescription = 'Latest news from multiple sources';
+    }
 
     return {
-      title: `News Feed - ${categoryName}`,
-      description: `Automated ${categoryDescription} aggregated from various sources`,
+      title: category === 'entertainment' ? categoryName : `News Feed - ${categoryName}`,
+      description: category === 'entertainment' ? categoryDescription : `Automated ${categoryDescription} aggregated from various sources`,
       link: category ? 
         `${baseUrl}/feeds/${category}.xml` : 
         `${baseUrl}/feeds/master.xml`,
-      language: 'en-US',
+      language,
       category,
       lastBuildDate: new Date(),
       ttl: 60
@@ -94,8 +104,13 @@ ${rssItems}
 
   public generateFeedIndex(categories: NewsCategory[]): string {
     const feedLinks = categories.map(category => {
-      const categoryName = category.charAt(0).toUpperCase() + category.slice(1);
-      return `    <li><a href="feeds/${category}.xml">${categoryName} News</a></li>`;
+      let categoryName: string;
+      if (category === 'entertainment') {
+        categoryName = '🎬 娱乐星闻 (SETN)';
+      } else {
+        categoryName = category.charAt(0).toUpperCase() + category.slice(1) + ' News';
+      }
+      return `    <li><a href="feeds/${category}.xml">${categoryName}</a></li>`;
     }).join('\n');
 
     return `<!DOCTYPE html>
