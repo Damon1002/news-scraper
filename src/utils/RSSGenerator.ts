@@ -135,7 +135,7 @@ ${feedLinks}
     </div>
     
     <footer style="margin-top: 30px; text-align: center; color: #666;">
-        <p>Powered by <a href="https://github.com/Damon1002/google-news-scraper">Multi-Source News Scraper</a></p>
+        <p>Powered by <a href="https://github.com/Damon1002/news-scraper">Multi-Source News Scraper</a></p>
     </footer>
 </body>
 </html>`;

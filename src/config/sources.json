@@ -75,6 +75,6 @@
     "defaultUpdateFrequency": 60,
     "enabledCategories": ["general", "technology", "business", "world", "science", "health"],
     "outputDirectory": "docs/feeds",
-    "baseUrl": "https://damon1002.github.io/google-news-scraper"
+    "baseUrl": "https://damon1002.github.io/news-scraper"
   }
 }
