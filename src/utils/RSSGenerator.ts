@@ -133,19 +133,10 @@ ${rssItems}
   }
 
   public generateFeedIndex(categories: NewsCategory[]): string {
-    const feedLinks = categories.map(category => {
-      let categoryName: string;
-      let feedUrl: string;
-      
-      if (category === 'entertainment') {
-        categoryName = '🎬 娱乐星闻 (SETN)';
-        feedUrl = 'feeds/entertainment/setn-entertainment.xml';
-      } else {
-        categoryName = category.charAt(0).toUpperCase() + category.slice(1) + ' News';
-        feedUrl = `feeds/${category}.xml`;
-      }
-      return `    <li><a href="${feedUrl}">${categoryName}</a></li>`;
-    }).join('\n');
+    // Only show feeds that actually exist and work
+    const feedLinks = [
+      '    <li><a href="feeds/entertainment/setn-entertainment.xml">🎬 娱乐星闻 (SETN)</a></li>'
+    ].join('\n');
 
     return `<!DOCTYPE html>
 <html lang="en">
