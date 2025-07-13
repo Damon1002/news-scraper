@@ -136,7 +136,8 @@ ${rssItems}
   public generateFeedIndex(categories: NewsCategory[]): string {
     // Only show feeds that actually exist and work
     const feedLinks = [
-      '    <li><a href="feeds/entertainment/setn-entertainment.xml">🎬 娱乐星闻 (SETN)</a></li>'
+      '    <li><a href="feeds/entertainment/setn-entertainment.xml">🎬 娱乐星闻 (SETN)</a></li>',
+      '    <li><a href="feeds/entertainment/tvbs-entertainment.xml">📺 TVBS 娱乐新闻</a></li>'
     ].join('\n');
 
     return `<!DOCTYPE html>

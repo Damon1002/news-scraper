@@ -87,6 +87,25 @@
           "updateFrequency": 2
         }
       ]
+    },
+    {
+      "id": "tvbs-entertainment",
+      "name": "TVBS Entertainment",
+      "type": "scraper",
+      "baseUrl": "https://news.tvbs.com.tw",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/realtime/entertainment",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
     }
   ],
   "global": {
