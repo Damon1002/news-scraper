@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/business/reddit.xml</link>
     <description>Latest business news from Reddit</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Jul 2025 12:09:10 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 12:09:10 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 15:22:11 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 15:22:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>business</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/business/reddit.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>New Law Makes It Harder for Florida&apos;s Highly Paid Workers to Swap Jobs</title>
+      <link>https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7</link>
+      <description>17 upvotes 1 comments from r/business</description>
+      <pubDate>Sun, 13 Jul 2025 14:24:10 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7</guid>
+      <category>business</category>
+      <category>reddit</category>
+
+    </item>
+    <item>
       <title>Google hires Windsurf CEO Varun Mohan, others in $2.4 billion AI talent deal</title>
       <link>https://www.cnbc.com/2025/07/11/google-windsurf-ceo-varun-mohan-latest-ai-talent-deal-.html</link>
-      <description>70 upvotes 2 comments from r/business</description>
+      <description>104 upvotes 4 comments from r/business</description>
       <pubDate>Sat, 12 Jul 2025 20:44:32 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.cnbc.com/2025/07/11/google-windsurf-ceo-varun-mohan-latest-ai-talent-deal-.html</guid>
@@ -25,20 +36,9 @@
 
     </item>
     <item>
-      <title>What is the the most WTF  &apos;expense report&apos; story at your company?</title>
-      <link>https://reddit.com/r/business/comments/1lxij30/what_is_the_the_most_wtf_expense_report_story_at/</link>
-      <description>83 upvotes 89 comments from r/business</description>
-      <pubDate>Fri, 11 Jul 2025 21:11:14 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://reddit.com/r/business/comments/1lxij30/what_is_the_the_most_wtf_expense_report_story_at/</guid>
-      <category>business</category>
-      <category>reddit</category>
-
-    </item>
-    <item>
       <title>Nvidia&apos;s Jensen Huang sells more than $36 million in stock, catches Warren Buffett in net worth</title>
       <link>https://www.cnbc.com/2025/07/11/nvidia-stock-jensen-huang-stock-buffett.html</link>
-      <description>425 upvotes 61 comments from r/business</description>
+      <description>441 upvotes 62 comments from r/business</description>
       <pubDate>Fri, 11 Jul 2025 18:37:23 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.cnbc.com/2025/07/11/nvidia-stock-jensen-huang-stock-buffett.html</guid>

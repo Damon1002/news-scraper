@@ -9,6 +9,7 @@ import { HackerNewsSource } from './sources/HackerNewsSource.js';
 import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
 import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSource.js';
+import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -67,6 +68,9 @@ export class NewsAggregator {
         }
         if (config.id === 'nextapple-entertainment') {
           return new NextAppleEntertainmentSource(config);
+        }
+        if (config.id === 'dailymail-tvshowbiz') {
+          return new DailyMailTVShowbizSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
