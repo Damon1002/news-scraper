@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Jul 2025 17:29:57 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 17:29:57 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 17:42:25 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 17:42:25 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +16,7 @@
     <item>
       <title>How does a screen even work?</title>
       <link>https://www.makingsoftware.com/chapters/how-a-screen-works</link>
-      <description>80 points 19 comments by chkhd on Hacker News</description>
+      <description>94 points 25 comments by chkhd on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 14:09:06 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.makingsoftware.com/chapters/how-a-screen-works</guid>
@@ -27,7 +27,7 @@
     <item>
       <title>Local Chatbot RAG with FreeBSD Knowledge</title>
       <link>https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/</link>
-      <description>19 points 1 comments by todsacerdoti on Hacker News</description>
+      <description>21 points 1 comments by todsacerdoti on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 13:48:49 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/</guid>
@@ -38,7 +38,7 @@
     <item>
       <title>The Decipherment of the Dhofari Script</title>
       <link>https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered</link>
-      <description>36 points 13 comments by pseudolus on Hacker News</description>
+      <description>40 points 13 comments by pseudolus on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 10:25:18 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered</guid>
@@ -49,7 +49,7 @@
     <item>
       <title>Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI</title>
       <link>https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b</link>
-      <description>49 points 11 comments by muthuishere on Hacker News</description>
+      <description>51 points 12 comments by muthuishere on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 09:44:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b</guid>
@@ -60,7 +60,7 @@
     <item>
       <title>Reading Neuromancer for the first time in 2025</title>
       <link>https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</link>
-      <description>251 points 234 comments by keiferski on Hacker News</description>
+      <description>256 points 239 comments by keiferski on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 07:48:44 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>Zig&apos;s New Async I/O</title>
       <link>https://kristoff.it/blog/zig-new-async-io/</link>
-      <description>294 points 226 comments by afirium on Hacker News</description>
+      <description>297 points 230 comments by afirium on Hacker News</description>
       <pubDate>Sat, 12 Jul 2025 23:03:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://kristoff.it/blog/zig-new-async-io/</guid>
@@ -82,7 +82,7 @@
     <item>
       <title>Bypassing Google&apos;s big anti-adblock update</title>
       <link>https://0x44.xyz/blog/web-request-blocking/</link>
-      <description>886 points 744 comments by deryilz on Hacker News</description>
+      <description>889 points 748 comments by deryilz on Hacker News</description>
       <pubDate>Sat, 12 Jul 2025 19:06:09 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://0x44.xyz/blog/web-request-blocking/</guid>
@@ -93,7 +93,7 @@
     <item>
       <title>Axon&apos;s Draft One AI Police Report Generator Is Designed to Defy Transparency</title>
       <link>https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency</link>
-      <description>126 points 65 comments by zdw on Hacker News</description>
+      <description>132 points 67 comments by zdw on Hacker News</description>
       <pubDate>Fri, 11 Jul 2025 00:21:16 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>Notes on Graham&apos;s ANSI Common Lisp (2024)</title>
       <link>https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html</link>
-      <description>63 points 22 comments by oumua_don17 on Hacker News</description>
+      <description>64 points 22 comments by oumua_don17 on Hacker News</description>
       <pubDate>Wed, 09 Jul 2025 23:32:53 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>The upcoming GPT-3 moment for RL</title>
       <link>https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/</link>
-      <description>116 points 43 comments by jxmorris12 on Hacker News</description>
+      <description>118 points 44 comments by jxmorris12 on Hacker News</description>
       <pubDate>Wed, 09 Jul 2025 16:59:30 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/</guid>
