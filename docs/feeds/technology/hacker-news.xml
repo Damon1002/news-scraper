@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Jul 2025 18:56:39 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 18:56:39 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 19:09:39 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 19:09:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +16,7 @@
     <item>
       <title>GLP-1s Are Breaking Life Insurance</title>
       <link>https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance</link>
-      <description>8 points 3 comments by alexslobodnik on Hacker News</description>
+      <description>27 points 10 comments by alexslobodnik on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 18:31:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance</guid>
@@ -25,9 +25,20 @@
 
     </item>
     <item>
+      <title>Hungary&apos;s oldest library fighting to save 100k books from a beetle infestation</title>
+      <link>https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539</link>
+      <description>17 points 5 comments by rntn on Hacker News</description>
+      <pubDate>Sun, 13 Jul 2025 18:24:53 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Most people who buy games on Steam never play them</title>
       <link>https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/</link>
-      <description>31 points 12 comments by 3Samourai on Hacker News</description>
+      <description>51 points 34 comments by 3Samourai on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 17:47:08 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>Does Showing Seconds in the System Tray Use More Power?</title>
       <link>https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power</link>
-      <description>62 points 49 comments by LorenDB on Hacker News</description>
+      <description>67 points 58 comments by LorenDB on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 17:18:20 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power</guid>
@@ -49,7 +60,7 @@
     <item>
       <title>A Technical Look at Iran&apos;s Internet Shutdowns</title>
       <link>https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown</link>
-      <description>21 points 1 comments by znano on Hacker News</description>
+      <description>27 points 2 comments by znano on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 16:45:02 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown</guid>
@@ -60,7 +71,7 @@
     <item>
       <title>How does a screen even work?</title>
       <link>https://www.makingsoftware.com/chapters/how-a-screen-works</link>
-      <description>170 points 43 comments by chkhd on Hacker News</description>
+      <description>174 points 45 comments by chkhd on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 14:09:06 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.makingsoftware.com/chapters/how-a-screen-works</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>Reading Neuromancer for the first time in 2025</title>
       <link>https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</link>
-      <description>288 points 263 comments by keiferski on Hacker News</description>
+      <description>293 points 265 comments by keiferski on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 07:48:44 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</guid>
@@ -91,20 +102,9 @@
 
     </item>
     <item>
-      <title>Bypassing Google&apos;s big anti-adblock update</title>
-      <link>https://0x44.xyz/blog/web-request-blocking/</link>
-      <description>914 points 781 comments by deryilz on Hacker News</description>
-      <pubDate>Sat, 12 Jul 2025 19:06:09 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://0x44.xyz/blog/web-request-blocking/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Axon&apos;s Draft One AI Police Report Generator Is Designed to Defy Transparency</title>
       <link>https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency</link>
-      <description>152 points 95 comments by zdw on Hacker News</description>
+      <description>157 points 99 comments by zdw on Hacker News</description>
       <pubDate>Fri, 11 Jul 2025 00:21:16 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>The upcoming GPT-3 moment for RL</title>
       <link>https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/</link>
-      <description>133 points 48 comments by jxmorris12 on Hacker News</description>
+      <description>135 points 51 comments by jxmorris12 on Hacker News</description>
       <pubDate>Wed, 09 Jul 2025 16:59:30 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/</guid>
