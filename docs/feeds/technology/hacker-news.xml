@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Jul 2025 19:42:08 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 19:42:08 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 19:48:31 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 19:48:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>OpenICE: Open-Source US Immigration Detention Dashboard</title>
+      <link>https://www.openice.org/</link>
+      <description>6 points by supermaxman on Hacker News</description>
+      <pubDate>Sun, 13 Jul 2025 19:39:53 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.openice.org/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Amazon CEO says AI agents will soon reduce company&apos;s corporate workforce</title>
       <link>https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/</link>
-      <description>31 points 16 comments by djcollier on Hacker News</description>
+      <description>34 points 23 comments by djcollier on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 19:00:44 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.cbsnews.com/news/amazon-ceo-generative-ai-corporate-workforce/</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>GLP-1s Are Breaking Life Insurance</title>
       <link>https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance</link>
-      <description>85 points 71 comments by alexslobodnik on Hacker News</description>
+      <description>95 points 93 comments by alexslobodnik on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 18:31:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>&apos;Europe Must Ban American Big Tech and Create a European Silicon Valley&apos;</title>
       <link>https://www.tilburguniversity.edu/magazine/overview/europe-must-ban-american-big-tech-and-create-a-european-silicon-valley</link>
-      <description>30 points 22 comments by taubek on Hacker News</description>
+      <description>41 points 35 comments by taubek on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 18:28:14 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.tilburguniversity.edu/magazine/overview/europe-must-ban-american-big-tech-and-create-a-european-silicon-valley</guid>
@@ -49,7 +60,7 @@
     <item>
       <title>Hungary&apos;s oldest library fighting to save 100k books from a beetle infestation</title>
       <link>https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539</link>
-      <description>23 points 8 comments by rntn on Hacker News</description>
+      <description>25 points 10 comments by rntn on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 18:24:53 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539</guid>
@@ -60,7 +71,7 @@
     <item>
       <title>Most people who buy games on Steam never play them</title>
       <link>https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/</link>
-      <description>84 points 71 comments by 3Samourai on Hacker News</description>
+      <description>86 points 75 comments by 3Samourai on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 17:47:08 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/</guid>
@@ -71,7 +82,7 @@
     <item>
       <title>A Technical Look at Iran&apos;s Internet Shutdowns</title>
       <link>https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown</link>
-      <description>35 points 8 comments by znano on Hacker News</description>
+      <description>37 points 10 comments by znano on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 16:45:02 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>How does a screen even work?</title>
       <link>https://www.makingsoftware.com/chapters/how-a-screen-works</link>
-      <description>181 points 49 comments by chkhd on Hacker News</description>
+      <description>186 points 49 comments by chkhd on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 14:09:06 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.makingsoftware.com/chapters/how-a-screen-works</guid>
@@ -93,7 +104,7 @@
     <item>
       <title>Reading Neuromancer for the first time in 2025</title>
       <link>https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</link>
-      <description>302 points 269 comments by keiferski on Hacker News</description>
+      <description>302 points 270 comments by keiferski on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 07:48:44 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</guid>
@@ -104,21 +115,10 @@
     <item>
       <title>Axon&apos;s Draft One AI Police Report Generator Is Designed to Defy Transparency</title>
       <link>https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency</link>
-      <description>160 points 103 comments by zdw on Hacker News</description>
+      <description>162 points 104 comments by zdw on Hacker News</description>
       <pubDate>Fri, 11 Jul 2025 00:21:16 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>The upcoming GPT-3 moment for RL</title>
-      <link>https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/</link>
-      <description>137 points 54 comments by jxmorris12 on Hacker News</description>
-      <pubDate>Wed, 09 Jul 2025 16:59:30 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/</guid>
       <category>technology</category>
       <category>hacker news</category>
 
