@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Jul 2025 22:34:42 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 22:34:42 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 22:47:43 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 22:47:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Let&apos;s Learn x86-64 Assembly Part 0 – Setup and First Steps</title>
+      <link>https://gpfault.net/posts/asm-tut-0.txt.html</link>
+      <description>10 points 3 comments by 90s_dev on Hacker News</description>
+      <pubDate>Sun, 13 Jul 2025 22:22:15 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://gpfault.net/posts/asm-tut-0.txt.html</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Traditional Chinese Medicine Has Not Been Vindicated by Science</title>
       <link>https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science</link>
-      <description>23 points 1 comments by mgh2 on Hacker News</description>
+      <description>27 points 3 comments by mgh2 on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 21:35:32 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>OpenCut: The open-source CapCut alternative</title>
       <link>https://github.com/OpenCut-app/OpenCut</link>
-      <description>85 points 19 comments by nateb2022 on Hacker News</description>
+      <description>97 points 24 comments by nateb2022 on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 21:08:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>APKLab: Android Reverse-Engineering Workbench for VS Code</title>
       <link>https://github.com/APKLab/APKLab</link>
-      <description>24 points by nateb2022 on Hacker News</description>
+      <description>27 points by nateb2022 on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 21:08:14 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/APKLab/APKLab</guid>
@@ -47,20 +58,9 @@
 
     </item>
     <item>
-      <title>Are a few people ruining the internet for the rest of us?</title>
-      <link>https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us</link>
-      <description>55 points 43 comments by pseudolus on Hacker News</description>
-      <pubDate>Sun, 13 Jul 2025 20:44:32 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2025/jul/13/are-a-few-people-ruining-the-internet-for-the-rest-of-us</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Five companies now control over 90% of the restaurant food delivery market</title>
       <link>https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90</link>
-      <description>96 points 75 comments by goinggetthem on Hacker News</description>
+      <description>99 points 87 comments by goinggetthem on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 20:23:37 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>A technical look at Iran&apos;s internet shutdowns</title>
       <link>https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown</link>
-      <description>82 points 33 comments by znano on Hacker News</description>
+      <description>85 points 37 comments by znano on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 16:45:02 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown</guid>
@@ -82,7 +82,7 @@
     <item>
       <title>How does a screen work?</title>
       <link>https://www.makingsoftware.com/chapters/how-a-screen-works</link>
-      <description>282 points 60 comments by chkhd on Hacker News</description>
+      <description>284 points 61 comments by chkhd on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 14:09:06 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.makingsoftware.com/chapters/how-a-screen-works</guid>
@@ -93,7 +93,7 @@
     <item>
       <title>The North Korean fake IT worker problem is ubiquitous</title>
       <link>https://www.theregister.com/2025/07/13/fake_it_worker_problem/</link>
-      <description>123 points 116 comments by rntn on Hacker News</description>
+      <description>126 points 121 comments by rntn on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 12:06:34 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.theregister.com/2025/07/13/fake_it_worker_problem/</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>Reading Neuromancer for the first time in 2025</title>
       <link>https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</link>
-      <description>350 points 305 comments by keiferski on Hacker News</description>
+      <description>352 points 306 comments by keiferski on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 07:48:44 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>The underground cathedral protecting Tokyo from floods</title>
       <link>https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods</link>
-      <description>6 points 2 comments by barry-cotter on Hacker News</description>
+      <description>8 points 3 comments by barry-cotter on Hacker News</description>
       <pubDate>Thu, 10 Jul 2025 10:30:42 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods</guid>
