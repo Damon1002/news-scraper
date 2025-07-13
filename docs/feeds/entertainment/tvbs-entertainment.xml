@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/entertainment/tvbs-entertainment.xml</link>
     <description>来自TVBS Entertainment的最新娱乐星闻</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 13 Jul 2025 21:33:00 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 21:33:00 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jul 2025 21:43:59 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 21:43:59 +0000</pubDate>
     <ttl>60</ttl>
     <category>entertainment</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/entertainment/tvbs-entertainment.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>陳偉霆成「房產富翁」擁破億身價！ 曾愛蔡卓妍陷憂鬱</title>
+      <link>https://news.tvbs.com.tw/entertainment/2930318</link>
+      <description>陳偉霆成「房產富翁」擁破億身價！ 曾愛蔡卓妍陷憂鬱...</description>
+      <pubDate>Sun, 13 Jul 2025 21:43:59 +0000</pubDate>
+      <source>TVBS Entertainment</source>
+      <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2930318</guid>
+      <category>entertainment</category>
+      <category>tvbs entertainment</category>
+      <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
+    </item>
     <item>
       <title>Joeman減肥成果驚人！ 靠「這2招」從體重破百變帥型男</title>
       <link>https://news.tvbs.com.tw/entertainment/2930278</link>
@@ -251,17 +262,6 @@
       <pubDate>Sun, 13 Jul 2025 05:43:00 +0000</pubDate>
       <source>TVBS Entertainment</source>
       <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2930441</guid>
-      <category>entertainment</category>
-      <category>tvbs entertainment</category>
-      <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>陳偉霆成「房產富翁」擁破億身價！ 曾愛蔡卓妍陷憂鬱</title>
-      <link>https://news.tvbs.com.tw/entertainment/2930318</link>
-      <description>陳偉霆成「房產富翁」擁破億身價！ 曾愛蔡卓妍陷憂鬱...</description>
-      <pubDate>Sun, 13 Jul 2025 05:29:00 +0000</pubDate>
-      <source>TVBS Entertainment</source>
-      <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2930318</guid>
       <category>entertainment</category>
       <category>tvbs entertainment</category>
       <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
