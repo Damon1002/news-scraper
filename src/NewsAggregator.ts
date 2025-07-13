@@ -8,6 +8,7 @@ import { RedditSource } from './sources/RedditSource.js';
 import { HackerNewsSource } from './sources/HackerNewsSource.js';
 import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
+import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -63,6 +64,9 @@ export class NewsAggregator {
         }
         if (config.id === 'tvbs-entertainment') {
           return new TVBSEntertainmentSource(config);
+        }
+        if (config.id === 'nextapple-entertainment') {
+          return new NextAppleEntertainmentSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       

@@ -106,6 +106,25 @@
           "updateFrequency": 2
         }
       ]
+    },
+    {
+      "id": "nextapple-entertainment",
+      "name": "壹苹新闻网",
+      "type": "scraper",
+      "baseUrl": "https://tw.nextapple.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/realtime/entertainment",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
     }
   ],
   "global": {
