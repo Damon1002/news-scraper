@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/entertainment/tvbs-entertainment.xml</link>
     <description>来自TVBS Entertainment的最新娱乐星闻</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Jul 2025 11:29:44 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Jul 2025 11:29:44 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:41:27 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 11:41:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>entertainment</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/entertainment/tvbs-entertainment.xml" rel="self" type="application/rss+xml"/>
@@ -44,7 +44,7 @@
       <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2931560</guid>
       <category>entertainment</category>
       <category>tvbs entertainment</category>
-      <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
+
     </item>
     <item>
       <title>周杰倫世紀合體GD！「私下互動」曝光 在豪宅舉杯溝通</title>
@@ -133,17 +133,6 @@
       <category>entertainment</category>
       <category>tvbs entertainment</category>
       <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>專訪／韓團DKB釣蝦場「拍快閃店寫真」超台！親解愛台灣感性關鍵點</title>
-      <link>https://news.tvbs.com.tw/entertainment/2931439</link>
-      <description>專訪／韓團DKB釣蝦場「拍快閃店寫真」超台！親解愛台灣感性關鍵點...</description>
-      <pubDate>Mon, 14 Jul 2025 09:46:00 +0000</pubDate>
-      <source>TVBS Entertainment</source>
-      <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2931439</guid>
-      <category>entertainment</category>
-      <category>tvbs entertainment</category>
-
     </item>
     <item>
       <title>鄭運鵬帥兒「德德」回歸！新造型雀斑妝被讚翻：盛世美顏</title>
@@ -339,6 +328,17 @@
       <pubDate>Mon, 14 Jul 2025 05:58:00 +0000</pubDate>
       <source>TVBS Entertainment</source>
       <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2931146</guid>
+      <category>entertainment</category>
+      <category>tvbs entertainment</category>
+      <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>影帝萬洛隆甘迦「台上找翻譯」爆紅 超愛台灣狂逛魚市場、夜衝基隆</title>
+      <link>https://news.tvbs.com.tw/entertainment/2931098</link>
+      <description>影帝萬洛隆甘迦「台上找翻譯」爆紅 超愛台灣狂逛魚市場、夜衝基隆...</description>
+      <pubDate>Mon, 14 Jul 2025 04:47:00 +0000</pubDate>
+      <source>TVBS Entertainment</source>
+      <guid isPermaLink="true">https://news.tvbs.com.tw/entertainment/2931098</guid>
       <category>entertainment</category>
       <category>tvbs entertainment</category>
       <enclosure url="https://cc.tvbs.com.tw/img/upload/2017/11/09/20171109193947-11b8e8d3.png" type="image/jpeg"/>
