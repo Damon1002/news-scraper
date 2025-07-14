@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Jul 2025 21:58:25 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Jul 2025 21:58:25 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Jul 2025 22:18:22 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Jul 2025 22:18:22 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>PHP License Update</title>
+      <link>https://wiki.php.net/rfc/php_license_update</link>
+      <description>34 points 3 comments by josephwegner on Hacker News</description>
+      <pubDate>Mon, 14 Jul 2025 21:37:27 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://wiki.php.net/rfc/php_license_update</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department</title>
       <link>https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html</link>
-      <description>39 points 2 comments by ChrisArchitect on Hacker News</description>
+      <description>53 points 15 comments by ChrisArchitect on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 21:16:19 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>LIGO detects most massive black hole merger to date</title>
       <link>https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date</link>
-      <description>77 points 40 comments by Eduard on Hacker News</description>
+      <description>93 points 48 comments by Eduard on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 20:06:51 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>NeuralOS: An operating system powered by neural networks</title>
       <link>https://neural-os.com/</link>
-      <description>35 points 8 comments by yuntian on Hacker News</description>
+      <description>42 points 11 comments by yuntian on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 19:54:26 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://neural-os.com/</guid>
@@ -47,12 +58,12 @@
 
     </item>
     <item>
-      <title>Cidco MailStation as a Z80 Development Platform (2019)</title>
-      <link>https://jcs.org/2019/05/03/mailstation</link>
-      <description>29 points 2 comments by robin_reala on Hacker News</description>
-      <pubDate>Mon, 14 Jul 2025 18:11:25 +0000</pubDate>
+      <title>Context Rot: How increasing input tokens impacts LLM performance</title>
+      <link>https://research.trychroma.com/context-rot</link>
+      <description>23 points 1 comments by kellyhongsn on Hacker News</description>
+      <pubDate>Mon, 14 Jul 2025 19:25:15 +0000</pubDate>
       <source>Hacker News</source>
-      <guid isPermaLink="true">https://jcs.org/2019/05/03/mailstation</guid>
+      <guid isPermaLink="true">https://research.trychroma.com/context-rot</guid>
       <category>technology</category>
       <category>hacker news</category>
 
@@ -60,7 +71,7 @@
     <item>
       <title>Cognition (Devin AI) to Acquire Windsurf</title>
       <link>https://cognition.ai/blog/windsurf</link>
-      <description>295 points 232 comments by alazsengul on Hacker News</description>
+      <description>300 points 241 comments by alazsengul on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 18:07:15 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://cognition.ai/blog/windsurf</guid>
@@ -71,7 +82,7 @@
     <item>
       <title>Embedding user-defined indexes in Apache Parquet</title>
       <link>https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/</link>
-      <description>68 points 8 comments by jasim on Hacker News</description>
+      <description>72 points 9 comments by jasim on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 16:29:02 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>Building Modular Rails Applications: A Deep Dive into Rails Engines</title>
       <link>https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/</link>
-      <description>108 points 24 comments by giovapanasiti on Hacker News</description>
+      <description>108 points 25 comments by giovapanasiti on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 15:30:31 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/</guid>
@@ -91,20 +102,9 @@
 
     </item>
     <item>
-      <title>Strategies for Fast Lexers</title>
-      <link>https://xnacly.me/posts/2025/fast-lexer-strategies/</link>
-      <description>110 points 41 comments by xnacly on Hacker News</description>
-      <pubDate>Mon, 14 Jul 2025 14:42:54 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://xnacly.me/posts/2025/fast-lexer-strategies/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Kiro: A new agentic IDE</title>
       <link>https://kiro.dev/blog/introducing-kiro/</link>
-      <description>587 points 256 comments by QuinnyPig on Hacker News</description>
+      <description>595 points 262 comments by QuinnyPig on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 14:24:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://kiro.dev/blog/introducing-kiro/</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>Replicube: 3D shader puzzle game, online demo</title>
       <link>https://replicube.xyz/staging/</link>
-      <description>50 points 9 comments by inktype on Hacker News</description>
+      <description>52 points 9 comments by inktype on Hacker News</description>
       <pubDate>Fri, 11 Jul 2025 18:00:01 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://replicube.xyz/staging/</guid>
