@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Jul 2025 00:02:28 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Jul 2025 00:02:28 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 02:07:10 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 02:07:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Protecting My Attention at the Dopamine Carnival</title>
+      <link>https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival</link>
+      <description>12 points 3 comments by overload119 on Hacker News</description>
+      <pubDate>Tue, 15 Jul 2025 00:34:40 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>DEWLine Museum – The Distant Early Warning Radar Line</title>
       <link>https://dewlinemuseum.com/</link>
-      <description>19 points 1 comments by reaperducer on Hacker News</description>
+      <description>31 points 5 comments by reaperducer on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 22:28:08 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://dewlinemuseum.com/</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>Apple&apos;s MLX adding CUDA support</title>
       <link>https://github.com/ml-explore/mlx/pull/1983</link>
-      <description>86 points 36 comments by nsagent on Hacker News</description>
+      <description>166 points 66 comments by nsagent on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 21:40:30 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/ml-explore/mlx/pull/1983</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>RFC: PHP license update</title>
       <link>https://wiki.php.net/rfc/php_license_update</link>
-      <description>103 points 27 comments by josephwegner on Hacker News</description>
+      <description>137 points 32 comments by josephwegner on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 21:37:27 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://wiki.php.net/rfc/php_license_update</guid>
@@ -47,9 +58,20 @@
 
     </item>
     <item>
+      <title>Dog Walk: Blender Studio&apos;s official game project</title>
+      <link>https://blenderstudio.itch.io/dogwalk</link>
+      <description>68 points 9 comments by doener on Hacker News</description>
+      <pubDate>Mon, 14 Jul 2025 21:33:16 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://blenderstudio.itch.io/dogwalk</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>LIGO detects most massive black hole merger to date</title>
       <link>https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date</link>
-      <description>146 points 66 comments by Eduard on Hacker News</description>
+      <description>180 points 85 comments by Eduard on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 20:06:51 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date</guid>
@@ -60,7 +82,7 @@
     <item>
       <title>NeuralOS: An operating system powered by neural networks</title>
       <link>https://neural-os.com/</link>
-      <description>68 points 21 comments by yuntian on Hacker News</description>
+      <description>89 points 26 comments by yuntian on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 19:54:26 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://neural-os.com/</guid>
@@ -71,7 +93,7 @@
     <item>
       <title>Context Rot: How increasing input tokens impacts LLM performance</title>
       <link>https://research.trychroma.com/context-rot</link>
-      <description>58 points 10 comments by kellyhongsn on Hacker News</description>
+      <description>94 points 15 comments by kellyhongsn on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 19:25:15 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://research.trychroma.com/context-rot</guid>
@@ -80,20 +102,9 @@
 
     </item>
     <item>
-      <title>Cognition (Devin AI) to Acquire Windsurf</title>
-      <link>https://cognition.ai/blog/windsurf</link>
-      <description>330 points 262 comments by alazsengul on Hacker News</description>
-      <pubDate>Mon, 14 Jul 2025 18:07:15 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://cognition.ai/blog/windsurf</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Kiro: A new agentic IDE</title>
       <link>https://kiro.dev/blog/introducing-kiro/</link>
-      <description>650 points 283 comments by QuinnyPig on Hacker News</description>
+      <description>689 points 312 comments by QuinnyPig on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 14:24:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://kiro.dev/blog/introducing-kiro/</guid>
@@ -102,23 +113,12 @@
 
     </item>
     <item>
-      <title>Replicube: 3D shader puzzle game, online demo</title>
-      <link>https://replicube.xyz/staging/</link>
-      <description>74 points 15 comments by inktype on Hacker News</description>
-      <pubDate>Fri, 11 Jul 2025 18:00:01 +0000</pubDate>
+      <title>I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor</title>
+      <link>https://thewalrus.ca/empress-of-ireland-survivor-mystery/</link>
+      <description>20 points 5 comments by Thevet on Hacker News</description>
+      <pubDate>Sat, 12 Jul 2025 22:24:57 +0000</pubDate>
       <source>Hacker News</source>
-      <guid isPermaLink="true">https://replicube.xyz/staging/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>SQLite async connection pool for high-performance</title>
-      <link>https://github.com/slaily/aiosqlitepool</link>
-      <description>40 points 20 comments by slaily on Hacker News</description>
-      <pubDate>Fri, 11 Jul 2025 10:26:32 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://github.com/slaily/aiosqlitepool</guid>
+      <guid isPermaLink="true">https://thewalrus.ca/empress-of-ireland-survivor-mystery/</guid>
       <category>technology</category>
       <category>hacker news</category>
 
