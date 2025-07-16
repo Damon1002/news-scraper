@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Jul 2025 15:59:00 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Jul 2025 15:59:00 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 16:27:09 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 16:27:09 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,20 +14,9 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>The Italian towns selling houses for €1</title>
-      <link>https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1</link>
-      <description>19 points 10 comments by lazydogbrownfox on Hacker News</description>
-      <pubDate>Wed, 16 Jul 2025 15:50:06 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Altermagnets: The first new type of magnet in nearly a century</title>
       <link>https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/</link>
-      <description>28 points 4 comments by Brajeshwar on Hacker News - Related: https:&amp;#x2F;&amp;#x2F;phys.org&amp;#x2F;news&amp;#x2F;2024-02-altermagnetism-magnetism-broad..., https:&amp;#x2F;&amp;#x2F;www.ictp.it&amp;#x2F;news&amp;#x2F;2025&amp;#x2F;1...</description>
+      <description>35 points 11 comments by Brajeshwar on Hacker News - Related: https:&amp;#x2F;&amp;#x2F;phys.org&amp;#x2F;news&amp;#x2F;2024-02-altermagnetism-magnetism-broad..., https:&amp;#x2F;&amp;#x2F;www.ictp.it&amp;#x2F;news&amp;#x2F;2025&amp;#x2F;1...</description>
       <pubDate>Wed, 16 Jul 2025 15:11:54 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/</guid>
@@ -38,7 +27,7 @@
     <item>
       <title>Chain of thought monitorability: A new and fragile opportunity for AI safety</title>
       <link>https://arxiv.org/abs/2507.11473</link>
-      <description>9 points by mfiguiere on Hacker News - Related: https:&amp;#x2F;&amp;#x2F;venturebeat.com&amp;#x2F;ai&amp;#x2F;openai-google-deepmind-and-anthro......</description>
+      <description>20 points by mfiguiere on Hacker News - Related: https:&amp;#x2F;&amp;#x2F;venturebeat.com&amp;#x2F;ai&amp;#x2F;openai-google-deepmind-and-anthro......</description>
       <pubDate>Wed, 16 Jul 2025 14:39:55 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://arxiv.org/abs/2507.11473</guid>
@@ -49,7 +38,7 @@
     <item>
       <title>AWS open-sourced Postgres active-active replication extension</title>
       <link>https://github.com/aws/pgactive</link>
-      <description>123 points 27 comments by ForHackernews on Hacker News</description>
+      <description>144 points 31 comments by ForHackernews on Hacker News</description>
       <pubDate>Wed, 16 Jul 2025 09:15:28 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/aws/pgactive</guid>
@@ -58,9 +47,20 @@
 
     </item>
     <item>
+      <title>I&apos;m Switching to Python and Actually Liking It</title>
+      <link>https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html</link>
+      <description>126 points 177 comments by cesarsotovalero on Hacker News</description>
+      <pubDate>Wed, 16 Jul 2025 07:44:32 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Shipping WebGPU on Windows in Firefox 141</title>
       <link>https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/</link>
-      <description>233 points 82 comments by Bogdanp on Hacker News</description>
+      <description>242 points 91 comments by Bogdanp on Hacker News</description>
       <pubDate>Wed, 16 Jul 2025 06:32:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/</guid>
@@ -69,9 +69,20 @@
 
     </item>
     <item>
+      <title>Tilck: A Tiny Linux-Compatible Kernel</title>
+      <link>https://github.com/vvaltchev/tilck</link>
+      <description>221 points 39 comments by chubot on Hacker News</description>
+      <pubDate>Wed, 16 Jul 2025 03:50:00 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://github.com/vvaltchev/tilck</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Cloudflare 1.1.1.1 Incident on July 14, 2025</title>
       <link>https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/</link>
-      <description>404 points 254 comments by nomaxx117 on Hacker News</description>
+      <description>418 points 269 comments by nomaxx117 on Hacker News</description>
       <pubDate>Wed, 16 Jul 2025 03:44:39 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>Roman dodecahedron: 12-sided object has baffled archaeologists for centuries</title>
       <link>https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries</link>
-      <description>8 points 5 comments by bookofjoe on Hacker News</description>
+      <description>12 points 21 comments by bookofjoe on Hacker News</description>
       <pubDate>Mon, 14 Jul 2025 22:00:08 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries</guid>
@@ -93,7 +104,7 @@
     <item>
       <title>Thunderbird: Fluent Windows 11 Design</title>
       <link>https://github.com/Deathbyteacup/fluentbird</link>
-      <description>168 points 88 comments by skipnup on Hacker News</description>
+      <description>174 points 91 comments by skipnup on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 11:07:53 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/Deathbyteacup/fluentbird</guid>
@@ -102,20 +113,9 @@
 
     </item>
     <item>
-      <title>What&apos;s Happening to Reading?</title>
-      <link>https://www.newyorker.com/culture/open-questions/whats-happening-to-reading</link>
-      <description>25 points 32 comments by Kaibeezy on Hacker News</description>
-      <pubDate>Sun, 13 Jul 2025 10:16:48 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.newyorker.com/culture/open-questions/whats-happening-to-reading</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Pascal&apos;s Scams (2012)</title>
       <link>http://unenumerated.blogspot.com/2012/07/pascals-scams.html</link>
-      <description>39 points 28 comments by walterbell on Hacker News</description>
+      <description>40 points 30 comments by walterbell on Hacker News</description>
       <pubDate>Sat, 12 Jul 2025 17:41:06 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">http://unenumerated.blogspot.com/2012/07/pascals-scams.html</guid>
