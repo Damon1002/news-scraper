@@ -174,7 +174,20 @@ export class NewsAggregator {
   }
 
   private async generateSourceFeed(result: ScrapingResult, category: NewsCategory): Promise<void> {
-    const sourceId = result.source.toLowerCase().replace(/\s+/g, '-');
+    // Find the source ID from the configuration based on the source name
+    let sourceId = '';
+    for (const [id, source] of this.sources.entries()) {
+      if (source.getName() === result.source) {
+        sourceId = id;
+        break;
+      }
+    }
+    
+    // Fallback to sanitized source name if ID not found
+    if (!sourceId) {
+      sourceId = result.source.toLowerCase().replace(/\s+/g, '-');
+    }
+    
     const metadata = this.rssGenerator.createSourceFeedMetadata(result.source, category);
     const feedXML = this.rssGenerator.generateRSSFeed(result.items, metadata);
     
