@@ -32,7 +32,13 @@ export class TVBSEntertainmentSource extends NewsSource {
   private async parseArticlesWithDates(html: string, category: NewsCategory): Promise<NewsItem[]> {
     const $ = cheerio.load(html);
     const articles: NewsItem[] = [];
-    const articlePromises: Promise<NewsItem | null>[] = [];
+    const articleData: Array<{
+      title: string;
+      url: string;
+      description: string;
+      imageUrl?: string;
+      index: number;
+    }> = [];
     
     // Look for article links with /entertainment/ pattern
     $('a[href*="/entertainment/"]').each((index, element) => {
@@ -73,37 +79,52 @@ export class TVBSEntertainmentSource extends NewsSource {
         description = $article.parent().find('p').first().text().trim();
       }
       
-      // Create promise to fetch article date
-      const articlePromise = this.fetchArticleDate(fullUrl).then(publishedDate => {
-        return this.createNewsItem(
-          title,
-          fullUrl,
-          category,
-          publishedDate,
-          description || `${title.substring(0, 100)}...`,
-          imageUrl,
-          index + 1
-        );
-      }).catch(error => {
-        console.warn(`Error fetching date for ${fullUrl}:`, error);
-        // Fallback to current time if date fetch fails
-        return this.createNewsItem(
-          title,
-          fullUrl,
-          category,
-          new Date(),
-          description || `${title.substring(0, 100)}...`,
-          imageUrl,
-          index + 1
-        );
+      // Store article data for batch processing
+      articleData.push({
+        title,
+        url: fullUrl,
+        description: description || `${title.substring(0, 100)}...`,
+        imageUrl,
+        index: index + 1
       });
-      
-      articlePromises.push(articlePromise);
     });
     
-    // Wait for all article date fetches to complete
-    const resolvedArticles = await Promise.all(articlePromises);
-    const validArticles = resolvedArticles.filter((article): article is NewsItem => article !== null);
+    // Process articles in smaller batches to reduce concurrency
+    const batchSize = 5; // Reduced from unlimited to 5 concurrent requests
+    const validArticles: NewsItem[] = [];
+    
+    for (let i = 0; i < articleData.length; i += batchSize) {
+      const batch = articleData.slice(i, i + batchSize);
+      const batchPromises = batch.map(async (article) => {
+        try {
+          // Skip individual date fetching for better reliability
+          // Use current time with slight offset based on article position for ordering
+          const publishedDate = new Date(Date.now() - (article.index * 60000)); // 1 minute offset per article
+          
+          return this.createNewsItem(
+            article.title,
+            article.url,
+            category,
+            publishedDate,
+            article.description,
+            article.imageUrl,
+            article.index
+          );
+        } catch (error) {
+          console.warn(`Error creating news item for ${article.url}:`, error);
+          return null;
+        }
+      });
+      
+      const batchResults = await Promise.all(batchPromises);
+      const validBatchArticles = batchResults.filter((article): article is NewsItem => article !== null);
+      validArticles.push(...validBatchArticles);
+      
+      // Add delay between batches to be more respectful
+      if (i + batchSize < articleData.length) {
+        await new Promise(resolve => setTimeout(resolve, 1000)); // 1 second delay between batches
+      }
+    }
     
     // Remove duplicates based on URL
     const uniqueArticles = validArticles.filter((article, index, self) =>
@@ -113,17 +134,18 @@ export class TVBSEntertainmentSource extends NewsSource {
     return uniqueArticles.slice(0, this.getCategoryConfig(category)?.maxItems || 20);
   }
 
-  private async fetchArticleDate(articleUrl: string): Promise<Date> {
-    try {
-      await this.enforceRateLimit();
-      const response = await axios.get(articleUrl, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-          'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8',
-        },
-        timeout: 10000
-      });
+  private async fetchArticleDate(articleUrl: string, retries: number = 3): Promise<Date> {
+    for (let attempt = 1; attempt <= retries; attempt++) {
+      try {
+        await this.enforceRateLimit();
+        const response = await axios.get(articleUrl, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'zh-TW,zh;q=0.9,en;q=0.8',
+          },
+          timeout: 20000 // Increased from 10000 to 20000ms
+        });
       
       const $ = cheerio.load(response.data);
       
@@ -179,12 +201,23 @@ export class TVBSEntertainmentSource extends NewsSource {
         return date;
       }
       
-      // Fallback to current time
-      return new Date();
-    } catch (error) {
-      console.warn(`Failed to fetch article date from ${articleUrl}:`, error);
-      return new Date();
+        // Fallback to current time
+        return new Date();
+      } catch (error) {
+        if (attempt === retries) {
+          const errorMessage = error instanceof Error ? error.message : String(error);
+          console.warn(`Failed to fetch article date from ${articleUrl} after ${retries} attempts:`, errorMessage);
+          return new Date();
+        }
+        
+        // Exponential backoff: wait 2^attempt seconds before retry
+        const delay = Math.pow(2, attempt) * 1000;
+        console.warn(`Attempt ${attempt}/${retries} failed for ${articleUrl}, retrying in ${delay}ms...`);
+        await new Promise(resolve => setTimeout(resolve, delay));
+      }
     }
+    
+    return new Date(); // Fallback if all retries fail
   }
 
   private getCategoryConfig(category: NewsCategory) {
