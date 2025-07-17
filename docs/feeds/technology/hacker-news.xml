@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 17 Jul 2025 03:00:09 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Jul 2025 03:00:09 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 03:50:49 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 03:50:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +16,7 @@
     <item>
       <title>“Reading Rainbow” was created to combat summer reading slumps</title>
       <link>https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/</link>
-      <description>39 points 6 comments by arbesman on Hacker News</description>
+      <description>70 points 12 comments by arbesman on Hacker News</description>
       <pubDate>Thu, 17 Jul 2025 00:43:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/</guid>
@@ -27,7 +27,7 @@
     <item>
       <title>I was wrong about robots.txt</title>
       <link>https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/</link>
-      <description>17 points 8 comments by EPendragon on Hacker News</description>
+      <description>33 points 15 comments by EPendragon on Hacker News</description>
       <pubDate>Thu, 17 Jul 2025 00:35:57 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/</guid>
@@ -36,9 +36,20 @@
 
     </item>
     <item>
+      <title>Gaslight-driven development</title>
+      <link>https://tonsky.me/blog/gaslight-driven-development/</link>
+      <description>83 points 48 comments by theodorejb on Hacker News</description>
+      <pubDate>Thu, 17 Jul 2025 00:26:56 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://tonsky.me/blog/gaslight-driven-development/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Mistakes Microsoft made in the Xbox security system</title>
       <link>https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System</link>
-      <description>14 points 3 comments by davikr on Hacker News</description>
+      <description>30 points 6 comments by davikr on Hacker News</description>
       <pubDate>Thu, 17 Jul 2025 00:23:12 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://xboxdevwiki.net/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System</guid>
@@ -49,7 +60,7 @@
     <item>
       <title>I want an iPhone Mini-sized Android phone (2022)</title>
       <link>https://smallandroidphone.com/</link>
-      <description>126 points 169 comments by asimops on Hacker News</description>
+      <description>143 points 190 comments by asimops on Hacker News</description>
       <pubDate>Wed, 16 Jul 2025 21:01:09 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://smallandroidphone.com/</guid>
@@ -58,12 +69,12 @@
 
     </item>
     <item>
-      <title>Signs of autism could be encoded in the way you walk</title>
-      <link>https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk</link>
-      <description>97 points 90 comments by amichail on Hacker News</description>
-      <pubDate>Wed, 16 Jul 2025 18:43:35 +0000</pubDate>
+      <title>Intel&apos;s retreat is unlike anything it&apos;s done before in Oregon</title>
+      <link>https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html</link>
+      <description>93 points 141 comments by cbzbc on Hacker News</description>
+      <pubDate>Wed, 16 Jul 2025 19:08:39 +0000</pubDate>
       <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk</guid>
+      <guid isPermaLink="true">https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html</guid>
       <category>technology</category>
       <category>hacker news</category>
 
@@ -71,7 +82,7 @@
     <item>
       <title>Ex-Waymo engineers launch Bedrock Robotics to automate construction</title>
       <link>https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/</link>
-      <description>225 points 169 comments by boulos on Hacker News - Company announcement: https:&amp;#x2F;&amp;#x2F;bedrockrobotics.com&amp;#x2F;news&amp;#x2F;introducing-bedrock-robotic......</description>
+      <description>240 points 194 comments by boulos on Hacker News - Company announcement: https:&amp;#x2F;&amp;#x2F;bedrockrobotics.com&amp;#x2F;news&amp;#x2F;introducing-bedrock-robotic......</description>
       <pubDate>Wed, 16 Jul 2025 16:48:48 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>Altermagnets: The first new type of magnet in nearly a century</title>
       <link>https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/</link>
-      <description>292 points 70 comments by Brajeshwar on Hacker News - Related: https:&amp;#x2F;&amp;#x2F;phys.org&amp;#x2F;news&amp;#x2F;2024-02-altermagnetism-magnetism-broad..., https:&amp;#x2F;&amp;#x2F;www.ictp.it&amp;#x2F;news&amp;#x2F;2025&amp;#x2F;1...</description>
+      <description>299 points 70 comments by Brajeshwar on Hacker News - Related: https:&amp;#x2F;&amp;#x2F;phys.org&amp;#x2F;news&amp;#x2F;2024-02-altermagnetism-magnetism-broad..., https:&amp;#x2F;&amp;#x2F;www.ictp.it&amp;#x2F;news&amp;#x2F;2025&amp;#x2F;1...</description>
       <pubDate>Wed, 16 Jul 2025 15:11:54 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/</guid>
@@ -93,7 +104,7 @@
     <item>
       <title>The 1960s schools experiment that created a whole new alphabet</title>
       <link>https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell</link>
-      <description>10 points 5 comments by Hooke on Hacker News</description>
+      <description>19 points 16 comments by Hooke on Hacker News</description>
       <pubDate>Tue, 15 Jul 2025 16:33:24 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell</guid>
@@ -102,20 +113,9 @@
 
     </item>
     <item>
-      <title>Remembrance of Scents Past</title>
-      <link>https://www.newyorker.com/culture/onward-and-upward-with-the-arts/remembrance-of-scents-past</link>
-      <description>7 points 1 comments by prismatic on Hacker News</description>
-      <pubDate>Tue, 15 Jul 2025 02:03:27 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.newyorker.com/culture/onward-and-upward-with-the-arts/remembrance-of-scents-past</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>AI therapy bots fuel delusions and give dangerous advice, Stanford study finds</title>
       <link>https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/</link>
-      <description>129 points 49 comments by pseudolus on Hacker News</description>
+      <description>149 points 68 comments by pseudolus on Hacker News</description>
       <pubDate>Sun, 13 Jul 2025 10:26:07 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/</guid>
