@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Jul 2025 20:53:36 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Jul 2025 20:53:36 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Jul 2025 21:00:19 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Jul 2025 21:00:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Multiplatform Matrix Multiplication Kernels</title>
       <link>https://burn.dev/blog/sota-multiplatform-matmul/</link>
-      <description>6 points by homarp on Hacker News</description>
+      <description>7 points by homarp on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 19:59:49 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://burn.dev/blog/sota-multiplatform-matmul/</guid>
@@ -27,7 +27,7 @@
     <item>
       <title>AI CapEx Is Eating the Economy</title>
       <link>https://paulkedrosky.com/honey-ai-capex-ate-the-economy/</link>
-      <description>54 points 33 comments by throw0101c on Hacker News</description>
+      <description>65 points 38 comments by throw0101c on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 19:59:04 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://paulkedrosky.com/honey-ai-capex-ate-the-economy/</guid>
@@ -38,7 +38,7 @@
     <item>
       <title>Trying to send a sticker in Steam Chat burned through a month of mobile data</title>
       <link>https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/</link>
-      <description>17 points 3 comments by danso on Hacker News</description>
+      <description>20 points 6 comments by danso on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 19:44:48 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/</guid>
@@ -47,20 +47,9 @@
 
     </item>
     <item>
-      <title>Broadcom to discontinue free Bitnami Helm charts</title>
-      <link>https://github.com/bitnami/charts/issues/35164</link>
-      <description>9 points 2 comments by mmoogle on Hacker News</description>
-      <pubDate>Fri, 18 Jul 2025 19:29:52 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://github.com/bitnami/charts/issues/35164</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Asynchrony Is Not Concurrency</title>
       <link>https://kristoff.it/blog/asynchrony-is-not-concurrency/</link>
-      <description>55 points 34 comments by kristoff_it on Hacker News</description>
+      <description>62 points 35 comments by kristoff_it on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 19:21:38 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://kristoff.it/blog/asynchrony-is-not-concurrency/</guid>
@@ -71,7 +60,7 @@
     <item>
       <title>Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog</title>
       <link>https://eprint.iacr.org/2025/1237</link>
-      <description>34 points 8 comments by teddyh on Hacker News</description>
+      <description>34 points 9 comments by teddyh on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 19:09:07 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://eprint.iacr.org/2025/1237</guid>
@@ -80,9 +69,20 @@
 
     </item>
     <item>
+      <title>How I keep up with AI progress</title>
+      <link>https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/</link>
+      <description>111 points 65 comments by itzlambda on Hacker News</description>
+      <pubDate>Fri, 18 Jul 2025 18:36:39 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>The Year of Peak Might and Magic</title>
       <link>https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/</link>
-      <description>28 points 5 comments by cybersoyuz on Hacker News</description>
+      <description>33 points 6 comments by cybersoyuz on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 17:21:49 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/</guid>
@@ -93,7 +93,7 @@
     <item>
       <title>lsr: ls with io_uring</title>
       <link>https://rockorager.dev/log/lsr-ls-but-with-io-uring/</link>
-      <description>264 points 147 comments by mpweiher on Hacker News - https:&amp;#x2F;&amp;#x2F;tangled.sh&amp;#x2F;@rockorager.dev&amp;#x2F;lsr...</description>
+      <description>265 points 147 comments by mpweiher on Hacker News - https:&amp;#x2F;&amp;#x2F;tangled.sh&amp;#x2F;@rockorager.dev&amp;#x2F;lsr...</description>
       <pubDate>Fri, 18 Jul 2025 12:40:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://rockorager.dev/log/lsr-ls-but-with-io-uring/</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>CP/M creator Gary Kildall&apos;s memoirs released as free download</title>
       <link>https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download</link>
-      <description>209 points 103 comments by rbanffy on Hacker News</description>
+      <description>210 points 103 comments by rbanffy on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 10:22:15 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>Trying Guix: A Nixer&apos;s impressions</title>
       <link>https://tazj.in/blog/trying-guix</link>
-      <description>109 points 26 comments by todsacerdoti on Hacker News</description>
+      <description>109 points 28 comments by todsacerdoti on Hacker News</description>
       <pubDate>Tue, 15 Jul 2025 08:11:19 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://tazj.in/blog/trying-guix</guid>
