@@ -10,6 +10,7 @@ import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
 import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSource.js';
 import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js';
+import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -71,6 +72,9 @@ export class NewsAggregator {
         }
         if (config.id === 'dailymail-tvshowbiz') {
           return new DailyMailTVShowbizSource(config);
+        }
+        if (config.id === 'pagesix-entertainment') {
+          return new PageSixEntertainmentSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
