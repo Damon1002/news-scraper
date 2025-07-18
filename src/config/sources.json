@@ -169,6 +169,25 @@
           "updateFrequency": 2
         }
       ]
+    },
+    {
+      "id": "hk01-entertainment",
+      "name": "HK01 即時娛樂",
+      "type": "scraper",
+      "baseUrl": "https://www.hk01.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/channel/22/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
     }
   ],
   "global": {
