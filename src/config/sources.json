@@ -150,6 +150,25 @@
           "updateFrequency": 2
         }
       ]
+    },
+    {
+      "id": "pagesix-entertainment",
+      "name": "Page Six Entertainment",
+      "type": "scraper",
+      "baseUrl": "https://pagesix.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/entertainment/",
+          "maxItems": 45,
+          "updateFrequency": 2
+        }
+      ]
     }
   ],
   "global": {

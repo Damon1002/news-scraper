@@ -139,6 +139,7 @@ ${rssItems}
       '    <li><a href="feeds/entertainment/setn-entertainment.xml">🎬 娱乐星闻 (SETN)</a></li>',
       '    <li><a href="feeds/entertainment/tvbs-entertainment.xml">📺 TVBS 娱乐新闻</a></li>',
       '    <li><a href="feeds/entertainment/nextapple-entertainment.xml">🍎 壹苹新闻网</a></li>',
+      '    <li><a href="feeds/entertainment/pagesix-entertainment.xml">📰 Page Six Entertainment</a></li>',
       '    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>'
     ].join('\n');
 
