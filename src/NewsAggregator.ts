@@ -11,6 +11,7 @@ import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
 import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSource.js';
 import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js';
 import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource.js';
+import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -75,6 +76,9 @@ export class NewsAggregator {
         }
         if (config.id === 'pagesix-entertainment') {
           return new PageSixEntertainmentSource(config);
+        }
+        if (config.id === 'hk01-entertainment') {
+          return new HK01EntertainmentSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
