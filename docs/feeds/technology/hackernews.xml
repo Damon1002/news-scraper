@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 Jul 2025 19:37:13 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Jul 2025 19:37:13 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Jul 2025 19:46:10 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Jul 2025 19:46:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>DHS: Filming Cops, ICE Officers Is a &apos;Violent Tactic&apos;</title>
+      <link>https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/</link>
+      <description>34 points 5 comments by mdhb on Hacker News</description>
+      <pubDate>Fri, 18 Jul 2025 19:16:43 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.techdirt.com/2025/07/18/dhs-filming-cops-ice-officers-is-a-violent-tactic/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog</title>
       <link>https://eprint.iacr.org/2025/1237</link>
-      <description>7 points by teddyh on Hacker News</description>
+      <description>13 points 2 comments by teddyh on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 19:09:07 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://eprint.iacr.org/2025/1237</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>How I keep up with AI progress (and why you must too)</title>
       <link>https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/</link>
-      <description>27 points 10 comments by itzlambda on Hacker News</description>
+      <description>41 points 14 comments by itzlambda on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 18:36:39 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>Third patient dies from acute liver failure caused by a Sarepta gene therapy</title>
       <link>https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy</link>
-      <description>46 points by randycupertino on Hacker News</description>
+      <description>60 points 7 comments by randycupertino on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 18:26:22 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy</guid>
@@ -47,20 +58,9 @@
 
     </item>
     <item>
-      <title>Section 174 is reversed! Mostly, that is.</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed</link>
-      <description>54 points 16 comments by jawns on Hacker News</description>
-      <pubDate>Fri, 18 Jul 2025 18:07:57 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware</title>
       <link>https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/</link>
-      <description>69 points 45 comments by rrampage on Hacker News</description>
+      <description>72 points 53 comments by rrampage on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 17:48:48 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/</guid>
@@ -82,7 +82,7 @@
     <item>
       <title>lsr: ls with io_uring</title>
       <link>https://rockorager.dev/log/lsr-ls-but-with-io-uring/</link>
-      <description>248 points 137 comments by mpweiher on Hacker News - https:&amp;#x2F;&amp;#x2F;tangled.sh&amp;#x2F;@rockorager.dev&amp;#x2F;lsr...</description>
+      <description>248 points 138 comments by mpweiher on Hacker News - https:&amp;#x2F;&amp;#x2F;tangled.sh&amp;#x2F;@rockorager.dev&amp;#x2F;lsr...</description>
       <pubDate>Fri, 18 Jul 2025 12:40:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://rockorager.dev/log/lsr-ls-but-with-io-uring/</guid>
@@ -93,7 +93,7 @@
     <item>
       <title>CP/M creator Gary Kildall&apos;s memoirs released as free download</title>
       <link>https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download</link>
-      <description>191 points 88 comments by rbanffy on Hacker News</description>
+      <description>191 points 91 comments by rbanffy on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 10:22:15 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>How to Get Foreign Keys Horribly Wrong</title>
       <link>https://hakibenita.com/django-foreign-keys</link>
-      <description>23 points 4 comments by Bogdanp on Hacker News</description>
+      <description>25 points 4 comments by Bogdanp on Hacker News</description>
       <pubDate>Tue, 15 Jul 2025 11:36:08 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://hakibenita.com/django-foreign-keys</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>Trying Guix: A Nixer&apos;s impressions</title>
       <link>https://tazj.in/blog/trying-guix</link>
-      <description>95 points 20 comments by todsacerdoti on Hacker News</description>
+      <description>96 points 22 comments by todsacerdoti on Hacker News</description>
       <pubDate>Tue, 15 Jul 2025 08:11:19 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://tazj.in/blog/trying-guix</guid>
