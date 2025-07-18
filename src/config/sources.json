@@ -165,7 +165,7 @@
         {
           "category": "entertainment",
           "endpoint": "/entertainment/",
-          "maxItems": 25,
+          "maxItems": 45,
           "updateFrequency": 2
         }
       ]

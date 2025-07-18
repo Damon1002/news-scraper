@@ -40,22 +40,45 @@ export class PageSixEntertainmentSource extends NewsSource {
       index: number;
     }> = [];
     
-    // Look for "The Latest" section and article links
-    const latestSection = $('.latest-stories, .most-recent, .story-list, .latest');
-    let articleLinks = latestSection.find('a[href*="/"]');
+    // Target the specific "The Latest" section with the exact heading
+    const latestHeading = $('h2.section-heading.section-heading--sm.t-color-brand-primary:contains("The Latest")');
+    let articleLinks = $();
     
-    // Fallback: look for general article links if latest section not found
-    if (articleLinks.length === 0) {
-      articleLinks = $('a[href*="/entertainment/"], a[href*="/news/"], a[href*="/celebrity/"], a[href*="/gossip/"]');
+    if (latestHeading.length > 0) {
+      console.log('Found "The Latest" section heading');
+      
+      // Find the parent container of the heading and look for articles within it
+      const latestSection = latestHeading.closest('section, div, .section');
+      if (latestSection.length > 0) {
+        articleLinks = latestSection.find('a[href*="/"]');
+        console.log(`Found ${articleLinks.length} links in The Latest section container`);
+      }
+      
+      // Alternative: look for sibling elements after the heading
+      if (articleLinks.length === 0) {
+        const sectionContent = latestHeading.nextAll().find('a[href*="/"]');
+        articleLinks = sectionContent;
+        console.log(`Found ${articleLinks.length} links in The Latest section siblings`);
+      }
+      
+      // Alternative: look within the same parent as the heading
+      if (articleLinks.length === 0) {
+        const parentSection = latestHeading.parent();
+        articleLinks = parentSection.find('a[href*="/"]');
+        console.log(`Found ${articleLinks.length} links in The Latest parent section`);
+      }
     }
     
-    // Another fallback: look for story containers
+    // Fallback: if we can't find the specific section, use broader selectors
     if (articleLinks.length === 0) {
-      articleLinks = $('.story-item a, .article-item a, .post-item a, article a');
+      console.log('The Latest section not found, using fallback selectors');
+      articleLinks = $('a[href*="/entertainment/"], a[href*="/news/"], a[href*="/celebrity/"], a[href*="/gossip/"], a[href*="/2025/"], a[href*="/2024/"]');
     }
+    
+    console.log(`Total article links found: ${articleLinks.length}`);
     
     articleLinks.each((index, element) => {
-      if (index >= 30) return false; // Limit to first 30 articles for performance
+      if (index >= 60) return false; // Limit to first 60 articles for performance
       
       const $article = $(element);
       const href = $article.attr('href');
@@ -143,7 +166,7 @@ export class PageSixEntertainmentSource extends NewsSource {
       index === self.findIndex(a => a.sourceUrl === article.sourceUrl)
     );
     
-    return uniqueArticles.slice(0, this.getCategoryConfig(category)?.maxItems || 20);
+    return uniqueArticles.slice(0, this.getCategoryConfig(category)?.maxItems || 45);
   }
 
   private getCategoryConfig(category: NewsCategory) {
