@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/entertainment/壹苹新闻网.xml</link>
     <description>来自壹苹新闻网的最新娱乐星闻</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Jul 2025 23:53:06 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Jul 2025 23:53:06 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Jul 2025 23:59:44 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Jul 2025 23:59:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>entertainment</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/entertainment/壹苹新闻网.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>公益網紅醫院直播「病患頂多剩2週」 圤智雨開嗆：為流量違法拍攝</title>
+      <link>https://tw.nextapple.com/entertainment/20250719/187F574D60D0B8DC6DDB841B64919035</link>
+      <description>公益網紅醫院直播「病患頂多剩2週」 圤智雨開嗆：為流量違法拍攝...</description>
+      <pubDate>Fri, 18 Jul 2025 23:58:00 +0000</pubDate>
+      <source>壹苹新闻网</source>
+      <guid isPermaLink="true">https://tw.nextapple.com/entertainment/20250719/187F574D60D0B8DC6DDB841B64919035</guid>
+      <category>entertainment</category>
+      <category>壹苹新闻网</category>
+
+    </item>
     <item>
       <title>專訪｜于子育心甘情願當「小三」 一人獨居備份鑰匙交付他</title>
       <link>https://tw.nextapple.com/entertainment/20250719/658906FC532589B038E5B2F86BEE7094</link>
@@ -221,17 +232,6 @@
       <category>entertainment</category>
       <category>壹苹新闻网</category>
       <enclosure url="https://tw.nextapple.comdata:image/jpeg;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>《書卷一夢》大結局粉絲笑了！劉宇寧曝3天沒工作就焦慮</title>
-      <link>https://tw.nextapple.com/entertainment/20250718/F6C947E8B978E852AED8345D74F4A0FF</link>
-      <description>《書卷一夢》大結局粉絲笑了！劉宇寧曝3天沒工作就焦慮...</description>
-      <pubDate>Fri, 18 Jul 2025 11:26:00 +0000</pubDate>
-      <source>壹苹新闻网</source>
-      <guid isPermaLink="true">https://tw.nextapple.com/entertainment/20250718/F6C947E8B978E852AED8345D74F4A0FF</guid>
-      <category>entertainment</category>
-      <category>壹苹新闻网</category>
-
     </item>
   </channel>
 </rss>
