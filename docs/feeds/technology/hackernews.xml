@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Jul 2025 19:18:09 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Jul 2025 19:18:09 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Jul 2025 19:29:49 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Jul 2025 19:29:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,20 +14,9 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Giving Up on Element and Matrix.org</title>
-      <link>https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/</link>
-      <description>67 points 39 comments by upofadown on Hacker News</description>
-      <pubDate>Sat, 19 Jul 2025 17:12:45 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Rethinking CLI interfaces for AI</title>
       <link>https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/</link>
-      <description>65 points 44 comments by Bogdanp on Hacker News</description>
+      <description>68 points 46 comments by Bogdanp on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 16:58:42 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/</guid>
@@ -38,7 +27,7 @@
     <item>
       <title>The Curious Case of the Unix workstation layout</title>
       <link>https://thejpster.org.uk/blog/blog-2025-07-19/</link>
-      <description>14 points 2 comments by ingve on Hacker News</description>
+      <description>18 points 2 comments by ingve on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 16:15:17 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://thejpster.org.uk/blog/blog-2025-07-19/</guid>
@@ -49,7 +38,7 @@
     <item>
       <title>Fstrings.wtf</title>
       <link>https://fstrings.wtf/</link>
-      <description>300 points 83 comments by darkamaul on Hacker News</description>
+      <description>304 points 89 comments by darkamaul on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 10:52:35 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://fstrings.wtf/</guid>
@@ -60,7 +49,7 @@
     <item>
       <title>OpenAI claims gold-medal performance at IMO 2025</title>
       <link>https://twitter.com/alexwei_/status/1946477742855532918</link>
-      <description>266 points 416 comments by Davidzheng on Hacker News</description>
+      <description>277 points 428 comments by Davidzheng on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 09:11:19 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://twitter.com/alexwei_/status/1946477742855532918</guid>
@@ -69,20 +58,9 @@
 
     </item>
     <item>
-      <title>YouTube No Translation</title>
-      <link>https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/</link>
-      <description>173 points 84 comments by thefox on Hacker News</description>
-      <pubDate>Sat, 19 Jul 2025 07:58:50 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Pimping My Casio: Part Deux</title>
       <link>https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html</link>
-      <description>128 points 35 comments by r4um on Hacker News</description>
+      <description>130 points 35 comments by r4um on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 07:58:26 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html</guid>
@@ -93,7 +71,7 @@
     <item>
       <title>Hyatt Hotels are using algorithmic Rest “smoking detectors”</title>
       <link>https://twitter.com/_ZachGriff/status/1945959030851035223</link>
-      <description>560 points 324 comments by RebeccaTheDev on Hacker News</description>
+      <description>571 points 327 comments by RebeccaTheDev on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 04:02:57 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://twitter.com/_ZachGriff/status/1945959030851035223</guid>
@@ -104,7 +82,7 @@
     <item>
       <title>My Self-Hosting Setup</title>
       <link>https://codecaptured.com/blog/my-ultimate-self-hosting-setup/</link>
-      <description>476 points 169 comments by mirdaki on Hacker News</description>
+      <description>479 points 169 comments by mirdaki on Hacker News</description>
       <pubDate>Sat, 19 Jul 2025 02:56:02 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://codecaptured.com/blog/my-ultimate-self-hosting-setup/</guid>
@@ -113,9 +91,31 @@
 
     </item>
     <item>
+      <title>Linux and Secure Boot certificate expiration</title>
+      <link>https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/</link>
+      <description>191 points 227 comments by pabs3 on Hacker News</description>
+      <pubDate>Fri, 18 Jul 2025 03:53:31 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>How we tracked down a Go 1.24 memory regression</title>
+      <link>https://www.datadoghq.com/blog/engineering/go-memory-regression/</link>
+      <description>53 points 5 comments by gandem on Hacker News</description>
+      <pubDate>Thu, 17 Jul 2025 20:02:41 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.datadoghq.com/blog/engineering/go-memory-regression/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Babies made using three people&apos;s DNA are born free of mitochondrial disease</title>
       <link>https://www.bbc.com/news/articles/cn8179z199vo</link>
-      <description>145 points 86 comments by 1659447091 on Hacker News</description>
+      <description>146 points 89 comments by 1659447091 on Hacker News</description>
       <pubDate>Wed, 16 Jul 2025 21:43:35 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cn8179z199vo</guid>
