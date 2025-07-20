@@ -12,6 +12,9 @@ import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSo
 import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js';
 import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource.js';
 import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
+import { CoinTelegraphCryptoSource } from './sources/CoinTelegraphCryptoSource.js';
+import { SosoValueSource } from './sources/SosoValueSource.js';
+import { TwitterRSSSource } from './sources/TwitterRSSSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -50,6 +53,9 @@ export class NewsAggregator {
         if (config.id === 'google-news') {
           return new GoogleNewsSource(config);
         }
+        if (config.id === 'twitter-crypto') {
+          return new TwitterRSSSource(config);
+        }
         throw new Error(`Unsupported RSS source: ${config.id}`);
       
       case 'api':
@@ -79,6 +85,12 @@ export class NewsAggregator {
         }
         if (config.id === 'hk01-entertainment') {
           return new HK01EntertainmentSource(config);
+        }
+        if (config.id === 'cointelegraph-crypto') {
+          return new CoinTelegraphCryptoSource(config);
+        }
+        if (config.id === 'sosovalue-research') {
+          return new SosoValueSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
