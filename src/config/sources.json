@@ -190,25 +190,6 @@
       ]
     },
     {
-      "id": "cointelegraph-crypto",
-      "name": "CoinTelegraph Crypto News",
-      "type": "scraper",
-      "baseUrl": "https://cointelegraph.com",
-      "rateLimit": 5,
-      "enabled": true,
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
-      },
-      "categories": [
-        {
-          "category": "crypto",
-          "endpoint": "/category/crypto",
-          "maxItems": 25,
-          "updateFrequency": 5
-        }
-      ]
-    },
-    {
       "id": "sosovalue-research",
       "name": "SosoValue Research",
       "type": "scraper", 
