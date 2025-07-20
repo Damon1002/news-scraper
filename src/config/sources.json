@@ -188,12 +188,76 @@
           "updateFrequency": 2
         }
       ]
+    },
+    {
+      "id": "cointelegraph-crypto",
+      "name": "CoinTelegraph Crypto News",
+      "type": "scraper",
+      "baseUrl": "https://cointelegraph.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "crypto",
+          "endpoint": "/category/crypto",
+          "maxItems": 25,
+          "updateFrequency": 5
+        }
+      ]
+    },
+    {
+      "id": "sosovalue-research",
+      "name": "SosoValue Research",
+      "type": "scraper", 
+      "baseUrl": "https://sosovalue.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "crypto",
+          "endpoint": "/research",
+          "maxItems": 25,
+          "updateFrequency": 5
+        }
+      ]
+    },
+    {
+      "id": "twitter-crypto",
+      "name": "X.com Crypto Influencers",
+      "type": "rss",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "accounts": [
+        { "username": "elonmusk", "name": "Elon Musk" },
+        { "username": "VitalikButerin", "name": "Vitalik Buterin" },
+        { "username": "cz_binance", "name": "Changpeng Zhao (CZ)" },
+        { "username": "michael_saylor", "name": "Michael Saylor" },
+        { "username": "APompliano", "name": "Anthony Pompliano" },
+        { "username": "naval", "name": "Naval Ravikant" },
+        { "username": "balajis", "name": "Balaji Srinivasan" }
+      ],
+      "categories": [
+        {
+          "category": "x",
+          "maxItems": 50,
+          "updateFrequency": 5
+        }
+      ]
     }
   ],
   "global": {
     "maxItemsPerFeed": 50,
     "defaultUpdateFrequency": 60,
-    "enabledCategories": ["general", "technology", "business", "world", "science", "health", "entertainment"],
+    "enabledCategories": ["general", "technology", "business", "world", "science", "health", "entertainment", "crypto", "x"],
     "outputDirectory": "docs/feeds",
     "baseUrl": "https://damon1002.github.io/news-scraper"
   }
