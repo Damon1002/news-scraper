@@ -1,6 +1,12 @@
 import { NewsItem, FeedMetadata, NewsCategory } from '../types/index.js';
+import { FeedRegistryManager, FeedInfo } from './FeedRegistry.js';
 
 export class RSSGenerator {
+  private feedRegistry: FeedRegistryManager;
+
+  constructor() {
+    this.feedRegistry = new FeedRegistryManager();
+  }
   private escapeXML(str: string): string {
     return str
       .replace(/&/g, '&amp;')
@@ -134,15 +140,24 @@ ${rssItems}
   }
 
   public generateFeedIndex(categories: NewsCategory[]): string {
-    // Only show feeds that actually exist and work
-    const feedLinks = [
-      '    <li><a href="feeds/entertainment/setn-entertainment.xml">🎬 娱乐星闻 (SETN)</a></li>',
-      '    <li><a href="feeds/entertainment/tvbs-entertainment.xml">📺 TVBS 娱乐新闻</a></li>',
-      '    <li><a href="feeds/entertainment/nextapple-entertainment.xml">🍎 壹苹新闻网</a></li>',
-      '    <li><a href="feeds/entertainment/hk01-entertainment.xml">🇭🇰 HK01 即時娛樂</a></li>',
-      '    <li><a href="feeds/entertainment/pagesix-entertainment.xml">📰 Page Six Entertainment</a></li>',
-      '    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>'
-    ].join('\n');
+    // Generate feed links dynamically from registry
+    const registry = this.feedRegistry.loadRegistry();
+    
+    // Create feed links with proper icons and formatting
+    const feedLinks = registry.feeds
+      .filter((feed: FeedInfo) => feed.name !== 'Master Feed') // Exclude master feed since it's shown separately
+      .map((feed: FeedInfo) => {
+        const icon = this.getFeedIcon(feed.category, feed.name);
+        const displayName = this.getFeedDisplayName(feed.name, feed.category);
+        
+        // Handle external feeds
+        if (feed.name.includes('Daily Mail')) {
+          return `    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">${icon} ${displayName}</a></li>`;
+        }
+        
+        return `    <li><a href="${feed.filePath.replace('docs/', '')}">${icon} ${displayName}</a></li>`;
+      })
+      .join('\n');
 
     return `<!DOCTYPE html>
 <html lang="en">
@@ -185,5 +200,48 @@ ${feedLinks}
     </footer>
 </body>
 </html>`;
+  }
+
+  private getFeedIcon(category: string | undefined, name: string): string {
+    // Return appropriate emoji icons based on category and source name
+    if (name.includes('SETN')) return '🎬';
+    if (name.includes('TVBS')) return '📺';
+    if (name.includes('壹苹') || name.includes('NextApple')) return '🍎';
+    if (name.includes('HK01')) return '🇭🇰';
+    if (name.includes('Page Six')) return '📰';
+    if (name.includes('Daily Mail')) return '📰';
+    if (name.includes('SosoValue')) return '📊';
+    if (name.includes('Google News')) return '🌐';
+    if (name.includes('Hacker News')) return '💻';
+    if (name.includes('Reddit')) return '📱';
+    
+    // Category-based fallbacks
+    switch (category) {
+      case 'entertainment': return '🎭';
+      case 'crypto': return '₿';
+      case 'technology': return '💻';
+      case 'business': return '💼';
+      case 'world': return '🌍';
+      case 'science': return '🔬';
+      case 'health': return '🏥';
+      case 'general': return '📰';
+      default: return '📄';
+    }
+  }
+
+  private getFeedDisplayName(name: string, category: string | undefined): string {
+    // Return user-friendly display names
+    if (name.includes('SosoValue')) return 'SosoValue Research';
+    if (name.includes('SETN')) return '娱乐星闻 (SETN)';
+    if (name.includes('TVBS')) return 'TVBS 娱乐新闻';
+    if (name.includes('壹苹') || name.includes('NextApple')) return '壹苹新闻网';
+    if (name.includes('HK01')) return 'HK01 即時娛樂';
+    if (name.includes('Page Six')) return 'Page Six Entertainment';
+    if (name.includes('Daily Mail')) return 'Daily Mail TVShowbiz';
+    if (name.includes('Google News')) return 'Google News';
+    if (name.includes('Hacker News')) return 'Hacker News';
+    if (name.includes('Reddit')) return `Reddit ${category || ''}`;
+    
+    return name;
   }
 }
