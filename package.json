@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "type": "module",
     "scripts": {
-      "start": "node --loader ts-node/esm src/main.ts",
+      "start": "npm run build && node dist/main.js",
       "build": "tsc --project tsconfig.json",
-    "dev": "node --loader ts-node/esm src/main.ts",
+    "dev": "node --import=./register.mjs src/main.ts",
     "clean": "rm -rf docs/feeds/*.xml"
     },
     "dependencies": {
