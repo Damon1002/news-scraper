@@ -1,0 +1,219 @@
+{
+  "sources": [
+    {
+      "id": "google-news",
+      "name": "Google News",
+      "type": "rss",
+      "baseUrl": "https://news.google.com/rss",
+      "rateLimit": 10,
+      "enabled": true,
+      "categories": [
+        {
+          "category": "general",
+          "endpoint": "?hl=en-US&gl=US&ceid=US:en",
+          "maxItems": 20,
+          "updateFrequency": 60
+        }
+      ]
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "type": "api",
+      "baseUrl": "https://hacker-news.firebaseio.com/v0",
+      "rateLimit": 20,
+      "enabled": true,
+      "categories": [
+        {
+          "category": "technology",
+          "endpoint": "/topstories.json",
+          "maxItems": 10,
+          "updateFrequency": 60
+        }
+      ]
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "type": "api",
+      "baseUrl": "https://www.reddit.com",
+      "rateLimit": 15,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "NewsAggregator/1.0"
+      },
+      "categories": [
+        {
+          "category": "technology",
+          "endpoint": "/r/technology/hot.json?limit=10",
+          "maxItems": 10,
+          "updateFrequency": 60
+        },
+        {
+          "category": "world",
+          "endpoint": "/r/worldnews/hot.json?limit=15",
+          "maxItems": 15,
+          "updateFrequency": 30
+        },
+        {
+          "category": "science",
+          "endpoint": "/r/science/hot.json?limit=10",
+          "maxItems": 10,
+          "updateFrequency": 120
+        },
+        {
+          "category": "business",
+          "endpoint": "/r/business/hot.json?limit=10",
+          "maxItems": 10,
+          "updateFrequency": 60
+        }
+      ]
+    },
+    {
+      "id": "setn-entertainment",
+      "name": "SETN Entertainment",
+      "type": "scraper",
+      "baseUrl": "https://star.setn.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/viewall",
+          "maxItems": 40,
+          "updateFrequency": 2
+        }
+      ]
+    },
+    {
+      "id": "tvbs-entertainment",
+      "name": "TVBS Entertainment",
+      "type": "scraper",
+      "baseUrl": "https://news.tvbs.com.tw",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/realtime/entertainment",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
+    },
+    {
+      "id": "nextapple-entertainment",
+      "name": "壹苹新闻网",
+      "type": "scraper",
+      "baseUrl": "https://tw.nextapple.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/realtime/entertainment",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
+    },
+    {
+      "id": "dailymail-tvshowbiz",
+      "name": "Daily Mail TVShowbiz",
+      "type": "scraper",
+      "baseUrl": "https://www.dailymail.co.uk",
+      "rateLimit": 5,
+      "enabled": false,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "DNT": "1",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/tvshowbiz/headlines/index.html",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
+    },
+    {
+      "id": "pagesix-entertainment",
+      "name": "Page Six Entertainment",
+      "type": "scraper",
+      "baseUrl": "https://pagesix.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/entertainment/",
+          "maxItems": 45,
+          "updateFrequency": 2
+        }
+      ]
+    },
+    {
+      "id": "hk01-entertainment",
+      "name": "HK01 即時娛樂",
+      "type": "scraper",
+      "baseUrl": "https://www.hk01.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "entertainment",
+          "endpoint": "/channel/22/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82",
+          "maxItems": 30,
+          "updateFrequency": 2
+        }
+      ]
+    },
+    {
+      "id": "sosovalue-research",
+      "name": "SosoValue Research",
+      "type": "scraper", 
+      "baseUrl": "https://sosovalue.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "crypto",
+          "endpoint": "/research",
+          "maxItems": 25,
+          "updateFrequency": 5
+        }
+      ]
+    }
+  ],
+  "global": {
+    "maxItemsPerFeed": 50,
+    "defaultUpdateFrequency": 60,
+    "enabledCategories": ["general", "technology", "business", "world", "science", "health", "entertainment", "crypto"],
+    "outputDirectory": "docs/feeds",
+    "baseUrl": "https://damon1002.github.io/news-scraper"
+  }
+}
