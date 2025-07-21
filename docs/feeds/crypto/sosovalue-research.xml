@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/sosovalue-research.xml</link>
     <description>Latest crypto news from SosoValue Research</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Jul 2025 06:39:40 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 06:39:40 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 06:59:54 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 06:59:54 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/sosovalue-research.xml" rel="self" type="application/rss+xml"/>
@@ -14,27 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>US banking lobby asks OCC to hold off on approving crypto firms’ banking chartersReported on July 21 that according to Cointelegraph, the American Bankers Association, together with several banks and credit union groups, wrote to the Office of the Comptroller of the Currency (OCC) on July 18, requesting a delay in approving banking license applications from crypto companies such as Circle and Ripple. These institutions questioned the &quot;fundamental deviation&quot; from traditional policies of the trust bank model proposed by crypto companies, pointing out that their business plans lacked detailed information that could be evaluated by the public.
-The focus of the dispute is whether the national trust bank license applied for by the crypto company is compliant. The banking group stressed that digital asset custody does not belong to the traditional trust business, and if approved, it will lead to problems such as unfair capital requirements. Caitlin Long, founder of the crypto bank Custodia, pointed out that the dispute may lead to litigation and questioned whether traditional banks may evade regulation by turning into trust companies in the future. [PANews]</title>
-      <link>https://sosovalue.com/research/1947182743830155264</link>
-      <description>7 minutes agoPANewsUS banking lobby asks OCC to hold off on approving crypto firms’ banking chartersReported on July 21 that according to Cointelegraph, the American Bankers Association, together with several banks and credit union groups, wrote to the Office of the Comptroller of the Currency (OCC)</description>
-      <pubDate>Mon, 21 Jul 2025 06:32:40 +0000</pubDate>
+      <title>FinTax Founder: Web3-related crypto income may become a focus of taxation in the futureIn recent years, the data analysis capabilities of tax authorities have significantly improved, and tax bureaus have begun to proactively analyze CRS data. As a Chinese tax resident, if your overseas assets and income are conspicuous enough, you are likely to come into the view of the tax bureau. In the long run, these overseas assets will sooner or later face the attention and management of tax authorities. This reflects the upgrading of the collection and management mechanism—based on specific risk indicators, using internal &quot;five-step work method&quot; and other means to conduct a systematic assessment of the overseas income of natural persons. Currently, common targets of verification include those who invest in Hong Kong and US stocks, and those who realize overseas equity in Internet companies. However, Web3-related crypto income may become one of the focuses in the future. [Securities Times]</title>
+      <link>https://sosovalue.com/research/1947189008828485632</link>
+      <description>3 minutes ago吴说FinTax Founder: Web3-related crypto income may become a focus of taxation in the futureIn recent years, the data analysis capabilities of tax authorities have significantly improved, and tax bureaus have begun to proactively analyze CRS data. As a Chinese tax resident, if your oversea</description>
+      <pubDate>Mon, 21 Jul 2025 06:56:54 +0000</pubDate>
       <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947182743830155264</guid>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947189008828485632</guid>
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
       <category>crypto</category>
       <category>blockchain</category>
       <category>research</category>
-      <category>panews</category>
+      <category>吴说</category>
+
+    </item>
+    <item>
+      <title>H100 Group Raises Approximately $1.50 Million to Purchase More BitcoinAccording to NLNico monitoring, Swedish listed company H100 Group issued no more than 1,523,089 new shares to several qualified investors, with a subscription price of 9.3 Swedish Krona per share, raising a total of approximately 14.10 million Swedish Krona. The raised funds will be used to pursue investment opportunities within the company&apos;s Bitcoin reserve strategy framework. [Foresight News]</title>
+      <link>https://sosovalue.com/research/1947188615184666624</link>
+      <description>5 minutes agoForesightNewsH100 Group Raises Approximately $1.50 Million to Purchase More BitcoinAccording to NLNico monitoring, Swedish listed company H100 Group issued no more than 1,523,089 new shares to several qualified investors, with a subscription price of 9.3 Swedish Krona per share, raising</description>
+      <pubDate>Mon, 21 Jul 2025 06:54:54 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947188615184666624</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>foresightnews</category>
+
+    </item>
+    <item>
+      <title>Aave DAO approves Kraken-backed Ink Foundation to launch white-label version of lending protocol in ARFC voteThe Aave DAO has voted in an AFRC vote to enable the Ink Foundation to launch a white-label version of Aave V3. The Ink Foundation is a non-profit organization supporting the Kraken-incubated Ethereum Layer 2 of the same name.
+
+&quot;The Ink Foundation seeks to leverage Aave&apos;s battle-tested infrastructure to create a native lending platform,&quot; Aave DAO&apos;s proposal said. &quot;This partnership represents an opportunity for Aave to expand its influence in the institutional lending space while maintaining its commitment to technological excellence.&quot;
+
+As the proposal passed with 99.8% in favor, the DAO is expected to grant the license for the foundation to launch a rebranded, centralized version of the lending platform that uses Aave&apos;s codebase.
+
+Aave DAO service providers will assist with Ink&apos;s Aave V3 instance for the first six months. In exchange, Aave DAO will receive a share of the new platform&apos;s revenue, equal to or greater than the equivalent of a Reserve Factor of 5% based on borrow volume in all pools.
+
+This initiative will also prevent Ink Foundation and its centralized partners from seeking out other lending protocols for collaborations for a minimum of 12 months after deployment.
+
+On the other hand, the Ink Foundation will dedicate substantial resources to launching and growing this white-label instance of Aave V3, including the introduction of several liquidity mining programs aimed at attracting over $250 million in initial liquidity to the platform.
+
+Meanwhile, Aave V3 is currently deployed across 17 different chains including Ethereum, Arbitrum, Avalanche, Base and Polygon, according to DefiLlama data.</title>
+      <link>https://sosovalue.com/research/1947188711284559872</link>
+      <description>11 minutes agoThe BlockAave DAO approves Kraken-backed Ink Foundation to launch white-label version of lending protocol in ARFC voteThe Aave DAO has voted in an AFRC vote to enable the Ink Foundation to launch a white-label version of Aave V3. The Ink Foundation is a non-profit organization supporti</description>
+      <pubDate>Mon, 21 Jul 2025 06:48:54 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947188711284559872</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>the block</category>
+
+    </item>
+    <item>
+      <title>Bank and credit union groups in the US are asking the OCC to delay decisions on bank charter applications submitted by crypto firmsAccording to Cointelegraph, banking and credit union groups in the United States have asked the Office of the Comptroller of the Currency (OCC) to delay decisions on bank charter applications submitted by crypto companies, citing &quot;significant policy and procedural issues.&quot; &quot;There are significant policy and legal questions regarding whether the business plans proposed by the applicants involve the types of fiduciary activities conducted by national trust banks. The public portions of the applications fail to provide sufficient information for the public to assess or meaningfully comment on the applicants’ proposed business models and operations. If the OCC approves these applications, the public should also be able to review the OCC’s decisions.&quot; [Foresight News]</title>
+      <link>https://sosovalue.com/research/1947188615226609664</link>
+      <description>12 minutes agoForesightNewsBank and credit union groups in the US are asking the OCC to delay decisions on bank charter applications submitted by crypto firmsAccording to Cointelegraph, banking and credit union groups in the United States have asked the Office of the Comptroller of the Currency (OCC</description>
+      <pubDate>Mon, 21 Jul 2025 06:47:54 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947188615226609664</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>foresightnews</category>
+
+    </item>
+    <item>
+      <title>Gate Will Launch TA Perpetual Contract TradingAccording to the official announcement, Gate will launch TA perpetual contract trading (USDT settlement) at 15:30 (UTC+8) on July 21, supporting 1-20x leverage. [Odaily]</title>
+      <link>https://sosovalue.com/research/1947187563383246848</link>
+      <description>14 minutes agoOdailyGate Will Launch TA Perpetual Contract TradingAccording to the official announcement, Gate will launch TA perpetual contract trading (USDT settlement) at 15:30 (UTC+8) on July 21, supporting 1-20x leverage. [Odaily]$USDT$GTShare to</description>
+      <pubDate>Mon, 21 Jul 2025 06:45:54 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947187563383246848</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
 
     </item>
     <item>
       <title>LBank has premiered PsyopCoin (PSYOP)On July 21, according to official news, LBank has launched PsyopCoin (PSYOP) for the first time on July 21, 2025, at 13:30 (SGT), and opened the PSYOP/USDT trading pair. Deposits are now open, and withdrawals will be open on July 22 at 13:00 (SGT). [Techflow]</title>
       <link>https://sosovalue.com/research/1947182627861843968</link>
-      <description>8 minutes agoTechFlowLBank has premiered PsyopCoin (PSYOP)On July 21, according to official news, LBank has launched PsyopCoin (PSYOP) for the first time on July 21, 2025, at 13:30 (SGT), and opened the PSYOP/USDT trading pair. Deposits are now open, and withdrawals will be open on July 22 at 13:00</description>
-      <pubDate>Mon, 21 Jul 2025 06:31:40 +0000</pubDate>
+      <description>28 minutes agoTechFlowLBank has premiered PsyopCoin (PSYOP)On July 21, according to official news, LBank has launched PsyopCoin (PSYOP) for the first time on July 21, 2025, at 13:30 (SGT), and opened the PSYOP/USDT trading pair. Deposits are now open, and withdrawals will be open on July 22 at 13:00</description>
+      <pubDate>Mon, 21 Jul 2025 06:31:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947182627861843968</guid>
       <category>crypto</category>
@@ -49,8 +124,8 @@ The focus of the dispute is whether the national trust bank license applied for 
     <item>
       <title>BTC is now at $119,000According to SoSoValue, BTC(Bitcoin) is up 0.69% in the past 1H, up 1.06% in the last 24H. Now at $119,000.</title>
       <link>https://sosovalue.com/research/1947182453138350080</link>
-      <description>8 minutes agoSoSo Price BotBTC is now at $119,000According to SoSoValue, BTC(Bitcoin) is up 0.69% in the past 1H, up 1.06% in the last 24H. Now at $119,000.$BTCShare to</description>
-      <pubDate>Mon, 21 Jul 2025 06:31:40 +0000</pubDate>
+      <description>28 minutes agoSoSo Price BotBTC is now at $119,000According to SoSoValue, BTC(Bitcoin) is up 0.69% in the past 1H, up 1.06% in the last 24H. Now at $119,000.$BTCShare to</description>
+      <pubDate>Mon, 21 Jul 2025 06:31:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947182453138350080</guid>
       <category>crypto</category>
@@ -66,8 +141,8 @@ The focus of the dispute is whether the national trust bank license applied for 
       <title>Binance: Users holding at least 210 Binance Alpha Points can claim TA token airdropOn July 21, according to the official announcement, Binance released an update on the launch of Trusta AI (TA), stating that after the start of trading, users holding at least 210 Binance Alpha points can apply for a 750 TA token airdrop. First come, first served, until the airdrop pool is full or the event ends. Please note that claiming the airdrop will consume 15 Binance Alpha points. Users must confirm the claim within 24 hours on the Alpha event page, otherwise it will be deemed to have given up the airdrop.
 Starting today, the risk pre-check for airdrop activities will be opened 5 minutes before the start, please prepare in advance. [PANews]</title>
       <link>https://sosovalue.com/research/1947181839848591360</link>
-      <description>11 minutes agoPANewsBinance: Users holding at least 210 Binance Alpha Points can claim TA token airdropOn July 21, according to the official announcement, Binance released an update on the launch of Trusta AI (TA), stating that after the start of trading, users holding at least 210 Binance Alpha poi</description>
-      <pubDate>Mon, 21 Jul 2025 06:28:40 +0000</pubDate>
+      <description>31 minutes agoPANewsBinance: Users holding at least 210 Binance Alpha Points can claim TA token airdropOn July 21, according to the official announcement, Binance released an update on the launch of Trusta AI (TA), stating that after the start of trading, users holding at least 210 Binance Alpha poi</description>
+      <pubDate>Mon, 21 Jul 2025 06:28:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947181839848591360</guid>
       <category>crypto</category>
@@ -82,8 +157,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>Binance Alpha: The TA airdrop claim threshold is 210 points, and claiming will consume 15 points.Binance has announced that TA trading will be available on Binance Alpha on July 21, 2025 at 7:00 (UTC), and futures trading will begin at 7:30. At that time, users holding at least 210 Binance Alpha points can get an airdrop of 750 TA tokens on a first-come, first-served basis, which will end when the airdrop pool is exhausted or the event expires. Claiming the airdrop will consume 15 Alpha points, and users need to confirm the application on the Alpha event page within 24 hours, otherwise it will be deemed as a waiver. Binance will conduct an airdrop risk pre-check 5 minutes before the start of the event, so please be prepared in advance. [Odaily]</title>
       <link>https://sosovalue.com/research/1947182537009025024</link>
-      <description>11 minutes agoOdailyBinance Alpha: The TA airdrop claim threshold is 210 points, and claiming will consume 15 points.Binance has announced that TA trading will be available on Binance Alpha on July 21, 2025 at 7:00 (UTC), and futures trading will begin at 7:30. At that time, users holding at least 2</description>
-      <pubDate>Mon, 21 Jul 2025 06:28:40 +0000</pubDate>
+      <description>31 minutes agoOdailyBinance Alpha: The TA airdrop claim threshold is 210 points, and claiming will consume 15 points.Binance has announced that TA trading will be available on Binance Alpha on July 21, 2025 at 7:00 (UTC), and futures trading will begin at 7:30. At that time, users holding at least 2</description>
+      <pubDate>Mon, 21 Jul 2025 06:28:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947182537009025024</guid>
       <category>crypto</category>
@@ -98,8 +173,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>Bitget Launches Trading Lucky Draw with Up to 3 ETH to be WonTo celebrate Ethereum&apos;s strong comeback, Bitget is launching a trading lucky draw event, open to both new and existing users. During the event, complete the corresponding contract trading volume tasks to get a specific number of chances to win a prize, up to 11 times. Each additional draw increases the chance of winning a grand prize, with a maximum of 3 ETH per draw. [Foresight News]</title>
       <link>https://sosovalue.com/research/1947182349267783680</link>
-      <description>13 minutes agoForesightNewsBitget Launches Trading Lucky Draw with Up to 3 ETH to be WonTo celebrate Ethereum&apos;s strong comeback, Bitget is launching a trading lucky draw event, open to both new and existing users. During the event, complete the corresponding contract trading volume tasks to get a sp</description>
-      <pubDate>Mon, 21 Jul 2025 06:26:40 +0000</pubDate>
+      <description>33 minutes agoForesightNewsBitget Launches Trading Lucky Draw with Up to 3 ETH to be WonTo celebrate Ethereum&apos;s strong comeback, Bitget is launching a trading lucky draw event, open to both new and existing users. During the event, complete the corresponding contract trading volume tasks to get a sp</description>
+      <pubDate>Mon, 21 Jul 2025 06:26:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947182349267783680</guid>
       <category>crypto</category>
@@ -114,8 +189,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>The Blockchain Group Increases Holdings by 22 BitcoinEuropean listed company The Blockchain Group officially announced on Twitter that it spent approximately 2.20 million euros (approximately $2.56 million) to increase its holdings by 22 Bitcoin, and its total holdings have now reached 1955. [Wu Blockchain]</title>
       <link>https://sosovalue.com/research/1947180695894118400</link>
-      <description>16 minutes ago吴说The Blockchain Group Increases Holdings by 22 BitcoinEuropean listed company The Blockchain Group officially announced on Twitter that it spent approximately 2.20 million euros (approximately $2.56 million) to increase its holdings by 22 Bitcoin, and its total holdings have now reach</description>
-      <pubDate>Mon, 21 Jul 2025 06:23:40 +0000</pubDate>
+      <description>36 minutes ago吴说The Blockchain Group Increases Holdings by 22 BitcoinEuropean listed company The Blockchain Group officially announced on Twitter that it spent approximately 2.20 million euros (approximately $2.56 million) to increase its holdings by 22 Bitcoin, and its total holdings have now reach</description>
+      <pubDate>Mon, 21 Jul 2025 06:23:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947180695894118400</guid>
       <category>crypto</category>
@@ -130,8 +205,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>MyStonks and BIT Reach Strategic Partnership to Accelerate Deep Integration of Digital Assets and Traditional SecuritiesMyStonks announces a deep strategic partnership with global professional digital asset trading platform BIT. MyStonks is a leading global decentralized US stock token platform, and BIT focuses on providing digital asset services to global users. This collaboration marks an important upgrade to the on-chain securities and crypto asset trading ecosystem. This round of cooperation will cover multiple levels, including API integration, traffic referral, joint construction of agent channels, and dual community linkage. The two parties will bring users a convenient cross-platform jump experience, exclusive transaction discounts, and diverse interactive activities, and plan to integrate MyStonks digital securities products on the BIT platform in the future to promote the continuous implementation of one-stop on-chain financial services. This strong alliance will not only help both parties improve service coverage and market influence, but also accelerate the deep integration of digital assets and traditional securities, bringing investors more efficient and diverse asset allocation choices and innovative experiences. [Odaily]</title>
       <link>https://sosovalue.com/research/1947180005536845824</link>
-      <description>22 minutes agoOdailyMyStonks and BIT Reach Strategic Partnership to Accelerate Deep Integration of Digital Assets and Traditional SecuritiesMyStonks announces a deep strategic partnership with global professional digital asset trading platform BIT. MyStonks is a leading global decentralized US stock</description>
-      <pubDate>Mon, 21 Jul 2025 06:17:40 +0000</pubDate>
+      <description>43 minutes agoOdailyMyStonks and BIT Reach Strategic Partnership to Accelerate Deep Integration of Digital Assets and Traditional SecuritiesMyStonks announces a deep strategic partnership with global professional digital asset trading platform BIT. MyStonks is a leading global decentralized US stock</description>
+      <pubDate>Mon, 21 Jul 2025 06:16:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947180005536845824</guid>
       <category>crypto</category>
@@ -146,8 +221,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>Vaultz Capital increased its holdings by 20 BTC, and currently holds a total of 70 BTCAccording to NLNico monitoring, UK-listed company Vaultz Capital increased its holdings by 20 BTC, and currently holds a total of 70 BTC. [Odaily]</title>
       <link>https://sosovalue.com/research/1947180013984174080</link>
-      <description>23 minutes agoOdailyVaultz Capital increased its holdings by 20 BTC, and currently holds a total of 70 BTCAccording to NLNico monitoring, UK-listed company Vaultz Capital increased its holdings by 20 BTC, and currently holds a total of 70 BTC. [Odaily]#Bitcoin$BTC$MAG7.SSIShare to</description>
-      <pubDate>Mon, 21 Jul 2025 06:16:40 +0000</pubDate>
+      <description>43 minutes agoOdailyVaultz Capital increased its holdings by 20 BTC, and currently holds a total of 70 BTCAccording to NLNico monitoring, UK-listed company Vaultz Capital increased its holdings by 20 BTC, and currently holds a total of 70 BTC. [Odaily]#Bitcoin$BTC$MAG7.SSIShare to</description>
+      <pubDate>Mon, 21 Jul 2025 06:16:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947180013984174080</guid>
       <category>crypto</category>
@@ -162,8 +237,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>LBank has integrated xStocks to enable coin-stock tradingAccording to official news, LBank has integrated xStocks and launched tokenized stock asset trading. The first batch of popular targets, MSTRX and CRCLX, have been listed in the XSTOCKS trading area, and users can directly trade with USDT. The coin-stock trading provided by LBank supports 24/7 trading, breaking through the trading time and geographical restrictions of traditional stock markets, allowing global users to participate at any time, making asset allocation more flexible. [Odaily News]</title>
       <link>https://sosovalue.com/research/1947180022435696640</link>
-      <description>26 minutes agoOdailyLBank has integrated xStocks to enable coin-stock tradingAccording to official news, LBank has integrated xStocks and launched tokenized stock asset trading. The first batch of popular targets, MSTRX and CRCLX, have been listed in the XSTOCKS trading area, and users can directly</description>
-      <pubDate>Mon, 21 Jul 2025 06:13:40 +0000</pubDate>
+      <description>46 minutes agoOdailyLBank has integrated xStocks to enable coin-stock tradingAccording to official news, LBank has integrated xStocks and launched tokenized stock asset trading. The first batch of popular targets, MSTRX and CRCLX, have been listed in the XSTOCKS trading area, and users can directly</description>
+      <pubDate>Mon, 21 Jul 2025 06:13:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947180022435696640</guid>
       <category>crypto</category>
@@ -178,8 +253,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>Data: In the past 24 hours, Top figures have been following projects such as polycule, Hyperbeat, and DubDub.According to RootData X dynamic data, in the past 24 hours: The Polymarket event trading platform polycule has been followed by a16z co-founder Marc Andreessen, Electric Capital co-founder Avichal Garg, CoinFund founder Jake Brukhman, and others. The Hyperliquid-based expansion protocol Hyperbeat has been followed by angel investor DCF GOD, Aperture founding partner Kay Fong, crypto influencer Stephen, and others. The cryptocurrency mobile wallet HaHa has been followed by the Web3 hackathon ETHDenver. The Meme launch platform DubDub has been followed by Taproot Wizards co-founder Udi Wertheimer. The DeFi lending protocol Takara Lend has been followed by crypto trader Yuyue, crypto KOL spark, and others. [ChainCatcher]</title>
       <link>https://sosovalue.com/research/1947177230925058048</link>
-      <description>29 minutes agoChainCatcherData: In the past 24 hours, Top figures have been following projects such as polycule, Hyperbeat, and DubDub.According to RootData X dynamic data, in the past 24 hours: The Polymarket event trading platform polycule has been followed by a16z co-founder Marc Andreessen, Elec</description>
-      <pubDate>Mon, 21 Jul 2025 06:10:40 +0000</pubDate>
+      <description>49 minutes agoChainCatcherData: In the past 24 hours, Top figures have been following projects such as polycule, Hyperbeat, and DubDub.According to RootData X dynamic data, in the past 24 hours: The Polymarket event trading platform polycule has been followed by a16z co-founder Marc Andreessen, Elec</description>
+      <pubDate>Mon, 21 Jul 2025 06:10:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947177230925058048</guid>
       <category>crypto</category>
@@ -194,8 +269,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>ssiNFT index 24hr gain of 10.02%According to SoSoValue, the crypto sector index ssiNFT has risen by 10.02% over the past 24 hours. Key constituent performance: BLUR +25.47%, PENGU +12.78%, SUPER +5.07%.</title>
       <link>https://sosovalue.com/research/1947175260561301504</link>
-      <description>37 minutes agoSSI Price BotssiNFT index 24hr gain of 10.02%According to SoSoValue, the crypto sector index ssiNFT has risen by 10.02% over the past 24 hours. Key constituent performance: BLUR +25.47%, PENGU +12.78%, SUPER +5.07%.$BLUR$SUPER$PENGUShare to</description>
-      <pubDate>Mon, 21 Jul 2025 06:02:40 +0000</pubDate>
+      <description>57 minutes agoSSI Price BotssiNFT index 24hr gain of 10.02%According to SoSoValue, the crypto sector index ssiNFT has risen by 10.02% over the past 24 hours. Key constituent performance: BLUR +25.47%, PENGU +12.78%, SUPER +5.07%.$BLUR$SUPER$PENGUShare to</description>
+      <pubDate>Mon, 21 Jul 2025 06:02:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947175260561301504</guid>
       <category>crypto</category>
@@ -210,8 +285,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>MAOMAO Launches Token Airdrop, Community Users Can Claim MAOMAO for FreeMeme project MAOMAO has announced the launch of an airdrop campaign, where users can participate by filling out a form to receive early distribution tokens of MAOMAO. According to the official introduction, the airdrop does not require a whitelist and is open to all users. [Odaily]</title>
       <link>https://sosovalue.com/research/1947174968962076672</link>
-      <description>39 minutes agoOdailyMAOMAO Launches Token Airdrop, Community Users Can Claim MAOMAO for FreeMeme project MAOMAO has announced the launch of an airdrop campaign, where users can participate by filling out a form to receive early distribution tokens of MAOMAO. According to the official introduction, t</description>
-      <pubDate>Mon, 21 Jul 2025 06:00:40 +0000</pubDate>
+      <description>59 minutes agoOdailyMAOMAO Launches Token Airdrop, Community Users Can Claim MAOMAO for FreeMeme project MAOMAO has announced the launch of an airdrop campaign, where users can participate by filling out a form to receive early distribution tokens of MAOMAO. According to the official introduction, t</description>
+      <pubDate>Mon, 21 Jul 2025 06:00:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947174968962076672</guid>
       <category>crypto</category>
@@ -226,8 +301,8 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>AguilaTrades turns bullish on ETH again, with current cumulative losses exceeding $27.00M.According to Lookonchain monitoring, AguilaTrades has completely closed its ETH short positions, losing over $8.00M, and then switched back to long ETH. Previously, its profit and loss on Hyperliquid experienced ups and downs: it had accumulated losses of over $35.00M before turning losses into profits, gaining over $3.00M in profit, and now it has fallen back to accumulated losses of over $27.00M. [Odaily]</title>
       <link>https://sosovalue.com/research/1947174977489096704</link>
-      <description>42 minutes agoOdailyAguilaTrades turns bullish on ETH again, with current cumulative losses exceeding $27.00M.According to Lookonchain monitoring, AguilaTrades has completely closed its ETH short positions, losing over $8.00M, and then switched back to long ETH. Previously, its profit and loss on Hy</description>
-      <pubDate>Mon, 21 Jul 2025 05:57:40 +0000</pubDate>
+      <description>1 hour agoOdailyAguilaTrades turns bullish on ETH again, with current cumulative losses exceeding $27.00M.According to Lookonchain monitoring, AguilaTrades has completely closed its ETH short positions, losing over $8.00M, and then switched back to long ETH. Previously, its profit and loss on Hyperl</description>
+      <pubDate>Mon, 21 Jul 2025 05:59:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947174977489096704</guid>
       <category>crypto</category>
@@ -242,26 +317,10 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
     <item>
       <title>Hong Kong-listed 4Paradigm and 9Yards Technology jointly released a &quot;Stablecoin Underlying Asset Management Solution&quot; for the stablecoin ecosystem.According to Sina Finance, Hong Kong-listed company 4Paradigm has reached a strategic cooperation with fixed-income fintech platform Nine Chapters Technology, and jointly released a &quot;Stablecoin Underlying Asset Management Solution&quot; specifically for the stablecoin ecosystem. The solution combines 4Paradigm&apos;s AI capabilities with Nine Chapters Technology&apos;s fixed-income portfolio management experience, aiming to jointly develop the stablecoin market, fill the lack of compliant, secure, and intelligent asset management systems in the stablecoin investment field, promote the construction of intelligent infrastructure for the stablecoin ecosystem, and thereby accelerate the pilot and implementation of stablecoin compliance products. [Foresight News]</title>
       <link>https://sosovalue.com/research/1947173501039562752</link>
-      <description>47 minutes agoForesightNewsHong Kong-listed 4Paradigm and 9Yards Technology jointly released a &quot;Stablecoin Underlying Asset Management Solution&quot; for the stablecoin ecosystem.According to Sina Finance, Hong Kong-listed company 4Paradigm has reached a strategic cooperation with fixed-income fintech pl</description>
-      <pubDate>Mon, 21 Jul 2025 05:52:40 +0000</pubDate>
+      <description>1 hour agoForesightNewsHong Kong-listed 4Paradigm and 9Yards Technology jointly released a &quot;Stablecoin Underlying Asset Management Solution&quot; for the stablecoin ecosystem.According to Sina Finance, Hong Kong-listed company 4Paradigm has reached a strategic cooperation with fixed-income fintech platfo</description>
+      <pubDate>Mon, 21 Jul 2025 05:59:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947173501039562752</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>foresightnews</category>
-
-    </item>
-    <item>
-      <title>CryptoQuant analyst: Market is dominated by bullish sentiment, but bulls lack initiativeCryptoQuant analyst Axel Adler Jr tweeted that the market is currently dominated by bullish sentiment, but the bulls lack motivation. [Foresight News]</title>
-      <link>https://sosovalue.com/research/1947155905326108672</link>
-      <description>1 hour agoForesightNewsCryptoQuant analyst: Market is dominated by bullish sentiment, but bulls lack initiativeCryptoQuant analyst Axel Adler Jr tweeted that the market is currently dominated by bullish sentiment, but the bulls lack motivation. [Foresight News]Share to</description>
-      <pubDate>Mon, 21 Jul 2025 05:39:40 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947155905326108672</guid>
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
@@ -289,57 +348,9 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
       <description>1 hour agoOdailyPlanet Afternoon News1. Analysis: Bitcoin miners and whales selling during the rally may foreshadow a &quot;local top&quot;;
 2. Analyst: The current bull market cycle is dominated by institutions, and it remains uncertain whether it will benefit altcoins;
 3. &quot;Rich Dad Poor Dad&quot; author: Bubbles</description>
-      <pubDate>Mon, 21 Jul 2025 05:39:40 +0000</pubDate>
+      <pubDate>Mon, 21 Jul 2025 05:59:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947167426059980800</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>sosovalue</category>
-
-    </item>
-    <item>
-      <title>A whale purchased 640,000 WLFI through Whales Market, worth approximately $124,000.00A whale purchased 640,000 WLFI through Whales Market at an average price of $0.185, worth approximately $124,000. [Foresight News]</title>
-      <link>https://sosovalue.com/research/1947165960695992320</link>
-      <description>1 hour agoForesightNewsA whale purchased 640,000 WLFI through Whales Market, worth approximately $124,000.00A whale purchased 640,000 WLFI through Whales Market at an average price of $0.185, worth approximately $124,000. [Foresight News]Share to</description>
-      <pubDate>Mon, 21 Jul 2025 05:39:40 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947165960695992320</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>foresightnews</category>
-
-    </item>
-    <item>
-      <title>Michael Saylor: You have 10 years to get Bitcoin, after that there will be no Bitcoin left for youAccording to Cointelegraph, Strategy founder Michael Saylor said, &quot;You have 10 years to get Bitcoin, after that there will be no Bitcoin left for you.&quot; [Foresight News]</title>
-      <link>https://sosovalue.com/research/1947162176905302016</link>
-      <description>1 hour agoForesightNewsMichael Saylor: You have 10 years to get Bitcoin, after that there will be no Bitcoin left for youAccording to Cointelegraph, Strategy founder Michael Saylor said, &quot;You have 10 years to get Bitcoin, after that there will be no Bitcoin left for you.&quot; [Foresight News]#Crypto Sto</description>
-      <pubDate>Mon, 21 Jul 2025 05:39:40 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947162176905302016</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>foresightnews</category>
-
-    </item>
-    <item>
-      <title>BitMart Officially Launches New Staking Loan FeatureAccording to official news, BitMart has officially launched a new staking loan feature, allowing users to obtain instant loan amounts by staking their existing assets, thereby increasing capital liquidity without the need for realization. In addition, BitMart has simultaneously launched a limited-time event: new users can enjoy a 50% subsidy on loan interest, and some users can even get up to 100% full repayment, achieving a &quot;zero interest rate&quot; loan experience; in addition, there is also a chance to get up to 1,000.00 USDC reward. [Odaily]</title>
-      <link>https://sosovalue.com/research/1947159884680417280</link>
-      <description>1 hour agoOdailyBitMart Officially Launches New Staking Loan FeatureAccording to official news, BitMart has officially launched a new staking loan feature, allowing users to obtain instant loan amounts by staking their existing assets, thereby increasing capital liquidity without the need for realiz</description>
-      <pubDate>Mon, 21 Jul 2025 05:39:40 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947159884680417280</guid>
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
@@ -353,7 +364,7 @@ Starting today, the risk pre-check for airdrop activities will be opened 5 minut
       <title>SosoValue: View</title>
       <link>https://sosovalue.com/research/1947143958375706624</link>
       <description>Updated  1 day agoSoSo Daily | Jul. 21: Ethereum Soars as Treasury Arms Race Heats Up00:00 / 04:13View</description>
-      <pubDate>Sun, 20 Jul 2025 06:39:40 +0000</pubDate>
+      <pubDate>Sun, 20 Jul 2025 06:59:54 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947143958375706624</guid>
       <category>crypto</category>
