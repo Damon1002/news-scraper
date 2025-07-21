@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/sosovalue-research.xml</link>
     <description>Latest crypto news from SosoValue Research</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Jul 2025 11:47:17 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 11:47:17 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 11:54:46 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 11:54:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/sosovalue-research.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,44 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Tether CEO: 66% of USDt on-chain transfers come from West Asia, the Middle East and AfricaOn July 21, Tether CEO Paolo Ardoino tweeted that USDt is growing rapidly around the world, especially in emerging markets. In the first half of 2025, USDt on-chain transfers increased by 120% compared to the full year of 2024, of which 66% of the transfers came from West Asia, the Middle East and Africa. [PANews]</title>
-      <link>https://sosovalue.com/research/1947260928064245760</link>
-      <description>4 minutes agoPANewsTether CEO: 66% of USDt on-chain transfers come from West Asia, the Middle East and AfricaOn July 21, Tether CEO Paolo Ardoino tweeted that USDt is growing rapidly around the world, especially in emerging markets. In the first half of 2025, USDt on-chain transfers increased by 120</description>
-      <pubDate>Mon, 21 Jul 2025 11:43:17 +0000</pubDate>
+      <title>Treasury Secretary Bessent: If inflation data is low, interest rates should be loweredJuly 21st, according to Jinshi Data, U.S. Treasury Secretary Bessent stated that if inflation data is low, interest rates should be lowered. [TechFlow]</title>
+      <link>https://sosovalue.com/research/1947263807017734144</link>
+      <description>36seconds agoTechFlowTreasury Secretary Bessent: If inflation data is low, interest rates should be loweredJuly 21st, according to Jinshi Data, U.S. Treasury Secretary Bessent stated that if inflation data is low, interest rates should be lowered. [TechFlow]#MacroShare to</description>
+      <pubDate>Mon, 21 Jul 2025 11:54:46 +0000</pubDate>
       <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947260928064245760</guid>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947263807017734144</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>techflow</category>
+
+    </item>
+    <item>
+      <title>BNB Chain Announces the Latest List of BNB Hack Winners on July 21BNB Chain has announced the latest list of BNB Hack winners on July 21, with a total of 3 winning projects and 2 projects receiving honorable mentions, focusing on AI, DeSoc, DeSci, and DePIN. The new batch covers more than 30 submissions from June 23 to July 17, and the winning projects include the web social layer Basement, the DeFi assistant DeFi Copilot, and the strategy platform Bibim. The nominated projects are the cross-chain platform Peridot and the AI trading assistant Agent Einstein.</title>
+      <link>https://sosovalue.com/research/1947263690487386112</link>
+      <description>1 minute ago吴说BNB Chain Announces the Latest List of BNB Hack Winners on July 21BNB Chain has announced the latest list of BNB Hack winners on July 21, with a total of 3 winning projects and 2 projects receiving honorable mentions, focusing on AI, DeSoc, DeSci, and DePIN. The new batch covers more t</description>
+      <pubDate>Mon, 21 Jul 2025 11:53:46 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947263690487386112</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>吴说</category>
+
+    </item>
+    <item>
+      <title>BTCS discloses that the company&apos;s ETH and cash market value reached US$242.00 millionAccording to GlobeNewswire, blockchain technology company BTCS Inc. (NASDAQ: BTCS) announced that as of now, the total market value of its 55,788 Ethereum (ETH), cash and other liquid assets is approximately US$242.00 million (based on an ETH price of US$3,600.00). In addition, BTCS has agreed to issue approximately US$10.00 million in convertible notes at a price of US$13.00 per share, a 198.00% premium to the closing price on July 18. The company has raised a total of US$189.00 million through its DeFi/TradFi Accretion Flywheel strategy this year, and plans to continue to expand its ETH holdings through decentralized and traditional financial instruments to enhance shareholder value. [PANews]</title>
+      <link>https://sosovalue.com/research/1947263401428537344</link>
+      <description>2 minutes agoPANewsBTCS discloses that the company&apos;s ETH and cash market value reached US$242.00 millionAccording to GlobeNewswire, blockchain technology company BTCS Inc. (NASDAQ: BTCS) announced that as of now, the total market value of its 55,788 Ethereum (ETH), cash and other liquid assets is ap</description>
+      <pubDate>Mon, 21 Jul 2025 11:52:46 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947263401428537344</guid>
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
@@ -30,12 +62,28 @@
 
     </item>
     <item>
-      <title>BTCS to Issue $10.00M in Convertible NotesBTCS Inc. announces the issuance of $10.00M principal amount of convertible notes with a conversion price of $13.00 per share, pursuant to the previously announced $56.00M arrangement with ATW Partners LLC. As of now, the company holds a total of 55,788 ETH, an increase of 23,933 ETH compared to the previously disclosed 31,855 ETH. [Wu Blockchain]</title>
-      <link>https://sosovalue.com/research/1947260916085313536</link>
-      <description>5 minutes ago吴说BTCS to Issue $10.00M in Convertible NotesBTCS Inc. announces the issuance of $10.00M principal amount of convertible notes with a conversion price of $13.00 per share, pursuant to the previously announced $56.00M arrangement with ATW Partners LLC. As of now, the company holds a total</description>
-      <pubDate>Mon, 21 Jul 2025 11:42:17 +0000</pubDate>
+      <title>Selini Capital withdrew 8.273M USDC from HyperliquidAccording to Arkham monitoring, Selini Capital: 0xfF…463C withdrew 8.273 million USDC from Hyperliquid at 17:49. HypurrScan data shows that Selini Capital has cumulatively earned $9.62 million in profits trading on Hyperliquid, including $2.305 million in contract profits. [Foresight News]</title>
+      <link>https://sosovalue.com/research/1947263462241751040</link>
+      <description>2 minutes agoForesightNewsSelini Capital withdrew 8.273M USDC from HyperliquidAccording to Arkham monitoring, Selini Capital: 0xfF…463C withdrew 8.273 million USDC from Hyperliquid at 17:49. HypurrScan data shows that Selini Capital has cumulatively earned $9.62 million in profits trading on Hyperli</description>
+      <pubDate>Mon, 21 Jul 2025 11:52:46 +0000</pubDate>
       <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947260916085313536</guid>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947263462241751040</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>foresightnews</category>
+
+    </item>
+    <item>
+      <title>A whale that has held BTC for 12 years transferred 250 BTC to Binance today and still holds 4,000 BTC.According to @EmberCN monitoring, a BTC whale holding for 12 years transferred 250 BTC (approximately $29.68M) to Binance today. This address first accumulated 5,000 BTC in November 2013 at a price of $332 per coin, and began selling them successively in November 2024. To date, 1,000 coins have been sold at an average price of $102,410. It currently still holds 4,000 BTC, worth approximately $474.00M. [Wu Blockchain]</title>
+      <link>https://sosovalue.com/research/1947263325696184320</link>
+      <description>3 minutes ago吴说A whale that has held BTC for 12 years transferred 250 BTC to Binance today and still holds 4,000 BTC.According to @EmberCN monitoring, a BTC whale holding for 12 years transferred 250 BTC (approximately $29.68M) to Binance today. This address first accumulated 5,000 BTC in November 2</description>
+      <pubDate>Mon, 21 Jul 2025 11:51:46 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947263325696184320</guid>
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
@@ -43,6 +91,43 @@
       <category>blockchain</category>
       <category>research</category>
       <category>吴说</category>
+
+    </item>
+    <item>
+      <title>BNB Hack Announces Latest Round of Winning Projects: Basement, DeFi Copilot, BIBIMBNB Chain has announced the latest batch (6/23–7/17) of BNB Hack selection results. Social protocol Basement (DeSoc direction), AI-powered DeFi assistant DeFi Copilot, and strategy tool BIBIM (AI direction) have successfully received awards, each receiving a 3,000.00 USDT prize, a 50,000 Kickstart reward package, and an official Demo Day presentation opportunity. At the same time, AI-oriented Peridot and Agent Einstein have been added to the incubation observation list.
+This round received over 30 submissions from global developers, including those from the New York offline event:
+Basement: Provides an instant social layer for web pages, combined with AI Agent, to achieve one-click chat, interaction, rewards, and information aggregation;
+DeFi Copilot: A one-stop PancakeSwap trading assistant that integrates real-time analysis, one-click order placement, and automatic management;
+BIBIM: Simplifies strategy construction, testing, and monetization with a visual interface and AI, reducing DeFi complexity;
+BNB Hack is a long-term hackathon launched by BNB Chain targeting Web3 innovation directions such as AI, DeSoc, DeSci, and DePIN. It has currently received over 200 global submissions and has cumulatively selected 9 Tier 3 projects and 40 potential projects. [Odaily]</title>
+      <link>https://sosovalue.com/research/1947263067935232000</link>
+      <description>5 minutes agoOdailyBNB Hack Announces Latest Round of Winning Projects: Basement, DeFi Copilot, BIBIMBNB Chain has announced the latest batch (6/23–7/17) of BNB Hack selection results. Social protocol Basement (DeSoc direction), AI-powered DeFi assistant DeFi Copilot, and strategy tool BIBIM (AI dir</description>
+      <pubDate>Mon, 21 Jul 2025 11:49:46 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947263067935232000</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>Tether CEO: 66% of USDt on-chain transfers come from West Asia, the Middle East and AfricaOn July 21, Tether CEO Paolo Ardoino tweeted that USDt is growing rapidly around the world, especially in emerging markets. In the first half of 2025, USDt on-chain transfers increased by 120% compared to the full year of 2024, of which 66% of the transfers came from West Asia, the Middle East and Africa. [PANews]</title>
+      <link>https://sosovalue.com/research/1947260928064245760</link>
+      <description>12 minutes agoPANewsTether CEO: 66% of USDt on-chain transfers come from West Asia, the Middle East and AfricaOn July 21, Tether CEO Paolo Ardoino tweeted that USDt is growing rapidly around the world, especially in emerging markets. In the first half of 2025, USDt on-chain transfers increased by 12</description>
+      <pubDate>Mon, 21 Jul 2025 11:42:46 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947260928064245760</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>panews</category>
 
     </item>
     <item>
@@ -59,29 +144,13 @@ During the event period, users who are eligible and stake at least 0.01 ETH into
 Activity 2: Stake at least 0.01 ETH into the Simple Yield Treehouse ETH pool to share $550,000.00 worth of TREE tokens.
 During the event period, all eligible users who stake at least 0.01 ETH into the Binance Wallet Simple Yield Treehouse ETH pool will be able to share an annualized yield increase reward of $550,000.00 worth of TREE tokens, with a daily prize pool of $78,571.00 worth of TREE. [Odaily]</title>
       <link>https://sosovalue.com/research/1947260545799573504</link>
-      <description>9 minutes agoOdailyBinance Wallet to Launch Exclusive Booster Event for Treehouse (TREE)According to the official announcement, Binance Wallet will launch an exclusive Booster event for Treehouse (TREE).
+      <description>16 minutes agoOdailyBinance Wallet to Launch Exclusive Booster Event for Treehouse (TREE)According to the official announcement, Binance Wallet will launch an exclusive Booster event for Treehouse (TREE).
 
 Event time: July 22, 2025 08:00:00 to July 29, 2025 07:59:59 (UTC+8)
 Total reward: $750,000.00</description>
-      <pubDate>Mon, 21 Jul 2025 11:38:17 +0000</pubDate>
+      <pubDate>Mon, 21 Jul 2025 11:38:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947260545799573504</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>sosovalue</category>
-
-    </item>
-    <item>
-      <title>A certain BTC whale transferred 250 BTC to Binance, and currently still holds 4,000 BTC.According to on-chain analyst Ember, an whale who has held BTC for 12 years transferred 250 BTC ($29.68M) to Binance an hour ago. This whale received and hoarded 5,000 BTC ($1.66M) 12 years ago (November 2013) when the price was only $332.00. He started selling these 5,000 BTC 11 years later (November 2024), and has sold a total of 1,000 BTC ($102.00M) in the past 8 months, at an average price of $102,410.00. Currently, he still holds 4,000 BTC ($474.00M). [Odaily]</title>
-      <link>https://sosovalue.com/research/1947260554246901760</link>
-      <description>13 minutes agoOdailyA certain BTC whale transferred 250 BTC to Binance, and currently still holds 4,000 BTC.According to on-chain analyst Ember, an whale who has held BTC for 12 years transferred 250 BTC ($29.68M) to Binance an hour ago. This whale received and hoarded 5,000 BTC ($1.66M) 12 years ag</description>
-      <pubDate>Mon, 21 Jul 2025 11:34:17 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947260554246901760</guid>
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
@@ -104,10 +173,10 @@ Total reward: $750,000.00</description>
 10. MyStonks and BIT reach a strategic partnership to accelerate the deep integration of digital assets and traditional securities;
 11. Hong Kong-listed company Fourth Paradigm releases a stablecoin underlying asset management solution.</title>
       <link>https://sosovalue.com/research/1947258014331588608</link>
-      <description>17 minutes agoOdailyPlanet Daily News1. PENGU&apos;s market cap surpasses TRUMP, becoming the second-largest Meme coin on the Solana chain;
+      <description>24 minutes agoOdailyPlanet Daily News1. PENGU&apos;s market cap surpasses TRUMP, becoming the second-largest Meme coin on the Solana chain;
 2. The PUMP organization&apos;s private placement address is suspected of having cashed out over $140.00M, with a total profit of $39.65M;
 3. QCP Capital: Ethereum&apos;s perf</description>
-      <pubDate>Mon, 21 Jul 2025 11:30:17 +0000</pubDate>
+      <pubDate>Mon, 21 Jul 2025 11:30:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947258014331588608</guid>
       <category>crypto</category>
@@ -122,8 +191,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Morocco’s Central Bank Completes Draft Crypto Assets BillOn July 21, the Governor of the Central Bank of Morocco stated at the African Central Bank Conference in Rabat that Morocco has finalized a draft law to legalize the use of crypto assets. The law ensures &quot;adequate protection of consumers and investors, strengthens market integrity, combats fraud, manipulation, money laundering and terrorist financing, and maintains financial stability.&quot; [PANews]</title>
       <link>https://sosovalue.com/research/1947255689445658624</link>
-      <description>25 minutes agoPANewsMorocco’s Central Bank Completes Draft Crypto Assets BillOn July 21, the Governor of the Central Bank of Morocco stated at the African Central Bank Conference in Rabat that Morocco has finalized a draft law to legalize the use of crypto assets. The law ensures &quot;adequate protectio</description>
-      <pubDate>Mon, 21 Jul 2025 11:22:17 +0000</pubDate>
+      <description>32 minutes agoPANewsMorocco’s Central Bank Completes Draft Crypto Assets BillOn July 21, the Governor of the Central Bank of Morocco stated at the African Central Bank Conference in Rabat that Morocco has finalized a draft law to legalize the use of crypto assets. The law ensures &quot;adequate protectio</description>
+      <pubDate>Mon, 21 Jul 2025 11:22:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947255689445658624</guid>
       <category>crypto</category>
@@ -138,8 +207,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Arthur Hayes calls for pushing ETH to $5,000.00On July 21, Arthur Hayes, co-founder of BitMEX, posted on the X platform, &quot;Fam can we pump $ETH to $5k by Friday?&quot; and interacted with FSInsight chief strategist Thomas Lee, saying that he has traditional financial power and called for a joint push to increase ETH prices. [PANews]</title>
       <link>https://sosovalue.com/research/1947255326369927168</link>
-      <description>26 minutes agoPANewsArthur Hayes calls for pushing ETH to $5,000.00On July 21, Arthur Hayes, co-founder of BitMEX, posted on the X platform, &quot;Fam can we pump $ETH to $5k by Friday?&quot; and interacted with FSInsight chief strategist Thomas Lee, saying that he has traditional financial power and called f</description>
-      <pubDate>Mon, 21 Jul 2025 11:21:17 +0000</pubDate>
+      <description>34 minutes agoPANewsArthur Hayes calls for pushing ETH to $5,000.00On July 21, Arthur Hayes, co-founder of BitMEX, posted on the X platform, &quot;Fam can we pump $ETH to $5k by Friday?&quot; and interacted with FSInsight chief strategist Thomas Lee, saying that he has traditional financial power and called f</description>
+      <pubDate>Mon, 21 Jul 2025 11:20:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947255326369927168</guid>
       <category>crypto</category>
@@ -154,8 +223,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>The Ether Machine plans to go public through a business combination with Nasdaq-listed Dynamix. If approved by shareholders and other conditions are met, the transaction is expected to be completed in the fourth quarter of this year.According to official sources, The Ether Machine will conduct a business combination with Dynamix Corporation (Nasdaq: DYNX) through The Ether Reserve, LLC entity. The merged entity will subsequently be listed on Nasdaq under the ticker symbol &quot;ETHM.&quot; The company is expected to launch with over 400,000 ETH, with core support primarily contributed by Andrew Keys, an early member of Consensys and founder of the Enterprise Ethereum Alliance (EEA), with approximately $645.00M (169,984 ETH). Additionally, it has secured over $800.00M in common stock financing from top institutions, native cryptocurrency entities, and strategic investors such as 1Roundtable Partners / 10T Holdings, Archetype, Blockchain.com, cyber•Fund, Electric Capital, Kraken, and Pantera Capital. The transaction is projected to generate over $1.60B in gross proceeds, including over $1.50B in fully committed financing and up to $170.00M in cash held in Dynamix&apos;s trust account, potentially becoming the largest public ETH-producing company. The boards of directors of The Ether Machine and DYNX have unanimously approved the proposed business combination, which is expected to be completed in the fourth quarter of 2025, pending shareholder approval and other customary closing conditions. [Odaily News]</title>
       <link>https://sosovalue.com/research/1947255508939591680</link>
-      <description>28 minutes agoOdailyThe Ether Machine plans to go public through a business combination with Nasdaq-listed Dynamix. If approved by shareholders and other conditions are met, the transaction is expected to be completed in the fourth quarter of this year.According to official sources, The Ether Machin</description>
-      <pubDate>Mon, 21 Jul 2025 11:19:17 +0000</pubDate>
+      <description>35 minutes agoOdailyThe Ether Machine plans to go public through a business combination with Nasdaq-listed Dynamix. If approved by shareholders and other conditions are met, the transaction is expected to be completed in the fourth quarter of this year.According to official sources, The Ether Machin</description>
+      <pubDate>Mon, 21 Jul 2025 11:19:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947255508939591680</guid>
       <category>crypto</category>
@@ -170,8 +239,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Cambodia&apos;s large-scale anti-fraud operation halts the business of Potato Guaranteed Public Groups.On July 14, the Cambodian government launched a nationwide crackdown on online scams, arresting 2,270 criminal suspects as of July 18. According to on-chain analysis firm Bitrace, during this period, the escrow addresses of the Cambodia-based cryptocurrency transaction escrow platform &quot;Potato Escrow&quot; stopped transferring funds, the scale of merchant deposit payments dropped to nearly zero, and the public group business basically stalled. The private group business briefly declined before partially recovering. [Wu Blockchain]</title>
       <link>https://sosovalue.com/research/1947254128803860480</link>
-      <description>32 minutes ago吴说Cambodia&apos;s large-scale anti-fraud operation halts the business of Potato Guaranteed Public Groups.On July 14, the Cambodian government launched a nationwide crackdown on online scams, arresting 2,270 criminal suspects as of July 18. According to on-chain analysis firm Bitrace, during</description>
-      <pubDate>Mon, 21 Jul 2025 11:15:17 +0000</pubDate>
+      <description>39 minutes ago吴说Cambodia&apos;s large-scale anti-fraud operation halts the business of Potato Guaranteed Public Groups.On July 14, the Cambodian government launched a nationwide crackdown on online scams, arresting 2,270 criminal suspects as of July 18. According to on-chain analysis firm Bitrace, during</description>
+      <pubDate>Mon, 21 Jul 2025 11:15:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947254128803860480</guid>
       <category>crypto</category>
@@ -186,8 +255,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Antalpha&apos;s shareholders&apos; meeting passed several important resolutions, including increasing the company&apos;s authorized share capital and restructuring share classes.Antalpha Platform Holdings held a special general meeting, with a total of 19,318,273 common shares voting at the meeting, representing approximately 81.6% of the company&apos;s total common shares as of June 20, 2025. At this general meeting, the company&apos;s shareholders approved the following proposals: increasing the company&apos;s authorized share capital from &quot;$50,000.00, divided into 50,000,000 common shares with a par value of $0.001&quot; to &quot;$62,500.00, divided into 62,500,000 common shares with a par value of $0.001&quot;; reclassifying 59,375,000 authorized common shares as Class A common shares, while reclassifying 3,125,000 unissued authorized common shares as Class B common shares; amending the company&apos;s articles of association and memorandum to reflect the new authorized share capital structure; the Chairman of the Board and CEO of the company may receive an award of up to 1.50M Class B common shares under the 2024 Equity Incentive Plan; and the company will adopt a financial management plan to improve the company&apos;s financial management. All of the above proposals have been approved. [Foresight News]</title>
       <link>https://sosovalue.com/research/1947254027649830912</link>
-      <description>35 minutes agoForesightNewsAntalpha&apos;s shareholders&apos; meeting passed several important resolutions, including increasing the company&apos;s authorized share capital and restructuring share classes.Antalpha Platform Holdings held a special general meeting, with a total of 19,318,273 common shares voting at</description>
-      <pubDate>Mon, 21 Jul 2025 11:12:17 +0000</pubDate>
+      <description>42 minutes agoForesightNewsAntalpha&apos;s shareholders&apos; meeting passed several important resolutions, including increasing the company&apos;s authorized share capital and restructuring share classes.Antalpha Platform Holdings held a special general meeting, with a total of 19,318,273 common shares voting at</description>
+      <pubDate>Mon, 21 Jul 2025 11:12:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947254027649830912</guid>
       <category>crypto</category>
@@ -202,8 +271,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Fundstrat Co-Founder: Predicts Bitcoin Price Could Break $1 Million in the Next Few YearsOn July 21, CNBC reported that Fundstrat co-founder and managing partner Tom Lee said in an interview with &quot;Squawk Box&quot; that the price of Bitcoin could exceed $1 million per coin in the coming years. [TechFlow]</title>
       <link>https://sosovalue.com/research/1947253121936019456</link>
-      <description>35 minutes agoTechFlowFundstrat Co-Founder: Predicts Bitcoin Price Could Break $1 Million in the Next Few YearsOn July 21, CNBC reported that Fundstrat co-founder and managing partner Tom Lee said in an interview with &quot;Squawk Box&quot; that the price of Bitcoin could exceed $1 million per coin in the com</description>
-      <pubDate>Mon, 21 Jul 2025 11:12:17 +0000</pubDate>
+      <description>43 minutes agoTechFlowFundstrat Co-Founder: Predicts Bitcoin Price Could Break $1 Million in the Next Few YearsOn July 21, CNBC reported that Fundstrat co-founder and managing partner Tom Lee said in an interview with &quot;Squawk Box&quot; that the price of Bitcoin could exceed $1 million per coin in the com</description>
+      <pubDate>Mon, 21 Jul 2025 11:11:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947253121936019456</guid>
       <category>crypto</category>
@@ -218,8 +287,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Co-founder Joseph Lubin will serve as the torchbearer for Ethereum&apos;s 10th anniversary, saying the protocol has been running stably and uninterruptedly for ten years.On July 21, Ethereum co-founder Joseph Lubin was invited to be the torchbearer for the 10th anniversary celebration of Ethereum. He said that the Ethereum protocol has been running stably for nearly ten years since its release, and even though it has undergone several major upgrades during this period, it has never lost a block, demonstrating the high reliability and strong vitality of the protocol. [PANews]</title>
       <link>https://sosovalue.com/research/1947252518648303616</link>
-      <description>38 minutes agoPANewsCo-founder Joseph Lubin will serve as the torchbearer for Ethereum&apos;s 10th anniversary, saying the protocol has been running stably and uninterruptedly for ten years.On July 21, Ethereum co-founder Joseph Lubin was invited to be the torchbearer for the 10th anniversary celebration</description>
-      <pubDate>Mon, 21 Jul 2025 11:09:17 +0000</pubDate>
+      <description>45 minutes agoPANewsCo-founder Joseph Lubin will serve as the torchbearer for Ethereum&apos;s 10th anniversary, saying the protocol has been running stably and uninterruptedly for ten years.On July 21, Ethereum co-founder Joseph Lubin was invited to be the torchbearer for the 10th anniversary celebration</description>
+      <pubDate>Mon, 21 Jul 2025 11:09:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947252518648303616</guid>
       <category>crypto</category>
@@ -234,8 +303,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>3 Token Unlocks to Watch in the Fourth Week of July 2025As the fourth week of July 2025 begins, several major token unlocks will shake up the crypto market. Projects like Avail (AVAIL), Venom (VENOM), amd AltLayer (ALT) are releasing new tokens into circulation.  These events could significantly alter supply dynamics, introducing short-term price swings and heightened market activity. 1. Avail (AVAIL) Avail is a horizontally scalable network that enables seamless  cross-chain interoperability , fast transaction verification, and decentralized data availability. With components like availDA, availNexus, and availFusion, it empowers developers to build scalable, secure, and connected Web3 applications. On July 23, the  project will unlock  972.85 million AVAIL tokens, valued at approximately $19.46 million. This is equivalent to 38.23% of the current circulating supply. Avail will distribute  500.00 million tokens to core  contributors. Furthermore, investors will get 353.13 million AVAIL. The team will also award 66.67 million tokens for ecosystem development and 53.06 million tokens to the community and research.  2. Venom (VENOM) Venom is a heterogeneous  multi-blockchain system  with dynamic sharding capabilities. It is built on the Threaded Virtual Machine (TVM) and utilizes Mesh network technology for enhanced efficiency and scalability.  The project will release 59.26 million VENOM on July 25, following its monthly pattern of cliff token unlocks. Moreover, the tokens are worth $12.67 million and represent 2.84% of the  current circulating supply. A majority of the unlocked tokens, 17.92 million, will go toward the ecosystem. Early backers will receive 15.00 million tokens, and the community will get 15.84 million. Lastly, the team will collect 10.50 million VENOM. 3. AltLayer (ALT) AltLayer is a decentralized protocol designed to  launch highly scalable  and customizable rollups. It’s often described as a rollup-as-a-service (RaaS) platform. The network will unlock 240.10 million ALT tokens, valued at $9.01 million. This unlock accounts for 6.39% of the circulating supply. Additionally, the supply will be split six ways. AltLayer will award 64.25 million tokens to investors. The treasury will also get 52.25 million ALT. The network will keep 41.31 million tokens earmarked for protocol development. The team will receive 36.44 million tokens, the ecosystem and community will gain 29.17 million ALT, and finally, 16.68 million tokens will be kept for advisors. In addition to these three, Sahara (SAHAR), Soon (SOON), and Undeads Games (UDS) will also experience new supply entering the market.  Overall, over the next seven days , the market will welcome tokens worth more than $96.70 million. []</title>
       <link>https://sosovalue.com/research/1947257090905231360</link>
-      <description>41 minutes agobeincrypto3 Token Unlocks to Watch in the Fourth Week of July 2025As the fourth week of July 2025 begins, several major token unlocks will shake up the crypto market. Projects like Avail (AVAIL), Venom (VENOM), amd AltLayer (ALT) are releasing new tokens into circulation.  These events</description>
-      <pubDate>Mon, 21 Jul 2025 11:06:17 +0000</pubDate>
+      <description>48 minutes agobeincrypto3 Token Unlocks to Watch in the Fourth Week of July 2025As the fourth week of July 2025 begins, several major token unlocks will shake up the crypto market. Projects like Avail (AVAIL), Venom (VENOM), amd AltLayer (ALT) are releasing new tokens into circulation.  These events</description>
+      <pubDate>Mon, 21 Jul 2025 11:06:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947257090905231360</guid>
       <category>crypto</category>
@@ -250,8 +319,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Jingwei Tiandi: Launching a self-developed global stable currency payment platformOn July 21, Jingwei Tiandi announced on the Hong Kong Stock Exchange that the company announced its entry into the field of crypto payments and will release its first mobile application &quot;Fopay&quot; on July 21, 2025, providing a one-stop payment platform. Fopay is developed based on the concept of stablecoin crypto payments and currently provides stablecoin custody and prepaid card payment functions through several licensed partners. The board of directors believes that the launch of Fopay and new business segments can explore more business opportunities for the company and benefit shareholders as a whole. [PANews]</title>
       <link>https://sosovalue.com/research/1947251533666340864</link>
-      <description>42 minutes agoPANewsJingwei Tiandi: Launching a self-developed global stable currency payment platformOn July 21, Jingwei Tiandi announced on the Hong Kong Stock Exchange that the company announced its entry into the field of crypto payments and will release its first mobile application &quot;Fopay&quot; on J</description>
-      <pubDate>Mon, 21 Jul 2025 11:05:17 +0000</pubDate>
+      <description>49 minutes agoPANewsJingwei Tiandi: Launching a self-developed global stable currency payment platformOn July 21, Jingwei Tiandi announced on the Hong Kong Stock Exchange that the company announced its entry into the field of crypto payments and will release its first mobile application &quot;Fopay&quot; on J</description>
+      <pubDate>Mon, 21 Jul 2025 11:05:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947251533666340864</guid>
       <category>crypto</category>
@@ -266,8 +335,8 @@ Total reward: $750,000.00</description>
     <item>
       <title>Analyst: Ethereum is expected to reach around $8,000.00 in early 2026, with its price structure similar to the 1980s Dow Jones bull market patternOn July 21, Cointelegraph reported that analyst Gert van Lagen pointed out that Ethereum (ETH) is in the &quot;final surge&quot; stage and may move towards the $8,000.00 price level. He found that ETH&apos;s current price structure is strikingly similar to the bull market pattern of the Dow Jones Index in 1980. The analysis is based on the &quot;textbook expansion diagonal&quot; pattern, which has provided strong support for Ethereum&apos;s main rebound since mid-2022. Currently, ETH is trading between the upper and lower boundaries of this pattern, and is expected to reach the upper boundary of about $8,000.00 in early 2026. Technically, ETH has re-established a multi-year upward trend line as support and is consolidating within an ascending triangle pattern. A break above the $3,900.00-$4,150.00 level resistance zone could trigger a rise to $7,150.00, close to the target price of the trumpet pattern. Analysts say that macroeconomic factors such as the expected Fed rate cuts and continued ETH ETF inflows may support this upward trend. [Techflow]</title>
       <link>https://sosovalue.com/research/1947249833433911296</link>
-      <description>48 minutes agoTechFlowAnalyst: Ethereum is expected to reach around $8,000.00 in early 2026, with its price structure similar to the 1980s Dow Jones bull market patternOn July 21, Cointelegraph reported that analyst Gert van Lagen pointed out that Ethereum (ETH) is in the &quot;final surge&quot; stage and may</description>
-      <pubDate>Mon, 21 Jul 2025 10:59:17 +0000</pubDate>
+      <description>56 minutes agoTechFlowAnalyst: Ethereum is expected to reach around $8,000.00 in early 2026, with its price structure similar to the 1980s Dow Jones bull market patternOn July 21, Cointelegraph reported that analyst Gert van Lagen pointed out that Ethereum (ETH) is in the &quot;final surge&quot; stage and may</description>
+      <pubDate>Mon, 21 Jul 2025 10:58:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947249833433911296</guid>
       <category>crypto</category>
@@ -290,8 +359,8 @@ The Ether Machine will go public through a business combination with Dynamix Cor
 
 If successful, the listing would eclipse SharpLink Gaming’s 353,000 ETH treasury and BitMine Immersion’s 300,657 ETH stash, making Ether Machine the largest public ether holder at launch. It would also extend a growing trend of pure proxy players for investors seeking Ethereum exposure via U.S. equities</title>
       <link>https://sosovalue.com/research/1947251572945997824</link>
-      <description>50 minutes agoThe BlockThe Ether Machine to list on Nasdaq with $1.50 billion war chest for Ethereum treasuryThe Ether Machine plans to list on Nasdaq with more than $1.5 billion in fully committed capital and over 400,000 Ether on its balance sheet, potentially positioning the newly formed company</description>
-      <pubDate>Mon, 21 Jul 2025 10:57:17 +0000</pubDate>
+      <description>57 minutes agoThe BlockThe Ether Machine to list on Nasdaq with $1.50 billion war chest for Ethereum treasuryThe Ether Machine plans to list on Nasdaq with more than $1.5 billion in fully committed capital and over 400,000 Ether on its balance sheet, potentially positioning the newly formed company</description>
+      <pubDate>Mon, 21 Jul 2025 10:57:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947251572945997824</guid>
       <category>crypto</category>
@@ -304,74 +373,10 @@ If successful, the listing would eclipse SharpLink Gaming’s 353,000 ETH treasu
 
     </item>
     <item>
-      <title>CITIC Bank Shijiazhuang Branch Lands Industry&apos;s First Purely Online Digital RMB Government Procurement LoanAccording to People&apos;s Daily, China CITIC Bank&apos;s Xiong&apos;an branch has successfully implemented the first inclusive finance pure online digital RMB government procurement loan (&quot;Digital Currency Government Procurement e-Loan&quot;) in the industry. This business is based on the security of blockchain and the colorability of digital RMB, combined with CITIC Bank&apos;s mature internal risk control system. After verifying the authenticity of the government procurement transaction background, it realizes the rapid verification of the loan amount and the entire process of pure online lending. This model effectively links the three parties of the purchaser, supplier, and bank, promotes information sharing and credit transmission, not only provides suppliers with convenient and efficient financing channels, but also strengthens the payment security of fiscal funds and contract performance supervision, and opens up a new path for credit financing in the field of government procurement. [Foresight News]</title>
-      <link>https://sosovalue.com/research/1947249012424069120</link>
-      <description>53 minutes agoForesightNewsCITIC Bank Shijiazhuang Branch Lands Industry&apos;s First Purely Online Digital RMB Government Procurement LoanAccording to People&apos;s Daily, China CITIC Bank&apos;s Xiong&apos;an branch has successfully implemented the first inclusive finance pure online digital RMB government procuremen</description>
-      <pubDate>Mon, 21 Jul 2025 10:54:17 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947249012424069120</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>foresightnews</category>
-
-    </item>
-    <item>
-      <title>XRP vs. LILPEPE: Potential 1-year returns on a $2,000.00 investmentDisclosure: This article does not represent investment advice. The content and materials featured on this page are for educational purposes only. As institutional money eyes XRP and altcoins regain momentum, traders are weighing stable bets like XRP against high-upside plays like LILPEPE. Table of Contents The crypto market is thawing out once more. As the possibility of an eventual significant interest in the space grows institutional, with XRP as one of the leading forms of altcoin cryptocurrency, investors are assessing how far the benchmark of 2k holdings can be pushed through hypothetical progression.  As the name XRP has easily become one of the most well-known brands in the crypto world, there has been some doubt among traders about whether this is where they want to be when it comes to massive gains in the new cycle. Enter Little Pepe (LILPEPE), a shot-to-success memecoin with actual infrastructure and genuine community interest.  Currently in the final stage of the presale (Stage 6), LILPEPE offers a price of only $0.0015 and is already listed on CoinMarketCap. Although XRP may be a good hold, investors seeking high returns on their investments are now turning to LILPEPE as a more promising investment option. XRP  has been a pillar of the altcoin market for a long time. Being one of the most tested digital assets, it has stood out in the storm of regulations, crashes, and FUD. Most expect the token to reach new all-time highs with the possible release of XRP-backed ETFs.  XRP is currently trading at $2.90 as of mid-July 2025, and the two most common scenarios suggest either returning to its former peak of approximately $3.50 or even surpassing it should ETF demand intensify. That would be a 5x appreciation over its current price – i.e., a $2,000 investment would rapidly compound in a 12-month optimistic horizon to approximately $10,000.  However, to achieve this, XRP would need to capture billions of dollars of institutional capital, and its current large market cap already creates a mathematical drag on a parabolic advance. For traders seeking 20x, 50x, and 100x returns, XRP may not get there soon enough. So, compare that to Little Pepe, the meme token that is fast becoming no laughing matter. LILPEPE has raised more than $6.8 million at merely $0.0015 during Stage 6 of its presale and is already listed on CoinMarketCap, a positive indication of increasing popularity and reach.  Real world functionality is different from DOGE or SHIB through LILPEPE. It is a Layer-2 blockchain-based token that facilitates blazing-fast and cost-free transactions, providing real utility through its Pepe Pump Pad, a security-enabled launchpad for new meme tokens featuring locked liquidity and protection against rug pulls. It is this mix of meme value over serious infrastructure that is exciting early-stage investors.  At that rate, an investment of $2,000 at $0.15 could turn into an impressive figure of $200,000 by 2026, representing a 100-fold increase from the initial investment.  As much as XRP is enjoying the ride of an ETF and boasts institutional hype, the math is plain and simple when it comes to the sheer upper-bound potential of smaller-cap tokens like LILPEPE. This is the reason why traders are rotating:  A penny to a pawn: LILPEPE is a penny (0.0015) that provides an enormous future, considering a minimal investment. With the market cap of XRP standing at over $30 billion, achieving any percentage gains is tough.  Not a hype: Unlike the majority of meme tokens, LILPEPE will have a place in the blockchain through its launchpad. This places it somewhere between a meme culture and actual DeFi infrastructure. Layer-2 benefit: LILPEPE blockchain is low cost and high speed, and is scalable, which is precisely what memecoins, NFTs, and low-gas DeFi are built to do, and will also be popular in 2025-2026.  Viral energy: LILPEPE is going viral with powerful social campaigns, a giveaway of 777k, and an interesting community is already in the competitive spirit of capturing the early buzz of DOGE and SHIB in previous bull markets. The presale cost rises with every phase, and this is why every postponement eats into possible ROI.  No one doubts the fact that XRP is a perfect choice for an investor seeking stability, institutional support, and an established altcoin. However, to anyone who wishes to take a minor commitment and make it a whole lot bigger, LILPEPE is unlike any other in terms of 100x potential, real-life utility, and unparalleled upside potential, starting with the current price points as its foundation. There is a chance of profiting with XRP; Nevertheless, LILPEPE might grant the profits that can change one’s life, but only the early coins can grant them.  To learn more about Little Pepe, visit the website , Telegram , and X .             Disclosure: This content is provided by a third party. Neither crypto.news nor the author of this article endorses any product mentioned on this page. Users should conduct their own research before taking any action related to the company.</title>
-      <link>https://sosovalue.com/research/1947247270370234368</link>
-      <description>58 minutes agocrypto.newsXRP vs. LILPEPE: Potential 1-year returns on a $2,000.00 investmentDisclosure: This article does not represent investment advice. The content and materials featured on this page are for educational purposes only. As institutional money eyes XRP and altcoins regain momentum,</description>
-      <pubDate>Mon, 21 Jul 2025 10:49:17 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947247270370234368</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>the block</category>
-
-    </item>
-    <item>
-      <title>WINkLink oracle officially supports USD1 price service, empowering the TRON stablecoin ecosystemAccording to official sources, WINkLink oracle has now added USD1/TRX price service to further expand its decentralized data ecosystem and provide a more secure and reliable price source for stablecoin applications on the TRON network. This move will accelerate the infrastructure construction of DeFi scenarios such as lending, synthetic assets, and derivatives, and help the prosperous development of the TRON ecosystem. [Odaily News]</title>
-      <link>https://sosovalue.com/research/1947247957162348544</link>
-      <description>1 hour agoOdailyWINkLink oracle officially supports USD1 price service, empowering the TRON stablecoin ecosystemAccording to official sources, WINkLink oracle has now added USD1/TRX price service to further expand its decentralized data ecosystem and provide a more secure and reliable price source f</description>
-      <pubDate>Mon, 21 Jul 2025 10:47:17 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947247957162348544</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>sosovalue</category>
-
-    </item>
-    <item>
-      <title>Top 3 Crypto Airdrops for the Fourth Week of JulyAs interest transitions from Bitcoin (BTC) to altcoins, several crypto airdrops offer investors a chance to diversify their portfolios, providing low-barrier entries into high-potential projects. The following projects, backed by significant investor muscle, offer airdrop opportunities for interested farmers. Nexus The Nexus chain is among the top crypto airdrops to watch. While it remains in the potential (not yet confirmed) status, the project has significant backing from notable investors. Among them are Pantera Capital and DragonFly Capital, which co-led the tier-1 fundraiser. After a four-tier fundraiser, Nexus has accumulated $27.2 million and launched a community point incentive program. To participate, users can create various components of the project and earn points. The first point distribution will be on Tuesday, July 22. Ambassadors and users with roles in Dll receive additional points. Notably, the Nexus airdrop is linked to Nexus Labs’ zkVM-powered Layer 1 blockchain, rewarding early participants with NEX points. The points are convertible to tokens upon mainnet launch in Q3 2025. To participate, users can join the Devnet phase and contribute computing power via a browser-based node or dedicated hardware for higher points. Additional rewards come from social tasks, creating content, or earning Discord roles. Common Another crypto airdrop to watch is Common, a social network  boasting up to $20.0 million in funds raised. Notable backers or investors include DragonFly Capital, which led the first-tier fundraiser. Other participants include Coinbase Ventures and Polychain Capital. During the second tier, venture firm ParaFi Capital led the fundraiser, alongside participants such as Hashed Fund and CMS Holdings. Common launched Aura points in April, with the social function still open. This allows participants to perform tasks and qualify for a potential airdrop from the project. While some functions end on a given day, the project adds new ones periodically. On July 17, Common updated the project, adding new quests for airdrop farmers to participate in and earn points. Try Your Best AdditionalTradersmonitor Try Your Best is a social platform with $20.8 million in funds raised. It enjoys the backing of Coinbase Ventures, among other participants like Strobe Ventures and Offline Ventures. The founder, TY Haney, recently advertised the social platform as the future of community commerce. The Try Your Best platform connects brands with their communities, runni ng atop the Avalanche blockchain. On its website, airdrop farmers can complete quests and earn TYB coins, which can be converted into project tokens in the future.</title>
-      <link>https://sosovalue.com/research/1947250553142923264</link>
-      <description>1 hour agobeincryptoTop 3 Crypto Airdrops for the Fourth Week of JulyAs interest transitions from Bitcoin (BTC) to altcoins, several crypto airdrops offer investors a chance to diversify their portfolios, providing low-barrier entries into high-potential projects. The following projects, backed by s</description>
-      <pubDate>Mon, 21 Jul 2025 10:47:17 +0000</pubDate>
-      <source>SosoValue Research</source>
-      <guid isPermaLink="true">https://sosovalue.com/research/1947250553142923264</guid>
-      <category>crypto</category>
-      <category>sosovalue research</category>
-      <category>sosovalue</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>research</category>
-      <category>sosovalue</category>
-
-    </item>
-    <item>
       <title>SosoValue: View</title>
       <link>https://sosovalue.com/research/1947143958375706624</link>
       <description>Updated  1 day agoSoSo Daily | Jul. 21: Ethereum Soars as Treasury Arms Race Heats Up00:00 / 04:13View</description>
-      <pubDate>Sun, 20 Jul 2025 11:47:17 +0000</pubDate>
+      <pubDate>Sun, 20 Jul 2025 11:54:46 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947143958375706624</guid>
       <category>crypto</category>
