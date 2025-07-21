@@ -8,7 +8,8 @@ export enum NewsCategory {
   ENTERTAINMENT = 'entertainment',
   WORLD = 'world',
   POLITICS = 'politics',
-  BREAKING = 'breaking'
+  BREAKING = 'breaking',
+  CRYPTO = 'crypto'
 }
 
 export interface NewsItem {

@@ -294,7 +294,8 @@ export class NewsAggregator {
 
   private async generateIndexPage(): Promise<void> {
     const enabledCategories = this.configLoader.getEnabledCategories();
-    const indexHTML = this.rssGenerator.generateFeedIndex(enabledCategories);
+    const sources = this.configLoader.getEnabledSources();
+    const indexHTML = this.rssGenerator.generateFeedIndex(enabledCategories, sources);
     
     const docsDir = 'docs';
     if (!existsSync(docsDir)) {

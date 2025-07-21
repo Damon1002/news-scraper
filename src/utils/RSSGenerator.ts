@@ -1,4 +1,4 @@
-import { NewsItem, FeedMetadata, NewsCategory } from '../types/index.js';
+import { NewsItem, FeedMetadata, NewsCategory, SourceConfig } from '../types/index.js';
 
 export class RSSGenerator {
   private escapeXML(str: string): string {
@@ -133,17 +133,63 @@ ${rssItems}
     };
   }
 
-  public generateFeedIndex(categories: NewsCategory[]): string {
-    // Only show feeds that actually exist and work
-    const feedLinks = [
-      '    <li><a href="feeds/entertainment/setn-entertainment.xml">🎬 娱乐星闻 (SETN)</a></li>',
-      '    <li><a href="feeds/entertainment/tvbs-entertainment.xml">📺 TVBS 娱乐新闻</a></li>',
-      '    <li><a href="feeds/entertainment/nextapple-entertainment.xml">🍎 壹苹新闻网</a></li>',
-      '    <li><a href="feeds/entertainment/hk01-entertainment.xml">🇭🇰 HK01 即時娛樂</a></li>',
-      '    <li><a href="feeds/entertainment/pagesix-entertainment.xml">📰 Page Six Entertainment</a></li>',
-      '    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>',
-      '    <li><a href="feeds/crypto/sosovalue-research.xml">💰 SosoValue Research</a></li>'
-    ].join('\n');
+  private getCategoryEmoji(category: NewsCategory, sourceName: string): string {
+    // Return appropriate emoji based on category and source
+    switch (category) {
+      case 'entertainment':
+        if (sourceName.includes('SETN')) return '🎬';
+        if (sourceName.includes('TVBS')) return '📺';
+        if (sourceName.includes('壹苹') || sourceName.includes('NextApple')) return '🍎';
+        if (sourceName.includes('HK01')) return '🇭🇰';
+        if (sourceName.includes('Page Six')) return '📰';
+        return '🎭';
+      case 'crypto':
+        return '💰';
+      case 'technology':
+        return '💻';
+      case 'business':
+        return '💼';
+      case 'science':
+        return '🔬';
+      case 'world':
+        return '🌍';
+      case 'general':
+        return '📰';
+      case 'health':
+        return '🏥';
+      case 'sports':
+        return '⚽';
+      case 'politics':
+        return '🏛️';
+      case 'breaking':
+        return '🚨';
+      default:
+        return '📰';
+    }
+  }
+
+  public generateFeedIndex(categories: NewsCategory[], sources: SourceConfig[]): string {
+    // Dynamically generate feed links from enabled sources
+    const feedLinks: string[] = [];
+    
+    // Add enabled sources with their feeds
+    sources
+      .filter(source => source.enabled)
+      .forEach(source => {
+        source.categories.forEach(categoryConfig => {
+          const category = categoryConfig.category;
+          const emoji = this.getCategoryEmoji(category, source.name);
+          const feedPath = `feeds/${category}/${source.id}.xml`;
+          const linkText = `${emoji} ${source.name}`;
+          
+          feedLinks.push(`    <li><a href="${feedPath}">${linkText}</a></li>`);
+        });
+      });
+    
+    // Add external feeds (Daily Mail - external RSS)
+    feedLinks.push('    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>');
+    
+    const feedLinksHTML = feedLinks.join('\n');
 
     return `<!DOCTYPE html>
 <html lang="en">
@@ -168,7 +214,7 @@ ${rssItems}
     <h2>Available Feeds</h2>
     <ul class="feed-list">
         <li><a href="feeds/master.xml">🌟 Master Feed (All Categories)</a></li>
-${feedLinks}
+${feedLinksHTML}
     </ul>
     
     <div class="status">
