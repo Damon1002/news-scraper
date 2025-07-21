@@ -1,22 +1,6 @@
 {
   "sources": [
     {
-      "id": "google-news",
-      "name": "Google News",
-      "type": "rss",
-      "baseUrl": "https://news.google.com/rss",
-      "rateLimit": 10,
-      "enabled": true,
-      "categories": [
-        {
-          "category": "general",
-          "endpoint": "?hl=en-US&gl=US&ceid=US:en",
-          "maxItems": 20,
-          "updateFrequency": 60
-        }
-      ]
-    },
-    {
       "id": "hackernews",
       "name": "Hacker News",
       "type": "api",
@@ -212,7 +196,7 @@
   "global": {
     "maxItemsPerFeed": 50,
     "defaultUpdateFrequency": 60,
-    "enabledCategories": ["general", "technology", "business", "world", "science", "health", "entertainment", "crypto"],
+    "enabledCategories": ["technology", "business", "world", "science", "health", "entertainment", "crypto"],
     "outputDirectory": "docs/feeds",
     "baseUrl": "https://damon1002.github.io/news-scraper"
   }

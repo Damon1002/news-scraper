@@ -3,7 +3,6 @@ import { ConfigLoader } from './utils/ConfigLoader.js';
 import { RSSGenerator } from './utils/RSSGenerator.js';
 import { FeedRegistryManager } from './utils/FeedRegistry.js';
 import { NewsSource } from './sources/NewsSource.js';
-import { GoogleNewsSource } from './sources/GoogleNewsSource.js';
 import { RedditSource } from './sources/RedditSource.js';
 import { HackerNewsSource } from './sources/HackerNewsSource.js';
 import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
@@ -48,9 +47,6 @@ export class NewsAggregator {
   private createSource(config: SourceConfig): NewsSource {
     switch (config.type) {
       case 'rss':
-        if (config.id === 'google-news') {
-          return new GoogleNewsSource(config);
-        }
         throw new Error(`Unsupported RSS source: ${config.id}`);
       
       case 'api':
@@ -311,11 +307,7 @@ export class NewsAggregator {
   }
 
   public async cleanup(): Promise<void> {
-    for (const source of this.sources.values()) {
-      if (source instanceof GoogleNewsSource) {
-        await source.cleanup();
-      }
-    }
+    // No cleanup needed for current sources
   }
 
   public displayStats(): void {
