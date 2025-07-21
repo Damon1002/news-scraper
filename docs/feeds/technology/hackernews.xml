@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Jul 2025 08:55:15 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 08:55:15 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 09:17:40 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 09:17:40 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Why Some Satellites Use NetBSD?</title>
+      <link>https://machaddr.substack.com/p/why-some-satellites-use-netbsd</link>
+      <description>13 points 7 comments by Bogdanp on Hacker News</description>
+      <pubDate>Mon, 21 Jul 2025 06:16:14 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://machaddr.substack.com/p/why-some-satellites-use-netbsd</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>How to handle people dismissing io_uring as insecure?</title>
       <link>https://github.com/axboe/liburing/discussions/1047</link>
-      <description>74 points 57 comments by nromiun on Hacker News</description>
+      <description>74 points 63 comments by nromiun on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 06:15:05 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/axboe/liburing/discussions/1047</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>ESP32-Faikin: ESP32 based module to control Daikin aircon units</title>
       <link>https://github.com/revk/ESP32-Faikin</link>
-      <description>49 points 23 comments by todsacerdoti on Hacker News</description>
+      <description>52 points 25 comments by todsacerdoti on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 03:41:23 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/revk/ESP32-Faikin</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>Log by time, not by count</title>
       <link>https://johnscolaro.xyz/blog/log-by-time-not-by-count</link>
-      <description>102 points 33 comments by JohnScolaro on Hacker News</description>
+      <description>104 points 33 comments by JohnScolaro on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 01:15:55 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://johnscolaro.xyz/blog/log-by-time-not-by-count</guid>
@@ -49,7 +60,7 @@
     <item>
       <title>Agents built from alloys</title>
       <link>https://xbow.com/blog/alloy-agents/</link>
-      <description>114 points 48 comments by summarity on Hacker News</description>
+      <description>115 points 51 comments by summarity on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 00:33:04 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://xbow.com/blog/alloy-agents/</guid>
@@ -60,7 +71,7 @@
     <item>
       <title>Staying cool without refrigerants: Next-generation Peltier cooling</title>
       <link>https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling</link>
-      <description>277 points 202 comments by simonebrunozzi on Hacker News</description>
+      <description>280 points 204 comments by simonebrunozzi on Hacker News</description>
       <pubDate>Sun, 20 Jul 2025 20:18:54 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling</guid>
@@ -71,7 +82,7 @@
     <item>
       <title>XMLUI</title>
       <link>https://blog.jonudell.net/2025/07/18/introducing-xmlui/</link>
-      <description>522 points 271 comments by mpweiher on Hacker News</description>
+      <description>525 points 272 comments by mpweiher on Hacker News</description>
       <pubDate>Sun, 20 Jul 2025 14:03:39 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.jonudell.net/2025/07/18/introducing-xmlui/</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>“Dynamic Programming” is not referring to “computer programming”</title>
       <link>https://www.vidarholen.net/contents/blog/?p=1172</link>
-      <description>154 points 56 comments by r4um on Hacker News</description>
+      <description>165 points 68 comments by r4um on Hacker News</description>
       <pubDate>Fri, 18 Jul 2025 11:09:07 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.vidarholen.net/contents/blog/?p=1172</guid>
@@ -93,7 +104,7 @@
     <item>
       <title>The Daily Life of a Medieval King</title>
       <link>https://www.medievalists.net/2025/07/medieval-king-daily-life/</link>
-      <description>70 points 17 comments by diodorus on Hacker News</description>
+      <description>77 points 21 comments by diodorus on Hacker News</description>
       <pubDate>Thu, 17 Jul 2025 20:54:02 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.medievalists.net/2025/07/medieval-king-daily-life/</guid>
@@ -102,20 +113,9 @@
 
     </item>
     <item>
-      <title>New colors without shooting lasers into your eyes</title>
-      <link>https://dynomight.net/colors/</link>
-      <description>382 points 105 comments by zdw on Hacker News</description>
-      <pubDate>Thu, 17 Jul 2025 16:01:17 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://dynomight.net/colors/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Debugging Bash Like a Sire</title>
       <link>https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/</link>
-      <description>25 points 7 comments by gfalcao on Hacker News</description>
+      <description>27 points 9 comments by gfalcao on Hacker News</description>
       <pubDate>Thu, 17 Jul 2025 12:51:28 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/</guid>
