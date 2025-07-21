@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/entertainment/setn-entertainment.xml</link>
     <description>来自SETN Entertainment的最新娱乐星闻</description>
     <language>zh-TW</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 21 Jul 2025 03:20:07 +0000</lastBuildDate>
     <pubDate>Mon, 21 Jul 2025 03:20:07 +0000</pubDate>
+=======
+    <lastBuildDate>Mon, 21 Jul 2025 02:05:20 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 02:05:20 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     <ttl>60</ttl>
     <category>entertainment</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/entertainment/setn-entertainment.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +19,7 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+<<<<<<< HEAD
       <title>美魔女歌手出意外！「眼球血管破裂」畫面驚悚 敬業上工12小時</title>
       <link>https://star.setn.com/news/1690727?utm_campaign=viewallnews</link>
       <description>美魔女歌手出意外！「眼球血管破裂」畫面驚悚 敬業上工12小時...</description>
@@ -124,6 +130,8 @@
 
     </item>
     <item>
+=======
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <title>超辣女星激戰到一半「男友突停機」！何妤玟曝他超瞎理由：年輕人都不會</title>
       <link>https://star.setn.com/news/1690682?utm_campaign=viewallnews</link>
       <description>超辣女星激戰到一半「男友突停機」！何妤玟曝他超瞎理由：年輕人都不會...</description>
@@ -233,5 +241,118 @@
       <category>setn entertainment</category>
 
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>周興哲9月重返小巨蛋！「4萬張票被搶光」本人感動發聲預告大驚喜</title>
+      <link>https://star.setn.com/news/1690651?utm_campaign=viewallnews</link>
+      <description>周興哲9月重返小巨蛋！「4萬張票被搶光」本人感動發聲預告大驚喜...</description>
+      <pubDate>Mon, 21 Jul 2025 00:43:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690651?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>大罷免倒數！資深歌手宣布「返台投票」喊話：選後永遠是一家人</title>
+      <link>https://star.setn.com/news/1690647?utm_campaign=viewallnews</link>
+      <description>大罷免倒數！資深歌手宣布「返台投票」喊話：選後永遠是一家人...</description>
+      <pubDate>Mon, 21 Jul 2025 00:19:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690647?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>合照黃明志出事！大咖港星遭舉報 急發聲明高喊「愛祖國」</title>
+      <link>https://star.setn.com/news/1690644?utm_campaign=viewallnews</link>
+      <description>合照黃明志出事！大咖港星遭舉報 急發聲明高喊「愛祖國」...</description>
+      <pubDate>Sun, 20 Jul 2025 23:57:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690644?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>祝融帶衰一把火／獨家！妹妹菸蒂燒掉租房 何妤玟拒背鍋600萬索賠</title>
+      <link>https://star.setn.com/news/1690614?utm_campaign=viewallnews</link>
+      <description>祝融帶衰一把火／獨家！妹妹菸蒂燒掉租房 何妤玟拒背鍋600萬索賠...</description>
+      <pubDate>Sun, 20 Jul 2025 23:02:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690614?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>F4合體內幕！周渝民嘆唱《情非得已》再也不會快樂：因為熙媛走了</title>
+      <link>https://star.setn.com/news/1690620?utm_campaign=viewallnews</link>
+      <description>F4合體內幕！周渝民嘆唱《情非得已》再也不會快樂：因為熙媛走了...</description>
+      <pubDate>Sun, 20 Jul 2025 22:23:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690620?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>演唱會鏡頭拍到CEO外遇！酷玩樂團Kiss Cam引爆「偷情搜尋潮」</title>
+      <link>https://star.setn.com/news/1690594?utm_campaign=viewallnews</link>
+      <description>演唱會鏡頭拍到CEO外遇！酷玩樂團Kiss Cam引爆「偷情搜尋潮」...</description>
+      <pubDate>Sun, 20 Jul 2025 15:47:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690594?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>歐陽妮妮6個月兒急動手術！驚曝「再拖蜂窩性組織炎」 真實病況曝光</title>
+      <link>https://star.setn.com/news/1690583?utm_campaign=viewallnews</link>
+      <description>歐陽妮妮6個月兒急動手術！驚曝「再拖蜂窩性組織炎」 真實病況曝光...</description>
+      <pubDate>Sun, 20 Jul 2025 13:55:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690583?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>胡瓜後背交疊甜美女星 阿翔不忍開嗆了！雙方恐中暑</title>
+      <link>https://star.setn.com/news/1690574?utm_campaign=viewallnews</link>
+      <description>胡瓜後背交疊甜美女星 阿翔不忍開嗆了！雙方恐中暑...</description>
+      <pubDate>Sun, 20 Jul 2025 13:08:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690574?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>大全聯登場！賣場驚見「超帥收銀員」身份曝光竟是大咖男歌手</title>
+      <link>https://star.setn.com/news/1690572?utm_campaign=viewallnews</link>
+      <description>大全聯登場！賣場驚見「超帥收銀員」身份曝光竟是大咖男歌手...</description>
+      <pubDate>Sun, 20 Jul 2025 12:56:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690572?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+    <item>
+      <title>直擊／男神許光漢現身LE SSERAFIM演唱會MAN爆 恩採問：還記得我們嗎？</title>
+      <link>https://star.setn.com/news/1690569?utm_campaign=viewallnews</link>
+      <description>直擊／男神許光漢現身LE SSERAFIM演唱會MAN爆 恩採問：還記得我們嗎？...</description>
+      <pubDate>Sun, 20 Jul 2025 12:45:00 +0000</pubDate>
+      <source>SETN Entertainment</source>
+      <guid isPermaLink="true">https://star.setn.com/news/1690569?utm_campaign=viewallnews</guid>
+      <category>entertainment</category>
+      <category>setn entertainment</category>
+
+    </item>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
   </channel>
 </rss>

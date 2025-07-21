@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 21 Jul 2025 03:19:43 +0000</lastBuildDate>
     <pubDate>Mon, 21 Jul 2025 03:19:43 +0000</pubDate>
+=======
+    <lastBuildDate>Mon, 21 Jul 2025 02:04:55 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 02:04:55 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +21,11 @@
     <item>
       <title>Log by time, not by count</title>
       <link>https://johnscolaro.xyz/blog/log-by-time-not-by-count</link>
+<<<<<<< HEAD
       <description>22 points 13 comments by JohnScolaro on Hacker News</description>
+=======
+      <description>5 points by JohnScolaro on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Mon, 21 Jul 2025 01:15:55 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://johnscolaro.xyz/blog/log-by-time-not-by-count</guid>
@@ -25,6 +34,7 @@
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>iMessage integration in Claude can hijack the model to do anything</title>
       <link>https://www.generalanalysis.com/blog/imessage-stripe-exploit</link>
       <description>37 points 22 comments by rhavaeis on Hacker News</description>
@@ -39,6 +49,11 @@
       <title>Agents built from alloys</title>
       <link>https://xbow.com/blog/alloy-agents/</link>
       <description>51 points 19 comments by summarity on Hacker News</description>
+=======
+      <title>LLM Alloying Improves Performance over Single Model</title>
+      <link>https://xbow.com/blog/alloy-agents/</link>
+      <description>27 points 6 comments by summarity on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Mon, 21 Jul 2025 00:33:04 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://xbow.com/blog/alloy-agents/</guid>
@@ -47,12 +62,32 @@
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>The Genius Device That Rocked F1</title>
       <link>https://www.youtube.com/watch?v=FhmLb2DhNYM</link>
       <description>35 points 3 comments by brudgers on Hacker News</description>
       <pubDate>Sun, 20 Jul 2025 23:42:26 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=FhmLb2DhNYM</guid>
+=======
+      <title>What birdsong and back ends can teach us about magic</title>
+      <link>https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic</link>
+      <description>16 points 3 comments by nkurz on Hacker News</description>
+      <pubDate>Sun, 20 Jul 2025 23:59:39 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)</title>
+      <link>https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/</link>
+      <description>55 points 16 comments by Michelangelo11 on Hacker News</description>
+      <pubDate>Sun, 20 Jul 2025 21:05:19 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/</guid>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>technology</category>
       <category>hacker news</category>
 
@@ -60,7 +95,11 @@
     <item>
       <title>Staying cool without refrigerants: Next-generation Peltier cooling</title>
       <link>https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling</link>
+<<<<<<< HEAD
       <description>190 points 140 comments by simonebrunozzi on Hacker News</description>
+=======
+      <description>171 points 125 comments by simonebrunozzi on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Sun, 20 Jul 2025 20:18:54 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling</guid>
@@ -71,7 +110,11 @@
     <item>
       <title>Stdio(3) change: FILE is now opaque (OpenBSD)</title>
       <link>https://undeadly.org/cgi?action=article;sid=20250717103345</link>
+<<<<<<< HEAD
       <description>109 points 49 comments by gslin on Hacker News</description>
+=======
+      <description>101 points 46 comments by gslin on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Sun, 20 Jul 2025 18:18:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20250717103345</guid>
@@ -82,7 +125,11 @@
     <item>
       <title>XMLUI</title>
       <link>https://blog.jonudell.net/2025/07/18/introducing-xmlui/</link>
+<<<<<<< HEAD
       <description>464 points 246 comments by mpweiher on Hacker News</description>
+=======
+      <description>451 points 240 comments by mpweiher on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Sun, 20 Jul 2025 14:03:39 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.jonudell.net/2025/07/18/introducing-xmlui/</guid>
@@ -91,9 +138,26 @@
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>New colors without shooting lasers into your eyes</title>
       <link>https://dynomight.net/colors/</link>
       <description>277 points 73 comments by zdw on Hacker News</description>
+=======
+      <title>Coding with LLMs in the summer of 2025 – an update</title>
+      <link>https://antirez.com/news/154</link>
+      <description>414 points 287 comments by antirez on Hacker News</description>
+      <pubDate>Sun, 20 Jul 2025 11:04:02 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://antirez.com/news/154</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>New colors without shooting lasers into your eyes</title>
+      <link>https://dynomight.net/colors/</link>
+      <description>238 points 68 comments by zdw on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Thu, 17 Jul 2025 16:01:17 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://dynomight.net/colors/</guid>
@@ -102,6 +166,7 @@
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>Slow Motion Became Cinema&apos;s Dominant Special Effect</title>
       <link>https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime</link>
       <description>6 points by cainxinth on Hacker News</description>
@@ -116,6 +181,11 @@
       <title>Simulating Hand-Drawn Motion with SVG Filters</title>
       <link>https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters</link>
       <description>131 points 13 comments by camillovisini on Hacker News</description>
+=======
+      <title>Simulating Hand-Drawn Motion with SVG Filters</title>
+      <link>https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters</link>
+      <description>115 points 13 comments by camillovisini on Hacker News</description>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <pubDate>Thu, 17 Jul 2025 09:12:26 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters</guid>

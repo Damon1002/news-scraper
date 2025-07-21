@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/science/reddit.xml</link>
     <description>Latest science news from Reddit</description>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 21 Jul 2025 03:19:54 +0000</lastBuildDate>
     <pubDate>Mon, 21 Jul 2025 03:19:54 +0000</pubDate>
+=======
+    <lastBuildDate>Sun, 13 Jul 2025 15:22:19 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 15:22:19 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     <ttl>60</ttl>
     <category>science</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/science/reddit.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +19,7 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+<<<<<<< HEAD
       <title>Soluble SARS-CoV-2 Spike glycoprotein: considering some potential pathogenic effects</title>
       <link>https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1616106/full</link>
       <description>36 upvotes 2 comments from r/science</description>
@@ -64,11 +70,42 @@
       <pubDate>Sun, 20 Jul 2025 17:54:12 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">http://doi.org/10.1007/s00415-025-13208-8</guid>
+=======
+      <title>Women with ADHD three times more likely to experience premenstrual dysphoric disorder. Researchers also found that women who had ADHD and a clinical diagnosis of depression or anxiety had an even greater risk of PMDD.</title>
+      <link>https://theconversation.com/women-with-adhd-three-times-more-likely-to-experience-premenstrual-dysphoric-disorder-new-research-260222</link>
+      <description>154 upvotes 14 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 14:11:07 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://theconversation.com/women-with-adhd-three-times-more-likely-to-experience-premenstrual-dysphoric-disorder-new-research-260222</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/Xd1sHKvrZbiQ-iuPjEaPiLLkhPh1dyqxj2MBotx9EYk.jpeg?width=140&amp;height=68&amp;crop=140:68,smart&amp;auto=webp&amp;s=21388aea7ef326241bc6b3b9bac4332bad85b643" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Methylphenidate, an ADHD drug, curbs impulsivity in men only, linked to brain wiring differences. In men, the drug’s effects appeared to be related to the structural integrity of neural fibers in the forceps major region of the corpus callosum.</title>
+      <link>https://www.psypost.org/methylphenidate-adhd-drug-curbs-impulsivity-in-men-only-linked-to-brain-wiring-differences/</link>
+      <description>497 upvotes 44 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 14:02:30 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.psypost.org/methylphenidate-adhd-drug-curbs-impulsivity-in-men-only-linked-to-brain-wiring-differences/</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/x3ezSjKeVVL2w_DhltEdElkNampfzyKUnheXwsuZG_E.jpeg?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=8e9d304af52d39060e143dcf7a4b6c4761fe15ac" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Artificial sweeteners, widely used in soft drinks, processed foods and sugar-free products, are turning up in our rivers, waterways and natural ecosystems. Some also pose toxicity risks to aquatic animals. In zebrafish, sucralose causes birth defects and high levels of saccharin are neurotoxic.</title>
+      <link>https://www.scimex.org/newsfeed/artificial-sweeteners-leave-bitter-aftertaste-for-the-environment</link>
+      <description>324 upvotes 4 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 13:26:02 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.scimex.org/newsfeed/artificial-sweeteners-leave-bitter-aftertaste-for-the-environment</guid>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>science</category>
       <category>reddit</category>
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>The respiratory syncytial virus (RSV) vaccine, introduced across the UK in late summer 2024, led to a 72% reduction in babies hospitalised with the virus if mothers were vaccinated. The findings are the first to show the real-world effectiveness of the vaccine in pregnant women in the UK.</title>
       <link>https://www.ed.ac.uk/news/new-jab-protects-babies-from-serious-lung-infection</link>
       <description>6374 upvotes 57 comments from r/science</description>
@@ -122,6 +159,83 @@
       <category>science</category>
       <category>reddit</category>
       <enclosure url="https://external-preview.redd.it/Rbkzjsqzg5EPFzM9OstteQvsZ89Iyudy1O3XN_C5QxM.png?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=68bc99f579cfb1e396d82b6a6483798271383210" type="image/jpeg"/>
+=======
+      <title>Higher animal protein intake was significantly associated with a 131% increased likelihood of metabolic dysfunction-associated fatty liver disease while higher plant protein intake was significantly associated with a 52% reduced odds in overweight and obese children, study finds</title>
+      <link>https://nutritionj.biomedcentral.com/articles/10.1186/s12937-025-01142-4</link>
+      <description>865 upvotes 118 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 12:13:30 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://nutritionj.biomedcentral.com/articles/10.1186/s12937-025-01142-4</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/aUtKcK9WSau-wUuvlFaEuHZjDY_CCtuutEHj_vOJf7Q.png?width=140&amp;height=140&amp;crop=140:140,smart&amp;auto=webp&amp;s=c2a76caf0223c68e477aa4294c7c6bca1ab534b9" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Scientists have uncovered the hidden remains of a vast ancient coastal plain  beneath East Antarctica—an important discovery that could refine forecasts of future global sea level rise. East Antarctica is the largest ice sheet on Earth. Alone, it holds enough frozen water to raise global sea levels</title>
+      <link>https://www.bas.ac.uk/media-post/ancient-river-landscapes-discovered-beneath-east-antarctica/</link>
+      <description>237 upvotes 2 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 10:44:59 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.bas.ac.uk/media-post/ancient-river-landscapes-discovered-beneath-east-antarctica/</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/6LtJJlcCh5DtiTAPwVYbqvi8ErU3xYkxsU3CNvpbBvk.jpeg?width=140&amp;height=105&amp;crop=140:105,smart&amp;auto=webp&amp;s=88a32786940a00c879b085ed1a07c9605186b941" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>New study finds tortoises have human-like feelings</title>
+      <link>https://link.springer.com/article/10.1007/s10071-025-01973-y</link>
+      <description>353 upvotes 53 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 10:36:44 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://link.springer.com/article/10.1007/s10071-025-01973-y</guid>
+      <category>science</category>
+      <category>reddit</category>
+
+    </item>
+    <item>
+      <title>Brain scans reveal who may benefit most from MDMA for trauma-related symptoms. Researchers found that participants with heightened brain reactivity to unconscious threat cues showed marked changes in neural activity after receiving MDMA.</title>
+      <link>https://www.psypost.org/brain-scans-reveal-who-may-benefit-most-from-mdma-for-trauma-related-symptoms/</link>
+      <description>670 upvotes 12 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 10:01:44 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.psypost.org/brain-scans-reveal-who-may-benefit-most-from-mdma-for-trauma-related-symptoms/</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/toeA9DNvSwu_kavAWlsX-oO3wsls_-1d3Hf2A5b5ypw.jpeg?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=70044070e8b7962ab8c9036f72b1357f854ae5d0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>A new study created the first mice that glow all on their own, no chemicals or injections required. By adding bacterial light-producing genes, these &apos;Lux mice&apos; emit a soft glow across their bodies, powered by their cells.</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ads0463</link>
+      <description>320 upvotes 28 comments from r/science</description>
+      <pubDate>Sun, 13 Jul 2025 04:56:29 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.science.org/doi/10.1126/sciadv.ads0463</guid>
+      <category>science</category>
+      <category>reddit</category>
+
+    </item>
+    <item>
+      <title>People in the United States who have sex fewer than a dozen times a year appear more likely to die during follow-up if they carry extra abdominal fat or score high on a standard test of depression symptoms, according to a study.</title>
+      <link>https://www.psypost.org/low-sexual-activity-body-shape-and-mood-may-combine-in-ways-that-shorten-lives-new-study-suggests/</link>
+      <description>5003 upvotes 437 comments from r/science</description>
+      <pubDate>Sat, 12 Jul 2025 19:13:03 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.psypost.org/low-sexual-activity-body-shape-and-mood-may-combine-in-ways-that-shorten-lives-new-study-suggests/</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/0A5r5i1VWKhnWo86DxiJD5xosNba35XlfRqyKYsWugE.jpeg?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=dd46df6247a6b4f99553c1d88b01d693ac29911c" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Dopamine doesn’t flood the brain as once believed – it fires in exact, ultra-fast bursts that target specific neurons, suggests a new study in mice. The discovery turns a century-old view of dopamine on its head and could transform how we treat everything from ADHD to Parkinson’s disease.</title>
+      <link>https://newatlas.com/mental-health/dopamine-precision-neuroscience/</link>
+      <description>9651 upvotes 257 comments from r/science</description>
+      <pubDate>Sat, 12 Jul 2025 15:02:05 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://newatlas.com/mental-health/dopamine-precision-neuroscience/</guid>
+      <category>science</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/Qow6ZK_nnSRVEOwgekdNM3I5h-XAKpuAJfqyDQIyiog.png?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=0bdc5dc4fe23a1deca1668b62cb00aed09c984c5" type="image/jpeg"/>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     </item>
   </channel>
 </rss>

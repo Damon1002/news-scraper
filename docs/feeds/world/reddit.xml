@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/world/reddit.xml</link>
     <description>Latest world news from Reddit</description>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 21 Jul 2025 03:19:50 +0000</lastBuildDate>
     <pubDate>Mon, 21 Jul 2025 03:19:50 +0000</pubDate>
+=======
+    <lastBuildDate>Sun, 13 Jul 2025 15:22:15 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 15:22:15 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     <ttl>60</ttl>
     <category>world</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/world/reddit.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +19,7 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+<<<<<<< HEAD
       <title>Germany’s Merz admits Europe has been a ‘free-rider’ on US defense</title>
       <link>https://www.politico.eu/article/europe-free-rider-us-defense-germany-friedrich-merz-donald-trump-nato/</link>
       <description>327 upvotes 123 comments from r/worldnews</description>
@@ -172,11 +178,174 @@
       <link>https://www.reddit.com/live/18hnzysb1elcs</link>
       <description>601 upvotes 54 comments from r/worldnews</description>
       <pubDate>Sun, 20 Jul 2025 04:02:34 +0000</pubDate>
+=======
+      <title>Russia&apos;s agents killed after intelligence officer shot dead, says Ukraine</title>
+      <link>https://www.bbc.com/news/articles/cj3r7p117l0o</link>
+      <description>640 upvotes 4 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 13:38:48 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cj3r7p117l0o</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/M33b_IL6D7rZNlnaG42x-8qv7-poyHWgZsqKUTqDL6w.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=1cdbaea17cb964f19bcaca521320bf6acfc835ac" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Chinese team says carbon dioxide can be turned into sugar</title>
+      <link>https://www.scmp.com/news/china/science/article/3318025/chinese-team-says-carbon-dioxide-can-turn-sugar-offering-solution-global-problems?module=top_story&amp;pgtype=homepage</link>
+      <description>444 upvotes 97 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 13:25:36 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/science/article/3318025/chinese-team-says-carbon-dioxide-can-turn-sugar-offering-solution-global-problems?module=top_story&amp;pgtype=homepage</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/fRZoxGiNfa_N9P4qdyIKA0CZExzGMqvpDBTPk0yHQbg.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=34d009c6e4c85f7541a93ea80fcbb1d09c0c2c50" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Balkan countries release joint statement supporting Ukrainian NATO accession after summit</title>
+      <link>https://kyivindependent.com/balkan-countries-ministers-supported-ukraines-nato-membership-after-summit/</link>
+      <description>704 upvotes 11 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 13:17:52 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://kyivindependent.com/balkan-countries-ministers-supported-ukraines-nato-membership-after-summit/</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/KD8xXabUSpOkjKPjo2fl3S7LrUxVm-9O73cq8gjEgs0.jpeg?width=140&amp;height=82&amp;crop=140:82,smart&amp;auto=webp&amp;s=23d403c9b8493053c2479634add243cbac59941d" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Putin hit squad ‘eliminated’ after cold-blooded daylight assassination of Ukrainian special ops chief</title>
+      <link>https://www.standard.co.uk/news/world/putin-hit-squad-eliminated-after-coldblooded-daylight-assassination-of-ukrainian-special-ops-chief-b1237897.html</link>
+      <description>7474 upvotes 273 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 13:02:03 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.standard.co.uk/news/world/putin-hit-squad-eliminated-after-coldblooded-daylight-assassination-of-ukrainian-special-ops-chief-b1237897.html</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/zpc9Txm1AI5MikGU7EMXb4evM5Iqk_EJ3UNf06sMEoY.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=430c483033eccefca033b415e6cafd20d2507c96" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Macron calls on EU to ‘defend European interests resolutely’ from Trump tariffs</title>
+      <link>https://www.theguardian.com/us-news/2025/jul/13/macron-calls-on-eu-to-defend-european-interests-resolutely-from-trump-tariffs</link>
+      <description>1769 upvotes 57 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 11:58:38 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2025/jul/13/macron-calls-on-eu-to-defend-european-interests-resolutely-from-trump-tariffs</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/9velKndvEijKnOguKAkhLwmkA0HwSgDbJP33m6AEtPU.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=b0e3d2fb705f115e6cce7cac982b66ec5ef2fb1c" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ukraine’s Security Service eliminates FSB agents linked to murder of SSU colonel</title>
+      <link>https://www.pravda.com.ua/eng/news/2025/07/13/7521508/</link>
+      <description>532 upvotes 4 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 11:48:02 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.pravda.com.ua/eng/news/2025/07/13/7521508/</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/1R67w4mM-ZayAFfJdSQT-ldq5WMWEDM6LQ9IUqHm4Fk.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=a74087c2eb3e60e1e6b1b3cc8ae90f8836ddf1ee" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>North Korea pledges ‘unconditional support’ for Russia in Ukraine following Lavrov visit</title>
+      <link>https://novayagazeta.eu/articles/2025/07/13/north-korea-pledges-unconditional-support-for-russia-in-ukraine-following-lavrov-visit-en-news</link>
+      <description>277 upvotes 31 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 09:52:30 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://novayagazeta.eu/articles/2025/07/13/north-korea-pledges-unconditional-support-for-russia-in-ukraine-following-lavrov-visit-en-news</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/w19GiDh1Xu0kJ7Q7XctfT92jiO2LJmZKYDubcyVawm8.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=a6043c9c9296fc4a5ffcd714982b80854e879344" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Trump considering sending new funds to Ukraine for first time since taking office, CBS News reports</title>
+      <link>https://kyivindependent.com/trump-considering-sending-new-funds-to-ukraine-for-first-time-since-taking-office-cbs-news-reports/</link>
+      <description>3441 upvotes 246 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 07:42:45 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://kyivindependent.com/trump-considering-sending-new-funds-to-ukraine-for-first-time-since-taking-office-cbs-news-reports/</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/3q2W5g1DSyqVRoOzS0i8W6FExUCsLn_ouBxDcHXFkvI.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=f952925033345c18b1c379bf23f476cd763613db" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>New Caledonia to be declared a state in ‘historic’ agreement – but will remain French</title>
+      <link>https://www.theguardian.com/world/2025/jul/13/new-caledonia-to-be-declared-a-state-in-historic-agreement-but-will-remain-french</link>
+      <description>985 upvotes 95 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 06:33:36 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2025/jul/13/new-caledonia-to-be-declared-a-state-in-historic-agreement-but-will-remain-french</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/IBDgxf6ScAXfN6ZZ5INh8R6iDZltOLIWIII9NbSfPgs.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=f737f27a006be66f50ce6ba1336db2f00882bf63" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Myanmar junta thanks Trump after recognition in tariff letter</title>
+      <link>https://www.straitstimes.com/asia/se-asia/myanmar-junta-thanks-trump-after-recognition-in-tariff-letter</link>
+      <description>777 upvotes 24 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 06:32:16 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.straitstimes.com/asia/se-asia/myanmar-junta-thanks-trump-after-recognition-in-tariff-letter</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/nO_9RfiSSE4sSr6hQIWK-YNYsJ3QRSPAGVEIg-V1bFY.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=3fb8a1c2d6a032db4890518fb6d56c539cda4b1e" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1235, Part 1 (Thread #1382)</title>
+      <link>https://www.reddit.com/live/18hnzysb1elcs</link>
+      <description>456 upvotes 32 comments from r/worldnews</description>
+      <pubDate>Sun, 13 Jul 2025 04:02:28 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.reddit.com/live/18hnzysb1elcs</guid>
       <category>world</category>
       <category>reddit</category>
       <enclosure url="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" type="image/jpeg"/>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Top Russian diplomat meets North Korea’s Kim Jong Un as Pyongyang is pulled deeper into Ukraine war</title>
+      <link>https://www.cnn.com/2025/07/11/asia/russia-north-korea-lavrov-ukraine-intl-hnk</link>
+      <description>2291 upvotes 89 comments from r/worldnews</description>
+      <pubDate>Sat, 12 Jul 2025 23:13:50 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.cnn.com/2025/07/11/asia/russia-north-korea-lavrov-ukraine-intl-hnk</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/t9nQ1LRUnKmsehhGhOdEkBZL_MVRV8njdOz713jF85U.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=4bba1c924c720e5f30570a622c03fdbc895948cd" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>As Israel strikes Yemen, investigation reveals UN funding Houthis&apos; massive oil tanker</title>
+      <link>https://www.haaretz.com/israel-news/security-aviation/2025-07-09/ty-article/as-israel-strikes-yemen-investigation-reveals-un-funding-houthis-massive-oil-tanker/00000197-ee33-d0a0-a1df-eeff2e5e0000</link>
+      <description>4266 upvotes 355 comments from r/worldnews</description>
+      <pubDate>Sat, 12 Jul 2025 22:53:15 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.haaretz.com/israel-news/security-aviation/2025-07-09/ty-article/as-israel-strikes-yemen-investigation-reveals-un-funding-houthis-massive-oil-tanker/00000197-ee33-d0a0-a1df-eeff2e5e0000</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/Hfi6bOHkhZS_cagD4o6djTk6u5R1FPX5y0pLtlGf8LE.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=b0e4c4c0a5c01d3c1d2b5b533d7c30658c16cae4" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Chinese Naval Vessel Spotted Off Hawaiian Coast</title>
+      <link>https://ijr.com/chinese-naval-vessel-spotted-off-hawaiian-coast/</link>
+      <description>7541 upvotes 471 comments from r/worldnews</description>
+      <pubDate>Sat, 12 Jul 2025 17:49:39 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://ijr.com/chinese-naval-vessel-spotted-off-hawaiian-coast/</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/aVtMz5HW1zn3ZP9TsiF_9VdA43z-90dUi5YsVvQ87wI.jpeg?width=140&amp;height=59&amp;crop=140:59,smart&amp;auto=webp&amp;s=6e91fd5d3355b34d33c14c606043b2bdc4139910" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Siberian Pipeline Blast Reportedly Halts Gas Flow to Russian Arms Factories</title>
+      <link>https://united24media.com/latest-news/siberian-pipeline-blast-reportedly-halts-gas-flow-to-russian-arms-factories-9835</link>
+      <description>9638 upvotes 128 comments from r/worldnews</description>
+      <pubDate>Sat, 12 Jul 2025 17:49:18 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://united24media.com/latest-news/siberian-pipeline-blast-reportedly-halts-gas-flow-to-russian-arms-factories-9835</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/HZyj6VAGD-LsPkzJW9FkAPlPJmbOStnI2gIJzc-dKLY.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=918da6a34665806cf74994a5c5181c8275b43185" type="image/jpeg"/>
+    </item>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
   </channel>
 </rss>

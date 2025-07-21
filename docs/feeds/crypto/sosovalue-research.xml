@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/sosovalue-research.xml</link>
     <description>Latest crypto news from SosoValue Research</description>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 21 Jul 2025 03:20:19 +0000</lastBuildDate>
     <pubDate>Mon, 21 Jul 2025 03:20:19 +0000</pubDate>
+=======
+    <lastBuildDate>Mon, 21 Jul 2025 02:05:38 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 02:05:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/sosovalue-research.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +19,7 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+<<<<<<< HEAD
       <title>Bank of America Merrill Lynch: Stablecoins will have a disruptive impact on traditional bank deposits and payment systemsOn July 21, according to Phoenix.com, the latest research report from Bank of America Merrill Lynch shows that as the US stablecoin regulatory framework gradually takes effect, stablecoins will have a disruptive impact on traditional bank deposits and payment systems in the next 2-3 years. The US President has signed the GENIUS Act to set a preliminary framework for stablecoin regulation. In the short term, the stablecoin market is expected to grow by $25-75 billion, which will boost demand for US short-term Treasury bonds. Although major banks are cautious about domestic payment applications, they generally believe that cross-border payments are a feasible scenario and have begun to deploy related businesses, including JPMorgan Chase&apos;s deposit tokens and Bank of New York Mellon&apos;s custody services. [PANews]</title>
       <link>https://sosovalue.com/research/1947134063324450816</link>
       <description>1 minute agoPANewsBank of America Merrill Lynch: Stablecoins will have a disruptive impact on traditional bank deposits and payment systemsOn July 21, according to Phoenix.com, the latest research report from Bank of America Merrill Lynch shows that as the US stablecoin regulatory framework graduall</description>
@@ -68,6 +74,19 @@
       <pubDate>Mon, 21 Jul 2025 03:01:19 +0000</pubDate>
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947129640829341696</guid>
+=======
+      <title>Sui Announces Integration with NEAR Intents, Introducing Ultra-Fast Cross-Chain Swaps to the EcosystemOn July 21st, Sui announced its integration with NEAR Intents. NEAR Intents is built on the NEAR blockchain. This integration allows Sui users to bypass traditional complex smart contract processes. Instead, they only need to express their intent, and the request will be automatically routed by &quot;solvers&quot; who will select the optimal execution path. This enables seamless interaction with 20 chains and over 80 assets, providing an extremely fast and simple cross-chain exchange experience. Currently, users can directly exchange assets from other chains such as NEAR, BTC, ETH, SOL, XRP, DOGE, ZEC into the Sui ecosystem without relying on bridging or intermediate tools.
+
+The integration is now officially live and available. Developers can now directly integrate NEAR Intents into Sui applications to enhance functionality and expand user reach. In the coming weeks, more Sui native assets will be supported, further expanding its application value.
+
+The integration of Sui with NEAR Intents will enhance Sui&apos;s ecosystem interoperability and further build a flywheel for ecosystem growth, especially at this critical juncture of rapid Sui DeFi development. To date, Sui TVL has exceeded $2.2 billion, ranking 8th among all blockchains. In the past 30 days, Sui DEX trading volume exceeded $8.1 billion, ranking 8th. Meanwhile, the market cap of Sui stablecoins exceeded $1 billion in June, an increase of over 180% since the beginning of the year.
+[TechFlow]</title>
+      <link>https://sosovalue.com/research/1947114560598007808</link>
+      <description>4 minutes agoTechFlowSui Announces Integration with NEAR Intents, Introducing Ultra-Fast Cross-Chain Swaps to the EcosystemOn July 21st, Sui announced its integration with NEAR Intents. NEAR Intents is built on the NEAR blockchain. This integration allows Sui users to bypass traditional complex smar</description>
+      <pubDate>Mon, 21 Jul 2025 02:01:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947114560598007808</guid>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>crypto</category>
       <category>sosovalue research</category>
       <category>sosovalue</category>
@@ -78,6 +97,7 @@
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>Large Token Unlocks This WeekAccording to Tokenomist, single large unlocks (unlock amount greater than $5.00M) in the next 7 days include AVAIL, VENOM, ALT, SAHARA, SOON, etc.; linear large unlocks (single-day unlock amount greater than $1.00M) in the next 7 days include SOL, WLD, Trump, TIA, DOGE, TAO, AVAX, SUI, DOT, IP, MORPHO, SEI, ETHFI, JTO, NEAR, ENS, FIL, etc., with a total unlock value of over $442.00M.
  [Wu Blockchain]</title>
       <link>https://sosovalue.com/research/1947130627933622272</link>
@@ -243,6 +263,12 @@
       <link>https://sosovalue.com/research/1947114353009319936</link>
       <description>1 hour agoForesightNewsToday in History | July 21Today in 2022, the total transaction volume of ENS domains exceeded $100 million.#NFTShare to</description>
       <pubDate>Mon, 21 Jul 2025 02:20:19 +0000</pubDate>
+=======
+      <title>Today in History | July 21Today in 2022, the total transaction volume of ENS domains exceeded $100 million.</title>
+      <link>https://sosovalue.com/research/1947114353009319936</link>
+      <description>5 minutes agoForesightNewsToday in History | July 21Today in 2022, the total transaction volume of ENS domains exceeded $100 million.#NFTShare to</description>
+      <pubDate>Mon, 21 Jul 2025 02:00:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947114353009319936</guid>
       <category>crypto</category>
@@ -258,8 +284,13 @@
       <title>JPMorgan Chase data-charging plan could &quot;destroy&quot; crypto and fintech startups, executive warnsOn July 21, according to Fortune magazine, last month, when JPMorgan Chase informed fintech companies that it planned to charge them for accessing its customers&apos; bank account data, the move caused a strong reaction in many areas of the financial industry. According to four industry executives, the move is a blow to the fintech industry and may have a devastating impact on early startups, including those in the cryptocurrency industry. However, analysts believe that mature fintech companies such as PayPal and Block (formerly Square) may not be greatly affected by this fee adjustment.
 Under the plan, the bank could charge data aggregators fees every time a consumer moves money from JPMorgan to a cryptocurrency account or a third-party service like Robinhood. Crypto and fintech companies often use aggregators like Plaid or MX to access customer accounts at major financial institutions like JPMorgan. So far, banks haven’t charged fintech companies, but that could change. Aggregators are widely expected to pass on the new fees to fintech customers, and some may even pass the costs on to consumers. [PANews]</title>
       <link>https://sosovalue.com/research/1947112882226290688</link>
+<<<<<<< HEAD
       <description>1 hour agoPANewsJPMorgan Chase data-charging plan could &quot;destroy&quot; crypto and fintech startups, executive warnsOn July 21, according to Fortune magazine, last month, when JPMorgan Chase informed fintech companies that it planned to charge them for accessing its customers&apos; bank account data, the move</description>
       <pubDate>Mon, 21 Jul 2025 02:20:19 +0000</pubDate>
+=======
+      <description>11 minutes agoPANewsJPMorgan Chase data-charging plan could &quot;destroy&quot; crypto and fintech startups, executive warnsOn July 21, according to Fortune magazine, last month, when JPMorgan Chase informed fintech companies that it planned to charge them for accessing its customers&apos; bank account data, the m</description>
+      <pubDate>Mon, 21 Jul 2025 01:54:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947112882226290688</guid>
       <category>crypto</category>
@@ -274,8 +305,13 @@ Under the plan, the bank could charge data aggregators fees every time a consume
     <item>
       <title>Market news: pump.fun may airdrop PUMP on July 24According to market news, pump.fun co-founder and CEO Alon Cohen appeared to disclose on the X platform that he plans to start distributing PUMP airdrops to eligible active Solana wallets at 23:00 Beijing time on July 24, 2025. [Odaily Planet Daily News]</title>
       <link>https://sosovalue.com/research/1947114570953744384</link>
+<<<<<<< HEAD
       <description>1 hour agoOdailyMarket news: pump.fun may airdrop PUMP on July 24According to market news, pump.fun co-founder and CEO Alon Cohen appeared to disclose on the X platform that he plans to start distributing PUMP airdrops to eligible active Solana wallets at 23:00 Beijing time on July 24, 2025. [Odaily</description>
       <pubDate>Mon, 21 Jul 2025 02:20:19 +0000</pubDate>
+=======
+      <description>12 minutes agoOdailyMarket news: pump.fun may airdrop PUMP on July 24According to market news, pump.fun co-founder and CEO Alon Cohen appeared to disclose on the X platform that he plans to start distributing PUMP airdrops to eligible active Solana wallets at 23:00 Beijing time on July 24, 2025. [Od</description>
+      <pubDate>Mon, 21 Jul 2025 01:53:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947114570953744384</guid>
       <category>crypto</category>
@@ -288,10 +324,33 @@ Under the plan, the bank could charge data aggregators fees every time a consume
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>Federal Reserve Chairman Powell will deliver a speech on July 22 at 20:30.According to Cointelegraph, Federal Reserve Chairman Powell will attend the regulatory capital framework conference and deliver a speech at 20:30 Beijing time on July 22. [Foresight News]</title>
       <link>https://sosovalue.com/research/1947111875454918656</link>
       <description>1 hour agoForesightNewsFederal Reserve Chairman Powell will deliver a speech on July 22 at 20:30.According to Cointelegraph, Federal Reserve Chairman Powell will attend the regulatory capital framework conference and deliver a speech at 20:30 Beijing time on July 22. [Foresight News]#MacroShare to</description>
       <pubDate>Mon, 21 Jul 2025 02:20:19 +0000</pubDate>
+=======
+      <title>A whale spent 60.5 ETH to purchase several Chromie Squiggle NFTsAccording to Onchain Lens monitoring, the whale that previously spent 2,082 ETH to buy 45 CryptoPunk spent 60.5 ETH to purchase several Chromie Squiggle from the Art Blocks Curated NFT series, worth approximately $227,000. [Odaily Planet Daily News]</title>
+      <link>https://sosovalue.com/research/1947114579392684032</link>
+      <description>17 minutes agoOdailyA whale spent 60.5 ETH to purchase several Chromie Squiggle NFTsAccording to Onchain Lens monitoring, the whale that previously spent 2,082 ETH to buy 45 CryptoPunk spent 60.5 ETH to purchase several Chromie Squiggle from the Art Blocks Curated NFT series, worth approximately $22</description>
+      <pubDate>Mon, 21 Jul 2025 01:48:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947114579392684032</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>Federal Reserve Chairman Powell will deliver a speech on July 22 at 20:30.According to Cointelegraph, Federal Reserve Chairman Powell will attend the regulatory capital framework conference and deliver a speech at 20:30 Beijing time on July 22. [Foresight News]</title>
+      <link>https://sosovalue.com/research/1947111875454918656</link>
+      <description>17 minutes agoForesightNewsFederal Reserve Chairman Powell will deliver a speech on July 22 at 20:30.According to Cointelegraph, Federal Reserve Chairman Powell will attend the regulatory capital framework conference and deliver a speech at 20:30 Beijing time on July 22. [Foresight News]#MacroShare</description>
+      <pubDate>Mon, 21 Jul 2025 01:48:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947111875454918656</guid>
       <category>crypto</category>
@@ -306,8 +365,13 @@ Under the plan, the bank could charge data aggregators fees every time a consume
     <item>
       <title>A whale transferred 400 BTC to Binance, realizing a profit of over $100 million, and still holds a position of over $128 million.According to Onchain Lens monitoring, a whale transferred 400.1 Bitcoin (worth approximately $47.23 million) to Binance, realizing a profit of approximately $107.08 million. The whale initially withdrew 1,500 Bitcoin from Binance 8 to 9 months ago (worth approximately $69.01 million at the time), and currently still holds 1,100 Bitcoin, worth approximately $128.87 million. [Wu Blockchain]</title>
       <link>https://sosovalue.com/research/1947111284775280640</link>
+<<<<<<< HEAD
       <description>1 hour ago吴说A whale transferred 400 BTC to Binance, realizing a profit of over $100 million, and still holds a position of over $128 million.According to Onchain Lens monitoring, a whale transferred 400.1 Bitcoin (worth approximately $47.23 million) to Binance, realizing a profit of approximately $1</description>
       <pubDate>Mon, 21 Jul 2025 02:20:19 +0000</pubDate>
+=======
+      <description>19 minutes ago吴说A whale transferred 400 BTC to Binance, realizing a profit of over $100 million, and still holds a position of over $128 million.According to Onchain Lens monitoring, a whale transferred 400.1 Bitcoin (worth approximately $47.23 million) to Binance, realizing a profit of approximatel</description>
+      <pubDate>Mon, 21 Jul 2025 01:46:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947111284775280640</guid>
       <category>crypto</category>
@@ -322,8 +386,13 @@ Under the plan, the bank could charge data aggregators fees every time a consume
     <item>
       <title>Ethereum will pass The Torch NFT to commemorate its tenth anniversary and will open up commemorative NFT minting to everyone.Ethereum has launched The Torch NFT, designed to commemorate the people and values that shaped Ethereum&apos;s first decade and will help build its future. In the 10 days leading up to Ethereum&apos;s tenth anniversary, the NFT will be symbolically passed between wallets. On July 30th, the NFT will be burned to commemorate the tenth anniversary of Ethereum&apos;s founding. In addition, everyone can mint a commemorative NFT. [Foresight News]</title>
       <link>https://sosovalue.com/research/1947109345136173056</link>
+<<<<<<< HEAD
       <description>1 hour agoForesightNewsEthereum will pass The Torch NFT to commemorate its tenth anniversary and will open up commemorative NFT minting to everyone.Ethereum has launched The Torch NFT, designed to commemorate the people and values that shaped Ethereum&apos;s first decade and will help build its future. I</description>
       <pubDate>Mon, 21 Jul 2025 02:20:19 +0000</pubDate>
+=======
+      <description>26 minutes agoForesightNewsEthereum will pass The Torch NFT to commemorate its tenth anniversary and will open up commemorative NFT minting to everyone.Ethereum has launched The Torch NFT, designed to commemorate the people and values that shaped Ethereum&apos;s first decade and will help build its futur</description>
+      <pubDate>Mon, 21 Jul 2025 01:39:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1947109345136173056</guid>
       <category>crypto</category>
@@ -336,10 +405,223 @@ Under the plan, the bank could charge data aggregators fees every time a consume
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>SosoValue: View</title>
       <link>https://sosovalue.com/research/1946774111265845248</link>
       <description>Updated  23 hours agoJul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜SoSo Daily Jul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜SoSo Daily Jul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜SoSo Daily Jul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜So</description>
       <pubDate>Sun, 20 Jul 2025 04:20:19 +0000</pubDate>
+=======
+      <title>Bitdeer mined 65 BTC last week, with total Bitcoin holdings exceeding 1,600Nasdaq-listed Bitcoin mining company Bitdeer announced the latest data on its Bitcoin holdings on the X platform. As of July 18, its total Bitcoin holdings have increased to 1,601.4 coins (note: this amount is pure holdings and does not include Bitcoin deposited by customers). In addition, its Bitcoin mining output last week was 65.0 BTC, but it sold 27.4 BTC. [Odaily Planet Daily]</title>
+      <link>https://sosovalue.com/research/1947109548144680960</link>
+      <description>27 minutes agoOdailyBitdeer mined 65 BTC last week, with total Bitcoin holdings exceeding 1,600Nasdaq-listed Bitcoin mining company Bitdeer announced the latest data on its Bitcoin holdings on the X platform. As of July 18, its total Bitcoin holdings have increased to 1,601.4 coins (note: this amoun</description>
+      <pubDate>Mon, 21 Jul 2025 01:38:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947109548144680960</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>Huajian Medical establishes a wholly-owned subsidiary in the United States and initiates application for a U.S. stablecoin licenseOn July 21, according to Zhitong Finance, the Hong Kong-listed company Huajian Medical announced that it has established a wholly-owned subsidiary, IVD GROUP, in New York State. The US subsidiary will promote the core operating entity of the IVDNewCo Exchange strategy in the United States. In addition, the US subsidiary has officially started the process of submitting a stablecoin license application to relevant US regulatory agencies (including but not limited to the SEC and CFTC). This move is a substantial advancement of the group&apos;s &quot;US stablecoin license application plan&quot; in the previous announcement, demonstrating the group&apos;s execution and foresight in its global compliance layout. [PANews]</title>
+      <link>https://sosovalue.com/research/1947107163892572160</link>
+      <description>33 minutes agoPANewsHuajian Medical establishes a wholly-owned subsidiary in the United States and initiates application for a U.S. stablecoin licenseOn July 21, according to Zhitong Finance, the Hong Kong-listed company Huajian Medical announced that it has established a wholly-owned subsidiary, IV</description>
+      <pubDate>Mon, 21 Jul 2025 01:32:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947107163892572160</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>panews</category>
+
+    </item>
+    <item>
+      <title>Planet Daily News1. Vitalik: The voting ratio to support increasing the Ethereum L1 Gas limit to 45 million is about 50%;
+2. Bitcoin core developers fix a 5-year-old disk filling vulnerability;
+3. China Association for Trade in Services: Senior seminar on &quot;Innovation and Development of Stablecoins and Cross-border E-commerce&quot; postponed;
+4. Deren Holdings plans to invest HK$60.00 million in Hong Kong technology company Fortune Dragon to explore the stablecoin market;
+5. A whale deposited 8.04 million USDC into HyperLiquid to open a 7x leverage SOL long position;
+6. Zheshang Securities: RWA brings regulatory challenges or may lead to a phased expansion of USD credit;
+7. A whale bought 45 CryptoPunk NFTs last Sunday;
+8. Ethereum launches the tenth anniversary The Torch NFT, planned to open minting on July 30;
+9. James Wynn closed his ETH and PEPE long positions, making a profit of $538,500.00;
+10. Trump praises Coin Center&apos;s executive director for giving the best explanation of the Bitcoin concept to date;
+11. The White House plans to release its first crypto policy report on July 22;
+12. Bullish, the parent company of CoinDesk, which is exploring an IPO listing, is suspected of facing financial challenges;
+13. Trump: I don&apos;t need anyone to explain the pros and cons of firing Powell.</title>
+      <link>https://sosovalue.com/research/1947107019063255040</link>
+      <description>35 minutes agoOdailyPlanet Daily News1. Vitalik: The voting ratio to support increasing the Ethereum L1 Gas limit to 45 million is about 50%;
+2. Bitcoin core developers fix a 5-year-old disk filling vulnerability;
+3. China Association for Trade in Services: Senior seminar on &quot;Innovation and Developm</description>
+      <pubDate>Mon, 21 Jul 2025 01:30:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947107019063255040</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>coindesk</category>
+
+    </item>
+    <item>
+      <title>Vitalik: 50% of stakers support raising the Ethereum L1 Gas limit to 45.00 millionEthereum co-founder Vitalik Buterin tweeted that almost exactly 50% of staking votes supported raising the L1 gas limit to 45.000 million. The gas limit has now begun to increase and has now reached 37.300 million. [Wu Blockchain]</title>
+      <link>https://sosovalue.com/research/1947106539557838848</link>
+      <description>36 minutes ago吴说Vitalik: 50% of stakers support raising the Ethereum L1 Gas limit to 45.00 millionEthereum co-founder Vitalik Buterin tweeted that almost exactly 50% of staking votes supported raising the L1 gas limit to 45.000 million. The gas limit has now begun to increase and has now reached 37.</description>
+      <pubDate>Mon, 21 Jul 2025 01:29:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947106539557838848</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>吴说</category>
+
+    </item>
+    <item>
+      <title>IOST announces the establishment of the I Foundation to focus on RWA project investmentOn July 21, IOST announced the establishment of the I Foundation, which will focus on investing in promising RWA projects in the L1 and BNB Chain ecosystems. The value generated by the investment will be returned to IOST holders. It has just acquired the i.foundation domain name, and more details will be announced soon. [PANews]</title>
+      <link>https://sosovalue.com/research/1947106435471990784</link>
+      <description>36 minutes agoPANewsIOST announces the establishment of the I Foundation to focus on RWA project investmentOn July 21, IOST announced the establishment of the I Foundation, which will focus on investing in promising RWA projects in the L1 and BNB Chain ecosystems. The value generated by the investme</description>
+      <pubDate>Mon, 21 Jul 2025 01:29:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947106435471990784</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>panews</category>
+
+    </item>
+    <item>
+      <title>Aspecta officially announces that the ASP token will undergo TGE on July 24.On July 21st, according to Aspecta core contributor Jack He (@jackhe24) on social media platform X, the Aspecta ($ASP) Token Generation Event (TGE) will officially launch on July 24, 2025, at 10:00 AM UTC. [TechFlow]</title>
+      <link>https://sosovalue.com/research/1947105009832255488</link>
+      <description>42 minutes agoTechFlowAspecta officially announces that the ASP token will undergo TGE on July 24.On July 21st, according to Aspecta core contributor Jack He (@jackhe24) on social media platform X, the Aspecta ($ASP) Token Generation Event (TGE) will officially launch on July 24, 2025, at 10:00 AM U</description>
+      <pubDate>Mon, 21 Jul 2025 01:23:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947105009832255488</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>techflow</category>
+
+    </item>
+    <item>
+      <title>Bithumb plans to suspend deposits and withdrawals of MultiverseX (EGLD) on July 24.According to the official announcement, Bithumb has announced its cooperation with the MultiverseX (EGLD) network (mainnet) upgrade, and plans to suspend MultiverseX (EGLD) deposits and withdrawals at 6:00 PM (Korean Standard Time) on Thursday, July 24, 2025. Deposit and withdrawal services will be restored as soon as possible after the network is stable. [Odaily Planet Daily]</title>
+      <link>https://sosovalue.com/research/1947104506457055232</link>
+      <description>44 minutes agoOdailyBithumb plans to suspend deposits and withdrawals of MultiverseX (EGLD) on July 24.According to the official announcement, Bithumb has announced its cooperation with the MultiverseX (EGLD) network (mainnet) upgrade, and plans to suspend MultiverseX (EGLD) deposits and withdrawals</description>
+      <pubDate>Mon, 21 Jul 2025 01:21:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947104506457055232</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>A certain whale deposited 200 WBTC to a CEX 8 hours ago. If sold, it would yield a profit of $21.52 million.According to on-chain analyst Ai Yi (@ai_9684xtpa), the whale who &quot;built a position of 1074 WBTC four years ago at an average price of $10,708&quot; deposited 200 WBTC to HTX 8 hours ago. If sold, it will profit $21.52 million. The wallet currently holds 1000 WBTC, with a total value of $116 million. [Odaily Planet Daily News]</title>
+      <link>https://sosovalue.com/research/1947104514895994880</link>
+      <description>53 minutes agoOdailyA certain whale deposited 200 WBTC to a CEX 8 hours ago. If sold, it would yield a profit of $21.52 million.According to on-chain analyst Ai Yi (@ai_9684xtpa), the whale who &quot;built a position of 1074 WBTC four years ago at an average price of $10,708&quot; deposited 200 WBTC to HTX 8</description>
+      <pubDate>Mon, 21 Jul 2025 01:12:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947104514895994880</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>Jack Dorsey&apos;s Block to Be Added to S&amp;P 500 Index on July 23According to The Block, Block (stock ticker: XYZ), the payment platform founded by Twitter co-founder Jack Dorsey, will be added to the S&amp;P 500 index on July 23. Block will replace Hess Corporation, which is leaving the index after being acquired by Chevron. After the news was confirmed late Friday, the stock rose 10% in after-hours trading. [Foresight News]</title>
+      <link>https://sosovalue.com/research/1947101829820014592</link>
+      <description>59 minutes agoForesightNewsJack Dorsey&apos;s Block to Be Added to S&amp;P 500 Index on July 23According to The Block, Block (stock ticker: XYZ), the payment platform founded by Twitter co-founder Jack Dorsey, will be added to the S&amp;P 500 index on July 23. Block will replace Hess Corporation, which is leavin</description>
+      <pubDate>Mon, 21 Jul 2025 01:06:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947101829820014592</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>foresightnews</category>
+
+    </item>
+    <item>
+      <title>A whale transferred 2,805 ETH to OKX 9 hours ago, worth $10.54 millionAccording to on-chain analyst Ai Yi (@ai_9684xtpa), the whale who &quot;built a position of 4,412 ETH at an average price of $3,400 on 07.17&quot; transferred 2,805 ETH to OKX 9 hours ago, worth $10.54 million. If sold, it would yield a profit of $999.90 thousand. The address still holds 8,504 ETH. [Odaily Planet Daily]</title>
+      <link>https://sosovalue.com/research/1947101988977074176</link>
+      <description>1 hour agoOdailyA whale transferred 2,805 ETH to OKX 9 hours ago, worth $10.54 millionAccording to on-chain analyst Ai Yi (@ai_9684xtpa), the whale who &quot;built a position of 4,412 ETH at an average price of $3,400 on 07.17&quot; transferred 2,805 ETH to OKX 9 hours ago, worth $10.54 million. If sold, it w</description>
+      <pubDate>Mon, 21 Jul 2025 01:05:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947101988977074176</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>SoSoMacroFocus on tariff negotiations; Japan&apos;s upper house election concludes; watch third round of direct Russia-Ukraine talks.</title>
+      <link>https://sosovalue.com/research/1947099173069795328</link>
+      <description>1 hour agoSoSoValueSoSoMacroFocus on tariff negotiations; Japan&apos;s upper house election concludes; watch third round of direct Russia-Ukraine talks.#Macro$SOSOShare to</description>
+      <pubDate>Mon, 21 Jul 2025 01:05:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947099173069795328</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>sosovalue</category>
+
+    </item>
+    <item>
+      <title>CITIC Securities: The US Stablecoin Act has been implemented, and relaxed regulation is conducive to market expansionOn July 21, according to Zhitong Finance, the CITIC Securities Research Report stated that on July 17, Eastern Time, the U.S. Congress passed the GENIUS Act, marking the official implementation of the first federal-level stablecoin regulatory framework in the United States. From the perspective of the bill&apos;s advancement process, after the passage of the &quot;Big and Beautiful Act&quot;, crypto legislation was quickly listed as the top agenda of the House of Representatives, and Trump personally promoted consensus within the Republican Party, highlighting the priority of the crypto field in the U.S. policy framework. From the content of the bill, the House of Representatives did not make substantive changes to the version passed by the Senate, and still retained a relatively loose regulatory framework with the federal government as the main body and the state level as the supplement. Looking ahead, as the regulatory details of the GENIUS Act are implemented, U.S. financial and technology giants are expected to accelerate their entry, promote the accelerated diffusion of stablecoins from issuance to application scenarios, and may bring about the continued expansion of the stablecoin market size. [PANews]</title>
+      <link>https://sosovalue.com/research/1947097048187625472</link>
+      <description>1 hour agoPANewsCITIC Securities: The US Stablecoin Act has been implemented, and relaxed regulation is conducive to market expansionOn July 21, according to Zhitong Finance, the CITIC Securities Research Report stated that on July 17, Eastern Time, the U.S. Congress passed the GENIUS Act, marking t</description>
+      <pubDate>Mon, 21 Jul 2025 01:05:38 +0000</pubDate>
+      <source>SosoValue Research</source>
+      <guid isPermaLink="true">https://sosovalue.com/research/1947097048187625472</guid>
+      <category>crypto</category>
+      <category>sosovalue research</category>
+      <category>sosovalue</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>research</category>
+      <category>panews</category>
+
+    </item>
+    <item>
+      <title>SosoValue: View</title>
+      <link>https://sosovalue.com/research/1946774111265845248</link>
+      <description>Updated  22 hours agoJul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜SoSo Daily Jul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜SoSo Daily Jul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜SoSo Daily Jul. 20: GENIUS Act Reshapes Crypto &amp; Crypto Security Alerts｜So</description>
+      <pubDate>Sun, 20 Jul 2025 04:05:38 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <source>SosoValue Research</source>
       <guid isPermaLink="true">https://sosovalue.com/research/1946774111265845248</guid>
       <category>crypto</category>

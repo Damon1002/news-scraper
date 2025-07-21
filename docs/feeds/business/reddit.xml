@@ -5,8 +5,13 @@
     <link>https://damon1002.github.io/news-scraper/feeds/business/reddit.xml</link>
     <description>Latest business news from Reddit</description>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 21 Jul 2025 03:19:46 +0000</lastBuildDate>
     <pubDate>Mon, 21 Jul 2025 03:19:46 +0000</pubDate>
+=======
+    <lastBuildDate>Sun, 13 Jul 2025 15:22:11 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jul 2025 15:22:11 +0000</pubDate>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     <ttl>60</ttl>
     <category>business</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/business/reddit.xml" rel="self" type="application/rss+xml"/>
@@ -14,28 +19,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+<<<<<<< HEAD
       <title>Hot take - Most businesses shouldn&apos;t use AI for customer service</title>
       <link>https://reddit.com/r/business/comments/1m52koq/hot_take_most_businesses_shouldnt_use_ai_for/</link>
       <description>39 upvotes 10 comments from r/business</description>
       <pubDate>Sun, 20 Jul 2025 22:51:32 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://reddit.com/r/business/comments/1m52koq/hot_take_most_businesses_shouldnt_use_ai_for/</guid>
+=======
+      <title>New Law Makes It Harder for Florida&apos;s Highly Paid Workers to Swap Jobs</title>
+      <link>https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7</link>
+      <description>17 upvotes 1 comments from r/business</description>
+      <pubDate>Sun, 13 Jul 2025 14:24:10 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7</guid>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>business</category>
       <category>reddit</category>
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>&quot;Only 3 years left to avoid the worst impacts of climate change&quot;...so when will the business world turn green?</title>
       <link>https://theconversation.com/only-3-years-left-new-study-warns-the-world-is-running-out-of-time-to-avoid-the-worst-impacts-of-climate-change-261229</link>
       <description>17 upvotes 28 comments from r/business</description>
       <pubDate>Sun, 20 Jul 2025 20:14:05 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://theconversation.com/only-3-years-left-new-study-warns-the-world-is-running-out-of-time-to-avoid-the-worst-impacts-of-climate-change-261229</guid>
+=======
+      <title>Google hires Windsurf CEO Varun Mohan, others in $2.4 billion AI talent deal</title>
+      <link>https://www.cnbc.com/2025/07/11/google-windsurf-ceo-varun-mohan-latest-ai-talent-deal-.html</link>
+      <description>104 upvotes 4 comments from r/business</description>
+      <pubDate>Sat, 12 Jul 2025 20:44:32 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.cnbc.com/2025/07/11/google-windsurf-ceo-varun-mohan-latest-ai-talent-deal-.html</guid>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>business</category>
       <category>reddit</category>
 
     </item>
     <item>
+<<<<<<< HEAD
       <title>People who are genuinely excited to go to work, what do you do?</title>
       <link>https://reddit.com/r/business/comments/1m4xzz2/people_who_are_genuinely_excited_to_go_to_work/</link>
       <description>39 upvotes 71 comments from r/business</description>
@@ -76,6 +100,14 @@
       <pubDate>Sat, 19 Jul 2025 20:31:01 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.cnbc.com/2025/07/19/nvidia-ceo-jensen-huang-sells-shares.html</guid>
+=======
+      <title>Nvidia&apos;s Jensen Huang sells more than $36 million in stock, catches Warren Buffett in net worth</title>
+      <link>https://www.cnbc.com/2025/07/11/nvidia-stock-jensen-huang-stock-buffett.html</link>
+      <description>441 upvotes 62 comments from r/business</description>
+      <pubDate>Fri, 11 Jul 2025 18:37:23 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.cnbc.com/2025/07/11/nvidia-stock-jensen-huang-stock-buffett.html</guid>
+>>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>business</category>
       <category>reddit</category>
 
