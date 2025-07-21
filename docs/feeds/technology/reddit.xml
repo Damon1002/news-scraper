@@ -5,13 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/reddit.xml</link>
     <description>Latest technology news from Reddit</description>
     <language>en-US</language>
-<<<<<<< HEAD
-    <lastBuildDate>Mon, 21 Jul 2025 03:19:43 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 03:19:43 +0000</pubDate>
-=======
-    <lastBuildDate>Sun, 13 Jul 2025 15:22:07 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Jul 2025 15:22:07 +0000</pubDate>
->>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
+    <lastBuildDate>Mon, 21 Jul 2025 03:40:56 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 03:40:56 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/reddit.xml" rel="self" type="application/rss+xml"/>
@@ -19,10 +14,9 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-<<<<<<< HEAD
       <title>Trump puts up AI video of Obama being arrested by the FBI in the Oval Office</title>
       <link>https://www.dailykos.com/stories/2025/7/20/2334381/-Trump-puts-up-AI-video-of-Obama-being-arrested-by-the-FBI-in-the-Oval-Office</link>
-      <description>9606 upvotes 1072 comments from r/technology</description>
+      <description>12499 upvotes 1326 comments from r/technology</description>
       <pubDate>Mon, 21 Jul 2025 02:03:39 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.dailykos.com/stories/2025/7/20/2334381/-Trump-puts-up-AI-video-of-Obama-being-arrested-by-the-FBI-in-the-Oval-Office</guid>
@@ -33,93 +27,18 @@
     <item>
       <title>Tech Layoffs Hit 100,000+ in 2025: Intel, Microsoft, Meta, and More Slash Thousands of Jobs</title>
       <link>https://www.thebridgechronicle.com/jobs/tech-layoffs-2025-intel-microsoft-meta-job-cuts</link>
-      <description>174 upvotes 25 comments from r/technology</description>
+      <description>229 upvotes 29 comments from r/technology</description>
       <pubDate>Mon, 21 Jul 2025 01:33:47 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.thebridgechronicle.com/jobs/tech-layoffs-2025-intel-microsoft-meta-job-cuts</guid>
-=======
-      <title>EV makers delay and cancel models as US tax credits vanish under Trump&apos;s new bill</title>
-      <link>https://www.techspot.com/news/108649-ev-makers-delay-cancel-models-us-tax-credits.html</link>
-      <description>385 upvotes 83 comments from r/technology</description>
-      <pubDate>Sun, 13 Jul 2025 13:32:02 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.techspot.com/news/108649-ev-makers-delay-cancel-models-us-tax-credits.html</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/pxNxJffd3VJGpm-mNvxrO1o_SY3gU-vW1_opSWquE6k.jpeg?width=140&amp;height=97&amp;crop=140:97,smart&amp;auto=webp&amp;s=917ad2208d55d49460848ef0eff3fbfc96a71248" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>China&apos;s astonishing Maglev train Is faster than most planes, hitting 620 km/h in just 7 seconds</title>
-      <link>https://www.newsweek.com/china-maglev-high-speed-rail-2097232</link>
-      <description>9046 upvotes 1082 comments from r/technology</description>
-      <pubDate>Sun, 13 Jul 2025 10:23:25 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.newsweek.com/china-maglev-high-speed-rail-2097232</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/bk3eB2EkiWf92GM4EP_0FOGAaF2FCW7Ysyd3hSydl-E.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=6383eaac4cd748d1fec25816247ae0efb251414e" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>China based Moonshot AI’s open source Kimi K2 outperforms GPT-4 in key benchmarks — and it’s free</title>
-      <link>https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/</link>
-      <description>461 upvotes 77 comments from r/technology</description>
-      <pubDate>Sun, 13 Jul 2025 10:15:01 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://venturebeat.com/ai/moonshot-ais-kimi-k2-outperforms-gpt-4-in-key-benchmarks-and-its-free/</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/S7AqyXjnzPIqaeIJ8aAAFPQLuYqCHJFtmufKC6HnZE4.png?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=49bf938c75294bef656d5f43e79ced43c8a27b30" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>IRS’s data-sharing deal with ICE will lead to ‘dangerous’ mistakes, digital rights group argues</title>
-      <link>https://fedscoop.com/irss-data-sharing-deal-with-ice-will-lead-to-dangerous-mistakes-digital-rights-group-argues/</link>
-      <description>557 upvotes 11 comments from r/technology</description>
-      <pubDate>Sun, 13 Jul 2025 08:41:57 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://fedscoop.com/irss-data-sharing-deal-with-ice-will-lead-to-dangerous-mistakes-digital-rights-group-argues/</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/DgqgpPMEkn2HrqjNJa4jJK31nw4RHojppRCeWWSLNl8.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=76d5d7a2160265e6ea0cfab47b5455bb5d30175d" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Microsoft shareholders demand report into the company&apos;s &apos;human rights due diligence&apos; over allegations of war crime complicity in Gaza | PC Gamer</title>
-      <link>https://www.pcgamer.com/gaming-industry/microsoft-shareholders-demand-report-into-the-companys-human-rights-due-diligence-over-allegations-of-war-crime-complicity-in-gaza/</link>
-      <description>938 upvotes 41 comments from r/technology</description>
-      <pubDate>Sun, 13 Jul 2025 08:28:20 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.pcgamer.com/gaming-industry/microsoft-shareholders-demand-report-into-the-companys-human-rights-due-diligence-over-allegations-of-war-crime-complicity-in-gaza/</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/jtFfEx9zJr6pC4iVrDLJKD-YCFC-wdwwLlpimpR8Ta4.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=6f7c40aba171afb73256864798b8986d3a1eef8a" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Cops say criminals use a Google Pixel with GrapheneOS — I say that’s freedom</title>
-      <link>https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/</link>
-      <description>3521 upvotes 218 comments from r/technology</description>
-      <pubDate>Sat, 12 Jul 2025 23:17:12 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/75yV6-xRzxoCHzNWpvt3K6WclJQe3-tf2m11iuvS8bk.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=302168c1ef40fe344fd2d4bcd8ec049000190e96" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>China’s electric car revolution hammers demand for oil</title>
-      <link>https://www.telegraph.co.uk/business/2025/07/11/oil-demmand-slowest-pace-2009/</link>
-      <description>1603 upvotes 201 comments from r/technology</description>
-      <pubDate>Sat, 12 Jul 2025 22:39:58 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.telegraph.co.uk/business/2025/07/11/oil-demmand-slowest-pace-2009/</guid>
->>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
       <category>technology</category>
       <category>reddit</category>
 
     </item>
     <item>
-<<<<<<< HEAD
       <title>92 Million Jobs Gone: Who Will AI Erase First?</title>
       <link>https://www.forbes.com/sites/janicegassam/2025/06/24/92-million-jobs-gone-who-will-ai-erase-first/</link>
-      <description>459 upvotes 193 comments from r/technology</description>
+      <description>505 upvotes 211 comments from r/technology</description>
       <pubDate>Mon, 21 Jul 2025 01:19:25 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.forbes.com/sites/janicegassam/2025/06/24/92-million-jobs-gone-who-will-ai-erase-first/</guid>
@@ -130,7 +49,7 @@
     <item>
       <title>In recent layoffs, AI’s role may be bigger than companies are letting on</title>
       <link>https://www.cnbc.com/2025/07/20/in-job-losses-ais-role-may-be-bigger-than-companies-say.html</link>
-      <description>250 upvotes 56 comments from r/technology</description>
+      <description>268 upvotes 63 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 23:18:49 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.cnbc.com/2025/07/20/in-job-losses-ais-role-may-be-bigger-than-companies-say.html</guid>
@@ -141,7 +60,7 @@
     <item>
       <title>Kiss cam incident at Coldplay concert highlights the technology&apos;s awkward history</title>
       <link>https://www.npr.org/2025/07/19/nx-s1-5473450/kiss-cams-awkward-history-coldplay-astronomer-andy-byron-kristin-cabot</link>
-      <description>1121 upvotes 148 comments from r/technology</description>
+      <description>1165 upvotes 153 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 22:30:28 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.npr.org/2025/07/19/nx-s1-5473450/kiss-cams-awkward-history-coldplay-astronomer-andy-byron-kristin-cabot</guid>
@@ -152,7 +71,7 @@
     <item>
       <title>US signals intention to rethink job H-1B lottery</title>
       <link>https://www.theregister.com/2025/07/20/h_1b_job_lottery/</link>
-      <description>3234 upvotes 581 comments from r/technology</description>
+      <description>3262 upvotes 588 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 17:55:33 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.theregister.com/2025/07/20/h_1b_job_lottery/</guid>
@@ -163,7 +82,7 @@
     <item>
       <title>Judge shuts down Prime Video ads lawsuit for good</title>
       <link>https://www.avclub.com/judge-shuts-down-amazon-prime-video-ads-class-action-suit</link>
-      <description>1227 upvotes 130 comments from r/technology</description>
+      <description>1238 upvotes 130 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 14:54:25 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.avclub.com/judge-shuts-down-amazon-prime-video-ads-class-action-suit</guid>
@@ -174,7 +93,7 @@
     <item>
       <title>Laid-off AWS employee describes cuts as &apos;cold and soulless&apos;</title>
       <link>https://www.theregister.com/2025/07/18/aws_sheds_jobs/?td=rt-3a</link>
-      <description>1130 upvotes 133 comments from r/technology</description>
+      <description>1142 upvotes 133 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 13:08:01 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.theregister.com/2025/07/18/aws_sheds_jobs/?td=rt-3a</guid>
@@ -185,7 +104,7 @@
     <item>
       <title>Tesla Tries to Save the Cybertruck With Its Most Desperate Offer Yet | After a disastrous launch and dismal sales, Tesla is now offering to give away its most valuable software to convince people to buy its polarizing electric truck.</title>
       <link>https://gizmodo.com/tesla-tries-to-save-the-cybertruck-with-its-most-desperate-offer-yet-2000631752</link>
-      <description>1205 upvotes 447 comments from r/technology</description>
+      <description>1201 upvotes 449 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 11:56:17 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://gizmodo.com/tesla-tries-to-save-the-cybertruck-with-its-most-desperate-offer-yet-2000631752</guid>
@@ -196,46 +115,13 @@
     <item>
       <title>A MAGA bot network on X is divided over the Trump-Epstein backlash | Researchers have found hundreds of fake X accounts that support the Trump administration.</title>
       <link>https://www.nbcnews.com/tech/internet/maga-ai-bot-network-divided-trump-epstein-backlash-rcna219167</link>
-      <description>12801 upvotes 389 comments from r/technology</description>
+      <description>12867 upvotes 390 comments from r/technology</description>
       <pubDate>Sun, 20 Jul 2025 11:49:29 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.nbcnews.com/tech/internet/maga-ai-bot-network-divided-trump-epstein-backlash-rcna219167</guid>
       <category>technology</category>
       <category>reddit</category>
       <enclosure url="https://external-preview.redd.it/4v3rJdnSiNd67bmfLeN6LqxipqiC7ZmagSTm1DnErXM.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=cc1f039bfa83dd3eb8057b10c526aa1041fecb12" type="image/jpeg"/>
-=======
-      <title>The Trump Administration Is Planning to Use AI to Deny Medicare Authorizations</title>
-      <link>https://truthout.org/articles/the-trump-administration-is-planning-to-use-ai-to-deny-medicare-authorizations/</link>
-      <description>16909 upvotes 854 comments from r/technology</description>
-      <pubDate>Sat, 12 Jul 2025 17:45:12 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://truthout.org/articles/the-trump-administration-is-planning-to-use-ai-to-deny-medicare-authorizations/</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/jM-amxu__Vff04In-nF4mz_K_VxufbJ-BVmyqOJ-Sqc.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=d0707984642934370ce3e2eca8466729c027c25e" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Cops’ favorite AI tool automatically deletes evidence of when AI was used</title>
-      <link>https://arstechnica.com/tech-policy/2025/07/cops-favorite-ai-tool-automatically-deletes-evidence-of-when-ai-was-used/</link>
-      <description>3860 upvotes 80 comments from r/technology</description>
-      <pubDate>Sat, 12 Jul 2025 16:46:50 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2025/07/cops-favorite-ai-tool-automatically-deletes-evidence-of-when-ai-was-used/</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/H0pF09-cdESPv8CHsp7eYyv8Hl6OqLtk6VxcPi_8kJc.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=9d1e44a6c358c4e84a44dd76f986e02d3ca49205" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Trump Admin&apos;s Epstein Prison Video Was Likely Modified Using Adobe Premiere Pro &quot;If a lawyer brought me this file and asked if it was suitable for court, I&apos;d say no.&quot;</title>
-      <link>https://www.latintimes.com/trump-admins-epstein-prison-video-was-likely-modified-using-adobe-premiere-pro-report-586639</link>
-      <description>49550 upvotes 889 comments from r/technology</description>
-      <pubDate>Sat, 12 Jul 2025 14:46:07 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.latintimes.com/trump-admins-epstein-prison-video-was-likely-modified-using-adobe-premiere-pro-report-586639</guid>
-      <category>technology</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/ueE4oS431N1E41haZKTM3_zyaaRJCI7zGF1KiAdBU7w.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=63ab3add5dd3d0c2c897bb95fdf8b264b9991ba2" type="image/jpeg"/>
->>>>>>> 55bdfe906388ad36865c1b6c0e585ec07cb88b23
     </item>
   </channel>
 </rss>
