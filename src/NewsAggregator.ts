@@ -12,6 +12,7 @@ import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js'
 import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource.js';
 import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
 import { SosoValueSource } from './sources/SosoValueSource.js';
+import { TechflowpostSource } from './sources/TechflowpostSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -79,6 +80,9 @@ export class NewsAggregator {
         }
         if (config.id === 'sosovalue-research') {
           return new SosoValueSource(config);
+        }
+        if (config.id === 'techflowpost') {
+          return new TechflowpostSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
