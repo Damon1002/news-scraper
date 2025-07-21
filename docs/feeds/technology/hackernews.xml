@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Jul 2025 19:35:50 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 19:35:50 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 19:44:46 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 19:44:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets</title>
+      <link>https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/</link>
+      <description>6 points by bdev12345 on Hacker News</description>
+      <pubDate>Mon, 21 Jul 2025 19:31:43 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>12ft.io Taken Down</title>
       <link>https://www.newsmediaalliance.org/takedown-of-12ftio/</link>
-      <description>22 points 9 comments by afeuerstein on Hacker News</description>
+      <description>49 points 14 comments by afeuerstein on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 19:09:37 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.newsmediaalliance.org/takedown-of-12ftio/</guid>
@@ -25,20 +36,9 @@
 
     </item>
     <item>
-      <title>I know genomes. Don&apos;t delete your DNA</title>
-      <link>https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna</link>
-      <description>14 points 7 comments by bookofjoe on Hacker News</description>
-      <pubDate>Mon, 21 Jul 2025 18:52:26 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>What Went Wrong Inside Recalled Anker PowerCore 10000 Power Banks?</title>
       <link>https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks</link>
-      <description>42 points 7 comments by walterbell on Hacker News</description>
+      <description>54 points 8 comments by walterbell on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 18:22:11 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks</guid>
@@ -49,7 +49,7 @@
     <item>
       <title>Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed</title>
       <link>https://tedium.co/2025/07/21/the-game-genie-generation/</link>
-      <description>44 points 14 comments by coloneltcb on Hacker News</description>
+      <description>44 points 16 comments by coloneltcb on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 17:59:00 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://tedium.co/2025/07/21/the-game-genie-generation/</guid>
@@ -60,7 +60,7 @@
     <item>
       <title>Germany&apos;s Fairytale Castles Added to UNESCO&apos;s World Heritage List</title>
       <link>https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/</link>
-      <description>43 points 24 comments by ulrischa on Hacker News</description>
+      <description>50 points 24 comments by ulrischa on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 17:24:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>Jqfmt like gofmt, but for jq</title>
       <link>https://github.com/noperator/jqfmt</link>
-      <description>74 points 14 comments by Bluestein on Hacker News</description>
+      <description>81 points 16 comments by Bluestein on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 17:16:44 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/noperator/jqfmt</guid>
@@ -82,7 +82,7 @@
     <item>
       <title>Don&apos;t bother parsing: Just use images for RAG</title>
       <link>https://www.morphik.ai/blog/stop-parsing-docs</link>
-      <description>14 points 4 comments by Adityav369 on Hacker News</description>
+      <description>22 points 4 comments by Adityav369 on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 17:16:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.morphik.ai/blog/stop-parsing-docs</guid>
@@ -93,7 +93,7 @@
     <item>
       <title>Accountant Simulator 2025</title>
       <link>https://accounting.penrose.com/</link>
-      <description>210 points 45 comments by rickcarlino on Hacker News</description>
+      <description>230 points 48 comments by rickcarlino on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 16:48:28 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://accounting.penrose.com/</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>New records on Wendelstein 7-X</title>
       <link>https://www.iter.org/node/20687/new-records-wendelstein-7-x</link>
-      <description>145 points 66 comments by greesil on Hacker News</description>
+      <description>147 points 68 comments by greesil on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 15:18:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.iter.org/node/20687/new-records-wendelstein-7-x</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>TrackWeight: Turn your MacBook&apos;s trackpad into a digital weighing scale</title>
       <link>https://github.com/KrishKrosh/TrackWeight</link>
-      <description>335 points 77 comments by wtcactus on Hacker News</description>
+      <description>340 points 82 comments by wtcactus on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 14:51:13 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/KrishKrosh/TrackWeight</guid>
