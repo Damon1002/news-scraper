@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Jul 2025 17:02:57 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 17:02:57 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 17:28:36 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 17:28:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Accountant Simulator 2025</title>
+      <link>https://accounting.penrose.com/</link>
+      <description>31 points 6 comments by rickcarlino on Hacker News</description>
+      <pubDate>Mon, 21 Jul 2025 16:48:28 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://accounting.penrose.com/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Gemini with Deep Think officially achieves gold-medal standard at the IMO</title>
       <link>https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/</link>
-      <description>28 points 2 comments by meetpateltech on Hacker News</description>
+      <description>90 points 22 comments by meetpateltech on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 16:36:13 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>Modern Debian-based Window Maker distribution</title>
       <link>https://wmlive.sourceforge.net/</link>
-      <description>14 points 2 comments by Aldipower on Hacker News</description>
+      <description>22 points 8 comments by Aldipower on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 16:32:43 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://wmlive.sourceforge.net/</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>Solar+storage is so much farther along than you think</title>
       <link>https://www.volts.wtf/p/solarstorage-is-so-much-farther-along</link>
-      <description>41 points 10 comments by mooreds on Hacker News</description>
+      <description>85 points 40 comments by mooreds on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 16:31:57 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.volts.wtf/p/solarstorage-is-so-much-farther-along</guid>
@@ -49,7 +60,7 @@
     <item>
       <title>Memory Efficiency in iOS: Reducing footprint and beyond</title>
       <link>https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing</link>
-      <description>15 points by CharlesW on Hacker News</description>
+      <description>19 points by CharlesW on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 15:59:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing</guid>
@@ -60,7 +71,7 @@
     <item>
       <title>SecretSpec: Declarative Secrets Management</title>
       <link>https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/</link>
-      <description>47 points 9 comments by domenkozar on Hacker News</description>
+      <description>54 points 10 comments by domenkozar on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 15:54:03 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/</guid>
@@ -71,7 +82,7 @@
     <item>
       <title>New records on Wendelstein 7-X</title>
       <link>https://www.iter.org/node/20687/new-records-wendelstein-7-x</link>
-      <description>98 points 40 comments by greesil on Hacker News</description>
+      <description>106 points 53 comments by greesil on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 15:18:41 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.iter.org/node/20687/new-records-wendelstein-7-x</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>Using MacBook&apos;s trackpad as digital weighing scale</title>
       <link>https://github.com/KrishKrosh/TrackWeight</link>
-      <description>195 points 43 comments by wtcactus on Hacker News</description>
+      <description>211 points 51 comments by wtcactus on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 14:51:13 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/KrishKrosh/TrackWeight</guid>
@@ -93,7 +104,7 @@
     <item>
       <title>UK backing down on Apple encryption backdoor after pressure from US</title>
       <link>https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/</link>
-      <description>201 points 102 comments by azalemeth on Hacker News</description>
+      <description>224 points 120 comments by azalemeth on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 14:46:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/</guid>
@@ -104,21 +115,10 @@
     <item>
       <title>We made Postgres writes faster, but it broke replication</title>
       <link>https://www.paradedb.com/blog/lsm_trees_in_postgres</link>
-      <description>110 points 18 comments by philippemnoel on Hacker News</description>
+      <description>125 points 27 comments by philippemnoel on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 11:26:04 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.paradedb.com/blog/lsm_trees_in_postgres</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>Hiding messages in a deck playing cards</title>
-      <link>https://asherfalcon.com/blog/posts/3</link>
-      <description>32 points 9 comments by ashfn on Hacker News</description>
-      <pubDate>Fri, 18 Jul 2025 14:41:04 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://asherfalcon.com/blog/posts/3</guid>
       <category>technology</category>
       <category>hacker news</category>
 
