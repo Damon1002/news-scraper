@@ -141,7 +141,8 @@ ${rssItems}
       '    <li><a href="feeds/entertainment/nextapple-entertainment.xml">🍎 壹苹新闻网</a></li>',
       '    <li><a href="feeds/entertainment/hk01-entertainment.xml">🇭🇰 HK01 即時娛樂</a></li>',
       '    <li><a href="feeds/entertainment/pagesix-entertainment.xml">📰 Page Six Entertainment</a></li>',
-      '    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>'
+      '    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>',
+      '    <li><a href="feeds/crypto/sosovalue-research.xml">💰 SosoValue Research</a></li>'
     ].join('\n');
 
     return `<!DOCTYPE html>
