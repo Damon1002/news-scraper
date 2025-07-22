@@ -223,6 +223,25 @@
           "updateFrequency": 5
         }
       ]
+    },
+    {
+      "id": "panews",
+      "name": "PANews",
+      "type": "scraper",
+      "baseUrl": "https://www.panewslab.com",
+      "rateLimit": 5,
+      "enabled": true,
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
+      },
+      "categories": [
+        {
+          "category": "crypto",
+          "endpoint": "/zh/newsflash",
+          "maxItems": 20,
+          "updateFrequency": 5
+        }
+      ]
     }
   ],
   "global": {

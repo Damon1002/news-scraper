@@ -14,6 +14,7 @@ import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
 import { SosoValueSource } from './sources/SosoValueSource.js';
 import { TechflowpostSource } from './sources/TechflowpostSource.js';
 import { LookOnChainSource } from './sources/LookOnChainSource.js';
+import { PANewsSource } from './sources/PANewsSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -87,6 +88,9 @@ export class NewsAggregator {
         }
         if (config.id === 'lookonchain') {
           return new LookOnChainSource(config);
+        }
+        if (config.id === 'panews') {
+          return new PANewsSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
