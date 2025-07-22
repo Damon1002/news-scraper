@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 12:29:32 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 12:29:32 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:37:12 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 12:37:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Sonic has announced that the first phase of the S Token airdrop claiming is now open</title>
+      <link>https://www.lookonchain.com/feeds/21365</link>
+      <description>July 22nd. According to official channels, Sonic has made an announcement that the first phase of the S Token airdrop claiming has now commenced. The Paintswap team has put out the &quot;Airdrop Order Book&quot; airdrop order, enabling users to claim, trade, and unlock a total of 1.9 billion S Tokens in airdrop rewards.Users are able to claim 25% of the airdrop directly into their wallets, while the remaining 75% will be minted into fNFT and unlocked linearly over a period of 270 days. The airdrop must be claimed within 180 days; otherwise, it will expire and be destroyed.</description>
+      <pubDate>Tue, 22 Jul 2025 12:32:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21365</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Hong Kong Customs Busts $1.15 Billion Money Laundering Case Involving Virtual Asset Trading and Cash Smuggling</title>
       <link>https://www.lookonchain.com/feeds/21364</link>
       <description>On July 22nd, according to the report in &quot;Sing Tao Daily&quot;, Hong Kong Customs today uncovered a suspected money laundering case involving the smuggling of cash and virtual assets. The amount involved is approximately 1.15 billion Hong Kong dollars, and one local male and one non-local male were arrested.Earlier, based on intelligence, Customs targeted a 37-year-old local male and a 50-year-old non-local male and initiated a financial investigation. It was found that the two individuals were suspected of illegally smuggling cash out of the country and rapidly conducting large transactions between stablecoins and fiat currencies. The funding sources were unclear and did not match their backgrounds, indicating potential money laundering activities.After an in-depth investigation, Customs conducted a surprise search this morning on 4 residential units and 2 companies and arrested the two individuals under the &quot;Organized and Serious Crimes Ordinance&quot; on charges of &quot;dealing with property</description>
-      <pubDate>Tue, 22 Jul 2025 12:25:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 12:25:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21364</guid>
       <category>crypto</category>
@@ -32,27 +49,10 @@
 
     </item>
     <item>
-      <title>U.S. Treasury Secretary: No Sign Powell Should Resign at This Time</title>
-      <link>https://www.lookonchain.com/feeds/21362</link>
-      <description>On July 22nd, US Treasury Secretary Yellen stated that there is no evidence suggesting that Powell should resign at present. If he wishes to resign prematurely, he is at liberty to do so. (FX678)</description>
-      <pubDate>Tue, 22 Jul 2025 12:09:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21362</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>SharpLink Gaming invested $258 million last week to acquire an additional 79,949 ETH.</title>
       <link>https://www.lookonchain.com/feeds/21363</link>
       <description>On July 22nd, SharpLink Gaming enhanced its holdings last week by 258 million dollars to obtain 79,949 ETH at an average price of 3,238 dollars.</description>
-      <pubDate>Tue, 22 Jul 2025 12:09:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 12:09:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21363</guid>
       <category>crypto</category>
@@ -69,10 +69,27 @@
 
     </item>
     <item>
+      <title>U.S. Treasury Secretary: No Sign Powell Should Resign at This Time</title>
+      <link>https://www.lookonchain.com/feeds/21362</link>
+      <description>On July 22nd, US Treasury Secretary Yellen stated that there is no evidence suggesting that Powell should resign at present. If he wishes to resign prematurely, he is at liberty to do so. (FX678)</description>
+      <pubDate>Tue, 22 Jul 2025 12:09:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21362</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>US Treasury Secretary: Calls for an Internal Review of the Federal Reserve</title>
       <link>https://www.lookonchain.com/feeds/21361</link>
       <description>On July 22nd, U.S. Treasury Secretary Yellen stated that she had called for an internal review of the Fed. Such a review may potentially become one of Powell&apos;s institutional heritages. (FX168)</description>
-      <pubDate>Tue, 22 Jul 2025 12:00:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 12:00:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21361</guid>
       <category>crypto</category>
@@ -89,7 +106,7 @@
       <title>Nano Labs conducts an OTC buyback of 45,684 BNB, approximately 34.9 million US dollars</title>
       <link>https://www.lookonchain.com/feeds/21360</link>
       <description>On July 22nd, according to GlobeNewswire, the U.S.-listed company Nano Labs Ltd (Nasdaq: NA) announced today that its holdings of BNB have witnessed a significant increase to 120,000 coins. The current total value of these holdings is approximately 90 million U.S. dollars.Recently, Nano Labs added 45,684.9862 BNB through over-the-counter (OTC) transactions. The average purchase price per coin was around 764 U.S. dollars. As of now, the company holds a total of about 120,000 BNB. The average acquisition cost per coin is 707 U.S. dollars, and the current market value is approximately 90 million U.S. dollars.</description>
-      <pubDate>Tue, 22 Jul 2025 11:58:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 11:58:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21360</guid>
       <category>crypto</category>
@@ -107,7 +124,7 @@
       <title>Japanese textile materials company Kitabo has announced plans to purchase approximately $5.4 million worth of Bitcoin.</title>
       <link>https://www.lookonchain.com/feeds/21359</link>
       <description>On July 22nd, based on the monitoring of @btcNLNico, the Japanese textile materials company Kitabo Co. announced that as part of its new financial strategy, it intends to purchase approximately 800 million yen (approximately $5.4 million) worth of Bitcoin.</description>
-      <pubDate>Tue, 22 Jul 2025 11:48:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 11:48:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21359</guid>
       <category>crypto</category>
@@ -127,7 +144,7 @@
       <title>&quot;Brother Big T&quot; Huang Lizheng is currently long on ETH, HYPE, and PUMP, with a notional position value of $126 million.</title>
       <link>https://www.lookonchain.com/feeds/21356</link>
       <description>On July 22nd, according to Ember Research, &quot;Big Brother Whale&quot; Huang Licheng currently has a long position with a value of $126 million on Hyperliquid, including ETH, HYPE, and PUMP.During the past two months, he has made a profit of up to $22.45 million by taking long positions in HYPE and ETH.</description>
-      <pubDate>Tue, 22 Jul 2025 11:29:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 11:37:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21356</guid>
       <category>crypto</category>
@@ -147,7 +164,7 @@
       <title>OKX is launching the &quot;ETH 50% Off Sale&quot; event, where trading 1 ETH can win you 0.5 ETH.</title>
       <link>https://www.lookonchain.com/feeds/21358</link>
       <description>July 22nd. According to official information, OKX has initiated the &quot;ETH 50% Off Celebration&quot; event in celebration of the tenth anniversary of Ethereum, and it has introduced three benefits:1. Users have the possibility to win 0.5 ETH for each transaction of 1 ETH, and the maximum number of participation times per person is 10.2. New users who complete their first transaction worth 100 USDT will be given a 26.08% APY coupon.3. By participating in the designated social media activity and inviting new users to complete transactions, one can receive an additional 100 USDT contract trial fund.</description>
-      <pubDate>Tue, 22 Jul 2025 11:29:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 11:37:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21358</guid>
       <category>crypto</category>
@@ -166,7 +183,7 @@
       <title>Archax is set to acquire Deutsche B?rse, expanding its cryptocurrency ETP business in Europe</title>
       <link>https://www.lookonchain.com/feeds/21357</link>
       <description>On July 22nd, as per the report by CoinDesk, the UK-based digital asset exchange Archax is going to acquire the German-regulated crypto asset management company Deutsche Digitale Vermogensverwaltung (DDA). This move is intended to enhance its standing in the two major European financial markets. DDA manages approximately $70 million in assets and specifically distributes cryptocurrency exchange-traded products (ETPs) through a network of European banks and asset management companies.</description>
-      <pubDate>Tue, 22 Jul 2025 11:29:32 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 11:37:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21357</guid>
       <category>crypto</category>
@@ -177,26 +194,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Bitcoin Surges Above $119,000</title>
-      <link>https://www.lookonchain.com/feeds/21355</link>
-      <description>On July 22nd, based on HTX market data, Bitcoin rebounded and exceeded $11.9K. It is currently trading at $119,081, with a 24-hour percentage change of 0.42%.</description>
-      <pubDate>Tue, 22 Jul 2025 11:29:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21355</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
