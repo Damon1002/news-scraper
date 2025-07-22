@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 23:03:13 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 23:03:13 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 23:15:36 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 23:15:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,27 +14,10 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Source: InsiderInsider Source: Polymarket is considering launching a stablecoin</title>
-      <link>https://www.lookonchain.com/feeds/21408</link>
-      <description>On July 23rd, as per CoinDesk, a source disclosed that the crypto prediction market Polymarket is in the process of deciding whether to launch its own custom stablecoin or enter into a revenue-sharing agreement with Circle based on the quantity of USDC held on the platform.This source further mentioned that the motivation for Polymarket to create its own stablecoin is solely to establish a revenue reserve. A representative of Polymarket stated that no decision has been reached regarding the stablecoin matter at this present time.</description>
-      <pubDate>Tue, 22 Jul 2025 21:02:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21408</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>21Shares Submits S-1 Filing for ONDO ETF</title>
       <link>https://www.lookonchain.com/feeds/21410</link>
       <description>On July 23rd, based on market information, 21Shares has submitted the S-1 application document for the ONDO ETF to the US SEC.</description>
-      <pubDate>Tue, 22 Jul 2025 21:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 21:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21410</guid>
       <category>crypto</category>
@@ -51,7 +34,7 @@
       <title>The SEC has approved the conversion of the Bitwise 10 Crypto Index Fund to an ETF, which includes coins such as ADA, SOL, and LINK.</title>
       <link>https://www.lookonchain.com/feeds/21409</link>
       <description>On July 23rd, based on market information, the U.S. Securities and Exchange Commission (SEC) has given the green light to the conversion of the Bitwise 10 Crypto Index Fund into an ETF. This ETF covers assets such as BTC, ETH, XRP, SOL, ADA, SUI, LINK, AVAX, LTC, and DOT.</description>
-      <pubDate>Tue, 22 Jul 2025 21:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 21:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21409</guid>
       <category>crypto</category>
@@ -65,12 +48,12 @@
 
     </item>
     <item>
-      <title>SpaceX: Musk Might Return to US Politics</title>
-      <link>https://www.lookonchain.com/feeds/21405</link>
-      <description>On July 23rd, according to market news: The space exploration company SpaceX has cautioned investors that CEO Musk may re-enter US politics. (Xinhua Finance)</description>
-      <pubDate>Tue, 22 Jul 2025 19:02:20 +0000</pubDate>
+      <title>Source: InsiderInsider Source: Polymarket is considering launching a stablecoin</title>
+      <link>https://www.lookonchain.com/feeds/21408</link>
+      <description>On July 23rd, as per CoinDesk, a source disclosed that the crypto prediction market Polymarket is in the process of deciding whether to launch its own custom stablecoin or enter into a revenue-sharing agreement with Circle based on the quantity of USDC held on the platform.This source further mentioned that the motivation for Polymarket to create its own stablecoin is solely to establish a revenue reserve. A representative of Polymarket stated that no decision has been reached regarding the stablecoin matter at this present time.</description>
+      <pubDate>Tue, 22 Jul 2025 21:14:43 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21405</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21408</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -79,14 +62,13 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>spacex</category>
 
     </item>
     <item>
       <title>LookOnChain: Bitcoin Surpasses $120,000</title>
       <link>https://www.lookonchain.com/feeds/21407</link>
       <description>On July 23rd, based on HTX market data, Bitcoin exceeded $120,000, witnessing a 24-hour price increase of 2.40%.</description>
-      <pubDate>Tue, 22 Jul 2025 19:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 19:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21407</guid>
       <category>crypto</category>
@@ -103,10 +85,28 @@
 
     </item>
     <item>
+      <title>SpaceX: Musk Might Return to US Politics</title>
+      <link>https://www.lookonchain.com/feeds/21405</link>
+      <description>On July 23rd, according to market news: The space exploration company SpaceX has cautioned investors that CEO Musk may re-enter US politics. (Xinhua Finance)</description>
+      <pubDate>Tue, 22 Jul 2025 18:14:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21405</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>spacex</category>
+
+    </item>
+    <item>
       <title>Trump: Philippines Will Pay 19% Tariff</title>
       <link>https://www.lookonchain.com/feeds/21406</link>
       <description>On July 23rd, U.S. President Trump stated on social media: &quot;The Philippine President Ferdinand Marcos and his numerous representatives have just left the White House. It was an excellent visit, and we have reached a trade agreement. The Philippines will open its market to the U.S. with zero tariffs. However, it should be noted that the Philippines will also pay a 19% tariff. Additionally, we will collaborate on the military front. I am honored to be with this president. He is highly regarded in his country and deserves that. He is also an extremely excellent and tough negotiator.&quot; (Golden Finance)</description>
-      <pubDate>Tue, 22 Jul 2025 19:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 18:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21406</guid>
       <category>crypto</category>
@@ -120,28 +120,10 @@
 
     </item>
     <item>
-      <title>In the past 24 hours, there has been a total of $541 million in liquidations across the network, with the majority coming from long positions.</title>
-      <link>https://www.lookonchain.com/feeds/21401</link>
-      <description>On July 23rd, according to Coinglass data, the entire network witnessed a liquidation of $541 million in the past 24 hours. Among them, there were $378 million in long liquidations and $163 million in short liquidations.</description>
-      <pubDate>Tue, 22 Jul 2025 17:02:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21401</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Circle Introduces Circle Gateway: A New Infrastructure to Achieve Cross-Chain Unified USDC Balance</title>
       <link>https://www.lookonchain.com/feeds/21404</link>
       <description>On July 23rd, according to official information, Circle has officially launched the Circle Gateway testnet. It initially supports the Avalanche, Bitcoin, and Ethereum mainnets, enabling users to access USDC across chains in seconds. The mainnet version is about to be launched and will continue to expand to more blockchains. The key features are as follows:1. Cross-Chain Access in Less Than 500ms: There is no need for cross-chain bridges or pre-positioning of assets. Users can quickly call a unified USDC balance.2. Efficient Liquidity Management: By integrating a single system, it meets the multi-chain liquidity needs and reduces capital utilization.3. Non-Custodial Design: Users have full control over USDC. Funds can only be moved with signed authorization, and withdrawals do not require trust in a third party.</description>
-      <pubDate>Tue, 22 Jul 2025 17:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 17:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21404</guid>
       <category>crypto</category>
@@ -158,7 +140,7 @@
       <title>Bloomberg Analyst: Bitcoin and Ethereum ETF Approval Signals Positive Development in Creation and Redemption Mechanism</title>
       <link>https://www.lookonchain.com/feeds/21403</link>
       <description>On July 23rd. Bloomberg ETF analyst James Seyffart stated in a recent article that five ETFs listed on CBOE have submitted amended filings to the SEC. This indicates that the regulatory agency is actively involved in discussions with the funds and is making detailed adjustments. It may potentially pave the way for an in-kind creation and redemption mechanism.It is important to note that this mechanism is only applicable to authorized participants (such as large Wall Street institutions and market makers). Regular investors cannot directly exchange Bitcoin or Ethereum spot assets for ETF shares.</description>
-      <pubDate>Tue, 22 Jul 2025 17:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 17:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21403</guid>
       <category>crypto</category>
@@ -176,10 +158,28 @@
 
     </item>
     <item>
+      <title>In the past 24 hours, there has been a total of $541 million in liquidations across the network, with the majority coming from long positions.</title>
+      <link>https://www.lookonchain.com/feeds/21401</link>
+      <description>On July 23rd, according to Coinglass data, the entire network witnessed a liquidation of $541 million in the past 24 hours. Among them, there were $378 million in long liquidations and $163 million in short liquidations.</description>
+      <pubDate>Tue, 22 Jul 2025 16:14:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21401</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>With the rise of decentralized derivatives trading, USDC supply on Hyperliquid has increased to 4.9 billion coins</title>
       <link>https://www.lookonchain.com/feeds/21402</link>
       <description>On July 23rd, as per The Block, the supply of USDC on Hyperliquid has witnessed a substantial increase since the start of the year. It has doubled to 4.9 billion. This growth reflects the escalating significance of decentralized perpetual contract trading platforms. USDC serves as the primary settlement currency for derivatives trading on this platform.Hyperliquid has demonstrated robust trading momentum. It has processed more than $150 billion in volume just in July. The platform&apos;s volume now accounts for 11.5% of Binance&apos;s, indicating its rapid expansion as a leading on-chain perpetual contract platform.</description>
-      <pubDate>Tue, 22 Jul 2025 17:02:20 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 16:14:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21402</guid>
       <category>crypto</category>
