@@ -40,12 +40,6 @@
           "updateFrequency": 30
         },
         {
-          "category": "science",
-          "endpoint": "/r/science/hot.json?limit=10",
-          "maxItems": 10,
-          "updateFrequency": 120
-        },
-        {
           "category": "business",
           "endpoint": "/r/business/hot.json?limit=10",
           "maxItems": 10,
@@ -215,7 +209,7 @@
   "global": {
     "maxItemsPerFeed": 50,
     "defaultUpdateFrequency": 60,
-    "enabledCategories": ["technology", "business", "world", "science", "health", "entertainment", "crypto"],
+    "enabledCategories": ["technology", "business", "world", "health", "entertainment", "crypto"],
     "outputDirectory": "docs/feeds",
     "baseUrl": "https://damon1002.github.io/news-scraper"
   }

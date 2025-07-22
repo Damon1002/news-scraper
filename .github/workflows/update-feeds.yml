@@ -1,15 +1,17 @@
-name: Update News Feeds
+name: Legacy Update Feeds (DEPRECATED)
+
+# DEPRECATED: This workflow has been replaced by specialized workflows:
+# - update-feeds-fast.yml: Entertainment & crypto (2-5 min updates)
+# - update-feeds-standard.yml: Tech/business/world (30-60 min updates)
 
 on:
-  schedule:
-    # Run every 2 minutes for fast entertainment news updates
-    - cron: '*/2 * * * *'
-  workflow_dispatch: # Allow manual triggering
-  push:
-    branches: [ main ]
-    paths:
-      - 'src/**'
-      - '.github/workflows/**'
+  workflow_dispatch: # Manual triggering only
+    inputs:
+      force_run:
+        description: 'Force run legacy workflow (for testing only)'
+        required: true
+        type: boolean
+        default: false
 
 jobs:
   update-feeds:

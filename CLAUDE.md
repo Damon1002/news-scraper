@@ -57,18 +57,32 @@ The system generates category-specific RSS feeds and a master feed, automaticall
 - `technology.xml`: Technology news only
 - `business.xml`: Business news only
 - `world.xml`: World news only
-- `science.xml`: Science news only
 - `health.xml`: Health news only
+- `entertainment.xml`: Entertainment news only  
+- `crypto.xml`: Crypto news only
 - `general.xml`: General news
 
 **Feed Discovery** (`docs/index.html`): Auto-generated index page with links to all feeds
 
 ### Automation
 
-**GitHub Actions** (`.github/workflows/update-feeds.yml`):
-- **Schedule**: Runs every hour via cron
-- **Process**: Install deps → Scrape news → Generate feeds → Commit → Deploy to Pages
-- **Output**: RSS feeds hosted at `https://damon1002.github.io/google-news-scraper/`
+**Multi-Schedule GitHub Actions**:
+
+1. **Fast Updates** (`.github/workflows/update-feeds-fast.yml`):
+   - **Schedule**: Every 2 minutes (entertainment), Every 5 minutes (crypto)
+   - **Categories**: Entertainment, Crypto
+   - **Optimizations**: Concurrency controls, dependency caching, 10-minute timeout
+
+2. **Standard Updates** (`.github/workflows/update-feeds-standard.yml`):
+   - **Schedule**: Every 30 minutes (world), Every hour (tech/business)
+   - **Categories**: Technology, Business, World
+   - **Optimizations**: 15-minute timeout, master feed updates
+
+3. **Legacy Workflow** (`.github/workflows/update-feeds.yml`):
+   - **Status**: DEPRECATED - Manual trigger only for testing
+   - **Replaced by**: Specialized fast/standard workflows above
+
+**Output**: RSS feeds hosted at `https://damon1002.github.io/news-scraper/`
 
 ## Key Features
 
@@ -145,9 +159,10 @@ docs/                       # GitHub Pages output
 
 ## RSS Feed URLs
 
-- **Master Feed**: `https://damon1002.github.io/google-news-scraper/feeds/master.xml`
-- **Technology**: `https://damon1002.github.io/google-news-scraper/feeds/technology.xml`
-- **Business**: `https://damon1002.github.io/google-news-scraper/feeds/business.xml`
-- **World**: `https://damon1002.github.io/google-news-scraper/feeds/world.xml`
-- **Science**: `https://damon1002.github.io/google-news-scraper/feeds/science.xml`
-- **Health**: `https://damon1002.github.io/google-news-scraper/feeds/health.xml`
+- **Master Feed**: `https://damon1002.github.io/news-scraper/feeds/master.xml`
+- **Technology**: `https://damon1002.github.io/news-scraper/feeds/technology.xml`
+- **Business**: `https://damon1002.github.io/news-scraper/feeds/business.xml`
+- **World**: `https://damon1002.github.io/news-scraper/feeds/world.xml`
+- **Health**: `https://damon1002.github.io/news-scraper/feeds/health.xml`
+- **Entertainment**: `https://damon1002.github.io/news-scraper/feeds/entertainment.xml`
+- **Crypto**: `https://damon1002.github.io/news-scraper/feeds/crypto.xml`
