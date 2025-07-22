@@ -7,9 +7,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This is a **Multi-Source News Aggregation System** built in TypeScript that extracts news from multiple sources and generates RSS feeds for different categories. The system supports:
 
 1. **Google News** - RSS feeds for multiple categories (General, Tech, Business, World, Science, Health)
-2. **Reddit** - Hot posts from news subreddits (r/technology, r/worldnews, r/science, r/business)
+2. **Reddit** - Hot posts from news subreddits (r/technology, r/worldnews, r/business)
 3. **Hacker News** - Top technology stories via API
-4. **Extensible Architecture** - Easy to add new news sources
+4. **LookOnChain** - Breaking news and whale watching for crypto/blockchain
+5. **Extensible Architecture** - Easy to add new news sources
 
 The system generates category-specific RSS feeds and a master feed, automatically hosted on GitHub Pages with hourly updates.
 
@@ -34,6 +35,7 @@ The system generates category-specific RSS feeds and a master feed, automaticall
 - **GoogleNewsSource** (`src/sources/GoogleNewsSource.ts`): RSS + Playwright fallback
 - **RedditSource** (`src/sources/RedditSource.ts`): Reddit API integration
 - **HackerNewsSource** (`src/sources/HackerNewsSource.ts`): Hacker News API integration
+- **LookOnChainSource** (`src/sources/LookOnChainSource.ts`): LookOnChain breaking news scraper
 
 ### Configuration System
 

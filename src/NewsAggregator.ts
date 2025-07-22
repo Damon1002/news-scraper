@@ -13,6 +13,7 @@ import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource
 import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
 import { SosoValueSource } from './sources/SosoValueSource.js';
 import { TechflowpostSource } from './sources/TechflowpostSource.js';
+import { LookOnChainSource } from './sources/LookOnChainSource.js';
 import { NewsItem, NewsCategory, ScrapingResult, SourceConfig } from './types/index.js';
 
 export class NewsAggregator {
@@ -83,6 +84,9 @@ export class NewsAggregator {
         }
         if (config.id === 'techflowpost') {
           return new TechflowpostSource(config);
+        }
+        if (config.id === 'lookonchain') {
+          return new LookOnChainSource(config);
         }
         throw new Error(`Unsupported scraper source: ${config.id}`);
       
