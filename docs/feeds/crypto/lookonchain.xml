@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 07:57:46 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 07:57:46 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 08:21:55 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 08:21:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The Bitcoin Treasury Company H100 Group has been approved to list on the Frankfurt Stock Exchange.</title>
+      <link>https://www.lookonchain.com/feeds/21328</link>
+      <description>July 22: According to an official announcement, the Swedish listed company H100 Group has received approval for trading on the Frankfurt Stock Exchange (Open Market), and trading began today under the stock code GS9.Yesterday, the Swedish listed company H100 Group announced that it has increased its holdings of BTC by 140.25 BTC, and its total holdings have reached 510.28 BTC.</description>
+      <pubDate>Tue, 22 Jul 2025 08:17:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21328</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Solana&apos;s Market Cap Surpasses BNB Again After Five Months, Rises to Fifth Place in Global Cryptocurrency Market</title>
       <link>https://www.lookonchain.com/feeds/21327</link>
       <description>On July 22nd, based on CoinGecko data, Solana&apos;s market capitalization has once again exceeded BNB after five months and risen to the fifth position in the global cryptocurrency market capitalization ranking. Solana&apos;s current market capitalization is $107.6 billion, while BNB&apos;s current market capitalization is $106 billion.Previously, on February 23rd, BNB&apos;s market capitalization surpassed $104.2 billion and surpassed SOL to rise to the fifth position in the global cryptocurrency market capitalization ranking.</description>
-      <pubDate>Tue, 22 Jul 2025 07:57:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:56:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21327</guid>
       <category>crypto</category>
@@ -34,7 +53,7 @@
       <title>USDC Treasury Burns 55 Million USDC on the Ethereum Blockchain</title>
       <link>https://www.lookonchain.com/feeds/21326</link>
       <description>On July 22nd, as monitored by WhaleAlert, the USDC Treasury burned 55 million USDC on the Ethereum blockchain.</description>
-      <pubDate>Tue, 22 Jul 2025 07:48:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:48:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21326</guid>
       <category>crypto</category>
@@ -54,7 +73,7 @@
       <title>Coinbase&apos;s Wrapped Bitcoin (cbBTC) Surpasses $6 Billion in Market Capitalization, with a Circulating Supply of 53,822 Coins</title>
       <link>https://www.lookonchain.com/feeds/21325</link>
       <description>On July 22nd, as per Dune Analytics, the circulating supply of Coinbase&apos;s wrapped Bitcoin, namely Coinbase Wrapped BTC (cbBTC), has reached 53,822 coins. This indicates an increase of more than 7,300 coins within the past month. The market capitalization of cbBTC has achieved a first-time milestone by surpassing $6 billion and currently stands at $6.3 billion. It has thus taken the second position as the largest wrapped Bitcoin in terms of market share, accounting for 26.2%, only second to wBTC.</description>
-      <pubDate>Tue, 22 Jul 2025 07:48:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:48:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21325</guid>
       <category>crypto</category>
@@ -74,7 +93,7 @@
       <title>Ethereum L1 Gas Limit has been increased to 45 million, significantly improving transaction throughput and scalability.</title>
       <link>https://www.lookonchain.com/feeds/21324</link>
       <description>July 22nd: Based on Etherscan data, the Ethereum L1 Gas Limit has been raised to 45 million at the block height of 22968004. Approximately 50% of validators (representing nearly 500,000 staked ETH) have shown support for the increase in the gas limit, which has significantly enhanced Ethereum&apos;s transaction throughput and scalability. Previously, the Ethereum L1 Gas Limit was set at 36 million in February 2025.Yesterday, Ethereum&apos;s founder Vitalik tweeted, &quot;Roughly exactly 50% of stakers voted to increase L1&apos;s Gas Limit to 45 million. The Gas Limit has already begun to increase and is now at 37.3 million.&quot;</description>
-      <pubDate>Tue, 22 Jul 2025 07:40:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:40:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21324</guid>
       <category>crypto</category>
@@ -94,7 +113,7 @@
       <title>A Whale Liquidated 2720 ETH, Profiting Another $677,000</title>
       <link>https://www.lookonchain.com/feeds/21323</link>
       <description>On July 22nd, according to on-chain analyst Ai Yi (@ai_9684xtpa), the &quot;Smart Money that Shorted BTC during the LUNA/UST Crash to Earn $5.16 Million&quot; liquidated 2720 ETH and once again reaped a profit of $677,000.This whale bought at an average price of $3437 and exited at a price of $3692.69. It once again profited from the practice of buying low and selling high with ETH. The total position profit and loss is as follows: previously, it earned $7.41 million by bottom fishing with BTC and WBTC, and $3.697 million by bottom fishing with ETH.</description>
-      <pubDate>Tue, 22 Jul 2025 07:24:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21323</guid>
       <category>crypto</category>
@@ -116,7 +135,7 @@
       <title>Trader AguilaTrades Opens 40x Long Bitcoin Position, Position Worth Approximately $100 Million</title>
       <link>https://www.lookonchain.com/feeds/21322</link>
       <description>On July 22nd, according to the on-chain analyst Ai Auntie (@ai_9684xtpa), the ETH long position of trader AguilaTrades has been liquidated with a loss. Currently, it has entered a 40x leveraged long position on Bitcoin and holds 840 BTC, which is approximately worth 100 million US dollars. The entry price is $118,033.3.</description>
-      <pubDate>Tue, 22 Jul 2025 07:24:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21322</guid>
       <category>crypto</category>
@@ -136,7 +155,7 @@
       <title>WBTC Listed on Aptos Network</title>
       <link>https://www.lookonchain.com/feeds/21321</link>
       <description>On July 22nd, Aptos announced that LayerZero has launched a full-chain version of WBTC based on the OFT standard, presenting a new avenue for Bitcoin to cross-chain to Aptos. This version of WBTC can seamlessly traverse chains through LayerZero without the need for additional wrapping or delays. As a result, Aptos has further augmented its native and secure BTC liquidity source.With the launch of xBTC and the incorporation of WBTC-OFT, Aptos now offers two distinct and composable DeFi entry routes for Bitcoin holders. These two types of assets together have removed barriers that have long hindered the on-chain potential of Bitcoin, achieving simplified transfer processes, unified liquidity, and directly connecting BTC to Aptos&apos;s high-performance DeFi ecosystem.Aptos has more than $430 million in BTC-backed assets, $1.35 billion in stablecoin liquidity, and has received support from mainstream protocols such as Aries, Echo, and Hyperion, making it one of the most promising and capit</description>
-      <pubDate>Tue, 22 Jul 2025 07:24:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21321</guid>
       <category>crypto</category>
@@ -155,7 +174,7 @@
       <title>An whale withdrew 2,143 ETH from Binance, worth $7.93 million</title>
       <link>https://www.lookonchain.com/feeds/21320</link>
       <description>On July 22nd, as monitored by OnchainLens, a whale transferred 2,143 ETH from Binance, which was worth $7.93 million.</description>
-      <pubDate>Tue, 22 Jul 2025 07:16:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:21:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21320</guid>
       <category>crypto</category>
@@ -176,7 +195,7 @@
       <title>Federal Reserve Chairman Powell will deliver a public speech tonight, with the market focusing on his response to Trump&apos;s pressure</title>
       <link>https://www.lookonchain.com/feeds/21319</link>
       <description>July 22nd. Chairman Powell of the Federal Reserve is scheduled to attend a banking regulation-related meeting and deliver opening remarks at 20:30 Beijing time tonight. Given the recent pressure from Trump and Republican lawmakers regarding the excessive spending on the renovation project of the Federal Reserve headquarters, his speech tonight is highly anticipated by traders and investors. It is expected that Powell will not make a direct statement on this matter in tonight&apos;s speech but may once again emphasize the significance of the Fed&apos;s independence.The renovation budget for the Federal Reserve headquarters building has increased from $1.5 billion to $25 to $26 billion, which is far beyond expectations. There are rumors involving luxury facilities such as a rooftop garden and a private elevator, which have led to public and political inquiries about its extravagance. Trump and others took the opportunity to criticize Federal Reserve Chairman Powell and questioned his transparenc</description>
-      <pubDate>Tue, 22 Jul 2025 07:16:46 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 07:21:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21319</guid>
       <category>crypto</category>
@@ -187,26 +206,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Rebounds Breaks $118,000, 24-hour Loss Narrows to 1.2%</title>
-      <link>https://www.lookonchain.com/feeds/21318</link>
-      <description>On July 22nd, based on HTX market data, Bitcoin saw a rebound and exceeded $118,000. The 24-hour decline narrowed to 1.2%.</description>
-      <pubDate>Tue, 22 Jul 2025 07:08:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21318</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
