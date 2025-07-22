@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 09:46:32 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 09:46:32 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 09:53:33 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 09:53:33 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>加密挖矿恶意软件卷土重来，超 3500 个网站被植入门罗币挖矿脚本</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Decrypt 报道，一波隐蔽的浏览器加密挖矿攻击正在网络上蔓延，超过 3,500 个网站被植入了秘密的门罗币 (Monero) 挖矿脚本。网络安全公司 c/side 首次发现了这一仍在活跃的攻击活动。与传统的加密劫持不同，这些恶意软件通过限制 CPU 使用率并将流量隐藏在 WebSocket...</description>
+      <pubDate>Tue, 22 Jul 2025 09:51:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>币安 Alpha：Yala (YALA) 第一阶段空投申领门槛为 238 Alpha 积分</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 The Miner Mag 报道，比特币矿企 Mawson 已解雇首席执行官 Rahul Mewawalla，因其违反受托责任并涉嫌欺诈，并已在美国特拉华州法院提起诉讼。Rahul Mewawalla 随后在 7 月 17 日致董事会的一封信中表示，他「尊重但坚决」反对公司对事件的描述，并指出...</description>
       <pubDate>Tue, 22 Jul 2025 06:11:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Hotcoin热币交易所将于7月22日上线ORGO现货交易</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方消息，Hotcoin热币交易所将于7月22日上线以下交易对：现货交易对ORGO/USDT：（7月22日12:00 UTC+8）：$ORGO是Orgo AI项目的原生代币，Orgo 是面向 AI 代理的桌面基础架构。它可启动 AI 模型可以控制和交互的无头云虚拟机。</description>
-      <pubDate>Tue, 22 Jul 2025 05:50:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
