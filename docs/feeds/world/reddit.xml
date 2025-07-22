@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/world/reddit.xml</link>
     <description>Latest world news from Reddit</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 09:24:27 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 09:24:27 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 14:12:23 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 14:12:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>world</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/world/reddit.xml" rel="self" type="application/rss+xml"/>
@@ -14,31 +14,97 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>UK F-35B fighter jet grounded in Kerala finally departs from Thiruvananthapuram airport</title>
-      <link>https://www.thehindu.com/news/national/kerala/uk-fighter-jet-grounded-in-kerala-finally-departs/article69841314.ece</link>
-      <description>119 upvotes 21 comments from r/worldnews</description>
-      <pubDate>Tue, 22 Jul 2025 06:21:42 +0000</pubDate>
+      <title>British institutions to be banned from paying ransoms to Russian hackers</title>
+      <link>https://www.politico.eu/article/britain-ban-pay-ransom-russia-hacker/</link>
+      <description>251 upvotes 10 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 12:37:59 +0000</pubDate>
       <source>Reddit</source>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/kerala/uk-fighter-jet-grounded-in-kerala-finally-departs/article69841314.ece</guid>
+      <guid isPermaLink="true">https://www.politico.eu/article/britain-ban-pay-ransom-russia-hacker/</guid>
       <category>world</category>
       <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/ExSLUgbs4G8aZSKFwCcBv8nGShM2wB1VIYdjQMqo8-g.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=6a748d938e7f469023033c3cd1190aad87296ce6" type="image/jpeg"/>
+      <enclosure url="https://external-preview.redd.it/eeR3hIReYJYLX1iCsQn1Dj2KEP416vKCEugBeiTOcNE.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=999d00be4dc1bbaea667d55d83b2d65cffc25554" type="image/jpeg"/>
     </item>
     <item>
-      <title>Spain to step up monitoring of far-right groups after riots</title>
-      <link>https://bnn-news.com/spain-to-step-up-monitoring-of-far-right-groups-after-riots-269909</link>
-      <description>380 upvotes 21 comments from r/worldnews</description>
-      <pubDate>Tue, 22 Jul 2025 05:34:14 +0000</pubDate>
+      <title>US citizen among eight Druze family members executed during Syria’s sectarian violence</title>
+      <link>https://edition.cnn.com/2025/07/22/middleeast/us-citizen-druze-family-executed-syria-intl-latam-hnk</link>
+      <description>442 upvotes 42 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 12:29:15 +0000</pubDate>
       <source>Reddit</source>
-      <guid isPermaLink="true">https://bnn-news.com/spain-to-step-up-monitoring-of-far-right-groups-after-riots-269909</guid>
+      <guid isPermaLink="true">https://edition.cnn.com/2025/07/22/middleeast/us-citizen-druze-family-executed-syria-intl-latam-hnk</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/RKLNzEPqb6-hZD0sqzxwUTohh6X2LBzKP_Tj8HLg5Vw.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=cf620f2e92c69ab4eea3d8d1471fb3fd0f515709" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Lithuania purchases over 2,500 drones for Ukraine’s Armed Forces – photos</title>
+      <link>https://www.pravda.com.ua/eng/news/2025/07/22/7522873/</link>
+      <description>891 upvotes 5 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 10:25:44 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.pravda.com.ua/eng/news/2025/07/22/7522873/</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/Ih8WffVSBQDU7Rqb6WpjMpHbiqw4k6LNZHcvFNtP7bE.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=9ce8c12b07af2e84f35400dd9ea86b9afd8e5c88" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ukrainian drones reportedly attack Samara plant making raw materials for Russian artillery, bombs</title>
+      <link>https://kyivindependent.com/ukrainian-drone-attacks-samara-plant-making-raw-materials-for-russian-artillery-and-bombs/</link>
+      <description>440 upvotes 1 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 10:19:10 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://kyivindependent.com/ukrainian-drone-attacks-samara-plant-making-raw-materials-for-russian-artillery-and-bombs/</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/YfkVTCPjOzFS-z8HTtQGTDGMqQAYkMknyUXQ8H-FixQ.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=6ef416c64933488627ff70274e9c10d940f0bfbb" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Trump says US will strike Iran’s nuclear sites again ‘if necessary’</title>
+      <link>https://www.aa.com.tr/en/americas/trump-says-us-will-strike-iran-s-nuclear-sites-again-if-necessary-/3637933</link>
+      <description>618 upvotes 213 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 09:30:58 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.aa.com.tr/en/americas/trump-says-us-will-strike-iran-s-nuclear-sites-again-if-necessary-/3637933</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/cLuajii6EKOOn7sbhnORlbzvO4ONeQ_HKCyT6EZHFpw.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=33e3502430e209edb7774fa615c1fde9b95707b3" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Hamas welcomes joint statement by 25 countries, urges practical steps to end Gaza war</title>
+      <link>https://www.saba.ye/en/news3520475.htm</link>
+      <description>1506 upvotes 529 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 09:10:32 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.saba.ye/en/news3520475.htm</guid>
       <category>world</category>
       <category>reddit</category>
 
     </item>
     <item>
+      <title>Russia plans to spend over a trillion dollars on rearmament by 2036</title>
+      <link>https://unn.ua/en/news/russia-plans-to-spend-over-a-trillion-dollars-on-rearmament-by-2036-budanov</link>
+      <description>2502 upvotes 328 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 09:03:16 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://unn.ua/en/news/russia-plans-to-spend-over-a-trillion-dollars-on-rearmament-by-2036-budanov</guid>
+      <category>world</category>
+      <category>reddit</category>
+
+    </item>
+    <item>
+      <title>Chinese Officials Helped Cover Up Lead Poisoning of Children, Report Says</title>
+      <link>https://www.nytimes.com/2025/07/21/world/asia/china-lead-poisoning-scandal.html</link>
+      <description>739 upvotes 37 comments from r/worldnews</description>
+      <pubDate>Tue, 22 Jul 2025 08:37:30 +0000</pubDate>
+      <source>Reddit</source>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/07/21/world/asia/china-lead-poisoning-scandal.html</guid>
+      <category>world</category>
+      <category>reddit</category>
+      <enclosure url="https://external-preview.redd.it/umkBFlL-gxCD8UZePEXH3IDNSbRispllPzfsQb4U8aQ.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=dc37051332ef1d450d22c2b32df5d1d062a74c6e" type="image/jpeg"/>
+    </item>
+    <item>
       <title>/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1244, Part 1 (Thread #1391)</title>
       <link>https://www.reddit.com/live/18hnzysb1elcs</link>
-      <description>233 upvotes 8 comments from r/worldnews</description>
+      <description>408 upvotes 14 comments from r/worldnews</description>
       <pubDate>Tue, 22 Jul 2025 04:02:30 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.reddit.com/live/18hnzysb1elcs</guid>
@@ -49,7 +115,7 @@
     <item>
       <title>&apos;Japanese first&apos;: Voters back Trump-inspired party to &apos;Make Japan Great Again&apos; wins big in key elections</title>
       <link>https://timesofindia.indiatimes.com/world/rest-of-world/japanese-first-voters-back-trump-inspired-party-to-make-japan-great-again-wins-big-in-key-elections/articleshow/122807502.cms</link>
-      <description>5338 upvotes 653 comments from r/worldnews</description>
+      <description>8311 upvotes 869 comments from r/worldnews</description>
       <pubDate>Tue, 22 Jul 2025 03:13:25 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/rest-of-world/japanese-first-voters-back-trump-inspired-party-to-make-japan-great-again-wins-big-in-key-elections/articleshow/122807502.cms</guid>
@@ -58,20 +124,9 @@
       <enclosure url="https://external-preview.redd.it/Sut9aRwW1YnfcaQSUqzsdUQrudExeBDklq0hLKTY1rA.png?width=140&amp;height=75&amp;crop=140:75,smart&amp;auto=webp&amp;s=6a7689d9e711ab3d07d463f2da2026afa24149b0" type="image/jpeg"/>
     </item>
     <item>
-      <title>World Health Organization says Israeli forces hit its staff residence and main warehouse in Gaza</title>
-      <link>https://www.theguardian.com/world/2025/jul/21/who-says-residence-and-main-warehouse-in-gaza-hit-by-israeli-forces</link>
-      <description>470 upvotes 94 comments from r/worldnews</description>
-      <pubDate>Tue, 22 Jul 2025 03:09:01 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2025/jul/21/who-says-residence-and-main-warehouse-in-gaza-hit-by-israeli-forces</guid>
-      <category>world</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/UPk0-3g_l3A3LyBzd4gIAG9a5TtV9iplbOwgpfXoRd8.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=3f01f031f718ba1fdb260dac94d21d724aea4a23" type="image/jpeg"/>
-    </item>
-    <item>
       <title>B.C. premier slams U.S. ambassador for saying Trump thinks Canadian boycotts are &apos;nasty&apos;</title>
       <link>https://www.cbc.ca/news/politics/hoekstra-canadians-mean-nasty-1.7590636</link>
-      <description>1394 upvotes 127 comments from r/worldnews</description>
+      <description>2176 upvotes 175 comments from r/worldnews</description>
       <pubDate>Tue, 22 Jul 2025 02:49:24 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.cbc.ca/news/politics/hoekstra-canadians-mean-nasty-1.7590636</guid>
@@ -82,7 +137,7 @@
     <item>
       <title>YouTube wipes out thousands of propaganda channels linked to China, Russia</title>
       <link>https://www.cnbc.com/2025/07/21/youtube-channels-propaganda-china-russia.html</link>
-      <description>24861 upvotes 727 comments from r/worldnews</description>
+      <description>34172 upvotes 1021 comments from r/worldnews</description>
       <pubDate>Tue, 22 Jul 2025 01:52:46 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.cnbc.com/2025/07/21/youtube-channels-propaganda-china-russia.html</guid>
@@ -93,7 +148,7 @@
     <item>
       <title>US and Germany agree to deliver five Patriot air defence systems to Ukraine, Berlin says</title>
       <link>https://www.euronews.com/my-europe/2025/07/21/us-and-germany-agree-to-deliver-five-patriot-air-defence-systems-to-ukraine-berlin-says</link>
-      <description>3097 upvotes 93 comments from r/worldnews</description>
+      <description>3743 upvotes 107 comments from r/worldnews</description>
       <pubDate>Mon, 21 Jul 2025 22:20:19 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.euronews.com/my-europe/2025/07/21/us-and-germany-agree-to-deliver-five-patriot-air-defence-systems-to-ukraine-berlin-says</guid>
@@ -104,7 +159,7 @@
     <item>
       <title>Armenia refuses to hand over Russian deserter unwilling to fight in Ukraine</title>
       <link>https://novayagazeta.eu/articles/2025/07/21/armenia-refuses-to-hand-over-russian-deserter-unwilling-to-fight-in-ukraine-en-news</link>
-      <description>8890 upvotes 112 comments from r/worldnews</description>
+      <description>9965 upvotes 130 comments from r/worldnews</description>
       <pubDate>Mon, 21 Jul 2025 20:03:57 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://novayagazeta.eu/articles/2025/07/21/armenia-refuses-to-hand-over-russian-deserter-unwilling-to-fight-in-ukraine-en-news</guid>
@@ -113,70 +168,15 @@
       <enclosure url="https://external-preview.redd.it/4HDwETQB__zTEKAGmPxjAebR7Qjb38XGPJwjaB6CPpE.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=8490c37c944cb4568193befaa94c2ad50c31cbfb" type="image/jpeg"/>
     </item>
     <item>
-      <title>UK targets 135 Russian &apos;shadow fleet&apos; tankers with fresh sanctions</title>
-      <link>https://www.reuters.com/world/uk-targets-135-russian-shadow-fleet-tankers-with-fresh-sanctions-2025-07-21/</link>
-      <description>941 upvotes 21 comments from r/worldnews</description>
-      <pubDate>Mon, 21 Jul 2025 19:03:14 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.reuters.com/world/uk-targets-135-russian-shadow-fleet-tankers-with-fresh-sanctions-2025-07-21/</guid>
-      <category>world</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/mtGgonY512DBnvbucEuky5AGR_wEdWzAMjOkPXzvDrs.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=52e74fbd3d3fc1da45722faf48c9ccc0976fd693" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Ukraine’s state security hunts for Russian moles inside anti-corruption agency</title>
-      <link>https://www.politico.eu/article/ukraine-corruption-collusion-spy-russia-sbu-nabu/</link>
-      <description>1994 upvotes 20 comments from r/worldnews</description>
-      <pubDate>Mon, 21 Jul 2025 16:45:17 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.politico.eu/article/ukraine-corruption-collusion-spy-russia-sbu-nabu/</guid>
-      <category>world</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/BFMEgg19w4BioGTI9wTn1VH60eCxPP2yq_F97vuHeeI.jpeg?width=140&amp;height=73&amp;crop=140:73,smart&amp;auto=webp&amp;s=7ada8608b739a0cab8279b8cd31b5310bade652e" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Scientists Are Now 43 Seconds Closer to Producing Limitless Energy.  A twisted reactor in Germany just smashed a nuclear fusion record.</title>
       <link>https://www.popularmechanics.com/science/energy/a65432654/wendelstein-7x-germany-stellarator-fusion-record/</link>
-      <description>20099 upvotes 1115 comments from r/worldnews</description>
+      <description>21033 upvotes 1162 comments from r/worldnews</description>
       <pubDate>Mon, 21 Jul 2025 14:42:43 +0000</pubDate>
       <source>Reddit</source>
       <guid isPermaLink="true">https://www.popularmechanics.com/science/energy/a65432654/wendelstein-7x-germany-stellarator-fusion-record/</guid>
       <category>world</category>
       <category>reddit</category>
       <enclosure url="https://external-preview.redd.it/EnDXrBjt0N-GtT34r75BBh6N65Bgye5AVwmNj-8NjMg.jpeg?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=363597292581eff9f4533b7c88324738a9a86bb4" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>X refuses to cooperate with French probe into algorithm bias</title>
-      <link>https://www.lemonde.fr/en/pixels/article/2025/07/21/x-refuses-to-cooperate-with-french-probe-into-algorithm-bias_6743577_13.html</link>
-      <description>4823 upvotes 171 comments from r/worldnews</description>
-      <pubDate>Mon, 21 Jul 2025 13:57:12 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.lemonde.fr/en/pixels/article/2025/07/21/x-refuses-to-cooperate-with-french-probe-into-algorithm-bias_6743577_13.html</guid>
-      <category>world</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/HYyGkU8ElmhLAdC1arX_eQaCE0G_inZe1eeQICK-Olc.jpeg?width=140&amp;height=93&amp;crop=140:93,smart&amp;auto=webp&amp;s=bd6a7d612276aa546baf75cfd88556d0d4db5979" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Russia&apos;s &apos;largest and most secret&apos; drone factory showcased in Kremlin-media propaganda video</title>
-      <link>https://kyivindependent.com/russias-biggest-and-most-secret-drone-factory-employs-teens-to-build-drones-that-attack-ukraine/</link>
-      <description>2417 upvotes 69 comments from r/worldnews</description>
-      <pubDate>Mon, 21 Jul 2025 13:18:20 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://kyivindependent.com/russias-biggest-and-most-secret-drone-factory-employs-teens-to-build-drones-that-attack-ukraine/</guid>
-      <category>world</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/Jwg0jHDqjmGZRrThAmIh3X1kOIvlcpa8d1lBDKIeO44.jpeg?width=140&amp;height=78&amp;crop=140:78,smart&amp;auto=webp&amp;s=8214e0475f0c4fd44b91c0e31c6b5c0bb7d24e1d" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Belgian king calls for greater European leadership and describes situation in Gaza as &apos;disgrace to humanity&apos;</title>
-      <link>https://www.belganewsagency.eu/belgian-king-calls-for-greater-european-leadership-and-describes-situation-in-gaza-as-disgrace-to-humanity</link>
-      <description>14040 upvotes 839 comments from r/worldnews</description>
-      <pubDate>Mon, 21 Jul 2025 10:17:19 +0000</pubDate>
-      <source>Reddit</source>
-      <guid isPermaLink="true">https://www.belganewsagency.eu/belgian-king-calls-for-greater-european-leadership-and-describes-situation-in-gaza-as-disgrace-to-humanity</guid>
-      <category>world</category>
-      <category>reddit</category>
-      <enclosure url="https://external-preview.redd.it/-6G8Ew2IJUwpxAfg0Ict6-uoZ9_lVznVoHhSLTD0tMU.jpeg?width=140&amp;height=99&amp;crop=140:99,smart&amp;auto=webp&amp;s=6a2607e12922526d4d3bfc6b49aa8d48098c83f3" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
