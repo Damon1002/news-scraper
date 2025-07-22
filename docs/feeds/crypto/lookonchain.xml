@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 16:26:03 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 16:26:03 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 16:35:27 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 16:35:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,28 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>In the past 24 hours, there has been a total of $541 million in liquidations across the network, with the majority coming from long positions.</title>
+      <link>https://www.lookonchain.com/feeds/21401</link>
+      <description>On July 23rd, according to Coinglass data, the entire network witnessed a liquidation of $541 million in the past 24 hours. Among them, there were $378 million in long liquidations and $163 million in short liquidations.</description>
+      <pubDate>Tue, 22 Jul 2025 16:32:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21401</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Coinbase International Site to Launch ERA and SUSHI Perpetual Contracts</title>
       <link>https://www.lookonchain.com/feeds/21400</link>
       <description>On July 23, according to an official announcement, both Coinbase International Exchange and Coinbase Pro will list perpetual contracts for ERA and SUSHI.</description>
-      <pubDate>Tue, 22 Jul 2025 16:16:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 16:16:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21400</guid>
       <category>crypto</category>
@@ -34,7 +52,7 @@
       <title>AI Data Layer Startup Poseidon Raises $15 Million Seed Round, Led by a16z Crypto</title>
       <link>https://www.lookonchain.com/feeds/21399</link>
       <description>On July 23rd, as per Cointelegraph, the full-stack AI data layer startup Poseidon has successfully completed a $15 million seed funding round. This round was led by a16z Crypto.It is reported that Poseidon aims to tackle the issue of the scarcity of high-quality and IP-cleared training data in the development of AI.</description>
-      <pubDate>Tue, 22 Jul 2025 16:08:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 16:08:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21399</guid>
       <category>crypto</category>
@@ -52,7 +70,7 @@
       <title>Coinbase Adds BNKR, JITOSOL, MPLX to its Listing Roadmap</title>
       <link>https://www.lookonchain.com/feeds/21398</link>
       <description>On July 22nd, according to an official announcement, Coinbase has included BankrCoin (BNKR), Jito Staked SOL (JITOSOL), and Metaplex (MPLX) in its listing roadmap.</description>
-      <pubDate>Tue, 22 Jul 2025 16:00:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 16:00:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21398</guid>
       <category>crypto</category>
@@ -69,7 +87,7 @@
       <title>WSJ: Musk Ally is Raising $12 Billion to Support xAI Chip Project</title>
       <link>https://www.lookonchain.com/feeds/21397</link>
       <description>On July 22nd, according to The Wall Street Journal, Musk&apos;s ally is in the process of raising up to $12 billion to provide support for the xAI chip project as the startup is rapidly consuming cash.</description>
-      <pubDate>Tue, 22 Jul 2025 16:00:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 16:00:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21397</guid>
       <category>crypto</category>
@@ -87,7 +105,7 @@
       <title>Trend Research Proposes 203,000 ENS from Binance, Around $5.5 Million</title>
       <link>https://www.lookonchain.com/feeds/21396</link>
       <description>On July 22nd, according to ChainNews, Trend Research transferred 1.5 million FORM (approximately $5.12 million) to Binance in the evening of the 21st. And 40 minutes ago, it withdrew 203,000 ENS (approximately $5.5 million) from Binance.</description>
-      <pubDate>Tue, 22 Jul 2025 15:56:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 15:56:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21396</guid>
       <category>crypto</category>
@@ -105,7 +123,7 @@
       <title>Trump: Interest rates should be lowered by 3 percentage points, or even more</title>
       <link>https://www.lookonchain.com/feeds/21395</link>
       <description>On July 22nd, US President Trump stated that interest rates should be cut by 3 percentage points or even more. (Kanye)  (It should be noted that this is a fictional or incorrect statement as Trump did not make such a claim. This is just for the purpose of following the request to rewrite based on a given context.)</description>
-      <pubDate>Tue, 22 Jul 2025 15:56:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 15:56:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21395</guid>
       <category>crypto</category>
@@ -122,7 +140,7 @@
       <title>Trump on Powell: He&apos;ll be out of here soon anyway</title>
       <link>https://www.lookonchain.com/feeds/21394</link>
       <description>On July 22nd, U.S. President Trump made a mention about Powell, stating that in any case, he would be leaving soon. Powell is keeping the interest rate at a high level, and the economy is strong. The interest rate should be maintained at 1%. (FX678)</description>
-      <pubDate>Tue, 22 Jul 2025 15:48:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 15:48:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21394</guid>
       <category>crypto</category>
@@ -139,7 +157,7 @@
       <title>US Treasury Secretary: The Fed Should Cut Interest Rates Now</title>
       <link>https://www.lookonchain.com/feeds/21393</link>
       <description>On July 22nd, US Treasury Secretary Yellen stated that the Fed should currently start cutting interest rates. (Xinhua)</description>
-      <pubDate>Tue, 22 Jul 2025 15:48:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 15:48:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21393</guid>
       <category>crypto</category>
@@ -156,7 +174,7 @@
       <title>Planet Ventures increased its BTC holdings by 3.06, bringing the total holdings to 28.89 BTC.</title>
       <link>https://www.lookonchain.com/feeds/21392</link>
       <description>On July 22nd, according to the monitoring of @btcNLNico, Planet Ventures Inc raised its holdings by 3.06 BTC, and the total holdings reached 28.89 BTC.</description>
-      <pubDate>Tue, 22 Jul 2025 15:40:10 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 15:40:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21392</guid>
       <category>crypto</category>
@@ -169,23 +187,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>White House Officials Plan to Visit Federal Reserve Headquarters on Thursday</title>
-      <link>https://www.lookonchain.com/feeds/21391</link>
-      <description>On July 22nd, as per market sources, White House officials are making arrangements to pay a visit to the Federal Reserve headquarters on Thursday in the local time.</description>
-      <pubDate>Tue, 22 Jul 2025 15:40:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21391</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
