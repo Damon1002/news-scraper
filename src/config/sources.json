@@ -219,7 +219,7 @@
         {
           "category": "crypto",
           "endpoint": "/index.aspx",
-          "maxItems": 25,
+          "maxItems": 20,
           "updateFrequency": 5
         }
       ]

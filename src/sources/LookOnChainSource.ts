@@ -32,7 +32,7 @@ export class LookOnChainSource extends NewsSource {
     });
     
     const page = await context.newPage();
-    const articles: any[] = [];
+    let articles: any[] = [];
     
     try {
       console.log(`      🔄 Loading LookOnChain homepage with infinite scroll handling...`);
@@ -99,17 +99,61 @@ export class LookOnChainSource extends NewsSource {
       if (articles.length < maxArticles) {
         console.log('      🔄 Triggering infinite scroll for more content...');
         
-        // Simulate scrolling to bottom to trigger loading
-        await page.evaluate(() => {
-          window.scrollTo(0, document.body.scrollHeight);
-        });
-        
-        // Wait for loading indicator to appear
-        try {
-          await page.waitForSelector('.isloading, .loading, [class*="load"]', { timeout: 5000 });
-          console.log('      ✅ Loading indicator appeared');
-        } catch (error) {
-          console.log('      ⚠️ No loading indicator found, continuing...');
+        // Multiple scroll attempts to trigger more content loading
+        for (let attempt = 1; attempt <= 5 && articles.length < maxArticles; attempt++) {
+          console.log(`      🔄 Scroll attempt ${attempt}/5...`);
+          
+          // Multiple aggressive scroll actions
+          await page.evaluate(() => {
+            // Scroll to bottom multiple times
+            for (let i = 0; i < 3; i++) {
+              window.scrollTo(0, document.body.scrollHeight);
+            }
+            // Trigger scroll events
+            window.dispatchEvent(new Event('scroll'));
+            window.dispatchEvent(new Event('resize'));
+          });
+          
+          await page.waitForTimeout(1500);
+          
+          // Try to click load more buttons if they exist
+          try {
+            await page.evaluate(() => {
+              const loadButtons = document.querySelectorAll('button, a, div, span');
+              loadButtons.forEach(btn => {
+                const text = btn.textContent?.toLowerCase() || '';
+                const classes = btn.className?.toLowerCase() || '';
+                if (text.includes('load') || text.includes('more') || text.includes('加载') || text.includes('更多') ||
+                    classes.includes('load') || classes.includes('more')) {
+                  (btn as any).click?.();
+                }
+              });
+            });
+            await page.waitForTimeout(500);
+          } catch (error) {
+            // No load more buttons
+          }
+          
+          // Check if loading indicator appears or if item count increased
+          try {
+            await page.waitForSelector('.isloading, .loading, [class*="load"], .spinner', { timeout: 2000 });
+            console.log('      ✅ Loading indicator appeared in attempt', attempt);
+            await page.waitForTimeout(3000); // Wait for content to load
+            break;
+          } catch (error) {
+            // Check if item count increased without loading indicator
+            const currentItemCount = await page.evaluate(() => {
+              const container = document.querySelector('#index_feeds_list');
+              return container ? container.querySelectorAll('.item').length : 0;
+            });
+            
+            if (currentItemCount > 10) {
+              console.log(`      ✅ Found ${currentItemCount} items in attempt ${attempt} (no loading indicator)`);
+              break;
+            }
+            
+            console.log(`      ⚠️ No loading indicator or new items in attempt ${attempt}, continuing...`);
+          }
         }
         
         // Wait for loading to complete and new content to appear
@@ -129,8 +173,8 @@ export class LookOnChainSource extends NewsSource {
         // Wait for additional content to load
         await page.waitForTimeout(5000);
         
-        // Extract additional articles after scroll loading
-        const scrollArticles = await page.evaluate((initialCount) => {
+        // Re-extract ALL articles after scroll loading to get up to maxArticles
+        const allArticlesAfterScroll = await page.evaluate((maxArticles) => {
           const results: any[] = [];
           const feedsContainer = document.querySelector('#index_feeds_list');
           
@@ -138,8 +182,10 @@ export class LookOnChainSource extends NewsSource {
             const items = feedsContainer.querySelectorAll('.item');
             console.log(`After scroll: Found ${items.length} total items`);
             
-            // Only get items that weren't in the initial load
-            for (let i = initialCount; i < items.length; i++) {
+            // Extract up to maxArticles items, prioritizing the first ones (most recent)
+            const itemsToProcess = Math.min(items.length, maxArticles);
+            
+            for (let i = 0; i < itemsToProcess; i++) {
               const item = items[i];
               const titleEl = item.querySelector('.title');
               const timeEl = item.querySelector('.time');
@@ -157,7 +203,7 @@ export class LookOnChainSource extends NewsSource {
                   link: link.startsWith('http') ? link : `https://www.lookonchain.com${link}`,
                   timestamp: time,
                   description: description,
-                  source: 'scroll-load',
+                  source: i < 10 ? 'initial-load' : 'scroll-load',
                   index: i,
                   loadOrder: i
                 });
@@ -166,14 +212,20 @@ export class LookOnChainSource extends NewsSource {
           }
           
           return results;
-        }, initialArticles.length);
+        }, maxArticles);
         
-        articles.push(...scrollArticles);
-        console.log(`      ✅ Extracted ${scrollArticles.length} additional articles from infinite scroll`);
+        // Replace articles with the complete set after scrolling only if we got more articles
+        if (allArticlesAfterScroll.length >= articles.length) {
+          articles = allArticlesAfterScroll;
+          console.log(`      ✅ Extracted ${allArticlesAfterScroll.length} total articles after scroll`);
+        } else {
+          console.log(`      ⚠️ Scroll didn't yield more articles (${allArticlesAfterScroll.length} vs ${articles.length}), keeping initial articles`);
+        }
       }
       
-      // Make fresh AJAX request to ensure we have the absolute latest content
-      console.log('      🔄 Making fresh AJAX request for latest updates...');
+      // Make fresh AJAX request to ensure we have the absolute latest content (only if we don't have enough articles)
+      if (articles.length < maxArticles) {
+        console.log('      🔄 Making fresh AJAX request for latest updates...');
       const ajaxArticles = await page.evaluate(async () => {
         try {
           const now = new Date();
@@ -190,7 +242,7 @@ export class LookOnChainSource extends NewsSource {
               'Content-Type': 'application/x-www-form-urlencoded',
               'X-Requested-With': 'XMLHttpRequest'
             },
-            body: `max_time=${encodeURIComponent(timestamp)}&protype=0&count=20`
+            body: `max_time=${encodeURIComponent(timestamp)}&protype=0&count=30`
           });
           
           if (response.ok) {
@@ -236,9 +288,10 @@ export class LookOnChainSource extends NewsSource {
         return [];
       });
       
-      if (ajaxArticles.length > 0) {
-        articles.push(...ajaxArticles);
-        console.log(`      ✅ Retrieved ${ajaxArticles.length} fresh articles via AJAX`);
+        if (ajaxArticles.length > 0) {
+          articles.push(...ajaxArticles);
+          console.log(`      ✅ Retrieved ${ajaxArticles.length} fresh articles via AJAX`);
+        }
       }
       
       // Remove duplicates based on title, keeping the freshest version
