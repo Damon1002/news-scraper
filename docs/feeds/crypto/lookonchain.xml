@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 10:53:26 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 10:53:26 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 11:00:25 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 11:00:25 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Institutional Ethereum Whale Holdings Change in the Last 30 Days: BMNR Holds 300,700 ETH, Ranking First</title>
+      <link>https://www.lookonchain.com/feeds/21351</link>
+      <description>On July 22nd, based on the data from strategicethreserve, the following treasury companies and institutions with significant changes in Ethereum holdings within the past 30 days are as follows:Bitmine Immersion Tech (BMNR) took the first place. It is currently holding 300,700 ETH, which is approximately worth $11 billion. The 30-day holding increase is 84.29%.SharpLink Gaming (SBET) ranked second. It is currently holding 280,600 ETH, approximately worth $10.3 billion. The 30-day holding increase is 59.19%.The Ethereum Foundation ranked third, holding 238,500 ETH, worth approximately $8.737 billion. The 30-day holding decrease is 8.06%.Bit Digital (BTBT) ranked sixth, holding 120,300 ETH, worth approximately $4.407 billion. The 30-day holding increase is 335.53%.BTCS Inc (BTCS) ranked tenth, holding 55,800 ETH, worth approximately $2.044 billion. The 30-day holding increase is 282.11%.</description>
+      <pubDate>Tue, 22 Jul 2025 10:57:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21351</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Solana Network Achieves Real TPS Exceeding 1600 Temporarily</title>
+      <link>https://www.lookonchain.com/feeds/21352</link>
+      <description>On July 22nd, based on Solscan data, the real TPS (True TPS) of the Solana network briefly exceeded 1600 and is currently reported at 1131.</description>
+      <pubDate>Tue, 22 Jul 2025 10:57:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21352</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The blockchain game Tokyo Beast will end its service on August 24th and will provide compensation to users.</title>
       <link>https://www.lookonchain.com/feeds/21350</link>
       <description>On July 22nd, the blockchain game Tokyo Beast announced that it will cease its operations at 17:00 (Japan Standard Time) on Sunday, August 24, 2025, and will provide compensation to all users in USDC.Tokyo Beast is a cyberpunk-themed GameFi project launched by the Dubai blockchain game publisher TOKYO BEAST FZCO. The game production is led by Naoki Motohashi, who is from Japan and originally created Web2 social games.</description>
-      <pubDate>Tue, 22 Jul 2025 10:33:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:33:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21350</guid>
       <category>crypto</category>
@@ -34,7 +71,7 @@
       <title>OpenAI has announced a partnership with Oracle to develop a 4.5-gigawatt capacity data center.</title>
       <link>https://www.lookonchain.com/feeds/21349</link>
       <description>On July 22nd, OpenAI announced a partnership with Oracle to further advance the development of a 4.5-gigawatt data center for the Stargate project. (Golden Ten)</description>
-      <pubDate>Tue, 22 Jul 2025 10:33:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:33:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21349</guid>
       <category>crypto</category>
@@ -51,7 +88,7 @@
       <title>&quot;Brother Big Li&quot; Huang Licheng&apos;s 5x Leveraged Long Position Faces $3.86 Million Unrealized Loss</title>
       <link>https://www.lookonchain.com/feeds/21348</link>
       <description>On July 22nd, as per the monitoring of OnchainLens, because PUMP dropped below its public sale price of $0.004, the &quot;Big Brother Pump&quot; Huang Licheng&apos;s PUMP 5x leveraged long position is currently facing a floating loss of $3.86 million. He also holds ETH 25x and HYPE 5x long positions, with a combined floating loss of $2.3 million.</description>
-      <pubDate>Tue, 22 Jul 2025 10:25:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:24:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21348</guid>
       <category>crypto</category>
@@ -69,7 +106,7 @@
       <title>Each Strategy Share is now up 20.8% against Bitcoin since the beginning of the year, with TD Cowen restating a $680 target price for MSTR.</title>
       <link>https://www.lookonchain.com/feeds/21347</link>
       <description>On July 22nd: The investment bank TD Cowen stated that a strategic premium is reasonable. After increasing its holdings of BTC by an additional 6,220 coins last week, a portion of MSTR stock now represents 20.8% more Bitcoin than it did on January 1st. TD Cowen reaffirmed a target price of $680 for MSTR stock and anticipates that by 2027, the Strategy will hold nearly 900,000 BTC. The flywheel strategy of the Bitcoin treasury will continue to drive its momentum.</description>
-      <pubDate>Tue, 22 Jul 2025 10:24:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:24:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21347</guid>
       <category>crypto</category>
@@ -89,7 +126,7 @@
       <title>Binance Alpha has launched Delphinus Lab (ZKWASM)</title>
       <link>https://www.lookonchain.com/feeds/21346</link>
       <description>On July 22nd, Binance Alpha has now initiated Delphinus Lab (ZKWASM).</description>
-      <pubDate>Tue, 22 Jul 2025 10:16:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:16:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21346</guid>
       <category>crypto</category>
@@ -106,7 +143,7 @@
       <title>Security Report: At Least 3500 Websites Affected by Malicious Injection of Hidden Monero Mining Script</title>
       <link>https://www.lookonchain.com/feeds/21345</link>
       <description>On July 22nd, as per the report by Decrypt, researchers from the cybersecurity firm c/side stated that malicious Monero XMR mining software has launched an attack on multiple websites, marking a new surge of cryptojacking. At least 3,500 websites are currently operating with maliciously injected hidden Monero mining scripts. In contrast to traditional cryptojacking, these malicious software limit CPU usage and conceal traffic within WebSocket streams, thus evading the typical indicators of cryptojacking. Hackers are adhering to a &quot;keep a low profile and mine slowly&quot; strategy, targeting unpatched websites and e-commerce servers.</description>
-      <pubDate>Tue, 22 Jul 2025 10:08:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:08:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21345</guid>
       <category>crypto</category>
@@ -123,7 +160,7 @@
       <title>The top holder of PUMP tokens deposited 17 billion PUMP tokens to the trading platform, worth $89.5 million.</title>
       <link>https://www.lookonchain.com/feeds/21344</link>
       <description>On July 22nd, as per the monitoring of LookOnChain, once the PUMP price dropped below its private/public sale price of 0.004 USD. The holder with the largest amount of PUMP, who had previously put in 100 million USDC to purchase 25 billion PUMP in a private sale round, has reloaded 17 billion PUMP onto the trading platform through FalconX, which is worth 89.5 million USD, and still holds 8 billion PUMP, with a value of 29.58 million USD.In addition, the second-largest holder of PUMP, who had previously spent 50 million USD to buy 12.5 billion PUMP, with a value of 71.37 million USD, has now transferred it all to the trading platform.</description>
-      <pubDate>Tue, 22 Jul 2025 09:53:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:00:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21344</guid>
       <category>crypto</category>
@@ -141,43 +178,9 @@
       <title>Founder of Gyroscope: How Does Gyroscope&apos;s Dynamic Liquidity Pool Outperform Traditional Pools?</title>
       <link>https://www.lookonchain.com/feeds/21343</link>
       <description>On July 22nd, Ariah Klages-Mundt, a co-founder of Gyroscope, pointed out in a post that High Volume does not equal High LP Yield. Due to efficient utilization of capital and an intelligent pricing mechanism, Gyroscope&apos;s Dynamic Liquidity Pool is able to achieve a sustainable and relatively high native pool APR (Annual Percentage Rate). In contrast, some trading pools like Uniswap/Aerodrome, although they create high trading volume through &quot;slippage&quot;, this type of high trading APR masks arbitrage losses and does not truly bring actual returns to LPs. Metrics such as those from Dune Data - Markouts PnL are key indicators for measuring LP&apos;s real returns. As shown in the graph for the ETH/USDC trading pair, the yield of Gyroscope&apos;s Dynamic Liquidity Pool is significantly higher than that of other trading pools.Currently, many LPs are struggling to maintain a break-even point in Uni/Aero pools, while using Gyroscope&apos;s Dynamic Liquidity Pool (Dynamic E-CLP) model can easily achieve a more</description>
-      <pubDate>Tue, 22 Jul 2025 09:53:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 10:00:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21343</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will list Yala (YALA) with an airdrop point threshold of 238 points.</title>
-      <link>https://www.lookonchain.com/feeds/21342</link>
-      <description>On July 22nd, Binance Alpha is set to list Yala (YALA), and trading will commence on July 22, 2025, at 8:00 PM (UTC+8). Eligible users will be able to claim a 200 YALA token airdrop using Alpha Points on the event page within 24 hours after trading begins.The Binance Alpha airdrop will occur in two phases:Phase 1 (first 18 hours): Users with at least 238 Alpha Points can make the airdrop claim.Phase 2 (last 6 hours): Users with at least 200 Alpha Points can participate in the airdrop on a first-come, first-served basis. If the rewards are not fully distributed, the points threshold will decrease by 10 points per hour.It should be noted that claiming the airdrop will cost 15 Alpha Points, and users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be considered a forfeiture.</description>
-      <pubDate>Tue, 22 Jul 2025 09:53:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21342</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bybit will launch the FARTCOIN Perpetual Swap Contract</title>
-      <link>https://www.lookonchain.com/feeds/21341</link>
-      <description>On July 22nd, Bybit is set to launch the FARTCOIN U Perpetual Contract.</description>
-      <pubDate>Tue, 22 Jul 2025 09:53:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21341</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
