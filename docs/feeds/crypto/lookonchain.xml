@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Jul 2025 06:54:08 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Jul 2025 06:54:08 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 06:57:19 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 06:57:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Meme Coin Ani Market Cap Surges Above $63 Million, 24-hour Gain 58.22%</title>
-      <link>https://www.lookonchain.com/feeds/21314</link>
-      <description>On July 22nd, based on the GMGN market data, the market capitalization of the Grok humanoid companion concept Meme coin Ani surged above $63 million. It achieved a 24-hour gain of 58.22% and a 24-hour trading volume of $23.6 million.BlockBeats reminds users that many Meme coins lack practical use cases and have high price volatility. Therefore, investment should be approached with caution.</description>
-      <pubDate>Tue, 22 Jul 2025 06:49:08 +0000</pubDate>
+      <title>The Bank of Japan may keep its key interest rate unchanged next week</title>
+      <link>https://www.lookonchain.com/feeds/21316</link>
+      <description>July 22, Market News: It is reported that the Bank of Japan is likely to maintain its benchmark interest rate unchanged in the coming week; the Bank of Japan considers that the election will have a minimal impact on its rate stance. (Kinetic Element)</description>
+      <pubDate>Tue, 22 Jul 2025 06:57:18 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21314</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21316</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,16 +28,33 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>WXT peaked at 0.3751, reaching an all-time high, entering the holding group to receive a $20 WXT airdrop.</title>
-      <link>https://www.lookonchain.com/feeds/21312</link>
-      <description>On July 22nd, the token of the WEEX platform, WEEX Token (WXT), has reached a series of all-time highs in the past two days. On this day, it reached a peak of 0.3751 US dollars, which is a 275% increase from its listing price a year ago.According to an announcement in the official community group of WXT holders, starting from today until July 31st, the first 50 new members (holding at least 688 WXT) will each receive a $20 worth of WXT airdrop, and the total prize pool is $1,000.</description>
-      <pubDate>Tue, 22 Jul 2025 06:48:08 +0000</pubDate>
+      <title>Hyperliquid Whale Activity: Multiple whale contract positions have changed in the past hour, primarily through sell-offs</title>
+      <link>https://www.lookonchain.com/feeds/21315</link>
+      <description>On July 22nd, as per the monitoring of HyperInsight, within just over 1 hour, several whales witnessed changes in their holdings of Hyperliquid contracts and made significant deposits. These include:The whale with the address starting with 0x257e1E opened a 20x long position in ETH, with an entry price of $3,799.87 and a holding amount of $18,279,171.90; the liquidation price was $3,498.616.The whale with the address starting with 0x880ac4 increased its short position in ETH by 11.10 tokens, raising the position amount by $940,831.83. The current PnL is -$15,855,717.73, and the current liquidation price is $4,858.081.The whale with the address starting with 0xb5a692 reduced its long position in BTC by 100.68 tokens, reducing the position amount by $11,715,568.31. The current PnL is $94,280.46, and the current liquidation price is $103,603.717.The whale with the address starting with 0x5d2f44 reduced its short posit</description>
+      <pubDate>Tue, 22 Jul 2025 06:57:18 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21312</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21315</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Meme Coin Ani Market Cap Surges Above $63 Million, 24-hour Gain 58.22%</title>
+      <link>https://www.lookonchain.com/feeds/21314</link>
+      <description>On July 22nd, based on the GMGN market data, the market capitalization of the Grok humanoid companion concept Meme coin Ani surged above $63 million. It achieved a 24-hour gain of 58.22% and a 24-hour trading volume of $23.6 million.BlockBeats reminds users that many Meme coins lack practical use cases and have high price volatility. Therefore, investment should be approached with caution.</description>
+      <pubDate>Tue, 22 Jul 2025 06:48:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21314</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -53,7 +70,7 @@
       <title>A-share Stablecoin Concept Stock Dongxin Trust Soared to Daily Limit Today</title>
       <link>https://www.lookonchain.com/feeds/21313</link>
       <description>On July 22nd, based on market information, the A-share stablecoin concept stock Dongxin Hesheng witnessed a daily limit up, and today&apos;s trading volume reached 5.88 billion US dollars.BlockBeats previously reported that Conflux Network has reached a strategic cooperation with AnchorX and Dongxin Hesheng, aiming to jointly promote the landing of offshore RMB stablecoin issuance, cross-border settlement, RWA, and other application scenarios in countries participating in the &quot;Belt and Road&quot; initiative. The three parties plan to participate in pilot projects in Central Asia, Southeast Asia, and other regions.</description>
-      <pubDate>Tue, 22 Jul 2025 06:48:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 06:48:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21313</guid>
       <category>crypto</category>
@@ -67,10 +84,28 @@
 
     </item>
     <item>
+      <title>WXT peaked at 0.3751, reaching an all-time high, entering the holding group to receive a $20 WXT airdrop.</title>
+      <link>https://www.lookonchain.com/feeds/21312</link>
+      <description>On July 22nd, the token of the WEEX platform, WEEX Token (WXT), has reached a series of all-time highs in the past two days. On this day, it reached a peak of 0.3751 US dollars, which is a 275% increase from its listing price a year ago.According to an announcement in the official community group of WXT holders, starting from today until July 31st, the first 50 new members (holding at least 688 WXT) will each receive a $20 worth of WXT airdrop, and the total prize pool is $1,000.</description>
+      <pubDate>Tue, 22 Jul 2025 06:48:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21312</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Trump&apos;s Son Responds to Criticism: ETH Up 35% in 5 Months, Should Embrace Volatility and Buy the Dip</title>
       <link>https://www.lookonchain.com/feeds/21311</link>
       <description>On July 22nd, Eric Trump, the son of former President Donald Trump, responded on social media to a comment that &quot;ETH dropped by approximately 40% after his tweet on February 4th announcing an ETH purchase.&quot; Eric Trump said, &quot;ETH has increased by 35% in 5 months. Embrace the volatility. If you are smart, you should buy when the price dips just like I said.&quot;Earlier reports showed that since Eric Trump&apos;s &quot;ETH purchase&quot; tweet on March 31st, the price of ETH fell from around $2,880 to $1,820, representing a decline of about 40%.</description>
-      <pubDate>Tue, 22 Jul 2025 06:41:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 06:41:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21311</guid>
       <category>crypto</category>
@@ -89,7 +124,7 @@
       <title>The Swedish company Fragbite Group has purchased approximately 4.3 BTC, initiating the establishment of a Bitcoin treasury.</title>
       <link>https://www.lookonchain.com/feeds/21310</link>
       <description>On July 22nd, as per NLNico&apos;s monitoring, the Swedish company Fragbite Group completed its first purchase of approximately 4.3 bitcoins. It began to build a Bitcoin treasury, with an average price of approximately $112,958 per bitcoin.Fragbite Group stated that the aim is to invest the remaining liquidity for the long term and continue to accumulate Bitcoin in order to enhance the company&apos;s capital structure.</description>
-      <pubDate>Tue, 22 Jul 2025 06:41:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 06:41:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21310</guid>
       <category>crypto</category>
@@ -108,7 +143,7 @@
       <title>DWF Partner: The Cryptocurrency Season of Shitcoins Has Just Begun</title>
       <link>https://www.lookonchain.com/feeds/21309</link>
       <description>On July 22nd, Andrei Grachev, the managing partner of DWF Labs, tweeted, &quot;The altcoin season of cryptocurrency has just commenced, and Nasdaq-listed companies are also on the verge of ushering in the alt season.&quot;</description>
-      <pubDate>Tue, 22 Jul 2025 06:33:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 06:33:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21309</guid>
       <category>crypto</category>
@@ -125,7 +160,7 @@
       <title>Binance Wallet: Users with no less than 225 Alpha Points can participate in the Delphinus Lab TGE Event</title>
       <link>https://www.lookonchain.com/feeds/21308</link>
       <description>July 22nd, Binance Wallet tweeted that users with no fewer than 225 Alpha Points can participate in the Delphinus Lab TGE event through the Alpha Activity Page. Participating in this event will subtract 15 points.Subscription Time: July 22nd, 2025, from 4:00 PM to 6:00 PM (UTC+8)</description>
-      <pubDate>Tue, 22 Jul 2025 06:25:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 06:25:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21308</guid>
       <category>crypto</category>
@@ -142,7 +177,7 @@
       <title>Capital B to Raise Approximately €10.3 Million to Advance Bitcoin Treasury Strategy</title>
       <link>https://www.lookonchain.com/feeds/21307</link>
       <description>On July 22nd, the European publicly listed company Capital B (formerly known as The Blockchain Group) announced an increase in capital of approximately 10.3 million euros in order to advance its Bitcoin treasury company strategy.</description>
-      <pubDate>Tue, 22 Jul 2025 06:16:08 +0000</pubDate>
+      <pubDate>Tue, 22 Jul 2025 06:16:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21307</guid>
       <category>crypto</category>
@@ -156,43 +191,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BNB Chain Foundation Acquires $25,000 TAG Token</title>
-      <link>https://www.lookonchain.com/feeds/21306</link>
-      <description>On July 22nd, the BNB Chain officially announced that it had swapped 25,000 USDT for 40,421,479.45 TAG at a swap price of $0.0006184830526. This acquisition is a part of the BNB Chain&apos;s $100 million incentive plan, with the aim of supporting high-quality projects and promoting the continuous development of the ecosystem.</description>
-      <pubDate>Tue, 22 Jul 2025 06:08:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21306</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ether Machine CEO: &quot;The Genius Act&apos;s Biggest Beneficiary Is Ethereum&quot;</title>
-      <link>https://www.lookonchain.com/feeds/21305</link>
-      <description>On July 22nd, as reported by Cointelegraph, Andrew Keys, the CEO of Ether Machine, stated: &quot;The Ethereum is the biggest beneficiary of the &apos;GENIUS Act&apos;.&quot;</description>
-      <pubDate>Tue, 22 Jul 2025 06:00:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21305</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
