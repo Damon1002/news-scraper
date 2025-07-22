@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Jul 2025 23:53:48 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Jul 2025 23:53:48 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 23:59:58 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 23:59:58 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>If writing is thinking then what happens if AI is doing the writing and reading?</title>
+      <link>https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking</link>
+      <description>6 points by whobre on Hacker News</description>
+      <pubDate>Mon, 21 Jul 2025 23:45:15 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>uv Running a Script with Dependencies</title>
       <link>https://docs.astral.sh/uv/guides/scripts/</link>
-      <description>10 points 2 comments by Bluestein on Hacker News</description>
+      <description>19 points 4 comments by Bluestein on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 23:26:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://docs.astral.sh/uv/guides/scripts/</guid>
@@ -27,7 +38,7 @@
     <item>
       <title>How to break the &apos;AI hype cycle&apos;</title>
       <link>https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization</link>
-      <description>10 points 3 comments by vedhsaka on Hacker News</description>
+      <description>12 points 4 comments by vedhsaka on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 23:03:26 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://mitsloan.mit.edu/ideas-made-to-matter/how-to-break-ai-hype-cycle-and-make-good-ai-decisions-your-organization</guid>
@@ -38,7 +49,7 @@
     <item>
       <title>LetsEncrypt – Complete Outage</title>
       <link>https://letsencrypt.status.io/</link>
-      <description>42 points 11 comments by kenshaw on Hacker News</description>
+      <description>51 points 15 comments by kenshaw on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 22:29:28 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://letsencrypt.status.io/</guid>
@@ -60,7 +71,7 @@
     <item>
       <title>What went wrong inside recalled Anker PowerCore 10000 power banks?</title>
       <link>https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks</link>
-      <description>255 points 117 comments by walterbell on Hacker News</description>
+      <description>256 points 118 comments by walterbell on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 18:22:11 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks</guid>
@@ -82,7 +93,7 @@
     <item>
       <title>AccountingBench: Evaluating LLMs on real long-horizon business tasks</title>
       <link>https://accounting.penrose.com/</link>
-      <description>358 points 95 comments by rickcarlino on Hacker News</description>
+      <description>360 points 95 comments by rickcarlino on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 16:48:28 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://accounting.penrose.com/</guid>
@@ -91,20 +102,9 @@
 
     </item>
     <item>
-      <title>New records on Wendelstein 7-X</title>
-      <link>https://www.iter.org/node/20687/new-records-wendelstein-7-x</link>
-      <description>178 points 80 comments by greesil on Hacker News</description>
-      <pubDate>Mon, 21 Jul 2025 15:18:41 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.iter.org/node/20687/new-records-wendelstein-7-x</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>TrackWeight: Turn your MacBook&apos;s trackpad into a digital weighing scale</title>
       <link>https://github.com/KrishKrosh/TrackWeight</link>
-      <description>437 points 112 comments by wtcactus on Hacker News</description>
+      <description>439 points 112 comments by wtcactus on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 14:51:13 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/KrishKrosh/TrackWeight</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say</title>
       <link>https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/</link>
-      <description>320 points 140 comments by spenvo on Hacker News</description>
+      <description>325 points 143 comments by spenvo on Hacker News</description>
       <pubDate>Sun, 20 Jul 2025 21:58:06 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/</guid>
