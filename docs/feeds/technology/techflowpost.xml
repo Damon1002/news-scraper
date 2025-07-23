@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 09:17:07 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 09:17:07 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 09:30:35 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 09:30:35 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Arthur Hayes：预测 Cryptopunks 本轮周期将跑赢 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>BitMEX 联合创始人 Arthur Hayes 发表观点称，Cryptopunks 在本轮周期中将以美元计价跑赢 ETH 。Hayes 表示，这是因为 ETH 持有者会通过 NFT 来展示财富，这本质上是一种互联网地位游戏。他认为，除了食品和能源生产之外，整个世界经济都是一个巨大的地位游戏，互...</description>
+      <pubDate>Wed, 23 Jul 2025 09:28:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Jefferies 给予 Galaxy Digital 买入评级，目标价 35 美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 CoinDesk 报道，投资银行 Jefferies 首次覆盖加密货币投资银行 Galaxy Digital（GLXY），给予买入评级，目标价 35 美元。Jefferies 表示，Galaxy Digital 在有利的加密货币监管环境下处于有利地位，能够捕获上涨机会。该投行指出，美国 GEN...</description>
+      <pubDate>Wed, 23 Jul 2025 09:25:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>HashKey Exchange 与中国政法大学合作开展人才联合培养项目</title>
+      <link>https://www.techflowpost.com</link>
+      <description>香港最大持牌虚拟资产交易所 HashKey Exchange 今日宣布和中国政法大学共同开展研究生法治人才联合培养项目，与金融科技全球治理法治人才培养项目。双方将依托校企协同机制，推动数字经济时代法治教育与技术变革深度融合，培养具备全球视野与法治素养的复合型法治人才。HashKey Exchang...</description>
+      <pubDate>Wed, 23 Jul 2025 09:20:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Coinshares 宣布已获得欧盟 MiCA 牌照</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>基于 Sui 构建的区块链存储协议 Walrus Protocol 宣布与致力于开发去中心化大模型推理、训练和数据技术的 Gata 建立合作，成为 Gata AI 开放执行基础设施的核心组件。借助 Walrus，Gata 将解决长期困扰去中心化 AI 的高昂数据访问成本问题，此次整合直接赋能 Ga...</description>
       <pubDate>Wed, 23 Jul 2025 07:10:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析师：预计以太坊短期调整有限，2025下半年有望继续上行</title>
-      <link>https://www.techflowpost.com</link>
-      <description>加密货币分析师Crypto Dan最新发布的链上分析报告指出，尽管以太坊近期大幅上涨面临短期调整风险，但与2024年3月和11月期货市场过热相比，目前热度水平相对较低，即使出现回调也可能较为温和且持续时间短。报告强调，从更大的周期来看，以太坊在当前上涨周期中表现相对迟缓，曾进入低估区域并明确触底，...</description>
-      <pubDate>Wed, 23 Jul 2025 07:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Matrixport：比特币杠杆多头激增，FOMC会议前市场面临调整风险</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据独立分析师Markus Thielen最新报告，过去两周比特币未平仓合约大幅增长60亿美元，资金费率年化飙升至19%，表明市场积累了大量激进的杠杆多头仓位。同期韩国散户交易活跃度显著上升，加密货币交易量从10亿美元跃升至60亿美元，凸显散户资金在本轮行情中的主导作用。分析师警告，随着价格进入横盘...</description>
-      <pubDate>Wed, 23 Jul 2025 06:58:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>日本首相石破茂驳斥有关其辞职的报道</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，日本首相石破茂今天（7月23日）下午对媒体表示，日本媒体关于他本人将辞职的报道“全都没有事实依据”。石破茂称，他刚刚结束了与自民党最高顾问麻生太郎、前首相菅义伟和岸田文雄的会面，“未讨论辞职问题”。媒体关于其打算辞职的报道完全不属实。石破茂再次表示，自己将留任，继续执政。美国财经媒...</description>
-      <pubDate>Wed, 23 Jul 2025 06:54:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
