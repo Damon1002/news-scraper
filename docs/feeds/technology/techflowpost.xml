@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 15:45:09 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 15:45:09 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 15:53:05 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 15:53:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>今日链上资金流向：Polygon PoS 净流入 5800 万美元，以太坊净流出 7290 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Artemis 数据显示，今日 Polygon PoS 净流入 5800 万美元，OP Mainnet 净流入 1670 万美元；以太坊净流出 7290 万美元，Base 净流出 1840 万美元。</description>
+      <pubDate>Wed, 23 Jul 2025 15:49:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>今日加密货币市值前100代币涨跌：A 涨 6.74%，OP 跌 9.26%</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，特朗普发帖称，“由于鲍威尔拒绝降低利率，住房市场出现了滞后。家庭因为利率太高而受到伤害，甚至我们国家本身也因此不得不支付比应有水平更高的利率。我们的利率本应比现在低三个百分点，这样一来，每年就能为整个国家节省1万亿美元。鲍威尔这个固执的家伙就是不明白，从来没有，也永远不会明白。理事...</description>
       <pubDate>Wed, 23 Jul 2025 13:14:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析：62 万枚 ETH 批量解质押事件或与 Aave 平台 ETH 存款大量提取导致借款利率飙升有关</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）援引加密博主 darkpool 的分析，62 万枚 ETH 批量解质押事件或与 Aave 平台 ETH 存款大量提取导致借款利率飙升有关。短时间内 Aave ETH 存款被大量提取导致借款利率飙升，循环贷玩家从爽吃利差到亏损，被迫赎回 stETH ...</description>
-      <pubDate>Wed, 23 Jul 2025 12:57:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
