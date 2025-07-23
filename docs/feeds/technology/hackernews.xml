@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 17:23:30 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 17:23:30 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 17:33:44 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 17:33:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,20 +14,9 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>AI Friend Apps Are Destroying What&apos;s Left of Society</title>
-      <link>https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society</link>
-      <description>37 points 40 comments by florisuga on Hacker News</description>
-      <pubDate>Wed, 23 Jul 2025 16:15:07 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.currentaffairs.org/news/ai-friend-apps-are-destroying-whats-left-of-society</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>You Can Now Disable All AI Features in Zed</title>
       <link>https://zed.dev/blog/disable-ai-features</link>
-      <description>129 points 42 comments by meetpateltech on Hacker News</description>
+      <description>155 points 54 comments by meetpateltech on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 15:45:15 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://zed.dev/blog/disable-ai-features</guid>
@@ -38,7 +27,7 @@
     <item>
       <title>Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US</title>
       <link>https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html</link>
-      <description>104 points 67 comments by ajuhasz on Hacker News</description>
+      <description>110 points 74 comments by ajuhasz on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 15:37:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html</guid>
@@ -49,7 +38,7 @@
     <item>
       <title>Stop Building AI Tools Backwards</title>
       <link>https://hazelweakly.me/blog/stop-building-ai-tools-backwards/</link>
-      <description>99 points 49 comments by eternalreturn on Hacker News</description>
+      <description>106 points 55 comments by eternalreturn on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 14:56:31 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://hazelweakly.me/blog/stop-building-ai-tools-backwards/</guid>
@@ -60,7 +49,7 @@
     <item>
       <title>Proxmox Donates €10k to the Perl and Raku Foundation</title>
       <link>https://www.perl.com/article/proxmox-donates-to-tprf/</link>
-      <description>176 points 92 comments by oalders on Hacker News</description>
+      <description>186 points 95 comments by oalders on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 14:48:22 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.perl.com/article/proxmox-donates-to-tprf/</guid>
@@ -71,7 +60,7 @@
     <item>
       <title>What to Expect from Debian/Trixie</title>
       <link>https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/</link>
-      <description>76 points 30 comments by exiguus on Hacker News</description>
+      <description>79 points 34 comments by exiguus on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:27:38 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/</guid>
@@ -82,7 +71,7 @@
     <item>
       <title>Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch</title>
       <link>https://github.com/manticoresoftware/manticoresearch</link>
-      <description>59 points 27 comments by klaussilveira on Hacker News</description>
+      <description>61 points 27 comments by klaussilveira on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:23:49 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/manticoresoftware/manticoresearch</guid>
@@ -93,7 +82,7 @@
     <item>
       <title>The Surprising gRPC Client Bottleneck in Low-Latency Networks</title>
       <link>https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02</link>
-      <description>44 points 3 comments by eivanov89 on Hacker News</description>
+      <description>45 points 3 comments by eivanov89 on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:23:20 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02</guid>
@@ -104,7 +93,7 @@
     <item>
       <title>Using Radicle CI</title>
       <link>https://radicle.xyz/2025/07/23/using-radicle-ci-for-development</link>
-      <description>63 points 21 comments by aiw1nt3rs on Hacker News</description>
+      <description>65 points 23 comments by aiw1nt3rs on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:09:01 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://radicle.xyz/2025/07/23/using-radicle-ci-for-development</guid>
@@ -115,10 +104,21 @@
     <item>
       <title>Cerebras launches Qwen3-235B, achieving 1.5k tokens per second</title>
       <link>https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support</link>
-      <description>295 points 117 comments by mihau on Hacker News</description>
+      <description>299 points 119 comments by mihau on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 10:51:51 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Geocities Backgrounds</title>
+      <link>https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex</link>
+      <description>109 points 30 comments by marcodiego on Hacker News - https:&amp;#x2F;&amp;#x2F;pixelmoondust.neocities.org&amp;#x2F;archives&amp;#x2F;archivedtiles...</description>
+      <pubDate>Mon, 21 Jul 2025 01:42:22 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://pixelmoondust.neocities.org/archives/archivedtiles/backgroundsindex</guid>
       <category>technology</category>
       <category>hacker news</category>
 
