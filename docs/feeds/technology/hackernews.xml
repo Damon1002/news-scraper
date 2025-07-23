@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 16:13:31 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 16:13:31 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 16:18:19 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 16:18:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US</title>
       <link>https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html</link>
-      <description>37 points 18 comments by ajuhasz on Hacker News</description>
+      <description>43 points 18 comments by ajuhasz on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 15:37:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html</guid>
@@ -25,20 +25,9 @@
 
     </item>
     <item>
-      <title>Reverse Engineering the GHA Cache to Improve Performance</title>
-      <link>https://depot.dev/blog/github-actions-cache</link>
-      <description>21 points 3 comments by bootlegbilly on Hacker News</description>
-      <pubDate>Wed, 23 Jul 2025 15:04:27 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://depot.dev/blog/github-actions-cache</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Stop Building AI Tools Backwards</title>
       <link>https://hazelweakly.me/blog/stop-building-ai-tools-backwards/</link>
-      <description>57 points 22 comments by eternalreturn on Hacker News</description>
+      <description>58 points 25 comments by eternalreturn on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 14:56:31 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://hazelweakly.me/blog/stop-building-ai-tools-backwards/</guid>
@@ -49,7 +38,7 @@
     <item>
       <title>Proxmox Donates €10k to the Perl and Raku Foundation</title>
       <link>https://www.perl.com/article/proxmox-donates-to-tprf/</link>
-      <description>97 points 41 comments by oalders on Hacker News</description>
+      <description>109 points 42 comments by oalders on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 14:48:22 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.perl.com/article/proxmox-donates-to-tprf/</guid>
@@ -60,7 +49,7 @@
     <item>
       <title>Why Elixir? A Rebuttal to Common Misconceptions</title>
       <link>https://matthewsinclair.com/blog/0181-why-elixir</link>
-      <description>25 points 5 comments by ahamez on Hacker News</description>
+      <description>27 points 6 comments by ahamez on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:52:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://matthewsinclair.com/blog/0181-why-elixir</guid>
@@ -71,7 +60,7 @@
     <item>
       <title>What to Expect from Debian/Trixie</title>
       <link>https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/</link>
-      <description>37 points 6 comments by exiguus on Hacker News</description>
+      <description>41 points 7 comments by exiguus on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:27:38 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/</guid>
@@ -82,7 +71,7 @@
     <item>
       <title>Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch</title>
       <link>https://github.com/manticoresoftware/manticoresearch</link>
-      <description>47 points 16 comments by klaussilveira on Hacker News</description>
+      <description>48 points 18 comments by klaussilveira on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:23:49 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://github.com/manticoresoftware/manticoresearch</guid>
@@ -93,7 +82,7 @@
     <item>
       <title>Reverse engineering GitHub Actions cache to make it fast</title>
       <link>https://www.blacksmith.sh/blog/cache</link>
-      <description>94 points 19 comments by tsaifu on Hacker News</description>
+      <description>96 points 21 comments by tsaifu on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:17:43 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.blacksmith.sh/blog/cache</guid>
@@ -104,7 +93,7 @@
     <item>
       <title>Using Radicle CI</title>
       <link>https://radicle.xyz/2025/07/23/using-radicle-ci-for-development</link>
-      <description>56 points 16 comments by aiw1nt3rs on Hacker News</description>
+      <description>58 points 17 comments by aiw1nt3rs on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:09:01 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://radicle.xyz/2025/07/23/using-radicle-ci-for-development</guid>
@@ -115,10 +104,21 @@
     <item>
       <title>Cerebras launches Qwen3-235B, achieving 1.5k tokens per second</title>
       <link>https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support</link>
-      <description>276 points 110 comments by mihau on Hacker News</description>
+      <description>277 points 111 comments by mihau on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 10:51:51 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Geocities Backgrounds</title>
+      <link>https://pixelmoondust.neocities.org/archives/archivedtiles</link>
+      <description>99 points 20 comments by marcodiego on Hacker News</description>
+      <pubDate>Mon, 21 Jul 2025 01:42:22 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://pixelmoondust.neocities.org/archives/archivedtiles</guid>
       <category>technology</category>
       <category>hacker news</category>
 
