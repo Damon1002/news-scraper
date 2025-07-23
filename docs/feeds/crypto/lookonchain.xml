@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 07:20:17 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 07:20:17 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 07:30:26 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 07:30:26 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,28 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>In the last 24 hours, the total NFT transaction volume across the network reached $20.4 million, a 20.9% decrease.</title>
+      <link>https://www.lookonchain.com/feeds/21488</link>
+      <description>On July 23rd, based on CoinGecko data, the total 24-hour global NFT trading volume amounted to $20.404 million, experiencing a 20.9% decline.Moreover, the total market capitalization of the global NFT market has reached $6.335 billion, with a 24-hour decrease of 2%.</description>
+      <pubDate>Wed, 23 Jul 2025 07:08:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21488</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>A certain whale has withdrawn a total of 12,341 ETH from Kraken over the past 8 days, equivalent to approximately $45.6 million.</title>
       <link>https://www.lookonchain.com/feeds/21487</link>
       <description>On July 23rd, as monitored by Onchain Lens, a whale withdrew 2,672 ETH from Kraken, which was valued at $9.87 million.During the past 8 days, this whale has made a total withdrawal of 12,341 ETH from Kraken, amounting to $45.6 million.</description>
-      <pubDate>Wed, 23 Jul 2025 07:08:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 07:08:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21487</guid>
       <category>crypto</category>
@@ -35,28 +53,10 @@
 
     </item>
     <item>
-      <title>In the last 24 hours, the total NFT transaction volume across the network reached $20.4 million, a 20.9% decrease.</title>
-      <link>https://www.lookonchain.com/feeds/21488</link>
-      <description>On July 23rd, based on CoinGecko data, the total 24-hour global NFT trading volume amounted to $20.404 million, experiencing a 20.9% decline.Moreover, the total market capitalization of the global NFT market has reached $6.335 billion, with a 24-hour decrease of 2%.</description>
-      <pubDate>Wed, 23 Jul 2025 07:08:24 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21488</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Matrixport: Retail Leveraging Surges Ahead of FOMC, Key Catalyst Could Play Out After Summer</title>
       <link>https://www.lookonchain.com/feeds/21486</link>
       <description>On July 23rd, Matrixport released today&apos;s market analysis which stated, &quot;In the past two weeks, the open interest of Bitcoin futures contracts has witnessed a significant increase of $6 billion. The annualized funding rate has soared to 19%, suggesting the existence of a large number of aggressive leveraged long positions in the market. Simultaneously, the activity of South Korean retail traders has increased significantly. Cryptocurrency trading volume has jumped from $10 billion to $60 billion, reflecting the dominant role of retail funds in this round of the market.&quot;However, as the price enters a consolidation phase, these high-leverage long positions may be exposed to forced liquidation risks. Especially after next week&apos;s FOMC meeting, as the market enters a relatively quiet August trading period.Despite short-term volatility, multiple key positives are accumulating for a post-summer surge, and the overall upward trend in the crypto market still remains intact.&quot;</description>
-      <pubDate>Wed, 23 Jul 2025 07:01:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 07:01:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21486</guid>
       <category>crypto</category>
@@ -73,7 +73,7 @@
       <title>Analyst: Ethereum Faces Short-Term Pullback Risk, But Long-Term Gain Potential Remains</title>
       <link>https://www.lookonchain.com/feeds/21485</link>
       <description>On July 23rd, Cryptoquant analyst Crypto Dan stated in a post that &quot;Ethereum has witnessed a significant upward trend recently. Therefore, there remains a risk of a pullback in the short term. Nevertheless, when observing a slightly longer time frame, the current price increase is still relatively modest.&quot;</description>
-      <pubDate>Wed, 23 Jul 2025 06:56:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:56:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21485</guid>
       <category>crypto</category>
@@ -92,7 +92,7 @@
       <title>Shitcoin Season Index Rises to 52</title>
       <link>https://www.lookonchain.com/feeds/21484</link>
       <description>On July 23rd, according to the data from Coinmarketcap, the Altcoin Season Index has increased to 52 (it was 50 yesterday). This index indicates that within the past 90 days, approximately 52 projects among the top 100 cryptocurrencies in terms of market capitalization have achieved better price gains compared to Bitcoin.Note: The CMC Cryptocurrency Altseason Index is a real-time indicator utilized to determine whether the current cryptocurrency market is in an altcoin-dominant season. This index is based on the performance of the top 100 altcoins relative to Bitcoin over the past 90 days.</description>
-      <pubDate>Wed, 23 Jul 2025 06:49:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:49:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21484</guid>
       <category>crypto</category>
@@ -109,7 +109,7 @@
       <title>PIMCO: Trump May Reshape Fed Outlook Through Personnel Appointments</title>
       <link>https://www.lookonchain.com/feeds/21483</link>
       <description>On July 23rd, Tiffany Wilding, an economist at Pacific Investment Management Company (PIMCO), pointed out in a report that although U.S. President Trump may continue to criticize the Federal Reserve in the short term and call for rate cuts, he will not replace the current Chairman Powell. Instead, Trump will influence Fed decisions through upcoming appointments. For example, the term of Governor Quarles will expire in January and the Chairmanship of Powell will expire in May. It is worth noting that Powell&apos;s term as governor will continue until January 2028. Wilding emphasized that regardless of who Trump nominates to succeed as chairman, the new leader must put forward a convincing monetary policy stance. Firstly, they need to obtain Senate approval and then seek majority support from the Federal Open Market Committee. (FXStreet)</description>
-      <pubDate>Wed, 23 Jul 2025 06:33:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:32:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21483</guid>
       <category>crypto</category>
@@ -126,7 +126,7 @@
       <title>If Ethereum falls below $3600, the cumulative long liquidation on major CEXs will reach $1.79 billion.</title>
       <link>https://www.lookonchain.com/feeds/21482</link>
       <description>On July 23rd, according to Coinglass data, if Ethereum drops below $3600, the cumulative liquidation intensity of mainstream CEXs in terms of long positions will reach $1.79 billion.Conversely, if Ethereum surges above $3800, the cumulative liquidation intensity of mainstream CEXs in terms of short positions will reach $1.186 billion.BlockBeats Notes: The liquidation chart does not display the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what extent the price of the underlying asset will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, it will generate a stronger reaction due to a liquidity avalanche.</description>
-      <pubDate>Wed, 23 Jul 2025 06:32:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:32:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21482</guid>
       <category>crypto</category>
@@ -146,7 +146,7 @@
       <title>PancakeSwap Infinity is now live on the Binance Smart Chain.</title>
       <link>https://www.lookonchain.com/feeds/21481</link>
       <description>July 23rd. According to official channels, PancakeSwap Infinity (formerly v4) has gone live on the Base Network and comes with the following features:1. It offers dual pool types that are suitable for different liquidity preferences.2. It supports customizable dynamic fees through smart contract &quot;Hooks&quot;.3. It employs gas-saving technology to reduce fees.4. The code is open source.</description>
-      <pubDate>Wed, 23 Jul 2025 06:24:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:29:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21481</guid>
       <category>crypto</category>
@@ -163,7 +163,7 @@
       <title>LookOnChain: Ethereum Drops Below $3700</title>
       <link>https://www.lookonchain.com/feeds/21480</link>
       <description>On July 23rd, according to HTX market data, the price of Ethereum has fallen below $3,700 and is currently trading at $3,698, with a 24-hour percentage change of -0.42%.</description>
-      <pubDate>Wed, 23 Jul 2025 06:24:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:29:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21480</guid>
       <category>crypto</category>
@@ -183,7 +183,7 @@
       <title>Bank of England Considers Abandoning Digital Pound Plan</title>
       <link>https://www.lookonchain.com/feeds/21479</link>
       <description>On July 23rd, as per Bloomberg, the Bank of England is giving thought to giving up its Central Bank Digital Currency (CBDC) initiatives. The Bank Governor, Andrew Bailey, declared that if commercial bank payment innovations achieve success, he would require &quot;a significant amount of persuasion&quot; to introduce digital pounds, signifying a global downturn in the support for government-backed digital currencies.</description>
-      <pubDate>Wed, 23 Jul 2025 06:19:24 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 06:29:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21479</guid>
       <category>crypto</category>
