@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 03:17:08 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 03:17:08 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 03:50:05 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 03:50:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,122 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Binance&apos;s latest Alpha Yala (YALA) single-asset staking APY is around 66%.</title>
-      <link>https://www.lookonchain.com/feeds/21453</link>
-      <description>On July 23rd, Binance Alpha began airdropping 200 YALA tokens to eligible users the previous day. This was based on the YALA opening price ranging from $0.33 to $0.42. Consequently, the opening return of Binance&apos;s new Alpha Yala (YALA) single-number is approximately $66.</description>
-      <pubDate>Wed, 23 Jul 2025 03:09:16 +0000</pubDate>
+      <title>Hyperliquid Data Dashboard: Total Platform Trading Volume Exceeds $15.6 Billion; Total Cumulative Users Exceed 570,000</title>
+      <link>https://www.lookonchain.com/feeds/21459</link>
+      <description>According to the monitoring of HyperInsight, by July 21st, the Hyperliquid platform has attracted 3,056 new users, raising the total number of users to 572,868. The platform has completed over 1.16 billion transactions with a total trading volume of $15.6 billion.Disclaimer from BlockBeats: The user and trading volume data of the Hyperliquid platform generally has a 2-day lag. Therefore, the data reported today is based on information up to July 21st.</description>
+      <pubDate>Wed, 23 Jul 2025 03:49:12 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21453</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21459</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Polymarket Opens 2028 US Presidential Election Prediction, Trump&apos;s Current Odds at Only 3%</title>
+      <link>https://www.lookonchain.com/feeds/21458</link>
+      <description>On July 23rd, as per the official website, Polymarket has launched the prediction market for the 2028 US Presidential Election, and it has attracted more than $1.1 million in participation.As of the moment of this writing, JD Vance is in the lead with a 28% probability of winning. Next comes the Democratic candidate Gavin Newsom. Currently, President Trump is only at 3%.According to the available information, the 2028 US Presidential Election is scheduled to be held on November 7, 2028.</description>
+      <pubDate>Wed, 23 Jul 2025 03:49:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21458</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale that accumulated MKR four months ago has now exited the position, realizing a profit of $4.8 million.</title>
+      <link>https://www.lookonchain.com/feeds/21460</link>
+      <description>On July 23rd, as monitored by LookOnChain, Whale 0xacef sold all 5,420 MKR within the past 5 days, thereby realizing a profit of $4.8 million (+74%).This Whale had purchased 5,420 MKR four months ago, spending $6.56 million, and also bought 524,643 UNI, spending $3.24 million. Currently, it holds an unrealized profit of $2.4 million (+74%) on UNI.</description>
+      <pubDate>Wed, 23 Jul 2025 03:49:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21460</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>BONK Token Shows Strong Rebound, Gas Price Hits All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/21457</link>
+      <description>On July 23rd, based on GMGN data, BONK-related tokens have witnessed significant rebounds. These include:The Bonk ecosystem development protocol GP has surged by more than 35% in the past 24 hours, with a current market capitalization of $2.408 billion.BONK has seen a 5.49% increase in the past 24 hours, and its current market capitalization is $32.8 billion.The leading meme coin of LetsBONK, USELESS, has surged by 23.54% in the past 24 hours, with a current market capitalization of $3.4 billion.BlockBeats reminds users that meme coins often lack practical use cases and experience high price volatility, and investment should be made with caution.</description>
+      <pubDate>Wed, 23 Jul 2025 03:40:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21457</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The top two whales of the PUMP presale have transferred most of their tokens to CEX, making profits of $19 million and $21.4 million respectively.</title>
+      <link>https://www.lookonchain.com/feeds/21454</link>
+      <description>July 23rd. Based on Spot On Chain&apos;s monitoring and statistics, among the 10,145 successful presale buyers, 12.7% still possess the tokens; 31.6% have sold on DEX; only 2.7% have chosen to increase their holdings; while the remaining 53% have transferred the tokens to a new wallet (including those who deposited to CEX for selling).Furthermore, the largest buyer in the presale, who put in $100 million to purchase 25 billion PUMP tokens, has currently recharged 17.1 billion tokens ($89.5 million) to CEX through FalconX and is currently holding 7.99 billion tokens ($29.5 million). The estimated profit is $19 million.The second-largest buyer of PUMP, who invested $50 million to purchase 12.5 billion PUMP tokens, has deposited all the tokens ($71.4 million) to CEX. The estimated profit is $21.4 million (+43%).</description>
+      <pubDate>Wed, 23 Jul 2025 03:25:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21454</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>transfer</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>WEEX has launched the all-new &quot;Spot Pro&quot; system, further enhancing performance and user experience.</title>
+      <link>https://www.lookonchain.com/feeds/21456</link>
+      <description>On July 23rd, WEEX announced that in order to continuously enhance the trading experience, WEEX has launched the new &quot;Spot Pro&quot; system, which completely replaces the old spot system. The new system has a transaction processing speed (TPS) of 20,000, significantly improving the matching efficiency. It allows for smoother order placement and cancellation, with more timely data push. It also has smaller slippage, resulting in better execution prices. It will support more than 3,000 trading pairs, providing stronger liquidity. The fund accounts and trading accounts are isolated, enhancing the clarity of asset management.WEEX reminds users to update the App version as soon as possible and transfer assets from the original &quot;Spot&quot; account to the &quot;Spot Pro&quot; account with one click. Users who meet the conditions and complete the transfer before 17:59 on July 27th will receive 1 - 5 U contract trial funds and enjoy zero transaction fees for all coins in the &quot;Spot Pro&quot; system. After that, the sy</description>
+      <pubDate>Wed, 23 Jul 2025 03:25:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21456</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Lotte Card Applies for Trademark of Won-Backed Stablecoin, Bullish on Stablecoin&apos;s Application in Luxury Goods, Gold, and Other High-Value Asset Trading</title>
+      <link>https://www.lookonchain.com/feeds/21455</link>
+      <description>On July 23rd, according to Yonhap News Agency, the Lotte Card Company has submitted applications for 36 trademarks related to Korean won stablecoins, including brand names and symbols. The applied trademarks comprise &quot;WONBIT,&quot; &quot;KTOKEN,&quot; &quot;LOCAMONEY,&quot; and others. The company declared that the Korean won stablecoin will be widely utilized in the future in high-value asset transactions such as used cars, luxury goods, real estate, and gold.</description>
+      <pubDate>Wed, 23 Jul 2025 03:25:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21455</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +144,7 @@
       <title>South Korean blockchain infrastructure provider DSRV has completed a Series B funding round of approximately $11.6 million, with participation from major Korean investment firms including Intervest.</title>
       <link>https://www.lookonchain.com/feeds/21452</link>
       <description>On July 23rd, the South Korean blockchain infrastructure service provider DSRV announced the completion of approximately 16 billion South Korean won (about $11.6 million) in Series B round 1 financing. This round of financing was participated in by leading South Korean investment institutions like Intervest and NH-SK Securities. It is expected that the second round of financing will start at the end of next month, with more financial institutions joining.DSRV currently provides nodes and infrastructure services for more than 70 global blockchain networks and manages assets worth over 40 trillion South Korean won. The company&apos;s sales in 2023 reached 10.7 billion South Korean won, with a net profit of 3 billion South Korean won. In the future, it will focus on expanding into new business areas such as stablecoins and custody and accelerate its global expansion plan in regions like the United States, Japan, and Africa. (edaily)</description>
-      <pubDate>Wed, 23 Jul 2025 03:09:16 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 03:09:12 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21452</guid>
       <category>crypto</category>
@@ -49,10 +159,27 @@
 
     </item>
     <item>
+      <title>Binance&apos;s latest Alpha Yala (YALA) single-asset staking APY is around 66%.</title>
+      <link>https://www.lookonchain.com/feeds/21453</link>
+      <description>On July 23rd, Binance Alpha began airdropping 200 YALA tokens to eligible users the previous day. This was based on the YALA opening price ranging from $0.33 to $0.42. Consequently, the opening return of Binance&apos;s new Alpha Yala (YALA) single-number is approximately $66.</description>
+      <pubDate>Wed, 23 Jul 2025 03:09:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21453</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>European FinTech company TRACTIAL has added 9.77 Bitcoin to its holdings, bringing the total position to 25.03 Bitcoin.</title>
       <link>https://www.lookonchain.com/feeds/21451</link>
       <description>On July 23rd, the European fintech company TRACTIAL (formerly known as BD Multimedia) has accomplished an additional allocation of 9.77 bitcoins. As a result, its total holdings have reached 25.03 bitcoins. The average cost per unit is 88,724 euros (approximately 104,286 US dollars).</description>
-      <pubDate>Wed, 23 Jul 2025 03:00:16 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 03:00:12 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21451</guid>
       <category>crypto</category>
@@ -65,139 +192,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will list Lnfi Network (LN) on July 25th</title>
-      <link>https://www.lookonchain.com/feeds/21450</link>
-      <description>July 23rd. As per official announcements, Binance Alpha is set to list the Lnfi Network (LN) on July 25th. Qualified users can access the Alpha activity page once Alpha trading commences and claim the airdrop by using Alpha Points. Further details will be disclosed separately.</description>
-      <pubDate>Wed, 23 Jul 2025 02:57:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21450</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ping An Securities: Hong Kong May Adopt a Dual-track Regulatory Approach for Stablecoins</title>
-      <link>https://www.lookonchain.com/feeds/21449</link>
-      <description>On July 23rd, Ping An Securities released a stablecoin report indicating that Hong Kong may establish a dual-track regulatory framework of &quot;USD Stablecoins Connecting to the International Market + HKD Stablecoins Connecting to the Mainland.&quot; This not only reinforces the financial attributes of the Hong Kong Dollar but also offers an &quot;experimental field&quot; for the internationalization of the RMB. Hong Kong&apos;s definition of stablecoins is relatively extensive and not limited to a specific type of fiat-backed stablecoin. With the rapid development of the Hong Kong stablecoin market, it is expected that the market share of non-USD stablecoins will gradually increase, potentially driving the establishment of a unified international regulatory system in the future.Furthermore, the Ping An Securities report also mentioned that Hong Kong&apos;s regulatory scope for regulated stablecoin activities encompasses not only activities of issuing designated stablecoins in Hong Kong but also activities of is</description>
-      <pubDate>Wed, 23 Jul 2025 02:57:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21449</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum L2 network Taiko has achieved integration with Dune.</title>
-      <link>https://www.lookonchain.com/feeds/21448</link>
-      <description>On July 23rd, according to official information, the Ethereum L2 network Taiko has accomplished integration with Dune. Now, the on-chain data of Taiko can be viewed in real-time on Dune.Through this integration, the data of the Taiko network will be presented to developers and the community in a more transparent, open, and convenient manner.</description>
-      <pubDate>Wed, 23 Jul 2025 02:56:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21448</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Publicly traded company DigitalX increases its Bitcoin holdings by 74.7 BTC, bringing its total holdings to 499.8 BTC.</title>
-      <link>https://www.lookonchain.com/feeds/21447</link>
-      <description>On July 23rd, the Australian-listed cryptocurrency asset management company DigitalX (ASX: DCC, OTCQB: DGGXF) announced that it has boosted its holdings by 74.7 bitcoins. The company&apos;s overall bitcoin holdings have now reached 499.8 bitcoins, with a total value of approximately $91.3 million based on current prices.</description>
-      <pubDate>Wed, 23 Jul 2025 02:56:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21447</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Arthur Hayes: Ethereum End-of-Year Price Target $10,000, Bitcoin $250,000</title>
-      <link>https://www.lookonchain.com/feeds/21446</link>
-      <description>On July 23rd, as per Cointelegraph, Arthur Hayes, the co-founder of BitMEX, declared that by the end of this year, Bitcoin will reach $250,000 and Ethereum will reach $10,000.He further mentioned that Trump&apos;s wartime economic policies have caused a credit expansion to flow into cryptocurrencies, with stablecoin issuers purchasing Treasury bonds to offset government deficits.It is worth noting that on May 30th of this year, Arthur Hayes believed that Ethereum could rise to $5,000 this year.On July 3rd, Arthur Hayes wrote, &quot;From now until Jerome Powell delivers a speech at the Jackson Hole Fed meeting in August, the market will consolidate at a slightly lower level. If it is proven that the TGA refill is detrimental to USD liquidity, the downside is between $90,000 and $95,000. If the refill is proven to be inconsequential, Bitcoin will remain around $100,000 and will not exceed the historical high of $112,000.&quot;</description>
-      <pubDate>Wed, 23 Jul 2025 02:49:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21446</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Four years ago, the whale that built a position in WBTC sold 1000 WBTC over the past 4 days, realizing a total profit of $107 million from their holdings.</title>
-      <link>https://www.lookonchain.com/feeds/21445</link>
-      <description>On July 23rd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the address which &quot;averaged $10,708 four years ago and accumulated 1074 WBTC&quot; is said to have sold 300 WBTC 9 hours ago, with a value of $35.62 million.During the past 4 days, a total of 1000 BTC has been sold, with a total value of $1.18 billion, an average selling price of $118,011, and a profit of $1.07 billion.</description>
-      <pubDate>Wed, 23 Jul 2025 02:41:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21445</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Japanese Prime Minister Yoshihide Suga is expected to resign, triggering a short-term decline in the yen and a rise in Japanese stocks</title>
-      <link>https://www.lookonchain.com/feeds/21444</link>
-      <description>On July 23rd, the Nikkei 225 Index continued to rise, exceeding 41,000 points and seeing an intraday increase of over 3%. The USD/JPY pair witnessed a short-term increase of up to 60 pips, reaching above 147, with the highest reaching 147.14 and an intraday increase of 0.26%. According to Japan&apos;s &quot;Daily News&quot;, Japanese Prime Minister Shizo Abe will announce his resignation at the end of August. (Kinli)</description>
-      <pubDate>Wed, 23 Jul 2025 02:41:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21444</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
