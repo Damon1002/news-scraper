@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Jul 2025 18:20:07 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Jul 2025 18:20:07 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2025 18:36:39 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2025 18:36:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Boost HTML5 Game Performance with WebAssembly</title>
       <link>https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/</link>
-      <description>10 points by breve on Hacker News</description>
+      <description>11 points by breve on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 17:45:03 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://playgama.com/blog/general/boost-html5-game-performance-with-webassembly/</guid>
@@ -27,7 +27,7 @@
     <item>
       <title>AI.gov</title>
       <link>https://www.ai.gov/</link>
-      <description>12 points 8 comments by davidgomes on Hacker News</description>
+      <description>27 points 26 comments by davidgomes on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 17:44:53 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.ai.gov/</guid>
@@ -38,7 +38,7 @@
     <item>
       <title>Cara – High Precision Robot Dog Using Rope</title>
       <link>https://www.aaedmusa.com/projects/cara</link>
-      <description>23 points 4 comments by hakonjdjohnsen on Hacker News</description>
+      <description>31 points 6 comments by hakonjdjohnsen on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 17:38:20 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.aaedmusa.com/projects/cara</guid>
@@ -49,7 +49,7 @@
     <item>
       <title>The Promised LAN</title>
       <link>https://tpl.house/</link>
-      <description>40 points 2 comments by Bogdanp on Hacker News</description>
+      <description>53 points 4 comments by Bogdanp on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 17:24:32 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://tpl.house/</guid>
@@ -60,7 +60,7 @@
     <item>
       <title>FastVLM: Efficient Vision Encoding for Vision Language Models</title>
       <link>https://machinelearning.apple.com/research/fast-vision-language-models</link>
-      <description>8 points 1 comments by 2bit on Hacker News</description>
+      <description>13 points 1 comments by 2bit on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 17:09:47 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://machinelearning.apple.com/research/fast-vision-language-models</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>You Can Now Disable All AI Features in Zed</title>
       <link>https://zed.dev/blog/disable-ai-features</link>
-      <description>260 points 98 comments by meetpateltech on Hacker News</description>
+      <description>289 points 121 comments by meetpateltech on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 15:45:15 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://zed.dev/blog/disable-ai-features</guid>
@@ -82,7 +82,7 @@
     <item>
       <title>Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US</title>
       <link>https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html</link>
-      <description>133 points 95 comments by ajuhasz on Hacker News</description>
+      <description>144 points 102 comments by ajuhasz on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 15:37:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html</guid>
@@ -93,7 +93,7 @@
     <item>
       <title>Stop Building AI Tools Backwards</title>
       <link>https://hazelweakly.me/blog/stop-building-ai-tools-backwards/</link>
-      <description>121 points 78 comments by eternalreturn on Hacker News</description>
+      <description>121 points 85 comments by eternalreturn on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 14:56:31 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://hazelweakly.me/blog/stop-building-ai-tools-backwards/</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>Proxmox Donates €10k to the Perl and Raku Foundation</title>
       <link>https://www.perl.com/article/proxmox-donates-to-tprf/</link>
-      <description>211 points 112 comments by oalders on Hacker News</description>
+      <description>218 points 114 comments by oalders on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 14:48:22 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.perl.com/article/proxmox-donates-to-tprf/</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>What to Expect from Debian/Trixie</title>
       <link>https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/</link>
-      <description>99 points 45 comments by exiguus on Hacker News</description>
+      <description>104 points 50 comments by exiguus on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 13:27:38 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/</guid>
