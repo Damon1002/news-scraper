@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 10:30:10 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 10:30:10 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 10:47:16 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 10:47:16 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,84 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitget Research: Shitcoin Season Index Showing an Uptrend, Funds May Short-Term Rotate to Shitcoins</title>
+      <link>https://www.lookonchain.com/feeds/21685</link>
+      <description>On July 24th, Ryan Lee, the chief analyst of the Bitget Research Institute, stated that recently, Bitcoin&apos;s dominance has dropped to the range of 59%-61%. Meanwhile, the Altseason Index has shown an upward trend, indicating that funds are flowing into mainstream altcoins such as Ethereum, XRP, Solana, and other altcoins, with recent gains of 20%-40%.Ryan Lee pointed out that &quot;The active performance of the AI, RWA, and Memecoin sectors also demonstrates that the market is highly focused on specific narratives. However, the Altseason Index has not yet broken through the 75% confirmation threshold. The current market trend is more likely to be a phased rotation rather than the full launch of the altseason. To sustain the market trend into the later stages of the third quarter, the key lies in whether Bitcoin&apos;s market dominance can remain below 60%. Additionally, signals confirming the start of the altseason include institutional fund inflows, regulatory positivity, and fundamental impro</description>
+      <pubDate>Thu, 24 Jul 2025 10:40:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21685</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Dips Below $118,000 Again</title>
+      <link>https://www.lookonchain.com/feeds/21684</link>
+      <description>On July 24th, based on HTX market data, Bitcoin once again fell below $118,000, with a 24-hour decline of 0.16%.</description>
+      <pubDate>Thu, 24 Jul 2025 10:40:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21684</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Horizen&apos;s ZEN Token Officially Launches on Base Network</title>
+      <link>https://www.lookonchain.com/feeds/21683</link>
+      <description>On July 24th, the veteran privacy-focused public blockchain Horizen announced that its native token ZEN has officially completed the migration and has been listed on the mainstream DEXs on the Base chain, such as Uniswap and AerodromeFi, and is now ready for trading.Since 2017, Horizen has been deeply engaged in zero-knowledge and privacy technology and is widely recognized in the industry as a privacy OG project. This migration to Base indicates its formal entry into the mainstream Layer 2 DeFi world and will promote Private DeFi applications through the Thrive Protocol, with an initial investment of 1 million ZEN for ecosystem development.Currently, ZEN is strongly supported by Coinbase, Binance, and Grayscale Trust, which provides strong liquidity and institutional endorsement.</description>
+      <pubDate>Thu, 24 Jul 2025 10:32:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21683</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Ethereum Falls Below $3600</title>
+      <link>https://www.lookonchain.com/feeds/21682</link>
+      <description>On July 24th, according to HTX market data, Ethereum dropped below $3,600, experiencing a 24-hour decrease of 1.70%.</description>
+      <pubDate>Thu, 24 Jul 2025 10:32:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21682</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>On-chain ASP price is currently $0.382, with a market cap of $87 million.</title>
       <link>https://www.lookonchain.com/feeds/21681</link>
       <description>On July 24th, Binance Alpha has now initiated Aspecta (ASP). Currently, ASP is trading at $0.382 on the blockchain, and its market capitalization is $87 million.</description>
-      <pubDate>Thu, 24 Jul 2025 10:16:18 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 10:16:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21681</guid>
       <category>crypto</category>
@@ -32,12 +106,12 @@
 
     </item>
     <item>
-      <title>Binance Alpha has now launched Aspecta (ASP)</title>
-      <link>https://www.lookonchain.com/feeds/21679</link>
-      <description>On July 24th, Binance Alpha has now introduced Aspecta (ASP).</description>
-      <pubDate>Thu, 24 Jul 2025 10:09:18 +0000</pubDate>
+      <title>Gate Launchpad will list Ika (IKA), supporting USD1 and GT subscriptions</title>
+      <link>https://www.lookonchain.com/feeds/21680</link>
+      <description>On July 24th, as per the official announcement, Gate Launchpad is set to launch Ika (IKA) from 13:00 on July 26th, 2025, to 13:00 on July 29th, 2025 (in UTC+8 time). Users will be able to participate in the IKA token sale by using USD1 and GT. The subscription price is 0.025 USD1, and the total subscription amount is 200 million IKA.The GT subscription price will be determined based on the opening average price of GT on July 24th, 25th, and 26th (in UTC+8 time), and will be announced 2 hours prior to the start of the subscription. The maximum token amount per person is 2,000,000 IKA, and the distribution will be completed within 4 hours after the end of the subscription.Meanwhile, Gate will list the Ika (IKA) spot trading on July 29th, 2025, at 18:00 (in UTC+8 time), opening the IKA/USD1 trading pair. In addition, Gate Launchpad has launched a newcomer event from now until August 1st, 2025, at 00:00 (in UTC+8 time). During this period, registration and trading can share 2,000 GT, and</description>
+      <pubDate>Thu, 24 Jul 2025 10:09:24 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21679</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21680</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -49,12 +123,12 @@
 
     </item>
     <item>
-      <title>Gate Launchpad will list Ika (IKA), supporting USD1 and GT subscriptions</title>
-      <link>https://www.lookonchain.com/feeds/21680</link>
-      <description>On July 24th, as per the official announcement, Gate Launchpad is set to launch Ika (IKA) from 13:00 on July 26th, 2025, to 13:00 on July 29th, 2025 (in UTC+8 time). Users will be able to participate in the IKA token sale by using USD1 and GT. The subscription price is 0.025 USD1, and the total subscription amount is 200 million IKA.The GT subscription price will be determined based on the opening average price of GT on July 24th, 25th, and 26th (in UTC+8 time), and will be announced 2 hours prior to the start of the subscription. The maximum token amount per person is 2,000,000 IKA, and the distribution will be completed within 4 hours after the end of the subscription.Meanwhile, Gate will list the Ika (IKA) spot trading on July 29th, 2025, at 18:00 (in UTC+8 time), opening the IKA/USD1 trading pair. In addition, Gate Launchpad has launched a newcomer event from now until August 1st, 2025, at 00:00 (in UTC+8 time). During this period, registration and trading can share 2,000 GT, and</description>
-      <pubDate>Thu, 24 Jul 2025 10:09:18 +0000</pubDate>
+      <title>Binance Alpha has now launched Aspecta (ASP)</title>
+      <link>https://www.lookonchain.com/feeds/21679</link>
+      <description>On July 24th, Binance Alpha has now introduced Aspecta (ASP).</description>
+      <pubDate>Thu, 24 Jul 2025 10:08:24 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21680</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21679</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -69,7 +143,7 @@
       <title>SlowMist: Core Administrator of the world&apos;s largest dark web crime platform XSS arrested</title>
       <link>https://www.lookonchain.com/feeds/21678</link>
       <description>On July 24th, according to the Chief Information Security Officer of SlowMist Technology, 23pds. The core administrator of the world&apos;s largest dark web crime platform, XSS, was arrested. This platform has been operating on the dark web for a long time and is one of the main trading hubs for Stealer tools (information stealers) targeting the cryptocurrency industry.The suspect has been active for approximately 20 years and has earned 7 million euros through cybercrime. The operation was led by France and received support from Europol.</description>
-      <pubDate>Thu, 24 Jul 2025 10:08:18 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 10:08:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21678</guid>
       <category>crypto</category>
@@ -86,7 +160,7 @@
       <title>Analysis: US Dollar&apos;s Unusual Movement or Another Reason for Powell&apos;s Caution on Rate Cuts</title>
       <link>https://www.lookonchain.com/feeds/21677</link>
       <description>July 24th: According to foreign media analysis, under the influence of tariff policies, Federal Reserve Chairman Powell insisted on waiting for more evidence of stable inflation before cutting interest rates. Another reason for Powell&apos;s need to be cautious is the extremely unusual behavior of the US dollar.Before the announcement of the tariff policy, the market generally expected that tariffs would strengthen the US dollar. But in reality, the US dollar has depreciated. Since &quot;Liberation Day&quot; on April 2nd, the dollar index has fallen by 6.8%. Year-to-date, as of 2025, it has fallen by about 10.4%, making it the worst-performing year at least in 25 years. The sustained weakness of the US dollar is more likely to have a significant impact on the economy (including consumer prices). (FXStreet)</description>
-      <pubDate>Thu, 24 Jul 2025 10:08:18 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 10:08:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21677</guid>
       <category>crypto</category>
@@ -103,7 +177,7 @@
       <title>Japanese publicly traded company Convano increased its Bitcoin holdings by 79.92 BTC this week.</title>
       <link>https://www.lookonchain.com/feeds/21676</link>
       <description>July 24th: The publicly-listed Japanese company and nail salon operator Convano Inc has officially initiated its Bitcoin treasury strategy and purchased 79.92 BTC this week.BlockBeats previously reported that on July 17th, Convano Inc (6574.T) officially began its Bitcoin financial strategy and planned to acquire BTC worth 400 million yen (approximately $2.7 million) in July.</description>
-      <pubDate>Thu, 24 Jul 2025 09:56:18 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 09:56:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21676</guid>
       <category>crypto</category>
@@ -116,81 +190,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>HTX DeepThink: Bitcoin Gathers Strength in Consolidation Phase, Japanese Political Situation and Tariff Negotiation Progress May Determine Short-term Direction</title>
-      <link>https://www.lookonchain.com/feeds/21675</link>
-      <description>July 24th. According to the analysis in the HTX DeepThink column, Bitcoin surged to as high as $121,800 yesterday and then retreated to around $118,000 for consolidation. On-chain data indicates that the average market chip profit margin has reached 57%, and due to short-term selling pressure, the upside potential is limited.Currently, Bitcoin is gathering strength while waiting for directional signals. Two major catalytic factors to pay attention to are: profit-taking and macroeconomic clarity. The turmoil in the Japanese political situation may affect the progress of the August US-Japan tariff negotiation. Although the EU and the US have postponed tariffs for the time being, they are struggling to ease global uncertainty. The CME BTC futures positions remain high, the inflow of stablecoins is slowing down, and funds are mostly in a wait-and-see state.It is expected that BTC will fluctuate in the range of $115,000 to $123,000 in the short term, and early August will be a key decis</description>
-      <pubDate>Thu, 24 Jul 2025 09:49:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21675</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Brazilian lawmakers will debate the 17.5% cryptocurrency tax proposal put forward by the president on August 6.</title>
-      <link>https://www.lookonchain.com/feeds/21674</link>
-      <description>On July 24th, according to BTCTN, Brazilian lawmakers are in the process of preparing to hold a debate on a newly proposed cryptocurrency taxation plan put forward by President Lula.This proposal intends to impose a flat 17.5% tax on all cryptocurrency transactions, and a hearing has been scheduled for August 6th.</description>
-      <pubDate>Thu, 24 Jul 2025 09:48:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21674</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Publicly traded company Satsuma has completed a funding round exceeding ￡100 million, aiming to accelerate its Bitcoin accumulation strategy.</title>
-      <link>https://www.lookonchain.com/feeds/21672</link>
-      <description>On July 24th, the UK-listed company Satsuma Technology PLC (formerly known as Tao Alpha PLC) announced that it had successfully raised significantly over ￡100 million.The company&apos;s Chief Bitcoin Strategy Officer, Mark Moss, said: &quot;We are extremely grateful for the strong market support demonstrated by this successful fundraising, which has exceeded our ￡100 million target. This attests to the UK market&apos;s confidence in Satsuma&apos;s strategic direction and the execution capabilities of our leadership team. With this expanded capital base, we anticipate providing a platform in London to drive the future development of decentralized infrastructure, expedite our Bitcoin accumulation strategy, and enhance our role in promoting institutional Bitcoin adoption in Europe.&quot;It was previously reported by BlockBeats that on July 14th, the UK-listed company Tao Alpha announced its first purchase of 28.56 BTC.</description>
-      <pubDate>Thu, 24 Jul 2025 09:40:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21672</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Lido&apos;s market share in the Ethereum staking market has dropped to 25.02%, the lowest since March 2022.</title>
-      <link>https://www.lookonchain.com/feeds/21673</link>
-      <description>On July 24th, based on Dune Analytics, Lido&apos;s share in the Ethereum staking market has decreased to 25.02%, which is the lowest level since March 2022.</description>
-      <pubDate>Thu, 24 Jul 2025 09:40:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21673</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
