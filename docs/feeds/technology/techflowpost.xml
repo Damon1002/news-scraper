@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 15:57:02 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 15:57:02 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 16:16:18 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 16:16:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,32 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Cyvers Alerts：监测到 WOO 遭遇攻击，损失超 1200 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Cyvers Alerts 在社交平台发文表示，“检测到涉及 WOO X 的多笔可疑交易，涵盖 BTC、ETH、BNB 和 ARB 网络，预计损失超过 1200 万美元。在以太坊网络上，一个可疑地址从 WOO 的热钱包接收了价值 100 万美元的 USDT 和额外的 ETH。这 100 万美元的 ...</description>
+      <pubDate>Thu, 24 Jul 2025 16:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>今日链上资金流向：Arbitrum 净流入 2500 万美元，Base 净流出 4490 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Artemis 数据显示，今日 Arbitrum 净流入 2500 万美元，以太坊净流入 1430 万美元；Base 净流出 4490 万美元，Starknet 净流出 590 万美元。</description>
+      <pubDate>Thu, 24 Jul 2025 15:59:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>今日加密货币市值前100代币涨跌：IP 涨 16.69%，PUMP 跌 24.68%</title>
       <link>https://www.techflowpost.com</link>
       <description>据 Coinmarketcap 数据，今日加密货币市值前 100 代币表现如下，涨幅前五：Story（IP）涨 16.69%，现价 5.66 美元；Bonk（BONK）涨 8.83%，现价 0.00003648 美元；Curve DAO Token（CRV）涨 6.81%，现价 1.01 美元；E...</description>
-      <pubDate>Thu, 24 Jul 2025 15:57:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:56:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，特朗普在 Truth Social 发文表示，所有人都在说，我将取消马斯克从美国政府获得的大规模补贴，从而摧毁他的公司。这并不属实，我希望马斯克，以及我们国家的所有企业，都能蓬勃发展，事实上，是前所未有地蓬勃发展，他们做得越好，美国就越好，这对我们所有人都有好处。我们每天都在创造纪...</description>
       <pubDate>Thu, 24 Jul 2025 13:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>特斯拉跌8.9%，创自6月5日以来最大跌幅</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，特斯拉 (TSLA.O) 下跌 8.9%，创自 6 月 5 日以来最大跌幅。</description>
-      <pubDate>Thu, 24 Jul 2025 13:36:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美股加密概念股开盘涨跌不一，SBET涨4.90%，TRON跌3.53%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据英为财情数据，美股加密概念股涨跌不一。GameSquare Holdings(GAME)涨4.73%，报1.330美元Sharplink Gaming(SBET)涨4.90%，报25.760美元Argo Blockchain ADR(ARBK)涨1.94%，报0.380美元Core Scient...</description>
-      <pubDate>Thu, 24 Jul 2025 13:33:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
