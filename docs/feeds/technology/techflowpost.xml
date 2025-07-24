@@ -5,14 +5,69 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 08:16:11 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 08:16:11 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 08:35:03 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 08:35:03 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Sky 联创半小时前领取了价值 130 万美元的 SKY 质押奖励，转移到其 SKY 回购地址</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，Sky（原 MakerDAO）联创 Rune 继续使用 $SKY 的质押奖励来回购 SKY。Rune 在半小时前领取了 SKY 质押奖励：190 万枚 USDS + 1037.8 万枚 SPK（价值 130 万美元），然后转移到其回购地址，目前正在将 SP...</description>
+      <pubDate>Thu, 24 Jul 2025 08:33:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>加纳共和国将向加密货币公司发放许可证</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据援引外媒报道，加纳计划对加密货币平台发放许可证，因为当局希望在规范这个西非国家数百万人使用的资产类别的同时，实现创收。加纳央行行长表示，央行正在敲定一套监管框架，计划于9月提交议会审议。拟议中的法律将使该国能够充分利用加密货币，促进跨境贸易，吸引战略投资，并收集金融数据。</description>
+      <pubDate>Thu, 24 Jul 2025 08:30:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>欧盟通过总额930亿欧元的对美关税反制计划，若谈判破裂将于8月7日开始生效</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，当天欧盟成员国投票通过了一项对总额930亿欧元的美国产品加征反制关税的措施。前一天，欧盟委员会发言人在7月23日对外表示，欧盟计划将针对美国出口商品的两份报复性关税清单合并，形成一份总额930亿欧元的统一清单。该清单主要涉及飞机、汽车及电气设备等高价值工业产品。两份清单形成的一揽子...</description>
+      <pubDate>Thu, 24 Jul 2025 08:26:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>分析师：当前比特币 RSI 指数接近 75，牛市期间预计将出现多月 RSI 大于 80 的情况</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据加密分析师 PlanB 发文分析称，比特币相对强弱指数（RSI）目前接近 75。PlanB 表示，在本轮牛市中，预计将出现数月 RSI 达到 80 以上的情况，与 2021 年、2017 年、2013 年和 2011 年的牛市表现相似。</description>
+      <pubDate>Thu, 24 Jul 2025 08:21:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某新建钱包从 Kraken 再次提取 2,759 枚 ETH，总持仓达 15,100 枚</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某新建钱包从 Kraken 交易所再次提取 2,759 枚 ETH，价值 984 万美元。目前该钱包总计持有 15,100 枚 ETH，价值约 5,400 万美元。</description>
+      <pubDate>Thu, 24 Jul 2025 08:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>ETH 突破 3600 美元，日内跌幅缩小至 0.38%</title>
       <link>https://www.techflowpost.com</link>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Cointelegraph报道，美国地区法官Jessica Clarke驳回了Anton和James Peraire-Bueno兄弟的撤诉请求，认定他们通过操纵以太坊网络MEV机器人窃取2500万美元加密货币的行为构成电信欺诈。这对MIT毕业生兄弟仅用12秒就完成了这一前所未有的漏洞利用，他们使...</description>
       <pubDate>Thu, 24 Jul 2025 06:18:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸抛售包括VIRTUAL在内的多个Base生态代币，累计亏损500万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，过去48小时内，某巨鲸抛售多个Base生态代币，累计亏损500万美元： 卖出108万枚VIRTUAL换取187万USDC，亏损173万美元（原购入价359万美元）； 卖出575万枚AIXBT换取95.1万USDC，亏损170万...</description>
-      <pubDate>Thu, 24 Jul 2025 06:11:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>欧洲投资应用程序Lightyear完成2300万美元融资，拟推出自己的加密产品</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据CNBC报道，欧洲投资应用程序Lightyear宣布完成2300万美元新一轮融资，NordicNinja领投，打车巨头Bolt联合创始人Markus Villig跟投。其他参投方包括Wise联合创始人Taavet Hinrikus、Checkout.com前CTO Ott Kaukver等爱沙尼...</description>
-      <pubDate>Thu, 24 Jul 2025 06:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>巴西VERT在XRP Ledger上发行1.3亿美元农业债券</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据CoinDesk报道，巴西证券化公司VERT在XRP Ledger区块链上推出私募信贷平台，并完成首次发行，成功募集7亿巴西雷亚尔（约1.3亿美元）的农业应收款凭证（CRA）。该平台旨在推动巴西2000亿美元规模私募信贷市场的现代化进程，通过区块链技术提升交易透明度与可追溯性，为投资者和监管方提...</description>
-      <pubDate>Thu, 24 Jul 2025 05:43:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>日本艺术家村上隆将于7月31日推出NFT收藏卡</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据The Block报道，日本著名流行艺术家村上隆宣布将推出名为&quot;108 Flowers Revised&quot;的NFT收藏交易卡，计划于2025年7月31日开始铸造，用户可通过Base应用参与。村上隆以&quot;超平面&quot;风格著称，作品特点是微笑花朵与鲜艳色彩，灵感来源于流行文化与动漫。他曾与Louis Vui...</description>
-      <pubDate>Thu, 24 Jul 2025 05:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Zircuit 推出 AI 驱动交易引擎，扩展 9.5 亿美元存款生态</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Zircuit 宣布推出 AI 交易引擎 &quot;Hyperliquid for AI Trading&quot;，在现有 9.5 亿美元存款金库基础上新增主动交易功能。该引擎支持实时跨链交易与一键执行，将于 2025 年 7 月起分阶段上线，实现被动收益与 AI 主动策略的双模式运行。</description>
-      <pubDate>Thu, 24 Jul 2025 05:26:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
