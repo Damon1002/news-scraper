@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 03:14:57 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 03:14:57 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 03:49:53 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 03:49:53 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,64 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Solana Network Activates 20% Block Size Increase Upgrade</title>
+      <link>https://www.lookonchain.com/feeds/21625</link>
+      <description>On July 24th, as per @martypartymusic, the Solana network yesterday implemented an increase in the block size by 20% based on the SIMD-0256 proposal. This upgrade led to a raise in the block limit from 50 million compute units (CUs) to 60 million CUs. As a result, each block is now capable of accommodating a greater number of transactions, thereby enhancing network throughput and overall performance. Users have notably noticed a significant improvement in transaction speeds.</description>
+      <pubDate>Thu, 24 Jul 2025 03:49:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21625</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Letsbonk.Fun founder X Avatar NFT series Taiyo Robotics floor price surpasses 85 SOL</title>
+      <link>https://www.lookonchain.com/feeds/21624</link>
+      <description>On July 24th, according to the market data of Magic Eden, @SolportTomX, the founder of the Meme issuance platform Letsbonk.Fun, the floor price of the Avatar NFT series Taiyo Robotics is currently 85.49 SOL, with a 24-hour increase of 50.75%.</description>
+      <pubDate>Thu, 24 Jul 2025 03:33:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21624</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Multiple New Addresses Bought a Total of 40,591 ETH Today, Equivalent to Approximately $148 Million</title>
+      <link>https://www.lookonchain.com/feeds/21623</link>
+      <description>On July 24th, based on LookOnChain&apos;s monitoring, a number of newly created wallets today have once again accumulated 40,591 Ether (approximately $148 million). Recently, a total of 7 new wallets have purchased 466,253 Ether (approximately $1.7 billion).</description>
+      <pubDate>Thu, 24 Jul 2025 03:25:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21623</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>LISTA surges to $0.35, up over 14% in the last 24 hours.</title>
       <link>https://www.lookonchain.com/feeds/21622</link>
       <description>On July 24th, based on HTX market data, LISTA experienced a surge to $0.35 and is currently trading at $0.3358, with a 14.7% increase in the past 24 hours.</description>
-      <pubDate>Thu, 24 Jul 2025 03:08:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:08:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21622</guid>
       <category>crypto</category>
@@ -35,7 +89,7 @@
       <title>Bithumb to List LISTA and MERL KRW Trading Pairs</title>
       <link>https://www.lookonchain.com/feeds/21621</link>
       <description>On July 24th, according to an official announcement, Bithumb is going to list the trading pairs of LISTA/KRW and MERL/KRW.</description>
-      <pubDate>Thu, 24 Jul 2025 03:00:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:01:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21621</guid>
       <category>crypto</category>
@@ -52,7 +106,7 @@
       <title>Binance Alpha will list DePHY Network (PHY) and open airdrop claiming to eligible users</title>
       <link>https://www.lookonchain.com/feeds/21620</link>
       <description>On July 24th, as per official channels, Binance Alpha is set to become the first platform to list DePHY Network (PHY) on July 26th.After Alpha trading commences, eligible users can access the Alpha activity page to claim an airdrop by using Binance Alpha points. Further details will be made public at a later time.</description>
-      <pubDate>Thu, 24 Jul 2025 02:56:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:56:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21620</guid>
       <category>crypto</category>
@@ -69,7 +123,7 @@
       <title>AI Token BNKR&apos;s Market Cap on Base Chain Surpasses $67 Million, Reaching an All-Time High</title>
       <link>https://www.lookonchain.com/feeds/21619</link>
       <description>On July 24th, based on GMGN data, the Base Layer AI token BankrCoin (BNKR) has exceeded a market capitalization of $67 million. It currently stands at $67.05 million and has reached a new all-time high with a 24-hour price increase of 42.87%.</description>
-      <pubDate>Thu, 24 Jul 2025 02:49:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21619</guid>
       <category>crypto</category>
@@ -87,7 +141,7 @@
       <title>A whale liquidated a PUMP short position, realizing a profit of $2.448 million</title>
       <link>https://www.lookonchain.com/feeds/21618</link>
       <description>On July 24th, as per the monitoring of Onchain Lens, a whale has completed its PUMP short position and achieved a profit of $2.448 million. It has also withdrawn all funds from Hyperliquid.</description>
-      <pubDate>Thu, 24 Jul 2025 02:48:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21618</guid>
       <category>crypto</category>
@@ -107,7 +161,7 @@
       <title>A certain whale has once again increased its long position by acquiring 224.82 WBTC, equivalent to around $26.6 million.</title>
       <link>https://www.lookonchain.com/feeds/21617</link>
       <description>On July 24th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a certain whale once again increased its position by 224.82 WBTC, which is approximately $26.6 million. The total long position size has reached $135 million, and it is currently showing an unrealized gain of $5.621 million.This whale has collateralized 700.19 WBTC on Aave to borrow $40.25 million in stablecoins, and the health factor is 1.61. The average long price is $116,574, with an unrealized gain of $1.592 million.This whale is 10 times long BTC on Hyperliquid. The position size is $51.69 million, the entry price is $109,655.2, and it is currently showing an unrealized gain of $4.029 million.</description>
-      <pubDate>Thu, 24 Jul 2025 02:41:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21617</guid>
       <category>crypto</category>
@@ -128,60 +182,9 @@
       <title>Trump&apos;s Name Reportedly Appears in Epstein Files, White House Response Self-Contradictory</title>
       <link>https://www.lookonchain.com/feeds/21616</link>
       <description>July 24th. As per The Wall Street Journal, in May, U.S. Attorney General Pam Bondi informed former President Trump that there were a large number of individuals involved in the Epstein records, with his name included. The White House gave a contradictory response to this report: initially issuing a statement labeling it as &quot;fake news,&quot; but a White House official later informed Reuters that the government did not deny that Trump&apos;s name appeared in some documents, highlighting that Trump&apos;s name had already been incorporated in a batch of materials compiled by Bondi for conservative influencers in February.Trump had a close association with Epstein from the 1990s to the early 2000s. Trump&apos;s name appeared multiple times in the flight logs of Epstein&apos;s private jet during the 1990s. The names of Trump and several of his family members also appeared in Epstein&apos;s contact book along with hundreds of others. Recently, the Trump administration, contrary to its campaign pledge, stated tha</description>
-      <pubDate>Thu, 24 Jul 2025 02:33:04 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21616</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump to Visit Federal Reserve on Thursday</title>
-      <link>https://www.lookonchain.com/feeds/21615</link>
-      <description>On July 24th, at the White House: U.S. President Trump is scheduled to pay a visit to the Federal Reserve on Thursday. (FXStreet)</description>
-      <pubDate>Thu, 24 Jul 2025 02:24:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21615</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Azuki has announced a partnership with OpenSea to release the &quot;Azuki Mizuki Anime Shorts&quot; NFT series.</title>
-      <link>https://www.lookonchain.com/feeds/21614</link>
-      <description>On July 24th, Azuki announced that it is collaborating with OpenSea to release an ERC-1155 collection based on the Mizuki short film, named &quot;Azuki Mizuki Anime Shorts.&quot; The proceeds will be utilized to support the production of the Mizuki short film and the creators in bringing these stories to life.The first edition Mint will be open for one week, and then the regular edition Mint will be open for six months. The Mint price is 0.0014 ETH, with no wallet restrictions and no whitelist restrictions.</description>
-      <pubDate>Thu, 24 Jul 2025 02:16:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21614</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>21Shares Partners with Societe Generale to Accelerate Coverage of the European Crypto Market</title>
-      <link>https://www.lookonchain.com/feeds/21613</link>
-      <description>On July 24th, as per Globenewswire, the cryptocurrency ETF issuer 21Shares declared a market-making agreement with France&apos;s Societe Generale. Societe Generale will offer over-the-counter trading liquidity support for 21Shares&apos; Bitcoin and Ethereum ETPs (ABTC, CBTC, AETH, CETH) on key fund platforms in Germany and Eastern Europe, thereby enabling these products to reach a more extensive group of institutional investors.</description>
-      <pubDate>Thu, 24 Jul 2025 02:14:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21613</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
