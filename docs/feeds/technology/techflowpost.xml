@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 11:23:45 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 11:23:45 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 11:38:49 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 11:38:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>今日被激活的 BTC 远古地址已转移 3,962.6 枚 BTC 至新地址</title>
+      <link>https://www.techflowpost.com</link>
+      <description>此前消息，分析师表示，今日被激活的BTC远古地址属于一个早期矿工，回报率超 37 万倍。</description>
+      <pubDate>Thu, 24 Jul 2025 11:29:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>分析师：今日被激活的BTC远古地址属于一个早期矿工，回报率超 37 万倍</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师余烬（@EmberCN）监测，Sky（原 MakerDAO）联创 Rune 已回购了 2453 万枚 SKY (208 万美元) 并转回质押地址。</description>
       <pubDate>Thu, 24 Jul 2025 09:17:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>加密行业联合呼吁特朗普总统阻止摩根大通对数据访问征收“惩罚性税收&quot;</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 CoinDesk 报道，包括区块链协会和加密货币创新委员会在内的十家主要金融科技和加密货币行业协会联合致信特朗普总统，呼吁阻止大型银行对数据访问征收费用。JPMorgan （摩根大通）计划对消费者银行数据访问收费，可能导致数百万美国人被去银行化，并威胁稳定币（USDC、USDT）和自托管钱包的...</description>
-      <pubDate>Thu, 24 Jul 2025 09:13:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
