@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 20:38:04 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 20:38:04 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 20:43:13 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 20:43:13 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Resolv Announces Activation of Protocol Fee Switch to Reward RESOLV Stakers</title>
+      <link>https://www.lookonchain.com/feeds/21748</link>
+      <description>On July 25th, the DeFi protocol Resolv announced in a post that starting from this month, Resolv will commence accruing protocol fees. It will utilize a portion of the daily profits for long-term value creation and the benefit of RESOLV stakers.The protocol fees will gradually be activated starting this month. The fee escalation plan is as follows:Week 1 → 2.5% of daily profitsWeek 2 → 5.0%Week 3 → 7.5%Week 4 and onwards → 10.0%Protocol fees will only be collected when positive revenue is generated. On days with zero or negative revenue, no fees will be charged. This is a performance-based system where revenue is shared when the protocol is profitable and no fees are imposed when it is not. This is not a reduction in earnings but a shift from 100% user payment to a shared growth model, activating the RESOLV flywheel.</description>
+      <pubDate>Thu, 24 Jul 2025 17:42:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21748</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>RESOLV Short-term Surge of Over 11%, Market Cap Rises to $47 Million</title>
       <link>https://www.lookonchain.com/feeds/21747</link>
       <description>On July 25th, perhaps due to the news that &quot;Resolv announced the activation of the protocol fee switch to reward RESOLV stakers,&quot; RESOLV witnessed a short-term surge of more than 11%, with a market valuation reaching $47 million.</description>
-      <pubDate>Thu, 24 Jul 2025 17:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 17:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21747</guid>
       <category>crypto</category>
@@ -35,7 +52,7 @@
       <title>「Mahjong Brother」 Huang Licheng&apos;s total floating loss on long positions narrowed to $5.43 million</title>
       <link>https://www.lookonchain.com/feeds/21746</link>
       <description>On July 25th, based on on-chain data, &quot;Whale Buddy&quot; Huang Licheng currently holds a long position worth $138.94 million on Hyperliquid, which includes ETH, HYPE, and PUMP. Currently, the ETH long position is in a floating profit state, while HYPE and PUMP are still in a loss. The total floating loss has now been reduced to $5.43 million (excluding the already lost funding rate), which was once at a floating loss of more than $8 million.</description>
-      <pubDate>Thu, 24 Jul 2025 17:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 17:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21746</guid>
       <category>crypto</category>
@@ -53,7 +70,7 @@
       <title>Trump Ally Sues Powell, Calls for FOMC Meeting Transparency</title>
       <link>https://www.lookonchain.com/feeds/21745</link>
       <description>July 25th: A firm with the backing of supporters of U.S. President Trump has initiated a lawsuit against Federal Reserve Chairman Powell and other Fed officials, demanding that the Fed conduct its monetary policy meetings in an open manner. The U.S. investor James Fishback&apos;s company, Azoria Capital, stated in a lawsuit filed on Thursday that the FOMC&apos;s long-standing practice of holding closed-door meetings was in violation of government transparency laws.The fund filed the lawsuit with a federal court in Washington and demanded that the Fed hold an open meeting from July 29th to 30th. The company noted in the lawsuit: &quot;Azoria is highly concerned that under Powell&apos;s leadership, the FOMC has maintained high interest rates, which has had a negative impact on President Trump and his economic agenda, and has also damaged U.S. citizens and the U.S. economy.&quot; (FX678)</description>
-      <pubDate>Thu, 24 Jul 2025 17:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 17:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21745</guid>
       <category>crypto</category>
@@ -70,7 +87,7 @@
       <title>Tether Mints Additional 1 Billion USDT</title>
       <link>https://www.lookonchain.com/feeds/21744</link>
       <description>On July 25th, as monitored by Whale Alert, Tether minted 1 billion USDT on the Ethereum network 3 minutes ago. Tether CEO Paolo Ardoino stated that this was an authorized but not yet issued transaction. It will be used as inventory for the next issuance request and for on-chain exchanges.</description>
-      <pubDate>Thu, 24 Jul 2025 17:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 17:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21744</guid>
       <category>crypto</category>
@@ -86,27 +103,10 @@
 
     </item>
     <item>
-      <title>Resolv Announces Activation of Protocol Fee Switch to Reward RESOLV Stakers</title>
-      <link>https://www.lookonchain.com/feeds/21748</link>
-      <description>On July 25th, the DeFi protocol Resolv announced in a post that starting from this month, Resolv will commence accruing protocol fees. It will utilize a portion of the daily profits for long-term value creation and the benefit of RESOLV stakers.The protocol fees will gradually be activated starting this month. The fee escalation plan is as follows:Week 1 → 2.5% of daily profitsWeek 2 → 5.0%Week 3 → 7.5%Week 4 and onwards → 10.0%Protocol fees will only be collected when positive revenue is generated. On days with zero or negative revenue, no fees will be charged. This is a performance-based system where revenue is shared when the protocol is profitable and no fees are imposed when it is not. This is not a reduction in earnings but a shift from 100% user payment to a shared growth model, activating the RESOLV flywheel.</description>
-      <pubDate>Thu, 24 Jul 2025 17:37:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21748</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Ripple co-founder Chris Larsen has transferred approximately $140 million worth of XRP to a trading platform in the past 7 days</title>
       <link>https://www.lookonchain.com/feeds/21743</link>
       <description>On July 25th, according to The Block, on-chain analyst ZachXBT pointed out that starting from July 17th, a wallet that has long been associated with Ripple co-founder Chris Larsen has transferred 50 million XRP. This wallet seems to have sent approximately $140 million worth of tokens to three addresses related to exchanges. Meanwhile, another 10 million XRP has been deposited into two newly created wallets. The address under the control of Chris Larsen still holds around 2.81 billion XRP, which is approximately worth $9 billion.Previously, the SEC accused Ripple&apos;s CEO Brad Garlinghouse of personally converting $150 million worth of XRP within three years when it sued Ripple in 2020. The SEC also stated that Larsen and his spouse sold $450 million worth of tokens between 2017 and 2020.</description>
-      <pubDate>Thu, 24 Jul 2025 16:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21743</guid>
       <category>crypto</category>
@@ -125,7 +125,7 @@
       <title>Institutional Ethereum Whale Holdings Change in the Last 30 Days: Bitmine Reclaims Top Spot with 566,800 ETH</title>
       <link>https://www.lookonchain.com/feeds/21741</link>
       <description>On July 25th, based on the data from Strategicethreserve, the following treasury companies and institutions with significant changes in Ethereum holdings within the past 30 days are as follows:Bitmine Immersion Tech (BMNR) takes the first place. It currently holds 566,800 ETH, which is approximately worth $21.1 billion. In the past 30 days, its holdings have increased by 247.41%.SharpLink Gaming (SBET) ranks second. It currently holds 360,800 ETH, approximately worth $13.5 billion. In the past 30 days, its holdings have increased by 91.43%.The Ethereum Foundation ranks third. It holds 237,500 ETH, approximately worth $8.86 billion. In the past 30 days, its holdings have decreased by 8.09%.Bit Digital (BTBT) ranks seventh. It holds 120,300 ETH, approximately worth $4.487 billion. In the past 30 days, its holdings have increased by 335.53%.BTCS Inc (BTCS) ranks eleventh. It holds 55,800 ETH, approximately worth $2.081 billion. In the past 30 days, its holdings have increased by</description>
-      <pubDate>Thu, 24 Jul 2025 16:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21741</guid>
       <category>crypto</category>
@@ -145,7 +145,7 @@
       <title>Kalshi is partnering with x.ai to bring Grok to the prediction market.</title>
       <link>https://www.lookonchain.com/feeds/21742</link>
       <description>On July 25th, Kalshi entered into a partnership with xAI to incorporate Grok into the prediction market.</description>
-      <pubDate>Thu, 24 Jul 2025 16:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21742</guid>
       <category>crypto</category>
@@ -162,7 +162,7 @@
       <title>USDC Treasury Mints 1 Billion USDC on Ethereum Mainnet</title>
       <link>https://www.lookonchain.com/feeds/21740</link>
       <description>On July 25th, as monitored by Whale Alert, 2 minutes ago, the USDC Treasury minted 1 billion USDC on the Ethereum blockchain.</description>
-      <pubDate>Thu, 24 Jul 2025 16:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21740</guid>
       <category>crypto</category>
@@ -181,7 +181,7 @@
       <title>JPMorgan: Cryptocurrency Market has Seen $60 Billion in Inflows Year-to-Date, Investor Interest in Altcoins Rising</title>
       <link>https://www.lookonchain.com/feeds/21739</link>
       <description>On July 25th, as per The Block, the analysts at Morgan Stanley estimate that a cumulative total of $60 billion has flowed into digital assets starting from the beginning of the year. This inflow is mainly driven by the influx into crypto funds, active trading on the Chicago Mercantile Exchange (CME), and venture capital funding activities. The analysts point out that since the end of May, the inflows have increased by nearly 50% and are expected to easily surpass the historical record of last year.The analyst stated that a key driving factor is the increasingly favorable regulatory environment in the United States. Investor interest in alternative coins is also on the rise. Among them, Ethereum is the biggest beneficiary. It holds a dominant position in the decentralized finance (DeFi) and smart contract space and is increasingly being incorporated into corporate treasuries along with Bitcoin. An increasing number of asset management companies are considering launching alternative co</description>
-      <pubDate>Thu, 24 Jul 2025 16:37:11 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:42:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21739</guid>
       <category>crypto</category>
