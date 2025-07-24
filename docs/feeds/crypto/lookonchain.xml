@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 05:35:54 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 05:35:54 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 05:50:47 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 05:50:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,61 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Brazilian securitization company VERT launches Private Credit Platform on the XRP Ledger</title>
+      <link>https://www.lookonchain.com/feeds/21635</link>
+      <description>On July 24th, according to CoinDesk, the Brazilian securitization company VERT has launched a blockchain-based private credit platform on the XRP Ledger and issued the first batch of Agricultural Receivables Certificates (CRA), which is worth 7 billion Brazilian reais (approximately 1.3 billion U.S. dollars).CRA is a crucial financial instrument in the Brazilian agriculture sector, which is used to package future cash flows. This issuance was carried out on the XRPL and its compatible Ethereum EVM sidechain, enabling real-time tracking of cash flows, loan events, and repayments.</description>
+      <pubDate>Thu, 24 Jul 2025 05:48:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21635</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>KeyCorp CEO: Willing to Provide Cryptocurrency Custody Services in Collaboration with Customers</title>
+      <link>https://www.lookonchain.com/feeds/21634</link>
+      <description>On July 24th, as per Cointelegraph, the CEO of KeyCorp Bank stated, &quot;Cryptocurrency is, to a certain extent, a means of storing value - as long as our clients have a need for it and wish to hold it in their wallets, we will offer our cooperation.&quot;</description>
+      <pubDate>Thu, 24 Jul 2025 05:48:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21634</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Crypto Market Greed Index Cools Down, Today&apos;s Fear and Greed Index at 71</title>
+      <link>https://www.lookonchain.com/feeds/21633</link>
+      <description>On July 24th, based on alternative data, the Fear and Greed Index of cryptocurrencies today is 71 (yesterday it was 74), and the &quot;greed&quot; sentiment in the market has cooled down.Note: The threshold of the Fear Index is 0-100, which includes indicators such as Volatility (25%) + Market Volume (25%) + Social Media Activity (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends Analysis (10%).</description>
+      <pubDate>Thu, 24 Jul 2025 05:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21633</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Renzo Protocol has adopted an Ethereum reserve strategy and currently holds 1050 ETH.</title>
       <link>https://www.lookonchain.com/feeds/21632</link>
       <description>On July 24th, the re-staking and yield optimization protocol Renzo Protocol has entered the ranks of protocols adopting an Ethereum reserve strategy. The protocol currently holds approximately 1050 ETH (around $3.8 million), ranking 39th among institutional holdings that adopt an Ethereum reserve strategy.This data has been verified by Renzo&apos;s official X account, which further stated: &quot;Renzo is continuously injecting more Ethereum into the reserve.&quot;</description>
-      <pubDate>Thu, 24 Jul 2025 05:16:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 05:16:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21632</guid>
       <category>crypto</category>
@@ -33,30 +84,10 @@
 
     </item>
     <item>
-      <title>Bitcoin briefly drops below $118,000</title>
-      <link>https://www.lookonchain.com/feeds/21631</link>
-      <description>On July 24th, according to HTX market data, Bitcoin briefly fell below $118,000 and is currently trading at $118,013, with a 24-hour decrease of 0.71%.</description>
-      <pubDate>Thu, 24 Jul 2025 04:48:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21631</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Analyst: Bitcoin Whales Transfer Large Amounts, Uptrend May Slow Down but Is Not Over</title>
       <link>https://www.lookonchain.com/feeds/21630</link>
       <description>On July 24th, CryptoQuant analyst Axel Adler Jr. posted that with Bitcoin&apos;s price fluctuating between $106,000 and $118,000, an abnormally high monthly Coin Days Destroyed (CDD) and an annual CDD ratio (0.25) emerged in the current market. This value is close to the historical high in 2014 and the level during the 2019 pullback.This shows that long-term holders - investors who have not moved their Bitcoin for several years - are massively transferring their holdings to the market. Such a surge in CDD typically means that experienced players are actively distributing their chips.Meanwhile, institutional fund demand and Bitcoin ETF inflows remain at high levels. Therefore, this round of chip distribution is unlikely to bring an end to this bull run. At most, it may slightly slow down its pace.Note: CDD refers to Coin Days Destroyed, which assumes that each Bitcoin accumulates &quot;1 coin day&quot; every day. Holding 10 Bitcoins for 10 days accumulates 100 coin days. When these Bitcoins are</description>
-      <pubDate>Thu, 24 Jul 2025 04:42:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 04:49:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21630</guid>
       <category>crypto</category>
@@ -74,10 +105,30 @@
 
     </item>
     <item>
+      <title>Bitcoin briefly drops below $118,000</title>
+      <link>https://www.lookonchain.com/feeds/21631</link>
+      <description>On July 24th, according to HTX market data, Bitcoin briefly fell below $118,000 and is currently trading at $118,013, with a 24-hour decrease of 0.71%.</description>
+      <pubDate>Thu, 24 Jul 2025 04:49:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21631</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $332 million, while the Bitcoin Spot ETF experienced a net outflow for the third consecutive day.</title>
       <link>https://www.lookonchain.com/feeds/21629</link>
       <description>On July 24th, based on Farside Investors&apos; data, the net inflow of the US Ethereum spot ETF was $332 million yesterday.Yesterday, the net outflow of the US Bitcoin spot ETF was $85.8 million, indicating that it was the third consecutive day of net outflows.</description>
-      <pubDate>Thu, 24 Jul 2025 04:35:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:49:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21629</guid>
       <category>crypto</category>
@@ -99,7 +150,7 @@
       <title>A whale has once again withdrawn 76,000 SOL from Kraken, approximately $14.5 million.</title>
       <link>https://www.lookonchain.com/feeds/21628</link>
       <description>On July 24th, as per the monitoring of LookOnChain, a whale has once again withdrawn 76,000 SOL from Kraken (approximately $14.5 million).Since July 8th, this whale has withdrawn a cumulative total of 164,000 SOL from Kraken (approximately $30.14 million) and has placed it in staking.</description>
-      <pubDate>Thu, 24 Jul 2025 04:35:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:49:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21628</guid>
       <category>crypto</category>
@@ -118,29 +169,9 @@
       <title>GSR withdrew 2708 ETH from Binance, approximately $9.87 million</title>
       <link>https://www.lookonchain.com/feeds/21627</link>
       <description>On July 24th, as monitored by The Data Nerd, 2 hours prior to this, the liquidity provider GSR withdrew 2708 Ethereum (approximately $9.87 million) from Binance. Currently, the total balance of GSR&apos;s Ethereum holding wallet address may be 103,822 Ethereum (approximately $379 million).</description>
-      <pubDate>Thu, 24 Jul 2025 03:35:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:49:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21627</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Multiple New Addresses Bought a Total of 40,591 ETH Today, Equivalent to Approximately $148 Million</title>
-      <link>https://www.lookonchain.com/feeds/21623</link>
-      <description>On July 24th, based on LookOnChain&apos;s monitoring, a number of newly created wallets today have once again accumulated 40,591 Ether (approximately $148 million). Recently, a total of 7 new wallets have purchased 466,253 Ether (approximately $1.7 billion).</description>
-      <pubDate>Thu, 24 Jul 2025 03:35:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21623</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -158,43 +189,9 @@
       <title>Takashi Murakami to Launch Collectible NFT Trading Card Series 108 Flowers Revised on the Base Chain</title>
       <link>https://www.lookonchain.com/feeds/21626</link>
       <description>July 24th: The highly renowned pop artist Takashi Murakami made an announcement on social media that his NFT series &quot;108 Flowers Revised&quot;, which was inspired by his physical art collection, will be officially launched during the Onchain Summer event. This series is now on the blockchain, and users can directly mint it through the Base app.The minting process will officially commence at 9 a.m. in Japanese Standard Time on August 1st (5 p.m. in Pacific Time on July 31st).</description>
-      <pubDate>Thu, 24 Jul 2025 03:35:02 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 03:49:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21626</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Solana Network Activates 20% Block Size Increase Upgrade</title>
-      <link>https://www.lookonchain.com/feeds/21625</link>
-      <description>On July 24th, as per @martypartymusic, the Solana network yesterday implemented an increase in the block size by 20% based on the SIMD-0256 proposal. This upgrade led to a raise in the block limit from 50 million compute units (CUs) to 60 million CUs. As a result, each block is now capable of accommodating a greater number of transactions, thereby enhancing network throughput and overall performance. Users have notably noticed a significant improvement in transaction speeds.</description>
-      <pubDate>Thu, 24 Jul 2025 03:35:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21625</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Letsbonk.Fun founder X Avatar NFT series Taiyo Robotics floor price surpasses 85 SOL</title>
-      <link>https://www.lookonchain.com/feeds/21624</link>
-      <description>On July 24th, according to the market data of Magic Eden, @SolportTomX, the founder of the Meme issuance platform Letsbonk.Fun, the floor price of the Avatar NFT series Taiyo Robotics is currently 85.49 SOL, with a 24-hour increase of 50.75%.</description>
-      <pubDate>Thu, 24 Jul 2025 03:35:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21624</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
