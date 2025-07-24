@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 16:17:53 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 16:17:53 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 16:32:24 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 16:32:24 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A whale is selling 1.96 million FARTCOIN, equivalent to around $2.72 million</title>
+      <link>https://www.lookonchain.com/feeds/21737</link>
+      <description>On July 25th, as monitored by Onchain Lens, a whale withdrew 1.96 million FARTCOIN from Kraken and sold it at an average price of $1.39, thereby receiving 2.72 million USDC.</description>
+      <pubDate>Thu, 24 Jul 2025 16:24:32 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21737</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Cyvers Alerts: WOO X Hacked, Loss Exceeds $12 Million</title>
       <link>https://www.lookonchain.com/feeds/21735</link>
       <description>On July 25th, Cyber Alerts sent out a tweet stating that multiple suspicious transactions related to WOO X had been detected, encompassing the BTC, ETH, BNB, and ARB networks, with an anticipated loss exceeding 12 million US dollars.On the Ethereum network, a suspicious address received 1 million USDT and additional ETH from WOO&apos;s hot wallet. The 1 million USDT was then converted into ETH, and approximately 7.3 million in funds were subsequently transferred to a new address.The WOO team has confirmed this incident and said: &quot;We are currently investigating a recent restricted incident that took place earlier today on the WOO X platform.&quot; Currently, user funds and transactions remain unaffected, but during the investigation, withdrawals have been temporarily halted.</description>
-      <pubDate>Thu, 24 Jul 2025 16:08:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:08:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21735</guid>
       <category>crypto</category>
@@ -35,7 +54,7 @@
       <title>OpenAI is preparing to launch GPT-5 in August.</title>
       <link>https://www.lookonchain.com/feeds/21736</link>
       <description>It is said that OpenAI is getting ready to launch GPT-5 in August. (According to THE VERGE on July 25th.)</description>
-      <pubDate>Thu, 24 Jul 2025 16:08:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 16:08:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21736</guid>
       <category>crypto</category>
@@ -52,7 +71,7 @@
       <title>Two new wallets have already accumulated $3.8824 billion worth of ETH.</title>
       <link>https://www.lookonchain.com/feeds/21734</link>
       <description>On July 24th, as monitored by Onchain Lens, two new wallets are in the process of accumulating ETH. These include:· The wallet with the address 0x3dF received 87,275 ETH from the Galaxy OTC market, with a value of $3.2681 billion.· The wallet with the address 0x286 received 16,472 ETH from FalconX, with a value of $61.43 million.</description>
-      <pubDate>Thu, 24 Jul 2025 15:56:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:56:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21734</guid>
       <category>crypto</category>
@@ -72,7 +91,7 @@
       <title>The Celestia Foundation has purchased the remaining TIA held by Polychain for $62.5 million, to be transferred to new investors.</title>
       <link>https://www.lookonchain.com/feeds/21733</link>
       <description>On July 24th, Celestia tweeted that &quot;The Celestia Foundation is collaborating with Polychain Capital to transfer all the remaining TIA tokens held by Polychain to new investors.&quot;This month, the foundation purchased 43,451,616.09 TIA tokens from Polychain Capital at a cost of $62.5 million. In order to complete this transaction, Polychain will soon release its entire TIA holdings from staking.To ensure the financial stability of the foundation, it is finalizing the distribution of TIA to the new investors. These transactions will follow a staggered unlocking mechanism, with the initial unlocking starting on August 16th and ending on November 14th.</description>
-      <pubDate>Thu, 24 Jul 2025 15:40:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:40:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21733</guid>
       <category>crypto</category>
@@ -91,7 +110,7 @@
       <title>TON Foundation and Kingsway Capital plan to raise $400 million for the Toncoin Treasury.</title>
       <link>https://www.lookonchain.com/feeds/21732</link>
       <description>On July 24th, as per Bloomberg, the TON Foundation and Kingsway Capital are set to raise $4 billion for the Toncoin Treasury.</description>
-      <pubDate>Thu, 24 Jul 2025 15:40:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:40:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21732</guid>
       <category>crypto</category>
@@ -109,7 +128,7 @@
       <title>BONK Announces Burning of 500 Billion BONK Tokens, Equivalent to Approximately $18.62 Million</title>
       <link>https://www.lookonchain.com/feeds/21731</link>
       <description>On July 24th, the Meme project BONK tweeted that, according to the fees generated by the Letsbonk.Fun platform, a total of 500 billion BONK (equivalent to 18.62 million USD) had just been burned.</description>
-      <pubDate>Thu, 24 Jul 2025 15:32:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:32:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21731</guid>
       <category>crypto</category>
@@ -127,7 +146,7 @@
       <title>Hyperliquid Whale Watch: Market Volatility, Multiple Whale Accounts Reducing Long Positions, Increasing Short Positions</title>
       <link>https://www.lookonchain.com/feeds/21730</link>
       <description>On July 24th, according to the monitoring of HyperInsight accessible at https://app.hyperliquid.xyz/join/NTOD, the cryptocurrency market witnessed a short-term volatility. There were changes in the Hyperliquid contract positions of whales. Some whales reduced their long positions and increased their short positions:The whale with the address beginning with 0x20c2d increased its ETH short position by approximately $970,000. The current unrealized loss is about $21.56 million, and the current liquidation price is around $4,899.The whale with the address starting with 0x469e9 reduced its ETH long position by 1,419 coins. The current unrealized gain is approximately $149,600, and the current liquidation price is $2,701.The whale with the address starting with 0x2ba55 reduced its ETH long position by 1,550 coins. The current unrealized gain is approximately $4.05 million, and the current liquidation price is $1,755.The whale with the address starting with 0x880ac increased its ETH short</description>
-      <pubDate>Thu, 24 Jul 2025 15:24:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:31:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21730</guid>
       <category>crypto</category>
@@ -145,7 +164,7 @@
       <title>LD Capital Founder Jack Yi: ETH&apos;s Strength is Nearing the End of Its Rally</title>
       <link>https://www.lookonchain.com/feeds/21729</link>
       <description>On July 24th, Jack Yi, the founder of LD Capital, posted on social media, saying, &quot;The strong upward momentum of ETH is approaching the end of consolidation. Originally, this was a major resistance level at which many OGs collectively exited their positions. In a bull market trend, regardless of any FUD, it is advisable to avoid shorting and try not to engage in short selling. Adhere to the trend and investment principles.&quot;</description>
-      <pubDate>Thu, 24 Jul 2025 15:24:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:31:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21729</guid>
       <category>crypto</category>
@@ -164,7 +183,7 @@
       <title>Solana has released the &quot;Internet Capital Markets&quot; roadmap, focusing on application-driven execution.</title>
       <link>https://www.lookonchain.com/feeds/21728</link>
       <description>On July 24th, the Solana Foundation disclosed the &quot;Internet Capital Markets&quot; roadmap. This roadmap was jointly authored by team members from the Solana Foundation, Anza, Jito Labs, DoubleZero, Drift, and Multicoin Capital, with application control execution serving as its core. The roadmap outlined six key trade-offs: the balance between Privacy and Transparency, the contrast between Throttling and Unthrottled Transactions, the trade-offs among Inclusivity, Finality, and Latency, the choice between Hosted and Geographically Distributed, the difference between Maker-First and Taker-First Priority, and the trade-off between Flexibility and Opinionated Architecture.In the short term, the Jito Labs team announced on Monday its Blockchain Assembly Market (BAM). BAM is a &quot;transaction processing system&quot; that provides powerful new tools for Solana validators, traders, and applications to enhance performance. BAM is set to launch at the end of this month, aiming to bring privacy and transpare</description>
-      <pubDate>Thu, 24 Jul 2025 15:24:59 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 15:31:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21728</guid>
       <category>crypto</category>
@@ -175,26 +194,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Strategy intends to increase the fundraising amount from $500 million to $2 billion, to be used to purchase Bitcoin</title>
-      <link>https://www.lookonchain.com/feeds/21727</link>
-      <description>On July 24th, as per Bloomberg, Strategy (formerly known as MicroStrategy) intends to expand the scale of its financing from $500 million to $2 billion with the aim of purchasing Bitcoin.</description>
-      <pubDate>Thu, 24 Jul 2025 15:16:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21727</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
