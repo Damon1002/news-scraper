@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 08:35:03 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 08:35:03 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 08:40:18 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 08:40:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,18 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Sky 联创半小时前领取了价值 130 万美元的 SKY 质押奖励，转移到其 SKY 回购地址</title>
+      <title>LBank已首发上线 U U本位永续合约</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，LBank已于2025年7月24日14:30 （SGT）首发上线U U本位永续合约，最高杠杆均为20倍。</description>
+      <pubDate>Thu, 24 Jul 2025 08:36:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Sky 联创半小时前领取了 SKY 质押奖励，转移到其 SKY 回购地址</title>
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师余烬（@EmberCN）监测，Sky（原 MakerDAO）联创 Rune 继续使用 $SKY 的质押奖励来回购 SKY。Rune 在半小时前领取了 SKY 质押奖励：190 万枚 USDS + 1037.8 万枚 SPK（价值 130 万美元），然后转移到其回购地址，目前正在将 SP...</description>
       <pubDate>Thu, 24 Jul 2025 08:33:00 +0000</pubDate>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>港股上市公司德林控股于7月24日发布数字金融发展三阶段战略规划。第一阶段将建立持牌虚拟资产场外交易及主经纪商业务；第二阶段打造RWA代币化及资产管理平台；第三阶段构建合规跨境数字资产基金生态。公司正积极扩展其现有香港证监会1号、4号及9号牌照在虚拟资产领域的业务覆盖范围，预计将于2025年10月前...</description>
       <pubDate>Thu, 24 Jul 2025 06:21:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>MIT毕业生兄弟操纵以太坊MEV机器人窃取2500万美元加密货币，法官驳回撤诉请求</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Cointelegraph报道，美国地区法官Jessica Clarke驳回了Anton和James Peraire-Bueno兄弟的撤诉请求，认定他们通过操纵以太坊网络MEV机器人窃取2500万美元加密货币的行为构成电信欺诈。这对MIT毕业生兄弟仅用12秒就完成了这一前所未有的漏洞利用，他们使...</description>
-      <pubDate>Thu, 24 Jul 2025 06:18:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
