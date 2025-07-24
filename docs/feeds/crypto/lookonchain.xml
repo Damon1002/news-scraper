@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 02:28:15 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 02:28:15 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 03:14:57 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 03:14:57 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,138 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>LISTA surges to $0.35, up over 14% in the last 24 hours.</title>
+      <link>https://www.lookonchain.com/feeds/21622</link>
+      <description>On July 24th, based on HTX market data, LISTA experienced a surge to $0.35 and is currently trading at $0.3358, with a 14.7% increase in the past 24 hours.</description>
+      <pubDate>Thu, 24 Jul 2025 03:08:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21622</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bithumb to List LISTA and MERL KRW Trading Pairs</title>
+      <link>https://www.lookonchain.com/feeds/21621</link>
+      <description>On July 24th, according to an official announcement, Bithumb is going to list the trading pairs of LISTA/KRW and MERL/KRW.</description>
+      <pubDate>Thu, 24 Jul 2025 03:00:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21621</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will list DePHY Network (PHY) and open airdrop claiming to eligible users</title>
+      <link>https://www.lookonchain.com/feeds/21620</link>
+      <description>On July 24th, as per official channels, Binance Alpha is set to become the first platform to list DePHY Network (PHY) on July 26th.After Alpha trading commences, eligible users can access the Alpha activity page to claim an airdrop by using Binance Alpha points. Further details will be made public at a later time.</description>
+      <pubDate>Thu, 24 Jul 2025 02:56:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21620</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>AI Token BNKR&apos;s Market Cap on Base Chain Surpasses $67 Million, Reaching an All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/21619</link>
+      <description>On July 24th, based on GMGN data, the Base Layer AI token BankrCoin (BNKR) has exceeded a market capitalization of $67 million. It currently stands at $67.05 million and has reached a new all-time high with a 24-hour price increase of 42.87%.</description>
+      <pubDate>Thu, 24 Jul 2025 02:49:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21619</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale liquidated a PUMP short position, realizing a profit of $2.448 million</title>
+      <link>https://www.lookonchain.com/feeds/21618</link>
+      <description>On July 24th, as per the monitoring of Onchain Lens, a whale has completed its PUMP short position and achieved a profit of $2.448 million. It has also withdrawn all funds from Hyperliquid.</description>
+      <pubDate>Thu, 24 Jul 2025 02:48:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21618</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>A certain whale has once again increased its long position by acquiring 224.82 WBTC, equivalent to around $26.6 million.</title>
+      <link>https://www.lookonchain.com/feeds/21617</link>
+      <description>On July 24th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a certain whale once again increased its position by 224.82 WBTC, which is approximately $26.6 million. The total long position size has reached $135 million, and it is currently showing an unrealized gain of $5.621 million.This whale has collateralized 700.19 WBTC on Aave to borrow $40.25 million in stablecoins, and the health factor is 1.61. The average long price is $116,574, with an unrealized gain of $1.592 million.This whale is 10 times long BTC on Hyperliquid. The position size is $51.69 million, the entry price is $109,655.2, and it is currently showing an unrealized gain of $4.029 million.</description>
+      <pubDate>Thu, 24 Jul 2025 02:41:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21617</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Trump&apos;s Name Reportedly Appears in Epstein Files, White House Response Self-Contradictory</title>
+      <link>https://www.lookonchain.com/feeds/21616</link>
+      <description>July 24th. As per The Wall Street Journal, in May, U.S. Attorney General Pam Bondi informed former President Trump that there were a large number of individuals involved in the Epstein records, with his name included. The White House gave a contradictory response to this report: initially issuing a statement labeling it as &quot;fake news,&quot; but a White House official later informed Reuters that the government did not deny that Trump&apos;s name appeared in some documents, highlighting that Trump&apos;s name had already been incorporated in a batch of materials compiled by Bondi for conservative influencers in February.Trump had a close association with Epstein from the 1990s to the early 2000s. Trump&apos;s name appeared multiple times in the flight logs of Epstein&apos;s private jet during the 1990s. The names of Trump and several of his family members also appeared in Epstein&apos;s contact book along with hundreds of others. Recently, the Trump administration, contrary to its campaign pledge, stated tha</description>
+      <pubDate>Thu, 24 Jul 2025 02:33:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21616</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Trump to Visit Federal Reserve on Thursday</title>
       <link>https://www.lookonchain.com/feeds/21615</link>
       <description>On July 24th, at the White House: U.S. President Trump is scheduled to pay a visit to the Federal Reserve on Thursday. (FXStreet)</description>
-      <pubDate>Thu, 24 Jul 2025 02:24:23 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:24:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21615</guid>
       <category>crypto</category>
@@ -34,7 +162,7 @@
       <title>Azuki has announced a partnership with OpenSea to release the &quot;Azuki Mizuki Anime Shorts&quot; NFT series.</title>
       <link>https://www.lookonchain.com/feeds/21614</link>
       <description>On July 24th, Azuki announced that it is collaborating with OpenSea to release an ERC-1155 collection based on the Mizuki short film, named &quot;Azuki Mizuki Anime Shorts.&quot; The proceeds will be utilized to support the production of the Mizuki short film and the creators in bringing these stories to life.The first edition Mint will be open for one week, and then the regular edition Mint will be open for six months. The Mint price is 0.0014 ETH, with no wallet restrictions and no whitelist restrictions.</description>
-      <pubDate>Thu, 24 Jul 2025 02:16:23 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:16:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21614</guid>
       <category>crypto</category>
@@ -51,7 +179,7 @@
       <title>21Shares Partners with Societe Generale to Accelerate Coverage of the European Crypto Market</title>
       <link>https://www.lookonchain.com/feeds/21613</link>
       <description>On July 24th, as per Globenewswire, the cryptocurrency ETF issuer 21Shares declared a market-making agreement with France&apos;s Societe Generale. Societe Generale will offer over-the-counter trading liquidity support for 21Shares&apos; Bitcoin and Ethereum ETPs (ABTC, CBTC, AETH, CETH) on key fund platforms in Germany and Eastern Europe, thereby enabling these products to reach a more extensive group of institutional investors.</description>
-      <pubDate>Thu, 24 Jul 2025 02:08:23 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 02:14:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21613</guid>
       <category>crypto</category>
@@ -62,140 +190,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Asymmetric founder will lead the new Solana Treasury company, Accelerate, aiming to raise up to $1.51 billion in funding.</title>
-      <link>https://www.lookonchain.com/feeds/21612</link>
-      <description>On July 24th, as per Unchained, Joe McCann, who is the Founder and CEO of the crypto hedge fund Asymmetric Financial, is going to serve as the CEO of a new Solana treasury company named Accelerate. The company aims to raise up to $1.51 billion. It plans to obtain $800 million through a PIPE, $358.8 million through a SPAC, $250 million through convertible bonds, and sell $103.2 million in the form of SPAC warrants. If this fundraising round is accomplished, Accelerate will promptly start setting up a new Solana treasury or immediately become the largest SOL treasury management company in the market.</description>
-      <pubDate>Thu, 24 Jul 2025 02:08:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21612</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Listed on the Hong Kong Stock Exchange, Future Data Group&apos;s stock price surged over 10.29% intraday</title>
-      <link>https://www.lookonchain.com/feeds/21611</link>
-      <description>On July 24th, based on market data, the Hong Kong-listed company Future Data Group (HK8229) saw a rise of more than 10.29% during the day. Yesterday, it announced the signing of an RWA Service Agreement with Asian Brands Group.Imperial Pacific International (HK2447) rose by more than 5.04% during the day. On July 22nd, it announced the launch of a self-developed global stablecoin currency payment platform.</description>
-      <pubDate>Thu, 24 Jul 2025 02:00:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21611</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A Whale Goes Long on DOGE with 10x Leverage, Holding $19.82M Position</title>
-      <link>https://www.lookonchain.com/feeds/21610</link>
-      <description>On July 24th, as monitored by LookOnChain, &quot;Whale 0xc129&quot; sold 1,085 ETH and exchanged it for 3.92 million USDC. Then, it deposited this amount into Hyperliquid and took a 10-times long leverage on DOGE. The position size was 81.44 million coins, with a value of $19.82 million.</description>
-      <pubDate>Thu, 24 Jul 2025 01:56:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21610</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Two major whales/institutions that have recently been accumulating ETH have once again increased their holdings by 43,591 ETH, worth $145 million.</title>
-      <link>https://www.lookonchain.com/feeds/21609</link>
-      <description>On July 24th, as monitored by EmberCN, two recent whale/institutional investors who have been constantly amassing ETH (most likely belonging to companies/institutions implementing an ETH reserve plan) have further augmented their holdings by 43,591 ETH worth $145 million in the past few hours:The address &apos;0x8eE...b7d&apos; continued to accumulate 32,368 ETH worth $116 million through FalconX 6 hours ago. This address has amassed a total of 138,345 ETH worth $503 million since July 19th, with an average price of $3,644.Another whale/institution that has been accumulating ETH since July 14th through Kraken increased its holdings by 8,223 ETH worth $29.4 million 3 hours ago. This address has accumulated a total of 58,156 ETH worth $211 million, with an average price of $3,564.</description>
-      <pubDate>Thu, 24 Jul 2025 01:48:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21609</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum PoS Network Exit Queue Surges to 644,300 ETH, Marking the Longest Wait Time in Nearly a Year and a Half</title>
-      <link>https://www.lookonchain.com/feeds/21608</link>
-      <description>On July 24th, based on the data from the Validator Queue tracking website validatorqueue, there are currently approximately 644,300 ETH (valued at $23.4 billion at the current prices) in the withdrawal queue. This is the largest withdrawal queue since January 2024, and the withdrawal delays have been extended to 11 days and 4 hours.Despite the trend of unstaking, the market may not necessarily be under significant selling pressure. This is because the demand for staking from newly activated validators remains strong. Currently, there are 332,000 ETH (worth $1.2 billion) waiting to enter the network, and the admission queue has been extended to over 5 days and 18 hours, setting a new record since April 2024. The claim by the U.S. SEC that staking is not an illegal activity has further enhanced institutional interest in Ethereum. Data shows that since late May, the number of active validators has increased by 54,000, reaching a new all-time high of nearly 1.1 million.Andy Cron</description>
-      <pubDate>Thu, 24 Jul 2025 01:40:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21608</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A certain KAITO Staking Whale/Institution has transferred $2.82 million worth of KAITO to Binance</title>
-      <link>https://www.lookonchain.com/feeds/21607</link>
-      <description>On July 24th, according to on-chain analyst Ai Yi (@ai_9684xtpa), a whale or institution that staked KAITO two months ago transferred $2.82 million worth of KAITO to Binance 10 hours ago, incurring a loss of $1.17 million.On May 29th, they withdrew 1.79 million KAITO from Binance at an average price of $2.23, which was worth $3.99 million. During this period, the token price dropped by 43%.</description>
-      <pubDate>Thu, 24 Jul 2025 01:32:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21607</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>James Wynn has been liquidated for the fifth time in a row, with losses exceeding $380,000 on his Bitcoin and PEPE long positions.</title>
-      <link>https://www.lookonchain.com/feeds/21606</link>
-      <description>On July 24th, as per the monitoring of OnchainLens, James Wynn has consecutively been liquidated for the fifth time. His long positions of 40x Bitcoin and 10x PEPE have resulted in a loss of $385,729, and the current unrealized loss stands at $136,000.</description>
-      <pubDate>Thu, 24 Jul 2025 01:32:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21606</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
