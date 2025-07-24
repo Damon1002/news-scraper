@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 00:01:11 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 00:01:11 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 01:08:47 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 01:08:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Tesla&apos;s stock is down 4.41% in after-hours trading, with Musk warning of performance issues.</title>
-      <link>https://www.lookonchain.com/feeds/21584</link>
-      <description>On July 24th, based on market data, Tesla (TSLA.O) witnessed a 4.41% decline in after-hours trading, and the stock is currently trading at $317.74. Musk issued a warning regarding performance, stating that &quot;with the disappearance of U.S. subsidies, Tesla (TSLA.O) may experience several quarters of poor performance.&quot;Tesla&apos;s revenue for Q2 2025 is $22.496 billion, compared to $25.5 billion in the same period last year, while the market had expected $22.826 billion. The gross margin for Q2 2025 is 17.2%, compared to 16.3% in Q1 and 18% in the same period last year.</description>
-      <pubDate>Wed, 23 Jul 2025 23:49:17 +0000</pubDate>
+      <title>A Whale Deposits 2.12 Million SPX into Bybit Again, Worth $4.07 Million</title>
+      <link>https://www.lookonchain.com/feeds/21601</link>
+      <description>On July 24th, as per the monitoring of OnchainLens, a whale once more transferred 2.12 million SPX into Bybit, with a value of $4.07 million.Yesterday, the whale deposited 2.35 million SPX into Bybit, which was worth $4.53 million. On the 20th, they put 2.53 million SPX into Bybit, having a value of $4.55 million.</description>
+      <pubDate>Thu, 24 Jul 2025 01:00:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21584</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21601</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,120 +28,89 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The first major Cryptocurrency Policy Report in the US will be publicly released on July 30th.</title>
-      <link>https://www.lookonchain.com/feeds/21583</link>
-      <description>On July 24th, Bo Hines, the Digital Asset Policy Advisor at the White House, stated in a post that the President&apos;s Digital Asset Working Group has completed its first crucial cryptocurrency policy report, which is scheduled to be publicly released on July 30th.This report is the outcome of several months of collaboration among the working group led by David Sacks, Bo Hines, and high-level officials from the Treasury Department, the Commerce Department, the SEC, the CFTC, and other agencies. Its purpose is to implement the executive order signed by President Trump in January to enhance America&apos;s leadership in the cryptocurrency field. The report is anticipated to include regulatory and legislative suggestions, but the specific details remain unclear. The original tasks of the working group involve formulating a federal digital asset framework covering stablecoins (for which relevant procedures have been initiated in Congress) and exploring the possibility of establishing a national di</description>
-      <pubDate>Wed, 23 Jul 2025 23:48:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21583</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>U.S. Treasury Secretary: New Federal Reserve Chair Nominee Announcement Could Come in December or January Next Year</title>
-      <link>https://www.lookonchain.com/feeds/21582</link>
-      <description>On July 24th, US Treasury Secretary Yellen stated that a new nominee for the Fed chair might be announced in December or January of the following year. (Xinhua News)</description>
-      <pubDate>Wed, 23 Jul 2025 23:48:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21582</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>TRUMP Token has expanded to the TRON blockchain</title>
-      <link>https://www.lookonchain.com/feeds/21581</link>
-      <description>On July 24th, according to official information, the TRUMP token has now been extended to the TRON blockchain through LayerZero.</description>
-      <pubDate>Wed, 23 Jul 2025 23:40:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21581</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>White House Responds to Trump&apos;s Appearance in Epstein Files: Fake News</title>
-      <link>https://www.lookonchain.com/feeds/21580</link>
-      <description>On July 24th, as reported by The Wall Street Journal, senior U.S. government officials stated that Trump had been informed on multiple occasions that his name was included in Epstein&apos;s files. In response to this report, the White House asserted that this was a continuation of the &quot;fake news&quot; targeting the U.S. president and refuted the claim that he had been informed of his appearance in the report.A spokesperson for the White House said, &quot;This is merely a continuation of the fabricated fake news story by the Democratic Party and liberal media.&quot; (Golden Finance)</description>
-      <pubDate>Wed, 23 Jul 2025 23:16:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21580</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: Will Impose a Simple Tariff of 15% to 50% on Most Countries</title>
-      <link>https://www.lookonchain.com/feeds/21579</link>
-      <description>On July 24th, in local time on the 23rd, U.S. President Trump declared that he would impose a simple tariff ranging from 15% to 50% on most of the other countries in the world.Trump also mentioned that the United States is engaged in serious negotiations with the European Union. If they agree to provide access to U.S. businesses, the U.S. will permit them to pay lower tariffs. (Golden Tent)</description>
-      <pubDate>Wed, 23 Jul 2025 23:16:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21579</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Tesla&apos;s Q2 Bitcoin Holdings Value Surges by 30%, Now Worth $1.2 Billion</title>
-      <link>https://www.lookonchain.com/feeds/21578</link>
-      <description>On July 24th, based on the latest financial report, the Bitcoin held by Tesla witnessed a 30% price increase during the second quarter of this year. Its current market value is approximately $1.2 billion. This part of the gain was derived from the latest changes in US accounting standards - a new rule favorable to Tesla.According to the data from BitcoinTreasuries.Net, Tesla currently holds 11,509 bitcoins and ranks tenth among public companies globally in terms of holding cryptocurrency assets. The current Bitcoin price is around $118,000, which is a significant increase compared to $83,000 on April 1st.Previously, the Financial Accounting Standards Board (FASB) approved a new rule allowing companies to report their cryptocurrency holdings at fair market value every quarter starting from the first quarter of 2025. This change replaced the previous conservative approach of &quot;being held at the lowest value.&quot; Previously, even if Bitcoin soared in value during the holding period, the c</description>
-      <pubDate>Wed, 23 Jul 2025 23:08:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21578</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>WLFI increased its ETH holdings by 560.71 coins, at an average price of $3,567.</title>
-      <link>https://www.lookonchain.com/feeds/21577</link>
-      <description>On July 24th, as per the monitoring of Onchain Lens, the crypto project WLFI, which belongs to Trump, used 2 million USDC to purchase 560.71 ETH at a price of $3567 per coin.</description>
-      <pubDate>Wed, 23 Jul 2025 18:00:17 +0000</pubDate>
+      <title>「Big Brother Pump」 Huang Licheng holds and is long PUMP with a total unrealized loss of over $5.8 million</title>
+      <link>https://www.lookonchain.com/feeds/21599</link>
+      <description>On July 24th, as per the monitoring of LookOnChain, &quot;Brother Whale&quot; Huang Licheng is currently longing for PUMP on Hyperliquid and is currently facing a loss of 5.8 million US dollars that has not been realized. He took a long position on PUMP with 5 times leverage, and the position value is 12.12 million US dollars.</description>
+      <pubDate>Thu, 24 Jul 2025 00:56:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21577</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21599</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>TRON&apos;s weekly average on-chain transaction fee has dropped from 2.47 TRX to 0.72 TRX.</title>
+      <link>https://www.lookonchain.com/feeds/21598</link>
+      <description>On July 24th, as monitored by LookOnChain, since Tron TRX introduced the Gas-Free feature (developed in 2024 and officially launched in early 2025), the average weekly transaction fee has dropped from 2.47 TRX to 0.72 TRX.</description>
+      <pubDate>Thu, 24 Jul 2025 00:56:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21598</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>REX-Osprey SOL Spot ETF had no net flows yesterday, with total net inflows reaching $105.4 million</title>
+      <link>https://www.lookonchain.com/feeds/21600</link>
+      <description>On July 24th, as per the monitoring by Farside Investors, yesterday the REX-Osprey SOL Spot ETF witnessed no net flows. Since its listing, it has had a total net inflow of $105.4 million.</description>
+      <pubDate>Thu, 24 Jul 2025 00:56:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21600</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A certain PUMP private sale participant institution transferred 3.75 billion PUMP tokens to Coinbase, equivalent to around $14.3 million.</title>
+      <link>https://www.lookonchain.com/feeds/21596</link>
+      <description>On July 24th, as monitored by EmberCN, an institution that utilized 15 million USDC to privately place 3.75 billion PUMP transferred all the tokens (approximately $14.3 million) to Coinbase Prime.The institution incurred a loss of $700,000 on PUMP. It participated in the private placement with 15 million USDC, and the current remaining value is $14.3 million.</description>
+      <pubDate>Thu, 24 Jul 2025 00:48:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21596</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Two New Addresses Recently Accumulated Over $600 Million Worth of ETH</title>
+      <link>https://www.lookonchain.com/feeds/21595</link>
+      <description>On July 24th, as monitored by OnchainLens, there is an increase in the holdings of ETH by new wallets and whales/institutions.The wallet &quot;0xd47&quot; withdrew 32,902 ETH from Kraken within the past 5 days, with a value of $1.1942 billion.The wallet &quot;0x8eE&quot; acquired 32,368 ETH from FalconX, worth $1.1672 billion. And in the past 5 days, it has received a total of 138,345 ETH, with a value of $5.01 billion.</description>
+      <pubDate>Thu, 24 Jul 2025 00:48:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21595</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -156,12 +125,64 @@
 
     </item>
     <item>
-      <title>ETH/BTC 24-hour Price Decreased by Over 3%, Currently Trading at 0.03041</title>
-      <link>https://www.lookonchain.com/feeds/21576</link>
-      <description>On July 24th, according to HTX market data, the exchange rate of ETH to BTC has seen a 24-hour decline of 3.06% and is currently trading at 0.03041.</description>
-      <pubDate>Wed, 23 Jul 2025 17:00:17 +0000</pubDate>
+      <title>Affected by the Prospects of a US-EU Trade Agreement, European Stock Index Futures Rise</title>
+      <link>https://www.lookonchain.com/feeds/21597</link>
+      <description>On July 24th, based on market data, due to the optimism regarding the potential US-EU trade agreement, the futures of the European Stoxx 50 index increased by 1.3%, the futures of Germany&apos;s DAX index rose by 1.2%, and the futures of the UK&apos;s FTSE 100 index went up by 0.5%.</description>
+      <pubDate>Thu, 24 Jul 2025 00:48:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21576</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21597</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Law firms Burwick Law and Wolf Popper expand the scope of litigation against Pump.fun</title>
+      <link>https://www.lookonchain.com/feeds/21594</link>
+      <description>On July 24th, as reported by TheBlock, law firms Burwick Law and Wolf Popper have enlarged the lawsuit against Pump.fun. They have added the Solana Foundation, Solana Labs, Jito, and several senior figures in the Solana ecosystem as defendants. In an amended complaint filed on Wednesday, these two law firms have brought Racketeer Influenced and Corrupt Organizations Act (RICO) charges. It is alleged that Pump.fun violated multiple U.S. financial crime prevention regulations, failed to implement anti-money laundering measures, exposed the public to criminal risks, and assisted in creating and promoting illicit tokens, thereby violating trademark law. The lawsuit indicates that Pump.fun made a profit of $7.2285 billion by relying on an &quot;illegal gambling business.&quot; Meanwhile, Jito Labs is accused of intercepting profitable transactions and directing them to the highest bidder.</description>
+      <pubDate>Thu, 24 Jul 2025 00:40:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21594</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Since launching its Gas-Free feature (developed in 2024 and rolled out in early 2025), #Tron&apos;s average weekly transaction fee has dropped from 2.47 $TRX to 0.72 $TRX — a massive 70%+ reduction!</title>
+      <link>https://www.lookonchain.com/feeds/21593</link>
+      <description>Since launching its Gas-Free feature (developed in 2024 and rolled out in early 2025), #Tron&apos;s average weekly transaction fee has dropped from 2.47 $TRX to 0.72 $TRX — a massive 70%+ reduction!</description>
+      <pubDate>Thu, 24 Jul 2025 00:40:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21593</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Breaks $119,000, 24-hour Loss Narrows to 0.58%</title>
+      <link>https://www.lookonchain.com/feeds/21592</link>
+      <description>On July 24th, based on HTX market data, Bitcoin surged past $119,000, and the 24-hour decline was narrowed to 0.58%.</description>
+      <pubDate>Thu, 24 Jul 2025 00:40:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21592</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -172,25 +193,7 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>EU Diplomat: The EU and the US are moving towards a possible trade agreement, with the US imposing a 15% tariff on EU goods</title>
-      <link>https://www.lookonchain.com/feeds/21575</link>
-      <description>On July 24th, EU diplomats stated that the EU and the US are progressing towards a potential trade agreement, and the US&apos;s baseline tariff on EU goods is 15%.The potential EU-US agreement may contain exemption clauses for certain EU goods. EU member states will vote on imposing a €93 billion retaliatory tariff on US goods on Thursday.</description>
-      <pubDate>Wed, 23 Jul 2025 16:00:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21575</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
   </channel>
