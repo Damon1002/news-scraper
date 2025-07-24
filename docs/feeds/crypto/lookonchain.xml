@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Jul 2025 13:03:12 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Jul 2025 13:03:12 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 13:14:38 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 13:14:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitmine Updates ETH Holdings: Holds 566,776 ETH, Valued at Over $2 Billion</title>
+      <link>https://www.lookonchain.com/feeds/21710</link>
+      <description>On July 24th, Bitmine updated its holdings of ETH. As of 11:59 PM EDT on July 23rd, 2025 (11:59 AM Beijing Time on the same day), Bitmine held a total of 566,776 ETH, with a value of more than 2 billion US dollars.</description>
+      <pubDate>Thu, 24 Jul 2025 13:08:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21710</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The initial jobless claims in the US unexpectedly decreased last week, keeping the labor market stable.</title>
+      <link>https://www.lookonchain.com/feeds/21709</link>
+      <description>On July 24th, last week in the United States, the number of initial jobless claims unexpectedly dropped, suggesting a stable labor market situation. Nevertheless, the slowdown in hiring has made it harder for many laid-off workers to obtain new job opportunities. The data released by the U.S. Department of Labor on Thursday indicated that for the week ending July 19th, the seasonally adjusted initial unemployment claims decreased by 4,000 to 217,000, which was lower than expected. This data has shown a retreat since the initial claims reached an eight-month high in early June.The report also revealed that for the week ending July 12th, the seasonally adjusted continued claims increased by 4,000 to 1.955 million. Goldman Sachs economist Elsie Peng wrote in the report: &quot;Looking ahead, we anticipate that the &apos;stabilization threshold&apos; of employment growth—the monthly net job additions required to maintain a stable unemployment rate—will gradually decrease from the current estimated 90,00</description>
+      <pubDate>Thu, 24 Jul 2025 13:00:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21709</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Belgravia Hartford has increased its holdings by 25 BTC, bringing the total holdings to 40.8 BTC.</title>
       <link>https://www.lookonchain.com/feeds/21708</link>
       <description>On July 24th, the publicly-listed company Belgravia Hartford in Canada increased its holdings by 25 BTC, and its total holdings reached 40.8 BTC.</description>
-      <pubDate>Thu, 24 Jul 2025 13:00:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 13:00:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21708</guid>
       <category>crypto</category>
@@ -36,26 +73,9 @@
       <title>USDC and CCTP V2 have officially launched on the Sei Network</title>
       <link>https://www.lookonchain.com/feeds/21707</link>
       <description>On July 24th, the native USDC was officially launched on the Sei network with CCTP V2. Circle Mint provides full support for native USDC on Sei, enabling institutional users to access USDC liquidity through Sei&apos;s high-performance infrastructure. By leveraging Sei&apos;s high-performance architecture, over 13-chain cross-chain stablecoin transfers can be achieved without bridging and slippage.The old version Sei USDC.n can still be used, and its users will gradually migrate to the new version of Sei native USDC. Sei is accelerating its pace to become a core infrastructure for cross-chain finance. The native USDC has brought institutional-grade financial infrastructure to Sei. Unlike cross-chain bridged tokens with counterparty risks and usage friction, Sei&apos;s native USDC is directly issued by Circle on Sei, providing developers with the trust and capital efficiency they need.</description>
-      <pubDate>Thu, 24 Jul 2025 13:00:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 13:00:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21707</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The initial jobless claims in the US unexpectedly decreased last week, keeping the labor market stable.</title>
-      <link>https://www.lookonchain.com/feeds/21709</link>
-      <description>On July 24th, last week in the United States, the number of initial jobless claims unexpectedly dropped, suggesting a stable labor market situation. Nevertheless, the slowdown in hiring has made it harder for many laid-off workers to obtain new job opportunities. The data released by the U.S. Department of Labor on Thursday indicated that for the week ending July 19th, the seasonally adjusted initial unemployment claims decreased by 4,000 to 217,000, which was lower than expected. This data has shown a retreat since the initial claims reached an eight-month high in early June.The report also revealed that for the week ending July 12th, the seasonally adjusted continued claims increased by 4,000 to 1.955 million. Goldman Sachs economist Elsie Peng wrote in the report: &quot;Looking ahead, we anticipate that the &apos;stabilization threshold&apos; of employment growth—the monthly net job additions required to maintain a stable unemployment rate—will gradually decrease from the current estimated 90,00</description>
-      <pubDate>Thu, 24 Jul 2025 13:00:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21709</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -70,7 +90,7 @@
       <title>Satsuma Technology Raises $135 Million to Establish Bitcoin Treasury</title>
       <link>https://www.lookonchain.com/feeds/21706</link>
       <description>On July 24th, as per Cointelegraph, the London-based artificial intelligence company Satsuma Technology has secured ￡100 million (approximately $135 million) to establish a Bitcoin treasury, thereby setting a record for Bitcoin treasury fundraising in the UK.The company declared that it has achieved a higher amount than the targeted one, and all the committed funds are anticipated to be in place within the next two weeks. If all the funds are converted into Bitcoin, this acquisition will position Satsuma as the second-largest corporate Bitcoin holder in the UK, trailing only The Smarter Web Company, which holds 1600 BTC (valued at around $190 million).</description>
-      <pubDate>Thu, 24 Jul 2025 12:56:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:56:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21706</guid>
       <category>crypto</category>
@@ -90,7 +110,7 @@
       <title>REX-Osprey to Include JitoSOL in its Solana Staking ETF Investment Portfolio</title>
       <link>https://www.lookonchain.com/feeds/21705</link>
       <description>On July 24th, REX-Osprey announced the official inclusion of the staking token JitoSOL of the Solana ecosystem in the REX-Osprey Solana + Staking ETF (SSK) portfolio. This upgrade allows the ETF to maintain liquidity, transparency, and the convenience of traditional brokerage trading while receiving the native staking rewards of Solana.Since its listing on July 2nd, the assets under management (AUM) of the SSK have exceeded $100 million, reflecting the increasing demand from investors to allocate crypto assets through traditional accounts.Greg King, CEO of REX Financial and Osprey Funds, stated: &quot;SSK is the first product to bring crypto staking rewards into a U.S. ETF. By now integrating JitoSOL for liquid staking, we have further enhanced liquidity while continuously delivering Solana&apos;s native yield within the ETF structure.&quot;</description>
-      <pubDate>Thu, 24 Jul 2025 12:48:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:48:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21705</guid>
       <category>crypto</category>
@@ -107,7 +127,7 @@
       <title>Binance now supports using USYC and cUSDO as off-chain collateral</title>
       <link>https://www.lookonchain.com/feeds/21704</link>
       <description>On July 24th, as per official information, Binance has now officially extended its institutional over-the-counter settlement service and added support for two tokenized real-world assets (RWA) as collateral, namely USYC and cUSDO. Institutional users are now able to utilize these yield-bearing tokenized stable assets as collateral through Banking Triparty custody and MirrorRSV. They can maintain off-platform custody and optimize capital efficiency while conducting secure trading on the Binance platform.</description>
-      <pubDate>Thu, 24 Jul 2025 12:40:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:40:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21704</guid>
       <category>crypto</category>
@@ -124,7 +144,7 @@
       <title>Affected by Musk&apos;s announcement to relaunch Vine in AI form, the meme coin VINE experienced a short-term price surge of over 102%.</title>
       <link>https://www.lookonchain.com/feeds/21703</link>
       <description>On July 24th, according to the market information of GMGN, due to Musk&apos;s announcement of relaunching Vine as an AI, the Solana-based meme coin VINE has surged and exceeded a market capitalization of $80 million. It is now at $81.02 million, with a 24-hour increase of more than 102%.</description>
-      <pubDate>Thu, 24 Jul 2025 12:32:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:32:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21703</guid>
       <category>crypto</category>
@@ -141,7 +161,7 @@
       <title>In the week ending on July 19, initial jobless claims in the United States were 217,000, compared to the expected 226,000.</title>
       <link>https://www.lookonchain.com/feeds/21702</link>
       <description>July 24th: In the United States, for the week ending July 19th, the initial jobless claims were 217,000. This was in contrast to the expected value of 226,000 and the previous value of 221,000. (FXStreet)</description>
-      <pubDate>Thu, 24 Jul 2025 12:32:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:32:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21702</guid>
       <category>crypto</category>
@@ -158,26 +178,9 @@
       <title>Musk: Will Relaunch Vine in AI Form</title>
       <link>https://www.lookonchain.com/feeds/21701</link>
       <description>On July 24th, Musk tweeted, &quot;We are going to relaunch Vine in an AI form.&quot;</description>
-      <pubDate>Thu, 24 Jul 2025 12:32:20 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:32:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21701</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>European Central Bank Holds Interest Rate Steady, Monitors Progress of US-EU Trade Negotiations</title>
-      <link>https://www.lookonchain.com/feeds/21700</link>
-      <description>July 24th - On Thursday, the European Central Bank (ECB) maintained its key interest rate at 2%. It was waiting for clearer indications regarding the direction of EU-US trade relations. Current inflation has dropped back to the 2% target level, and the rate has been reduced from 4% to 2% since June of last year. The policy pressure on the ECB has significantly eased. The ECB stated that it would continue to adhere to a &quot;meeting-by-meeting&quot; policy without predefined interest rate paths, with all decisions based on the latest data.The statement suggested that the latest information generally aligns with previous judgments on the inflation outlook. Domestic price pressures are continuing to ease, and wage growth is slowing down. The market is still anticipating at least one more rate cut later this year. Market focus has shifted to President Lagarde&apos;s subsequent press conference, where she is likely to face intense questioning about whether to continue cutting rates in the future, the s</description>
-      <pubDate>Thu, 24 Jul 2025 12:24:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21700</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
