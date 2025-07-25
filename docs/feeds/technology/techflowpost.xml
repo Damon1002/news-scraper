@@ -5,19 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml</link>
     <description>Latest technology news from 深潮</description>
     <language>en-US</language>
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 25 Jul 2025 15:50:49 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 15:50:49 +0000</pubDate>
-=======
-    <lastBuildDate>Fri, 25 Jul 2025 15:47:43 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 15:47:43 +0000</pubDate>
->>>>>>> origin/main
+    <lastBuildDate>Fri, 25 Jul 2025 15:55:29 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 15:55:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>分析师：昨日被激活的持有 3,962 枚比特币远古巨鲸或也将“出货”</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，昨日被激活的持有 3,962 枚比特币远古巨鲸或将“出货”。该地址昨天进行了自 2011.01 以来的首次对外转账，而接收地址在 2 小时前将 50 枚 BTC 转移至地址 bc1q5,,,zr2xn，后者归属未知，但曾与 Coinbase，...</description>
+      <pubDate>Fri, 25 Jul 2025 15:53:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>technology</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>过去 24 小时全网爆仓 5.18 亿美元，主爆多单</title>
       <link>https://www.techflowpost.com</link>
@@ -276,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Cointelegraph 报道，越南宣布启动国家区块链平台 NDAChain，该平台将作为其数字生态系统的核心基础设施。NDAChain 由越南国家数据协会（NDA）开发，由公安部数据创新与开发中心运营。该平台采用权威证明（PoA）共识协议，配备零知识证明技术增强安全性，拥有 49 个公私合...</description>
       <pubDate>Fri, 25 Jul 2025 13:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>technology</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>贝莱德前数字资产战略主管 Joseph Chalom 加入 SharpLink 担任联席 CEO</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 SharpLink 披露，贝莱德前数字资产战略主管Joseph Chalom 已加入美股上市公司 SharpLink (SBET) 担任联席 CEO 。据介绍，Joseph Chalom 在贝莱德工作二十年期间，曾帮助推出管理资产超过 870 亿美元的 IBIT 、管理资产超过 100 亿美元...</description>
-      <pubDate>Fri, 25 Jul 2025 12:51:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>technology</category>
