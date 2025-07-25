@@ -5,8 +5,23 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 25 Jul 2025 15:44:50 +0000</lastBuildDate>
     <pubDate>Fri, 25 Jul 2025 15:44:50 +0000</pubDate>
+=======
+<<<<<<< HEAD
+    <lastBuildDate>Fri, 25 Jul 2025 15:44:32 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 15:44:32 +0000</pubDate>
+=======
+<<<<<<< HEAD
+    <lastBuildDate>Fri, 25 Jul 2025 15:41:29 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 15:41:29 +0000</pubDate>
+=======
+    <lastBuildDate>Fri, 25 Jul 2025 15:41:24 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 15:41:24 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +32,19 @@
       <title>Whale &quot;Sets 10 Major Goals&quot; After Previously Closing Short Position with Profit, Opens New Short at $116,065.2 for BTC</title>
       <link>https://www.lookonchain.com/feeds/21890</link>
       <description>On July 25th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the whale known as &quot;Setting 10 Big Targets First&quot; has closed its previous short positions in BTC and ETH. It has selected new entry points and opened new short positions.Previous Positions:The short entry price of BTC was $119,425, with an intraday high floating profit of $8.5 million. It was then speculated that this position was closed for profit-taking. The short entry price of ETH was $3,528.85, and it is speculated that this position was stopped out with a loss.Current Position:It is continuing to short BTC with a new entry price of $116,065.2.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 15:32:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:32:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:32:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 15:32:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21890</guid>
       <category>crypto</category>
@@ -39,7 +66,19 @@
       <title>The US Department of Justice is considering charging DragonFly employees in the Tornado Cash case.</title>
       <link>https://www.lookonchain.com/feeds/21889</link>
       <description>On July 25th, as per crypto journalist Eleanor Terrett, in the latest trial update regarding Tornado Cash&apos;s co-founder and developer Roman Storm, Assistant Prosecutor Rehn disclosed that the U.S. Department of Justice (DOJ) seemingly is still in the process of considering bringing charges against an undisclosed number of DragonFly&apos;s employees. It is not merely limited to DragonFly&apos;s General Partner Tom Schmidt.Dragonfly is the venture capital firm that backs Tornado Cash. Yesterday in court, emails between Roman Storm and DragonFly&apos;s General Partner Tom Schmidt were presented. One of the emails showed that Storm and his team were seeking feedback on adding Know Your Customer (KYC) to the platform. The defense had requested Schmidt to testify, but he invoked the Fifth Amendment right through his lawyer (the right to refuse to testify). The trial will continue next week, and more information is expected at that time. Closing arguments are also anticipated to take place next week.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 15:16:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:16:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:16:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 15:16:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21889</guid>
       <category>crypto</category>
@@ -56,7 +95,19 @@
       <title>If Bitcoin drops below $114,000, the mainstream CEX long liquidation pressure will reach $1.78 billion</title>
       <link>https://www.lookonchain.com/feeds/21888</link>
       <description>On July 25th, according to Coinglass data, in the event that Bitcoin drops below $114,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $1.78 billion.On the other hand, if Bitcoin surges above $117,000, the cumulative intensity of short liquidation on mainstream CEXs will reach $1.09 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, intensity.Consequently, the liquidation chart shows to what degree the price of the underlying asset will be influenced when it attains a certain level. A higher &quot;liquidation bar&quot; indicates that the price, upon reaching that level, will react more vigorously due to a liquidity avalanche.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 15:08:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:08:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:08:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 15:08:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21888</guid>
       <category>crypto</category>
@@ -76,7 +127,19 @@
       <title>Bitcoin Falls Below $115,000, 24-hour Decline of 3.39%</title>
       <link>https://www.lookonchain.com/feeds/21887</link>
       <description>On July 25th, according to HTX market data, Bitcoin fell below $115,000, experiencing a 24-hour decline of 3.39%.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 15:00:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:00:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 15:00:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 15:00:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21887</guid>
       <category>crypto</category>
@@ -96,7 +159,19 @@
       <title>Pantera Founder: Blockchains like Ethereum and Solana Have Advantages that Bitcoin Does Not</title>
       <link>https://www.lookonchain.com/feeds/21886</link>
       <description>On July 25th, according to a report in Fortune, the founder of Pantera Capital emphasized the reasons for investing in a diversified portfolio of blockchain and projects during an interview. &quot;There isn&apos;t just one internet company, is there? That&apos;s precisely how I view blockchain. Although Bitcoin is dominant, its use cases are relatively limited, especially in the context where supporters are promoting decentralized finance applications such as payments and lending. Other blockchains like Ethereum and Solana have advantages that Bitcoin lacks, including faster speeds, programmability, and lower transaction fees. Stablecoins are expected to bring about a breakthrough for the entire industry. Especially as banks and major tech companies start to explore this area. As the trend of enterprises adopting stablecoins strengthens, it will attract more participants to join the blockchain ecosystem.&quot;</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 14:56:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:56:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:56:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 14:56:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21886</guid>
       <category>crypto</category>
@@ -117,7 +192,19 @@
       <title>Bitget has launched BTC-margined TAG and ASP perpetual contracts</title>
       <link>https://www.lookonchain.com/feeds/21885</link>
       <description>On July 25th, as per an official announcement, Bitget has declared the commencement of U-based TAG and ASP perpetual contracts, and the contract trading BOT will be opened simultaneously.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 14:56:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:56:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:56:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 14:56:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21885</guid>
       <category>crypto</category>
@@ -136,7 +223,19 @@
       <title>Hong Kong Stock Exchange-listed Company Multipoint Group Completes HKD 393 Million Share Placement, With Proceeds Partially Used for Stablecoin and Blockchain Research and Development Investment</title>
       <link>https://www.lookonchain.com/feeds/21884</link>
       <description>On July 25th, the Hong Kong-listed company DigiMax Group (02586.HK) announced the successful completion of a private placement worth HK$393 million. 50% of the net proceeds will be allocated to the research and development investment and technological advancement of stablecoins and blockchain. Specifically, all of these funds will be used to cover the staff costs of the company&apos;s blockchain experts for the development and maintenance of systems and interfaces related to new business development, including various systems in areas such as trading, reserve management, settlement, clearing, compliance, and issuance. It is expected that these funds will be utilized by the end of 2026.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 14:48:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:48:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:48:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 14:48:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21884</guid>
       <category>crypto</category>
@@ -154,7 +253,19 @@
       <title>EU Official: EU-US Trade Framework Agreement Could Be Reached This Weekend</title>
       <link>https://www.lookonchain.com/feeds/21883</link>
       <description>On July 25th, EU officials and diplomats indicated that the EU-US Trade Framework Agreement might be reached during this weekend. (FXStreet)</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 14:43:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:43:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:40:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 14:40:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21883</guid>
       <category>crypto</category>
@@ -171,7 +282,19 @@
       <title>Ethereum&apos;s net supply in the past 7 days has increased by 17,333 coins, and the supply&apos;s annual growth rate is currently at 0.748%.</title>
       <link>https://www.lookonchain.com/feeds/21882</link>
       <description>On July 25th, based on the data from Ultrasound.money, the net issuance of Ethereum over the past 7 days has increased by 17,333 ETH. There is an approximate issuance of 18,600 ETH, and 1,266.6 ETH has been destroyed through the burning mechanism.The total Ethereum supply has now reached 120,927,828 ETH, and the current supply growth rate is 0.748% per year.</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 14:43:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:43:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:40:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 14:40:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21882</guid>
       <category>crypto</category>
@@ -190,7 +313,19 @@
       <title>Spot Gold Plunges Over 1.00% Intraday, Now Trading at $3334.20 per Ounce</title>
       <link>https://www.lookonchain.com/feeds/21881</link>
       <description>On July 25th, spot gold dropped by more than 1.00% during the trading day. It is now trading at $3334.20 per ounce. (Oriental Wealth)</description>
+<<<<<<< HEAD
       <pubDate>Fri, 25 Jul 2025 14:43:57 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:43:39 +0000</pubDate>
+=======
+<<<<<<< HEAD
+      <pubDate>Fri, 25 Jul 2025 14:40:36 +0000</pubDate>
+=======
+      <pubDate>Fri, 25 Jul 2025 14:40:31 +0000</pubDate>
+>>>>>>> origin/main
+>>>>>>> origin/main
+>>>>>>> origin/main
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21881</guid>
       <category>crypto</category>
