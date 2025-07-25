@@ -62,3 +62,32 @@ export interface FeedMetadata {
   lastBuildDate: Date;
   ttl: number;
 }
+
+export interface CachedNewsItem {
+  id: string;
+  title: string;
+  description?: string;
+  source: string;
+  sourceUrl: string;
+  category: NewsCategory;
+  tags: string[];
+  publishedAt: string; // ISO string for JSON serialization
+  scrapedAt: string;   // ISO string for JSON serialization
+  rank?: number;
+  imageUrl?: string;
+  contentHash: string; // Hash of content for change detection
+}
+
+export interface SourceCache {
+  sourceId: string;
+  category: NewsCategory;
+  lastUpdate: string; // ISO string
+  items: CachedNewsItem[];
+  itemsHash: string; // Hash of all items for quick comparison
+}
+
+export interface CacheData {
+  version: string;
+  lastUpdate: string; // ISO string
+  sources: Record<string, SourceCache>; // key: `${sourceId}_${category}`
+}

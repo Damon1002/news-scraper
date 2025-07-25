@@ -2,6 +2,7 @@ import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { ConfigLoader } from './utils/ConfigLoader.js';
 import { RSSGenerator } from './utils/RSSGenerator.js';
 import { FeedRegistryManager } from './utils/FeedRegistry.js';
+import { CacheManager } from './utils/CacheManager.js';
 import { NewsSource } from './sources/NewsSource.js';
 import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
@@ -18,12 +19,14 @@ export class NewsAggregator {
   private configLoader: ConfigLoader;
   private rssGenerator: RSSGenerator;
   private feedRegistry: FeedRegistryManager;
+  private cacheManager: CacheManager;
   private sources: Map<string, NewsSource> = new Map();
 
   constructor() {
     this.configLoader = ConfigLoader.getInstance();
     this.rssGenerator = new RSSGenerator();
     this.feedRegistry = new FeedRegistryManager();
+    this.cacheManager = CacheManager.getInstance();
   }
 
   public async initialize(): Promise<void> {
@@ -41,7 +44,22 @@ export class NewsAggregator {
       mkdirSync(outputDir, { recursive: true });
     }
 
+    // Ensure cache directory exists
+    const cacheDir = 'cache';
+    if (!existsSync(cacheDir)) {
+      mkdirSync(cacheDir, { recursive: true });
+    }
+
     console.log(`✅ Initialized ${this.sources.size} news sources`);
+    
+    // Display cache statistics
+    const cacheStats = this.cacheManager.getCacheStats();
+    console.log(`📦 Cache loaded: ${cacheStats.totalSources} sources, ${cacheStats.totalItems} items`);
+    if (cacheStats.totalSources > 0) {
+      const cacheAge = this.cacheManager.getOldestCacheAge();
+      const ageHours = Math.round(cacheAge / (1000 * 60 * 60) * 10) / 10;
+      console.log(`📅 Oldest cache: ${ageHours} hours ago`);
+    }
   }
 
   private createSource(config: SourceConfig): NewsSource {
@@ -121,10 +139,13 @@ export class NewsAggregator {
     const results: ScrapingResult[] = [];
     const promises: Promise<ScrapingResult>[] = [];
     const activeSourceIds: string[] = [];
+    const cacheHits: ScrapingResult[] = [];
 
+    // First check cache and only scrape sources with changes
     for (const [sourceId, source] of this.sources) {
       if (source.getSupportedCategories().includes(category)) {
-        console.log(`  🔄 Scraping ${sourceId} for ${category}...`);
+        // Try to get fresh data first to compare with cache
+        console.log(`  🔄 Checking ${sourceId} for ${category} changes...`);
         promises.push(source.scrapeCategory(category));
         activeSourceIds.push(sourceId);
       }
@@ -134,20 +155,73 @@ export class NewsAggregator {
     
     scrapingResults.forEach((result, index) => {
       if (result.status === 'fulfilled') {
-        results.push(result.value);
         const sourceId = activeSourceIds[index];
         
         if (result.value.success) {
-          console.log(`    ✅ ${sourceId}: ${result.value.items.length} items`);
+          // Check if items have changed compared to cache
+          const hasChanges = this.cacheManager.hasChanges(sourceId, category, result.value.items);
+          
+          if (hasChanges) {
+            // Update cache with new items
+            this.cacheManager.updateCache(sourceId, category, result.value.items);
+            results.push(result.value);
+            console.log(`    ✅ ${sourceId}: ${result.value.items.length} items (updated)`);
+          } else {
+            // Use cached items
+            const cachedItems = this.cacheManager.getCachedItems(sourceId, category);
+            const cachedResult: ScrapingResult = {
+              items: cachedItems,
+              success: true,
+              timestamp: new Date(),
+              source: result.value.source,
+              category: category
+            };
+            cacheHits.push(cachedResult);
+            console.log(`    📦 ${sourceId}: ${cachedItems.length} items (cached)`);
+          }
         } else {
-          console.log(`    ❌ ${sourceId}: ${result.value.error}`);
+          // If scraping failed, try to use cached items as fallback
+          const cachedItems = this.cacheManager.getCachedItems(sourceId, category);
+          if (cachedItems.length > 0) {
+            const cachedResult: ScrapingResult = {
+              items: cachedItems,
+              success: true,
+              timestamp: new Date(),
+              source: result.value.source,
+              category: category
+            };
+            cacheHits.push(cachedResult);
+            console.log(`    📦 ${sourceId}: ${cachedItems.length} items (cached fallback) - scraping failed: ${result.value.error}`);
+          } else {
+            results.push(result.value);
+            console.log(`    ❌ ${sourceId}: ${result.value.error}`);
+          }
         }
       } else {
-        console.log(`    ❌ Source failed: ${result.reason}`);
+        const sourceId = activeSourceIds[index];
+        // Try to use cached items as fallback
+        const cachedItems = this.cacheManager.getCachedItems(sourceId, category);
+        if (cachedItems.length > 0) {
+          const cachedResult: ScrapingResult = {
+            items: cachedItems,
+            success: true,
+            timestamp: new Date(),
+            source: sourceId,
+            category: category
+          };
+          cacheHits.push(cachedResult);
+          console.log(`    📦 ${sourceId}: ${cachedItems.length} items (cached fallback) - source failed: ${result.reason}`);
+        } else {
+          console.log(`    ❌ Source failed: ${result.reason}`);
+        }
       }
     });
 
-    return results;
+    // Save cache after processing all sources
+    this.cacheManager.saveCache();
+
+    // Combine fresh results with cache hits
+    return [...results, ...cacheHits];
   }
 
   private consolidateResults(results: ScrapingResult[]): NewsItem[] {
@@ -315,5 +389,29 @@ export class NewsAggregator {
     console.log(`  Sources: ${this.sources.size}`);
     console.log(`  Categories: ${this.configLoader.getEnabledCategories().length}`);
     console.log(`  Output Directory: ${this.configLoader.getGlobalConfig().outputDirectory}`);
+    
+    // Display cache statistics
+    const cacheStats = this.cacheManager.getCacheStats();
+    console.log(`\n📦 Cache Statistics:`);
+    console.log(`  Cached Sources: ${cacheStats.totalSources}`);
+    console.log(`  Cached Items: ${cacheStats.totalItems}`);
+    console.log(`  Cache Hit Ratio: ${this.calculateCacheHitRatio()}%`);
+    
+    if (cacheStats.totalSources > 0) {
+      console.log(`\n📋 Source Cache Details:`);
+      cacheStats.sources.forEach(source => {
+        const lastUpdate = new Date(source.lastUpdate);
+        const ageMinutes = Math.round((Date.now() - lastUpdate.getTime()) / (1000 * 60));
+        console.log(`  ${source.sourceId}/${source.category}: ${source.itemCount} items (${ageMinutes}m ago)`);
+      });
+    }
+  }
+
+  private calculateCacheHitRatio(): number {
+    // This would need to be tracked during scraping for accurate calculation
+    // For now, return a simple estimation based on cache availability
+    const cacheStats = this.cacheManager.getCacheStats();
+    if (cacheStats.totalSources === 0) return 0;
+    return Math.round((cacheStats.totalSources / (this.sources.size * this.configLoader.getEnabledCategories().length)) * 100);
   }
 }

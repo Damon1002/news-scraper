@@ -54,6 +54,15 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-playwright-
 
+    - name: Cache news data
+      uses: actions/cache@v4
+      with:
+        path: |
+          cache/
+        key: ${{ runner.os }}-news-cache-${{ github.run_id }}
+        restore-keys: |
+          ${{ runner.os }}-news-cache-
+
     - name: Install dependencies
       run: npm ci
 
@@ -64,6 +73,7 @@ jobs:
       run: |
         mkdir -p docs/feeds
         mkdir -p docs/status
+        mkdir -p cache
 
     - name: Run fast news aggregation
       run: |

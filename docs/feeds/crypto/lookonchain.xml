@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 14:25:55 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 14:25:55 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 15:21:35 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 15:21:35 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,109 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Spot Gold Plunges Over 1.00% Intraday, Now Trading at $3334.20 per Ounce</title>
-      <link>https://www.lookonchain.com/feeds/21881</link>
-      <description>On July 25th, spot gold dropped by more than 1.00% during the trading day. It is now trading at $3334.20 per ounce. (Oriental Wealth)</description>
-      <pubDate>Fri, 25 Jul 2025 14:25:02 +0000</pubDate>
+      <title>The US Department of Justice is considering charging DragonFly employees in the Tornado Cash case.</title>
+      <link>https://www.lookonchain.com/feeds/21889</link>
+      <description>On July 25th, as per crypto journalist Eleanor Terrett, in the latest trial update regarding Tornado Cash&apos;s co-founder and developer Roman Storm, Assistant Prosecutor Rehn disclosed that the U.S. Department of Justice (DOJ) seemingly is still in the process of considering bringing charges against an undisclosed number of DragonFly&apos;s employees. It is not merely limited to DragonFly&apos;s General Partner Tom Schmidt.Dragonfly is the venture capital firm that backs Tornado Cash. Yesterday in court, emails between Roman Storm and DragonFly&apos;s General Partner Tom Schmidt were presented. One of the emails showed that Storm and his team were seeking feedback on adding Know Your Customer (KYC) to the platform. The defense had requested Schmidt to testify, but he invoked the Fifth Amendment right through his lawyer (the right to refuse to testify). The trial will continue next week, and more information is expected at that time. Closing arguments are also anticipated to take place next week.</description>
+      <pubDate>Fri, 25 Jul 2025 15:16:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21881</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21889</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin drops below $114,000, the mainstream CEX long liquidation pressure will reach $1.78 billion</title>
+      <link>https://www.lookonchain.com/feeds/21888</link>
+      <description>On July 25th, according to Coinglass data, in the event that Bitcoin drops below $114,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $1.78 billion.On the other hand, if Bitcoin surges above $117,000, the cumulative intensity of short liquidation on mainstream CEXs will reach $1.09 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, intensity.Consequently, the liquidation chart shows to what degree the price of the underlying asset will be influenced when it attains a certain level. A higher &quot;liquidation bar&quot; indicates that the price, upon reaching that level, will react more vigorously due to a liquidity avalanche.</description>
+      <pubDate>Fri, 25 Jul 2025 15:08:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21888</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Falls Below $115,000, 24-hour Decline of 3.39%</title>
+      <link>https://www.lookonchain.com/feeds/21887</link>
+      <description>On July 25th, according to HTX market data, Bitcoin fell below $115,000, experiencing a 24-hour decline of 3.39%.</description>
+      <pubDate>Fri, 25 Jul 2025 15:00:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21887</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Pantera Founder: Blockchains like Ethereum and Solana Have Advantages that Bitcoin Does Not</title>
+      <link>https://www.lookonchain.com/feeds/21886</link>
+      <description>On July 25th, according to a report in Fortune, the founder of Pantera Capital emphasized the reasons for investing in a diversified portfolio of blockchain and projects during an interview. &quot;There isn&apos;t just one internet company, is there? That&apos;s precisely how I view blockchain. Although Bitcoin is dominant, its use cases are relatively limited, especially in the context where supporters are promoting decentralized finance applications such as payments and lending. Other blockchains like Ethereum and Solana have advantages that Bitcoin lacks, including faster speeds, programmability, and lower transaction fees. Stablecoins are expected to bring about a breakthrough for the entire industry. Especially as banks and major tech companies start to explore this area. As the trend of enterprises adopting stablecoins strengthens, it will attract more participants to join the blockchain ecosystem.&quot;</description>
+      <pubDate>Fri, 25 Jul 2025 14:56:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21886</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Bitget has launched BTC-margined TAG and ASP perpetual contracts</title>
+      <link>https://www.lookonchain.com/feeds/21885</link>
+      <description>On July 25th, as per an official announcement, Bitget has declared the commencement of U-based TAG and ASP perpetual contracts, and the contract trading BOT will be opened simultaneously.</description>
+      <pubDate>Fri, 25 Jul 2025 14:56:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21885</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Hong Kong Stock Exchange-listed Company Multipoint Group Completes HKD 393 Million Share Placement, With Proceeds Partially Used for Stablecoin and Blockchain Research and Development Investment</title>
+      <link>https://www.lookonchain.com/feeds/21884</link>
+      <description>On July 25th, the Hong Kong-listed company DigiMax Group (02586.HK) announced the successful completion of a private placement worth HK$393 million. 50% of the net proceeds will be allocated to the research and development investment and technological advancement of stablecoins and blockchain. Specifically, all of these funds will be used to cover the staff costs of the company&apos;s blockchain experts for the development and maintenance of systems and interfaces related to new business development, including various systems in areas such as trading, reserve management, settlement, clearing, compliance, and issuance. It is expected that these funds will be utilized by the end of 2026.</description>
+      <pubDate>Fri, 25 Jul 2025 14:48:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21884</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -32,10 +129,46 @@
 
     </item>
     <item>
+      <title>EU Official: EU-US Trade Framework Agreement Could Be Reached This Weekend</title>
+      <link>https://www.lookonchain.com/feeds/21883</link>
+      <description>On July 25th, EU officials and diplomats indicated that the EU-US Trade Framework Agreement might be reached during this weekend. (FXStreet)</description>
+      <pubDate>Fri, 25 Jul 2025 14:40:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21883</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Ethereum&apos;s net supply in the past 7 days has increased by 17,333 coins, and the supply&apos;s annual growth rate is currently at 0.748%.</title>
+      <link>https://www.lookonchain.com/feeds/21882</link>
+      <description>On July 25th, based on the data from Ultrasound.money, the net issuance of Ethereum over the past 7 days has increased by 17,333 ETH. There is an approximate issuance of 18,600 ETH, and 1,266.6 ETH has been destroyed through the burning mechanism.The total Ethereum supply has now reached 120,927,828 ETH, and the current supply growth rate is 0.748% per year.</description>
+      <pubDate>Fri, 25 Jul 2025 14:32:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21882</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>USDC Treasury Burns Approximately 54.467 Million USDC on the Ethereum Blockchain</title>
       <link>https://www.lookonchain.com/feeds/21880</link>
       <description>On July 25th, as monitored by Whale Alert, approximately 54.467 million USDC was burned in the USDC Treasury on the Ethereum blockchain.</description>
-      <pubDate>Fri, 25 Jul 2025 14:25:02 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 14:24:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21880</guid>
       <category>crypto</category>
@@ -52,12 +185,12 @@
 
     </item>
     <item>
-      <title>U.S. publicly traded company Volcon increased its BTC holdings by 2903 coins, bringing its total holdings to 3183.37 coins.</title>
-      <link>https://www.lookonchain.com/feeds/21879</link>
-      <description>On July 25th, as per NLNico&apos;s monitoring, the US-listed company Volcon (VLCN) added 2,903 BTC to its holdings today. It now holds a total of 3,183.37 BTC. The total purchase price is approximately 375 million US dollars, with an average purchase price of 117,697 US dollars.According to market data, Volcon (VLCN) surged by more than 16% intraday. Currently, it is up by 2.43%, with a stock price of 13.9 US dollars and a trading volume of 10.53 million US dollars.</description>
-      <pubDate>Fri, 25 Jul 2025 14:16:02 +0000</pubDate>
+      <title>Spot Gold Plunges Over 1.00% Intraday, Now Trading at $3334.20 per Ounce</title>
+      <link>https://www.lookonchain.com/feeds/21881</link>
+      <description>On July 25th, spot gold dropped by more than 1.00% during the trading day. It is now trading at $3334.20 per ounce. (Oriental Wealth)</description>
+      <pubDate>Fri, 25 Jul 2025 14:24:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21879</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21881</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -66,127 +199,7 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Trump Says 50% Chance of U.S.-EU Deal, To Impose New Round of Tariffs on Other Countries</title>
-      <link>https://www.lookonchain.com/feeds/21878</link>
-      <description>July 25th. Although EU diplomats have shown some optimism recently regarding an impending trade agreement, Trump stated that the likelihood of the US and the EU reaching a deal to lower import tariffs is &quot;only 50-50.&quot; Trump said, &quot;I believe the chances of reaching an agreement are 50-50. It may even be less than that, but there is still a 50% chance. US and EU negotiators are working closely together to reach an agreement.&quot; Earlier this month, Trump issued a letter stating that if the US and the EU fail to reach an agreement by August 1st, the EU will face punitive measures in the form of a 30% tariff on most goods, as well as additional tariffs specific to certain industries. Trump also mentioned today that in the coming days, he will unilaterally send out nearly 200 tariff letters to impose a new round of tariffs on other countries. Some of these letters specify tariff rates of 10% or 15%. (Jinse Finance)</description>
-      <pubDate>Fri, 25 Jul 2025 14:09:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21878</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump Unleashes &apos;Boiling the Frog&apos; Pressure to Cut Interest Rates, Powell Privately Vows to Serve Full Term</title>
-      <link>https://www.lookonchain.com/feeds/21877</link>
-      <description>On July 25th, according to a report by CNN, Gary Gensler, the Chairman of the U.S. Securities and Exchange Commission (SEC), has informed many colleagues and allies that he will never give in to President Trump&apos;s calls for his resignation. He has pledged to withstand the unprecedented and multi-faceted attacks from Trump in the coming months due to his refusal to cut interest rates. Gensler stated privately that his decision to remain in his position is not only for personal reasons but also because his chairmanship is closely related to the overall independence of the SEC. Resigning now would weaken the SEC&apos;s long-standing independence from political interference. Gensler strongly believes that his responsibility is to uphold this independence.Gensler previously served briefly in the George W. Bush administration and is known for his meticulous and non-partisan &quot;straight shooter&quot; image during his more than ten years at the SEC. This helped him earn Trump&apos;s nomination as SEC Chairman</description>
-      <pubDate>Fri, 25 Jul 2025 13:57:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21877</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>DEGEN mini Application Update Completed, Fully Compatible with The Base App and Farcaster</title>
-      <link>https://www.lookonchain.com/feeds/21876</link>
-      <description>On July 25th, based on official Degen news, the DEGEN mini application has been updated and is now fully compatible with The Base App and Farcaster. About two weeks before the launch of the DEGEN lottery, all tipping fees were waived.</description>
-      <pubDate>Fri, 25 Jul 2025 13:49:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21876</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Maple Finance has proposed MIP-018, aiming to use 25% of protocol fee revenue to buy back SYRUP.</title>
-      <link>https://www.lookonchain.com/feeds/21875</link>
-      <description>On July 25th, Maple Finance (SYRUP) launched the MIP-018 proposal. It was proposed to raise the allocation of protocol fee revenue used for the SYRUP token buyback from 20% to 25% starting from the third quarter of 2025 and distribute it as rewards to SYRUP stakers. This proposal is only eligible for voting by stSYRUP holders.</description>
-      <pubDate>Fri, 25 Jul 2025 13:48:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21875</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>US Stock Market Open Cryptocurrency Stocks Mixed, SharpLink Up 4.55%</title>
-      <link>https://www.lookonchain.com/feeds/21874</link>
-      <description>On July 25th, based on market data, the U.S. stock market opened with the Dow increasing by 0.14%, the S&amp;P 500 rising by 0.14%, and the Nasdaq going up by 0.02%. Cryptocurrency stocks demonstrated mixed performance, as follows:The &quot;ETH Version of MicroStrategy&quot;, SharpLink Gaming (SBET), rose by 4.55%, announcing today that a former BlackRock digital asset strategy executive has joined as co-CEO;Mercurity Fintech Holding (MFH) plunged by 13% after previously announcing the launch of a Solana-based treasury strategy;Volcon (VLCN) rose by 6.2% after raising over $500 million to launch a Bitcoin financial strategy;Circle (CRCL) fell by 0.6%;Coinbase (COIN) dropped by 1.02%;Tesla (TSLA.O) decreased by 1.1%;MicroStrategy (MSTR) rose by 2.27%;MARA Holdings (MARA) fell by 2.5%;MicroStrategy (MSTR) fell by 2%.</description>
-      <pubDate>Fri, 25 Jul 2025 13:41:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21874</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump Speaks Again, Saying &quot;Believes Powell Will Lower Interest Rates&quot;</title>
-      <link>https://www.lookonchain.com/feeds/21873</link>
-      <description>On July 25th, U.S. President Trump: Anticipates that Powell will lower interest rates. (Kryptonite)</description>
-      <pubDate>Fri, 25 Jul 2025 13:32:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21873</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BNB Chain Announces 15 Early-Stage Projects for the Tenth Season of its MVB Accelerator Program</title>
-      <link>https://www.lookonchain.com/feeds/21872</link>
-      <description>On July 25th, BNB Chain made an announcement regarding the 15 early-stage projects selected for the tenth season of the Most Valuable Builder (MVB) Accelerator Program. These projects include: the AI Minting Factory RICE AI, the Decentralized Identity Data Intelligence Layer Whitebridge Network, the DeSoc Protocol AGNT.Hub, the Web3 Application Abstraction Layer FlashX.ai, the Trading Terminal Opsin, the DeFi Protocol Sigma Money, the Smart Ring Bitring, the Web3 Consumer and Financial Layer ShareX, the Decentralized Human Layer dLife, the Cryptocurrency Payment Framework AEON, the Multi-chain Payment Infrastructure Pepay Labs, the RWA Launchpad Asseto, the Programmable Protocol AXC (RWA), the Stablecoin Infrastructure DMZ Finance, and the Stablecoin-Pegged DeFi ETF R2.</description>
-      <pubDate>Fri, 25 Jul 2025 13:25:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21872</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
   </channel>
