@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 05:52:56 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 05:52:56 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 05:58:15 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 05:58:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Galaxy Digital has once again transferred out 2850 Bitcoin from its selling address, and currently holds 21,255 Bitcoin.</title>
+      <link>https://www.lookonchain.com/feeds/21810</link>
+      <description>On July 25th, according to Arkham&apos;s monitoring, the sell-off address of Galaxy Digital continues to transfer Bitcoin to CEX and third-party addresses. 19 minutes ago, this address once again dispatched 2850 BTC. Meanwhile, another Galaxy Digital address also transferred 478 BTC to this Galaxy Digital sell-off address.As of the time of this writing, this address still holds 21,255 BTC.</description>
+      <pubDate>Fri, 25 Jul 2025 05:57:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21810</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
       <title>The Hubei court in China has sentenced a criminal in a virtual currency theft case using backdoor code to a fraud charge, involving approximately 77.76 million yuan.</title>
       <link>https://www.lookonchain.com/feeds/21809</link>
       <description>July 25th. He and others resorted to using a &quot;backdoor&quot; to manipulate platform data, facilitating the transfer of the virtual currency pledged by investors on the platform. Within just two months, 103 investors suffered losses amounting to approximately RMB 77.76 million in virtual currency.After the Yumen County Procuratorate in Hubei Province, China, initiated a public prosecution, in March of this year, the first-instance court sentenced He and four others to fixed-term imprisonment ranging from three to thirteen years for fraud, with each also being imposed with fines ranging from 20,000 to 300,000 yuan. He appealed the first-instance judgment. Recently, the second-instance court ruled to dismiss the appeal and uphold the original judgment.In August 2017, He and Jia (dealt with separately) established a technology company. In July 2020, He and Jia independently designed and hired Du to develop a decentralized cryptocurrency exchange platform (a platform where users can trade cr</description>
-      <pubDate>Fri, 25 Jul 2025 05:42:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 05:41:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21809</guid>
       <category>crypto</category>
@@ -35,9 +55,30 @@
       <title>A certain whale trader is betting on Bitcoin surpassing $200,000 by the end of the year through a complex options strategy.</title>
       <link>https://www.lookonchain.com/feeds/21808</link>
       <description>On July 25th, a Bitcoin whale is utilizing a sophisticated options approach to place a large-scale bullish wager, with the goal of achieving a year-end Bitcoin price of $200,000. The trader has concurrently purchased 3,500 contracts of the $140,000 December call option on Deribit and sold 3,500 contracts of the $200,000 December call option. This indicates that if the BTC settlement price reaches or surpasses the higher $200,000 strike price prior to the expiration date, the strategy will achieve maximum profit. (CoinDesk)</description>
-      <pubDate>Fri, 25 Jul 2025 05:41:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 05:40:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21808</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale deposited 3.26 million USDC into HyperLiquid, opening a 20x long position on BTC and SOL</title>
+      <link>https://www.lookonchain.com/feeds/21805</link>
+      <description>On July 25th, as monitored by Onchain Lens, a whale deposited 3.26 million USDC into HyperLiquid and initiated multiple long positions: 20x leveraged positions in BTC and SOL, and 10x leveraged positions in ETH and AAVE.</description>
+      <pubDate>Fri, 25 Jul 2025 05:16:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21805</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -56,7 +97,7 @@
       <title>Galaxy Digital once again Deposits 2850 Bitcoins to CEX</title>
       <link>https://www.lookonchain.com/feeds/21807</link>
       <description>On July 25th, according to Arkham Monitor, Galaxy Digital once more transferred 2850 bitcoins to CEX just 8 minutes ago.</description>
-      <pubDate>Fri, 25 Jul 2025 05:17:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 05:16:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21807</guid>
       <category>crypto</category>
@@ -75,7 +116,7 @@
       <title>AguilaTrades has been liquidated again on a 720 Bitcoin long position</title>
       <link>https://www.lookonchain.com/feeds/21806</link>
       <description>On July 25th, as per the monitoring of LookOnChain, AguilaTrades was once again liquidated for a long position of 720 bitcoins. Their total loss has now exceeded 36 million US dollars.</description>
-      <pubDate>Fri, 25 Jul 2025 05:17:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 05:16:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21806</guid>
       <category>crypto</category>
@@ -91,31 +132,10 @@
 
     </item>
     <item>
-      <title>A whale deposited 3.26 million USDC into HyperLiquid, opening a 20x long position on BTC and SOL</title>
-      <link>https://www.lookonchain.com/feeds/21805</link>
-      <description>On July 25th, as monitored by Onchain Lens, a whale deposited 3.26 million USDC into HyperLiquid and initiated multiple long positions: 20x leveraged positions in BTC and SOL, and 10x leveraged positions in ETH and AAVE.</description>
-      <pubDate>Fri, 25 Jul 2025 05:16:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21805</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>New BitMine Chairman, Fundstrat Co-Founder: Compared to Circle&apos;s valuation, an Ethereum price increase to $15,000 is a reasonable level</title>
       <link>https://www.lookonchain.com/feeds/21804</link>
       <description>On July 25th, the newly appointed Chairman of BitMine, Tom Lee, who is a co-founder of Fundstrat, stated in an interview with CoinDesk this week. If we refer to Circle&apos;s current valuation level (130 times EBITDA, a financial metric that measures a company&apos;s operating performance), then it is completely reasonable for Ethereum to rise to $15,000.Furthermore, Tom Lee expressed agreement with analyst Mark Newton&apos;s view that &quot;Ethereum will break $4,000 by the end of the month.&quot;It is worth noting that the latest data shows that Bitmine Immersion Tech (BMNR) currently holds 566,800 ETH, which is worth about $2.1 billion. In the last 30 days, the company&apos;s position has increased by 247.41%. The company announced the appointment of Tom Lee as Chairman on June 30th.</description>
-      <pubDate>Fri, 25 Jul 2025 05:08:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 05:08:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21804</guid>
       <category>crypto</category>
@@ -135,7 +155,7 @@
       <title>Galaxy Digital has withdrawn 200 million USDT from a CEX in the last 15 minutes, potentially indicating a partial completion of a Bitcoin sell-off.</title>
       <link>https://www.lookonchain.com/feeds/21801</link>
       <description>On July 25th, according to on-chain data, Galaxy Digital withdrew 200 million USDT from a CEX within approximately 15 minutes, which may suggest a partial sell-off of Bitcoin.Previously, Galaxy Digital had transferred more than 10,000 BTC to CEXs in less than 8 hours.</description>
-      <pubDate>Fri, 25 Jul 2025 04:52:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 04:57:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21801</guid>
       <category>crypto</category>
@@ -155,7 +175,7 @@
       <title>Binance Alpha will support Pundi AI (PUNDIAI) Contract Swap</title>
       <link>https://www.lookonchain.com/feeds/21803</link>
       <description>On July 25th, as per official channels, Binance Alpha will provide support for the Pundi AI (PUNDIAI) contract swap. Binance will commence the suspension of PUNDIAI trading starting from 03:35 UTC on July 25th and will cancel all outstanding orders.</description>
-      <pubDate>Fri, 25 Jul 2025 04:52:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 04:57:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21803</guid>
       <category>crypto</category>
@@ -172,7 +192,7 @@
       <title>Blueport Interactive Founder Wang Feng: The institutionalization of Bitcoin and Ethereum is a trend, and stablecoins will penetrate all industries.</title>
       <link>https://www.lookonchain.com/feeds/21802</link>
       <description>July 25th - Wang Feng, the founder of Blue Harbor Interactive (@wangfeng_0128), elucidated the impetus for establishing LK Crypto. Wang Feng pointed out that the institutionalization of Bitcoin and Ethereum is a prevailing trend. Stablecoins will inevitably enter all enterprises or specific industries sooner or later. Stock tokenization will not merely merge coins and stocks but ultimately treat stocks as coins.Furthermore, Wang Feng predicted that the subsequent step will be that every enterprise, not limited to public companies, will form a crypto business team. Market and technical talents in the cryptocurrency field will be fiercely competed for with high salaries similar to those of AI talents.On July 16th, Blue Harbor Interactive established the LK Crypto division to supervise the company&apos;s mainstream crypto assets and expedite its Web3 and RWA layout.</description>
-      <pubDate>Fri, 25 Jul 2025 04:52:03 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 04:57:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21802</guid>
       <category>crypto</category>
@@ -187,23 +207,6 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Crypto Market Platform CoinWings has now launched the WLFI-exclusive airdrop event.</title>
-      <link>https://www.lookonchain.com/feeds/21800</link>
-      <description>On July 25th, according to the official news from CoinWings, the cryptocurrency market platform CoinWings has officially initiated a 1-million WLFI exclusive airdrop event for Pro users. The event has now commenced, and users who subscribe to the annual membership can obtain up to 720 WLFI airdrop rewards. This airdrop will conclude on December 31, 2025, and the rewards will be distributed uniformly after WLFI begins trading.CoinWings is an AI-driven cryptocurrency market and intelligence platform that offers on-chain AI signals, whale/whale tracking, technical analysis, listing monitoring, and a variety of practical trading tools. With the aid of large-scale model capabilities, it provides users with more professional, timely, and comprehensive market information support.</description>
-      <pubDate>Fri, 25 Jul 2025 04:52:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21800</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
