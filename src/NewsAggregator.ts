@@ -3,15 +3,12 @@ import { ConfigLoader } from './utils/ConfigLoader.js';
 import { RSSGenerator } from './utils/RSSGenerator.js';
 import { FeedRegistryManager } from './utils/FeedRegistry.js';
 import { NewsSource } from './sources/NewsSource.js';
-import { RedditSource } from './sources/RedditSource.js';
-import { HackerNewsSource } from './sources/HackerNewsSource.js';
 import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
 import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSource.js';
 import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js';
 import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource.js';
 import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
-import { SosoValueSource } from './sources/SosoValueSource.js';
 import { TechflowpostSource } from './sources/TechflowpostSource.js';
 import { LookOnChainSource } from './sources/LookOnChainSource.js';
 import { PANewsSource } from './sources/PANewsSource.js';
@@ -53,12 +50,6 @@ export class NewsAggregator {
         throw new Error(`Unsupported RSS source: ${config.id}`);
       
       case 'api':
-        if (config.id === 'reddit') {
-          return new RedditSource(config);
-        }
-        if (config.id === 'hackernews') {
-          return new HackerNewsSource(config);
-        }
         throw new Error(`Unsupported API source: ${config.id}`);
       
       case 'scraper':
@@ -79,9 +70,6 @@ export class NewsAggregator {
         }
         if (config.id === 'hk01-entertainment') {
           return new HK01EntertainmentSource(config);
-        }
-        if (config.id === 'sosovalue-research') {
-          return new SosoValueSource(config);
         }
         if (config.id === 'techflowpost') {
           return new TechflowpostSource(config);

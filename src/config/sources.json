@@ -1,59 +1,12 @@
 {
   "sources": [
     {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "type": "api",
-      "baseUrl": "https://hacker-news.firebaseio.com/v0",
-      "rateLimit": 20,
-      "enabled": true,
-      "categories": [
-        {
-          "category": "technology",
-          "endpoint": "/topstories.json",
-          "maxItems": 10,
-          "updateFrequency": 60
-        }
-      ]
-    },
-    {
-      "id": "reddit",
-      "name": "Reddit",
-      "type": "api",
-      "baseUrl": "https://www.reddit.com",
-      "rateLimit": 15,
-      "enabled": true,
-      "headers": {
-        "User-Agent": "NewsAggregator/1.0"
-      },
-      "categories": [
-        {
-          "category": "technology",
-          "endpoint": "/r/technology/hot.json?limit=10",
-          "maxItems": 10,
-          "updateFrequency": 60
-        },
-        {
-          "category": "world",
-          "endpoint": "/r/worldnews/hot.json?limit=15",
-          "maxItems": 15,
-          "updateFrequency": 30
-        },
-        {
-          "category": "business",
-          "endpoint": "/r/business/hot.json?limit=10",
-          "maxItems": 10,
-          "updateFrequency": 60
-        }
-      ]
-    },
-    {
       "id": "setn-entertainment",
       "name": "SETN Entertainment",
       "type": "scraper",
       "baseUrl": "https://star.setn.com",
       "rateLimit": 5,
-      "enabled": true,
+      "enabled": false,
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
       },
@@ -72,7 +25,7 @@
       "type": "scraper",
       "baseUrl": "https://news.tvbs.com.tw",
       "rateLimit": 5,
-      "enabled": true,
+      "enabled": false,
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
       },
@@ -91,7 +44,7 @@
       "type": "scraper",
       "baseUrl": "https://tw.nextapple.com",
       "rateLimit": 5,
-      "enabled": true,
+      "enabled": false,
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
       },
@@ -135,7 +88,7 @@
       "type": "scraper",
       "baseUrl": "https://pagesix.com",
       "rateLimit": 5,
-      "enabled": true,
+      "enabled": false,
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
       },
@@ -154,7 +107,7 @@
       "type": "scraper",
       "baseUrl": "https://www.hk01.com",
       "rateLimit": 5,
-      "enabled": true,
+      "enabled": false,
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
       },
@@ -164,25 +117,6 @@
           "endpoint": "/channel/22/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82",
           "maxItems": 30,
           "updateFrequency": 2
-        }
-      ]
-    },
-    {
-      "id": "sosovalue-research",
-      "name": "SosoValue Research",
-      "type": "scraper", 
-      "baseUrl": "https://sosovalue.com",
-      "rateLimit": 5,
-      "enabled": true,
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
-      },
-      "categories": [
-        {
-          "category": "crypto",
-          "endpoint": "/research",
-          "maxItems": 25,
-          "updateFrequency": 5
         }
       ]
     },
