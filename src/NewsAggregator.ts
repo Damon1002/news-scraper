@@ -105,34 +105,94 @@ export class NewsAggregator {
     }
   }
 
+  public async checkForChanges(): Promise<boolean> {
+    const enabledCategories = this.configLoader.getEnabledCategories();
+    let hasAnyChanges = false;
+    
+    console.log(`🔍 Quick cache check for categories: ${enabledCategories.join(', ')}`);
+    
+    for (const category of enabledCategories) {
+      for (const [sourceId, source] of this.sources) {
+        if (source.getSupportedCategories().includes(category)) {
+          const cacheKey = this.cacheManager.getCacheKey(sourceId, category);
+          const cacheStats = this.cacheManager.getCacheStats();
+          
+          // Check if we have any cached data for this source
+          const hasCache = cacheStats.sources.some(s => 
+            s.sourceId === sourceId && s.category === category
+          );
+          
+          if (!hasCache) {
+            console.log(`📦 No cache found for ${sourceId}/${category} - changes assumed`);
+            hasAnyChanges = true;
+          } else {
+            // Check cache age - if older than update frequency, assume changes
+            const sourceCache = cacheStats.sources.find(s => 
+              s.sourceId === sourceId && s.category === category
+            );
+            if (sourceCache) {
+              const ageMinutes = (Date.now() - new Date(sourceCache.lastUpdate).getTime()) / (1000 * 60);
+              const sourceConfig = this.configLoader.loadConfig().sources.find(s => s.id === sourceId);
+              const updateFrequency = sourceConfig?.categories.find(c => c.category === category)?.updateFrequency || 60;
+              
+              if (ageMinutes > updateFrequency) {
+                console.log(`⏰ Cache for ${sourceId}/${category} is ${Math.round(ageMinutes)}min old (>${updateFrequency}min) - changes likely`);
+                hasAnyChanges = true;
+              } else {
+                console.log(`✅ Cache for ${sourceId}/${category} is fresh (${Math.round(ageMinutes)}min old)`);
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    console.log(`🎯 Quick check result: ${hasAnyChanges ? 'Changes likely' : 'No changes expected'}`);
+    return hasAnyChanges;
+  }
+
   public async aggregateNews(): Promise<void> {
     const enabledCategories = this.configLoader.getEnabledCategories();
     
-    console.log(`🔍 Starting individual source feeds for categories: ${enabledCategories.join(', ')}`);
+    console.log(`🔍 Starting parallel source feeds for categories: ${enabledCategories.join(', ')}`);
     
-    // Generate individual source feeds for each category
-    for (const category of enabledCategories) {
+    // Process all categories in parallel for better performance
+    const categoryPromises = enabledCategories.map(async (category) => {
       console.log(`\n📰 Processing category: ${category}`);
       
       const categoryResults = await this.scrapeCategory(category);
       
-      // Generate separate feed for each source
-      for (const result of categoryResults) {
+      // Generate feeds for this category in parallel
+      const feedPromises = categoryResults.map(async (result) => {
         if (result.success && result.items.length > 0) {
           await this.generateSourceFeed(result, category);
           console.log(`✅ Generated ${result.source} ${category} feed with ${result.items.length} items`);
+          return { source: result.source, category, success: true, count: result.items.length };
         } else if (!result.success) {
           console.log(`⚠️  ${result.source} failed for ${category}: ${result.error}`);
+          return { source: result.source, category, success: false, error: result.error };
         } else {
           console.log(`⚠️  No items found for ${result.source} ${category}`);
+          return { source: result.source, category, success: true, count: 0 };
         }
-      }
-    }
+      });
+      
+      return Promise.all(feedPromises);
+    });
+    
+    // Wait for all categories to complete
+    const allResults = await Promise.all(categoryPromises);
+    const flatResults = allResults.flat();
+    
+    // Log summary
+    const successCount = flatResults.filter(r => r.success).length;
+    const totalItems = flatResults.reduce((sum, r) => sum + (r.count || 0), 0);
+    console.log(`\n📊 Parallel processing complete: ${successCount}/${flatResults.length} feeds, ${totalItems} total items`);
 
     await this.generateMasterFeed();
     await this.generateIndexPage();
     
-    console.log('\n🎉 Individual source feed generation completed successfully!');
+    console.log('\n🎉 Parallel source feed generation completed successfully!');
   }
 
   private async scrapeCategory(category: NewsCategory): Promise<ScrapingResult[]> {

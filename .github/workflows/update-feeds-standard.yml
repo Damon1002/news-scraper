@@ -58,15 +58,23 @@ jobs:
       with:
         path: |
           cache/
-        key: ${{ runner.os }}-news-cache-${{ github.run_id }}
+        key: ${{ runner.os }}-news-cache-v2-${{ hashFiles('src/**/*.ts', 'src/**/*.json') }}
         restore-keys: |
+          ${{ runner.os }}-news-cache-v2-
           ${{ runner.os }}-news-cache-
 
     - name: Install dependencies
       run: npm ci
 
     - name: Install Playwright browsers
-      run: npx playwright install chromium --with-deps
+      run: |
+        # Only install if not cached
+        if [ ! -d ~/.cache/ms-playwright ]; then
+          echo "Installing Playwright browsers..."
+          npx playwright install chromium --with-deps
+        else
+          echo "Using cached Playwright browsers"
+        fi
 
     - name: Create output directories
       run: |
