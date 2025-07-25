@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 06:54:36 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 06:54:36 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 14:24:10 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 14:24:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,86 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Dwl: Dwm for Wayland</title>
+      <link>https://codeberg.org/dwl/dwl</link>
+      <description>20 points 2 comments by theycallhermax on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 13:40:19 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://codeberg.org/dwl/dwl</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>It&apos;s DE9, Not DB9</title>
+      <link>https://news.sparkfun.com/14298</link>
+      <description>10 points 1 comments by jgrahamc on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 13:35:09 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://news.sparkfun.com/14298</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Who has the fastest F1 website (2021)</title>
+      <link>https://jakearchibald.com/2021/f1-perf-part-3/</link>
+      <description>57 points 8 comments by tosh on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 13:30:54 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://jakearchibald.com/2021/f1-perf-part-3/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Up to date prices for LLM APIs all in one place</title>
+      <link>https://pricepertoken.com/</link>
+      <description>62 points 45 comments by alexellman on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 12:39:41 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://pricepertoken.com/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>The future is not self-hosted</title>
+      <link>https://www.drewlyton.com/story/the-future-is-not-self-hosted/</link>
+      <description>45 points 29 comments by drew_lytle on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 12:00:05 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.drewlyton.com/story/the-future-is-not-self-hosted/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Games Look Bad: HDR and Tone Mapping</title>
+      <link>https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/</link>
+      <description>117 points 95 comments by uncircle on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 07:26:37 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
+      <title>Quantitative AI progress needs accurate and transparent evaluation</title>
+      <link>https://mathstodon.xyz/@tao/114910028356641733</link>
+      <description>162 points 75 comments by bertman on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 06:47:07 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://mathstodon.xyz/@tao/114910028356641733</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>Google spoofed via DKIM replay attack: A technical breakdown</title>
       <link>https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/</link>
-      <description>57 points 18 comments by frasermarlow on Hacker News</description>
+      <description>211 points 73 comments by frasermarlow on Hacker News</description>
       <pubDate>Fri, 25 Jul 2025 05:28:40 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/</guid>
@@ -25,20 +102,9 @@
 
     </item>
     <item>
-      <title>Asciinema: Record and share your terminal sessions</title>
-      <link>https://asciinema.org</link>
-      <description>77 points 27 comments by phendrenad2 on Hacker News</description>
-      <pubDate>Fri, 25 Jul 2025 02:50:32 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://asciinema.org</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Celebrating 20 Years of MDN</title>
       <link>https://developer.mozilla.org/en-US/blog/mdn-turns-20/</link>
-      <description>42 points 4 comments by soheilpro on Hacker News</description>
+      <description>245 points 36 comments by soheilpro on Hacker News</description>
       <pubDate>Fri, 25 Jul 2025 01:40:11 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://developer.mozilla.org/en-US/blog/mdn-turns-20/</guid>
@@ -47,78 +113,12 @@
 
     </item>
     <item>
-      <title>Scientists may have found a way to eliminate chromosome linked to Down syndrome</title>
-      <link>https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019</link>
-      <description>274 points 230 comments by MattSayar on Hacker News</description>
-      <pubDate>Thu, 24 Jul 2025 21:59:19 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Graphene OS: a security-enhanced Android build</title>
       <link>https://lwn.net/SubscriberLink/1030004/898017c7953c0946/</link>
-      <description>328 points 132 comments by madars on Hacker News</description>
+      <description>577 points 330 comments by madars on Hacker News</description>
       <pubDate>Thu, 24 Jul 2025 21:48:53 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://lwn.net/SubscriberLink/1030004/898017c7953c0946/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>Inter-Planetary Network Special Interest Group</title>
-      <link>https://www.ipnsig.org</link>
-      <description>131 points 32 comments by OhMeadhbh on Hacker News</description>
-      <pubDate>Thu, 24 Jul 2025 20:19:57 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.ipnsig.org</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>There is no memory safety without thread safety</title>
-      <link>https://www.ralfj.de/blog/2025/07/24/memory-safety.html</link>
-      <description>324 points 290 comments by tavianator on Hacker News</description>
-      <pubDate>Thu, 24 Jul 2025 15:35:39 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.ralfj.de/blog/2025/07/24/memory-safety.html</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>AMD CEO sees chips from TSMC&apos;s US plant costing 5%-20% more</title>
-      <link>https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more</link>
-      <description>313 points 499 comments by mfiguiere on Hacker News</description>
-      <pubDate>Wed, 23 Jul 2025 19:34:56 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>Positron – A next-generation data science IDE</title>
-      <link>https://positron.posit.co/</link>
-      <description>157 points 53 comments by amai on Hacker News</description>
-      <pubDate>Mon, 21 Jul 2025 12:59:56 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://positron.posit.co/</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
-      <title>I wasted weeks hand optimizing assembly because I benchmarked on random data</title>
-      <link>https://www.vidarholen.net/contents/blog/?p=1160</link>
-      <description>291 points 87 comments by thunderbong on Hacker News</description>
-      <pubDate>Mon, 21 Jul 2025 07:40:01 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.vidarholen.net/contents/blog/?p=1160</guid>
       <category>technology</category>
       <category>hacker news</category>
 
