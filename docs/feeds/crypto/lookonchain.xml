@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 16:33:02 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 16:33:02 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 16:46:39 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 16:46:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Uniswap Foundation: Anti-MEV DEX Angstrom is Now Live</title>
+      <link>https://www.lookonchain.com/feeds/21896</link>
+      <description>On July 26th, the Uniswap Foundation made an announcement. The new decentralized exchange (DEX), Angstrom, developed by Sorella Labs, which is a MEV protection tool developer, is now operational. It provides native MEV protection for token swaps and liquidity providers (LPs). This is supported by the Uniswap v4 Hook Design Lab.Aiming to tackle the Ethereum MEV problem, the crypto startup Sorella Labs completed a $7.5 million seed round in August of the previous year. Paradigm led this round, and Uniswap Ventures, Bankless Ventures, Robot Ventures, and Nascent also participated. Sorella Labs is developing tools to address Ethereum&apos;s Maximum Extractable Value (MEV) issue, including Angstrom.</description>
+      <pubDate>Fri, 25 Jul 2025 16:32:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21896</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Coinbase CEO Clarifies Addition of RSC to Listing Roadmap</title>
       <link>https://www.lookonchain.com/feeds/21895</link>
       <description>On July 26th, Brian Armstrong, the CEO of Coinbase, clarified the announcement &quot;Coinbase to Add ResearchCoin (RSC) to Listing Roadmap&quot;:&quot;We, as the co-founder of ResearchHub, would like to share some details about the precautions we took a few years ago to eliminate conflicts of interest. All assets listed on Coinbase go through the review of our Digital Asset Support Group (DASG). DASG conducts a review of all assets listed on Coinbase from legal, compliance, and cybersecurity perspectives. I am not a member of DASG, so I do not have voting power to decide which assets receive listing approval. My relationship with ResearchHub has been disclosed to the Coinbase Board, which is a standard practice. I wrote a blog post on this topic in March 2022 and publicly committed not to sell RSC for at least four years, and this commitment remains unchanged.&quot;</description>
-      <pubDate>Fri, 25 Jul 2025 16:24:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 16:24:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21895</guid>
       <category>crypto</category>
@@ -34,7 +51,7 @@
       <title>ResearchCoin (RSC) Experiences Short-Term Surge, Breaking $0.69</title>
       <link>https://www.lookonchain.com/feeds/21894</link>
       <description>On July 26th, based on HTX market information, due to the &quot;Addition to Coinbase Listing Roadmap&quot; news, ResearchCoin (RSC) witnessed a short-term sharp increase and broke through $0.69, with a market capitalization exceeding $20 million.BlockBeats Note: ResearchCoin is a crypto research platform co-founded by Coinbase CEO Brian Armstrong and others and belongs to the DeSci (Decentralized Science) field. The project aims to transform the traditional scientific journal publishing model. Users obtain ResearchCoin (RSC) by publishing content on ResearchHub, and the amount of RSC received is directly proportional to the value that other community members attach to the content.</description>
-      <pubDate>Fri, 25 Jul 2025 16:16:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 16:16:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21894</guid>
       <category>crypto</category>
@@ -52,7 +69,7 @@
       <title>Coinbase Adds ResearchCoin (RSC) to Its Listing Roadmap</title>
       <link>https://www.lookonchain.com/feeds/21893</link>
       <description>On July 26th, as per official channels, Coinbase has made an announcement regarding the inclusion of ResearchCoin (RSC) in its listing roadmap.</description>
-      <pubDate>Fri, 25 Jul 2025 16:09:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 16:08:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21893</guid>
       <category>crypto</category>
@@ -69,7 +86,7 @@
       <title>Another Appearance of Ancient BTC Whale After 14.5 Years of Dormancy, Holding Assets Worth Approximately $457 Million</title>
       <link>https://www.lookonchain.com/feeds/21892</link>
       <description>On July 25th, according to on-chain analyst AI Auntie (@ai_9684xtpa), the sell-off pressure from an ancient whale that holds 80,000 BTC is coming to an end. Meanwhile, another dormant whale that has been holding coins for 14.5 years may be getting ready to sell. The address &quot;bc1qsea3m&quot; made its first external transfer since January 2011 yesterday. And the receiving address moved 50 BTC to the address &quot;bc1q5&quot; 2 hours ago. The ownership of this receiving address is unknown, but it has interacted with addresses related to Coinbase, B2C2, and Galaxy Digital. The ancient whale holds 3,963 BTC, which is approximately $457 million, and its cost basis per coin is astonishingly low at $0.32.</description>
-      <pubDate>Fri, 25 Jul 2025 15:56:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 15:56:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21892</guid>
       <category>crypto</category>
@@ -90,7 +107,7 @@
       <title>Analysis: The current selling pressure on Bitcoin is mainly coming from Coinbase, with another 3,169 BTC transferred in 1 hour ago</title>
       <link>https://www.lookonchain.com/feeds/21891</link>
       <description>July 25th: In a post, on-chain data analyst Murphy stated that the current selling pressure in the Bitcoin market is mainly originating from Coinbase. At approximately 10 a.m. this morning, 4950 BTC was transferred to Coinbase, resulting in Bitcoin dropping to around $115,000; however, one hour ago, another 3169 BTC was transferred to Coinbase.Analyst Murphy indicated that the on-chain data is only updated up to this point. If there are no new large transfers following this, it is anticipated that it will drop to around $115,000; if the on-chain BTC transfers to Coinbase continue, it is estimated that there is still downside potential.</description>
-      <pubDate>Fri, 25 Jul 2025 15:48:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 15:48:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21891</guid>
       <category>crypto</category>
@@ -110,7 +127,7 @@
       <title>Whale &quot;Sets 10 Major Goals&quot; After Previously Closing Short Position with Profit, Opens New Short at $116,065.2 for BTC</title>
       <link>https://www.lookonchain.com/feeds/21890</link>
       <description>On July 25th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the whale known as &quot;Setting 10 Big Targets First&quot; has closed its previous short positions in BTC and ETH. It has selected new entry points and opened new short positions.Previous Positions:The short entry price of BTC was $119,425, with an intraday high floating profit of $8.5 million. It was then speculated that this position was closed for profit-taking. The short entry price of ETH was $3,528.85, and it is speculated that this position was stopped out with a loss.Current Position:It is continuing to short BTC with a new entry price of $116,065.2.</description>
-      <pubDate>Fri, 25 Jul 2025 15:32:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 15:45:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21890</guid>
       <category>crypto</category>
@@ -132,7 +149,7 @@
       <title>The US Department of Justice is considering charging DragonFly employees in the Tornado Cash case.</title>
       <link>https://www.lookonchain.com/feeds/21889</link>
       <description>On July 25th, as per crypto journalist Eleanor Terrett, in the latest trial update regarding Tornado Cash&apos;s co-founder and developer Roman Storm, Assistant Prosecutor Rehn disclosed that the U.S. Department of Justice (DOJ) seemingly is still in the process of considering bringing charges against an undisclosed number of DragonFly&apos;s employees. It is not merely limited to DragonFly&apos;s General Partner Tom Schmidt.Dragonfly is the venture capital firm that backs Tornado Cash. Yesterday in court, emails between Roman Storm and DragonFly&apos;s General Partner Tom Schmidt were presented. One of the emails showed that Storm and his team were seeking feedback on adding Know Your Customer (KYC) to the platform. The defense had requested Schmidt to testify, but he invoked the Fifth Amendment right through his lawyer (the right to refuse to testify). The trial will continue next week, and more information is expected at that time. Closing arguments are also anticipated to take place next week.</description>
-      <pubDate>Fri, 25 Jul 2025 15:32:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 15:45:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21889</guid>
       <category>crypto</category>
@@ -149,7 +166,7 @@
       <title>If Bitcoin drops below $114,000, the mainstream CEX long liquidation pressure will reach $1.78 billion</title>
       <link>https://www.lookonchain.com/feeds/21888</link>
       <description>On July 25th, according to Coinglass data, in the event that Bitcoin drops below $114,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $1.78 billion.On the other hand, if Bitcoin surges above $117,000, the cumulative intensity of short liquidation on mainstream CEXs will reach $1.09 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, intensity.Consequently, the liquidation chart shows to what degree the price of the underlying asset will be influenced when it attains a certain level. A higher &quot;liquidation bar&quot; indicates that the price, upon reaching that level, will react more vigorously due to a liquidity avalanche.</description>
-      <pubDate>Fri, 25 Jul 2025 15:32:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 14:45:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21888</guid>
       <category>crypto</category>
@@ -169,7 +186,7 @@
       <title>Bitcoin Falls Below $115,000, 24-hour Decline of 3.39%</title>
       <link>https://www.lookonchain.com/feeds/21887</link>
       <description>On July 25th, according to HTX market data, Bitcoin fell below $115,000, experiencing a 24-hour decline of 3.39%.</description>
-      <pubDate>Fri, 25 Jul 2025 14:32:08 +0000</pubDate>
+      <pubDate>Fri, 25 Jul 2025 14:45:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21887</guid>
       <category>crypto</category>
@@ -183,27 +200,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Pantera Founder: Blockchains like Ethereum and Solana Have Advantages that Bitcoin Does Not</title>
-      <link>https://www.lookonchain.com/feeds/21886</link>
-      <description>On July 25th, according to a report in Fortune, the founder of Pantera Capital emphasized the reasons for investing in a diversified portfolio of blockchain and projects during an interview. &quot;There isn&apos;t just one internet company, is there? That&apos;s precisely how I view blockchain. Although Bitcoin is dominant, its use cases are relatively limited, especially in the context where supporters are promoting decentralized finance applications such as payments and lending. Other blockchains like Ethereum and Solana have advantages that Bitcoin lacks, including faster speeds, programmability, and lower transaction fees. Stablecoins are expected to bring about a breakthrough for the entire industry. Especially as banks and major tech companies start to explore this area. As the trend of enterprises adopting stablecoins strengthens, it will attract more participants to join the blockchain ecosystem.&quot;</description>
-      <pubDate>Fri, 25 Jul 2025 14:32:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21886</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
