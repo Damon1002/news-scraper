@@ -1,9 +1,5 @@
 # Fast Feed Update Status
-<<<<<<< HEAD
-Last updated: Fri Jul 25 20:50:52 UTC 2025
-=======
-Last updated: Fri Jul 25 20:47:43 UTC 2025
->>>>>>> origin/main
+Last updated: Fri Jul 25 21:02:35 UTC 2025
 Categories: entertainment,crypto
 
 ## Feed Files Generated
