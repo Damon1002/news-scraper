@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml</link>
     <description>Latest technology news from Hacker News</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jul 2025 03:13:21 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 03:13:21 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 03:41:52 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 03:41:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>technology</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/technology/hacker-news.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Anthropic teams use Claude Code</title>
-      <link>https://www.anthropic.com/news/how-anthropic-teams-use-claude-code</link>
-      <description>96 points 63 comments by yurivish on Hacker News</description>
-      <pubDate>Fri, 25 Jul 2025 01:43:27 +0000</pubDate>
+      <title>Alto turns your Apple Notes into a website</title>
+      <link>https://alto.so/</link>
+      <description>35 points 12 comments by colinprince on Hacker News</description>
+      <pubDate>Fri, 25 Jul 2025 00:39:55 +0000</pubDate>
       <source>Hacker News</source>
-      <guid isPermaLink="true">https://www.anthropic.com/news/how-anthropic-teams-use-claude-code</guid>
+      <guid isPermaLink="true">https://alto.so/</guid>
       <category>technology</category>
       <category>hacker news</category>
 
@@ -27,7 +27,7 @@
     <item>
       <title>A GPU Calculator That Helps Calculate What GPU to Use</title>
       <link>https://calculator.inference.ai/</link>
-      <description>44 points 15 comments by chlobunnee on Hacker News</description>
+      <description>49 points 15 comments by chlobunnee on Hacker News</description>
       <pubDate>Thu, 24 Jul 2025 22:14:20 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://calculator.inference.ai/</guid>
@@ -36,20 +36,9 @@
 
     </item>
     <item>
-      <title>Scientists may have found a way to eliminate chromosome linked to Down syndrome</title>
-      <link>https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019</link>
-      <description>209 points 151 comments by MattSayar on Hacker News</description>
-      <pubDate>Thu, 24 Jul 2025 21:59:19 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Graphene OS: a security-enhanced Android build</title>
       <link>https://lwn.net/SubscriberLink/1030004/898017c7953c0946/</link>
-      <description>148 points 69 comments by madars on Hacker News</description>
+      <description>164 points 79 comments by madars on Hacker News</description>
       <pubDate>Thu, 24 Jul 2025 21:48:53 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://lwn.net/SubscriberLink/1030004/898017c7953c0946/</guid>
@@ -58,20 +47,9 @@
 
     </item>
     <item>
-      <title>New Aarch64 Back End</title>
-      <link>https://ziglang.org/devlog/2025/#2025-07-23</link>
-      <description>71 points 19 comments by Bogdanp on Hacker News</description>
-      <pubDate>Thu, 24 Jul 2025 21:20:01 +0000</pubDate>
-      <source>Hacker News</source>
-      <guid isPermaLink="true">https://ziglang.org/devlog/2025/#2025-07-23</guid>
-      <category>technology</category>
-      <category>hacker news</category>
-
-    </item>
-    <item>
       <title>Inter-Planetary Network Special Interest Group</title>
       <link>https://www.ipnsig.org</link>
-      <description>104 points 27 comments by OhMeadhbh on Hacker News</description>
+      <description>111 points 29 comments by OhMeadhbh on Hacker News</description>
       <pubDate>Thu, 24 Jul 2025 20:19:57 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.ipnsig.org</guid>
@@ -80,9 +58,20 @@
 
     </item>
     <item>
+      <title>Air Force unit suspends use of Sig Sauer pistol after shooting death of airman</title>
+      <link>https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death</link>
+      <description>123 points 215 comments by duxup on Hacker News</description>
+      <pubDate>Thu, 24 Jul 2025 18:16:03 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>There is no memory safety without thread safety</title>
       <link>https://www.ralfj.de/blog/2025/07/24/memory-safety.html</link>
-      <description>275 points 254 comments by tavianator on Hacker News</description>
+      <description>281 points 262 comments by tavianator on Hacker News</description>
       <pubDate>Thu, 24 Jul 2025 15:35:39 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.ralfj.de/blog/2025/07/24/memory-safety.html</guid>
@@ -91,9 +80,20 @@
 
     </item>
     <item>
+      <title>PSA: SQLite WAL checksums fail silently and may lose data</title>
+      <link>https://avi.im/blag/2025/sqlite-wal-checksum/</link>
+      <description>245 points 111 comments by avinassh on Hacker News</description>
+      <pubDate>Thu, 24 Jul 2025 14:48:04 +0000</pubDate>
+      <source>Hacker News</source>
+      <guid isPermaLink="true">https://avi.im/blag/2025/sqlite-wal-checksum/</guid>
+      <category>technology</category>
+      <category>hacker news</category>
+
+    </item>
+    <item>
       <title>AMD CEO sees chips from TSMC&apos;s US plant costing 5%-20% more</title>
       <link>https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more</link>
-      <description>268 points 449 comments by mfiguiere on Hacker News</description>
+      <description>277 points 453 comments by mfiguiere on Hacker News</description>
       <pubDate>Wed, 23 Jul 2025 19:34:56 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more</guid>
@@ -104,7 +104,7 @@
     <item>
       <title>Positron – A next-generation data science IDE</title>
       <link>https://positron.posit.co/</link>
-      <description>115 points 48 comments by amai on Hacker News</description>
+      <description>120 points 48 comments by amai on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 12:59:56 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://positron.posit.co/</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>I wasted weeks hand optimizing assembly because I benchmarked on random data</title>
       <link>https://www.vidarholen.net/contents/blog/?p=1160</link>
-      <description>238 points 71 comments by thunderbong on Hacker News</description>
+      <description>244 points 71 comments by thunderbong on Hacker News</description>
       <pubDate>Mon, 21 Jul 2025 07:40:01 +0000</pubDate>
       <source>Hacker News</source>
       <guid isPermaLink="true">https://www.vidarholen.net/contents/blog/?p=1160</guid>
