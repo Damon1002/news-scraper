@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jul 2025 15:52:09 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 15:52:09 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 16:15:36 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 16:15:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,44 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>ZORA Surges Over 43% in 24 Hours, Hits New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/21954</link>
+      <description>On July 26th, based on HTX market data, ZORA has seen a surge of 43.11% within the past 24 hours. It is currently trading at $0.06125 and has once reached a peak above $0.06455, setting a new all-time high. The current market capitalization is reported to be $216 million.</description>
+      <pubDate>Sat, 26 Jul 2025 16:08:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21954</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Analysis: pump.fun may be launching a trading volume incentive program, with the incentive token being PUMP.</title>
+      <link>https://www.lookonchain.com/feeds/21955</link>
+      <description>On July 27th, according to the cryptocurrency research firm Dumpster DAO, it is possible that &quot;pump.fun is preparing to launch a trading volume incentive plan that will last for at least 30 days, and the reward token is PUMP. The official Pump SDK has recently been updated to support this incentive mechanism, with an added admin function that can set incentive parameters such as the daily distribution amount of PUMP tokens.In addition, methods for tracking user trading volume and claiming PUMP rewards have been included. The current incentive scheme is based on a 30-day period, but if the team desires, this mechanism can be reused or extended. The IDL (Interface Description Language) of the Pump bonding curve program was also updated a few hours ago, indicating that transaction volume based on the bonding curve may also be included in the incentive rewards.The total amount of reward tokens for this incentive plan is currently unknown. In an updated SDK test version, it is set to di</description>
+      <pubDate>Sat, 26 Jul 2025 16:08:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21955</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>TRUMP&apos;s TOP 2 Holdings Address has once again acquired an additional 307,000 tokens today, worth $3.1 million.</title>
       <link>https://www.lookonchain.com/feeds/21953</link>
       <description>July 26th. According to on-chain analyst AI Auntie ai_9684xtpa, the TOP2 address of TRUMP individual/institutional holdings is still in a continuous process of accumulation:Addresses 69P4R...BhYLQ and 2p63s...ePVxu jointly hold 2,424,094 TRUMP, with a value of 24.67 million US dollars. Their average cost is approximately 10.19 US dollars, and the current price is basically at their cost. Moreover, the address was still accumulating 7 hours ago, withdrawing 307,000 tokens (3.1 million US dollars) from OKX. &quot;Currently, there is only a 245,000 token difference from TOP1.&quot;</description>
-      <pubDate>Sat, 26 Jul 2025 15:16:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 15:16:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21953</guid>
       <category>crypto</category>
@@ -35,7 +69,7 @@
       <title>Pudgy Penguins Clarification: Did Not Acquire OpenSea</title>
       <link>https://www.lookonchain.com/feeds/21952</link>
       <description>On July 26th, Beau, the security lead of Pudgy Penguins, posted a clarification stating, &quot;Pudgy Penguins did not acquire Opensea... Please stay calm.The scale of the Penguin Plan that we have in mind is far greater than your speculation about an acquisition. Instead of speculating about these, why not discuss our partnerships with Lufthansa and NASCAR and help us find the next outstanding brand to expand together.&quot;Earlier today, BlockBeats reported that Luca Netz, the CEO of Pudgy Penguins, revealed that they had acquired a company in December of last year, and the community generally speculated that it was OpenSea.</description>
-      <pubDate>Sat, 26 Jul 2025 15:16:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 15:16:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21952</guid>
       <category>crypto</category>
@@ -52,7 +86,7 @@
       <title>After a week of market volatility that liquidated some traders, @TheWhiteWhaleHL is still holding the #1 spot on the leaderboard.</title>
       <link>https://www.lookonchain.com/feeds/21950</link>
       <description>After a week of market volatility that liquidated some traders, @TheWhiteWhaleHL is still holding the #1 spot on the leaderboard. Current long positions: 48,405 $ETH($181M), 810,717 $SOL($152M),223 $BTC($26M).</description>
-      <pubDate>Sat, 26 Jul 2025 14:51:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:14:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21950</guid>
       <category>crypto</category>
@@ -70,7 +104,7 @@
       <title>AguilaTrades&apos; Ethereum Long Position is now in a floating profit of over $1.15 million, with a liquidation price of $3,698.90.</title>
       <link>https://www.lookonchain.com/feeds/21949</link>
       <description>On July 26th, based on on-chain data, AguilaTrades&apos; 25x long position in Ethereum is currently in a profit of more than $1.15 million.The position size is $93,682,519.86 (25,000 ETH), with an entry price of $3,701.04 and a liquidation price of $3,698.90.</description>
-      <pubDate>Sat, 26 Jul 2025 13:51:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:14:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21949</guid>
       <category>crypto</category>
@@ -91,7 +125,7 @@
       <title>James Wynn&apos;s 10x long position on PEPE is currently showing an unrealized gain of $180,000, with the account balance standing at only $450,000.</title>
       <link>https://www.lookonchain.com/feeds/21948</link>
       <description>On July 26th, as per on-chain data, James Wynn&apos;s 10x PEPE long position is currently showing an unrealized profit of $180,000, while the account balance remains at just $450,000.The position size is $4,715,995.96, with an entry price of $0.01219 and a liquidation price of $0.012054.Previously, James Wynn&apos;s long positions on Bitcoin and PEPE had been consecutively liquidated five times.</description>
-      <pubDate>Sat, 26 Jul 2025 13:51:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:14:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21948</guid>
       <category>crypto</category>
@@ -109,7 +143,7 @@
       <title>Minsheng Securities: Building a Stablecoin and RWA Ecosystem, Asset On-chain to Kick Off the Web3.0 Era</title>
       <link>https://www.lookonchain.com/feeds/21947</link>
       <description>July 26th: China Minsheng Securities issued a research report indicating that the powerful alliance between the government and enterprises has constructed an ecological closed loop of a stablecoin anchored by high-quality Chinese assets—RWA. It is expected that the on-chainization of relevant assets will enter the era of Web3.0, starting from Ant Group, Longi Green Energy Technology, and XinAo Group&apos;s new energy RWA assets, and expanding to potential directions such as computing power leasing, facilitating Chinese high-quality assets to become the core cornerstone of on-chain diversified assets.At the same time, referring to the development process of overseas stock token issuers like Robinhood, domestic internet brokers, fintech companies, and stock or cryptocurrency exchanges in China are anticipated to achieve value reassessment in this wave, with the &quot;license effect&quot; serving as the core competitiveness of domestic related vendors. The main points of Minsheng Securities are as fol</description>
-      <pubDate>Sat, 26 Jul 2025 13:51:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:14:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21947</guid>
       <category>crypto</category>
@@ -123,29 +157,10 @@
 
     </item>
     <item>
-      <title>A whale doubled down on a long position on XRP, SOL, and BONK, with a principal exceeding 10 million US dollars</title>
-      <link>https://www.lookonchain.com/feeds/21944</link>
-      <description>On July 26th, based on the monitoring of Onchain Lens, a whale deposited 11.37 million USDC into HyperLiquid and established a 2x leveraged long position for XRP and SOL. Additionally, they also initiated a small 2x leveraged long position for BONK.</description>
-      <pubDate>Sat, 26 Jul 2025 12:51:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21944</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>The current mainstream CEX and DEX funding rate display shows that the market is still in a neutral state</title>
       <link>https://www.lookonchain.com/feeds/21946</link>
       <description>On July 26th, according to Coinglass data, the current funding rates of mainstream CEXs and DEXs show that the market remains in a neutral state. The specific funding rates for mainstream coins are presented in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the benchmark rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it indicates a generally bearish market.</description>
-      <pubDate>Sat, 26 Jul 2025 12:51:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 13:14:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21946</guid>
       <category>crypto</category>
@@ -162,7 +177,7 @@
       <title>NFT project Rektguy&apos;s floor price surged over 47% in the past 24 hours, reaching 1.062 ETH.</title>
       <link>https://www.lookonchain.com/feeds/21945</link>
       <description>On July 26th, the floor price of the NFT project Rektguy has seen a 47.59% surge in the past 24 hours and reached 1.062 ETH. It has witnessed a 108.24% increase in 7 days.</description>
-      <pubDate>Sat, 26 Jul 2025 12:51:16 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 12:14:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21945</guid>
       <category>crypto</category>
@@ -175,23 +190,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Next Week Macro Outlook: Fed Rate Decision, Non-Farm Payrolls, PCE Data Release, and US-China Trade Talks</title>
-      <link>https://www.lookonchain.com/feeds/21943</link>
-      <description>On July 26th, the significant macroeconomic data to be disclosed next week is as follows:Wednesday 20:15, the US July ADP Employment Change (k), with an expected value of 7.5 and a previous value of -3.5;Wednesday 00:00, a member of the Politburo of the Communist Party of China and the vice premier of the State Council, He Lifeng, will travel to Sweden from July 27th to 30th to conduct economic and trade negotiations with the US side;Thursday 02:00, the FOMC announcement of the Federal Funds Rate;Thursday 02:30, Fed Chair Powell holds a Monetary Policy Press Conference;Thursday 20:30, the US Initial Jobless Claims for the week ending on July 26th (k), with a previous value of 21.7;Thursday 20:30, the US June Core PCE Price Index y/y, with an expected value of 2.70% and a previous value of 2.70%;Friday, Hong Kong&apos;s &quot;Stablecoin Regulation&quot; comes into effect;Friday 20:30, the US July Nonfarm Payrolls (k), with an expected value of 10.2 and a previous value of 14.7;Friday 22:00, t</description>
-      <pubDate>Sat, 26 Jul 2025 11:51:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21943</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
