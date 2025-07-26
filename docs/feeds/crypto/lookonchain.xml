@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jul 2025 09:36:56 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 09:36:56 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 09:50:14 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 09:50:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,28 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>This month, the buyback of tokens by pump.fun has been severely &quot;halved,&quot; with the $19.5 million PUMP now only worth $8.2 million.</title>
+      <link>https://www.lookonchain.com/feeds/21931</link>
+      <description>On July 26th, as monitored by OnchainLens, 8 to 10 days ago, pump.fun allocated 120,450 SOL (valued at $19.5 million at that time) to purchase 3.07 billion PUMP tokens. However, currently, the total value of these tokens amounts only to $8.2 million.Related wallet addresses:3vkpy5YHqnqJTnA5doWTpcgKyZiYsaXYzYM9wm8s3WTiG8CcfRffqZWHSAQJXLDfwbAkGE95SddUqVXnTrL4kqjm</description>
+      <pubDate>Sat, 26 Jul 2025 09:40:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21931</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>「LUNA/UST Flash Crash Shorting Whale」 Acquires 80.2623 WBTC at an Average Price of $118,174</title>
       <link>https://www.lookonchain.com/feeds/21930</link>
       <description>On July 26th, according to on-chain analyst AI Auntie @ai_9684xtpa, the &quot;Whale Who Shorted BTC to Earn $5.16 Million During the LUNA/UST Flash Crash&quot; has once again entered the market, this time focusing on WBTC.In the past half an hour, he spent $9.485 million to purchase 80.2623 WBTC at an average price of $118,174. &quot;The bearish impact of the ancient whale&apos;s sell-off has become a reality, and it seems that this smart money is optimistic about the future performance.&quot;</description>
-      <pubDate>Sat, 26 Jul 2025 09:25:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 09:24:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21930</guid>
       <category>crypto</category>
@@ -38,7 +56,7 @@
       <title>This week, the net inflow into the US Ethereum spot ETF was $18.465 billion, while during the same period, the Bitcoin ETF saw only $72.3 million in inflows.</title>
       <link>https://www.lookonchain.com/feeds/21929</link>
       <description>On July 26th, as reported by Farside Monitor, the net inflow of the US Ethereum spot ETF this week reached $18.465 billion. In contrast, during the same period, the net inflow of the Bitcoin spot ETF was only $72.30 million.</description>
-      <pubDate>Sat, 26 Jul 2025 09:16:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 09:16:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21929</guid>
       <category>crypto</category>
@@ -60,7 +78,7 @@
       <title>SharpLink has spent approximately $12.5 million to hire former BlackRock executive Joseph Chalom as the company&apos;s Co-CEO.</title>
       <link>https://www.lookonchain.com/feeds/21928</link>
       <description>On July 26th, according to SharpLink Gaming, Inc. as stated in an 8-K filing disclosed in July 2025, Joseph Chalom, a former executive of BlackRock, was appointed as the Co-CEO of the company, with the appointment taking effect on July 24, 2025. Joseph Chalom had previously been involved in the launch of BlackRock&apos;s Bitcoin Spot ETF IBIT, BlackRock&apos;s Ethereum Spot ETF ETHA, and BUIDL (the first tokenized sovereign debt fund on Ethereum). The current CEO, Rob Phythian, will share this position with Chalom, and the details of Chalom&apos;s new hiring agreement are as follows:An annual salary of $750,000, a target bonus equivalent to 100% of the annual salary, 7 million restricted stock units (RSUs) with a two-thirds time-based vesting and one-third performance-based vesting, a Long-Term Incentive Plan (LTIP) for the 2026 fiscal year of not less than $4 million, immediate vesting with a &quot;double-trigger&quot; upon a Change in Control (CIC), and a severance package of two times the annual salary an</description>
-      <pubDate>Sat, 26 Jul 2025 09:01:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 09:00:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21928</guid>
       <category>crypto</category>
@@ -78,7 +96,7 @@
       <title>If Bitcoin breaks $119,000, the mainstream CEX aggregate short liquidation pressure will reach $948 million.</title>
       <link>https://www.lookonchain.com/feeds/21927</link>
       <description>On July 26th, based on Coinglass data, if Bitcoin surges above $119,000, the total short liquidation strength on mainstream CEXs will amount to $948 million. In contrast, if Bitcoin drops below $116,000, the total long liquidation strength on mainstream CEXs will reach $588 million.BlockBeats Notes: The liquidation chart does not display the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, strength.Consequently, the liquidation chart shows the extent to which the price of the underlying asset will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price, when reached, will have a more pronounced reaction due to a liquidity avalanche.</description>
-      <pubDate>Sat, 26 Jul 2025 08:48:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 08:49:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21927</guid>
       <category>crypto</category>
@@ -98,7 +116,7 @@
       <title>BSC Ecosystem Meme Coin Totakeke&apos;s Market Cap Once Reached $15 Million, with a 24-hour Growth of 420%</title>
       <link>https://www.lookonchain.com/feeds/21926</link>
       <description>On July 26th, according to GMGN market data, the Meme coin Totakeke in the BSC ecosystem briefly reached a market capitalization of 15 million US dollars. Currently, it stands at 12.97 million US dollars, with a 24-hour price increase of 420% and a 24-hour trading volume of 5.8 million US dollars.Furthermore, Totakeke has officially announced its partnership with the well-known Meme project CHEEMS in the BSC ecosystem.BlockBeats Note: Meme coins typically exhibit significant price volatility, often driven by market sentiment and hype surrounding a concept and lacking actual value or a practical use case. Investors should be cautious of the risks involved.</description>
-      <pubDate>Sat, 26 Jul 2025 08:41:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 08:49:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21926</guid>
       <category>crypto</category>
@@ -116,7 +134,7 @@
       <title>Gate Launchpad has officially launched the Ika (IKA) token sale, with a total allocation of 200 million IKA.</title>
       <link>https://www.lookonchain.com/feeds/21925</link>
       <description>July 26th, according to an official announcement, Ika (IKA) has officially been launched on Gate Launchpad and the subscription is now open. It is reported that the subscription period for this event is from July 26, 2025, at 1:00 PM to July 29, 2025, at 1:00 PM (UTC+8). Users can participate in the subscription by using USD1 and GT to subscribe to the IKA token. The subscription price is 1 IKA = 0.001424 GT and 0.025 USD1. The total subscription amount is 200 million IKA.</description>
-      <pubDate>Sat, 26 Jul 2025 08:36:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 08:49:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21925</guid>
       <category>crypto</category>
@@ -134,7 +152,7 @@
       <title>Gate Launchpad has launched Ika (IKA) for 1 hour, and the subscription amount has exceeded 1.08 billion USD.</title>
       <link>https://www.lookonchain.com/feeds/21924</link>
       <description>July 26th. According to official data, the Ika (IKA) project was officially launched on Gate Launchpad at 13:00 (UTC+8) on July 26th. Within just one hour after the event began, the subscription response was extremely enthusiastic, and the subscription amount had already exceeded 108 million US dollars.It is reported that the total quota for this Launchpad is 2 billion IKA. Users can participate by using USD1 and GT. The subscription price is 1 IKA = 0.001424 GT and 0.025 USD1. The subscription will continue until July 29 at 13:00 (UTC+8). Token distribution will be based on the proportion of individual subscription amounts to the total subscription amount per hour. The earlier one subscribes, the higher the allocation, with a first-come, first-served basis.</description>
-      <pubDate>Sat, 26 Jul 2025 08:36:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 08:49:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21924</guid>
       <category>crypto</category>
@@ -148,30 +166,10 @@
 
     </item>
     <item>
-      <title>This week the US Bitcoin spot ETF saw a net inflow of $72.3 million</title>
-      <link>https://www.lookonchain.com/feeds/21922</link>
-      <description>On July 26th, based on the monitoring of Farside Investors, this week the net inflow of the US Bitcoin spot ETF is $72.3 million. It includes the following:BlackRock IBIT: +$267.9 millionFranklin FBTC: -$123.2 millionBitwise BITB: +$4.7 millionARK ARKB: -$90.2 millionFranklin EZBC: +$3.5 millionVanEck HODL: +$62.1 millionGrayscale GBTC: -$79.7 millionGrayscale BTC Mini: +$27.2 million</description>
-      <pubDate>Sat, 26 Jul 2025 07:36:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21922</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Cathie Wood: Ethereum Staking Redemption Demand Surges Possibly Due to Robinhood Offering 2% Reward</title>
       <link>https://www.lookonchain.com/feeds/21923</link>
       <description>On July 26th, in reply to community queries regarding the sudden increase in the demand for Ethereum staking rewards, Cathie Wood, the CEO of ARK Invest, responded as follows: &quot;Robinhood is providing a 2% matching bonus for cryptocurrency transfers. Venture capitalists and other investors are staking their ETH with Treasury Companies (DATs) in order to double their funds after the lock-up period. Similar to $MSTR and $BMNR, Treasury Company stocks serve as a means for brokerage advisors to offer clients BTC and ETH investment opportunities.&quot;</description>
-      <pubDate>Sat, 26 Jul 2025 07:36:04 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 07:49:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21923</guid>
       <category>crypto</category>
@@ -187,12 +185,12 @@
 
     </item>
     <item>
-      <title>Publicly traded company Bitcoin Treasury Capital increases its holdings by 10 BTC, bringing its total position to approximately 166 BTC.</title>
-      <link>https://www.lookonchain.com/feeds/21921</link>
-      <description>On July 26th, the publicly traded company Bitcoin Treasury Capital announced that it had purchased 10 BTC with an average price of $119,687 per BTC, amounting to approximately $1.2 million (about 11.5 million Swedish Krona). The company currently holds approximately 166 BTC.</description>
-      <pubDate>Sat, 26 Jul 2025 06:36:04 +0000</pubDate>
+      <title>This week the US Bitcoin spot ETF saw a net inflow of $72.3 million</title>
+      <link>https://www.lookonchain.com/feeds/21922</link>
+      <description>On July 26th, based on the monitoring of Farside Investors, this week the net inflow of the US Bitcoin spot ETF is $72.3 million. It includes the following:BlackRock IBIT: +$267.9 millionFranklin FBTC: -$123.2 millionBitwise BITB: +$4.7 millionARK ARKB: -$90.2 millionFranklin EZBC: +$3.5 millionVanEck HODL: +$62.1 millionGrayscale GBTC: -$79.7 millionGrayscale BTC Mini: +$27.2 million</description>
+      <pubDate>Sat, 26 Jul 2025 06:49:20 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21921</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21922</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -203,6 +201,7 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
+      <category>high-value</category>
 
     </item>
   </channel>
