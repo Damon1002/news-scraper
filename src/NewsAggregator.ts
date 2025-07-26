@@ -7,7 +7,6 @@ import { NewsSource } from './sources/NewsSource.js';
 import { SETNEntertainmentSource } from './sources/SETNEntertainmentSource.js';
 import { TVBSEntertainmentSource } from './sources/TVBSEntertainmentSource.js';
 import { NextAppleEntertainmentSource } from './sources/NextAppleEntertainmentSource.js';
-import { DailyMailTVShowbizSource } from './sources/DailyMailTVShowbizSource.js';
 import { PageSixEntertainmentSource } from './sources/PageSixEntertainmentSource.js';
 import { HK01EntertainmentSource } from './sources/HK01EntertainmentSource.js';
 import { TechflowpostSource } from './sources/TechflowpostSource.js';
@@ -79,9 +78,6 @@ export class NewsAggregator {
         }
         if (config.id === 'nextapple-entertainment') {
           return new NextAppleEntertainmentSource(config);
-        }
-        if (config.id === 'dailymail-tvshowbiz') {
-          return new DailyMailTVShowbizSource(config);
         }
         if (config.id === 'pagesix-entertainment') {
           return new PageSixEntertainmentSource(config);
@@ -189,7 +185,6 @@ export class NewsAggregator {
     const totalItems = flatResults.reduce((sum, r) => sum + (r.count || 0), 0);
     console.log(`\n📊 Parallel processing complete: ${successCount}/${flatResults.length} feeds, ${totalItems} total items`);
 
-    await this.generateMasterFeed();
     await this.generateIndexPage();
     
     console.log('\n🎉 Parallel source feed generation completed successfully!');
@@ -378,49 +373,6 @@ export class NewsAggregator {
     );
   }
 
-  private async generateMasterFeed(): Promise<void> {
-    console.log('\n🔄 Generating master feed...');
-    
-    const enabledCategories = this.configLoader.getEnabledCategories();
-    // Exclude entertainment from master feed as requested
-    const masterCategories = enabledCategories.filter(cat => cat !== 'entertainment');
-    const allItems: NewsItem[] = [];
-
-    for (const category of masterCategories) {
-      const categoryResults = await this.scrapeCategory(category);
-      const categoryItems = this.consolidateResults(categoryResults);
-      allItems.push(...categoryItems);
-    }
-
-    const consolidatedItems = this.consolidateResults([{
-      items: allItems,
-      success: true,
-      timestamp: new Date(),
-      source: 'master',
-      category: NewsCategory.GENERAL
-    }]);
-
-    const metadata = this.rssGenerator.createFeedMetadata();
-    const feedXML = this.rssGenerator.generateRSSFeed(consolidatedItems, metadata);
-    
-    const outputDir = this.configLoader.getGlobalConfig().outputDirectory;
-    const feedPath = `${outputDir}/master.xml`;
-    
-    writeFileSync(feedPath, feedXML, 'utf-8');
-    console.log(`✅ Generated master feed with ${consolidatedItems.length} items`);
-
-    // Register the master feed in the registry
-    const sources = [...new Set(consolidatedItems.map(item => item.source))];
-    
-    this.feedRegistry.registerFeed(
-      'Master Feed',
-      undefined,
-      feedPath,
-      consolidatedItems.length,
-      sources,
-      'Combined feed from all categories and sources'
-    );
-  }
 
   private async generateIndexPage(): Promise<void> {
     const enabledCategories = this.configLoader.getEnabledCategories();

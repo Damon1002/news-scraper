@@ -101,7 +101,7 @@ ${rssItems}
   }
 
   public createFeedMetadata(
-    category?: NewsCategory,
+    category: NewsCategory,
     baseUrl: string = 'https://damon1002.github.io/news-scraper'
   ): FeedMetadata {
     let categoryName: string;
@@ -112,20 +112,15 @@ ${rssItems}
       categoryName = '娱乐星闻';
       categoryDescription = '来自三立新闻网的最新娱乐星闻';
       language = 'zh-TW';
-    } else if (category) {
+    } else {
       categoryName = category.charAt(0).toUpperCase() + category.slice(1);
       categoryDescription = `${categoryName} news`;
-    } else {
-      categoryName = 'All';
-      categoryDescription = 'Latest news from multiple sources';
     }
 
     return {
       title: category === 'entertainment' ? categoryName : `News Feed - ${categoryName}`,
       description: category === 'entertainment' ? categoryDescription : `Automated ${categoryDescription} aggregated from various sources`,
-      link: category ? 
-        `${baseUrl}/feeds/${category}.xml` : 
-        `${baseUrl}/feeds/master.xml`,
+      link: `${baseUrl}/feeds/${category}.xml`,
       language,
       category,
       lastBuildDate: new Date(),
@@ -186,8 +181,6 @@ ${rssItems}
         });
       });
     
-    // Add external feeds (Daily Mail - external RSS)
-    feedLinks.push('    <li><a href="https://www.dailymail.co.uk/tvshowbiz/articles.rss" target="_blank">📰 Daily Mail TVShowbiz</a></li>');
     
     const feedLinksHTML = feedLinks.join('\n');
 
@@ -197,7 +190,6 @@ ${rssItems}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Feeds - Multi-Source Aggregator</title>
-    <link rel="alternate" type="application/rss+xml" title="All News" href="feeds/master.xml">
     <style>
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
         .feed-list { list-style-type: none; padding: 0; }
@@ -213,7 +205,6 @@ ${rssItems}
     
     <h2>Available Feeds</h2>
     <ul class="feed-list">
-        <li><a href="feeds/master.xml">🌟 Master Feed (All Categories)</a></li>
 ${feedLinksHTML}
     </ul>
     
