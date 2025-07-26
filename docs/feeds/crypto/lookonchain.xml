@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jul 2025 17:48:00 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 17:48:00 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 17:59:39 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 17:59:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,44 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Analysis: pump.fun may be launching a trading volume incentive program, with the incentive token being PUMP.</title>
+      <link>https://www.lookonchain.com/feeds/21955</link>
+      <description>On July 27th, according to the cryptocurrency research firm Dumpster DAO, it is possible that &quot;pump.fun is preparing to launch a trading volume incentive plan that will last for at least 30 days, and the reward token is PUMP. The official Pump SDK has recently been updated to support this incentive mechanism, with an added admin function that can set incentive parameters such as the daily distribution amount of PUMP tokens.In addition, methods for tracking user trading volume and claiming PUMP rewards have been included. The current incentive scheme is based on a 30-day period, but if the team desires, this mechanism can be reused or extended. The IDL (Interface Description Language) of the Pump bonding curve program was also updated a few hours ago, indicating that transaction volume based on the bonding curve may also be included in the incentive rewards.The total amount of reward tokens for this incentive plan is currently unknown. In an updated SDK test version, it is set to di</description>
+      <pubDate>Sat, 26 Jul 2025 15:58:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21955</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>ZORA Surges Over 43% in 24 Hours, Hits New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/21954</link>
+      <description>On July 26th, based on HTX market data, ZORA has seen a surge of 43.11% within the past 24 hours. It is currently trading at $0.06125 and has once reached a peak above $0.06455, setting a new all-time high. The current market capitalization is reported to be $216 million.</description>
+      <pubDate>Sat, 26 Jul 2025 15:58:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21954</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>「Big Brother Bull Run」 Eddie Huang&apos;s multi-long positions have reduced the total floating loss to $4.22 million.</title>
       <link>https://www.lookonchain.com/feeds/21957</link>
       <description>On July 27th, based on on-chain data, &quot;Brother Ma Ji&quot; Huang Licheng currently holds a long position worth 141.43 million US dollars on Hyperliquid, which includes ETH, HYPE, and PUMP. Currently, the long positions in ETH and HYPE are in a floating profit state, while the PUMP position is still in a loss.The total floating loss has now been narrowed down to 4.22 million US dollars (excluding the already lost funding rate), as it was previously once floating at a loss of more than 8 million US dollars.</description>
-      <pubDate>Sat, 26 Jul 2025 16:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 15:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21957</guid>
       <category>crypto</category>
@@ -35,7 +69,7 @@
       <title>PUMP has surged by nearly 20% in the last 1 hour, bringing its market capitalization to $10.48 billion.</title>
       <link>https://www.lookonchain.com/feeds/21956</link>
       <description>On July 27th, perhaps due to the news that &quot;pump.fun might launch a trading volume incentive plan with the incentive token being PUMP&quot;, PUMP has seen a nearly 20% surge in the past 1 hour, and its market capitalization has reached $10.48 billion.</description>
-      <pubDate>Sat, 26 Jul 2025 15:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 15:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21956</guid>
       <category>crypto</category>
@@ -50,44 +84,10 @@
 
     </item>
     <item>
-      <title>Analysis: pump.fun may be launching a trading volume incentive program, with the incentive token being PUMP.</title>
-      <link>https://www.lookonchain.com/feeds/21955</link>
-      <description>On July 27th, according to the cryptocurrency research firm Dumpster DAO, it is possible that &quot;pump.fun is preparing to launch a trading volume incentive plan that will last for at least 30 days, and the reward token is PUMP. The official Pump SDK has recently been updated to support this incentive mechanism, with an added admin function that can set incentive parameters such as the daily distribution amount of PUMP tokens.In addition, methods for tracking user trading volume and claiming PUMP rewards have been included. The current incentive scheme is based on a 30-day period, but if the team desires, this mechanism can be reused or extended. The IDL (Interface Description Language) of the Pump bonding curve program was also updated a few hours ago, indicating that transaction volume based on the bonding curve may also be included in the incentive rewards.The total amount of reward tokens for this incentive plan is currently unknown. In an updated SDK test version, it is set to di</description>
-      <pubDate>Sat, 26 Jul 2025 15:47:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21955</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>ZORA Surges Over 43% in 24 Hours, Hits New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/21954</link>
-      <description>On July 26th, based on HTX market data, ZORA has seen a surge of 43.11% within the past 24 hours. It is currently trading at $0.06125 and has once reached a peak above $0.06455, setting a new all-time high. The current market capitalization is reported to be $216 million.</description>
-      <pubDate>Sat, 26 Jul 2025 15:47:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21954</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>TRUMP&apos;s TOP 2 Holdings Address has once again acquired an additional 307,000 tokens today, worth $3.1 million.</title>
       <link>https://www.lookonchain.com/feeds/21953</link>
       <description>July 26th. According to on-chain analyst AI Auntie ai_9684xtpa, the TOP2 address of TRUMP individual/institutional holdings is still in a continuous process of accumulation:Addresses 69P4R...BhYLQ and 2p63s...ePVxu jointly hold 2,424,094 TRUMP, with a value of 24.67 million US dollars. Their average cost is approximately 10.19 US dollars, and the current price is basically at their cost. Moreover, the address was still accumulating 7 hours ago, withdrawing 307,000 tokens (3.1 million US dollars) from OKX. &quot;Currently, there is only a 245,000 token difference from TOP1.&quot;</description>
-      <pubDate>Sat, 26 Jul 2025 14:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21953</guid>
       <category>crypto</category>
@@ -102,10 +102,27 @@
 
     </item>
     <item>
+      <title>Pudgy Penguins Clarification: Did Not Acquire OpenSea</title>
+      <link>https://www.lookonchain.com/feeds/21952</link>
+      <description>On July 26th, Beau, the security lead of Pudgy Penguins, posted a clarification stating, &quot;Pudgy Penguins did not acquire Opensea... Please stay calm.The scale of the Penguin Plan that we have in mind is far greater than your speculation about an acquisition. Instead of speculating about these, why not discuss our partnerships with Lufthansa and NASCAR and help us find the next outstanding brand to expand together.&quot;Earlier today, BlockBeats reported that Luca Netz, the CEO of Pudgy Penguins, revealed that they had acquired a company in December of last year, and the community generally speculated that it was OpenSea.</description>
+      <pubDate>Sat, 26 Jul 2025 14:58:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21952</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>After a week of market volatility that liquidated some traders, @TheWhiteWhaleHL is still holding the #1 spot on the leaderboard.</title>
       <link>https://www.lookonchain.com/feeds/21950</link>
       <description>After a week of market volatility that liquidated some traders, @TheWhiteWhaleHL is still holding the #1 spot on the leaderboard. Current long positions: 48,405 $ETH($181M), 810,717 $SOL($152M),223 $BTC($26M).</description>
-      <pubDate>Sat, 26 Jul 2025 14:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 13:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21950</guid>
       <category>crypto</category>
@@ -120,27 +137,10 @@
 
     </item>
     <item>
-      <title>Pudgy Penguins Clarification: Did Not Acquire OpenSea</title>
-      <link>https://www.lookonchain.com/feeds/21952</link>
-      <description>On July 26th, Beau, the security lead of Pudgy Penguins, posted a clarification stating, &quot;Pudgy Penguins did not acquire Opensea... Please stay calm.The scale of the Penguin Plan that we have in mind is far greater than your speculation about an acquisition. Instead of speculating about these, why not discuss our partnerships with Lufthansa and NASCAR and help us find the next outstanding brand to expand together.&quot;Earlier today, BlockBeats reported that Luca Netz, the CEO of Pudgy Penguins, revealed that they had acquired a company in December of last year, and the community generally speculated that it was OpenSea.</description>
-      <pubDate>Sat, 26 Jul 2025 14:47:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21952</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>AguilaTrades&apos; Ethereum Long Position is now in a floating profit of over $1.15 million, with a liquidation price of $3,698.90.</title>
       <link>https://www.lookonchain.com/feeds/21949</link>
       <description>On July 26th, based on on-chain data, AguilaTrades&apos; 25x long position in Ethereum is currently in a profit of more than $1.15 million.The position size is $93,682,519.86 (25,000 ETH), with an entry price of $3,701.04 and a liquidation price of $3,698.90.</description>
-      <pubDate>Sat, 26 Jul 2025 13:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 13:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21949</guid>
       <category>crypto</category>
@@ -161,7 +161,7 @@
       <title>James Wynn&apos;s 10x long position on PEPE is currently showing an unrealized gain of $180,000, with the account balance standing at only $450,000.</title>
       <link>https://www.lookonchain.com/feeds/21948</link>
       <description>On July 26th, as per on-chain data, James Wynn&apos;s 10x PEPE long position is currently showing an unrealized profit of $180,000, while the account balance remains at just $450,000.The position size is $4,715,995.96, with an entry price of $0.01219 and a liquidation price of $0.012054.Previously, James Wynn&apos;s long positions on Bitcoin and PEPE had been consecutively liquidated five times.</description>
-      <pubDate>Sat, 26 Jul 2025 13:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 13:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21948</guid>
       <category>crypto</category>
@@ -179,7 +179,7 @@
       <title>Minsheng Securities: Building a Stablecoin and RWA Ecosystem, Asset On-chain to Kick Off the Web3.0 Era</title>
       <link>https://www.lookonchain.com/feeds/21947</link>
       <description>July 26th: China Minsheng Securities issued a research report indicating that the powerful alliance between the government and enterprises has constructed an ecological closed loop of a stablecoin anchored by high-quality Chinese assets—RWA. It is expected that the on-chainization of relevant assets will enter the era of Web3.0, starting from Ant Group, Longi Green Energy Technology, and XinAo Group&apos;s new energy RWA assets, and expanding to potential directions such as computing power leasing, facilitating Chinese high-quality assets to become the core cornerstone of on-chain diversified assets.At the same time, referring to the development process of overseas stock token issuers like Robinhood, domestic internet brokers, fintech companies, and stock or cryptocurrency exchanges in China are anticipated to achieve value reassessment in this wave, with the &quot;license effect&quot; serving as the core competitiveness of domestic related vendors. The main points of Minsheng Securities are as fol</description>
-      <pubDate>Sat, 26 Jul 2025 13:47:07 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 13:58:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21947</guid>
       <category>crypto</category>
