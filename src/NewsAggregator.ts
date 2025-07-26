@@ -147,8 +147,19 @@ export class NewsAggregator {
     return hasAnyChanges;
   }
 
-  public async aggregateNews(): Promise<void> {
-    const enabledCategories = this.configLoader.getEnabledCategories();
+  public async aggregateNews(filterCategories?: string[]): Promise<void> {
+    let enabledCategories = this.configLoader.getEnabledCategories();
+    
+    // Filter categories if specified
+    if (filterCategories && filterCategories.length > 0) {
+      enabledCategories = enabledCategories.filter(category => 
+        filterCategories.includes(category)
+      );
+      if (enabledCategories.length === 0) {
+        console.log('⚠️  No enabled categories match the filter. Available categories:', this.configLoader.getEnabledCategories().join(', '));
+        return;
+      }
+    }
     
     console.log(`🔍 Starting parallel source feeds for categories: ${enabledCategories.join(', ')}`);
     
