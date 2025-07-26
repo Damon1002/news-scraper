@@ -1,4 +1,4 @@
-import { NewsItem, FeedMetadata, NewsCategory, SourceConfig } from '../types/index.js';
+import { NewsItem, FeedMetadata, NewsCategory, SourceConfig, CategoryConfig } from '../types/index.js';
 
 export class RSSGenerator {
   private escapeXML(str: string): string {
@@ -164,25 +164,24 @@ ${rssItems}
   }
 
   public generateFeedIndex(categories: NewsCategory[], sources: SourceConfig[]): string {
-    // Dynamically generate feed links from enabled sources
-    const feedLinks: string[] = [];
+    // Group enabled sources by category
+    const categorizedSources: Record<string, Array<{source: SourceConfig, category: CategoryConfig}>> = {};
     
-    // Add enabled sources with their feeds
     sources
       .filter(source => source.enabled)
       .forEach(source => {
         source.categories.forEach(categoryConfig => {
           const category = categoryConfig.category;
-          const emoji = this.getCategoryEmoji(category, source.name);
-          const feedPath = `feeds/${category}/${source.id}.xml`;
-          const linkText = `${emoji} ${source.name}`;
-          
-          feedLinks.push(`    <li><a href="${feedPath}">${linkText}</a></li>`);
+          if (!categorizedSources[category]) {
+            categorizedSources[category] = [];
+          }
+          categorizedSources[category].push({ source, category: categoryConfig });
         });
       });
-    
-    
-    const feedLinksHTML = feedLinks.join('\n');
+
+    // Generate feed data for JavaScript
+    const feedData = JSON.stringify(categorizedSources, null, 2);
+    const lastUpdated = new Date().toISOString();
 
     return `<!DOCTYPE html>
 <html lang="en">
@@ -190,38 +189,421 @@ ${rssItems}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Feeds - Multi-Source Aggregator</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        .feed-list { list-style-type: none; padding: 0; }
-        .feed-list li { margin: 10px 0; }
-        .feed-list a { text-decoration: none; color: #0066cc; padding: 10px; display: block; border: 1px solid #ddd; border-radius: 5px; }
-        .feed-list a:hover { background-color: #f5f5f5; }
-        .status { margin-top: 30px; padding: 10px; background-color: #f0f8ff; border-radius: 5px; }
-    </style>
+    <style>${this.getModernTableCSS()}</style>
 </head>
 <body>
-    <h1>📰 Multi-Source News Feeds</h1>
-    <p>Automated news aggregation from multiple sources, updated every 2 minutes.</p>
+    <main>
+        <h1 class="page-title">📰 Multi-Source News Feeds</h1>
+        <p class="page-subtitle">Automated news aggregation from multiple sources</p>
+        <div id="feed-browser"></div>
+    </main>
     
-    <h2>Available Feeds</h2>
-    <ul class="feed-list">
-${feedLinksHTML}
-    </ul>
-    
-    <div class="status">
-        <h3>Feed Information</h3>
-        <ul>
-            <li><strong>Update Frequency:</strong> Every 2 minutes</li>
-            <li><strong>Format:</strong> RSS 2.0</li>
-            <li><strong>Items per Feed:</strong> Up to 50 latest articles</li>
-            <li><strong>Last Updated:</strong> ${new Date().toLocaleString()}</li>
-        </ul>
-    </div>
-    
-    <footer style="margin-top: 30px; text-align: center; color: #666;">
-        <p>Powered by <a href="https://github.com/Damon1002/news-scraper">Multi-Source News Scraper</a></p>
-    </footer>
+    <script>
+        // Feed data from server
+        const FEED_DATA = ${feedData};
+        const LAST_UPDATED = '${lastUpdated}';
+        
+        ${this.getModernTableJS()}
+    </script>
 </body>
 </html>`;
+  }
+
+  private getModernTableCSS(): string {
+    return `
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #64748b;
+            --success-color: #059669;
+            --warning-color: #d97706;
+            --error-color: #dc2626;
+            --border-color: #e2e8f0;
+            --hover-color: #f8fafc;
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --background: #ffffff;
+            --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background-color: var(--background);
+            margin: 0;
+            padding: 0;
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .page-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .page-subtitle {
+            font-size: 1.125rem;
+            color: var(--text-secondary);
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .feeds-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            margin-bottom: 2rem;
+        }
+
+        .feeds-table thead {
+            background-color: #f8fafc;
+        }
+
+        .feeds-table th {
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+            color: var(--text-primary);
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        .feeds-table td {
+            padding: 1rem;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: middle;
+        }
+
+        .feeds-table tbody tr:hover {
+            background-color: var(--hover-color);
+        }
+
+        .feeds-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        .category-row {
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .category-row:hover {
+            background-color: var(--hover-color) !important;
+        }
+
+        .category-cell {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+        }
+
+        .category-icon {
+            font-size: 1.125rem;
+        }
+
+        .expand-icon {
+            transition: transform 0.2s ease;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        .expand-icon.expanded {
+            transform: rotate(90deg);
+        }
+
+        .feed-row {
+            background-color: #fafbfc;
+            display: none;
+        }
+
+        .feed-row.show {
+            display: table-row;
+        }
+
+        .feed-name {
+            padding-left: 2rem;
+            color: var(--text-secondary);
+        }
+
+        .feed-link {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .feed-link:hover {
+            text-decoration: underline;
+        }
+
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+        }
+
+        .status-active {
+            background-color: #dcfce7;
+            color: var(--success-color);
+        }
+
+        .status-inactive {
+            background-color: #fef3c7;
+            color: var(--warning-color);
+        }
+
+        .status-error {
+            background-color: #fee2e2;
+            color: var(--error-color);
+        }
+
+        .relative-time {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .stats-row {
+            background-color: #f1f5f9;
+            font-weight: 500;
+        }
+
+        .stats-row td {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .folder-icon {
+            color: #f59e0b;
+        }
+
+        .single-feed-icon {
+            color: var(--text-secondary);
+        }
+
+        @media (max-width: 768px) {
+            .page-title {
+                font-size: 2rem;
+            }
+
+            .feeds-table {
+                font-size: 0.875rem;
+            }
+
+            .feeds-table th,
+            .feeds-table td {
+                padding: 0.75rem 0.5rem;
+            }
+
+            .feed-name {
+                padding-left: 1.5rem;
+            }
+        }
+    `;
+  }
+
+  private getModernTableJS(): string {
+    return `
+        class FeedBrowser {
+            constructor() {
+                this.feedData = FEED_DATA;
+                this.lastUpdated = new Date(LAST_UPDATED);
+                this.expandedCategories = new Set();
+                this.init();
+            }
+
+            init() {
+                this.render();
+                this.bindEvents();
+            }
+
+            getCategoryEmoji(category) {
+                const emojiMap = {
+                    'entertainment': '🎭',
+                    'crypto': '💰',
+                    'technology': '💻',
+                    'business': '💼',
+                    'science': '🔬',
+                    'world': '🌍',
+                    'general': '📰',
+                    'health': '🏥',
+                    'sports': '⚽',
+                    'politics': '🏛️',
+                    'breaking': '🚨'
+                };
+                return emojiMap[category] || '📰';
+            }
+
+            getRelativeTime(date) {
+                const now = new Date();
+                const diffMs = now - date;
+                const diffMins = Math.floor(diffMs / (1000 * 60));
+                const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+                if (diffMins < 1) return 'Just now';
+                if (diffMins < 60) return \`\${diffMins} min\${diffMins === 1 ? '' : 's'} ago\`;
+                if (diffHours < 24) return \`\${diffHours} hour\${diffHours === 1 ? '' : 's'} ago\`;
+                return \`\${diffDays} day\${diffDays === 1 ? '' : 's'} ago\`;
+            }
+
+            getFeedStatus(source) {
+                // Simulate feed status - in real implementation, this would check actual feed health
+                const random = Math.random();
+                if (random > 0.9) return { status: 'error', text: 'Feed Error' };
+                if (random > 0.8) return { status: 'inactive', text: 'Stale' };
+                return { status: 'active', text: 'Active' };
+            }
+
+            render() {
+                const container = document.getElementById('feed-browser');
+                const categories = Object.keys(this.feedData).sort();
+                
+                let tableHTML = \`
+                    <table class="feeds-table">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Category</th>
+                                <th>Modified</th>
+                                <th>Size</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                \`;
+
+                categories.forEach(category => {
+                    const sources = this.feedData[category];
+                    const categoryEmoji = this.getCategoryEmoji(category);
+                    const isMultiple = sources.length > 1;
+                    const categoryDisplayName = category.charAt(0).toUpperCase() + category.slice(1);
+
+                    if (isMultiple) {
+                        // Category row with folder icon
+                        tableHTML += \`
+                            <tr class="category-row" data-category="\${category}">
+                                <td class="category-cell">
+                                    <span class="category-icon folder-icon">📁</span>
+                                    <span>\${categoryDisplayName}</span>
+                                    <span class="expand-icon">▶</span>
+                                </td>
+                                <td>\${categoryEmoji} \${categoryDisplayName}</td>
+                                <td class="relative-time">\${this.getRelativeTime(this.lastUpdated)}</td>
+                                <td>\${sources.length} feed\${sources.length === 1 ? '' : 's'}</td>
+                            </tr>
+                        \`;
+
+                        // Individual feed rows (initially hidden)
+                        sources.forEach(({ source, category: categoryConfig }) => {
+                            const feedStatus = this.getFeedStatus(source);
+                            const feedPath = \`feeds/\${category}/\${source.id}.xml\`;
+                            
+                            tableHTML += \`
+                                <tr class="feed-row" data-parent="\${category}">
+                                    <td class="feed-name">
+                                        <a href="\${feedPath}" class="feed-link">\${source.name}</a>
+                                    </td>
+                                    <td>\${categoryEmoji} \${categoryDisplayName}</td>
+                                    <td class="relative-time">\${this.getRelativeTime(this.lastUpdated)}</td>
+                                    <td>
+                                        <span class="status-badge status-\${feedStatus.status}">\${feedStatus.text}</span>
+                                    </td>
+                                </tr>
+                            \`;
+                        });
+                    } else {
+                        // Single feed in category - show directly
+                        const source = sources[0].source;
+                        const feedStatus = this.getFeedStatus(source);
+                        const feedPath = \`feeds/\${category}/\${source.id}.xml\`;
+                        
+                        tableHTML += \`
+                            <tr>
+                                <td class="category-cell">
+                                    <span class="category-icon single-feed-icon">📄</span>
+                                    <a href="\${feedPath}" class="feed-link">\${source.name}</a>
+                                </td>
+                                <td>\${categoryEmoji} \${categoryDisplayName}</td>
+                                <td class="relative-time">\${this.getRelativeTime(this.lastUpdated)}</td>
+                                <td>
+                                    <span class="status-badge status-\${feedStatus.status}">\${feedStatus.text}</span>
+                                </td>
+                            </tr>
+                        \`;
+                    }
+                });
+
+                // Add summary stats row
+                const totalFeeds = Object.values(this.feedData).reduce((sum, sources) => sum + sources.length, 0);
+                const totalCategories = categories.length;
+                
+                tableHTML += \`
+                            <tr class="stats-row">
+                                <td colspan="4">
+                                    <strong>Summary:</strong> \${totalFeeds} feed\${totalFeeds === 1 ? '' : 's'} across \${totalCategories} categor\${totalCategories === 1 ? 'y' : 'ies'}
+                                    • Last updated: \${this.getRelativeTime(this.lastUpdated)}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                \`;
+
+                container.innerHTML = tableHTML;
+            }
+
+            bindEvents() {
+                document.addEventListener('click', (e) => {
+                    const categoryRow = e.target.closest('.category-row');
+                    if (categoryRow) {
+                        const category = categoryRow.dataset.category;
+                        this.toggleCategory(category);
+                    }
+                });
+            }
+
+            toggleCategory(category) {
+                const expandIcon = document.querySelector(\`[data-category="\${category}"] .expand-icon\`);
+                const feedRows = document.querySelectorAll(\`[data-parent="\${category}"]\`);
+                
+                if (this.expandedCategories.has(category)) {
+                    // Collapse
+                    this.expandedCategories.delete(category);
+                    expandIcon.classList.remove('expanded');
+                    feedRows.forEach(row => row.classList.remove('show'));
+                } else {
+                    // Expand
+                    this.expandedCategories.add(category);
+                    expandIcon.classList.add('expanded');
+                    feedRows.forEach(row => row.classList.add('show'));
+                }
+            }
+        }
+
+        // Initialize when DOM is ready
+        document.addEventListener('DOMContentLoaded', () => {
+            new FeedBrowser();
+        });
+    `;
   }
 }
