@@ -451,7 +451,7 @@ export class NewsAggregator {
     
     for (const category of categories) {
       for (const [sourceId, source] of this.sources) {
-        if (source.getSupportedCategories().includes(category)) {
+        if (source.getSupportedCategories().includes(category as NewsCategory)) {
           const feedPath = `${outputDir}/${category}/${sourceId}.xml`;
           if (!existsSync(feedPath)) {
             console.log(`📄 Missing feed file: ${feedPath}`);

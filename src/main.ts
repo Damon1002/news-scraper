@@ -39,8 +39,10 @@ async function main() {
       if (!hasChanges) {
         console.log('✅ All feeds are up-to-date, skipping aggregation');
         process.exit(0);
+      } else {
+        console.log('🔄 Changes detected, cache check complete');
+        process.exit(1); // Exit with code 1 to indicate changes are needed
       }
-      console.log('🔄 Changes detected, proceeding with aggregation...');
     }
     
     aggregator.displayStats();
