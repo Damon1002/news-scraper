@@ -105,45 +105,53 @@ export class NewsAggregator {
     const enabledCategories = this.configLoader.getEnabledCategories();
     let hasAnyChanges = false;
     
-    console.log(`🔍 Quick cache check for categories: ${enabledCategories.join(', ')}`);
+    console.log(`🔍 Smart cache check for categories: ${enabledCategories.join(', ')}`);
     
     for (const category of enabledCategories) {
       for (const [sourceId, source] of this.sources) {
         if (source.getSupportedCategories().includes(category)) {
-          const cacheKey = this.cacheManager.getCacheKey(sourceId, category);
           const cacheStats = this.cacheManager.getCacheStats();
           
           // Check if we have any cached data for this source
-          const hasCache = cacheStats.sources.some(s => 
+          const sourceCache = cacheStats.sources.find(s => 
             s.sourceId === sourceId && s.category === category
           );
           
-          if (!hasCache) {
-            console.log(`📦 No cache found for ${sourceId}/${category} - changes assumed`);
+          if (!sourceCache) {
+            console.log(`📦 No cache found for ${sourceId}/${category} - update needed`);
+            hasAnyChanges = true;
+            continue;
+          }
+          
+          // Check cache age against update frequency
+          const ageMinutes = (Date.now() - new Date(sourceCache.lastUpdate).getTime()) / (1000 * 60);
+          const sourceConfig = this.configLoader.loadConfig().sources.find(s => s.id === sourceId);
+          const updateFrequency = sourceConfig?.categories.find(c => c.category === category)?.updateFrequency || 60;
+          
+          // For fast sources (crypto), be more aggressive with freshness checks
+          const isFastSource = category === 'crypto';
+          const freshnessThreshold = isFastSource ? Math.max(5, updateFrequency * 0.8) : updateFrequency;
+          
+          if (ageMinutes > freshnessThreshold) {
+            console.log(`⏰ Cache for ${sourceId}/${category} is ${Math.round(ageMinutes)}min old (>${Math.round(freshnessThreshold)}min threshold) - update needed`);
             hasAnyChanges = true;
           } else {
-            // Check cache age - if older than update frequency, assume changes
-            const sourceCache = cacheStats.sources.find(s => 
-              s.sourceId === sourceId && s.category === category
-            );
-            if (sourceCache) {
-              const ageMinutes = (Date.now() - new Date(sourceCache.lastUpdate).getTime()) / (1000 * 60);
-              const sourceConfig = this.configLoader.loadConfig().sources.find(s => s.id === sourceId);
-              const updateFrequency = sourceConfig?.categories.find(c => c.category === category)?.updateFrequency || 60;
-              
-              if (ageMinutes > updateFrequency) {
-                console.log(`⏰ Cache for ${sourceId}/${category} is ${Math.round(ageMinutes)}min old (>${updateFrequency}min) - changes likely`);
-                hasAnyChanges = true;
-              } else {
-                console.log(`✅ Cache for ${sourceId}/${category} is fresh (${Math.round(ageMinutes)}min old)`);
-              }
-            }
+            console.log(`✅ Cache for ${sourceId}/${category} is fresh (${Math.round(ageMinutes)}min < ${Math.round(freshnessThreshold)}min)`);
           }
         }
       }
     }
     
-    console.log(`🎯 Quick check result: ${hasAnyChanges ? 'Changes likely' : 'No changes expected'}`);
+    // Additional quick check: if all feeds exist and are recent, no changes likely
+    if (!hasAnyChanges) {
+      const allFeedsExist = this.checkFeedFilesExist(enabledCategories);
+      if (!allFeedsExist) {
+        console.log(`📄 Some feed files missing - update needed`);
+        hasAnyChanges = true;
+      }
+    }
+    
+    console.log(`🎯 Smart check result: ${hasAnyChanges ? 'Update needed' : 'All feeds up-to-date'}`);
     return hasAnyChanges;
   }
 
@@ -436,5 +444,23 @@ export class NewsAggregator {
     const cacheStats = this.cacheManager.getCacheStats();
     if (cacheStats.totalSources === 0) return 0;
     return Math.round((cacheStats.totalSources / (this.sources.size * this.configLoader.getEnabledCategories().length)) * 100);
+  }
+
+  private checkFeedFilesExist(categories: string[]): boolean {
+    const outputDir = this.configLoader.getGlobalConfig().outputDirectory;
+    
+    for (const category of categories) {
+      for (const [sourceId, source] of this.sources) {
+        if (source.getSupportedCategories().includes(category)) {
+          const feedPath = `${outputDir}/${category}/${sourceId}.xml`;
+          if (!existsSync(feedPath)) {
+            console.log(`📄 Missing feed file: ${feedPath}`);
+            return false;
+          }
+        }
+      }
+    }
+    
+    return true;
   }
 }

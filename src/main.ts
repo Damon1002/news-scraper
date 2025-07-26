@@ -4,13 +4,15 @@ import { NewsAggregator } from './NewsAggregator.js';
 
 function parseArgs() {
   const args = process.argv.slice(2);
-  const options: { categories?: string[] } = {};
+  const options: { categories?: string[]; cacheCheckOnly?: boolean } = {};
   
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
     if (arg.startsWith('--categories=')) {
       const categoriesString = arg.split('=')[1];
       options.categories = categoriesString.split(',').map(c => c.trim());
+    } else if (arg === '--cache-check-only') {
+      options.cacheCheckOnly = true;
     }
   }
   
@@ -29,8 +31,19 @@ async function main() {
     }
 
     await aggregator.initialize();
-    aggregator.displayStats();
     
+    // If cache-check-only mode is enabled, check if updates are needed
+    if (options.cacheCheckOnly) {
+      console.log('🔍 Running cache-only check mode...');
+      const hasChanges = await aggregator.checkForChanges();
+      if (!hasChanges) {
+        console.log('✅ All feeds are up-to-date, skipping aggregation');
+        process.exit(0);
+      }
+      console.log('🔄 Changes detected, proceeding with aggregation...');
+    }
+    
+    aggregator.displayStats();
     await aggregator.aggregateNews(options.categories);
     
   } catch (error) {

@@ -2,12 +2,14 @@
     "name": "news-scraper",
     "version": "1.0.0",
     "type": "module",
-    "scripts": {
-      "start": "npm run build && node dist/main.js",
-      "build": "tsc --project tsconfig.json",
-      "dev": "tsx src/main.ts",
-      "clean": "rm -rf docs/feeds/*.xml"
-    },
+  "scripts": {
+    "start": "npm run build && node dist/main.js",
+    "build": "tsc --project tsconfig.json",
+    "build:incremental": "tsc --project tsconfig.json --incremental",
+    "start:fast": "npm run build:incremental && node dist/main.js",
+    "dev": "tsx src/main.ts",
+    "clean": "rm -rf docs/feeds/*.xml"
+  },
     "dependencies": {
       "axios": "^1.6.0",
       "cheerio": "^1.0.0-rc.12",

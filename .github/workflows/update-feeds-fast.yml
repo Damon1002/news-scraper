@@ -89,10 +89,16 @@ jobs:
         CATEGORIES="${{ github.event.inputs.categories || 'crypto' }}"
         echo "Updating categories: $CATEGORIES"
         
-        # For now, always run aggregation but optimize it internally
-        # TODO: Implement cache-only check mode
-        npm start -- --categories="$CATEGORIES"
-        echo "skip_deployment=false" >> $GITHUB_OUTPUT
+        # First check if we need to update at all
+        echo "🔍 Checking if feeds need updating..."
+        if npm run start:fast -- --categories="$CATEGORIES" --cache-check-only; then
+          echo "✅ All feeds are up-to-date, skipping aggregation and deployment"
+          echo "skip_deployment=true" >> $GITHUB_OUTPUT
+        else
+          echo "🔄 Changes detected, running fast aggregation..."
+          npm run start:fast -- --categories="$CATEGORIES"
+          echo "skip_deployment=false" >> $GITHUB_OUTPUT
+        fi
       env:
         NODE_ENV: production
       timeout-minutes: 8
