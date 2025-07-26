@@ -101,7 +101,7 @@
       "type": "scraper",
       "baseUrl": "https://www.techflowpost.com",
       "rateLimit": 5,
-      "enabled": false,
+      "enabled": true,
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; NewsAggregator/1.0)"
       },
