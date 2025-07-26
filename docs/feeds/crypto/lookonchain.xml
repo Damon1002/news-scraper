@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jul 2025 08:23:23 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 08:23:23 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Jul 2025 08:30:36 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Jul 2025 08:30:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,45 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Gate Launchpad has launched Ika (IKA) for 1 hour, and the subscription amount has exceeded 1.08 billion USD.</title>
+      <link>https://www.lookonchain.com/feeds/21924</link>
+      <description>July 26th. According to official data, the Ika (IKA) project was officially launched on Gate Launchpad at 13:00 (UTC+8) on July 26th. Within just one hour after the event began, the subscription response was extremely enthusiastic, and the subscription amount had already exceeded 108 million US dollars.It is reported that the total quota for this Launchpad is 2 billion IKA. Users can participate by using USD1 and GT. The subscription price is 1 IKA = 0.001424 GT and 0.025 USD1. The subscription will continue until July 29 at 13:00 (UTC+8). Token distribution will be based on the proportion of individual subscription amounts to the total subscription amount per hour. The earlier one subscribes, the higher the allocation, with a first-come, first-served basis.</description>
+      <pubDate>Sat, 26 Jul 2025 08:24:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21924</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Gate Launchpad has officially launched the Ika (IKA) token sale, with a total allocation of 200 million IKA.</title>
+      <link>https://www.lookonchain.com/feeds/21925</link>
+      <description>July 26th, according to an official announcement, Ika (IKA) has officially been launched on Gate Launchpad and the subscription is now open. It is reported that the subscription period for this event is from July 26, 2025, at 1:00 PM to July 29, 2025, at 1:00 PM (UTC+8). Users can participate in the subscription by using USD1 and GT to subscribe to the IKA token. The subscription price is 1 IKA = 0.001424 GT and 0.025 USD1. The total subscription amount is 200 million IKA.</description>
+      <pubDate>Sat, 26 Jul 2025 08:24:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21925</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Cathie Wood: Ethereum Staking Redemption Demand Surges Possibly Due to Robinhood Offering 2% Reward</title>
       <link>https://www.lookonchain.com/feeds/21923</link>
       <description>On July 26th, in reply to community queries regarding the sudden increase in the demand for Ethereum staking rewards, Cathie Wood, the CEO of ARK Invest, responded as follows: &quot;Robinhood is providing a 2% matching bonus for cryptocurrency transfers. Venture capitalists and other investors are staking their ETH with Treasury Companies (DATs) in order to double their funds after the lock-up period. Similar to $MSTR and $BMNR, Treasury Company stocks serve as a means for brokerage advisors to offer clients BTC and ETH investment opportunities.&quot;</description>
-      <pubDate>Sat, 26 Jul 2025 07:48:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 07:48:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21923</guid>
       <category>crypto</category>
@@ -36,7 +71,7 @@
       <title>This week the US Bitcoin spot ETF saw a net inflow of $72.3 million</title>
       <link>https://www.lookonchain.com/feeds/21922</link>
       <description>On July 26th, based on the monitoring of Farside Investors, this week the net inflow of the US Bitcoin spot ETF is $72.3 million. It includes the following:BlackRock IBIT: +$267.9 millionFranklin FBTC: -$123.2 millionBitwise BITB: +$4.7 millionARK ARKB: -$90.2 millionFranklin EZBC: +$3.5 millionVanEck HODL: +$62.1 millionGrayscale GBTC: -$79.7 millionGrayscale BTC Mini: +$27.2 million</description>
-      <pubDate>Sat, 26 Jul 2025 07:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 07:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21922</guid>
       <category>crypto</category>
@@ -56,7 +91,7 @@
       <title>Publicly traded company Bitcoin Treasury Capital increases its holdings by 10 BTC, bringing its total position to approximately 166 BTC.</title>
       <link>https://www.lookonchain.com/feeds/21921</link>
       <description>On July 26th, the publicly traded company Bitcoin Treasury Capital announced that it had purchased 10 BTC with an average price of $119,687 per BTC, amounting to approximately $1.2 million (about 11.5 million Swedish Krona). The company currently holds approximately 166 BTC.</description>
-      <pubDate>Sat, 26 Jul 2025 07:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 07:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21921</guid>
       <category>crypto</category>
@@ -75,7 +110,7 @@
       <title>Analyst: This week the selling pressure level has reached an extreme level within the period, but BTC&apos;s stable price can be seen as a positive signal</title>
       <link>https://www.lookonchain.com/feeds/21920</link>
       <description>On July 26th, CryptoQuant analyst Axel took to social media and stated that during this bull market cycle, only 12 weeks have witnessed shorting pressure that is equal to or stronger than this week, accounting for approximately 7.3% of the entire cycle. This implies that the selling pressure this week ranks within the top 7% of historical extremes. However, the price has already rebounded to $117,000—this fact alone can be regarded as a positive signal.</description>
-      <pubDate>Sat, 26 Jul 2025 06:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 06:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21920</guid>
       <category>crypto</category>
@@ -94,7 +129,7 @@
       <title>Binance: Users with at least 200 points can claim a 750 PHY airdrop</title>
       <link>https://www.lookonchain.com/feeds/21919</link>
       <description>On July 26th, according to official channels, the trading of DePHY Network (PHY) on Binance Alpha is scheduled to begin at 08:00 (UTC) on July 26th, 2025. After the trading commences, users who possess at least 200 Binance Alpha points will be eligible to receive an airdrop of 750 PHY tokens on a first-come, first-served basis.</description>
-      <pubDate>Sat, 26 Jul 2025 05:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 05:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21919</guid>
       <category>crypto</category>
@@ -111,7 +146,7 @@
       <title>「Chonky Penguin」 CEO revealed that the company had acquired another company in December last year, with the community speculating it to be OpenSea.</title>
       <link>https://www.lookonchain.com/feeds/21918</link>
       <description>On July 26th, Luca Netz, the CEO of &quot;Chonky Penguin&quot; Pudgy Penguins, was recently interviewed by crypto KOL rasmr (@rasmr_eth). He was asked, &quot;How do you view someone saying that you acquired a company and even speculated that it is OpenSea?&quot;Luca Netz replied that Pudgy Penguins did indeed acquire a company in December last year, but it is not yet the right time to make it public. He will soon announce the exact details of this acquisition.Rasmr said, &quot;It seems that someone is bottom-fishing in OpenSea... Well, I can&apos;t say much.&quot; Luca Netz just smiled in response.According to HTX market data, possibly influenced by the current community speculation that the news is indeed true, PENGU has seen a 13.44% price increase in the past 24 hours and is now trading at $0.0426.</description>
-      <pubDate>Sat, 26 Jul 2025 05:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 05:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21918</guid>
       <category>crypto</category>
@@ -128,7 +163,7 @@
       <title>Yesterday, the US Bitcoin Spot ETF saw a net inflow of $130 million</title>
       <link>https://www.lookonchain.com/feeds/21917</link>
       <description>July 26th. Based on Farside Investors&apos; data, the net inflow into US Bitcoin spot ETF yesterday was $130.8 million. This includes:BlackRock IBIT: + $92.8 millionFidelity FBTC: + $10.2 millionBitwise BITB: + $21.0 millionARK ARKB: + $30.3 millionVanEck HODL: + $18.2 millionGrayscale GBTC: - $50.5 millionGrayscale BTC Mini: + $8.8 million</description>
-      <pubDate>Sat, 26 Jul 2025 04:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 03:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21917</guid>
       <category>crypto</category>
@@ -148,7 +183,7 @@
       <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $4.528 billion, with BlackRock&apos;s ETHA experiencing a net inflow of $4.4 billion.</title>
       <link>https://www.lookonchain.com/feeds/21916</link>
       <description>On July 26th, based on the monitoring of Farside Investors, the net inflow into the US Ethereum spot ETF yesterday was $452.8 million. This includes:- BlackRock ETHA: +$440.1 million- Fidelity FETH: +$7.3 million- Bitwise ETHW: +$10 million- Grayscale ETHE: -$23.5 million- Grayscale Ethereum Trust: +$18.9 million</description>
-      <pubDate>Sat, 26 Jul 2025 04:22:31 +0000</pubDate>
+      <pubDate>Sat, 26 Jul 2025 03:29:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21916</guid>
       <category>crypto</category>
@@ -162,42 +197,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>US-listed company Bit Digital plans to increase its authorized share capital to buy more ETH</title>
-      <link>https://www.lookonchain.com/feeds/21915</link>
-      <description>July 26th. According to SEC filings, the publicly traded company Bit Digital (BTBT) in the U.S. disclosed that a significant shareholder meeting is scheduled to be held on September 10, 2025, at 9:00 AM at the company&apos;s main office address (11th floor, 31 Hudson Yards, New York, New York, USA), with the option of online streaming available. Shareholders can attend the meeting in person or participate through online streaming to exercise their voting rights and submit questions during the meeting. The meeting will deliberate on approving an increase in the company&apos;s authorized capital from $3.5 million (comprising 340 million common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share) to $10.1 million (consisting of 1 billion common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share).Bit Digital stated that the company intends to raise a significant amount of additi</description>
-      <pubDate>Sat, 26 Jul 2025 03:22:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21915</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>US Stock Market closed on Friday with most Crypto Stocks falling, SBET down by 5.70%</title>
-      <link>https://www.lookonchain.com/feeds/21914</link>
-      <description>On July 26th, according to the market data of rockflow, the US stock market closed on Friday. The Dow rose by 208 points, the S&amp;P 500 rose by 0.4%, and the Nasdaq rose by 0.24%. Cryptocurrency stocks generally declined, including:Coinbase (COIN) decreased by 1.27%, with a trading volume of $3.388 billion.MicroStrategy (MSTR) decreased by 2.18%, with a trading volume of $3.404 billion.BTCS (BTCS) decreased by 5.58%, with a trading volume of $30.985 million.Bit Digital (BTBT) decreased by 2.48%, with a trading volume of $64.216 million.SharpLink Gaming (SBET) decreased by 5.70%, with a trading volume of $1.078 billion.Bitmine Immersion (BMNR) decreased by 4.67%, with a trading volume of $1.181 billion.</description>
-      <pubDate>Sat, 26 Jul 2025 02:22:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21914</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
