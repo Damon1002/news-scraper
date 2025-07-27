@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 11:10:45 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 11:10:45 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 11:29:59 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 11:29:59 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,48 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Stablecoin Total Market Cap Grew by 1.64% in the Past 7 Days, Surpassing $265.6 Billion</title>
+      <link>https://www.lookonchain.com/feeds/21997</link>
+      <description>On July 27th, as per DefiLlama data, the current total market value of stablecoins across the entire network is reported to be $265.65 billion, with a 1.64% increase in the past 7 days. Among them, the market dominance of USDT has dropped to 61.9% (down from 62.09% of the previous week).</description>
+      <pubDate>Sun, 27 Jul 2025 11:24:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21997</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Abraxas Capital once again added $5 million to its ETH short position, bringing the total to a $78.72 million unrealized loss.</title>
+      <link>https://www.lookonchain.com/feeds/21996</link>
+      <description>On July 27th, based on HyperInsight&apos;s monitoring, the address starting with 0x5b5, which was identified by Arkham as Abraxas Capital, has just added $5 million to its short position hedge of ETH (with 10x leverage). Currently, it still has an unrealized loss of $78.72 million. The specific information is as follows:Position Size: $299 millionEntry Price: $2,826.72Liquidation Price: $5,096.9Current P&amp;L: Unrealized Loss of $78.72 millionIn addition, the short position hedge of BTC (with 10x leverage) opened by this address has also incurred an unrealized loss of $22.3 million, and the position value is $345 million. Other major short positions include: HYPE (with 5x short), with a loss of $6.89 million; SOL (with 10x short), with a loss of $8.51 million. Currently, the overall unrealized loss of the short positions of this address is approximately $115 million.</description>
+      <pubDate>Sun, 27 Jul 2025 11:17:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21996</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>LookOnChain: Ethereum Surges Above $3,800</title>
       <link>https://www.lookonchain.com/feeds/21995</link>
       <description>On July 27th, based on HTX market data, Ethereum has experienced a rebound and exceeded $3,800. It is currently trading at $3,815, with a 24-hour increase of 1.14%.</description>
-      <pubDate>Sun, 27 Jul 2025 10:48:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 10:48:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21995</guid>
       <category>crypto</category>
@@ -37,7 +75,7 @@
       <title>BiyaPay Analyst: NVIDIA&apos;s Market Cap Exceeding $400 Billion Triggers Musk&apos;s Amazement, Now Supports Investing in US Stocks Using USDT</title>
       <link>https://www.lookonchain.com/feeds/21994</link>
       <description>On July 27th, based on the latest data from Statista, NVIDIA has officially closed with a market capitalization of over $4 trillion, thereby becoming the first technology company in the world to break through this threshold. This remarkable achievement has not only propelled NVIDIA to surpass Microsoft and Apple and become the world&apos;s most valuable listed company in terms of market capitalization but has also exceeded the combined market capitalizations of Google&apos;s parent company Alphabet and Meta. It even surpasses the sum of the market capitalizations of retail giants such as Amazon, Walmart, and Costco.NVIDIA&apos;s stock price has surged by more than 1000% in the past two and a half years, delivering outstanding performance. In response to this, Tesla CEO Musk retweeted the relevant news on the social platform X and simply commented: &quot;Wow,&quot; expressing his admiration.Driven by the AI trend and capital enthusiasm, an increasing number of investors are eager to seize the growth dividen</description>
-      <pubDate>Sun, 27 Jul 2025 10:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 10:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21994</guid>
       <category>crypto</category>
@@ -55,7 +93,7 @@
       <title>Japanese MUFG Bank is planning to sell tokenized real estate products to investors</title>
       <link>https://www.lookonchain.com/feeds/21993</link>
       <description>On July 27th, the trust banking arm of Japan&apos;s MUFG Bank, Mitsubishi UFJ Trust and Banking Corporation, has purchased a high-rise building in Osaka City for more than 100 billion yen (approximately 6.81 billion USD). The trust bank intends to tokenize the building and sell the digital securities to retail and institutional investors. The product will be provided to institutional investors in the form of a private real estate investment trust (REIT) for life insurance companies.</description>
-      <pubDate>Sun, 27 Jul 2025 09:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 09:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21993</guid>
       <category>crypto</category>
@@ -72,7 +110,7 @@
       <title>A whale sold 2,270 ETH at an average price of 3754, realizing a profit of $4.46 million</title>
       <link>https://www.lookonchain.com/feeds/21990</link>
       <description>On July 27th, according to EmberCN&apos;s monitoring, a whale sold 2270 ETH on the blockchain 2 hours ago at an average price of $3,754 and received 8.52 million USDT in exchange. The whale had held the ETH for 4 months and achieved a 1.1x return.Four months ago, the whale purchased and held 3272 ETH through OKX at a price of $1,787. Today, they sold 2270 ETH at a price of $3,754, realizing a profit of $4.46 million from the sale.</description>
-      <pubDate>Sun, 27 Jul 2025 08:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 08:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21990</guid>
       <category>crypto</category>
@@ -94,7 +132,7 @@
       <title>Binance will adjust the minimum price precision of some USDT-margined perpetual futures contracts</title>
       <link>https://www.lookonchain.com/feeds/21992</link>
       <description>On July 27th, Binance will make adjustments to the minimum price movement (that is, the minimum price change) of the following Coin-margined Perpetual Contracts at 07:00 (UTC) on August 1, 2025: LAUSDT, BULLAUSDT, HIFIUSDT, USUALUSDT, HMSTRUSDT, CATIUSDT.</description>
-      <pubDate>Sun, 27 Jul 2025 08:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 08:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21992</guid>
       <category>crypto</category>
@@ -111,7 +149,7 @@
       <title>Public Blockchain Activity Top 7-Day Ranking: Solana Holds Top Position, Ethereum Leads in Growth</title>
       <link>https://www.lookonchain.com/feeds/21991</link>
       <description>On July 27th, based on Nansen data, the top public chains in terms of active address count over the past 7 days are as follows: Solana (28.18M), BNB Chain (10.14M), Base (7.08M), Tron (5.86M), SEI (3.24M), Aptos (2.89M), Bitcoin (2.80M), and Ethereum (2.50M). Among them, Ethereum&apos;s active address count witnessed a growth against the trend by 8.7%, ranking first in terms of growth. Meanwhile, Solana&apos;s active address count increased by 1.9%, coming in second in terms of growth.Furthermore, according to Defillama data, in the past 24 hours, the top public chains by DEX trading volume are BNB Chain ($39.3B), Ethereum ($23.4B), Solana ($17.96B), Base ($11.6B), and SUI ($5.3B).</description>
-      <pubDate>Sun, 27 Jul 2025 08:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 08:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21991</guid>
       <category>crypto</category>
@@ -130,7 +168,7 @@
       <title>Binance Wallet: Verasity (VRA) Token Airdrop will open at 16:00</title>
       <link>https://www.lookonchain.com/feeds/21989</link>
       <description>July 27th. The Binance Wallet Official made an announcement. Binance Alpha has now updated the airdrop time of Verasity (VRA) to 16:00 (UTC+8). Users who have at least 200 Alpha points can receive an airdrop of 32,238 VRA tokens on a first-come, first-served basis.</description>
-      <pubDate>Sun, 27 Jul 2025 07:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 07:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21989</guid>
       <category>crypto</category>
@@ -147,43 +185,9 @@
       <title>Binance Wallet: Verasity (VRA) Token Airdrop Delay</title>
       <link>https://www.lookonchain.com/feeds/21988</link>
       <description>On July 27th, the Binance Wallet official announcement stated that the airdrop of the Verasity (VRA) token, which was scheduled to take place at 15:00 (UTC+8) today, has been postponed. The Binance Wallet is making every effort to ensure that all eligible users receive the tokens as soon as possible. The specific time has not been disclosed yet.</description>
-      <pubDate>Sun, 27 Jul 2025 07:09:52 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 07:29:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21988</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha has listed Verasity (VRA), open for Points Airdrop redemption</title>
-      <link>https://www.lookonchain.com/feeds/21987</link>
-      <description>On July 27th, Binance Alpha launched Verasity (VRA). Users who have at least 200 Alpha points can receive an airdrop of 32,238 VRA tokens on a first-come, first-served basis. If the rewards are not fully distributed, the points threshold will automatically decrease by 15 points every hour.Claiming the airdrop will cost 15 Alpha points. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a forfeiture.</description>
-      <pubDate>Sun, 27 Jul 2025 07:09:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21987</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Decentralized Proof of Stake Network Succinct Announces Foundation Establishment</title>
-      <link>https://www.lookonchain.com/feeds/21986</link>
-      <description>July 27th - The decentralized proof-of-stake network Succinct declared the formation of the Succinct Foundation. The Succinct Foundation is intended to boost the growth and decentralization of the Ethereum protocol Succinct Prover Network, make the use of ZK more straightforward, and facilitate the connection between requesters and provers.</description>
-      <pubDate>Sun, 27 Jul 2025 07:09:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21986</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
