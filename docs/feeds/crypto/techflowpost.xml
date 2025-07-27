@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 06:34:34 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 06:34:34 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 06:57:24 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 06:57:24 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>数据：以太坊 PoS 网络正在排队退出的 ETH 增至 69.98 万枚，提款延迟超 12 天</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 validatorqueue 数据，从 7 月 16 日以来，以太坊 PoS 网络退出队列迅速增长，在 7 月 26 日达到峰值的 74.38 万枚，目前为 69.98 万枚，提款延迟已超 12 天。而 7 月 16 日仅为 1920 枚，7 月 15 日甚至无需排队退出。</description>
+      <pubDate>Sun, 27 Jul 2025 06:53:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bitget 链上交易（Onchain）上线 URANUS、PHY 代币</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Cointelegraph 报道，Gemini交易所联合创始人Tyler Winklevoss指控摩根大通在他批评该银行新数据访问费政策后，暂停了对Gemini的客户重新接入流程。Tyler在X平台发文称：&quot;摩根大通告诉我们，因为我上周的推文，他们暂停了在&apos;断供行动2.0&apos;期间将Gemini重...</description>
       <pubDate>Sat, 26 Jul 2025 11:32:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Ethena 项目方关联地址于 2 小时前再次向 CEX 转入 ENA</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师余烬监测，在 7 月 21 日 Ethena 发布 StablecoinX 要做 ENA 储备的公告后，一个 Ethena 项目方关联地址开始转出 ENA，共有 1.5 亿枚的 ENA (价值 7735 万美元)在公告至今的 5 天时间里进入了币安和 Bybit，最近一笔转入交易所的操...</description>
-      <pubDate>Sat, 26 Jul 2025 10:27:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
