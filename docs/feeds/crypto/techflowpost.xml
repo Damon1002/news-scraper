@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 15:28:58 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 15:28:58 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 15:46:04 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 15:46:04 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>今日加密货币市值前100代币涨跌：ENA 涨 12.96%，HYPE 跌 2.65%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Coinmarketcap 数据，今日加密货币市值前 100 代币表现如下，涨幅前五：Ethena（ENA）涨 12.96%，现价 0.6287 美元；Bitcoin Cash（BCH）涨 6.83%，现价 594.27 美元；Kaspa（KAS）涨 5.86%，现价 0.1051 美元；In...</description>
+      <pubDate>Sun, 27 Jul 2025 15:29:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>过去 24 小时全网爆仓 1.38 亿美元，多空双爆</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，Verasity（VRA）现已在 Binance Alpha 上线，拥有至少 200 个币安 Alpha 积分的用户，即可领取 32,238 个 VRA 代币的空投，先到先得。如果奖励未全部发放完毕，积分门槛将每小时自动降低 15 分。 请注意，领取空投将消耗15个币安Alpha积分。...</description>
       <pubDate>Sun, 27 Jul 2025 07:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>数据：以太坊 PoS 网络正在排队退出的 ETH 增至 69.98 万枚，提款延迟超 12 天</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 validatorqueue 数据，从 7 月 16 日以来，以太坊 PoS 网络退出队列迅速增长，在 7 月 26 日达到峰值的 74.38 万枚，目前为 69.98 万枚，提款延迟已超 12 天。而 7 月 16 日仅为 1920 枚，7 月 15 日甚至无需排队退出。</description>
-      <pubDate>Sun, 27 Jul 2025 06:53:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
