@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 10:00:43 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 10:00:43 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 10:32:51 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 10:32:51 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>美国贷款机构 Divine Research 利用 World ID 来实现无抵押加密货币贷款</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Cointelegraph 报道，总部位于旧金山的贷款机构 Divine Research 自 12 月以来已发放约 3 万笔无抵押短期加密货币贷款，使用 OpenAI 首席执行官 Sam Altman 的虹膜扫描平台 World ID 来验证借款人身份。Divine Research 主要向...</description>
+      <pubDate>Sun, 27 Jul 2025 10:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>日本最大银行 MUFG 收购大阪高层建筑，将面向零售投资者推出房地产代币化产品</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据萨尔瓦多财政部网站数据，萨尔瓦多近 7 日累计增持 8 枚比特币，目前其比特币持仓达 6250.18 枚，价值约 7.37 亿美元。</description>
       <pubDate>Sun, 27 Jul 2025 00:45:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>巴基斯坦加密部长：人口结构将推动该国比特币采用“跨越式发展”</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Cointelegraph 报道，巴基斯坦国家加密货币和区块链部长 Bilal Bin Saqib 表示，该国人口结构将推动比特币采用实现&quot;跨越式发展&quot;，超越发达国家。Bilal Bin Saqib 指出，巴基斯坦拥有 4000 万个加密钱包，是全球加密货币采用率前五的国家之一。该国中位年龄为...</description>
-      <pubDate>Sun, 27 Jul 2025 00:41:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
