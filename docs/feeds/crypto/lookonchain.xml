@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 03:42:11 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 03:42:11 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 04:34:12 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 04:34:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,68 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>MistTrack: Beware of Malicious Google Ads Phishing Scam Attack</title>
+      <link>https://www.lookonchain.com/feeds/21976</link>
+      <description>July 27th — SlowMist MistTrack issued a phishing security alert. Reports have been received indicating that scammers are placing malicious Google ads (such as misttrack[.]tools) in an attempt to deceive users into signing harmful transactions. Users are advised to remain vigilant, not to trust unofficial links, and to utilize anti-phishing tools to ensure their protection.</description>
+      <pubDate>Sun, 27 Jul 2025 04:33:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21976</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The total value locked in the ZORA contract has surpassed $100 million, with the 24-hour liquidation volume ranking third only to BTC and ETH.</title>
+      <link>https://www.lookonchain.com/feeds/21975</link>
+      <description>On July 27th, based on Coinglass data, the perpetual contracts for ZORA on mainstream CEXs have all shifted to negative funding rates. Binance is at -0.27%, and the long/short ratio calculated by position size for whales is 0.9826.According to HTX market information, ZORA is currently trading at $0.074, with a 24-hour price increase of 60.2%. The total trading volume of ZORA contracts on the entire network in the past 24 hours is reported to be $2.21 billion, with a 24-hour increase of 397%. The total open interest of contracts on the entire network has reached $106 million, with a 24-hour increase of 196%. In the past 24 hours, there have been $7 million worth of liquidations in ZORA contracts, with short liquidations accounting for $6.75 million, ranking only after BTC and ETH in terms of liquidation amount.</description>
+      <pubDate>Sun, 27 Jul 2025 04:24:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21975</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Analysis: The era of Parabolic Bull Market and Devastating Bear Market is over, Bitcoin&apos;s future will see continued consolidation, volatility, and upward movement.</title>
+      <link>https://www.lookonchain.com/feeds/21974</link>
+      <description>July 27th. Mitchell Askew, a Blockware BTC analyst, stated that Bitcoin will no longer witness a &quot;parabolic&quot; price surge or a &quot;devastating&quot; bear market. The presence of a spot ETF has permanently reduced volatility and changed market dynamics. Bitcoin seemed to be two entirely different assets before and after the ETF launch. It is expected to reach $1 million in the next 10 years through continuous oscillation between &quot;upsurge&quot; and &quot;consolidation&quot;. This path will be boring for everyone and will drive out short-term speculators. A chart shared by Mitchell Askew shows that Bitcoin&apos;s price volatility has decreased significantly since the launch of the Bitcoin ETF in the United States in January 2024.Bloomberg&apos;s Senior ETF Analyst Eric Balchunas had previously stated that the reduction in volatility helps Bitcoin attract larger investors and provides a first-line opportunity for its adoption as a currency. However, the cost may be the potential absence of &quot;god-tier candlesticks&quot;. The sp</description>
+      <pubDate>Sun, 27 Jul 2025 04:00:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21974</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Suspected DeFiance Capital Associated Address Acquires 30,366 ETH, Worth $114 Million</title>
       <link>https://www.lookonchain.com/feeds/21973</link>
       <description>On July 27th, based on LookOnChain&apos;s monitoring, a wallet that may be related to DeFiance Capital increased its holdings by 30,366 ETH within the past 28 hours. The value of this increase is $114 million.</description>
-      <pubDate>Sun, 27 Jul 2025 03:24:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 03:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21973</guid>
       <category>crypto</category>
@@ -37,7 +95,7 @@
       <title>TRM Labs: Russian Entity Allegedly Using Kyrgyzstan Cryptocurrency Platform to Evade Sanctions</title>
       <link>https://www.lookonchain.com/feeds/21972</link>
       <description>On July 27th, as per Decrypt, a report issued by the blockchain intelligence firm TRM Labs indicates that Russian entities are leveraging a Kyrgyzstan cryptocurrency platform to evade sanctions. Cryptocurrency transactions related to Russia almost entirely dominate the Kyrgyzstan cryptocurrency industry, which was &quot;practically non-existent&quot; prior to the 2022 Russia-Ukraine conflict.On-chain analysis reveals that the now-defunct Russian exchange Garantex has likely rebranded as Grinex and is conducting large-scale ruble-to-crypto transactions by using Russian-backed stablecoins (such as A7A5). By the end of 2022, the trading volume of Kyrgyzstan&apos;s virtual asset service providers reached $59 million, and it soared to $4.2 billion in the first seven months of 2024. These platforms have emerged as crucial channels for Russian entities to bypass sanctions and maintain access to the global financial system.</description>
-      <pubDate>Sun, 27 Jul 2025 03:16:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 03:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21972</guid>
       <category>crypto</category>
@@ -54,7 +112,7 @@
       <title>Justin Sun has withdrawn 60,000 ETH from Binance, equivalent to around 226 million USD</title>
       <link>https://www.lookonchain.com/feeds/21971</link>
       <description>On July 27th, as monitored by Whale Alert, the wallet address of Justin Sun withdrew 60,000 ETH from Binance, which was approximately worth $226 million.</description>
-      <pubDate>Sun, 27 Jul 2025 02:41:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 02:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21971</guid>
       <category>crypto</category>
@@ -74,7 +132,7 @@
       <title>A new wallet address withdrew 1.88 million SPX from Bybit, worth $3.73 million.</title>
       <link>https://www.lookonchain.com/feeds/21970</link>
       <description>On July 27th, as monitored by OnchainLens, a newly established wallet address withdrew 1.88 million SPX from Bybit, with a value of $3.73 million.</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21970</guid>
       <category>crypto</category>
@@ -92,7 +150,7 @@
       <title>A whale deposited 3516 ETH to a CEX over the past week, with an average entry price of $3689</title>
       <link>https://www.lookonchain.com/feeds/21969</link>
       <description>On July 27th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale that has been purchasing ETH at an average price of $2940 over the past 8 months seems to be realizing profits.The whale withdrew 9544 ETH from Binance between November 2024 and June 2025 (approximately $28.06 million), and in the past week, it deposited 3516 ETH into exchanges at an average deposit price of $3689. If sold, this would lead to a profit of $2.633 million.</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21969</guid>
       <category>crypto</category>
@@ -110,28 +168,10 @@
 
     </item>
     <item>
-      <title>A whale went long on BNB with 3x leverage, while simultaneously shorting SOL and ZORA.</title>
-      <link>https://www.lookonchain.com/feeds/21966</link>
-      <description>On July 27th, as per the monitoring of OnchainLens, a whale deposited 4.56 million USDC into HyperLiquid. Subsequently, it opened a 3x leveraged long position on BNB. Meanwhile, it shorted SOL with a 20x leverage and ZORA with a 3x leverage.</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21966</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
       <title>Statistic: 0.76% of ETH&apos;s supply has been permanently locked, worth approximately $34.3 billion</title>
       <link>https://www.lookonchain.com/feeds/21968</link>
       <description>On July 27th, Conor Grogan, an executive at Coinbase, stated in a post that based on their data, at least 913,111 ETH has been permanently lost due to user errors. This amounts to more than 0.76% of the ETH supply and is worth approximately $34.3 billion. If we add the ETH burned by EIP-1559 (5.3 million ETH), then over 5% of all ever-existing ETH (worth $23.42 billion) has been permanently destroyed.Some of the largest Ethereum permanent loss events in history include: The Web3 Foundation lost 306,000 ETH due to the Parity Multisig vulnerability; Quadriga lost 60,000 ETH due to a smart contract bug; Akutars lost 11,500 ETH in an NFT minting failure; Users collectively sent 25,000 ETH to a burn address for unknown reasons.Conor Grogan further added that the $34.3 billion figure is significantly lower than the actual amount of lost or inaccessible ETH. It only covers Ethereum that has been permanently locked and does not include all lost private keys or forgotten Genesis wallets, et</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21968</guid>
       <category>crypto</category>
@@ -151,7 +191,7 @@
       <title>Ethereum&apos;s Tenth Anniversary Celebration Livestream to Be Held on July 30, Will Feature Open Torch Commemorative NFT Minting</title>
       <link>https://www.lookonchain.com/feeds/21967</link>
       <description>On July 27th, the Ethereum Foundation announced that the 10th-anniversary commemorative live stream will take place on July 30th at 14:30 UTC. The global celebration event will be open to the entire world. And within 24 hours after the event, Ethereum Torch Commemorative NFT minting will be available for free.BlockBeats previously reported that Ethereum introduced &quot;The Torch&quot; NFT to honor those who have shaped its development and values in the first decade of Ethereum and will support the future construction of Ethereum. In the 10 days leading up to Ethereum&apos;s tenth anniversary, this Torch NFT will symbolically be passed between wallets. On July 30th, The Torch NFT will be burned to commemorate Ethereum&apos;s tenth anniversary. On that day, everyone will be able to mint a commemorative NFT.</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:33:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21967</guid>
       <category>crypto</category>
@@ -164,44 +204,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Data: Approximately 310,000 ETH has been withdrawn from the exchange in the past 72 hours</title>
-      <link>https://www.lookonchain.com/feeds/21965</link>
-      <description>Update: On July 27th, the crypto analyst @ali_charts shared a chart analysis indicating that within the past 72 hours, a total of 310,000 ETH worth $1.15 billion has been withdrawn from exchanges.</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21965</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Pakistan&apos;s Minister for Digital Affairs: Country&apos;s Demographics Will Drive Bitcoin Adoption to Achieve &quot;Leapfrog Development&quot;</title>
-      <link>https://www.lookonchain.com/feeds/21964</link>
-      <description>On July 27th, as per Cointelegraph, Bilal Bin Saqib, Pakistan&apos;s Minister of Cryptocurrency and Blockchain, declared that the country&apos;s demographic structure will prompt the adoption of Bitcoin and bring about &quot;leapfrog development,&quot; surpassing developed countries in this regard. Bilal Bin Saqib pointed out that Pakistan has 40 million crypto wallets, making it one of the top five countries worldwide in terms of the cryptocurrency adoption rate. The country has a median age of 20 years, a total population of 250 million, and 70% of the population is below 30 years old. &quot;Emerging markets will achieve leapfrog development in the adoption of these new technologies, and smaller countries are more likely to adopt Bitcoin.&quot;</description>
-      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21964</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
