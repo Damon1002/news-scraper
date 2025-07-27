@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 08:21:08 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 08:21:08 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 08:46:02 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 08:46:02 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance will adjust the minimum price precision of some USDT-margined perpetual futures contracts</title>
+      <link>https://www.lookonchain.com/feeds/21992</link>
+      <description>On July 27th, Binance will make adjustments to the minimum price movement (that is, the minimum price change) of the following Coin-margined Perpetual Contracts at 07:00 (UTC) on August 1, 2025: LAUSDT, BULLAUSDT, HIFIUSDT, USUALUSDT, HMSTRUSDT, CATIUSDT.</description>
+      <pubDate>Sun, 27 Jul 2025 08:32:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21992</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Public Blockchain Activity Top 7-Day Ranking: Solana Holds Top Position, Ethereum Leads in Growth</title>
+      <link>https://www.lookonchain.com/feeds/21991</link>
+      <description>On July 27th, based on Nansen data, the top public chains in terms of active address count over the past 7 days are as follows: Solana (28.18M), BNB Chain (10.14M), Base (7.08M), Tron (5.86M), SEI (3.24M), Aptos (2.89M), Bitcoin (2.80M), and Ethereum (2.50M). Among them, Ethereum&apos;s active address count witnessed a growth against the trend by 8.7%, ranking first in terms of growth. Meanwhile, Solana&apos;s active address count increased by 1.9%, coming in second in terms of growth.Furthermore, according to Defillama data, in the past 24 hours, the top public chains by DEX trading volume are BNB Chain ($39.3B), Ethereum ($23.4B), Solana ($17.96B), Base ($11.6B), and SUI ($5.3B).</description>
+      <pubDate>Sun, 27 Jul 2025 08:24:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21991</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>A whale sold 2,270 ETH at an average price of 3754, realizing a profit of $4.46 million</title>
       <link>https://www.lookonchain.com/feeds/21990</link>
       <description>On July 27th, according to EmberCN&apos;s monitoring, a whale sold 2270 ETH on the blockchain 2 hours ago at an average price of $3,754 and received 8.52 million USDT in exchange. The whale had held the ETH for 4 months and achieved a 1.1x return.Four months ago, the whale purchased and held 3272 ETH through OKX at a price of $1,787. Today, they sold 2270 ETH at a price of $3,754, realizing a profit of $4.46 million from the sale.</description>
-      <pubDate>Sun, 27 Jul 2025 08:00:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 08:00:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21990</guid>
       <category>crypto</category>
@@ -39,7 +75,7 @@
       <title>Binance Wallet: Verasity (VRA) Token Airdrop will open at 16:00</title>
       <link>https://www.lookonchain.com/feeds/21989</link>
       <description>July 27th. The Binance Wallet Official made an announcement. Binance Alpha has now updated the airdrop time of Verasity (VRA) to 16:00 (UTC+8). Users who have at least 200 Alpha points can receive an airdrop of 32,238 VRA tokens on a first-come, first-served basis.</description>
-      <pubDate>Sun, 27 Jul 2025 07:32:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 07:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21989</guid>
       <category>crypto</category>
@@ -56,7 +92,7 @@
       <title>Binance Wallet: Verasity (VRA) Token Airdrop Delay</title>
       <link>https://www.lookonchain.com/feeds/21988</link>
       <description>On July 27th, the Binance Wallet official announcement stated that the airdrop of the Verasity (VRA) token, which was scheduled to take place at 15:00 (UTC+8) today, has been postponed. The Binance Wallet is making every effort to ensure that all eligible users receive the tokens as soon as possible. The specific time has not been disclosed yet.</description>
-      <pubDate>Sun, 27 Jul 2025 07:20:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 07:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21988</guid>
       <category>crypto</category>
@@ -73,7 +109,7 @@
       <title>Binance Alpha has listed Verasity (VRA), open for Points Airdrop redemption</title>
       <link>https://www.lookonchain.com/feeds/21987</link>
       <description>On July 27th, Binance Alpha launched Verasity (VRA). Users who have at least 200 Alpha points can receive an airdrop of 32,238 VRA tokens on a first-come, first-served basis. If the rewards are not fully distributed, the points threshold will automatically decrease by 15 points every hour.Claiming the airdrop will cost 15 Alpha points. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a forfeiture.</description>
-      <pubDate>Sun, 27 Jul 2025 07:20:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 06:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21987</guid>
       <category>crypto</category>
@@ -90,7 +126,7 @@
       <title>Decentralized Proof of Stake Network Succinct Announces Foundation Establishment</title>
       <link>https://www.lookonchain.com/feeds/21986</link>
       <description>July 27th - The decentralized proof-of-stake network Succinct declared the formation of the Succinct Foundation. The Succinct Foundation is intended to boost the growth and decentralization of the Ethereum protocol Succinct Prover Network, make the use of ZK more straightforward, and facilitate the connection between requesters and provers.</description>
-      <pubDate>Sun, 27 Jul 2025 07:20:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 06:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21986</guid>
       <category>crypto</category>
@@ -107,7 +143,7 @@
       <title>Partial mainstream NFT surge, Moonbirds 24-hour increase by 38.9%</title>
       <link>https://www.lookonchain.com/feeds/21985</link>
       <description>On July 27th, according to data from Magic Eden, some mainstream NFTs witnessed an increase. These include:The Ethereum NFT Market:Moonbirds with a 24-hour change of +38.9%, and the floor price currently at 2.33 ETH, and a 24-hour volume of 567.8 ETH;Bored Ape Yacht Club with a 24-hour change of +3.6%, and the floor price currently at 12.8 ETH, and a 24-hour volume of 383 ETH;Pudgy Penguins with a 24-hour change of +2.2%, and the floor price currently at 16.2 ETH, and a 24-hour volume of 352.4 ETH;Lil Pudgys with a 24-hour change of +5.4%, and the floor price currently at 1.8 ETH, and a 24-hour volume of 173 ETH;Rektguy with a 24-hour change of +28.4%, and the floor price currently at 1.297 ETH, and a 24-hour volume of 153.5 ETH.The Solana NFT Market:Portals with a 24-hour change of +2.5%, and the floor price currently at 2.11 SOL, and a 24-hour volume of 510 SOL;Mad Lads with a 24-hour change of +1.2%, and the floor price currently at 34.72 SOL, and a 24-hour volume of 179</description>
-      <pubDate>Sun, 27 Jul 2025 06:20:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 06:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21985</guid>
       <category>crypto</category>
@@ -124,7 +160,7 @@
       <title>Binance Alpha will conduct a token airdrop today at 15:00 UTC, with a minimum threshold of 200 points.</title>
       <link>https://www.lookonchain.com/feeds/21984</link>
       <description>July 27th. Binance Alpha is set to conduct a token airdrop at 15:00 (UTC+8) today. Users who hold at least 200 Alpha points can claim the tokens on a first-come, first-served basis until the airdrop pool is completely distributed or the airdrop event comes to an end. The specific token has not been made public yet.</description>
-      <pubDate>Sun, 27 Jul 2025 06:20:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 05:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21984</guid>
       <category>crypto</category>
@@ -141,7 +177,7 @@
       <title>Approximately $26.4 billion worth of ETH is currently queued to exit the Ethereum PoS network, signaling a decreasing trend in new staking demand</title>
       <link>https://www.lookonchain.com/feeds/21983</link>
       <description>July 27th. As per the Validator Queue tracking website &quot;validatorqueue&quot;, the present Ethereum PoS network exit queue has surged to 694,000 ETH, with a recent apex of 744,000 ETH. On July 16th, this figure was merely 1,920 ETH, and on July 15th, there was no requirement to queue for exit. Calculated at the current price, roughly $26.4 billion worth of ETH is exiting the PoS network, and the withdrawal delay has elongated to 12 days and 1 hour.Simultaneously, the staking demand for newly activated validators has reached a turning point following a recent period of growth. On July 17th, there were 435,000 ETH queuing to enter the network, but as of today, the admission queue has dropped to 220,000 ETH, amounting to approximately $8.36 billion. The current admission queue has a waiting time of 3 days and 20 hours.Andy Cronk, the Co-Founder of the staking service provider Figment, previously declared: &quot;During price hikes, people unstake and sell to secure profits. Both retail and instit</description>
-      <pubDate>Sun, 27 Jul 2025 06:20:16 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 05:45:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21983</guid>
       <category>crypto</category>
@@ -155,40 +191,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>LD Capital Founder Jack Yi: The market has completely entered a long-term bull, and may bid farewell to the traditional 4-year cycle pattern</title>
-      <link>https://www.lookonchain.com/feeds/21982</link>
-      <description>On July 27th, Jack Yi, the founder of LD Capital, posted, expressing that the market has completely entered a long bull market and may bid farewell to the traditional 4-year cycle pattern. Stablecoins and blockchain present the best opportunity for the globalization of the US dollar. Coin and equity investments combined with stablecoin interest will continue to attract new users and funds to the market. The recent hottest trend is the coin and equity model, which is indeed an innovative invention. Compared to the US stock market, the cryptocurrency market is relatively small. With the success of BTC and ETH, mainstream coins such as SUI, BNB, SOL, TON, LTC, etc. will take advantage of this opportunity to rise even further. Following them will be smaller market cap altcoins.</description>
-      <pubDate>Sun, 27 Jul 2025 06:20:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21982</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance will adjust the Unified Account partial asset collateralization ratio</title>
-      <link>https://www.lookonchain.com/feeds/21981</link>
-      <description>Update, on July 27th. According to an official announcement, Binance will make adjustments to the WBETH, TRUMP, LDO, C, SPK, PARTI unified account collateralization ratio at 14:00 (UTC+8) on July 29, 2025. And it will adjust the NEO, IOTX, MANA, KSM, SNX, DYDX unified account collateralization ratio at 14:00 (UTC+8) on August 1, 2025. This update is anticipated to be completed in approximately 30 minutes.</description>
-      <pubDate>Sun, 27 Jul 2025 06:20:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21981</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>

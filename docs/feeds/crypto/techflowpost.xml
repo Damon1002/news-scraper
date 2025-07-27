@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 08:21:08 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 08:21:08 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 08:46:02 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 08:46:02 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>日本最大银行 MUFG 收购大阪高层建筑，将面向零售投资者推出房地产代币化产品</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Nikkei 报道，日本最大银行 MUFG 的信托部门三菱 UFJ 信托银行以超过 1000 亿日元（6.81 亿美元）收购了大阪市一栋高层建筑，计划将其制作成数字证券，向零售和机构投资者出售代币化房地产产品。该产品将在机构端以私人房地产投资信托基金（REIT）形式出售给人寿保险公司。</description>
+      <pubDate>Sun, 27 Jul 2025 08:38:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安将调整多个U本位永续合约最小价格精度</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安将于2025年08月01日15:00（东八区时间）调整以下 U本位永续合约交易对的最小价格精度（即：单位价格涨跌变动最小值）。调整期间，U本位永续合约交易及各项操作不受影响；API同步更新，API用户可以通过 GET /fapi/v1/exchangeInfo 查看U本位永续合约最...</description>
+      <pubDate>Sun, 27 Jul 2025 08:26:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某鲸鱼 2 小时前卖出 2,270 枚 ETH 获利 446 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Cointelegraph 报道，巴基斯坦国家加密货币和区块链部长 Bilal Bin Saqib 表示，该国人口结构将推动比特币采用实现&quot;跨越式发展&quot;，超越发达国家。Bilal Bin Saqib 指出，巴基斯坦拥有 4000 万个加密钱包，是全球加密货币采用率前五的国家之一。该国中位年龄为...</description>
       <pubDate>Sun, 27 Jul 2025 00:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>数据：仅 14% 的美国成年人持有加密货币，64% 美国投资者认为其“风险极高”</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 CoinDesk 报道，盖洛普最新调查显示，仅 14% 的美国成年人持有加密货币，尽管这一比例自 2018 年的 2% 已增长 8 倍，但仍代表投资群体中的小部分。购买意愿方面，60% 的受访者表示永远不会购买加密货币，仅 4% 计划在近期购买。在美国投资者中，64% 认为加密货币&quot;风险极高&quot;...</description>
-      <pubDate>Sun, 27 Jul 2025 00:36:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某独立矿工约 10 小时挖出区块 907283，获得 3.125 枚 BTC 的区块奖励</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Cointelegraph 报道，约 10 小时前，一位独立比特币矿工通过 Solo CK 矿池（一种独立挖矿服务）成功挖出了区块 907283，该区块包含 4,038 笔交易，并获得了 3.125 枚比特币的区块奖励。</description>
-      <pubDate>Sun, 27 Jul 2025 00:19:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
