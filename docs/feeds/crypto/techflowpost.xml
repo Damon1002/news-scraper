@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 01:51:47 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 01:51:47 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 03:42:11 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 03:42:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>分析：疑似 DeFiance Capital 相关地址 28 小时内购入 3.04 万枚以太坊，价值约 1.14 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain 监测，疑似与 DeFiance Capital 相关的地址 0xF436 在过去 28 小时内购入 30,366 枚 ETH，价值约 1.14 亿美元。</description>
+      <pubDate>Sun, 27 Jul 2025 03:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>6 万枚 ETH 从币安转移至 Justin Sun 地址，约合 2.26 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Whale Alert 监测，6 万枚 ETH 从币安转移至 Justin Sun 地址，约合 2.26 亿美元。</description>
+      <pubDate>Sun, 27 Jul 2025 02:22:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某鲸鱼过去一周向交易所充值 3516 枚以太坊，若售出将获利 263.3 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>支持访问链上经过保险和 SOC-2 认证的去中心化财富管理平台 Sandclock 宣布启动 ETH 财库战略，截至目前已持有 2477 枚 ETH，超越 Api3DAO 在以太坊储备量排名中位列第 34 位。</description>
       <pubDate>Sat, 26 Jul 2025 03:27:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>纳斯达克上市公司 Bit Digital 拟扩大法定股本至 10 亿股普通股以募资继续增持 ETH</title>
-      <link>https://www.techflowpost.com</link>
-      <description>纳斯达克上市公司Bit Digital已发布股东信宣布拟于2025年9月10日召开股东大会，届时将通过决议将该公司的法定股本从340,000,000股每股面值0.01美元的普通股和10,000,000股每股面值0.01美元的优先股（价值总计约350万美元）增加至每股面值0.01美元的1,000,0...</description>
-      <pubDate>Sat, 26 Jul 2025 03:11:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>数据：过去 7 天 USDC 流通量约增加 5 亿枚</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方数据，截至7月24日的7天内，Circle发行约48亿USDC，赎回约43亿USDC，流通量约增加5亿枚。USDC总流通量为650亿枚，储备量约为652亿美元，其中现金约89亿美元，Circle Reserve Fund约持有563亿美元。</description>
-      <pubDate>Sat, 26 Jul 2025 03:09:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

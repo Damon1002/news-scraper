@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 01:51:47 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 01:51:47 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 03:42:11 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 03:42:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,124 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Suspected DeFiance Capital Associated Address Acquires 30,366 ETH, Worth $114 Million</title>
+      <link>https://www.lookonchain.com/feeds/21973</link>
+      <description>On July 27th, based on LookOnChain&apos;s monitoring, a wallet that may be related to DeFiance Capital increased its holdings by 30,366 ETH within the past 28 hours. The value of this increase is $114 million.</description>
+      <pubDate>Sun, 27 Jul 2025 03:24:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21973</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>TRM Labs: Russian Entity Allegedly Using Kyrgyzstan Cryptocurrency Platform to Evade Sanctions</title>
+      <link>https://www.lookonchain.com/feeds/21972</link>
+      <description>On July 27th, as per Decrypt, a report issued by the blockchain intelligence firm TRM Labs indicates that Russian entities are leveraging a Kyrgyzstan cryptocurrency platform to evade sanctions. Cryptocurrency transactions related to Russia almost entirely dominate the Kyrgyzstan cryptocurrency industry, which was &quot;practically non-existent&quot; prior to the 2022 Russia-Ukraine conflict.On-chain analysis reveals that the now-defunct Russian exchange Garantex has likely rebranded as Grinex and is conducting large-scale ruble-to-crypto transactions by using Russian-backed stablecoins (such as A7A5). By the end of 2022, the trading volume of Kyrgyzstan&apos;s virtual asset service providers reached $59 million, and it soared to $4.2 billion in the first seven months of 2024. These platforms have emerged as crucial channels for Russian entities to bypass sanctions and maintain access to the global financial system.</description>
+      <pubDate>Sun, 27 Jul 2025 03:16:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21972</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Justin Sun has withdrawn 60,000 ETH from Binance, equivalent to around 226 million USD</title>
+      <link>https://www.lookonchain.com/feeds/21971</link>
+      <description>On July 27th, as monitored by Whale Alert, the wallet address of Justin Sun withdrew 60,000 ETH from Binance, which was approximately worth $226 million.</description>
+      <pubDate>Sun, 27 Jul 2025 02:41:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21971</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A new wallet address withdrew 1.88 million SPX from Bybit, worth $3.73 million.</title>
+      <link>https://www.lookonchain.com/feeds/21970</link>
+      <description>On July 27th, as monitored by OnchainLens, a newly established wallet address withdrew 1.88 million SPX from Bybit, with a value of $3.73 million.</description>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21970</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale deposited 3516 ETH to a CEX over the past week, with an average entry price of $3689</title>
+      <link>https://www.lookonchain.com/feeds/21969</link>
+      <description>On July 27th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale that has been purchasing ETH at an average price of $2940 over the past 8 months seems to be realizing profits.The whale withdrew 9544 ETH from Binance between November 2024 and June 2025 (approximately $28.06 million), and in the past week, it deposited 3516 ETH into exchanges at an average deposit price of $3689. If sold, this would lead to a profit of $2.633 million.</description>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21969</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale went long on BNB with 3x leverage, while simultaneously shorting SOL and ZORA.</title>
+      <link>https://www.lookonchain.com/feeds/21966</link>
+      <description>On July 27th, as per the monitoring of OnchainLens, a whale deposited 4.56 million USDC into HyperLiquid. Subsequently, it opened a 3x leveraged long position on BNB. Meanwhile, it shorted SOL with a 20x leverage and ZORA with a 3x leverage.</description>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21966</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+
+    </item>
+    <item>
       <title>Statistic: 0.76% of ETH&apos;s supply has been permanently locked, worth approximately $34.3 billion</title>
       <link>https://www.lookonchain.com/feeds/21968</link>
       <description>On July 27th, Conor Grogan, an executive at Coinbase, stated in a post that based on their data, at least 913,111 ETH has been permanently lost due to user errors. This amounts to more than 0.76% of the ETH supply and is worth approximately $34.3 billion. If we add the ETH burned by EIP-1559 (5.3 million ETH), then over 5% of all ever-existing ETH (worth $23.42 billion) has been permanently destroyed.Some of the largest Ethereum permanent loss events in history include: The Web3 Foundation lost 306,000 ETH due to the Parity Multisig vulnerability; Quadriga lost 60,000 ETH due to a smart contract bug; Akutars lost 11,500 ETH in an NFT minting failure; Users collectively sent 25,000 ETH to a burn address for unknown reasons.Conor Grogan further added that the $34.3 billion figure is significantly lower than the actual amount of lost or inaccessible ETH. It only covers Ethereum that has been permanently locked and does not include all lost private keys or forgotten Genesis wallets, et</description>
-      <pubDate>Sun, 27 Jul 2025 01:48:53 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21968</guid>
       <category>crypto</category>
@@ -37,7 +151,7 @@
       <title>Ethereum&apos;s Tenth Anniversary Celebration Livestream to Be Held on July 30, Will Feature Open Torch Commemorative NFT Minting</title>
       <link>https://www.lookonchain.com/feeds/21967</link>
       <description>On July 27th, the Ethereum Foundation announced that the 10th-anniversary commemorative live stream will take place on July 30th at 14:30 UTC. The global celebration event will be open to the entire world. And within 24 hours after the event, Ethereum Torch Commemorative NFT minting will be available for free.BlockBeats previously reported that Ethereum introduced &quot;The Torch&quot; NFT to honor those who have shaped its development and values in the first decade of Ethereum and will support the future construction of Ethereum. In the 10 days leading up to Ethereum&apos;s tenth anniversary, this Torch NFT will symbolically be passed between wallets. On July 30th, The Torch NFT will be burned to commemorate Ethereum&apos;s tenth anniversary. On that day, everyone will be able to mint a commemorative NFT.</description>
-      <pubDate>Sun, 27 Jul 2025 01:32:53 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21967</guid>
       <category>crypto</category>
@@ -53,28 +167,10 @@
 
     </item>
     <item>
-      <title>A whale went long on BNB with 3x leverage, while simultaneously shorting SOL and ZORA.</title>
-      <link>https://www.lookonchain.com/feeds/21966</link>
-      <description>On July 27th, as per the monitoring of OnchainLens, a whale deposited 4.56 million USDC into HyperLiquid. Subsequently, it opened a 3x leveraged long position on BNB. Meanwhile, it shorted SOL with a 20x leverage and ZORA with a 3x leverage.</description>
-      <pubDate>Sun, 27 Jul 2025 01:24:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21966</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
       <title>Data: Approximately 310,000 ETH has been withdrawn from the exchange in the past 72 hours</title>
       <link>https://www.lookonchain.com/feeds/21965</link>
       <description>Update: On July 27th, the crypto analyst @ali_charts shared a chart analysis indicating that within the past 72 hours, a total of 310,000 ETH worth $1.15 billion has been withdrawn from exchanges.</description>
-      <pubDate>Sun, 27 Jul 2025 01:16:53 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21965</guid>
       <category>crypto</category>
@@ -93,7 +189,7 @@
       <title>Pakistan&apos;s Minister for Digital Affairs: Country&apos;s Demographics Will Drive Bitcoin Adoption to Achieve &quot;Leapfrog Development&quot;</title>
       <link>https://www.lookonchain.com/feeds/21964</link>
       <description>On July 27th, as per Cointelegraph, Bilal Bin Saqib, Pakistan&apos;s Minister of Cryptocurrency and Blockchain, declared that the country&apos;s demographic structure will prompt the adoption of Bitcoin and bring about &quot;leapfrog development,&quot; surpassing developed countries in this regard. Bilal Bin Saqib pointed out that Pakistan has 40 million crypto wallets, making it one of the top five countries worldwide in terms of the cryptocurrency adoption rate. The country has a median age of 20 years, a total population of 250 million, and 70% of the population is below 30 years old. &quot;Emerging markets will achieve leapfrog development in the adoption of these new technologies, and smaller countries are more likely to adopt Bitcoin.&quot;</description>
-      <pubDate>Sun, 27 Jul 2025 01:16:53 +0000</pubDate>
+      <pubDate>Sun, 27 Jul 2025 01:41:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/21964</guid>
       <category>crypto</category>
@@ -106,94 +202,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Ethena Foundation: Has Repurchased 83 Million ENA Tokens on the Open Market</title>
-      <link>https://www.lookonchain.com/feeds/21963</link>
-      <description>On July 27th, the Ethena Foundation stated in a post that from July 22nd to July 25th, its subsidiary initiated a buyback plan by working with a third-party market maker to repurchase 83 million ENA tokens on the open market.It is worth noting that according to EmberCN&apos;s monitoring, on July 21st, after Ethena announced the StablecoinX plan to establish an ENA treasury reserve, an address related to an Ethena project team member began to transfer out ENA. A total of 150 million ENA ($77.35 million) was transferred to Binance and Bybit within 5 days from the announcement until yesterday.</description>
-      <pubDate>Sun, 27 Jul 2025 01:08:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21963</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>ZORA Surges Over 86% in 24 Hours, Hits New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/21962</link>
-      <description>On July 27th, based on HTX market data, ZORA has seen a surge of 86.2% in the past 24 hours. It is currently trading at $0.08 and reached a peak of above $0.086 at one point, hitting a new all-time high. The current market capitalization is reported to be $282 million.Binance previously listed ZORA perpetual contracts margined and settled in USDT on July 25th.</description>
-      <pubDate>Sun, 27 Jul 2025 01:08:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21962</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Multiple Locations Issue Risk Warnings to Guard Against &apos;Stablecoin&apos; Fraud Schemes</title>
-      <link>https://www.lookonchain.com/feeds/21961</link>
-      <description>July 27th. Since July, financial regulators and industry self-regulatory organizations in many places have successively issued risk warning notices. With the increasing popularity of the stablecoin concept, some criminals have carried out illegal activities under the guise of stablecoins, and their potential risks deserve high vigilance. Financial regulators and industry self-regulatory organizations in many places remind consumers that before engaging in investment and financial management, they must verify the legal qualifications of relevant institutions and products through the official channels of the national financial regulatory authorities and choose licensed and reputable financial institutions. Fully understand the extremely high complexity and volatility of concepts such as &quot;stablecoins&quot; and other digital currencies and innovations, establish a correct concept of money and a rational investment philosophy, and consciously resist and stay away from any form of cryptocurrency</description>
-      <pubDate>Sun, 27 Jul 2025 01:00:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21961</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The U.S. Senate Banking Committee has introduced a discussion draft on the &quot;CLARITY Act,&quot; proposing the concept of &quot;Covered Assets.&quot;</title>
-      <link>https://www.lookonchain.com/feeds/21960</link>
-      <description>On July 27th, the U.S. Senate Banking Committee introduced a discussion draft titled the &quot;CLARITY Act&quot; (Market Structure Act). This draft proposed the concept of &quot;Digital Asset&quot; in order to clarify the specific meaning of the digital asset concept and seek clarity on how the U.S. Securities and Exchange Commission (SEC) should regulate digital assets. The draft invited public comments by early August.Last week, the House of Representatives voted to pass the &quot;CLARITY Act&quot;, and it is still awaiting approval by the Senate and submission to President Trump for signature. The White House Crypto Czar stated last week that Trump would continue to support the passage of the &quot;CLARITY Act&quot; and fulfill his campaign commitment to the crypto space. This week, the Senate Banking Committee clarified its focus on the role of the SEC in crypto market regulation. Rashan Colbert, the U.S. Policy Director of the Crypto Council for Innovation, stated that the legislative process in the Senate may differ</description>
-      <pubDate>Sun, 27 Jul 2025 00:56:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21960</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Survey: US Investors&apos; Cryptocurrency Holdings Surge 8-Fold in 2018, But Still Viewed as a &quot;High-Risk&quot; Asset</title>
-      <link>https://www.lookonchain.com/feeds/21959</link>
-      <description>July 27th. According to a report by CoinDesk, a Gallup survey indicated that merely 14% of U.S. adults possess cryptocurrency. Sixty percent of the respondents declared that they had no interest in purchasing it. Only 4% of the respondents intended to make a purchase in the near future. The survey exposed demographic disparities. Young men and individuals with high incomes were more inclined to own cryptocurrency, while women, the elderly, and low-income households were underrepresented in this field. Despite the growing acceptance, the majority of Americans still regarded cryptocurrency as a speculative investment. Sixty-four percent of U.S. investors considered it &quot;very risky.&quot;</description>
-      <pubDate>Sun, 27 Jul 2025 00:50:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21959</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
