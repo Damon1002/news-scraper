@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 26 Jul 2025 23:54:46 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Jul 2025 23:54:46 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 01:51:47 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 01:51:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>「Big Brother Bull Run」 Eddie Huang&apos;s multi-long positions have reduced the total floating loss to $4.22 million.</title>
-      <link>https://www.lookonchain.com/feeds/21957</link>
-      <description>On July 27th, based on on-chain data, &quot;Brother Ma Ji&quot; Huang Licheng currently holds a long position worth 141.43 million US dollars on Hyperliquid, which includes ETH, HYPE, and PUMP. Currently, the long positions in ETH and HYPE are in a floating profit state, while the PUMP position is still in a loss.The total floating loss has now been narrowed down to 4.22 million US dollars (excluding the already lost funding rate), as it was previously once floating at a loss of more than 8 million US dollars.</description>
-      <pubDate>Sat, 26 Jul 2025 16:53:53 +0000</pubDate>
+      <title>Statistic: 0.76% of ETH&apos;s supply has been permanently locked, worth approximately $34.3 billion</title>
+      <link>https://www.lookonchain.com/feeds/21968</link>
+      <description>On July 27th, Conor Grogan, an executive at Coinbase, stated in a post that based on their data, at least 913,111 ETH has been permanently lost due to user errors. This amounts to more than 0.76% of the ETH supply and is worth approximately $34.3 billion. If we add the ETH burned by EIP-1559 (5.3 million ETH), then over 5% of all ever-existing ETH (worth $23.42 billion) has been permanently destroyed.Some of the largest Ethereum permanent loss events in history include: The Web3 Foundation lost 306,000 ETH due to the Parity Multisig vulnerability; Quadriga lost 60,000 ETH due to a smart contract bug; Akutars lost 11,500 ETH in an NFT minting failure; Users collectively sent 25,000 ETH to a burn address for unknown reasons.Conor Grogan further added that the $34.3 billion figure is significantly lower than the actual amount of lost or inaccessible ETH. It only covers Ethereum that has been permanently locked and does not include all lost private keys or forgotten Genesis wallets, et</description>
+      <pubDate>Sun, 27 Jul 2025 01:48:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21957</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21968</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,16 +28,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>PUMP has surged by nearly 20% in the last 1 hour, bringing its market capitalization to $10.48 billion.</title>
-      <link>https://www.lookonchain.com/feeds/21956</link>
-      <description>On July 27th, perhaps due to the news that &quot;pump.fun might launch a trading volume incentive plan with the incentive token being PUMP&quot;, PUMP has seen a nearly 20% surge in the past 1 hour, and its market capitalization has reached $10.48 billion.</description>
-      <pubDate>Sat, 26 Jul 2025 15:53:53 +0000</pubDate>
+      <title>Ethereum&apos;s Tenth Anniversary Celebration Livestream to Be Held on July 30, Will Feature Open Torch Commemorative NFT Minting</title>
+      <link>https://www.lookonchain.com/feeds/21967</link>
+      <description>On July 27th, the Ethereum Foundation announced that the 10th-anniversary commemorative live stream will take place on July 30th at 14:30 UTC. The global celebration event will be open to the entire world. And within 24 hours after the event, Ethereum Torch Commemorative NFT minting will be available for free.BlockBeats previously reported that Ethereum introduced &quot;The Torch&quot; NFT to honor those who have shaped its development and values in the first decade of Ethereum and will support the future construction of Ethereum. In the 10 days leading up to Ethereum&apos;s tenth anniversary, this Torch NFT will symbolically be passed between wallets. On July 30th, The Torch NFT will be burned to commemorate Ethereum&apos;s tenth anniversary. On that day, everyone will be able to mint a commemorative NFT.</description>
+      <pubDate>Sun, 27 Jul 2025 01:32:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21956</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21967</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -46,68 +48,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
-      <title>Analysis: pump.fun may be launching a trading volume incentive program, with the incentive token being PUMP.</title>
-      <link>https://www.lookonchain.com/feeds/21955</link>
-      <description>On July 27th, according to the cryptocurrency research firm Dumpster DAO, it is possible that &quot;pump.fun is preparing to launch a trading volume incentive plan that will last for at least 30 days, and the reward token is PUMP. The official Pump SDK has recently been updated to support this incentive mechanism, with an added admin function that can set incentive parameters such as the daily distribution amount of PUMP tokens.In addition, methods for tracking user trading volume and claiming PUMP rewards have been included. The current incentive scheme is based on a 30-day period, but if the team desires, this mechanism can be reused or extended. The IDL (Interface Description Language) of the Pump bonding curve program was also updated a few hours ago, indicating that transaction volume based on the bonding curve may also be included in the incentive rewards.The total amount of reward tokens for this incentive plan is currently unknown. In an updated SDK test version, it is set to di</description>
-      <pubDate>Sat, 26 Jul 2025 15:53:53 +0000</pubDate>
+      <title>A whale went long on BNB with 3x leverage, while simultaneously shorting SOL and ZORA.</title>
+      <link>https://www.lookonchain.com/feeds/21966</link>
+      <description>On July 27th, as per the monitoring of OnchainLens, a whale deposited 4.56 million USDC into HyperLiquid. Subsequently, it opened a 3x leveraged long position on BNB. Meanwhile, it shorted SOL with a 20x leverage and ZORA with a 3x leverage.</description>
+      <pubDate>Sun, 27 Jul 2025 01:24:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21955</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>ZORA Surges Over 43% in 24 Hours, Hits New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/21954</link>
-      <description>On July 26th, based on HTX market data, ZORA has seen a surge of 43.11% within the past 24 hours. It is currently trading at $0.06125 and has once reached a peak above $0.06455, setting a new all-time high. The current market capitalization is reported to be $216 million.</description>
-      <pubDate>Sat, 26 Jul 2025 15:53:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21954</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>TRUMP&apos;s TOP 2 Holdings Address has once again acquired an additional 307,000 tokens today, worth $3.1 million.</title>
-      <link>https://www.lookonchain.com/feeds/21953</link>
-      <description>July 26th. According to on-chain analyst AI Auntie ai_9684xtpa, the TOP2 address of TRUMP individual/institutional holdings is still in a continuous process of accumulation:Addresses 69P4R...BhYLQ and 2p63s...ePVxu jointly hold 2,424,094 TRUMP, with a value of 24.67 million US dollars. Their average cost is approximately 10.19 US dollars, and the current price is basically at their cost. Moreover, the address was still accumulating 7 hours ago, withdrawing 307,000 tokens (3.1 million US dollars) from OKX. &quot;Currently, there is only a 245,000 token difference from TOP1.&quot;</description>
-      <pubDate>Sat, 26 Jul 2025 14:53:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21953</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>After a week of market volatility that liquidated some traders, @TheWhiteWhaleHL is still holding the #1 spot on the leaderboard.</title>
-      <link>https://www.lookonchain.com/feeds/21950</link>
-      <description>After a week of market volatility that liquidated some traders, @TheWhiteWhaleHL is still holding the #1 spot on the leaderboard. Current long positions: 48,405 $ETH($181M), 810,717 $SOL($152M),223 $BTC($26M).</description>
-      <pubDate>Sat, 26 Jul 2025 14:53:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21950</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21966</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -120,12 +71,12 @@
 
     </item>
     <item>
-      <title>Pudgy Penguins Clarification: Did Not Acquire OpenSea</title>
-      <link>https://www.lookonchain.com/feeds/21952</link>
-      <description>On July 26th, Beau, the security lead of Pudgy Penguins, posted a clarification stating, &quot;Pudgy Penguins did not acquire Opensea... Please stay calm.The scale of the Penguin Plan that we have in mind is far greater than your speculation about an acquisition. Instead of speculating about these, why not discuss our partnerships with Lufthansa and NASCAR and help us find the next outstanding brand to expand together.&quot;Earlier today, BlockBeats reported that Luca Netz, the CEO of Pudgy Penguins, revealed that they had acquired a company in December of last year, and the community generally speculated that it was OpenSea.</description>
-      <pubDate>Sat, 26 Jul 2025 14:53:53 +0000</pubDate>
+      <title>Data: Approximately 310,000 ETH has been withdrawn from the exchange in the past 72 hours</title>
+      <link>https://www.lookonchain.com/feeds/21965</link>
+      <description>Update: On July 27th, the crypto analyst @ali_charts shared a chart analysis indicating that within the past 72 hours, a total of 310,000 ETH worth $1.15 billion has been withdrawn from exchanges.</description>
+      <pubDate>Sun, 27 Jul 2025 01:16:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21952</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21965</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -134,15 +85,36 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
-      <title>AguilaTrades&apos; Ethereum Long Position is now in a floating profit of over $1.15 million, with a liquidation price of $3,698.90.</title>
-      <link>https://www.lookonchain.com/feeds/21949</link>
-      <description>On July 26th, based on on-chain data, AguilaTrades&apos; 25x long position in Ethereum is currently in a profit of more than $1.15 million.The position size is $93,682,519.86 (25,000 ETH), with an entry price of $3,701.04 and a liquidation price of $3,698.90.</description>
-      <pubDate>Sat, 26 Jul 2025 13:53:53 +0000</pubDate>
+      <title>Pakistan&apos;s Minister for Digital Affairs: Country&apos;s Demographics Will Drive Bitcoin Adoption to Achieve &quot;Leapfrog Development&quot;</title>
+      <link>https://www.lookonchain.com/feeds/21964</link>
+      <description>On July 27th, as per Cointelegraph, Bilal Bin Saqib, Pakistan&apos;s Minister of Cryptocurrency and Blockchain, declared that the country&apos;s demographic structure will prompt the adoption of Bitcoin and bring about &quot;leapfrog development,&quot; surpassing developed countries in this regard. Bilal Bin Saqib pointed out that Pakistan has 40 million crypto wallets, making it one of the top five countries worldwide in terms of the cryptocurrency adoption rate. The country has a median age of 20 years, a total population of 250 million, and 70% of the population is below 30 years old. &quot;Emerging markets will achieve leapfrog development in the adoption of these new technologies, and smaller countries are more likely to adopt Bitcoin.&quot;</description>
+      <pubDate>Sun, 27 Jul 2025 01:16:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21949</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21964</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Ethena Foundation: Has Repurchased 83 Million ENA Tokens on the Open Market</title>
+      <link>https://www.lookonchain.com/feeds/21963</link>
+      <description>On July 27th, the Ethena Foundation stated in a post that from July 22nd to July 25th, its subsidiary initiated a buyback plan by working with a third-party market maker to repurchase 83 million ENA tokens on the open market.It is worth noting that according to EmberCN&apos;s monitoring, on July 21st, after Ethena announced the StablecoinX plan to establish an ENA treasury reserve, an address related to an Ethena project team member began to transfer out ENA. A total of 150 million ENA ($77.35 million) was transferred to Binance and Bybit within 5 days from the announcement until yesterday.</description>
+      <pubDate>Sun, 27 Jul 2025 01:08:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21963</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -154,16 +126,15 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-      <category>profit</category>
 
     </item>
     <item>
-      <title>James Wynn&apos;s 10x long position on PEPE is currently showing an unrealized gain of $180,000, with the account balance standing at only $450,000.</title>
-      <link>https://www.lookonchain.com/feeds/21948</link>
-      <description>On July 26th, as per on-chain data, James Wynn&apos;s 10x PEPE long position is currently showing an unrealized profit of $180,000, while the account balance remains at just $450,000.The position size is $4,715,995.96, with an entry price of $0.01219 and a liquidation price of $0.012054.Previously, James Wynn&apos;s long positions on Bitcoin and PEPE had been consecutively liquidated five times.</description>
-      <pubDate>Sat, 26 Jul 2025 13:53:53 +0000</pubDate>
+      <title>ZORA Surges Over 86% in 24 Hours, Hits New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/21962</link>
+      <description>On July 27th, based on HTX market data, ZORA has seen a surge of 86.2% in the past 24 hours. It is currently trading at $0.08 and reached a peak of above $0.086 at one point, hitting a new all-time high. The current market capitalization is reported to be $282 million.Binance previously listed ZORA perpetual contracts margined and settled in USDT on July 25th.</description>
+      <pubDate>Sun, 27 Jul 2025 01:08:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21948</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21962</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -172,16 +143,49 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>Minsheng Securities: Building a Stablecoin and RWA Ecosystem, Asset On-chain to Kick Off the Web3.0 Era</title>
-      <link>https://www.lookonchain.com/feeds/21947</link>
-      <description>July 26th: China Minsheng Securities issued a research report indicating that the powerful alliance between the government and enterprises has constructed an ecological closed loop of a stablecoin anchored by high-quality Chinese assets—RWA. It is expected that the on-chainization of relevant assets will enter the era of Web3.0, starting from Ant Group, Longi Green Energy Technology, and XinAo Group&apos;s new energy RWA assets, and expanding to potential directions such as computing power leasing, facilitating Chinese high-quality assets to become the core cornerstone of on-chain diversified assets.At the same time, referring to the development process of overseas stock token issuers like Robinhood, domestic internet brokers, fintech companies, and stock or cryptocurrency exchanges in China are anticipated to achieve value reassessment in this wave, with the &quot;license effect&quot; serving as the core competitiveness of domestic related vendors. The main points of Minsheng Securities are as fol</description>
-      <pubDate>Sat, 26 Jul 2025 13:53:53 +0000</pubDate>
+      <title>Multiple Locations Issue Risk Warnings to Guard Against &apos;Stablecoin&apos; Fraud Schemes</title>
+      <link>https://www.lookonchain.com/feeds/21961</link>
+      <description>July 27th. Since July, financial regulators and industry self-regulatory organizations in many places have successively issued risk warning notices. With the increasing popularity of the stablecoin concept, some criminals have carried out illegal activities under the guise of stablecoins, and their potential risks deserve high vigilance. Financial regulators and industry self-regulatory organizations in many places remind consumers that before engaging in investment and financial management, they must verify the legal qualifications of relevant institutions and products through the official channels of the national financial regulatory authorities and choose licensed and reputable financial institutions. Fully understand the extremely high complexity and volatility of concepts such as &quot;stablecoins&quot; and other digital currencies and innovations, establish a correct concept of money and a rational investment philosophy, and consciously resist and stay away from any form of cryptocurrency</description>
+      <pubDate>Sun, 27 Jul 2025 01:00:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21947</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21961</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The U.S. Senate Banking Committee has introduced a discussion draft on the &quot;CLARITY Act,&quot; proposing the concept of &quot;Covered Assets.&quot;</title>
+      <link>https://www.lookonchain.com/feeds/21960</link>
+      <description>On July 27th, the U.S. Senate Banking Committee introduced a discussion draft titled the &quot;CLARITY Act&quot; (Market Structure Act). This draft proposed the concept of &quot;Digital Asset&quot; in order to clarify the specific meaning of the digital asset concept and seek clarity on how the U.S. Securities and Exchange Commission (SEC) should regulate digital assets. The draft invited public comments by early August.Last week, the House of Representatives voted to pass the &quot;CLARITY Act&quot;, and it is still awaiting approval by the Senate and submission to President Trump for signature. The White House Crypto Czar stated last week that Trump would continue to support the passage of the &quot;CLARITY Act&quot; and fulfill his campaign commitment to the crypto space. This week, the Senate Banking Committee clarified its focus on the role of the SEC in crypto market regulation. Rashan Colbert, the U.S. Policy Director of the Crypto Council for Innovation, stated that the legislative process in the Senate may differ</description>
+      <pubDate>Sun, 27 Jul 2025 00:56:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21960</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Survey: US Investors&apos; Cryptocurrency Holdings Surge 8-Fold in 2018, But Still Viewed as a &quot;High-Risk&quot; Asset</title>
+      <link>https://www.lookonchain.com/feeds/21959</link>
+      <description>July 27th. According to a report by CoinDesk, a Gallup survey indicated that merely 14% of U.S. adults possess cryptocurrency. Sixty percent of the respondents declared that they had no interest in purchasing it. Only 4% of the respondents intended to make a purchase in the near future. The survey exposed demographic disparities. Young men and individuals with high incomes were more inclined to own cryptocurrency, while women, the elderly, and low-income households were underrepresented in this field. Despite the growing acceptance, the majority of Americans still regarded cryptocurrency as a speculative investment. Sixty-four percent of U.S. investors considered it &quot;very risky.&quot;</description>
+      <pubDate>Sun, 27 Jul 2025 00:50:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21959</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
