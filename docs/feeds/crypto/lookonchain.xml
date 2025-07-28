@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Jul 2025 04:53:56 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Jul 2025 04:53:56 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 05:26:50 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 05:26:50 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,48 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Ethereum Surpasses $3900 Again</title>
+      <link>https://www.lookonchain.com/feeds/22090</link>
+      <description>On July 28th, based on HTX market data, Ethereum once more soared and exceeded $3,900. It is now trading at $3,929.52, with a 24-hour increase of 2.89%.</description>
+      <pubDate>Mon, 28 Jul 2025 05:24:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22090</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Alongside BNB&apos;s new all-time high, CZ&apos;s holdings may have surpassed $74.8 billion</title>
+      <link>https://www.lookonchain.com/feeds/22089</link>
+      <description>On July 28th, Cointelegraph reported according to a June 2024 Forbes report that CZ held around 89.1 million BNB at that time. Given that BNB has been continuously reaching new all-time highs recently, based on the current BNB price of $840, the value of this BNB is approximately $74.844 billion.</description>
+      <pubDate>Mon, 28 Jul 2025 05:08:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22089</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>A certain solo miner successfully mined Block 907,465, receiving a reward of 3.164 BTC.</title>
       <link>https://www.lookonchain.com/feeds/22088</link>
       <description>On July 28th, based on mempool data, at 5:43:51 this morning, a single Bitcoin miner successfully mined Block 907,465 and received a block reward of 3.164 BTC, which is worth approximately $375,800.</description>
-      <pubDate>Mon, 28 Jul 2025 04:48:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22088</guid>
       <category>crypto</category>
@@ -36,7 +74,7 @@
       <title>The AI project ARO Network has completed a $2.1 million Pre-Seed funding round, with NoLimit Holdings and Dispersion Capital leading the investment.</title>
       <link>https://www.lookonchain.com/feeds/22085</link>
       <description>On July 28th, the decentralized edge cloud project ARO Network announced the completion of a $2.1 million Pre-Seed funding round. The purpose of this funding round is to expedite the construction of a decentralized edge cloud network, which is designed for peer-to-peer content distribution and AI computation. This funding round was led by NoLimit Holdings and Dispersion Capital, and was participated in by Escape Velocity, Maelstrom, and several strategic angel investors.ARO Network is a decentralized edge cloud project that enables users to monetize idle internet resources by running nodes. Users who operate ARO nodes can earn ARO tokens to support real-time AI computation.</description>
-      <pubDate>Mon, 28 Jul 2025 04:41:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:40:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22085</guid>
       <category>crypto</category>
@@ -54,7 +92,7 @@
       <title>A whale has withdrawn a total of 6273.5 ETH in the past 3 days, amounting to $23.7 million.</title>
       <link>https://www.lookonchain.com/feeds/22084</link>
       <description>On July 28th, based on the monitoring of Onchain Lens, within the past 3 days, a whale withdrew 6,273.5 ETH from Bybit, with a value of $23.7 million. Currently, the whale is in possession of 6,294 ETH ($24.4 million).</description>
-      <pubDate>Mon, 28 Jul 2025 04:41:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:40:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22084</guid>
       <category>crypto</category>
@@ -75,7 +113,7 @@
       <title>JPMorgan Chase: Raises Coinbase Price Target from $215 to $404</title>
       <link>https://www.lookonchain.com/feeds/22087</link>
       <description>On July 28th, JPMorgan Chase increased its price target for Coinbase (COIN.O) from $215 to $404. (Golden Ten)</description>
-      <pubDate>Mon, 28 Jul 2025 04:41:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:40:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22087</guid>
       <category>crypto</category>
@@ -93,7 +131,7 @@
       <title>Affected by the Upbit listing news, OP experienced a brief surge of over 8%.</title>
       <link>https://www.lookonchain.com/feeds/22086</link>
       <description>On July 28th, according to HTX market information, OP witnessed a short-term surge of more than 8% and is currently trading at $0.8013.Earlier today, Upbit added OP trading pairs for the Korean Won, BTC, and USDT. Trading will begin at 16:30 local time on July 28th.</description>
-      <pubDate>Mon, 28 Jul 2025 04:41:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:40:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22086</guid>
       <category>crypto</category>
@@ -110,7 +148,7 @@
       <title>Upbit has newly listed OP KRW, BTC, and USDT trading pairs.</title>
       <link>https://www.lookonchain.com/feeds/22083</link>
       <description>On July 28th, according to official information, Upbit has included the OP KRW, BTC, and USDT trading pairs. Trading will begin at 16:30 local time on July 28th.</description>
-      <pubDate>Mon, 28 Jul 2025 04:40:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:39:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22083</guid>
       <category>crypto</category>
@@ -129,7 +167,7 @@
       <title>Yesterday, Zora platform&apos;s creator count, token issuance, and transaction volume all reached record highs</title>
       <link>https://www.lookonchain.com/feeds/22082</link>
       <description>On July 28th, according to Dune Data, yesterday the number of Creators on the Zora platform rose to 21,478, among which 12,292 were new creators. The number of created coins reached 50,475, all setting new records.Moreover, the trading volume of the platform yesterday reached $39.4359 million, and $31.3 million was attributed to creator token transactions.</description>
-      <pubDate>Mon, 28 Jul 2025 04:25:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:25:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22082</guid>
       <category>crypto</category>
@@ -146,7 +184,7 @@
       <title>A certain Wise Trader reduced their ETH long position by 25x two hours ago, while maintaining a 40x long position on Bitcoin and a 20x short position on SOL.</title>
       <link>https://www.lookonchain.com/feeds/22081</link>
       <description>On July 28th, based on on-chain data, a certain smart money liquidated a 25x long position in ETH 2 hours ago. This led to a reduction of their holdings by 2,368.85 ETH, and currently, they only hold a $388.4 long position in ETH.In addition, the address still holds a $14.925 million 40x long position in Bitcoin and a $4.84 million 20x short position in SOL.This address has achieved a profit of $1.15 million on Hyperliquid in the past week.</description>
-      <pubDate>Mon, 28 Jul 2025 04:08:03 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 04:25:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22081</guid>
       <category>crypto</category>
@@ -161,40 +199,6 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A hacker group disguised as a recruitment effort on V2EX to conduct a watering hole attack and steal interviewees&apos; cryptocurrency</title>
-      <link>https://www.lookonchain.com/feeds/22080</link>
-      <description>July 28th: As per SlowMist Cosine, a hacker group camouflaged as a recruitment drive on the V2EX platform and published false job postings, luring interviewees with enticing benefits. This group induced interviewees to develop a webpage based on their pre-prepared malicious code repository as a project template. Once the interviewees downloaded and debugged the relevant code, their computers would get infected with malware, potentially resulting in the theft of cryptocurrency assets and various account permissions. This attack method took advantage of job seekers&apos; trust in technical interviews by conducting a network attack through seemingly normal development tasks. Job seekers should be vigilant when participating in technical interviews, avoiding running code from unknown sources on personal devices. It is recommended to use a virtual machine or sandbox environment for testing.</description>
-      <pubDate>Mon, 28 Jul 2025 04:01:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22080</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Noble, Eclipse, and Solana Top Cross-Chain Bridge Net Inflow in the Past Week</title>
-      <link>https://www.lookonchain.com/feeds/22079</link>
-      <description>On July 28th, as per the data from DefiLlama, during the past week, the net inflow of funds through the Noble cross-chain bridge amounted to $129 million, securing the top position among all public chains. Closely trailing behind are Eclipse and Solana, with net inflows of $112 million and $45.27 million, respectively.On Ethereum, Arbitrum, and Hyperliquid, there were net outflows of $223.9 million, $148.1 million, and $20.49 million, respectively.</description>
-      <pubDate>Mon, 28 Jul 2025 03:57:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22079</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
