@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Jul 2025 14:37:10 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Jul 2025 14:37:10 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 14:57:06 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 14:57:06 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,21 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Greeks.live：市场对 ETH 表现出强烈看涨情绪，关注4800美元阻力位</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Greeks.live 中文研报表示，市场对以太坊走势保持积极态度，重点关注 4800 美元阻力位的突破情况。交易者普遍采用期权组合策略应对行情，主要通过构建 3800 美元买入、4800 美元卖出的看涨期权价差策略进行交易。同时，BNB创造历史新高也引发市场关注，其资产配置模式或将引领本轮市场周...</description>
+      <pubDate>Mon, 28 Jul 2025 14:38:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>BTC跌破118000美元，24小时跌幅为0.41%</title>
       <link>https://www.techflowpost.com</link>
       <description>HTX行情显示，BTC跌破118000美元，现报117981美元，24小时跌幅为0.41%。</description>
-      <pubDate>Mon, 28 Jul 2025 14:36:09 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:36:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据NLNico披露，MARA Holdings通过发行0%利率可转换债券成功筹集9.5亿美元资金，用于增持更多比特币，以及偿还5000万美元旧债券及用于一般企业用途。</description>
       <pubDate>Mon, 28 Jul 2025 12:15:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>CEA Industries 和 10X Capital 进行 5 亿美元私募融资以建立 BNB 财库</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据StreetInsider报道，CEA Industries 和 10 X Capital 宣布在 YZi Labs 支持下进行 5 亿美元私募融资以建立 BNB 财库，两家机构将扩大 PIPE 发行规模，超过 140 名认购者参与了此次发行，除 YZi Labs 之外还有 Pantera Ca...</description>
-      <pubDate>Mon, 28 Jul 2025 12:12:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

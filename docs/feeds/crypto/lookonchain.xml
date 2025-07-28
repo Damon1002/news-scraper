@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Jul 2025 14:37:10 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Jul 2025 14:37:10 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 14:57:06 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 14:57:06 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Reuters: Interactive Brokers Considers Launching a Stablecoin</title>
+      <link>https://www.lookonchain.com/feeds/22188</link>
+      <description>July 28th - As per Reuters, Interactive Brokers is in the process of contemplating the launch of a stablecoin for its clientele. The report pointed out that Interactive Brokers&apos; founder, Thomas Peterffy, stated that this integration would offer continuous stablecoin financing for brokerage accounts and provide asset transfer services for prominent cryptocurrencies. This is not the initial instance when this brokerage behemoth has ventured into the cryptocurrency industry.It is reported that the company incorporated cryptocurrency trading and custody services towards the end of 2021, encompassing four assets: BTC, ETH, LTC, and BCH. In March, it expanded its support to SOL, ADA, XRP, and DOGE.In addition, the company also holds a stake in the cryptocurrency exchange platform Zero Hash and has formed a partnership with the stablecoin issuer Paxos.Currently, Thomas Peterffy has not made a decision regarding how to launch the stablecoin and is contemplating integrating stablecoins is</description>
+      <pubDate>Mon, 28 Jul 2025 14:48:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22188</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Bitcoin Drops Below $118,000</title>
+      <link>https://www.lookonchain.com/feeds/22187</link>
+      <description>On July 28th, based on HTX market data, Bitcoin has fallen below $118,000 and is currently priced at $117,959.</description>
+      <pubDate>Mon, 28 Jul 2025 14:41:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22187</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>US Stock VAPE Extends Gain to 686.37%, Market Cap Currently at $58.7175 Million</title>
       <link>https://www.lookonchain.com/feeds/22186</link>
       <description>On July 28th, based on the data from rockflow, the &quot;New BNB Version Microstrategy&quot; of the US stock CEA Industries (VAPE) has witnessed its gain expand to 686.37%. It is currently priced at $69.79, with a market value reported as $587.175 million. After the US stock market opened, the trading volume reached $342 million.BlockBeats previously reported that CEA Industries and 10X Capital, with the support of YZi Labs, announced a $500 million private placement to establish the world&apos;s largest publicly traded BNB financial company.</description>
-      <pubDate>Mon, 28 Jul 2025 14:32:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:32:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22186</guid>
       <category>crypto</category>
@@ -35,7 +72,7 @@
       <title>LookOnChain: Ethereum Drops Below $3800</title>
       <link>https://www.lookonchain.com/feeds/22185</link>
       <description>On July 28th, based on HTX market data, Ethereum has fallen below $3,800 and is currently trading at $3,786.</description>
-      <pubDate>Mon, 28 Jul 2025 14:32:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:32:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22185</guid>
       <category>crypto</category>
@@ -55,7 +92,7 @@
       <title>US Stock CEA Industries (VAPE) Surpasses $300 Million in Trading Volume in First 40 Minutes of Trading</title>
       <link>https://www.lookonchain.com/feeds/22184</link>
       <description>On July 28th, based on market data, the &quot;New BNB Version Micro Strategy&quot; US stock CEA Industries (VAPE) saw a trading volume of over $3 billion in the first 40 minutes of trading. Currently, it is priced at $59.92, with a post-opening surge of 575.15%. The reported market value is $50.4135 million.Previously reported by BlockBeats, CEA Industries and 10X Capital, with the support of YZi Labs, announced a $500 million private placement to establish the world&apos;s largest publicly traded BNB financial company.</description>
-      <pubDate>Mon, 28 Jul 2025 14:16:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:16:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22184</guid>
       <category>crypto</category>
@@ -73,9 +110,26 @@
       <title>Steel Group and Circle Coin Technology Reach Strategic Partnership</title>
       <link>https://www.lookonchain.com/feeds/22183</link>
       <description>On July 28th, Fang Gang Group announced a strategic cooperation with RoundCoin Technology. The two parties will mainly focus on cooperation in the settlement of commodity smart contracts, digital trade finance, and supply chain tracking. Fang Gang International will provide full support for stablecoin settlement.The two parties hold the view that this move will further increase the transparency in commodity trading, reduce the credit costs of both parties, and enhance the efficiency of cross-border trade. In the future, RoundCoin Technology will offer support, exchange services, and compliance assurance. Both parties will use compliant stablecoins (denominated in Hong Kong dollars or US dollars) as a settlement tool to cut transaction costs and jointly promote the application of blockchain and stablecoin technology in international trade. (36Kr)</description>
-      <pubDate>Mon, 28 Jul 2025 14:09:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:09:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22183</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will list Rhea (RHEA) on July 30th</title>
+      <link>https://www.lookonchain.com/feeds/22182</link>
+      <description>On July 28th, as per official channels, Binance Alpha is scheduled to list Rhea (RHEA) on July 30th. Qualified users can utilize Binance Alpha points on the Alpha event page to claim the airdrop, and this can be done once trading commences. Further details will be made public shortly.</description>
+      <pubDate>Mon, 28 Jul 2025 14:09:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22182</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -90,7 +144,7 @@
       <title>The new &quot;SUI Edition MicroStrategy&quot; MCVT has surged 12% since its listing, currently trading at $6.62.</title>
       <link>https://www.lookonchain.com/feeds/22181</link>
       <description>On July 28th, based on rockflow data, the newly emerged &quot;SUI Edition MicroStrategy&quot; publicly traded US company, Mill City Ventures III, Ltd. (MCVT), saw a 12.2% increase upon opening. The current price is $6.62, and the reported market capitalization is $40.8631 million.Previously reported by BlockBeats, the non-bank lending institution and financial services company, Mill City Ventures III, Ltd. (NASDAQ:MCVT), announced that it has entered into a securities purchase agreement to invest in public equity through a private placement. It will purchase and sell 83,025,830 shares of common stock at a price of $5.42 per share, with expected gross proceeds of approximately $450 million (net of underwriting discounts and other offering expenses). The company plans to use approximately 98% of the net proceeds from the private placement to acquire the native token SUI of the Sui blockchain and approximately 2% of the net proceeds to support the company&apos;s short-term lending business. SUI will s</description>
-      <pubDate>Mon, 28 Jul 2025 14:08:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:08:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22181</guid>
       <category>crypto</category>
@@ -105,27 +159,10 @@
 
     </item>
     <item>
-      <title>Binance Alpha will list Rhea (RHEA) on July 30th</title>
-      <link>https://www.lookonchain.com/feeds/22182</link>
-      <description>On July 28th, as per official channels, Binance Alpha is scheduled to list Rhea (RHEA) on July 30th. Qualified users can utilize Binance Alpha points on the Alpha event page to claim the airdrop, and this can be done once trading commences. Further details will be made public shortly.</description>
-      <pubDate>Mon, 28 Jul 2025 14:08:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22182</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Tron Inc. (TRON) is up by 14.58%, now trading at $11.</title>
       <link>https://www.lookonchain.com/feeds/22180</link>
       <description>On July 28th, based on the data from rockflow, the US-listed company Tron Inc. (TRON) of Justin Sun witnessed a 14.58% increase in its stock price. It is now trading at $11, and after the US stock market opened, it reached as high as $11.94.BlockBeats previously reported that Tron Inc. submitted a mixed-shelf offering application to the SEC, with a fundraising amount of up to $1 billion (Reuters).</description>
-      <pubDate>Mon, 28 Jul 2025 14:01:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 14:01:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22180</guid>
       <category>crypto</category>
@@ -143,7 +180,7 @@
       <title>BNB Chain Ecosystem Tokens See Across-the-Board Increase, CAT Surges 45.9% in 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/22179</link>
       <description>On July 28th, based on market data, the tokens in the BNB Chain ecosystem witnessed a general increase. They include:- CAT with a 24-hour change of +45.9% and currently priced at $0.0000122.- BANANAS31 with a 24-hour change of +18% and currently priced at $0.00744.- LISTA with a 24-hour change of +13.57% and currently priced at $0.3267.- MUBARAK with a 24-hour change of +13% and currently priced at $0.04799.- TST with a 24-hour change of +11.85% and currently priced at $0.04669.- CAKE with a 24-hour change of +9.33% and currently priced at $3.058.</description>
-      <pubDate>Mon, 28 Jul 2025 13:56:16 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 13:56:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22179</guid>
       <category>crypto</category>
@@ -154,43 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>New &quot;BNB Version Micro Strategy&quot; US Stock VAPE Soars 523.58% at Opening, Now Trading at $55.34</title>
-      <link>https://www.lookonchain.com/feeds/22178</link>
-      <description>On July 28th, based on rockflow data, the new &quot;BNB Version Micro Strategy&quot; US stock VAPE opened with a growth of 523.58%, and it is currently priced at $55.34, with a reported market capitalization of $52.7564 million.BlockBeats previously reported that CEA Industries and 10X Capital, with the support of YZi Labs, announced a $500 million private placement to establish the world&apos;s largest publicly traded BNB financial corporation.</description>
-      <pubDate>Mon, 28 Jul 2025 13:56:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22178</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>US Stock and Cryptocurrency Stocks Generally Open Higher, BTCS Up 8.13%</title>
-      <link>https://www.lookonchain.com/feeds/22177</link>
-      <description>On July 28th, according to Rockflow data, when the US stock market opened, the S&amp;P 500 Index increased by 0.12% and the Nasdaq rose by 0.36%. Cryptocurrency stocks generally opened with a higher opening, including: Galaxy Digital (GLXY) rose by 1.06%; Circle (CRCL) decreased by 0.6%; Coinbase (COIN) rose by 0.41%; MicroStrategy (MSTR) rose by 1.65%; MARA Holdings (MARA) rose by 0.58%; BTCS (BTCS) rose by 8.13%; Bit Digital (BTBT) rose by 2.22%; SharpLink Gaming (SBET) rose by 0.77%; Bitmine Immersion (BMNR) rose by 1.79%.</description>
-      <pubDate>Mon, 28 Jul 2025 13:48:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22177</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
