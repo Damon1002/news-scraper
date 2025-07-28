@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Jul 2025 23:58:15 +0000</lastBuildDate>
-    <pubDate>Sun, 27 Jul 2025 23:58:15 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 02:32:36 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 02:32:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,31 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Blue-Chip NFTs Surge Across the Board, Moonbirds See Over 50% Gain in 7 Days</title>
-      <link>https://www.lookonchain.com/feeds/22038</link>
-      <description>On July 28th, according to Blur data, there was a general increase in blue-chip NFTs. Specifically:The Moonbirds saw a 50.92% surge in the past 7 days, with a current floor price of 2.74 ETH.The Milady surged by 24.89% in the past 7 days, and the current floor price is 3.24 ETH.The LilPudgys surged by 20.45% in the past 7 days, with a current floor price of 1.86 ETH.The PudgyPenguins surged by 12.22% in the past 7 days, and the current floor price is 16.38 ETH.The BAYC surged by 8.14% in the past 7 days, with a current floor price of 12.59 ETH.</description>
-      <pubDate>Sun, 27 Jul 2025 23:57:23 +0000</pubDate>
+      <title>Cluster Capital partner deposited 1260 ETH into Coinbase 10 hours ago</title>
+      <link>https://www.lookonchain.com/feeds/22058</link>
+      <description>On July 28th, according to on-chain analyst Ai Yi (@ai_9684xtpa), Winslow Strong, a partner of Cluster Capital, deposited 1260 ETH into Coinbase 10 hours ago. The value of this deposit is $4.82 million and it is suspected to have been sold. ETH only accounts for a small part of his on-chain holdings. He has over $41.55 million in assets in sUSD, followed by Wrapped BTC and GRT.</description>
+      <pubDate>Mon, 28 Jul 2025 02:24:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22038</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22058</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Trader Eugene: BNB All-Time High Could Signal Accelerated Growth for Total3</title>
+      <link>https://www.lookonchain.com/feeds/22057</link>
+      <description>On July 28th, Trader Eugene Ng Ah Sio stated in a post on his personal channel that &quot;The reaching of a new all-time high by BNB is a significant signal. This is the first mainstream coin to break through the resistance of the historical high point, aside from BTC. I don&apos;t hold any myself, but this is a very positive signal for the acceleration of the rise of Total3 (the total market value excluding BTC and ETH). Now, we are patiently waiting for ETH to break through $4000.&quot;</description>
+      <pubDate>Mon, 28 Jul 2025 02:24:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22057</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +50,12 @@
 
     </item>
     <item>
-      <title>The probability of the Fed keeping the interest rate unchanged in July is 97.4%.</title>
-      <link>https://www.lookonchain.com/feeds/22037</link>
-      <description>On July 28th, based on CME&apos;s &quot;FedWatch&quot;, the likelihood that the Fed will keep interest rates unchanged in July is 97.4%, and the probability of a 25-basis-point rate cut is 2.6%.</description>
-      <pubDate>Sun, 27 Jul 2025 23:48:23 +0000</pubDate>
+      <title>Approximately $25.4 billion worth of ETH is currently queued to exit the Ethereum PoS network, while around $10.1 billion worth of ETH is waiting to join.</title>
+      <link>https://www.lookonchain.com/feeds/22056</link>
+      <description>On July 28th, as per the validatorqueue data, there are currently around 660,000 ETH (which is approximately equivalent to $25.4 billion at the current price) awaiting to exit the Ethereum PoS network. The exit waiting time is approximately 11 days and 11 hours. Meanwhile, there are about 263,000 ETH queued to join the network, approximately $10.1 billion, with an expected activation delay of about 4 days and 14 hours.Previously reported, this situation indicates the existence of two opposing forces in the market. On one hand, some stakers may have decided to cash out after Ethereum rebounded by more than 160% from the April low, resulting in a significant increase in the exit queue. On the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also raising the entry queue. Publicly traded companies like SharpLink Gaming and BitMine Immersion have been increasing their ETH holdings and engaging in staking.</description>
+      <pubDate>Mon, 28 Jul 2025 02:16:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22037</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22056</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -45,66 +64,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Analyst: Stock Market Poised to Rise After US-EU Agreement</title>
-      <link>https://www.lookonchain.com/feeds/22036</link>
-      <description>July 28th: Once the United States reached a trade agreement with the European Union, investors anticipated that when the market reopened on Monday, automobile manufacturers and luxury goods manufacturers would trigger a relief rally within the European stock market. On Sunday, US President Trump announced this agreement following his meeting with European Commission President Von der Leyen. According to the agreement, the majority of the EU&apos;s exports (including cars) would be subject to a 15% tariff. The EU leader indicated that this tariff was comprehensive, yet Trump stated that it did not encompass pharmaceuticals and metals.John Plassard, the Chief Investment Officer at Cité Gestion, asserted that this agreement was &quot;sufficient to unlock what the stock market required the most: predictability.&quot; He remarked, &quot;The risk of an additional escalation in tariffs has now been eliminated, followed by the vanishing of a significant macroeconomic downside. For investors, this is not merely</description>
-      <pubDate>Sun, 27 Jul 2025 23:40:23 +0000</pubDate>
+      <title>Courtyard Completes $30 Million Series A Funding Round, Lead by Forerunner</title>
+      <link>https://www.lookonchain.com/feeds/22054</link>
+      <description>July 28th. As per the report in Fortune, the New York-based startup Courtyard has concluded a Series A funding round worth $30 million. This round was led by Forerunner Ventures and involved the participation of NEA and Y Combinator. Courtyard was established in 2021. Its main business is to sell &quot;blind box&quot; trading cards and comic books in a digital vending machine format via its website. Users make a certain payment, and the algorithm randomly distributes the cards or comics. Users have the option to resell at 90% of the market price, resell on the platform without incurring any fees, or store for free in Courtyard&apos;s warehouse. The company intends to enhance its market-leading position by expanding the team, increasing marketing investment, and broadening the product line.</description>
+      <pubDate>Mon, 28 Jul 2025 02:08:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22036</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>EU President: Trade Agreement with the United States Will Bring Stability</title>
-      <link>https://www.lookonchain.com/feeds/22035</link>
-      <description>On July 28th, European Commission President von der Leyen said that the trade agreement reached with the United States will bring stability and agreed to impose a uniform 15% tariff.</description>
-      <pubDate>Sun, 27 Jul 2025 17:57:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22035</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: Trade Agreement Reached with EU</title>
-      <link>https://www.lookonchain.com/feeds/22034</link>
-      <description>On July 28th, US President Trump declared that a trade agreement had been achieved with the European Union. The EU pledged to invest an extra $600 billion in the United States compared to the previous situation.The EU has consented to permit tariff-free trade among its member countries, and all countries will make their markets accessible to the United States.The EU will acquire a substantial amount of military equipment from the United States, agree to a unified 15% tariff on automobiles, and will purchase billions of dollars&apos; worth of military equipment.</description>
-      <pubDate>Sun, 27 Jul 2025 17:57:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22034</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BNB Breaks $827 for a Brief Period, Hits All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/22033</link>
-      <description>On July 28th, BNB briefly rose above $827 and reached a new all-time high. It saw a 24-hour increase of 5.20%, which pushed its market capitalization to $114.85 billion.</description>
-      <pubDate>Sun, 27 Jul 2025 16:57:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22033</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22054</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -117,31 +88,12 @@
 
     </item>
     <item>
-      <title>PENGU Token Deployment Address Transferred $2.94 Million Worth of Tokens to CEX 1 Hour Ago</title>
-      <link>https://www.lookonchain.com/feeds/22029</link>
-      <description>On July 27th, as per Arkham&apos;s monitoring, the deployment address of the PENGU token transferred tokens worth $2.94 million to a CEX through an intermediary address one hour ago.According to statistics on the 23rd, since July 12th, a total of 1.81 billion PENGU tokens (approximately $54.61 million) have been transferred from the PENGU token deployment address to a CEX.</description>
-      <pubDate>Sun, 27 Jul 2025 15:57:23 +0000</pubDate>
+      <title>pump.fun&apos;s Solana Launchpad Market Share in the last 24 hours has dropped to 9.01%, placing it below Jup Studio at third place.</title>
+      <link>https://www.lookonchain.com/feeds/22055</link>
+      <description>On July 28th, according to the Jupiter Data Dashboard, within the past 24 hours, in the Solana launchpad market share ranking, Letsbonk took the first place with 76.9%, Jup Studio came in second with 9.8%, and pump.fun ranked third with 9.01%.</description>
+      <pubDate>Mon, 28 Jul 2025 02:08:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22029</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>Trump: Tariffs on EU Will Not Be Lower Than 15%</title>
-      <link>https://www.lookonchain.com/feeds/22032</link>
-      <description>On July 28th, President Trump of the United States said, &quot;All trade agreements will commence from August 1st. If we were to reach an agreement with the European Union at this very moment, then it&apos;s a done deal. The tariff rate imposed on the EU will not be lower than 15%.&quot;</description>
-      <pubDate>Sun, 27 Jul 2025 15:57:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22032</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22055</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -153,12 +105,12 @@
 
     </item>
     <item>
-      <title>Trump Reiterates 50/50 Chance of Reaching Trade Deal with EU, Outcome Expected in About an Hour</title>
-      <link>https://www.lookonchain.com/feeds/22031</link>
-      <description>On July 28th, US President Trump said, &quot;I am supposed to meet with the EU&apos;s von der Leyen and expect that we can settle some matters. There are three to four tough issues in the EU trade negotiations. The likelihood of reaching a trade agreement with the EU is fifty-fifty. We may get the result in around an hour.&quot;</description>
-      <pubDate>Sun, 27 Jul 2025 15:57:23 +0000</pubDate>
+      <title>The US lending institution Divine Research uses World ID to enable uncollateralized cryptocurrency loans</title>
+      <link>https://www.lookonchain.com/feeds/22053</link>
+      <description>On July 28th, as per Cointelegraph, the San Francisco-based lending institution Divine Research has extended around 30,000 unsecured short-term cryptocurrency loans since December. It utilizes OpenAI CEO Sam Altman&apos;s iris scanning platform World ID to verify the identities of borrowers. Divine Research mainly provides sub-$1,000 USDC stablecoin loans to overseas borrowers who are not served by traditional financial services. By using World ID, it ensures that users cannot open multiple accounts in case of default. The company&apos;s founder, Diego Estevez, stated that the borrowers include high school teachers, fruit vendors, and other ordinary individuals.</description>
+      <pubDate>Mon, 28 Jul 2025 01:56:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22031</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22053</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -170,12 +122,65 @@
 
     </item>
     <item>
-      <title>LookOnChain: Bitcoin Surges Above $119,000</title>
-      <link>https://www.lookonchain.com/feeds/22030</link>
-      <description>On July 28th, according to HTX market data, Bitcoin experienced a rebound and surpassed $119,000, with a 24-hour percentage change of 0.88%.</description>
-      <pubDate>Sun, 27 Jul 2025 15:57:23 +0000</pubDate>
+      <title>HK Stock Stablecoin Concept Stocks Soar Across the Board, Golden Surge Investment Up Nearly 6%</title>
+      <link>https://www.lookonchain.com/feeds/22052</link>
+      <description>On July 28th, Hong Kong stock concept stocks related to stablecoins witnessed a general upward trend. Loto Interactive (01328.HK) rose by nearly 6%, Matrix Holdings (01911.HK) increased by more than 5%, and Guotai Junan International (01788.HK) went up by nearly 4%. The Hong Kong &quot;Stablecoin Regulation&quot; is set to take effect officially on August 1st, and the issuance of stablecoins has entered the &quot;countdown&quot; stage.</description>
+      <pubDate>Mon, 28 Jul 2025 01:56:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22030</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22052</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>HTX Recovery Hot Wallet received 20,000 ETH redeemed from Lido in the past hour, which has now been deposited into Aave.</title>
+      <link>https://www.lookonchain.com/feeds/22051</link>
+      <description>On July 28th, as monitored by on-chain analyst Ai Yi (@ai_9684xtpa), the HTX Recovery hot wallet received 20,000 ETH redeemed from Lido within the past 1 hour. The value of these ETH is $76.57 million, and they have currently been deposited into Aave.Since July 16th, this address has queued a total of 50,000 ETH for redemption. It is one of the top addresses during this &quot;unstaking wave&quot; and still holds 40,283 ETH in Lido.</description>
+      <pubDate>Mon, 28 Jul 2025 01:48:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22051</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>CCTV reported last night on &quot;Trump Coin, WLFI, and Stablecoins&quot; content</title>
+      <link>https://www.lookonchain.com/feeds/22050</link>
+      <description>On July 28th, the CCTV-13 (CCTV News Channel) World Weekly program reported last night on relevant content such as &quot;TrumpCoin (TRUMP), WLFI, and Stablecoin&quot;.</description>
+      <pubDate>Mon, 28 Jul 2025 01:48:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22050</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain whale is long on BTC and ETH with 15x leverage, currently sitting on a $21 million unrealized gain</title>
+      <link>https://www.lookonchain.com/feeds/22049</link>
+      <description>On July 28th, as per the monitoring of Onchain Lens, a whale carried out 15 times leveraged longing on BTC and ETH. The position value exceeded $270 million. Currently, the unrealized profit is $21 million.</description>
+      <pubDate>Mon, 28 Jul 2025 01:40:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22049</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -186,6 +191,9 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
