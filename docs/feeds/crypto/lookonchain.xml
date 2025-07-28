@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Jul 2025 09:50:50 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Jul 2025 09:50:50 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 10:13:35 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 10:13:35 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,54 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitget Research Institute: ETH/BTC Ratio Breaks Above 200-day Moving Average for the First Time, ETH Expected to Rally to $10,000 in Q4</title>
+      <link>https://www.lookonchain.com/feeds/22138</link>
+      <description>On July 28th, Ryan Lee, the chief analyst of the Bitget Research Institute, stated that Ethereum has recently surged by nearly 60% and exceeded $3,800. This is mainly driven by institutional fund inflows and the increase in on-chain activities, showing clear signs of structural strength. It is worth noting that the ETH/BTC ratio has surpassed the 200-day moving average for the first time in a year, indicating that Ethereum is entering a relatively strong period.Last week, the net inflow of ETH-related spot and derivative transactions reached $2.4 billion, and large whale addresses on-chain have continued to accumulate. At the same time, the market&apos;s expectations for the Ethereum ecosystem, especially core applications such as DeFi, continue to heat up, driving a structural shift of funds towards ETH. In contrast, although Bitcoin has been stably trading above $119,000 and still has a robust technical aspect and some institutional support, ETF funds have seen slight outflows. The mark</description>
+      <pubDate>Mon, 28 Jul 2025 10:08:41 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22138</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>QCP: Market Expecting Ethereum and Bitcoin to Face Pullback Pressure Around $4,000 and $120,000</title>
+      <link>https://www.lookonchain.com/feeds/22137</link>
+      <description>On July 28th, QCP issued its daily market analysis report indicating that Ethereum is gradually getting close to the $4000 price level, which was last observed in December of the previous year. With the continuous inflow of funds into the Ethereum spot ETF surpassing that of the Bitcoin ETF for seven consecutive days, market attention and speculation on ETH are intensifying. Considering that the market value of ETH is currently only one-fifth of that of BTC, the threshold for attracting institutional and corporate funds is relatively lower, making the price action more sensitive.Although Ethereum has been dominating most of the headlines in recent weeks, Bitcoin has shown quiet resilience. Although the inflow of funds into the Bitcoin spot ETF has slowed down, the price trend remains stable.Bitcoin&apos;s dominance rate still remains around 60%, with almost no fluctuation in the past week, reflecting the market&apos;s long-term confidence in Bitcoin as a store of value asset rather than a wi</description>
+      <pubDate>Mon, 28 Jul 2025 09:56:41 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22137</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The Ethereum Foundation has transferred 1000 ETH to an internal related address, worth $3.88 million.</title>
       <link>https://www.lookonchain.com/feeds/22136</link>
       <description>On July 28th, as monitored by PeckShield, the Ethereum Foundation made an internal transfer of 1,000 ETH (approximately $3.88 million) to the associated address 0xbC9a...fbC3. The address currently holds 2,700 ETH, with a value of about $10.6 million.</description>
-      <pubDate>Mon, 28 Jul 2025 09:40:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:40:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22136</guid>
       <category>crypto</category>
@@ -38,7 +82,7 @@
       <title>Binance Alpha and Margin will list Naoris Protocol (NAORIS)</title>
       <link>https://www.lookonchain.com/feeds/22135</link>
       <description>On July 28th, both Binance Alpha and Binance Futures will list the Naoris Protocol (NAORIS).</description>
-      <pubDate>Mon, 28 Jul 2025 09:40:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:40:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22135</guid>
       <category>crypto</category>
@@ -55,7 +99,7 @@
       <title>Tether just minted 1B $USDT on #Tron with $0 Gas fee. There are now 82.69B $USDT on #Tron, accounting for over 50% of the total supply.</title>
       <link>https://www.lookonchain.com/feeds/22134</link>
       <description>Tether just minted 1B $USDT on #Tron with $0 Gas fee. There are now 82.69B $USDT on #Tron, accounting for over 50% of the total supply.</description>
-      <pubDate>Mon, 28 Jul 2025 09:35:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:35:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22134</guid>
       <category>crypto</category>
@@ -75,7 +119,7 @@
       <title>Trader Eugene: The current market is experiencing widespread FOMO sentiment, trading requires noise cancellation</title>
       <link>https://www.lookonchain.com/feeds/22133</link>
       <description>On July 28th, trader Eugene Ng Ah Sio put up on his personal channel and said, &quot;We are now in a market exuberance stage - Fear of Missing Out (FOMO) is widespread. Major Key Opinion Leaders (KOLs) are showing off their profit achievements, trying to get you to join their paid groups. Everything seems to be like easy money.&quot;At this moment, the best approach is to filter out the noise on social media and focus on your own pace and goals. Your true opponent is only yourself. Comparison will only take away all your joy.</description>
-      <pubDate>Mon, 28 Jul 2025 09:32:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:32:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22133</guid>
       <category>crypto</category>
@@ -92,7 +136,7 @@
       <title>SuperRare has been attacked, losing approximately $730,000 worth of RARE.</title>
       <link>https://www.lookonchain.com/feeds/22132</link>
       <description>On July 28th, as monitored by PeckShieldAlert, the NFT marketplace SuperRare was attacked, resulting in the loss of approximately $730,000 worth of RARE tokens.</description>
-      <pubDate>Mon, 28 Jul 2025 09:32:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:32:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22132</guid>
       <category>crypto</category>
@@ -110,7 +154,7 @@
       <title>In July, CEX Stablecoin Outflow Surged to $5.7 Billion</title>
       <link>https://www.lookonchain.com/feeds/22131</link>
       <description>On July 28th, according to Sentora, in July, the net outflows of stablecoins from exchanges witnessed a significant surge to the highest level in nearly two years, with a total of over $5.7 billion being withdrawn.</description>
-      <pubDate>Mon, 28 Jul 2025 09:16:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:16:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22131</guid>
       <category>crypto</category>
@@ -128,7 +172,7 @@
       <title>EU Official: Discussion on Tariff Exemption for Wine and Spirits in EU-US Trade Agreement is Still Ongoing</title>
       <link>https://www.lookonchain.com/feeds/22130</link>
       <description>July 28: EU officials indicated that the discussions on tariff exemptions for wine and spirits are still in progress within the EU-US trade agreement. (Xinhua Finance)</description>
-      <pubDate>Mon, 28 Jul 2025 09:16:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:16:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22130</guid>
       <category>crypto</category>
@@ -145,43 +189,9 @@
       <title>Binance Launches RWUSD, Bringing Tokenized Representation of RWA Assets such as US Treasury Bonds</title>
       <link>https://www.lookonchain.com/feeds/22129</link>
       <description>On July 28th, Binance Earn launched RWUSD - a principal-guaranteed yield product aimed at tracking the yield performance of real-world assets (RWA) like tokenized U.S. Treasury bonds. Currently, users are able to earn an annualized yield (APR) of up to 4.2% while holding RWUSD.Users can subscribe to RWUSD by using eligible stablecoins (such as USDT or USDC), provided that they meet the eligibility requirements in their region. After subscribing, users will obtain an equivalent amount of RWUSD in their spot account at a 1:1 ratio, and Binance does not charge any subscription fees.When redeeming, RWUSD can be redeemed for USDC at a 1:1 ratio, regardless of the stablecoin initially used for subscription. Users have the option to choose between &quot;Fast Redemption&quot; and &quot;Standard Redemption&quot;, and corresponding fees will be applicable upon redemption.</description>
-      <pubDate>Mon, 28 Jul 2025 09:08:57 +0000</pubDate>
+      <pubDate>Mon, 28 Jul 2025 09:12:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22129</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analyst: The Fed May Restart Rate Cuts in September</title>
-      <link>https://www.lookonchain.com/feeds/22128</link>
-      <description>On July 28th. Analysts from Bank Pictet stated in a report that the Federal Reserve might resume its rate-cutting cycle during the September FOMC meeting. They pointed out that the weakening economic prospects suggest that the Fed will adopt looser monetary policy in the second half of the year. They further added that the uncertainty regarding inflation following the tariff increase, along with the political pressure from President Trump to cut rates, have prevented a rate cut this month.They declared that after July, the stagnant private consumption and the reduced investment plans (indicating softening demand) will demonstrate that despite inflation being above the target, it is justified to ease the restrictive policy stance. (FXStreet)</description>
-      <pubDate>Mon, 28 Jul 2025 09:08:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22128</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>RWA Project Asteroid X&apos;s Official Twitter Account Hacked, Hacker Has Posted a Scam Link</title>
-      <link>https://www.lookonchain.com/feeds/22127</link>
-      <description>On July 28th, the official Twitter account of Asteroid X, which has the goal of tokenizing high-quality mining exploration assets in Australia, was hacked. The hacker has posted a scam link.BlockBeats wants to remind users: Do not interact with this account. Please be careful and protect your assets.</description>
-      <pubDate>Mon, 28 Jul 2025 09:00:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22127</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
