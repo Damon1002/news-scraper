@@ -5,14 +5,80 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 14:53:33 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 14:53:33 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 15:20:49 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 15:20:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>过去 24 小时全网爆仓 4.28 亿美元，主爆多单</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Coinglass 数据，过去 24 小时内加密货币市场总爆仓金额达 4.28 亿美元，其中，多单爆仓 3.39 亿美元，空单爆仓 8930.03 万美元。全球共有 163,188 人被爆仓 ，最大单笔爆仓单发生在 Bybit - BTCUSDT 价值 168.66万美元。</description>
+      <pubDate>Tue, 29 Jul 2025 15:13:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Pyth 宣布支持香港恒生指数 85 家上市公司实时价格数据</title>
+      <link>https://www.techflowpost.com</link>
+      <description>全球通用价格层 Pyth Network 宣布支持恒生指数 85 家上市公司实时价格数据，恒生指数是用以反映香港股市行情的重要指标，而香港则是亚洲乃至全球的重要金融中心，Pyth 为全球的开发者、交易员和协议提供了直接、实时访问亚洲股票市场的高效方式，包括大型银行、保险公司、能源企业和科技巨头等，...</description>
+      <pubDate>Tue, 29 Jul 2025 15:11:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>James Wynn PEPE多单连续 8 次被部分清算 ，过去一周损失近 100 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，James Wynn PEPE多单连续 8 次被部分清算 ，过去一周损失近 100 万美元。</description>
+      <pubDate>Tue, 29 Jul 2025 15:04:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>摩根大通：上调 Robinhood 目标价至 98 美元，看好其数字资产业务</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据CoinDesk报道，摩根大通将 Robinhood 2026 年目标股价上调至 98 美元，较此前预期翻倍。该投行看好 Robinhood 在加密资产及代币化金融领域的布局，包括以 2 亿美元收购Bitstamp交易所，以及在欧盟 MiCA 框架下开展代币化股票交易业务。摩根大通预计 Robi...</description>
+      <pubDate>Tue, 29 Jul 2025 15:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Hyperliquid：正在调查订单系统的故障问题</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Hyperliquid 官方于 Discord 就「订单系统出现故障用户无法正常下单交易」做出回应：相关情况正在调查并处理中。</description>
+      <pubDate>Tue, 29 Jul 2025 14:57:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>SOL跌破180美元，24小时跌幅为4.24%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX行情显示，SOL跌破180美元，现报179.78美元，24小时跌幅为4.24%。</description>
+      <pubDate>Tue, 29 Jul 2025 14:54:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>以太坊验证者退出队列创历史新高</title>
       <link>https://www.techflowpost.com</link>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据记者EleanorTerrett披露，法庭记录显示，在美国代理检察官杰伊·克莱顿（Jay Clayton）的见证下，Dragonfly 与 Tornado Cash 创始人关系的相关问题已于昨日达成和解。法庭文件披露了几个关键事实：Dragonfly 于 2020 年 8 月向 Tornado ...</description>
       <pubDate>Tue, 29 Jul 2025 12:36:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Linea公布协议升级方案：将实施以太坊燃烧机制</title>
-      <link>https://www.techflowpost.com</link>
-      <description>同时，Linea发布了代币分配计划，将85%的代币分配用于生态建设，其中包括75%的开发基金和10%的早期用户激励。</description>
-      <pubDate>Tue, 29 Jul 2025 12:29:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>摩根大通：Coinbase从USDC业务获得显著收益</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据CoinDesk报道，摩根大通最新研报显示，Coinbase通过与Circle的合作伙伴关系及美元币(USDC)业务获得显著收益。2025年第一季度，Coinbase仅从Circle获得的分销收入就达到约3亿美元，超过Circle同期2.3亿美元的总净收入。报告估算，与Circle相关的经济效益...</description>
-      <pubDate>Tue, 29 Jul 2025 12:22:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>SharpLink增持77,210枚以太坊，总量达到约438,190枚</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，SharpLink（股票代码：SBET）公司于7月21日至27日期间增持约77,210枚以太坊，交易总额约2.9亿美元，平均购入价格为3,756美元/枚。此次增持后，公司以太坊持仓总量达到约438,190枚，以太坊集中度从上周的3.06上升至3.40。自6月2日实施储备策略以来，公司以...</description>
-      <pubDate>Tue, 29 Jul 2025 12:16:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>DeFi Development增持181,303枚SOL，总持仓价值达2.18亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据CoinDesk报道，纳斯达克上市公司DeFi Development (DFDV)周二宣布，已将其Solana (SOL)持仓量增至约118万枚，价值约2.18亿美元。据公司发布的新闻稿，DFDV于7月21日至28日期间以平均价格155.33美元购入了181,303枚SOL代币。此次收购主要通...</description>
-      <pubDate>Tue, 29 Jul 2025 12:11:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>上市公司ZOOZ Power宣布私募1.8亿美元，推出比特币国库储备策略</title>
-      <link>https://www.techflowpost.com</link>
-      <description>ZOOZ Power Ltd.（纳斯达克和特拉维夫证券交易所代码：ZOOZ）今日宣布完成1.8亿美元私募融资，将推出比特币国库储备策略，成为首家在纳斯达克和特拉维夫证券交易所双重上市且持有比特币的公司。此次私募将以每股1美元的价格发行1.8亿股普通股及预付认股权证，参与投资者包括Pantera C...</description>
-      <pubDate>Tue, 29 Jul 2025 11:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bakkt宣布7500万美元公开募股定价，将用于购买比特币等数字资产</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Businesswire报道，Bakkt Holdings宣布其公开募股定价，将发行6,753,627股A类普通股和最多746,373股预先资助的认股权证，每股价格为10美元，预计总募资额约7500万美元。此次募股预计于2025年7月30日左右完成交割。公司表示将利用募集资金购买比特币和其他数字...</description>
-      <pubDate>Tue, 29 Jul 2025 11:49:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
