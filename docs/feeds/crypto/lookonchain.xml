@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 23:36:26 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 23:36:26 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 23:51:52 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 23:51:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,50 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Coinbase to List Treehouse (TREE)</title>
-      <link>https://www.lookonchain.com/feeds/22353</link>
-      <description>On July 30th, Coinbase will commence the addition of support for Treehouse (TREE) on the Ethereum network. Provided that liquidity conditions are fulfilled, trading will initiate later on the same day. Once an adequate supply of the asset is available, the TREE-USD trading pair will be gradually introduced.</description>
-      <pubDate>Tue, 29 Jul 2025 23:32:33 +0000</pubDate>
+      <title>LookOnChain: Ethereum Surges Above $3800</title>
+      <link>https://www.lookonchain.com/feeds/22357</link>
+      <description>On July 30th, based on HTX market data, Ethereum has shown a rebound and exceeded $3800, with a 24-hour percentage change of 0.01%.</description>
+      <pubDate>Tue, 29 Jul 2025 23:49:00 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22353</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22357</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Kraken is seeking to raise around $500 million at a $15 billion valuation.</title>
+      <link>https://www.lookonchain.com/feeds/22358</link>
+      <description>On July 30th, according to TheInformation, the cryptocurrency exchange Kraken is aiming to secure approximately $500 million with a valuation of $15 billion.</description>
+      <pubDate>Tue, 29 Jul 2025 23:49:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22358</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Coinbase to List BankrCoin (BNKR)</title>
+      <link>https://www.lookonchain.com/feeds/22356</link>
+      <description>On July 30th, Coinbase will commence adding support for BankrCoin (BNKR) on the Base network. Trading is scheduled to begin at 9:00 AM Pacific Time on July 30, 2025, provided that liquidity conditions are fulfilled.</description>
+      <pubDate>Tue, 29 Jul 2025 23:48:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22356</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +69,49 @@
 
     </item>
     <item>
+      <title>Strategy Completes $2.521 Billion STRC Stock IPO, Acquires 21,021 BTC</title>
+      <link>https://www.lookonchain.com/feeds/22355</link>
+      <description>On July 30th, Strategy (MSTR) announced the successful completion of the initial public offering (IPO) of 28,011,111 shares of Floating Rate Series A Convertible Preferred Stock, namely &quot;STRC&quot;, at a price of $90 per share. The IPO of STRC is the largest in the United States in 2025 and one of the largest cryptocurrency-related offerings in recent years. STRC is anticipated to be listed on the Nasdaq Global Select Market around July 30th, 2025, under the stock symbol &quot;STRC&quot;. The total funds raised in this transaction amount to approximately $2.521 billion.Strategy (MSTR) has augmented its holdings of 21,021 bitcoins, bringing the total value to about $24.6 billion, with an average purchase price of around $117,256. Strategy has achieved a 25.0% return on its bitcoin holdings from the beginning of 2025 to July 29th, 2025. As of July 29th, 2025, Strategy holds 628,791 bitcoins with a total value of approximately $73.73 billion. The average cost per bitcoin is around $73,277, and the tot</description>
+      <pubDate>Tue, 29 Jul 2025 23:41:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22355</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Sino-US Economic and Trade Talks Held in Stockholm, Sweden</title>
       <link>https://www.lookonchain.com/feeds/22354</link>
       <description>July 30th. From July 28th to 29th local time, Chinese lead trade negotiator and Vice Premier of the State Council, He Lifeng, along with American lead trade negotiators, U.S. Secretary of the Treasury Janet Yellen and Trade Representative Katherine Tai, held the U.S.-China Economic and Trade Talks in Stockholm, Sweden. He Lifeng pointed out that next, both sides should continuously follow the important consensus reached in the telephone conversation between the leaders of the two countries. They should give full play to the role of the China-U.S. economic and trade consultation mechanism, continuously enhance consensus, reduce misunderstandings, strengthen cooperation, further deepen dialogues and consultations, and continuously strive for more win-win results. The U.S. side stated that a stable U.S.-China economic and trade relationship is of great significance to both countries and the global economy. They are willing to work with China to continue negotiating through the U.S.-China</description>
-      <pubDate>Tue, 29 Jul 2025 23:32:33 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 23:33:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22354</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Coinbase to List Treehouse (TREE)</title>
+      <link>https://www.lookonchain.com/feeds/22353</link>
+      <description>On July 30th, Coinbase will commence the addition of support for Treehouse (TREE) on the Ethereum network. Provided that liquidity conditions are fulfilled, trading will initiate later on the same day. Once an adequate supply of the asset is available, the TREE-USD trading pair will be gradually introduced.</description>
+      <pubDate>Tue, 29 Jul 2025 23:33:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22353</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +126,7 @@
       <title>The SEC Approves Bitcoin and Ethereum ETF Physical Redemption Mechanism</title>
       <link>https://www.lookonchain.com/feeds/22352</link>
       <description>On July 30th, according to market information, the U.S. Securities and Exchange Commission (SEC) has officially given the green light to the physical redemption mechanism of Bitcoin and Ethereum ETFs.</description>
-      <pubDate>Tue, 29 Jul 2025 20:35:33 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 20:51:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22352</guid>
       <category>crypto</category>
@@ -72,7 +147,7 @@
       <title>SEC Confirms Receipt of Application Allowing BlackRock Ethereum Spot ETF to Pledge Assets</title>
       <link>https://www.lookonchain.com/feeds/22351</link>
       <description>On July 30th, the U.S. Securities and Exchange Commission (SEC) has verified the receipt of the application enabling BlackRock&apos;s Ethereum spot ETF to participate in staking.Previously, the President of the ETF Store, Nate Geraci, stated at the beginning of the year that staking for an ETH ETF would occur in one way or another. It is anticipated that this process will gain momentum under the leadership of the Trump administration.</description>
-      <pubDate>Tue, 29 Jul 2025 17:35:33 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 17:51:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22351</guid>
       <category>crypto</category>
@@ -91,7 +166,7 @@
       <title>If Bitcoin drops below $115,000, the mainstream CEX liquidation pressure will reach $1.59 billion.</title>
       <link>https://www.lookonchain.com/feeds/22350</link>
       <description>On July 30th, based on Coinglass data, if Bitcoin drops beneath $115,000, the cumulative liquidation intensity of mainstream CEX will amount to $1.59 billion.Conversely, if Bitcoin surges above $119,000, the cumulative short liquidation intensity of mainstream CEX will reach $390 million.BlockBeats Note: The liquidation chart does not disclose the exact number of contracts to be liquidated or the precise value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the asset price reaching a certain level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, a more intense reaction will occur due to a liquidity avalanche.</description>
-      <pubDate>Tue, 29 Jul 2025 17:35:33 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 16:51:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22350</guid>
       <category>crypto</category>
@@ -111,80 +186,9 @@
       <title>On-chain Data Provider Irys Offers Solution for 100TB Scientific Research Permanent Storage</title>
       <link>https://www.lookonchain.com/feeds/22349</link>
       <description>July 30th. On-chain data developer Irys has presented a solution for the perpetual storage of 100TB of scientific research data. Irys has collaborated with SCAI to tackle the paywall issue in academic publishing by leveraging Web3 and AI technology. They have permanently stored 100TB of scientific data on a decentralized network. Tools such as SCAI-Box and SCAI-Search have been launched. Smart contracts are utilized to ensure fair compensation for researchers and global barrier-free access. This indicates a transition of the data economy towards permanence and programmable infrastructure, challenging traditional publishing behemoths and promoting the development of open science.</description>
-      <pubDate>Tue, 29 Jul 2025 16:35:33 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 16:51:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22349</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>US Stock Market Meme Coin MicroStrategy Stock Plunges Across the Board, New &apos;BNB Version MicroStrategy&apos; VAPE Plunges Over 30%</title>
-      <link>https://www.lookonchain.com/feeds/22348</link>
-      <description>On July 30th, according to the market data of RockFlow, US Stock Crypto Mimicry Strategy Stocks witnessed an overall decline. This includes the following:ETH Mimicry Strategy Stocks:Bitmine Immersion (BMNR) decreased by 7.6%, with the stock price currently at $32.38 and a trading volume of $1.092 billion.SharpLink Gaming (SBET) dropped by over 10%, with the stock price currently at $18.74 and a trading volume of $547 million.Bit Digital (BTBT) went down by 6.5%, with the stock price currently at $2.80 and a trading volume of $64.70 million.BTCS Inc (BTCS) fell by 4.52%, with the stock price currently at $4.92 and a trading volume of $14.80 million.BNB Mimicry Strategy Stocks:CEA Industries (VAPE) plunged by over 30%, with the stock price currently at $40.64 and a trading volume of $50 million.Windtree Therapeutics (WINT) decreased by 16.4%, with the stock price currently at $0.77 and a trading volume of $4.20 million.SOL Mimicry Strategy Stocks:DeFi Development Corp (DFDV)</description>
-      <pubDate>Tue, 29 Jul 2025 16:35:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22348</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Drops Below $117,000, 24-hour Decrease of 1.01%</title>
-      <link>https://www.lookonchain.com/feeds/22347</link>
-      <description>On July 30th, based on HTX market data, Bitcoin fell below $117,000, experiencing a 24-hour decline of 1.01%.</description>
-      <pubDate>Tue, 29 Jul 2025 16:35:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22347</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>China and the United States will jointly push for the resumption of the 24% tariff that has been suspended by the U.S. side and the extension of China&apos;s retaliatory measures as scheduled.</title>
-      <link>https://www.lookonchain.com/feeds/22346</link>
-      <description>On July 30th, Li Chenggang, the vice minister of the Ministry of Commerce and deputy China International Trade Representative, stated on the 29th that in the past day and a half, the Chinese and American trade teams, in line with the consensus reached during the June 5th phone call between the leaders of the two countries, continued to exert their functions in the China-US economic and trade consultation mechanism and engaged in in-depth, frank, and constructive exchanges on major issues of mutual concern. According to the consensus reached by China and the United States, both sides will continue to promote the 24% equivalent tariffs that the US has suspended and the extension of China&apos;s retaliatory measures as scheduled. (Xinhua News Agency)</description>
-      <pubDate>Tue, 29 Jul 2025 16:35:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22346</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Hong Kong Monetary Authority: &quot;Stablecoin Regulation&quot; establishes a 6-month transition period and implements a classification treatment for existing stablecoin issuers</title>
-      <link>https://www.lookonchain.com/feeds/22345</link>
-      <description>On July 29th, the Hong Kong Monetary Authority (HKMA) announced that the &quot;Stablecoin Regulation&quot; will have a 6-month transition period commencing from August 1st. Existing stablecoin issuers will undergo classified treatment: those that comply with regulatory requirements may obtain a temporary license; those that fail to meet the standards within 3 months must cease operations within 4 months; and those that do not meet the licensing criteria must cease operations within 1 month after receiving notice. Regulatory requirements encompass full reserves, same-day redemption, establishment of a presence in Hong Kong, and maintaining sufficient financial resources, among others. Initially, only a limited number of licenses will be issued, and issuers are required to implement customer due diligence and transaction monitoring and other compliance measures. Violators will face penalties such as fines, license suspension, or revocation.As of now, the HKMA has not issued any licenses. The pub</description>
-      <pubDate>Tue, 29 Jul 2025 15:35:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22345</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
