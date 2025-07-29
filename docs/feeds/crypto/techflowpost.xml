@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 14:25:15 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 14:25:15 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 14:53:33 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 14:53:33 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>以太坊验证者退出队列创历史新高</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据The Block报道，以太坊验证者退出队列于7月26日达到744,000个验证者，创下历史最高记录。此前两周，日均退出量仅约1,000个验证者。这一激增主要源于Aave借贷平台的流动性冲击。约16.7万枚ETH（价值超6.3亿美元）从Aave借贷池中撤出，导致其包装ETH（wETH）借贷年利率...</description>
+      <pubDate>Tue, 29 Jul 2025 14:34:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bitget 已上线 U 本位 TREE 永续合约，杠杆区间1-75倍</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Businesswire报道，Bakkt Holdings宣布其公开募股定价，将发行6,753,627股A类普通股和最多746,373股预先资助的认股权证，每股价格为10美元，预计总募资额约7500万美元。此次募股预计于2025年7月30日左右完成交割。公司表示将利用募集资金购买比特币和其他数字...</description>
       <pubDate>Tue, 29 Jul 2025 11:49:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>上市公司Marti科技启动加密资产财务战略</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Businesswire报道，Marti Technologies, Inc.（NYSE American: MRT）今日宣布，将启动一项企业财务战略，计划将约20%的现金储备投资于比特币，并有能力将这一比例提高至50%，同时考虑投资以太坊和Solana等其他加密资产。Marti认为，加密资产是...</description>
-      <pubDate>Tue, 29 Jul 2025 11:45:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
