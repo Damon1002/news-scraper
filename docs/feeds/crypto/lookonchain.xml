@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 11:51:22 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 11:51:22 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 12:24:12 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 12:24:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,155 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>「ETH-native Microstrategy」 SharpLink announces total holdings increased to approximately 438,000 ETH</title>
+      <link>https://www.lookonchain.com/feeds/22304</link>
+      <description>July 29th. The &quot;ETH Version MicroStrategy&quot;, SharpLink (SBET), officially declared that it currently holds approximately 438,190 ETH. From July 21st to 27th, SharpLink purchased about 77,210 ETH at a total cost of approximately $290 million, with an average price of around $3,756.The per-ETH share (&quot;ETH Concentration&quot;) is now about 3.4, which is higher than around 3.06 from last week. Since implementing the Ethereum Treasury strategy on June 2nd, the per-ETH share has increased by about 70%, and the cumulative staking reward has reached approximately 722 ETH.</description>
+      <pubDate>Tue, 29 Jul 2025 12:16:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22304</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>「SOL Version of MicroStrategy」 DDC Increases Holdings by 181,300 SOL, Total Holding Reaches approximately 1.18 Million SOL</title>
+      <link>https://www.lookonchain.com/feeds/22303</link>
+      <description>On July 29th, as reported by Business Insider, the &quot;SOL Version of MicroStrategy,&quot; DDC, augmented its holdings by 181,300 SOL. The total holding amounts to approximately 1.18 million SOL. Additionally, it will raise $20 million through a securities line of credit, with around $10 million of the proceeds still available for future accumulation of SOL.</description>
+      <pubDate>Tue, 29 Jul 2025 12:16:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22303</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha has launched TREE and will list TREE spot trading at 22:00</title>
+      <link>https://www.lookonchain.com/feeds/22302</link>
+      <description>July 29th. Binance Alpha has initiated Treehouse (TREE). Additionally, Binance will commence TREE spot trading on July 29th, 2025, at 22:00 (UTC+8). Trading pairs will include USDT, USDC, BNB, FDUSD, and TRY. TREE will hold a Seed Label.</description>
+      <pubDate>Tue, 29 Jul 2025 12:08:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22302</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Securities and Futures Commission (SFC) Warns of Suspicious Investment Products Named &quot;FoFund,&quot; &quot;Fo Coin,&quot; and &quot;Peach Blossom Land NFT&quot;</title>
+      <link>https://www.lookonchain.com/feeds/22301</link>
+      <description>On July 29th, the Hong Kong Securities and Futures Commission issued a warning to the public, cautioning them to be on guard against suspicious investment products named &quot;FoFund Dodo No. 1&quot; and &quot;FoFund Dodo No. 2&quot;, &quot;Fo Coin&quot;, and &quot;Peach Blossom NFT&quot;. These products involve management strategies related to virtual asset investment, digital tokens, and related unique tokens of art, and have not received authorization from the Commission for offering to the Hong Kong public. It should be noted that the Hong Kong public can obtain information about these products through the respective websites, social media accounts, and associated mobile apps of the products.</description>
+      <pubDate>Tue, 29 Jul 2025 12:00:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22301</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance C2C Escrowed Trading Section Launches New Test Phase, Providing 50% Reimbursement Guarantee to Enhance Asset Trading Security</title>
+      <link>https://www.lookonchain.com/feeds/22300</link>
+      <description>On July 29th, as per an official announcement made by Binance, Binance C2C is set to launch a &quot;Curated&quot; section. This particular section will be occupied by platform-curated Trusted Advertisers or Bulk Advertisers. In the event that a user&apos;s sell transaction within the Curated section undergoes a funds freeze due to the Advertiser, the user will be entitled to a 50% compensation of the transaction amount. The maximum compensation limit per transaction is 20,000 USDT, thereby providing users with enhanced asset security.</description>
+      <pubDate>Tue, 29 Jul 2025 12:00:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22300</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>U.S. publicly traded company Bakkt has announced its intention to conduct an initial public offering to raise approximately $75 million for investing in Bitcoin and other digital assets</title>
+      <link>https://www.lookonchain.com/feeds/22299</link>
+      <description>On July 29th, as per Businesswire, the publicly traded company Bakkt Holdings (BKKT) in the US announced that it will issue Class A common stock and prepaid warrants to purchase up to 746,373 shares of Class A common stock. The total fundraising amount is estimated to be approximately $75 million. Bakkt intends to utilize the net proceeds from this offering to purchase Bitcoin and other digital assets in line with its investment policy, use them as working capital, and for general corporate purposes.</description>
+      <pubDate>Tue, 29 Jul 2025 11:56:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22299</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>US Stock Market Company ZOOZ Announces $180 Million Private Placement to Launch Bitcoin Treasury Reserve Strategy</title>
+      <link>https://www.lookonchain.com/feeds/22298</link>
+      <description>On July 29th, as per Globenewswire, the U.S. listed company ZOOZ Power Ltd. (ZOOZ) made an announcement regarding a private placement of $180 million and the initiation of a Bitcoin treasury reserve strategy. This private investment in public equity (PIPE) still requires approval from shareholders and is expected to sell 180 million shares of common stock along with pre-funded warrants at a price of $1 per share. The participants in this PIPE comprise strategic investors such as Pantera Capital, FalconX, Arrington Capital, UTXO Management, ATW Partners, and the renowned Israeli investor Alex Rabinovitch.</description>
+      <pubDate>Tue, 29 Jul 2025 11:56:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22298</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>U.S. Listed Company ZOOZ&apos;s Pre-market Gain Widens to 22.54%</title>
+      <link>https://www.lookonchain.com/feeds/22297</link>
+      <description>On July 29th, according to the market data of RockFlow (with the URL https://rockflow.ai/crypto-stocks?utm_campaign=blockBeats and targeted at _blank), the U.S.-listed company ZOOZ Power Ltd. (ZOOZ) witnessed its pre-market gains expand to 22.54%, and the stock price currently stands at $4.21.ZOOZ Power Ltd. (ZOOZ) announced a $180 million private placement to implement a Bitcoin treasury reserve strategy. The participants include strategic investors such as Pantera Capital, FalconX, Arrington Capital, UTXO Management, ATW Partners, and the well-known Israeli investor Alex Rabinovitch.</description>
+      <pubDate>Tue, 29 Jul 2025 11:56:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22297</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>US-listed company Marti Technologies has initiated a Cryptocurrency Treasury Strategy, planning to allocate 20% of its cash reserves to hold BTC.</title>
       <link>https://www.lookonchain.com/feeds/22296</link>
       <description>On July 29th, as per Businesswire, Marti Technologies (MRT), a New York Stock Exchange-listed Turkish app development company, announced the commencement of a crypto treasury strategy. Initially, it intends to allocate 20% of its cash reserves to hold BTC, and will subsequently raise this ratio to 50% and acquire other crypto assets like Ethereum and Solana.</description>
-      <pubDate>Tue, 29 Jul 2025 11:40:30 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 11:40:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22296</guid>
       <category>crypto</category>
@@ -36,7 +181,7 @@
       <title>Solana On-chain Market Update: New Coin MAU, CLUELESS Trading Volume Surges into Top Five; Blue Chip Sector SUNK, CMINI Goes Live and Sparks Frenzy</title>
       <link>https://www.lookonchain.com/feeds/22295</link>
       <description>On July 29th, according to data from GMGN, the top five tokens in terms of trading volume within the past 24 hours are TRUMP, Fartcoin, Bonk, MAU, and CLUELESS. Among them, both the MAU and CLUELESS tokens have been listed for less than 24 hours, presenting high risks. Investors, please pay attention to the security of your funds.Based on GMGN&apos;s recommendations in the &quot;Next Blue Chip&quot; section, the top five tokens in terms of trading volume within the past 24 hours are SUNK, CMINI, Falcon1, AutoTrader, and GOLDPEPE. It should be noted that tokens in the blue chip sector are often listed for less than 24 hours, with concentrated holdings, and pose high risks. Investors, please pay attention to the security of your funds.BlockBeats reminds users that meme coins often lack practical use cases and have significant price volatility, and investment should be approached with caution.</description>
-      <pubDate>Tue, 29 Jul 2025 11:32:30 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 11:33:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22295</guid>
       <category>crypto</category>
@@ -47,163 +192,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Hodler Alert: Top US Stock Company BMNR Announces Plan to Buy Back Up to $1 Billion in Stocks</title>
-      <link>https://www.lookonchain.com/feeds/22294</link>
-      <description>On July 29th, according to market intelligence, Bitmine Immersion (BMNR), which is the top publicly traded crypto reserve company backed by Ethereum whales, declared that it will repurchase up to $1 billion of the company&apos;s stock.</description>
-      <pubDate>Tue, 29 Jul 2025 11:32:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22294</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>New &quot;BNB Version Flash Yield Farming&quot; VAPE Pre-market Drop Expands to 12%</title>
-      <link>https://www.lookonchain.com/feeds/22293</link>
-      <description>On July 29th, based on the market data from RockFlow, the new &quot;BNB Edition Micro Strategy&quot; of the US stock CEA Industries (VAPE) witnessed its pre-market decline expand to 12%. The current price is $57.58, following a 548.85% increase yesterday. Yesterday, CEA Industries and 10X Capital announced a $500 million private placement with the support of YZi Labs, aiming to establish the world&apos;s largest publicly traded BNB financial firm.Moreover, Bitmine Immersion Tech (BMNR), the US stock crypto reserve company with the largest Ethereum holdings, saw a pre-market drop of over 14% at one point. Currently, it is down 8% with a stock price of $32.31. BMNR currently holds 566,800 ETH, valued at approximately $2.2 billion.</description>
-      <pubDate>Tue, 29 Jul 2025 11:32:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22293</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>An address containing 330 BTC has just been activated after lying dormant for 12.4 years</title>
-      <link>https://www.lookonchain.com/feeds/22292</link>
-      <description>On July 29th, as monitored by Whale Alert, an address holding 330 BTC (approximately $39 million) was just activated this evening at 19:08 after having been dormant for 12.4 years. These bitcoins were worth $20,934 in 2013.</description>
-      <pubDate>Tue, 29 Jul 2025 11:24:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22292</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>A Bitcoin whale address has moved 343 BTC after 12 years of dormancy, worth $40.52 million.</title>
-      <link>https://www.lookonchain.com/feeds/22291</link>
-      <description>On July 29th, as per the monitoring of LookOnChain, a particular Bitcoin whale address made a transfer of 343 BTC after being dormant for 12 years and 18 hours ago. The value of these bitcoins is $40.52 million, with 130.77 BTC ($15.45 million) being deposited into Kraken.This whale address received 343 BTC 12 years ago, and at that time when the price of BTC was $86, the value was $29,600.</description>
-      <pubDate>Tue, 29 Jul 2025 11:16:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22291</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Linea has officially posted an image with the caption &quot;Something big is coming,&quot; hinting at an upcoming TGE.</title>
-      <link>https://www.lookonchain.com/feeds/22290</link>
-      <description>On July 29th, Linea officially put out an image accompanied by the caption &quot;Something Big Is Coming,&quot; suggesting that an upcoming TGE is on the way.</description>
-      <pubDate>Tue, 29 Jul 2025 11:08:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22290</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Opinion: Bitcoin Premium Disappears on Coinbase, Signaling a Slowdown in U.S. Institutional Buying Pressure</title>
-      <link>https://www.lookonchain.com/feeds/22288</link>
-      <description>On July 29th, as per CoinDesk, the &quot;premium&quot; of Bitcoin on Coinbase has mostly vanished. This premium is typically regarded as an indication of robust demand from U.S. investors, especially institutional ones. Since Coinbase is a cryptocurrency exchange platform listed on Nasdaq, it has a broad user base in the U.S. and is particularly preferred by large institutions. In contrast, Binance has a greater number of retail users globally.In past bull markets, the premium of Bitcoin on Coinbase was once substantial, and it was interpreted as a sign of increased buying pressure from experienced U.S. traders and institutions. The current decline in the premium might suggest a weakening in the activity of this type of capital.The emergence of a negative premium indicates a renewed weakening of the relative demand from U.S. investors, further reinforcing the assessment that the Bitcoin price may undergo a longer period of correction.Note: The Coinbase Bitcoin premium index measures the pe</description>
-      <pubDate>Tue, 29 Jul 2025 10:56:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22288</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Asset Management Company K33 Acquires 5 Bitcoins</title>
-      <link>https://www.lookonchain.com/feeds/22289</link>
-      <description>On July 29th, based on the monitoring of @btcNLNico, the Bitcoin asset management company K33 increased its holdings by 5 bitcoins and now holds a total of 126 bitcoins.</description>
-      <pubDate>Tue, 29 Jul 2025 10:56:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22289</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>AguilaTrades closed an ETH long position with a profit of $1.67 million, and opened a 40x leveraged long position on BTC.</title>
-      <link>https://www.lookonchain.com/feeds/22287</link>
-      <description>On July 29th, as per the monitoring of Onchain Lens, trader AguilaTrades liquidated his 25x leverage long position in ETH and achieved a profit of $1.67 million. Subsequently, he reopened a 40x leverage long position in BTC.</description>
-      <pubDate>Tue, 29 Jul 2025 10:50:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22287</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-      <category>profit</category>
 
     </item>
   </channel>
