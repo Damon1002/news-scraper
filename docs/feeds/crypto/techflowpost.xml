@@ -5,14 +5,80 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 08:48:37 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 08:48:37 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 09:15:20 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 09:15:20 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某巨鲸从 Gemini 提取了 3,500 枚 BTC ，价值约 4.09 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Spot On Chain（@spotonchain）监测，某巨鲸过去4天从 Gemini 提取了 3,500 枚 BTC ，价值约 4.09 亿美元。</description>
+      <pubDate>Tue, 29 Jul 2025 09:05:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某巨鲸从Coinbase提出11,370枚ETH，约4000万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Arkham 监测，某地址从 Coinbase Prime 提出 11,370 枚 ETH，平均提取价格为 3811 美元，按当前市值约合 4000 万美元。</description>
+      <pubDate>Tue, 29 Jul 2025 09:03:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>JustLendDAO总锁仓量破77.7亿美元，生态代币JST交易量单日暴增303%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>官方最新数据显示，波场TRON生态头部去中心化金融协议JustLendDAO总锁仓量(TVL)高达77.7亿美元，当前存款规模达48.1亿美元，波场TRON生态代币$JST市值逼近3.73亿美元，24小时链上交易量暴涨303%达8099万美元。TRON生态再次展现出其在DeFi领域的强大活力与领先...</description>
+      <pubDate>Tue, 29 Jul 2025 09:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>以太坊 10 周年：Bybit 限时 ETH 交易大赛热烈进行中，奖池达 10 万 USDT</title>
+      <link>https://www.techflowpost.com</link>
+      <description>本周三是以太坊上线的十周年纪念日，对于众多支持者和开发者而言，以太坊的出现和历年的变革一步步重塑了全球区块链格局。为庆祝以太坊这一里程碑式去中心化技术应用的十年历程，加密货币交易所Bybit近日推出限时ETH交易大赛。本次活动将持续至8月5日，总奖池高达10万USDT，参与用户可在Bybit现货或...</description>
+      <pubDate>Tue, 29 Jul 2025 09:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>OMNI短时涨超120%，现报6.34美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>行情显示，受上线Upbit韩元市场影响，OMNI短时涨超120%，现报6.34美元。</description>
+      <pubDate>Tue, 29 Jul 2025 08:52:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Upbit 将上线 OMNI 韩元交易对</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Upbit 将上线 OMNI 韩元交易对。</description>
+      <pubDate>Tue, 29 Jul 2025 08:50:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>德银：欧洲央行宽松周期已结束，下一步行动是加息</title>
       <link>https://www.techflowpost.com</link>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Onchain Lens（@OnchainLens）监测，特朗普家族加密项目 WLFI使用 100 万 USDC 购入 256.75 枚以太坊，平均购买价格为 3,895 美元。</description>
       <pubDate>Tue, 29 Jul 2025 05:28:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Ika Network 正式基于 Sui 启动，进一步推动 Sui 成为去中心化跨链协调指挥中心</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Ika Network 正式基于 Sui 启动，并引入了其核心对象 DWalletCap，开启了 Web3 互操作性的新时代，让 Sui 智能合约具备管理其他区块链资产的能力。Ika 的发布使开发者能够在 Sui 上构建能够跨多个网络管理资产的应用，利用更广泛区块链世界中的资产。在 Ika 出现之...</description>
-      <pubDate>Tue, 29 Jul 2025 05:26:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>中油资本：暂不涉及稳定币相关业务，正对相关领域政策进行研究</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据智通财经报道，中油资本在机构调研时表示，公司目前暂不涉及稳定币相关业务。公司注意到部分投资者对稳定币业务有较高关注，为回应投资者关切，公司正在组织对相关领域政策进行研究。</description>
-      <pubDate>Tue, 29 Jul 2025 05:21:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>机构：预计美联储本周将按兵不动，两大鸽派料持反对意见</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，普莱仕首席美国经济学家乌鲁佩尔西表示，预计美联储本周将把利率维持在4.25%-4.5%不变，但沃勒和鲍曼可能会表示反对。这可能会加剧人们的猜测，即一旦特朗普任命的更多官员从2026年第一季度开始加入美联储理事会，利率下降的速度就会更快。鸽派的沃勒和鲍曼可能会辩称，货币政策具有限制性...</description>
-      <pubDate>Tue, 29 Jul 2025 05:15:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安将于07月31日16:00对钱包网络服务器进行升级</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，币安将于2025年07月31日16:00（东八区时间）对钱包网络服务器进行升级。为支持此次升级，币安将于2025年07月31日16:00（东八区时间）暂停所有网络的充值、提现业务。本次升级预计需要15分钟。</description>
-      <pubDate>Tue, 29 Jul 2025 05:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼持有 2240 万枚 VINE 不足 24 小时后清仓，亏损约 86,000 美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某鲸鱼在持有时间不足 24 小时后，将全部 2,240 万枚 VINE 代币兑换成 16,606 个 SOL，随后将这些 SOL 存入币安交易所。此次交易造成该鲸鱼亏损 474 个 SOL（约合 86,000 美元）。</description>
-      <pubDate>Tue, 29 Jul 2025 04:45:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Dragonfly 管理合伙人：美国司法部已澄清，不会对 Dragonfly 及其员工提起指控</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Dragonfly 管理合伙人 Haseeb Qureshi 发文称，美国司法部已在周一庭审中澄清，此前媒体报道关于对 Dragonfly 提起诉讼的消息并不准确，Dragonfly 及其主要负责人均不是调查对象。此前，司法部在周五公开庭审中表示，作为投资方的 Dragonfly 可能因支持开源隐...</description>
-      <pubDate>Tue, 29 Jul 2025 04:36:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
