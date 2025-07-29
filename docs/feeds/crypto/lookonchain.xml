@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 04:53:24 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 04:53:24 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 05:25:23 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 05:25:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance will upgrade the Wallet Network Servers</title>
+      <link>https://www.lookonchain.com/feeds/22248</link>
+      <description>On July 29th, as per official information, Binance is scheduled to upgrade its wallet network servers on July 31, 2025, at 16:00 (UTC+8). In order to facilitate this upgrade, Binance will halt all network deposit and withdrawal services at 16:00 (UTC+8) on July 31, 2025. The upgrade is anticipated to last for 15 minutes.During the wallet upgrade period, users will still be able to trade tokens normally. Once the wallet upgrade is completed and the network becomes stable, the deposit and withdrawal services for the affected tokens will be reopened without any additional notifications.</description>
+      <pubDate>Tue, 29 Jul 2025 05:08:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22248</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitmine: Multiple Institutions Estimate ETH&apos;s Implied Value to Reach $60,000 Using the &quot;Store of Value&quot; Model</title>
+      <link>https://www.lookonchain.com/feeds/22247</link>
+      <description>On July 29th, the Ethereum treasury and the crypto mining company Bitmine announced that they have invited multiple research institutions to value Ethereum (ETH) according to Wall Street&apos;s &quot;alternative value&quot; model. This valuation is for reference only. The findings indicate that the implied value of ETH is $60,000, while the current market price is approximately $3,800.</description>
+      <pubDate>Tue, 29 Jul 2025 05:03:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22247</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>A Whale Liquidated 22.4 Million VINE, Losing $86,000</title>
       <link>https://www.lookonchain.com/feeds/22246</link>
       <description>On July 29th, as monitored by Onchain Lens, within less than a day after holding VINE, a whale sold all 22.4 million VINE and received 16,606 SOL. During this process, it lost 474 SOL (equivalent to 86,000 USD). Then, the SOL was deposited into Binance.</description>
-      <pubDate>Tue, 29 Jul 2025 04:49:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:49:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22246</guid>
       <category>crypto</category>
@@ -36,7 +73,7 @@
       <title>「Quad-Shorter with 75% Win Rate on ETH」 Goes Short 20x Leveraged on 20,000 ETH, Currently Sitting on $1.12 Million Unrealized Gain</title>
       <link>https://www.lookonchain.com/feeds/22245</link>
       <description>On July 29th, as per the monitoring of HyperInsight accessible via https://app.hyperliquid.xyz/join/NTOD, the &quot;Four-Battle ETH 75% Win Rate Whale&quot; went short with a leverage of 20 times on 20,000 ETH. Currently, it has a floating profit of $1.12 million. The position is valued at $75.76 million, with an opening price of $3,843 and a liquidation price of $3,999.Previously, in June, this whale shorted 50,000 ETH. It achieved a peak floating profit of $22.83 million but did not close the position. It was not until early July when ETH started to rise rapidly that the whale closed the short position near the cost line, ultimately resulting in a loss of $0.71 million.</description>
-      <pubDate>Tue, 29 Jul 2025 04:40:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:40:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22245</guid>
       <category>crypto</category>
@@ -56,7 +93,7 @@
       <title>Dragonfly Partner: U.S. Department of Justice Has Clarified It Will Not Bring Charges Against Dragonfly or Its Employees</title>
       <link>https://www.lookonchain.com/feeds/22244</link>
       <description>On July 29th, regarding the news of &quot;The US Department of Justice Considering Charges Against Dragonfly Employees in the TornadoCash Case&quot;, Haseeb, a partner of Dragonfly, wrote a post again and attached a court record stating: &quot;The court record on Monday shows that the US Department of Justice has clarified that media reports about their plans to sue Dragonfly were inaccurate. Neither Dragonfly nor any of its key personnel are the subjects of their investigation. Dragonfly, as an investor, may face a lawsuit merely because it supported an open-source privacy technology. This is not only unprecedented but also clearly violates the Department of Justice&apos;s policy.&quot;</description>
-      <pubDate>Tue, 29 Jul 2025 04:32:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:32:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22244</guid>
       <category>crypto</category>
@@ -73,7 +110,7 @@
       <title>Cryptocurrency Fear &amp; Greed Index Drops to 73, Market Sentiment Slightly Cools Off from &quot;Greed&quot;</title>
       <link>https://www.lookonchain.com/feeds/22243</link>
       <description>On July 29th, based on alternative data, the Crypto Fear and Greed Index for today is 73 (yesterday it was 75), suggesting a slight decline in the market&apos;s &quot;greed&quot; sentiment and still remaining within the &quot;greed&quot; zone.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and incorporates the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends (10%).</description>
-      <pubDate>Tue, 29 Jul 2025 04:32:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:32:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22243</guid>
       <category>crypto</category>
@@ -90,7 +127,7 @@
       <title>Lido Founder Borrows 85 Million USDT from Aave to Purchase ETH</title>
       <link>https://www.lookonchain.com/feeds/22241</link>
       <description>On July 29th, as per the monitoring of LookOnChain, Konstantin Lomashuk, the founder of Lido, borrowed 85 million USDT from Aave to purchase ETH.He borrowed 85 million USDT from Aave and then transferred 80 million USDT to Amber Group.Amber Group deposited 80 million USDT into the trading platform and withdrew 15,814 ETH (equivalent to 59.75 million USD) from the trading platform.</description>
-      <pubDate>Tue, 29 Jul 2025 04:16:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:24:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22241</guid>
       <category>crypto</category>
@@ -107,27 +144,10 @@
 
     </item>
     <item>
-      <title>MetaMask is introducing a new feature called &quot;Stablecoin Yield Farming.&quot;</title>
-      <link>https://www.lookonchain.com/feeds/22242</link>
-      <description>On July 29th, MetaMask declared the initiation of the Stablecoin Earn feature. This enables users to directly deposit stablecoins like USDT, USDC, and DAI within the wallet interface and earn interest by using Aave. There is no deposit lock-up period, and withdrawals can be made at any time.</description>
-      <pubDate>Tue, 29 Jul 2025 04:16:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22242</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Yesterday&apos;s US Spot Bitcoin ETF saw a net inflow of $157.1 million, while the Ethereum ETF saw a net inflow of $65.2 million.</title>
       <link>https://www.lookonchain.com/feeds/22240</link>
       <description>On July 29th, as per Farside&apos;s monitoring, the net inflow of the US Spot Bitcoin ETF was $157.1 million yesterday, and the Ethereum ETF had a net inflow of $65.2 million.</description>
-      <pubDate>Tue, 29 Jul 2025 03:56:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:24:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22240</guid>
       <category>crypto</category>
@@ -146,10 +166,27 @@
 
     </item>
     <item>
+      <title>MetaMask is introducing a new feature called &quot;Stablecoin Yield Farming.&quot;</title>
+      <link>https://www.lookonchain.com/feeds/22242</link>
+      <description>On July 29th, MetaMask declared the initiation of the Stablecoin Earn feature. This enables users to directly deposit stablecoins like USDT, USDC, and DAI within the wallet interface and earn interest by using Aave. There is no deposit lock-up period, and withdrawals can be made at any time.</description>
+      <pubDate>Tue, 29 Jul 2025 04:24:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22242</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The Hong Kong Monetary Authority is about to announce the regulatory details for a Stablecoin License.</title>
       <link>https://www.lookonchain.com/feeds/22239</link>
       <description>On July 29th, the implementation of the Hong Kong &quot;Stablecoin Regulation&quot; is drawing near. Multiple institutions have confirmed to reporters that the Hong Kong Monetary Authority (HKMA) will hold a technical briefing on the stablecoin issuer regulatory regime at 4:30 pm on this day. It is reported that the technical briefing will be hosted by senior HKMA teams, including Vice President Eddie Cheng, Assistant Vice President (Regulatory Compliance and Anti-Money Laundering) Chan King Weng, Assistant Vice President (Monetary Management) Ho Hon Kit, and Director of Digital Finance Ho Wang Che. The HKMA had previously stated that it would release a stablecoin-specific implementation guidance this month, clarifying core regulatory details such as anti-money laundering and customer identification. The regulator has also reminded the market to adopt a rational attitude and avoid excessive speculation. The number of initial stablecoin issuer licenses will be strictly limited to single digits an</description>
-      <pubDate>Tue, 29 Jul 2025 03:56:31 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 04:24:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22239</guid>
       <category>crypto</category>
@@ -160,45 +197,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale sold 3 million Fartcoins approximately 9 hours ago, equivalent to $3.65 million</title>
-      <link>https://www.lookonchain.com/feeds/22237</link>
-      <description>On July 29th, based on the monitoring of LookOnChain, a whale sold 3 million Fartcoin with an average price of $1.22 (a total value of $3.65 million) 9 hours ago.Previously, between February 26th and March 21st, the whale had purchased 8.89 million Fartcoin at an average price of $0.26 (with a total cost of $2.31 million).Currently, the whale holds 1.89 million Fartcoin (with a value of $2.16 million), and has a total profit of $8.07 million (+349%).</description>
-      <pubDate>Tue, 29 Jul 2025 03:52:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22237</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Approximately $25.9 billion worth of ETH is currently staked on the Ethereum PoS network, while approximately $9.8 billion worth of ETH is waiting to be staked.</title>
-      <link>https://www.lookonchain.com/feeds/22238</link>
-      <description>On July 29th, as per validatorqueue data, currently there are around 684,000 ETH (valued at approximately $25.9 billion at the present price) awaiting to exit the Ethereum PoS network, and the waiting time for exit is about 11 days and 21 hours. Meanwhile, there are approximately 259,000 ETH lined up waiting to join the network, which is about $9.8 billion, and the expected activation delay is about 4 days and 12 hours.Previously reported, this situation indicates the existence of two opposing forces in the market: on one hand, some stakers may have decided to cash out after Ethereum rebounded by more than 160% from its April low, resulting in a significant increase in the exit queue; on the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also pushing up the entry queue. Listed companies such as SharpLink Gaming and BitMine Immersion have increased their ETH holdings and are staking.</description>
-      <pubDate>Tue, 29 Jul 2025 03:52:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22238</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
   </channel>
