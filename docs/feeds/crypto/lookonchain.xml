@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Jul 2025 10:32:42 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Jul 2025 10:32:42 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 10:54:29 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 10:54:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,31 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Nano Labs announces investment in the BNB Strategic Reserve Company CEA INDUSTRIES INC</title>
-      <link>https://www.lookonchain.com/feeds/22465</link>
-      <description>On July 30th, Nano Labs made an announcement regarding an investment in the BNB Strategic Reserve Company, CEA INDUSTRIES INC, with the aim of further bolstering the BNB Strategic Reserve.According to the terms and conditions of the agreement, Nano Labs subscribed to 495,050 shares of Class A common stock of CEA INDUSTRIES INC at a price of $10.10 per share. Additionally, this investment encompassed an equal number of 495,050 warrants, each with an exercise price of $15.15 per share. In the event that all warrants are exercised, Nano Labs will hold up to 990,100 shares of the company.This round of investment involved the subscription of 495,000 shares of common stock and an equal number of warrants to support its $500 million PIPE financing plan. As of the date of this announcement, Nano Labs holds approximately 128,000 BNB.</description>
-      <pubDate>Wed, 30 Jul 2025 10:24:49 +0000</pubDate>
+      <title>Ethereum 10th Anniversary Torch NFT Holder Addresses Surpass 280,000</title>
+      <link>https://www.lookonchain.com/feeds/22468</link>
+      <description>On July 30th, according to on-chain data, the address of the Ethereum Tenth Anniversary Torch Commemorative NFT holder has exceeded 280,000. The minting will end at 24:00 on July 31st (UTC+8).BlockBeats previously reported that Ethereum launched &quot;The Torch&quot; NFT to pay tribute to those who have shaped its development and values in the first decade of Ethereum and will support the future development of Ethereum. In the 10 days leading up to Ethereum&apos;s tenth anniversary, this The Torch NFT will symbolically pass between wallets. On July 30th, The Torch NFT will be burned to commemorate Ethereum&apos;s tenth anniversary. On that day, everyone can mint a commemorative NFT.</description>
+      <pubDate>Wed, 30 Jul 2025 10:40:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22465</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22468</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Meme Coin Perpetual Contract DEX Superp Completes Second Round of Funding, Led by UOB Ventures and Brooker Group</title>
+      <link>https://www.lookonchain.com/feeds/22467</link>
+      <description>On July 30th, the Meme coin perpetual contract DEX project Superp (formerly Vanilla Finance) on BSC announced the completion of a seed round financing. It was led by UOB Ventures and Brooker Group, with the participation of Sei Network, Pluto Studio, UXLINK, 071Labs, and strategic angel investors including the core founders from Tapbit, Oobit, Kyber, CaliberBuild, KiloEx, etc. The amount of this seed round financing has not been disclosed.Superp was selected for the 8th phase of the BNB Chain MVB Accelerator Program and received incubation support from CoinMarketCap. Superp aims to create a Hyperliquid for Meme coins, supporting mainstream Meme asset long and short trading.Superp is expected to launch the NoLiquidation Perp trading competition at 10:00 UTC on July 30th as a pre-event for Superp Pre-TGE, encouraging users to try out Superp&apos;s innovative Perp product. The event will provide each user with 1000U in test funds, and user trades will not cause real losses. Based on the pr</description>
+      <pubDate>Wed, 30 Jul 2025 10:40:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22467</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +50,29 @@
 
     </item>
     <item>
+      <title>H100 Group Increases Holdings Again with an Additional 56.9 BTC, Bringing Total Holdings to 685.1 BTC</title>
+      <link>https://www.lookonchain.com/feeds/22466</link>
+      <description>On July 30th, the Swedish listed company announced the acquisition of an additional 56.9 BTC, bringing its total holdings to 685.1 BTC.</description>
+      <pubDate>Wed, 30 Jul 2025 10:32:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22466</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>A Whale Spent $2.25 Million Betting on No Change in July Fed Rate</title>
       <link>https://www.lookonchain.com/feeds/22463</link>
       <description>Update: On July 30th, based on the monitoring of Onchain Lens, the whale named &quot;bobe2&quot; spent $2.25 million on Polymarket to make a bet that the US Federal Reserve will not adjust interest rates in July 2025. Meanwhile, the whale also spent $144,700 to purchase 149,000 shares of the &quot;no&quot; outcome for &quot;the Fed will cut rates by 25 basis points after the July 2025 meeting.&quot;</description>
-      <pubDate>Wed, 30 Jul 2025 10:24:49 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 10:24:36 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22463</guid>
       <category>crypto</category>
@@ -50,10 +88,27 @@
 
     </item>
     <item>
+      <title>Nano Labs announces investment in the BNB Strategic Reserve Company CEA INDUSTRIES INC</title>
+      <link>https://www.lookonchain.com/feeds/22465</link>
+      <description>On July 30th, Nano Labs made an announcement regarding an investment in the BNB Strategic Reserve Company, CEA INDUSTRIES INC, with the aim of further bolstering the BNB Strategic Reserve.According to the terms and conditions of the agreement, Nano Labs subscribed to 495,050 shares of Class A common stock of CEA INDUSTRIES INC at a price of $10.10 per share. Additionally, this investment encompassed an equal number of 495,050 warrants, each with an exercise price of $15.15 per share. In the event that all warrants are exercised, Nano Labs will hold up to 990,100 shares of the company.This round of investment involved the subscription of 495,000 shares of common stock and an equal number of warrants to support its $500 million PIPE financing plan. As of the date of this announcement, Nano Labs holds approximately 128,000 BNB.</description>
+      <pubDate>Wed, 30 Jul 2025 10:24:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22465</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Falcon Finance Receives $10M Strategic Investment from Trump Family Crypto Project WLFI</title>
       <link>https://www.lookonchain.com/feeds/22464</link>
       <description>On July 30th, the Synthetic USD protocol Falcon Finance secured a $10 million strategic investment from the crypto project WLFI affiliated with the Trump family. Falcon has taken USD1 as collateral.</description>
-      <pubDate>Wed, 30 Jul 2025 10:24:49 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 10:24:36 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22464</guid>
       <category>crypto</category>
@@ -71,7 +126,7 @@
       <title>Analyst: Bitcoin Could Hit All-Time High if It Breaks $120,000 Resistance</title>
       <link>https://www.lookonchain.com/feeds/22462</link>
       <description>On July 30th, as per the report by Cointelegraph, currently, $120,000 serves as the crucial Bitcoin resistance level that traders are closely monitoring. Several analysts hold the view that if a substantial amount of buying pressure manages to drive the price above this level, it will pave the way for Bitcoin to rapidly reach a new all-time high.Glassnode stated in its most recent report: &quot;Once the breakout of this area is verified, the market structure may undergo a transformation, and the $141,000 region will become a significant focus point, precisely corresponding to the position that is two standard deviations above the price realized by short-term holders (STH), which is a crucial on-chain metric indicating an intensification of profit-taking behavior. Another key level to keep an eye on is $125,000, representing the position that is one standard deviation above the cost basis of short-term holders (STH).&quot;On the downside, traders need to pay attention to Bitcoin&apos;s STH cost ba</description>
-      <pubDate>Wed, 30 Jul 2025 10:16:49 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 10:16:36 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22462</guid>
       <category>crypto</category>
@@ -91,7 +146,7 @@
       <title>A Polymarket user has wagered $1.3 million on the Fed holding rates in July</title>
       <link>https://www.lookonchain.com/feeds/22461</link>
       <description>On July 30th, as per the monitoring of LookOnChain, 2 hours ago, a Polymarket user named &quot;Spice&quot; allocated $1.3 million for a bet that the Fed will not make any adjustments to interest rates following its July 2025 meeting.</description>
-      <pubDate>Wed, 30 Jul 2025 09:57:49 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 09:57:36 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22461</guid>
       <category>crypto</category>
@@ -109,7 +164,7 @@
       <title>QCP Capital: Bitcoin in Range-Bound Action, Dollar Short Squeeze Could Trigger Cryptocurrency Sell-Off Risk</title>
       <link>https://www.lookonchain.com/feeds/22460</link>
       <description>On July 30th, QCP Capital made a post on its official channel, saying, &quot;Bitcoin is continuously trading within a narrow range and having difficulty effectively breaking through the $120,000 barrier. Meanwhile, the sustained buying pressure near $116,000 continues to offer support. Ethereum&apos;s upward momentum also seems to be losing steam as it approaches the psychological barrier of $4,000, and the momentum indicator is gradually shifting to a neutral state. From a structural perspective, the continuous inflow of institutional funds and positive regulatory developments imply that the possibility of hitting a new high in the medium term remains high.However, caution still needs to be exercised. The price movement has shown only a limited response to a series of positive news, such as the United States passing supportive cryptocurrency regulatory measures and positive developments in spot and derivative ETFs. Historically, when the market is flooded with bullish news but the price remai</description>
-      <pubDate>Wed, 30 Jul 2025 09:48:49 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 09:53:36 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22460</guid>
       <category>crypto</category>
@@ -128,63 +183,9 @@
       <title>August Token Unlocking in the Crypto Market to Decrease to $3 Billion, a 52% Month-over-Month Decrease</title>
       <link>https://www.lookonchain.com/feeds/22459</link>
       <description>On July 30th, according to Tokenomist&apos;s data, the total amount of cryptocurrency expected to be unlocked is projected to decrease significantly to $3 billion in August. This represents a decrease of approximately 52% compared to July&apos;s $6.3 billion.The key unlocking projects include: Sui (SUI), Fasttoken (FTN), Aptos (APT), Avalanche (AVAX), and Arbitrum (ARB). Specifically, Sui is scheduled to unlock tokens worth around $167.62 million on August 1st, making it the largest single-token unlocking event this month. Fasttoken will release tokens worth $91.6 million on August 18th. Additionally, Aptos will unlock $51.5 million in tokens, Avalanche will unlock $40.35 million in tokens, and Arbitrum will unlock $39.24 million in tokens.</description>
-      <pubDate>Wed, 30 Jul 2025 09:40:49 +0000</pubDate>
+      <pubDate>Wed, 30 Jul 2025 09:53:36 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22459</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Samourai Wallet&apos;s two co-founders acknowledge cryptocurrency mixing service-related allegations</title>
-      <link>https://www.lookonchain.com/feeds/22458</link>
-      <description>On July 30th, Keonne Rodriguez and William Lonergan Hill, the co-founders of Samourai Wallet, have entered pleas of guilty in the U.S. District Court for the Southern District of New York to charges associated with their cryptocurrency mixing service.</description>
-      <pubDate>Wed, 30 Jul 2025 09:32:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22458</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>OKX CEO Star has published a blog post paying tribute to the tenth anniversary of Ethereum, stating a firm commitment to co-building the future on the blockchain.</title>
-      <link>https://www.lookonchain.com/feeds/22457</link>
-      <description>July 30th. In commemoration of Ethereum&apos;s tenth anniversary, OKX CEO Star published a blog post titled &quot;Ethereum&apos;s Tenth Anniversary: My Personal Tribute,&quot; reflecting on the shared journey with Ethereum and looking forward to the future of the blockchain. Star stated that since OKX was established in 2013, they have maintained a close collaboration with the Ethereum ecosystem. In the future, OKX will continue to provide world-class products and services to more than 1 billion users globally, driving the realization of a truly decentralized blockchain vision.In the article, he publicly recounted his first encounter with Vitalik for the first time and admitted that he had underestimated the profound significance of Ethereum&apos;s vision. Now, he highly values its ability to reshape the global financial system and trust mechanism. Star pointed out that OKX has long adhered to the open and transparent spirit advocated by Ethereum, from introducing ZK Reserves to supporting EIP-7702 and build</description>
-      <pubDate>Wed, 30 Jul 2025 09:31:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22457</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Yesterday, Hyperliquid&apos;s contract trading volume reached $11.14 billion, a daily decrease of 10.2%.</title>
-      <link>https://www.lookonchain.com/feeds/22456</link>
-      <description>On July 30th, according to DefiLlama data, the contract trading volume of Hyperliquid reached $11.14 billion on July 29th, showing a daily decrease of 10.2%.According to Coinglass data, the contract position size of Hyperliquid reached $13.862 billion. The Bitcoin contract position size reached $4.381 billion, with a 24-hour increase of 0.76%. The Ethereum contract position size reached $3.83 billion, with a 24-hour decrease of 4.97%.</description>
-      <pubDate>Wed, 30 Jul 2025 09:31:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22456</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
