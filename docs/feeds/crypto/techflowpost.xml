@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Jul 2025 04:58:58 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Jul 2025 04:58:58 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 05:38:29 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 05:38:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>中信证券：境内企业提出香港稳定币发行人牌照申请前应先取得有关监管部门许可</title>
+      <link>https://www.techflowpost.com</link>
+      <description>针对香港金管局就8月1日起实施的稳定币发行人监管制度发布一系列文件，中信证券对其进行解读，得到的主要观点如下：1、储备资产：目前限于现金管理类资产，要求全额储备。2、申请程序：境内企业提出申请前应先取得有关监管部门许可。3、发行、赎回及分销：重点关注客户适当性管理，无论发行人或第三方分销均不应涉及...</description>
+      <pubDate>Wed, 30 Jul 2025 05:35:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>火币HTX红包功能全新上线，特别开启红包狂欢季，狂撒18万USDT，无门槛领红包最高补贴300%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据火币HTX官方公告，火币HTX重磅上线「加密红包」新功能，特别启动「火币HTX 红包狂欢」活动，狂撒180,000 USDT福利，人人有份、玩法多样、零门槛参与。即日起至8月24日12:00（UTC+8），用户可在火币HTX APP创建并发送红包，体验“发红包也能赚钱”——补贴最高达300%，单...</description>
+      <pubDate>Wed, 30 Jul 2025 05:33:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>圆币科技完成 4,000 万美元 A2 轮融资，众安国际等领投</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，香港金融科技公司圆币科技（RD Technologies）已完成 4,000 万美元 A2 轮融资。本轮融资由众安国际（ZA Global）、中湾国际（China Harbour）、璀璨投资（Bright Venture）及 Hivemind Capital 联合领投，其他投资人包括红...</description>
+      <pubDate>Wed, 30 Jul 2025 05:04:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>OpenSea 团队成员：空投标准会考虑用户画像</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 The Block 报道，NAC Foundation 创始人兼首席执行官 Rowland Marcus Andrade 因涉及加密货币项目 AML Bitcoin 的电信欺诈和洗钱罪，被判处 84 个月联邦监狱刑期。法院认定，Andrade 在 2014 年至 2019 年期间，通过对 AM...</description>
       <pubDate>Wed, 30 Jul 2025 02:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>韩国央行设立加密资产部门，以加强稳定币监管</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 The Block 报道，韩国央行（Bank of Korea）已设立虚拟资产部门，以监管加密货币市场并主导本地货币稳定币相关内部讨论。报道称，韩国央行此次除新设虚拟资产部门外，还对现有数字货币团队进行更名，以表明其对数字货币计划采取更为积极的立场。</description>
-      <pubDate>Wed, 30 Jul 2025 02:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid：昨日故障由流量激增导致，未发生黑客攻击或漏洞利用</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Hyperliquid 在 Discord 发布公告，在昨晚 22:10 至 22:47（UTC+8）之间 API 服务器出现问题，导致订单发送到节点时出现延迟。这是由于流量激增所致。没有发生黑客攻击或漏洞利用。该问题已被修复，未来还将进行进一步改进。同时将在技术栈的各个层级增加额外的防护措施，以...</description>
-      <pubDate>Wed, 30 Jul 2025 01:58:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BTC 短时突破 118000 美元，日内涨幅 0.45%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 HTX 行情数据显示，BTC短时突破118000美元，现报 117940.00 美元/枚，日内涨幅 0.45%。</description>
-      <pubDate>Wed, 30 Jul 2025 01:52:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
