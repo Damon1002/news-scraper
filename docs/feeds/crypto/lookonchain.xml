@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 29 Jul 2025 23:51:52 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Jul 2025 23:51:52 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 01:04:16 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 01:04:16 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>LookOnChain: Ethereum Surges Above $3800</title>
-      <link>https://www.lookonchain.com/feeds/22357</link>
-      <description>On July 30th, based on HTX market data, Ethereum has shown a rebound and exceeded $3800, with a 24-hour percentage change of 0.01%.</description>
-      <pubDate>Tue, 29 Jul 2025 23:49:00 +0000</pubDate>
+      <title>Orca announces the launch of the Wavebreak Token Issuance Platform</title>
+      <link>https://www.lookonchain.com/feeds/22370</link>
+      <description>On July 30th, the Solana liquidity protocol Orca declared the launch of the token issuance platform Wavebreak. It integrates CAPTCHA with the on-chain permission structure to safeguard against bots and front-running attacks on real users.Wavebreak provides proprietary anti-bot technology, permissionless token creation, a pre-launch token scorecard program, creator launch LP rewards, and daily rewards.</description>
+      <pubDate>Wed, 30 Jul 2025 00:56:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22357</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22370</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>BTCS is planning to raise $2 billion to continue accumulating ETH.</title>
+      <link>https://www.lookonchain.com/feeds/22369</link>
+      <description>On July 30th, as per Cointelegraph, the publicly traded company BTCS Inc. (BTCS) is going to raise up to $200 million through a preferred stock warrant offering in order to enhance its treasury by obtaining more ETH.</description>
+      <pubDate>Wed, 30 Jul 2025 00:56:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22369</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>AXIOS: White House is actively lobbying against a presidential stock trading ban</title>
+      <link>https://www.lookonchain.com/feeds/22368</link>
+      <description>July 30th. As per AXIOS, the bill proposed by Republican Senator Josh Hawley to prohibit stock trading by members of Congress is emerging as a significant challenge within the Republican Party. Several sources disclosed that owing to opposition from Homeland Security Committee Chair Rand Paul, Hawley requires Democratic support in order to get the vote scheduled for Wednesday passed. Consequently, Hawley has consented to incorporate language that would also forbid the President and Vice President, thereby expanding the scope of the ban beyond just members of Congress. Insiders indicated that the White House Legislative Affairs Office has launched a counteroffensive upon becoming aware of this and has been lobbying against the proposed stock trading ban.</description>
+      <pubDate>Wed, 30 Jul 2025 00:48:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22368</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The White House Delays CFTC Chairman Nomination Vote Possibly Due to Quintenz Previously Seeking Access to Competitors&apos; Cellphone Data</title>
+      <link>https://www.lookonchain.com/feeds/22367</link>
+      <description>On July 30th, according to crypto reporter Eleanor Terrett, the White House has postponed advancing the vote on the CFTC Chairman nomination. This might be because nominee Quintenz&apos;s team was seeking to obtain CFTC confidential information related to competitors like Polymarket and PredictIt while he was still serving as a director at Kalshi. The potential conflict of interest issue has drawn attention.</description>
+      <pubDate>Wed, 30 Jul 2025 00:48:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22367</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>ZachXBT Investigation Leads to Conviction and Restitution Order for Cameron Redman</title>
+      <link>https://www.lookonchain.com/feeds/22366</link>
+      <description>On July 30th, on-chain detective ZachXBT stated that Canadian Cameron Redman was convicted due to his investigations and was ordered to make restitution. In June 2022, Redman made a profit of 250 ETH by selling access to the X platform dashboard, which led to the theft of more than 10 prominent accounts (including JRNY, Beeple, Nouns, Zeneca, DeeKay, etc.), and millions of dollars in assets were stolen through a phishing scam. Redman was previously known for stealing $37 million in a 2020 SIM card swap attack.</description>
+      <pubDate>Wed, 30 Jul 2025 00:41:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22366</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Data: Multiple entities have accumulated as much as 648,000 ETH since July 10, with a total value of approximately $2.44 billion</title>
+      <link>https://www.lookonchain.com/feeds/22365</link>
+      <description>On July 30th, as per EmberCN&apos;s monitoring, the address &quot;0x3dF...E3E&quot; continued to accumulate 12,000 ETH through Galaxy Digital 7 hours ago, which is worth $45.01 million. This address has accumulated a total of 112,972 ETH in eleven days starting from July 19th, with a value of $4.13 billion and an average price of $3,662.Since July 10th, addresses that have been accumulating a large amount of ETH through multiple channels (not belonging to the same entity) have now accumulated as much as 648,000 ETH, approximately worth $24.4 billion, and have a weighted average price of around $3,445.</description>
+      <pubDate>Wed, 30 Jul 2025 00:40:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22365</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,12 +124,29 @@
 
     </item>
     <item>
-      <title>Kraken is seeking to raise around $500 million at a $15 billion valuation.</title>
-      <link>https://www.lookonchain.com/feeds/22358</link>
-      <description>On July 30th, according to TheInformation, the cryptocurrency exchange Kraken is aiming to secure approximately $500 million with a valuation of $15 billion.</description>
-      <pubDate>Tue, 29 Jul 2025 23:49:00 +0000</pubDate>
+      <title>CITIC Securities: Focus on Potential Recipients of the First Batch of Hong Kong Stablecoin Licenses</title>
+      <link>https://www.lookonchain.com/feeds/22364</link>
+      <description>July 30th. On July 29th, the research report of Citic Securities stated that the Hong Kong Monetary Authority issued a series of documents regarding the regulatory framework for stablecoin issuers, which is set to come into effect on August 1st. The core document is the &quot;Licensed Stablecoin Issuer Regulatory Guidance,&quot; and the most significant guidance document during the current application phase is the &quot;Stablecoin Issuer Licensing Regime Summary Description.&quot; Regarding the timeline, the Monetary Authority encourages prospective applicants to get in touch with regulators by August 31st, and mature applicants have until September 30th to submit applications. It is initially expected that the number of licenses will be in the single digits, and there is a potential for them to be launched by the end of the year. It is recommended to continuously monitor stablecoin issuers who may obtain the first batch of scarce licenses and scenario platforms that are actively involved in creating stab</description>
+      <pubDate>Wed, 30 Jul 2025 00:40:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22358</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22364</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>AI Agent Platform Delve Raises $32 Million in Funding, Led by Insight Partners</title>
+      <link>https://www.lookonchain.com/feeds/22362</link>
+      <description>On July 30th, Al Agent, a security and compliance platform established by two 21-year-old MIT dropouts named Karun Kaushik and Selin Kocalar, declared a $32 million funding round with a valuation of $300 million. This funding was spearheaded by Insight Partners and saw the participation of several Fortune 500 CISOs.</description>
+      <pubDate>Wed, 30 Jul 2025 00:32:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22362</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -52,12 +159,12 @@
 
     </item>
     <item>
-      <title>Coinbase to List BankrCoin (BNKR)</title>
-      <link>https://www.lookonchain.com/feeds/22356</link>
-      <description>On July 30th, Coinbase will commence adding support for BankrCoin (BNKR) on the Base network. Trading is scheduled to begin at 9:00 AM Pacific Time on July 30, 2025, provided that liquidity conditions are fulfilled.</description>
-      <pubDate>Tue, 29 Jul 2025 23:48:00 +0000</pubDate>
+      <title>OpenAI has announced the launch of ChatGPT Study Mode, offering a guided learning experience.</title>
+      <link>https://www.lookonchain.com/feeds/22363</link>
+      <description>July 30: OpenAI made an announcement regarding the launch of ChatGPT Study Mode. This mode is designed to offer a step-by-step, guided learning experience, with a primary focus on the education sector. It provides interactive prompts, scaffolded responses, and personalized education. ChatGPT Study serves as a 24/7 online tutoring service, capable of delivering personalized guidance and feedback according to students&apos; learning pace and requirements.</description>
+      <pubDate>Wed, 30 Jul 2025 00:32:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22356</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22363</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -69,126 +176,12 @@
 
     </item>
     <item>
-      <title>Strategy Completes $2.521 Billion STRC Stock IPO, Acquires 21,021 BTC</title>
-      <link>https://www.lookonchain.com/feeds/22355</link>
-      <description>On July 30th, Strategy (MSTR) announced the successful completion of the initial public offering (IPO) of 28,011,111 shares of Floating Rate Series A Convertible Preferred Stock, namely &quot;STRC&quot;, at a price of $90 per share. The IPO of STRC is the largest in the United States in 2025 and one of the largest cryptocurrency-related offerings in recent years. STRC is anticipated to be listed on the Nasdaq Global Select Market around July 30th, 2025, under the stock symbol &quot;STRC&quot;. The total funds raised in this transaction amount to approximately $2.521 billion.Strategy (MSTR) has augmented its holdings of 21,021 bitcoins, bringing the total value to about $24.6 billion, with an average purchase price of around $117,256. Strategy has achieved a 25.0% return on its bitcoin holdings from the beginning of 2025 to July 29th, 2025. As of July 29th, 2025, Strategy holds 628,791 bitcoins with a total value of approximately $73.73 billion. The average cost per bitcoin is around $73,277, and the tot</description>
-      <pubDate>Tue, 29 Jul 2025 23:41:00 +0000</pubDate>
+      <title>Linea Announces Tokenomics: Total Supply of approximately 72 billion tokens, with 9% Allocated for Early User Airdrop</title>
+      <link>https://www.lookonchain.com/feeds/22361</link>
+      <description>On July 30th, Linea officially made an announcement about the LINEA Tokenomics. The total supply of tokens is 72,009,990,000 (approximately 72 billion), which is equivalent to 1,000 times the initial circulating supply of ETH. The distribution is designed to have a certain echo with Ethereum&apos;s genesis distribution: 85% of the supply is dedicated to the ecosystem, and the remaining 15% is allocated to the Consensys Treasury. Early users will receive tokens from a distribution that is equivalent to 9% of the token supply, and these tokens will be airdropped at the Time of Genesis Event (TGE) and will be fully unlocked. The eligibility for the airdrop will be assessed based on a series of metrics, including LXP and on-chain indicators. The full details and individual qualification information will be announced through the official qualification checker prior to the TGE. In addition to the user airdrop, 1% of the LINEA token supply will be reserved for strategic builders in the Linea ecosy</description>
+      <pubDate>Wed, 30 Jul 2025 00:24:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22355</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Sino-US Economic and Trade Talks Held in Stockholm, Sweden</title>
-      <link>https://www.lookonchain.com/feeds/22354</link>
-      <description>July 30th. From July 28th to 29th local time, Chinese lead trade negotiator and Vice Premier of the State Council, He Lifeng, along with American lead trade negotiators, U.S. Secretary of the Treasury Janet Yellen and Trade Representative Katherine Tai, held the U.S.-China Economic and Trade Talks in Stockholm, Sweden. He Lifeng pointed out that next, both sides should continuously follow the important consensus reached in the telephone conversation between the leaders of the two countries. They should give full play to the role of the China-U.S. economic and trade consultation mechanism, continuously enhance consensus, reduce misunderstandings, strengthen cooperation, further deepen dialogues and consultations, and continuously strive for more win-win results. The U.S. side stated that a stable U.S.-China economic and trade relationship is of great significance to both countries and the global economy. They are willing to work with China to continue negotiating through the U.S.-China</description>
-      <pubDate>Tue, 29 Jul 2025 23:33:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22354</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Coinbase to List Treehouse (TREE)</title>
-      <link>https://www.lookonchain.com/feeds/22353</link>
-      <description>On July 30th, Coinbase will commence the addition of support for Treehouse (TREE) on the Ethereum network. Provided that liquidity conditions are fulfilled, trading will initiate later on the same day. Once an adequate supply of the asset is available, the TREE-USD trading pair will be gradually introduced.</description>
-      <pubDate>Tue, 29 Jul 2025 23:33:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22353</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The SEC Approves Bitcoin and Ethereum ETF Physical Redemption Mechanism</title>
-      <link>https://www.lookonchain.com/feeds/22352</link>
-      <description>On July 30th, according to market information, the U.S. Securities and Exchange Commission (SEC) has officially given the green light to the physical redemption mechanism of Bitcoin and Ethereum ETFs.</description>
-      <pubDate>Tue, 29 Jul 2025 20:51:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22352</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>SEC Confirms Receipt of Application Allowing BlackRock Ethereum Spot ETF to Pledge Assets</title>
-      <link>https://www.lookonchain.com/feeds/22351</link>
-      <description>On July 30th, the U.S. Securities and Exchange Commission (SEC) has verified the receipt of the application enabling BlackRock&apos;s Ethereum spot ETF to participate in staking.Previously, the President of the ETF Store, Nate Geraci, stated at the beginning of the year that staking for an ETH ETF would occur in one way or another. It is anticipated that this process will gain momentum under the leadership of the Trump administration.</description>
-      <pubDate>Tue, 29 Jul 2025 17:51:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22351</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>If Bitcoin drops below $115,000, the mainstream CEX liquidation pressure will reach $1.59 billion.</title>
-      <link>https://www.lookonchain.com/feeds/22350</link>
-      <description>On July 30th, based on Coinglass data, if Bitcoin drops beneath $115,000, the cumulative liquidation intensity of mainstream CEX will amount to $1.59 billion.Conversely, if Bitcoin surges above $119,000, the cumulative short liquidation intensity of mainstream CEX will reach $390 million.BlockBeats Note: The liquidation chart does not disclose the exact number of contracts to be liquidated or the precise value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the asset price reaching a certain level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, a more intense reaction will occur due to a liquidity avalanche.</description>
-      <pubDate>Tue, 29 Jul 2025 16:51:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22350</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>On-chain Data Provider Irys Offers Solution for 100TB Scientific Research Permanent Storage</title>
-      <link>https://www.lookonchain.com/feeds/22349</link>
-      <description>July 30th. On-chain data developer Irys has presented a solution for the perpetual storage of 100TB of scientific research data. Irys has collaborated with SCAI to tackle the paywall issue in academic publishing by leveraging Web3 and AI technology. They have permanently stored 100TB of scientific data on a decentralized network. Tools such as SCAI-Box and SCAI-Search have been launched. Smart contracts are utilized to ensure fair compensation for researchers and global barrier-free access. This indicates a transition of the data economy towards permanence and programmable infrastructure, challenging traditional publishing behemoths and promoting the development of open science.</description>
-      <pubDate>Tue, 29 Jul 2025 16:51:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22349</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22361</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
