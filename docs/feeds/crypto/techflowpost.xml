@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Jul 2025 15:00:37 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Jul 2025 15:00:37 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 15:34:23 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 15:34:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,43 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>现货黄金下跌触及3290美元/盎司，日内跌1.09%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，现货黄金向下触及3290美元/盎司，日内跌1.09%。</description>
+      <pubDate>Wed, 30 Jul 2025 15:32:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Bybit独家上线Solana生态DeFi代币TUNA</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Bybit 交易所宣布将于下午 3 点（UTC）开放 TUNA 代币交易。TUNA 是基于索拉纳区块链的去中心化金融协议 DeFiTuna 的治理代币。DeFiTuna 协议整合了集中流动性做市（CLMM）、杠杆交易和借贷功能，主要提供集中流动性市场制造和杠杆头寸管理服务。Bybit ...</description>
+      <pubDate>Wed, 30 Jul 2025 15:15:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>过去 24 小时全网爆仓 2.72 亿美元，主爆多单</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Coinglass 数据，过去 24 小时内加密货币市场总爆仓金额达 2.72 亿美元，其中，多单爆仓 2.08 亿美元，空单爆仓 6431.08 万美元。全球共有 123,577 人被爆仓。最大单笔爆仓单发生在 Binance - ETHUSDT 价值 297.71万美元。</description>
+      <pubDate>Wed, 30 Jul 2025 15:11:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>美国财长贝森特：如果没有达成协议，可以在8月1日之后继续进行贸易谈判</title>
       <link>https://www.techflowpost.com</link>
-      <description>美国财长贝森特：希望看到美联储“有一点想象力”。重申美联储在关税的通胀问题上犯了错误。</description>
-      <pubDate>Wed, 30 Jul 2025 14:59:37 +0000</pubDate>
+      <description>美国财长贝森特：预计美联储今天不会降息。</description>
+      <pubDate>Wed, 30 Jul 2025 14:59:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，特朗普表示美联储必须降息。第二季度GDP刚刚公布，比预期好得多。</description>
       <pubDate>Wed, 30 Jul 2025 12:40:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Midl获240万美元种子轮融资，由Draper Associates和Draper Dragon领投</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Decrypt报道，比特币基础设施项目Midl完成240万美元种子轮融资，由Draper Associates和Draper Dragon领投。该项目致力于在比特币网络上实现智能合约功能，支持去中心化应用的原生开发。</description>
-      <pubDate>Wed, 30 Jul 2025 12:35:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美国第二季度实际GDP年化季率初值3%，预期2.4%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，美国第二季度实际GDP年化季率初值 3%，预期2.4%，前值-0.50%。</description>
-      <pubDate>Wed, 30 Jul 2025 12:33:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美国第二季度核心PCE物价指数年化季率初值 2.5%，预期2.3%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，美国第二季度核心PCE物价指数年化季率初值 2.5%，预期2.3%，前值3.50%。</description>
-      <pubDate>Wed, 30 Jul 2025 12:31:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
