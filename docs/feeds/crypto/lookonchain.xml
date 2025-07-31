@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Jul 2025 01:01:38 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 01:01:38 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 03:07:55 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 03:07:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Analyst: US SEC Releases New Standards for Cryptocurrency ETFs, Coinbase Futures-Linked Asset Poised to Be First Approved</title>
-      <link>https://www.lookonchain.com/feeds/22560</link>
-      <description>On July 31st, Bloomberg ETF Senior Analyst Eric Balchunas stated on social media that the U.S. Securities and Exchange Commission (SEC) has presented a new trading platform filing for cryptocurrency ETPs, outlining the &quot;listing standard.&quot;The main points are: any token listed on the Coinbase derivatives trading platform and having futures trading in progress for more than 6 months is likely to obtain approval. Currently, there are approximately a dozen mainstream coins that meet this standard, similar to those with a predicted probability of over 85% previously. The only remaining aspect is the timing, and these ETFs may potentially receive approval in a concentrated manner between September and October of this year.For altcoins or meme coins (such as BONK, TRUMP) that have not yet launched futures and are to be ETF-ized, they will need to rely on the path of the &quot;Investment Company Act of 1940&quot; and adopt a different product structure. However, based on historical experience, regula</description>
-      <pubDate>Thu, 31 Jul 2025 00:56:46 +0000</pubDate>
+      <title>The Bank of Japan Keeps Interest Rate Unchanged, in Line with Market Expectations</title>
+      <link>https://www.lookonchain.com/feeds/22578</link>
+      <description>On July 31st, the Bank of Japan maintained its benchmark interest rate at 0.5%, having remained unchanged for four consecutive meetings, which was in line with market expectations. (Xinhua)</description>
+      <pubDate>Thu, 31 Jul 2025 03:01:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22560</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22578</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +31,12 @@
 
     </item>
     <item>
-      <title>A Whale/Institution Accumulates 5774 MKR, Approximately $11.84 Million</title>
-      <link>https://www.lookonchain.com/feeds/22559</link>
-      <description>On July 31, according to ChainNews, a whale or institution has been continuously amassing 5774 MKR (approximately $11.84 million) through FalconX over the past 13 days. The average price is $2051.</description>
-      <pubDate>Thu, 31 Jul 2025 00:56:46 +0000</pubDate>
+      <title>A certain whale address has withdrawn a total of 113,000 ETH from FalconX over the past 6 days.</title>
+      <link>https://www.lookonchain.com/feeds/22576</link>
+      <description>On July 31, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale address has withdrawn a cumulative total of 113028.97 ETH from FalconX within the past 6 days. The value of these withdrawals is $424 million. The average transfer price was $3752, and the current unrealized profit amounts to $12.044 million.</description>
+      <pubDate>Thu, 31 Jul 2025 02:57:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22559</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22576</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -45,17 +45,35 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>AguilaTrades has been liquidated 4 times in a row, losing $1.93 million</title>
-      <link>https://www.lookonchain.com/feeds/22558</link>
-      <description>On July 31st, as per the monitoring of Onchain Lens, trader AguilaTrades suffered consecutive liquidations for 4 times. However, they subsequently slightly augmented their Bitcoin position. As of now, in this trade, AguilaTrades has incurred approximately $1.93 million in losses. The total cumulative loss has exceeded $38.7 million.</description>
-      <pubDate>Thu, 31 Jul 2025 00:56:46 +0000</pubDate>
+      <title>Binance will support the Injective (INJ) network upgrade and hard fork</title>
+      <link>https://www.lookonchain.com/feeds/22577</link>
+      <description>July 31st. According to an official announcement, Binance is anticipated to halt the deposit and withdrawal of tokens for the Injective (INJ) Network on July 31, 2025, at 21:00 (UTC+8) in order to support its network upgrade and hard fork. This measure is designed to offer users a better experience. The project team will carry out the network upgrade and hard fork at block height 127,250,000 (estimated to be at 22:00 on July 31, 2025, UTC+8).</description>
+      <pubDate>Thu, 31 Jul 2025 02:57:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22558</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22577</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Base Layer AI Token BNKR Surpasses $85 Million Market Cap, Reaching an All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/22575</link>
+      <description>On July 31st, according to GMGN data, the Base Layer AI token BankrCoin (BNKR) has exceeded a market capitalization of $85 million. It is currently at $85.24 million, reaching an all-time high, with a 24-hour growth rate of 41.3%.</description>
+      <pubDate>Thu, 31 Jul 2025 02:33:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22575</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -68,12 +86,12 @@
 
     </item>
     <item>
-      <title>If Bitcoin surpasses $120,000, the mainstream CEX cumulative short liquidation strength will reach 475 million.</title>
-      <link>https://www.lookonchain.com/feeds/22557</link>
-      <description>On July 31st, according to Coinglass data, if Bitcoin exceeds $120,000, the cumulative short liquidation intensity on mainstream CEXs will amount to $475 million.Conversely, if Bitcoin falls below $116,000, the cumulative long liquidation intensity on mainstream CEXs will reach $86.25 million.BlockBeats Note: The liquidation chart does not display the precise number of contracts to be liquidated or the exact value of contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows the extent to which reaching a certain price level will be influenced. A higher &quot;liquidation bar&quot; indicates that the price reaching that level will trigger a stronger reaction due to a liquidity cascade.</description>
-      <pubDate>Thu, 31 Jul 2025 00:40:46 +0000</pubDate>
+      <title>The Cryptofinance Company&apos;s cumulative market value has surged to $160 billion</title>
+      <link>https://www.lookonchain.com/feeds/22574</link>
+      <description>On July 31st, as reported by The Block, as of the present time, the cumulative market value of publicly traded companies that hold cryptocurrency has reached $160 billion. This is a notable increase from approximately $90 billion in early 2024, indicating a new trend where investors are obtaining crypto exposure through equities.This six-month growth reflects a general shift in corporate treasury management strategies. An increasing number of companies are regarding digital assets as legitimate assets on their balance sheets. As the market adjusts to this emerging trend, many companies have witnessed a substantial double-digit increase in their stock prices after announcing their crypto asset allocations.</description>
+      <pubDate>Thu, 31 Jul 2025 02:24:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22557</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22574</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -82,18 +100,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>A Whale/Institutional Investor has increased their holdings by 32,855 ETH, equivalent to approximately $124.07 million.</title>
-      <link>https://www.lookonchain.com/feeds/22556</link>
-      <description>On July 31st, as monitored by Onchain Lens, a whale or institution has once more received 32,855 Ethereum (ETH) from FalconX. This amount is approximately worth $124.07 million.The wallet address currently holds a total of 113,029 Ethereum, which is approximately worth $430.38 million.</description>
-      <pubDate>Thu, 31 Jul 2025 00:40:46 +0000</pubDate>
+      <title>A Swing Whale Sells All ETH, Profits $1.62 Million</title>
+      <link>https://www.lookonchain.com/feeds/22572</link>
+      <description>On July 31st, as per on-chain analyst Ai Auntie (@ai_9684xtpa), a particular swing trader liquidated their ETH holdings on June 25th. These holdings were purchased at an average price of $2451.6. The sell order was carried out at an average price of $3268.19, thereby achieving a profit of $1.62 million in this swing trade.</description>
+      <pubDate>Thu, 31 Jul 2025 02:17:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22556</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22572</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -106,52 +122,16 @@
       <category>ethereum</category>
       <category>whale</category>
       <category>high-value</category>
+      <category>profit</category>
 
     </item>
     <item>
-      <title>LookOnChain: Bitcoin Surges Above $118,000</title>
-      <link>https://www.lookonchain.com/feeds/22555</link>
-      <description>On July 31st, based on HTX market data, Bitcoin experienced a rebound and surpassed $11,800. It is currently trading at $118,063, with a 24-hour percentage change of 0.22%.</description>
-      <pubDate>Thu, 31 Jul 2025 00:32:46 +0000</pubDate>
+      <title>American singer George Jones&apos;s widow targeted in theft plot by ex-boyfriend, loses 17 million XRP</title>
+      <link>https://www.lookonchain.com/feeds/22571</link>
+      <description>On July 31st, according to FinanceFeeds, Nancy Jones, the widow of the American country music legend George Jones, became a victim of a scam masterminded by her ex-boyfriend Kirk West, losing XRP worth $17 million.West was arrested in July 2025. It is reported that he took advantage of his access to Nancy Jones&apos;s assets to steal cash and a hardware wallet. Court documents indicate that on June 26, 2025, West stole more than $400,000 in cash and a Ledger hardware wallet containing over 5.5 million XRP tokens from two safes in Nancy Jones&apos;s Franklin residence.Kirk West, 58 years old, met Nancy Jones shortly after George Jones&apos;s death in 2013. He pretended to be wealthy and quickly got into a romantic relationship with Nancy, moving into her residence. Court documents reveal that West had a history of financial deception. He was convicted of bank fraud in 2016, and at that time, Nancy covered his debts. West pretended to be very knowledgeable about cryptocurrency and persuaded</description>
+      <pubDate>Thu, 31 Jul 2025 02:17:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22555</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Cboe BZX and Arca Submit New Listing Standards Proposal to the US SEC to Streamline Cryptocurrency ETF Approval Process</title>
-      <link>https://www.lookonchain.com/feeds/22554</link>
-      <description>On July 31st, as reported by The Block, both the Cboe BZX Exchange and Arca have put forward listing standards for a cryptocurrency ETF with the intention of accelerating the approval process for its public trading.In a filing submitted to the U.S. Securities and Exchange Commission (SEC) on Wednesday, Cboe BZX requested the SEC to make an amendment to a rule so as to &quot;enable commodity-based trust shares that meet the requirements of the proposed Rule 14.11(e)(4) to be listed and traded in a generic manner.&quot; This particular rule pertains to the trading and listing of commodity-based trust shares and stipulates specific requirements for the listing of certain shares on trading platforms.</description>
-      <pubDate>Thu, 31 Jul 2025 00:16:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22554</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Robinhood Q2 Crypto Business Revenue Reaches $160 Million, Slightly Below Expectations</title>
-      <link>https://www.lookonchain.com/feeds/22551</link>
-      <description>On July 31st, according to Bloomberg, Robinhood Markets Inc. announced that its second-quarter revenue had exceeded the expectations of Wall Street, and this was due to the strong growth of its cryptocurrency trading business.In a press release on Wednesday, the company stated that the total net revenue for the quarter had increased by 45% year-on-year to $989 million, surpassing the average expectation of $9.215 billion surveyed by Bloomberg&apos;s analysts. The net profit also exceeded expectations, more than doubling to reach $386 million.The revenue related to cryptocurrency had increased by 98% to $160 million, which was slightly lower than the goal of achieving triple-digit growth for the sixth consecutive quarter. Analysts had previously expected the cryptocurrency revenue to be $162.1 million.In June of this year, Robinhood quickly attracted the attention of regulators in Europe after offering &quot;tokenized&quot; stocks to 150,000 customers in 30 countries, representing the company&apos;s</description>
-      <pubDate>Thu, 31 Jul 2025 00:00:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22551</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22571</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -164,12 +144,12 @@
 
     </item>
     <item>
-      <title>The White House Proposes Legislation to Require U.S. Taxpayers to Report and Pay Taxes on Overseas Cryptocurrency Accounts</title>
-      <link>https://www.lookonchain.com/feeds/22553</link>
-      <description>On July 31st, as per Decrypt&apos;s report, on Wednesday in local time, the White House put forward to Congress the consideration of legislation that demands U.S. taxpayers to report their &quot;overseas digital asset accounts.&quot; The Trump administration indicated that this action would assist in preventing Americans from transferring cryptocurrency assets abroad.The policy proposal stated that this policy transformation would &quot;facilitate the development and utilization of digital assets in the United States and alleviate the concerns from the external world that the absence of reporting mechanisms could place the United States or U.S. digital asset trading platforms at a disadvantage.&quot;This proposal is one of several proposals within a 168-page crypto report released by the Digital Asset Market Working Group on Wednesday. The working group is headed by White House Director of Crypto and Artificial Intelligence David Sacks.</description>
-      <pubDate>Thu, 31 Jul 2025 00:00:46 +0000</pubDate>
+      <title>Both co-founders of Samourai Wallet face up to 5 years in prison</title>
+      <link>https://www.lookonchain.com/feeds/22573</link>
+      <description>On July 31st, as per Decrypt&apos;s report, Keonne Rodriguez and William Lonergan Hill, the two co-founders of the cryptocurrency mixing service Samourai Wallet, admitted on Wednesday that they had conspired to operate an unlicensed money transmitting business and were facing a maximum prison term of 5 years.As part of a plea agreement, the U.S. Department of Justice agreed to drop more serious money laundering charges. According to the DOJ&apos;s sentencing guidelines, these charges could have carried a maximum sentence of 20 years in prison. The charge of operating an illegal money transmitting business has a maximum sentence of 5 years in prison.Both individuals initially pleaded not guilty to the charges, but court documents indicate that they have since changed their pleas to guilty.</description>
+      <pubDate>Thu, 31 Jul 2025 02:17:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22553</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22573</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -181,12 +161,12 @@
 
     </item>
     <item>
-      <title>The White House Releases Digital Asset Report, Bitcoin Reserve Plan Without Substantial Update</title>
-      <link>https://www.lookonchain.com/feeds/22552</link>
-      <description>On July 31st, the White House made public the long-anticipated digital assets report. This report sketched out a national strategy intended to position the United States as a global leader in the blockchain, cryptocurrency market, and tokenized finance sectors. Although the report encompassed a broad range of digital asset policy areas, it did not offer a substantial update on the government&apos;s plans regarding a Bitcoin reserve as part of the strategy. Instead, it merely restated the language from President Trump&apos;s executive order in January and did not list specific follow-up steps or an implementation timeline.The release of this report originated from an executive order signed by President Trump in January. This order established an interagency working group on digital assets and other emerging technologies like artificial intelligence. This 166-page document was jointly written by White House Crypto and AI Czar David Sacks and Chief of Staff Bo Hines. It consolidated input from th</description>
-      <pubDate>Thu, 31 Jul 2025 00:00:46 +0000</pubDate>
+      <title>Justin Sun will take a Blue Origin spaceship to complete a space flight on August 3rd.</title>
+      <link>https://www.lookonchain.com/feeds/22570</link>
+      <description>On July 31st, Justin Sun, the founder of Tron, announced on the X Platform that he has confirmed his spaceflight on Blue Origin&apos;s New Shepard, which is scheduled for August 3, 2025. He is set to become the youngest Chinese astronaut in history.In 2021, Justin Sun successfully bid $28 million for a seat on the first crewed flight of New Shepard and donated all the proceeds to Blue Origin&apos;s &quot;Club for the Future&quot; to support STEM education for young people worldwide.</description>
+      <pubDate>Thu, 31 Jul 2025 02:07:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22552</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22570</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -195,8 +175,23 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Tornado Cash Co-founder Lawsuit Enters Jury Deliberation Phase, Could Redefine Developer Legal Liability</title>
+      <link>https://www.lookonchain.com/feeds/22569</link>
+      <description>On July 31st, as reported by Cointelegraph, following the completion of the prosecution and defense&apos;s closing arguments on Wednesday, the jury will determine the outcome for Roman Storm, the co-founder of the cryptocurrency mixing service Tornado Cash.Closing arguments represent the final stage of a trial. During this stage, both parties summarize the case in front of a judge or jury, present their stances, and make a final attempt to persuade the decision-maker to rule in their favor.Storm is currently on trial in the federal court of the Southern District of New York. This case has the potential to set a legal precedent regarding the extent of responsibility that developers should bear when their created decentralized software is used illegally.The U.S. prosecution has accused Storm of conspiracy to launder money, violating U.S. sanctions, and operating an unlicensed money transmitting business. If convicted, he could face a maximum prison term of 40 years. The judge has provid</description>
+      <pubDate>Thu, 31 Jul 2025 02:07:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22569</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
   </channel>
