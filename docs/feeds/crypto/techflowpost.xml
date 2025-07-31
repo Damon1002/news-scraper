@@ -5,14 +5,69 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Jul 2025 09:56:24 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 09:56:24 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 10:28:23 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 10:28:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Circle首席执行官：稳定币监管框架确立后将开启新商业机遇</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据彭博社报道，Circle首席执行官杰里米·阿莱尔（Jeremy Allaire）在彭博社专访中表示，随着美国国会通过GENIUS法案，为稳定币业务建立了明确的监管框架，这一领域已成为加密货币市场最具活力的板块。作为全球第二大稳定币USDC的发行方，Circle将探索区块链支付系统在传统金融机构中...</description>
+      <pubDate>Thu, 31 Jul 2025 10:23:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>欧元稳定币EURAU发行，DWS集团等机构提供支持</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据彭博社报道，德意志银行旗下DWS集团、荷兰市场做市商Flow Traders及金融服务提供商Galaxy Digital共同支持的公司AllUnity于7月31日宣布，推出欧元稳定币EURAU。该稳定币在以太坊区块链上发行，由多家欧洲银行的储备金提供完全抵押，符合欧盟加密资产监管框架。Bulli...</description>
+      <pubDate>Thu, 31 Jul 2025 10:20:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>国泰君安国际发行首笔中资券商公募数字原生债券</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，国泰君安国际（1788.HK）于近日成功发行首笔中资券商公募数字原生债券。该债券以美元计价，发行规模不超过3亿美元，期限为3年。本次发行采用直接发行结构，并通过汇丰银行的&quot;Orion&quot;数字资产平台完成。国泰君安国际在本次发行中同时担任牵头全球协调人和结算交割行。该数字债券基于区块链技术...</description>
+      <pubDate>Thu, 31 Jul 2025 10:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Bitget 推出第 27 期链上交易竞赛，交易解锁 20,000 枚 BGB</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Bitget 第 27 期链上交易竞赛即将开启。活动期间，用户交易 CHILLHOUSE、Froggie、USELESS 代币，链上累计交易额达前 965 名的用户可获得 20 至 100 枚 不等的 BGB 空投奖励，总奖池 20,000 枚 BGB。活动时间为 7 月 31 日 19:00:0...</description>
+      <pubDate>Thu, 31 Jul 2025 10:12:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>BiyaPay 分析师：美股上市公司 MCVT 豪掷 4.5 亿美元布局 SUI，股价 3 天涨 4 倍</title>
+      <link>https://www.techflowpost.com</link>
+      <description>美股上市公司 Mill City Ventures III（MCVT）宣布启动4.5亿美元私募融资，用于构建以SUI为核心的财务储备结构，标志其正式迈入加密资产时代。该轮融资由对冲基金 Karatage 领投，Sui 基金会等机构同步跟投，并将SUI作为其主要财库资产。受消息推动，MCVT股价三日...</description>
+      <pubDate>Thu, 31 Jul 2025 10:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某巨鲸从永续合约市场转向现货，购入价值1284万美元ETH</title>
       <link>https://www.techflowpost.com</link>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>HTX Research重磅发布《稳定币新秩序：全球支付重构、制度确权与资本战争（上）》，系统分析稳定币如何从链上交易工具演进为全球金融基础设施，并正在重塑跨境支付、贸易结算和资本流动格局。报告指出，2024年稳定币链上交易总量已达15.6万亿美元，正逐步替代SWIFT等传统高成本结算体系，成为发...</description>
       <pubDate>Thu, 31 Jul 2025 08:01:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>SharpLink Gaming 今日再度购入 11,259 枚以太坊，累计持仓达 44.9 万枚</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师余烬（@EmberCN）监测，美股上市公司 SharpLink Gaming 约 10 小时前通过 Galaxy Digital 以约 3,827 美元/枚的价格购入 11,259 枚以太坊，交易总额约 4,309 万美元。数据显示，SharpLink Gaming 自今年 6 月初开...</description>
-      <pubDate>Thu, 31 Jul 2025 07:58:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>现货黄金日内涨幅扩大至1.00%，现报3307.74美元/盎司</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，现货黄金日内涨幅扩大至1.00%，现报3307.74美元/盎司。</description>
-      <pubDate>Thu, 31 Jul 2025 07:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>加拿大上市公司 xTAO 宣布持有价值 1,580 万美元的 TAO ，为最大上市公司持有者</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 The Block 报道，专注于 Bittensor 的上市公司 xTAO 宣布其持有 41,538 枚 TAO 代币，按当前价格计算价值约 1,580 万美元，成为公开交易公司中最大的 TAO 持有者。该公司由加密货币交易所 WonderFi 创始人 Karia Samaroo 领导。xTA...</description>
-      <pubDate>Thu, 31 Jul 2025 07:44:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>韩国推出仅面向外国游客的 USDT 提现 ATM</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Decrypt 报道，韩国区块链公司 DaWinKS 与 Kaia DLT 基金会合作推出支持 USDT 提现的加密货币自动取款机，目前仅面向持有外国护照的游客开放使用。这些自动取款机部署在韩国主要旅游景点，支持将 Kaia 链上发行的 USDT（基于 Klaytn 和 Finschia 合并...</description>
-      <pubDate>Thu, 31 Jul 2025 07:35:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Camp Network 将向 Hardcore Yapper 排行榜前 20 名用户分配 TrailHeads 二期白名单</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Camp Network 官方消息，该项目将向 Hardcore Yapper 排行榜前 20 名用户分配 TrailHeads NFT 第二阶段白名单资格（allowlist spot）。此外，排名 21-100 名的用户中将随机抽取 10 名获得白名单资格。</description>
-      <pubDate>Thu, 31 Jul 2025 07:24:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
