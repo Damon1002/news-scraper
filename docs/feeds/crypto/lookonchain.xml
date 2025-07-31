@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Jul 2025 04:11:58 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 04:11:58 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 04:56:44 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 04:56:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,67 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Analyst: SEC&apos;s New ETP Listing Standard Implies Approval of Numerous Crypto ETFs, Coinbase and CFTC Decision-Making Will Be Elevated</title>
-      <link>https://www.lookonchain.com/feeds/22584</link>
-      <description>On July 31, the U.S. Securities and Exchange Commission (SEC) Cryptocurrency ETP &quot;Listing Standard&quot; released a new trading platform filing today. The filing shows that any token listed on the Coinbase derivative trading platform and with continuous futures trading for more than 6 months is likely to obtain approval to become an ETF.Market analyst @qinbafrank stated that there are three key implications of this significant change:1. It indicates that a large number of cryptocurrency spot ETFs are about to be approved.2. Coinbase is the biggest beneficiary, and its launch of cryptocurrency futures will be in high demand from various projects.3. It shows that the SEC has pre-positioned the approval authority for cryptocurrency spot ETFs to the CFTC (Commodity Futures Trading Commission) as the primary regulatory agency responsible for determining which assets can have futures contracts.BlockBeats previously reported that on July 21, Coinbase announced the launch of U.S. Perpetual-S</description>
-      <pubDate>Thu, 31 Jul 2025 04:09:06 +0000</pubDate>
+      <title>《Content Coin: Hype, Hope, or the Creator Economy&apos;s Second Wind?》 Theme Space tonight at 9:00 PM in Launch</title>
+      <link>https://www.lookonchain.com/feeds/22589</link>
+      <description>In a recent report by BlockBeats, the rapidly increasing popularity of Zora has ignited a heated debate within the Solana and Base communities, once again shining a spotlight on Content Coins. On the evening of July 31 at 9:00 PM, BlockBeats collaborated with the emerging social protocol Trends and the in-depth podcast Web3 101 to jointly host a Space event with the theme &quot;Content Coin: Hype, Hope, or the Second Spring of the Creator Economy?&quot;.The event featured a panel of veteran industry content creators: Mable, the founder of Trends; Edison, the founder of Tako Protocol; Liu Feng, a partner at BODL Ventures; Wang Chao, a crypto and AI researcher; and Carl, the head of business at NAVI Protocol. Together, they discussed the new trends in the creator economy behind the Solana and Base dispute, analyzing the potential and challenges of Content Coins. Join us for this discussion and explore the next opportunities in the Web3 content ecosystem.Space: https://x.com/i/spaces/1vA</description>
+      <pubDate>Thu, 31 Jul 2025 04:55:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22584</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22589</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The Whale Address Reinvests $3.16M to Buy 1.06B PUMP Tokens</title>
+      <link>https://www.lookonchain.com/feeds/22588</link>
+      <description>On July 31, according to the monitoring of LookOnChain, the whale address beginning with 8RwxXR, which had previously lost $125,000 on PUMP, spent another 17,542 SOL tokens (approximately $3.16 million) two hours ago to acquire 1.06 billion PUMP tokens at an average price of $0.00297.</description>
+      <pubDate>Thu, 31 Jul 2025 04:40:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22588</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「Big Brother Whale」 Huang Lizheng Just Liquated His 5x Long PUMP Position, Realizing a Loss of $4.47 Million</title>
+      <link>https://www.lookonchain.com/feeds/22587</link>
+      <description>On July 31st, as per the monitoring of LookOnChain, although the price of PUMP is on the rise, &quot;Brother Ma Ji&quot; Huang Licheng is currently liquidating his long PUMP position at a loss.His current long PUMP (5x) position still holds 4.175 billion PUMP (approximately $13.3 million), with an unrealized loss of $4.47 million.</description>
+      <pubDate>Thu, 31 Jul 2025 04:32:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22587</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Hong Kong&apos;s &quot;Stablecoin Regulation&quot;: Issuers must implement controls to prevent users from using VPN during identity verification</title>
+      <link>https://www.lookonchain.com/feeds/22586</link>
+      <description>On July 31, the Hong Kong Monetary Authority (HKMA) stated in its published Licensed Stablecoin Issuer Regulation Guide &quot;Stablecoin Code&quot; that it demands licensed stablecoin issuers to &quot;make sure that they do not issue or provide a designated stablecoin in jurisdictions where such transactions are prohibited.&quot; Additionally, it emphasizes that &quot;licensees should put in place control measures to reduce the risk of location masking during the remote customer identification process and in daily operations (for example, the use of a virtual private network, that is, VPN).&quot;</description>
+      <pubDate>Thu, 31 Jul 2025 04:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22586</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,9 +89,26 @@
       <title>Binance Alpha will launch OLAXBT (AIO) on August 2nd.</title>
       <link>https://www.lookonchain.com/feeds/22585</link>
       <description>On July 31st, as per official information, Binance Alpha is set to list OLAXBT (AIO) on August 2nd. Once the Alpha trading commences, eligible users can access the Alpha event page and claim an airdrop by using Binance Alpha Points. Further details will be disclosed at a later time.</description>
-      <pubDate>Thu, 31 Jul 2025 04:09:06 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 04:08:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22585</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Analyst: SEC&apos;s New ETP Listing Standard Implies Approval of Numerous Crypto ETFs, Coinbase and CFTC Decision-Making Will Be Elevated</title>
+      <link>https://www.lookonchain.com/feeds/22584</link>
+      <description>On July 31, the U.S. Securities and Exchange Commission (SEC) Cryptocurrency ETP &quot;Listing Standard&quot; released a new trading platform filing today. The filing shows that any token listed on the Coinbase derivative trading platform and with continuous futures trading for more than 6 months is likely to obtain approval to become an ETF.Market analyst @qinbafrank stated that there are three key implications of this significant change:1. It indicates that a large number of cryptocurrency spot ETFs are about to be approved.2. Coinbase is the biggest beneficiary, and its launch of cryptocurrency futures will be in high demand from various projects.3. It shows that the SEC has pre-positioned the approval authority for cryptocurrency spot ETFs to the CFTC (Commodity Futures Trading Commission) as the primary regulatory agency responsible for determining which assets can have futures contracts.BlockBeats previously reported that on July 21, Coinbase announced the launch of U.S. Perpetual-S</description>
+      <pubDate>Thu, 31 Jul 2025 04:08:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22584</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +123,7 @@
       <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $5.8 million</title>
       <link>https://www.lookonchain.com/feeds/22583</link>
       <description>On July 31, according to the monitoring of Farside Investors, it was observed that there was a net inflow of $5.8 million in the US Ethereum spot ETF yesterday. This includes:BlackRock ETHA: +$20.3 millionFidelity FETH: -$22.3 millionGrayscale ETHE: +$7.8 million</description>
-      <pubDate>Thu, 31 Jul 2025 03:58:06 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 03:57:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22583</guid>
       <category>crypto</category>
@@ -71,7 +143,7 @@
       <title>Yesterday the US Bitcoin Spot ETF saw a net inflow of $47.1 million</title>
       <link>https://www.lookonchain.com/feeds/22582</link>
       <description>On July 31st, as monitored by Farside Investors, the net inflow into the US Bitcoin spot ETF yesterday was $47.1 million. This included:- BlackRock IBIT: +$34.4 million- Bitwise BITB: +$12.7 million- For others: there was $0 inflow or outflow.</description>
-      <pubDate>Thu, 31 Jul 2025 03:56:06 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 03:56:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22582</guid>
       <category>crypto</category>
@@ -91,7 +163,7 @@
       <title>US Stock Ethereum Reserve Concept Stock Continues to Rise in After-Hours Trading, SBET and BMNR Surge Over 4%</title>
       <link>https://www.lookonchain.com/feeds/22581</link>
       <description>On July 31st, based on the market data from rockflow, the US Ethereum reserve concept stocks witnessed a continuous increase in the after-hours trading session. The details are as follows:Sharplink (SBET) increased by 4.29% to $20.4.Bitmine (BMNR) rose by 4% to $35.78.GameSquare (GAME.US) went up by 1.16% to $0.96.Bit Digital (BTBT.US) rose by 1.06% to $2.87.</description>
-      <pubDate>Thu, 31 Jul 2025 03:33:06 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 03:55:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22581</guid>
       <category>crypto</category>
@@ -110,84 +182,9 @@
       <title>Crypto Fear &amp; Greed Index currently at 72, market still in &quot;Greed&quot; mode</title>
       <link>https://www.lookonchain.com/feeds/22580</link>
       <description>On July 31st, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 72 (yesterday it was 74), and the &quot;greed&quot; sentiment in the market has slightly decreased.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and consists of the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Thu, 31 Jul 2025 03:17:06 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 02:55:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22580</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A certain day trading whale address has started selling ETH to take profit, selling 1000 ETH in the past half hour.</title>
-      <link>https://www.lookonchain.com/feeds/22579</link>
-      <description>On July 31st, according to on-chain analyst Ai Yi (@ai_9684xtpa), a particular whale address was engaged in arbitrage recently. In the past half an hour, it dumped 1000 ETH at a price of $3853 and made a profit of $56,000. Additionally, it placed a limit sell order of 1000 ETH at $3878 on Cowswap. If this sell order is executed, it will make an extra profit of $81,000.</description>
-      <pubDate>Thu, 31 Jul 2025 03:16:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22579</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>A certain whale address has withdrawn a total of 113,000 ETH from FalconX over the past 6 days.</title>
-      <link>https://www.lookonchain.com/feeds/22576</link>
-      <description>On July 31, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale address has withdrawn a cumulative total of 113028.97 ETH from FalconX within the past 6 days. The value of these withdrawals is $424 million. The average transfer price was $3752, and the current unrealized profit amounts to $12.044 million.</description>
-      <pubDate>Thu, 31 Jul 2025 03:11:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22576</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>The Bank of Japan Keeps Interest Rate Unchanged, in Line with Market Expectations</title>
-      <link>https://www.lookonchain.com/feeds/22578</link>
-      <description>On July 31st, the Bank of Japan maintained its benchmark interest rate at 0.5%, having remained unchanged for four consecutive meetings, which was in line with market expectations. (Xinhua)</description>
-      <pubDate>Thu, 31 Jul 2025 03:11:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22578</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance will support the Injective (INJ) network upgrade and hard fork</title>
-      <link>https://www.lookonchain.com/feeds/22577</link>
-      <description>July 31st. According to an official announcement, Binance is anticipated to halt the deposit and withdrawal of tokens for the Injective (INJ) Network on July 31, 2025, at 21:00 (UTC+8) in order to support its network upgrade and hard fork. This measure is designed to offer users a better experience. The project team will carry out the network upgrade and hard fork at block height 127,250,000 (estimated to be at 22:00 on July 31, 2025, UTC+8).</description>
-      <pubDate>Thu, 31 Jul 2025 03:11:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22577</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
