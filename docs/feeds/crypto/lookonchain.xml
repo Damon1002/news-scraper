@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Jul 2025 06:31:48 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 06:31:48 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Jul 2025 07:00:30 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Jul 2025 07:00:30 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,104 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>5 wallets from the Satoshi era were activated after 15.3 years of dormancy, consolidating 250 BTC to 2 new addresses</title>
+      <link>https://www.lookonchain.com/feeds/22601</link>
+      <description>On July 31st, as monitored by OnchainLens, 5 wallet addresses from the Satoshi era (which are likely owned by the same entity) that had been inactive for 15.3 years consolidated 250 BTC with a value of $29.64 million into 2 new addresses.Addresses:- bc1qng4nps9ye7e5pfnd9hy687fygjgr3pq5xhsu4a- bc1q6n53469l6evqs05apy49pm7r0df0rxhv8cxndj</description>
+      <pubDate>Thu, 31 Jul 2025 06:56:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22601</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Analysis: Bitcoin Poised to Hit $125,000 Based on Short-Term Holder Cost Basis</title>
+      <link>https://www.lookonchain.com/feeds/22600</link>
+      <description>On July 31st, the crypto analyst @ali_charts presented a chart analysis indicating that as long as Bitcoin&apos;s support level of $105,450 is maintained. According to the short-term holder cost basis, it is anticipated to keep rising to $125,230, and there is even a possibility of reaching $141,770.</description>
+      <pubDate>Thu, 31 Jul 2025 06:48:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22600</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will list PlaysOut (PLAY) with an airdrop threshold of 200 points</title>
+      <link>https://www.lookonchain.com/feeds/22599</link>
+      <description>July 31st. Binance Alpha is set to launch PlaysOut (PLAY). Users possessing at least 200 Alpha points will be eligible to receive an airdrop of 1600 PLAY tokens. In case the rewards are not completely distributed, the points threshold will automatically decrease by 15 points every hour. The act of claiming the airdrop will consume 15 Alpha points.Binance Alpha exchange platform will list PlaysOut (PLAY) on July 31, 2025, at 16:00 (UTC+8). Binance Futures platform will list PlaysOut (PLAY) on July 31, 2025, at 17:30 (UTC+8).</description>
+      <pubDate>Thu, 31 Jul 2025 06:40:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22599</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Swedish publicly listed company Fragbite Group increases its holdings by 2.7 BTC, bringing the total holding to 7 BTC.</title>
+      <link>https://www.lookonchain.com/feeds/22598</link>
+      <description>On July 31st, as per NLNico&apos;s monitoring, the Swedish-listed company Fragbite Group augmented its holdings of BTC by 2.7 coins, resulting in a total holding of 7 coins.</description>
+      <pubDate>Thu, 31 Jul 2025 06:40:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22598</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>An address containing 50 BTC has just been activated after 15.3 years of dormancy</title>
+      <link>https://www.lookonchain.com/feeds/22597</link>
+      <description>On July 31st, as monitored by Whale Alert, an address holding 50 BTC (approximately $5.91 million) has just been activated following 15.3 years of being dormant.</description>
+      <pubDate>Thu, 31 Jul 2025 06:33:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22597</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Analyst: Over the past year, BTC whales have locked in significant profits, but strong demand from new entrants has supported the market&apos;s continued growth</title>
       <link>https://www.lookonchain.com/feeds/22596</link>
       <description>On July 31st, CryptoQuant analyst Axel released data on social media, stating that over the past year, large holders have locked in substantial profits. Whale addresses holding more than 1000 bitcoins have seen a decrease of 502,000 bitcoins. Meanwhile, institutional investor demand has played a supporting role in market resilience and continued growth. In essence, over the past year, we have constantly witnessed strong demand for tokens from newly entered funds.</description>
-      <pubDate>Thu, 31 Jul 2025 06:16:56 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 06:16:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22596</guid>
       <category>crypto</category>
@@ -38,7 +132,7 @@
       <title>Fosun-backed Finloop Completes Multi-Million Dollar Series A Funding Round with Participation from Solana Foundation</title>
       <link>https://www.lookonchain.com/feeds/22595</link>
       <description>On July 31st, according to Finloop, a technology firm under Fosun&apos;s Star Road Technology. It has recently completed a nearly multimillion-dollar Series A financing round. The investors include the Solana Foundation and other Web3 industry organizations.This round of financing will be utilized to swiftly build and enhance the company&apos;s Web5 new business ecosystem - RWA (Real World Assets). It will also enhance its comprehensive ability to integrate fiat currency, stablecoins, and digital assets. Furthermore, it will provide financial institutions with a one-stop technology solution that connects the traditional financial and digital asset worlds.According to the introduction, the strategic concept of Star Road Technology is based on Web5. Its business model mainly supports B2B service platforms for all types of financial products. It achieves this by supporting full-category products from Web2 (such as cash management, public funds, private funds, bonds, bills, insurance, etc.) and</description>
-      <pubDate>Thu, 31 Jul 2025 06:00:56 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 06:00:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22595</guid>
       <category>crypto</category>
@@ -53,12 +147,12 @@
 
     </item>
     <item>
-      <title>Letsbonk.fun Founder: Will Focus on Technical Improvements Before Entering the Next Growth Stage</title>
-      <link>https://www.lookonchain.com/feeds/22594</link>
-      <description>On July 31st, Tom, the founder of Letsbonk.fun, posted on Platform X. He stated that the anticipated release time of a key update that users had been eagerly awaiting had been postponed. He cited issues that had been encountered and various interferences. Currently, the team has made considerable progress and will give priority to ensuring that the technical aspects meet the standards before moving on to the next growth phase.</description>
-      <pubDate>Thu, 31 Jul 2025 05:56:56 +0000</pubDate>
+      <title>Security Company Check Point: Beware of JSCEAL Malware Activity Targeting Cryptocurrency Users</title>
+      <link>https://www.lookonchain.com/feeds/22593</link>
+      <description>July 31st. Check Point, a security company, announced that its researchers have recently uncovered a large-scale malicious campaign named JSCEAL. Attackers exploited the Node.js platform by using compiled JavaScript files to target cryptocurrency users. This campaign has been active since March 2024. Attackers have been luring users into downloading and installing malicious programs that pose as nearly 50 mainstream cryptocurrency trading apps through fake advertisements.In the first half of 2025, approximately 35,000 malicious ads were related to this campaign, and there were millions of impressions in the EU alone. The attack process is multi-layered with strong anti-detection capabilities. It is capable of stealing user credentials, wallets, and other sensitive information. It also has functions such as remote control, keylogging, and browser traffic hijacking. The research emphasized that this malicious program has a very low detection rate, and some variants have remained undete</description>
+      <pubDate>Thu, 31 Jul 2025 05:59:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22594</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22593</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -70,12 +164,12 @@
 
     </item>
     <item>
-      <title>Security Company Check Point: Beware of JSCEAL Malware Activity Targeting Cryptocurrency Users</title>
-      <link>https://www.lookonchain.com/feeds/22593</link>
-      <description>July 31st. Check Point, a security company, announced that its researchers have recently uncovered a large-scale malicious campaign named JSCEAL. Attackers exploited the Node.js platform by using compiled JavaScript files to target cryptocurrency users. This campaign has been active since March 2024. Attackers have been luring users into downloading and installing malicious programs that pose as nearly 50 mainstream cryptocurrency trading apps through fake advertisements.In the first half of 2025, approximately 35,000 malicious ads were related to this campaign, and there were millions of impressions in the EU alone. The attack process is multi-layered with strong anti-detection capabilities. It is capable of stealing user credentials, wallets, and other sensitive information. It also has functions such as remote control, keylogging, and browser traffic hijacking. The research emphasized that this malicious program has a very low detection rate, and some variants have remained undete</description>
-      <pubDate>Thu, 31 Jul 2025 05:48:56 +0000</pubDate>
+      <title>Letsbonk.fun Founder: Will Focus on Technical Improvements Before Entering the Next Growth Stage</title>
+      <link>https://www.lookonchain.com/feeds/22594</link>
+      <description>On July 31st, Tom, the founder of Letsbonk.fun, posted on Platform X. He stated that the anticipated release time of a key update that users had been eagerly awaiting had been postponed. He cited issues that had been encountered and various interferences. Currently, the team has made considerable progress and will give priority to ensuring that the technical aspects meet the standards before moving on to the next growth phase.</description>
+      <pubDate>Thu, 31 Jul 2025 05:59:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22593</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22594</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -90,7 +184,7 @@
       <title>The Whale Address Group Holding 10 to 10,000 BTC has accumulated an additional 218,500 BTC since the end of March.</title>
       <link>https://www.lookonchain.com/feeds/22592</link>
       <description>On July 31st, the crypto market analysis firm Santiment posted on social media that since the end of March, wallet addresses holding between 10 and 10,000 bitcoins have accumulated an extra 218,570 bitcoins. These key holder groups are currently in control of 68.44% of the total Bitcoin supply, and their holdings have increased by approximately 0.9% during this period.</description>
-      <pubDate>Thu, 31 Jul 2025 05:30:56 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 04:59:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22592</guid>
       <category>crypto</category>
@@ -104,99 +198,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>whale</category>
-
-    </item>
-    <item>
-      <title>BNKR-Associated Token TN100x Surpasses $5 Million Market Cap Briefly, with a 138% 24-Hour Gain</title>
-      <link>https://www.lookonchain.com/feeds/22591</link>
-      <description>On July 31st, according to GMGN market data, the market capitalization of the BNKR-related token TN100x briefly exceeded 5 million US dollars, with a 24-hour increase of 138% and a total of 22,077 holding addresses.BNKR and TN100x developers are both reported to be the deployer (@0xDeployer). BankrCoin (BNKR) was listed on Coinbase yesterday, with a 24-hour increase of 46.18% and the market capitalization briefly exceeding 90 million US dollars. The deployer also mentioned plans to share 40% of Bankr&apos;s revenue with TN100x stakers.</description>
-      <pubDate>Thu, 31 Jul 2025 05:30:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22591</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The Whale Address Reinvests $3.16M to Buy 1.06B PUMP Tokens</title>
-      <link>https://www.lookonchain.com/feeds/22588</link>
-      <description>On July 31, according to the monitoring of LookOnChain, the whale address beginning with 8RwxXR, which had previously lost $125,000 on PUMP, spent another 17,542 SOL tokens (approximately $3.16 million) two hours ago to acquire 1.06 billion PUMP tokens at an average price of $0.00297.</description>
-      <pubDate>Thu, 31 Jul 2025 04:30:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22588</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「Big Brother Whale」 Huang Lizheng Just Liquated His 5x Long PUMP Position, Realizing a Loss of $4.47 Million</title>
-      <link>https://www.lookonchain.com/feeds/22587</link>
-      <description>On July 31st, as per the monitoring of LookOnChain, although the price of PUMP is on the rise, &quot;Brother Ma Ji&quot; Huang Licheng is currently liquidating his long PUMP position at a loss.His current long PUMP (5x) position still holds 4.175 billion PUMP (approximately $13.3 million), with an unrealized loss of $4.47 million.</description>
-      <pubDate>Thu, 31 Jul 2025 04:30:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22587</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BlackRock&apos;s ETHA holds $11.32 billion worth of ETH, representing 2.46% of the ETH supply.</title>
-      <link>https://www.lookonchain.com/feeds/22590</link>
-      <description>On July 31st, based on Arkham data, BlackRock&apos;s Ethereum spot ETF ETHA has accumulated buy orders amounting to $375 million of ETH this week. Currently, ETHA holds $11.32 billion worth of ETH, accounting for 2.46% of the ETH supply.</description>
-      <pubDate>Thu, 31 Jul 2025 04:30:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22590</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>《Content Coin: Hype, Hope, or the Creator Economy&apos;s Second Wind?》 Theme Space tonight at 9:00 PM in Launch</title>
-      <link>https://www.lookonchain.com/feeds/22589</link>
-      <description>In a recent report by BlockBeats, the rapidly increasing popularity of Zora has ignited a heated debate within the Solana and Base communities, once again shining a spotlight on Content Coins. On the evening of July 31 at 9:00 PM, BlockBeats collaborated with the emerging social protocol Trends and the in-depth podcast Web3 101 to jointly host a Space event with the theme &quot;Content Coin: Hype, Hope, or the Second Spring of the Creator Economy?&quot;.The event featured a panel of veteran industry content creators: Mable, the founder of Trends; Edison, the founder of Tako Protocol; Liu Feng, a partner at BODL Ventures; Wang Chao, a crypto and AI researcher; and Carl, the head of business at NAVI Protocol. Together, they discussed the new trends in the creator economy behind the Solana and Base dispute, analyzing the potential and challenges of Content Coins. Join us for this discussion and explore the next opportunities in the Web3 content ecosystem.Space: https://x.com/i/spaces/1vA</description>
-      <pubDate>Thu, 31 Jul 2025 04:30:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22589</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
