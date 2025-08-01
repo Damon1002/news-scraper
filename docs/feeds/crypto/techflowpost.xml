@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 10:56:14 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Aug 2025 10:56:14 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 11:21:42 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 11:21:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Bitget 推出第 28 期链上交易竞赛，交易解锁 20,000 枚 BGB</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Bitget 第 28 期链上交易竞赛即将开启。活动期间，用户交易 TROLL、BSTR、BONKPUTER 代币，链上累计交易额达前 930 名的用户可获得 20 至 100 枚不等的 BGB 空投奖励，总奖池 20,000 枚 BGB。活动时间为 8 月 1 日 19:00:00 至 8 月 ...</description>
+      <pubDate>Fri, 01 Aug 2025 11:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>部分香港加密货币 OTC 线下门店因担心违反监管要求而暂时歇业</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Techub 报道，在香港稳定币条例正式实施的第一天，包括 One Satoshi 一宗在内的部分香港加密货币 OTC 线下门店因担心违反监管要求而暂时歇业。但也有部分 OTC 线下门店选择继续营业。部分选择继续营业的店铺经营者认为，在海外发行的非香港法定货币（例如 USDT）的 OTC 行为...</description>
+      <pubDate>Fri, 01 Aug 2025 10:58:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Lido：已修复 Lido CSM 相关漏洞，该漏洞未被利用</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Lido在X平台发布安全披露：已报告并修复与Lido CSM以及用于验证验证者提款的免许可验证者合约相关的漏洞。该漏洞未被利用，且没有任何CSM节点运营商受到影响。stETH持有者也未受到任何影响。作为修复措施的一部分，通过预言机缓解方案（禁用债券销毁功能）和DAO投票190号提案实施了漏洞修复。...</description>
+      <pubDate>Fri, 01 Aug 2025 10:56:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>三星证券上调Kakao Pay和NHN KCP目标价，看好韩元稳定币业务前景</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，数字身份验证平台 Billions 宣布已完成 3000 万美元融资，此轮融资由 Polychain、Coinbase Ventures、Polygon、LibertyCityVentures、BITKRAFT Ventures 等参投。本轮融资资金将用于构建第一个通用的人机和人工智能...</description>
       <pubDate>Fri, 01 Aug 2025 07:55:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安 Alpha 将在 8 月 3 日上线 MOMOFUN (MM)，符合条件的用户可申领空投</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Binance Alpha 将于 8 月 3 日上线 MOMOFUN (MM)。符合条件的用户可在交易开放后，使用币安 Alpha 积分在 Alpha 活动页面领取空投。更多详情即将公布。</description>
-      <pubDate>Fri, 01 Aug 2025 07:27:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>“麻吉大哥”黄立成的多头仓位浮亏扩大至 1190 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，Machi Big Brother 当前持有的以太坊、HYPE 和 PUMP 代币多头仓位总价值约 1.48 亿美元，其总浮亏已扩大至 1190 万美元。其中，PUMP 代币贡献最大亏损，浮亏达 682 万美元。</description>
-      <pubDate>Fri, 01 Aug 2025 07:14:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Metaplanet提交搁置注册声明拟发行最高5550亿日元永续优先股</title>
-      <link>https://www.techflowpost.com</link>
-      <description>日本上市公司Metaplanet首席执行官Simon Gerovich在X平台发文宣布，该公司已向监管机构提交搁置注册声明，拟发行最高5550亿日元永续优先股。（深潮 TechFlow 注：搁置注册是证券发行领域采用的特殊承销机制，其核心特征为允许发行人在获得注册批文后，根据市场需求分次择机发行证...</description>
-      <pubDate>Fri, 01 Aug 2025 07:11:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
