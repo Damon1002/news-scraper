@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 23:47:20 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Aug 2025 23:47:20 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 23:58:55 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 23:58:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>In the past 4 hours, there has been a total of $332 million in liquidations across the network, with long positions being the primary liquidated.</title>
       <link>https://www.lookonchain.com/feeds/22870</link>
       <description>On August 2nd, according to Coinglass data, within the past 4 hours, a total of $332 million has been liquidated across the network. Among them, $318 million is from long liquidations and $13.7068 million is from short liquidations.In the past 24 hours, the entire network has witnessed a liquidation of $1.059 billion. Long liquidations amount to $970 million, while short liquidations reach $89.1917 million. The largest single liquidation took place on Binance - ETHUSD_PERP, with a total of $13.7912 million.</description>
-      <pubDate>Fri, 01 Aug 2025 23:00:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 23:00:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22870</guid>
       <category>crypto</category>
@@ -32,30 +32,10 @@
 
     </item>
     <item>
-      <title>Ethereum Drops Below $3,450 in Short-Term Correction</title>
-      <link>https://www.lookonchain.com/feeds/22869</link>
-      <description>On August 2nd, based on HTX market data, Ethereum briefly fell below $3,450, experiencing a 24-hour decrease of 6.53%.</description>
-      <pubDate>Fri, 01 Aug 2025 22:56:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22869</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>SOL Short-Term Dips Below $160</title>
       <link>https://www.lookonchain.com/feeds/22868</link>
       <description>On August 2nd, according to HTX market data, SOL briefly dropped below $160, experiencing a 24-hour percentage decline of 6.92%.</description>
-      <pubDate>Fri, 01 Aug 2025 22:56:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 22:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22868</guid>
       <category>crypto</category>
@@ -73,7 +53,7 @@
       <title>LookOnChain: Bitcoin Falls Below $113,000</title>
       <link>https://www.lookonchain.com/feeds/22867</link>
       <description>On August 2nd, according to HTX market data, Bitcoin dropped below $113,000, experiencing a 24-hour decline of 2.68%.</description>
-      <pubDate>Fri, 01 Aug 2025 22:56:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 22:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22867</guid>
       <category>crypto</category>
@@ -90,10 +70,30 @@
 
     </item>
     <item>
+      <title>Ethereum Drops Below $3,450 in Short-Term Correction</title>
+      <link>https://www.lookonchain.com/feeds/22869</link>
+      <description>On August 2nd, based on HTX market data, Ethereum briefly fell below $3,450, experiencing a 24-hour decrease of 6.53%.</description>
+      <pubDate>Fri, 01 Aug 2025 22:58:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22869</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Trader Bets Bigger on September Fed Rate Cut, Possibly Due to C?uré Resignation</title>
       <link>https://www.lookonchain.com/feeds/22866</link>
       <description>August 2nd: Traders have heightened their wagers on a Fed rate cut in September. In terms of the news aspect, Federal Reserve Governor Cugler is set to resign next week, enabling Trump to appoint a preferred candidate in advance. (FXStreet)</description>
-      <pubDate>Fri, 01 Aug 2025 22:46:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 21:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22866</guid>
       <category>crypto</category>
@@ -110,7 +110,7 @@
       <title>Trump: Non-Farm Payrolls Data Was Manipulated to Embarrass Me</title>
       <link>https://www.lookonchain.com/feeds/22865</link>
       <description>On August 2nd, U.S. President Trump&apos;s latest social media message reads: &quot;In my opinion, today&apos;s employment data has been manipulated in order to embarrass Republicans and me. Just like they did around the 2024 presidential election. Firstly, they presented three days of good data. Then, on November 15th, 2024, shortly after the election, that data was significantly revised downward. It&apos;s a complete fraud.&quot;&quot;Too late, Mr. Powell&quot; is not in a good situation either! But the good news is that our country is performing very well! (FXStreet)</description>
-      <pubDate>Fri, 01 Aug 2025 22:46:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 21:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22865</guid>
       <category>crypto</category>
@@ -127,7 +127,7 @@
       <title>Federal Reserve Board Governor Quarles to Resign Next Week, Trump Sees an Opportunity to Appoint</title>
       <link>https://www.lookonchain.com/feeds/22864</link>
       <description>August 2nd: The Federal Reserve issued a statement announcing that Fed Governor Lael Brainard will tender her resignation next week. This gives President Trump an early chance to potentially appoint a preferred candidate who could assume a leadership role at the central bank. Brainard&apos;s position was not scheduled to become vacant until January of next year, and the 7-member Federal Reserve Board currently has no other vacant positions.Now, Trump will be able to promptly appoint a new governor to exert pressure on Chairman Powell—this governor may potentially succeed Powell. The statement noted that Brainard has submitted her resignation to President Trump and will step down next Friday, August 8th, in order to return to Georgetown University as a professor.Brainard did not participate in this week&apos;s Federal Reserve policy meeting. The Board stated that her absence was due to personal reasons. Brainard previously served as the Chief Economist at the U.S. Department of Labor and was</description>
-      <pubDate>Fri, 01 Aug 2025 22:46:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 21:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22864</guid>
       <category>crypto</category>
@@ -144,7 +144,7 @@
       <title>In the past 24 hours, the entire network has seen $812 million in liquidations, mainly from long positions.</title>
       <link>https://www.lookonchain.com/feeds/22861</link>
       <description>On August 2nd, according to data from Coinglass, within the past 24 hours, the total liquidation across the entire network reached $8.12 billion. The total long liquidation was $7.34 billion, and the total short liquidation was $77.15 million.</description>
-      <pubDate>Fri, 01 Aug 2025 16:46:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 16:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22861</guid>
       <category>crypto</category>
@@ -162,7 +162,7 @@
       <title>Trump: Has Ordered Two Nuclear Submarines to be Deployed to Appropriate Region Near Russia</title>
       <link>https://www.lookonchain.com/feeds/22863</link>
       <description>On August 2nd, US President Trump posted on social media and said, &quot;In view of the highly provocative remarks made by former Russian President and current Deputy Chairman of the Russian Security Council Medvedev, I have ordered two nuclear submarines to be deployed to the relevant region to ensure that these foolish and provocative remarks are not just empty words. Speech is of great significance and often leads to unexpected consequences. I hope this will not become one of those situations.&quot;</description>
-      <pubDate>Fri, 01 Aug 2025 16:46:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 16:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22863</guid>
       <category>crypto</category>
@@ -179,7 +179,7 @@
       <title>CNBC: Crypto Market Enters Turbulent August as Trump&apos;s New Tariffs Spark Risk-Off Sentiment</title>
       <link>https://www.lookonchain.com/feeds/22862</link>
       <description>On August 2nd, as per the report by CNBC, the crypto market witnessed a decline on Friday following Trump&apos;s announcement of &quot;reciprocal&quot; tariff adjustments for dozens of countries. Bitcoin&apos;s price demonstrated relative strength, while Ethereum, XRP, and BNB all underwent minor drops. Bitcoin once dropped to a low of $113,988.47.This decline led to a widespread long liquidation, with traders being compelled to sell assets at the market price to repay debts, thereby further driving down the price.Crypto-related stocks experienced even greater declines. Coinbase took the lead in the decline due to its poor second-quarter performance, falling by 15%; Circle declined by 4%, Galaxy Digital fell by 2%, the Ethereum treasury company Bitmine Immersion dropped by 8%, and MicroStrategy fell by 5%.</description>
-      <pubDate>Fri, 01 Aug 2025 16:46:27 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 16:58:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22862</guid>
       <category>crypto</category>
