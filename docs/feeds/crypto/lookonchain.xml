@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 31 Jul 2025 23:50:32 +0000</lastBuildDate>
-    <pubDate>Thu, 31 Jul 2025 23:50:32 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:56:11 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 00:56:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,124 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Contract Whale AguilaTrades&apos; 40x BTC Long Position Liquidated Again, Resulting in a Total Loss of $39.8 Million</title>
+      <link>https://www.lookonchain.com/feeds/22715</link>
+      <description>On August 1st, as monitored by Onchain lens, the BTC (40x) long position of contract whale AguilaTrades was partially liquidated once again. In this transaction so far, it has suffered a loss of $2.78 million.AguilaTrades is currently in an overall negative position of $39.8 million. It has deposited a total of $40.05 million USDC into the HyperLiquid account, and now only has $0.2 million remaining.</description>
+      <pubDate>Fri, 01 Aug 2025 00:48:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22715</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Pump.fun recently registered the subdomain fee.pump.fun.</title>
+      <link>https://www.lookonchain.com/feeds/22714</link>
+      <description>On August 1st, based on market information, Pump.fun recently registered the subdomain fee.pump.fun, suggesting the impending launch of a fee dashboard or a transaction-based incentive scheme.</description>
+      <pubDate>Fri, 01 Aug 2025 00:40:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22714</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Yesterday REX-Osprey SOL Spot ETF saw a net inflow of $2.1 million</title>
+      <link>https://www.lookonchain.com/feeds/22713</link>
+      <description>On August 1st, according to Farside Investors, the net inflow of REX-Osprey SOL Spot ETF yesterday was $2.1 million, and the cumulative net inflow since its listing has reached $137.4 million.</description>
+      <pubDate>Fri, 01 Aug 2025 00:24:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22713</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「Insider Trader」 @qwatio opened a 40x short position on BTC and a 25x short position on ETH 5 hours ago, currently holding a unrealized profit of $1.9 million</title>
+      <link>https://www.lookonchain.com/feeds/22712</link>
+      <description>August 1st. Based on the monitoring of on-chain data analyst Yu Jin, 5 hours ago, the &quot;Insider Trader&quot; @qwatio transferred 2.98 million USDC to Hyperliquid and opened short positions in BTC and ETH. Currently, there is a floating profit of $1.9 million.@qwatio used his principal for this short position. The profits from several previous contract operations have been almost completely liquidated. The funds transferred today are his last remaining principal. Currently, his position details are as follows:40 times short 1111 BTC, with a value of $128 million. The opening price is $117,297, and the liquidation price is $118,333.25 times short 4141 ETH, with a value of $15.28 million. The opening price is $3724, and the liquidation price is $4385.</description>
+      <pubDate>Fri, 01 Aug 2025 00:24:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22712</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>US Stock Crypto Concept Stocks Experience Broad Decline, with VAPE Plummeting by 23.87% and COIN Dropping Over 9% in After-Hours Trading</title>
+      <link>https://www.lookonchain.com/feeds/22711</link>
+      <description>On August 1st, according to rockflow data, the U.S. stock market closed on Thursday with all three major indexes experiencing a simultaneous decline. The Dow initially closed down by 0.74%, the S&amp;P 500 dropped by 0.37%, and the Nasdaq Composite Index showed a slight decrease. Crypto-related stocks witnessed a general decline, including:Coinbase (COIN) fell by 9.23% after hours, with a trading volume of $4.711 billion.Circle (CRCL) decreased by 3.66% and then experienced an additional 2.46% drop after hours, with a trading volume of $1.074 billion.MicroStrategy (MSTR) rose by 1.73% and then fell by 1.58% after hours, with a trading volume of $4.237 billion.Galaxy Digital (GLXY) fell by 1.68% and then saw another 1.11% drop after hours, with a trading volume of $2.43 billion.MARA Holdings (MARA) fell by 2.84% and then had an additional 1.31% drop after hours, with a trading volume of $654 million.Riot Blockchain (RIOT) fell by 0.81% and then experienced a further 7.01% drop a</description>
+      <pubDate>Fri, 01 Aug 2025 00:08:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22711</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>In the past 12 hours, the entire network has witnessed a total of $291 million in liquidations, with the majority coming from long positions.</title>
+      <link>https://www.lookonchain.com/feeds/22710</link>
+      <description>On August 1st, according to Coinglass data, in the past 12 hours, a total of $291 million has been liquidated across the entire network. This affected 110,469 people globally. Specifically, long positions were liquidated to the tune of $272 million, while short positions were liquidated at $19.822 million. The largest single liquidation event took place on the Binance platform in the ETHUSDT contract trading pair, with a value of $6.8163 million.</description>
+      <pubDate>Thu, 31 Jul 2025 23:56:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22710</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Cryptocurrency Market Plunges Across the Board, Bitcoin Dips Below $116,000, Ethereum Below $3,700</title>
       <link>https://www.lookonchain.com/feeds/22709</link>
       <description>On August 1st, according to HTX market data, perhaps due to the decline in US stock futures and the influence of Trump&apos;s revision of tariff rates for certain countries, the crypto market witnessed a widespread pullback. The details are as follows:Bitcoin is currently trading at $115,730, with a 24-hour decline of 1.75%.Ethereum is currently trading at $3,691, with a 24-hour decrease of 3.13%.SOL is currently trading at $171.46, with a 24-hour decrease of 3.64%.BIO is currently trading at $0.06, with a 24-hour decrease of 11.26%.REZ is currently trading at $0.01284, with a 24-hour decrease of 10.42%.1000CAT is currently trading at $0.00965, with a 24-hour decrease of 10.24%.CRV is currently trading at $0.9367, with a 24-hour decrease of 9.6%.</description>
-      <pubDate>Thu, 31 Jul 2025 23:48:40 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 23:55:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22709</guid>
       <category>crypto</category>
@@ -39,7 +153,7 @@
       <title>Trump Signs Executive Order, Amending Tariff Rates on Certain Countries</title>
       <link>https://www.lookonchain.com/feeds/22708</link>
       <description>On August 1st, Trump issued an executive order to adjust the tariff rates on certain countries. The tariff on Canada was raised from 25% to 35%. The higher tariff will become effective on August 1, 2025. (Golden Finance)</description>
-      <pubDate>Thu, 31 Jul 2025 23:40:40 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 23:55:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22708</guid>
       <category>crypto</category>
@@ -53,47 +167,10 @@
 
     </item>
     <item>
-      <title>NVIDIA Responds to Security Concerns: Chip Has No &quot;Backdoor,&quot; No Risk of Remote Control</title>
-      <link>https://www.lookonchain.com/feeds/22703</link>
-      <description>August 1st: Regarding the report of a significant security vulnerability in NVIDIA&apos;s computing power chip, NVIDIA declared: &quot;Network security holds great importance for us. NVIDIA&apos;s chips do not possess a &apos;backdoor&apos; that enables any remote access or control over these chips.&quot;</description>
-      <pubDate>Thu, 31 Jul 2025 16:49:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22703</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Tenth Anniversary Torch Commemorative NFT Minting Consumed a Total of $584,000 USD Worth of ETH Gas</title>
-      <link>https://www.lookonchain.com/feeds/22702</link>
-      <description>August 1st. As per on-chain analyst Ai Yi (@ai_9684xtpa), 781,147 addresses took part in the Ethereum 10th Anniversary commemorative NFT minting and collectively spent 153.7 ETH on Gas fees, which is approximately $584,000.Previous reports showed that the Ethereum 10th Anniversary torch commemorative NFT minting has come to an end. The total supply exceeded 780,000 tokens and there were over 660,000 holder addresses.</description>
-      <pubDate>Thu, 31 Jul 2025 16:49:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22702</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Arkham: FTX/Alameda has Staked $1.25 Billion Worth of ETH and SOL</title>
       <link>https://www.lookonchain.com/feeds/22707</link>
       <description>On August 1st, as per Arkham Monitoring, FTX/Alameda has placed a stake worth $1.25 billion in ETH and SOL.Last night, FTX&apos;s cold wallet staked $45 million worth of SOL, and Alameda&apos;s wallet address transferred $80 million worth of ETH into Figment.</description>
-      <pubDate>Thu, 31 Jul 2025 16:49:40 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 16:55:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22707</guid>
       <category>crypto</category>
@@ -113,7 +190,7 @@
       <title>SEC Chairman: Will Develop Framework to Allow for Trading of Crypto Securities and Traditional Securities Side by Side</title>
       <link>https://www.lookonchain.com/feeds/22706</link>
       <description>On August 1st, the Chairman of the U.S. SEC, Atkins, stated that he has instructed the staff to conduct research on how to adjust the custody system in order to promote the development of the crypto asset custody business. At the same time, he directed the staff to develop a framework that enables the parallel trading of crypto securities and non-crypto securities. To facilitate the trading of tokenized securities, the U.S. Securities and Exchange Commission may need to consider amending the National Market System Rules. (FX168)</description>
-      <pubDate>Thu, 31 Jul 2025 16:49:40 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 16:55:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22706</guid>
       <category>crypto</category>
@@ -124,79 +201,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>SEC Chair: Majority of Cryptocurrencies are Not Securities, Has Instructed to Develop Clear Rules and Implement White House Cryptocurrency Proposal</title>
-      <link>https://www.lookonchain.com/feeds/22705</link>
-      <description>On August 1st, SEC Chairman Atkins declared that he would direct various policy departments to cooperate with the cryptocurrency special working group in order to implement the cryptocurrency-related suggestions of the White House. The staff of the committee have been given instructions to draft clear rules for cryptocurrency custody, allocation, and trading. Most crypto assets are not securities. The staff have been instructed to develop guidelines to determine when crypto assets are regarded as securities. The staff have been tasked with proposing disclosure requirements and exemption provisions for crypto assets identified as securities, and have also been instructed to collaborate with companies seeking to issue tokenized securities.</description>
-      <pubDate>Thu, 31 Jul 2025 16:49:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22705</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The SEC Launches Project Crypto to Advance Securities Rule Modernization and Drive Market Shift to the Blockchain</title>
-      <link>https://www.lookonchain.com/feeds/22704</link>
-      <description>On August 1st, according to Reuters, the U.S. Securities and Exchange Commission (SEC) has initiated the Project Crypto. This initiative is aimed at promoting the modernization of securities regulations and facilitating the transition of the market to the blockchain.</description>
-      <pubDate>Thu, 31 Jul 2025 16:49:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22704</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「3963 BTC Ancient Whale Holding in 14.5-Year Dormancy」 Sells Another 180 BTC</title>
-      <link>https://www.lookonchain.com/feeds/22700</link>
-      <description>On August 1st, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;ancient whale that had been silent for 14.5 years and held 3,963 BTC&quot; once again sold 180 BTC. In the past week, it is said that it has sold 330 BTC, which is about $29.57 million, and the cost basis is as low as $0.37.Thirty minutes ago, it transferred 180 BTC (about $21.25 million) to a liquidity provider-related address bc1q5...zr2xn, which has interacted with institutions such as B2C2/Galaxy/Coinbase.</description>
-      <pubDate>Thu, 31 Jul 2025 15:49:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22700</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Ethereum 10th Anniversary Torch Commemorative NFT Minting Concluded, with Total Supply Exceeding 780,000</title>
-      <link>https://www.lookonchain.com/feeds/22701</link>
-      <description>On July 31st, the Ethereum Tenth Anniversary Torch Commemorative NFT minting has come to an end. A total of more than 780,000 pieces were minted, and there are over 660,000 holder addresses.BlockBeats previously reported that Ethereum launched &quot;The Torch&quot; NFT to pay tribute to those who have shaped its development and values during the first decade of Ethereum and to contribute to the future development of Ethereum. In the 10 days prior to Ethereum&apos;s tenth anniversary, this Torch NFT symbolically passed among wallets. On July 30th, the Torch NFT was burned to commemorate the tenth anniversary of Ethereum&apos;s founding. On that day, everyone could mint a commemorative NFT.</description>
-      <pubDate>Thu, 31 Jul 2025 15:49:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22701</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
