@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:56:11 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Aug 2025 00:56:11 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 03:15:31 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 03:15:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Contract Whale AguilaTrades&apos; 40x BTC Long Position Liquidated Again, Resulting in a Total Loss of $39.8 Million</title>
-      <link>https://www.lookonchain.com/feeds/22715</link>
-      <description>On August 1st, as monitored by Onchain lens, the BTC (40x) long position of contract whale AguilaTrades was partially liquidated once again. In this transaction so far, it has suffered a loss of $2.78 million.AguilaTrades is currently in an overall negative position of $39.8 million. It has deposited a total of $40.05 million USDC into the HyperLiquid account, and now only has $0.2 million remaining.</description>
-      <pubDate>Fri, 01 Aug 2025 00:48:18 +0000</pubDate>
+      <title>Bitcoin August Historical Return: 4 Rises, 8 Falls since 2013</title>
+      <link>https://www.lookonchain.com/feeds/22741</link>
+      <description>On August 1st, based on Coinglass data, among the 12 &quot;August&quot; markets in Bitcoin&apos;s history since 2013, there were 4 gains and 8 losses. The largest increase took place in August 2017, with a monthly gain of 65.32%. The largest decrease occurred in August 2015, with a monthly loss of 18.67%. From 2013 to the present, the average return rate of Bitcoin in &quot;August&quot; markets is 1.75%, and the median return rate is -8.04%.</description>
+      <pubDate>Fri, 01 Aug 2025 03:08:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22715</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22741</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,17 +30,34 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>Pump.fun recently registered the subdomain fee.pump.fun.</title>
-      <link>https://www.lookonchain.com/feeds/22714</link>
-      <description>On August 1st, based on market information, Pump.fun recently registered the subdomain fee.pump.fun, suggesting the impending launch of a fee dashboard or a transaction-based incentive scheme.</description>
-      <pubDate>Fri, 01 Aug 2025 00:40:18 +0000</pubDate>
+      <title>U.S. publicly traded company Intchains Group partners with FalconX to expand ETH strategic reserve</title>
+      <link>https://www.lookonchain.com/feeds/22740</link>
+      <description>On August 1st, Intchains Group (ICG), a company listed in the US, announced a partnership with FalconX. This partnership is intended to expand its ETH strategic reserve. The goal is to enhance the efficiency of ETH acquisition and launch structured ETH yield products.</description>
+      <pubDate>Fri, 01 Aug 2025 03:08:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22714</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22740</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Standard Chartered: Targeting to Submit Hong Kong Stablecoin License Application Soon</title>
+      <link>https://www.lookonchain.com/feeds/22739</link>
+      <description>August 1st. According to a report by Radio Television Hong Kong, the CEO of Standard Chartered in Hong Kong, Greater China, and North Asia stated that the group is still in the process of studying the newly released stablecoin-related documents by the Hong Kong Monetary Authority. With the implementation of the Stablecoin Regulations, Standard Chartered is exploring possible options and use cases with the goal of submitting a stablecoin license application as soon as feasible.</description>
+      <pubDate>Fri, 01 Aug 2025 03:00:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22739</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -52,12 +69,12 @@
 
     </item>
     <item>
-      <title>Yesterday REX-Osprey SOL Spot ETF saw a net inflow of $2.1 million</title>
-      <link>https://www.lookonchain.com/feeds/22713</link>
-      <description>On August 1st, according to Farside Investors, the net inflow of REX-Osprey SOL Spot ETF yesterday was $2.1 million, and the cumulative net inflow since its listing has reached $137.4 million.</description>
-      <pubDate>Fri, 01 Aug 2025 00:24:18 +0000</pubDate>
+      <title>James Wynn&apos;s PEPE Long in another address was liquidated, with a total loss exceeding $1 million.</title>
+      <link>https://www.lookonchain.com/feeds/22738</link>
+      <description>On August 1st, as monitored by LookOnChain, the long position of James Wynn&apos;s PEPE in another wallet address also underwent a series of liquidations. The total loss exceeded $1 million, leaving only $14,850 in the account.Yesterday, after James Wynn&apos;s main wallet address&apos;s 10x PEPE long position was partially liquidated 9 times in a row, it closed out and withdrew $32,931 from Hyperliquid and deposited it into Binance. As a result of this long position, James Wynn suffered another loss of $1.24 million.</description>
+      <pubDate>Fri, 01 Aug 2025 02:56:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22713</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22738</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -70,12 +87,48 @@
 
     </item>
     <item>
-      <title>「Insider Trader」 @qwatio opened a 40x short position on BTC and a 25x short position on ETH 5 hours ago, currently holding a unrealized profit of $1.9 million</title>
-      <link>https://www.lookonchain.com/feeds/22712</link>
-      <description>August 1st. Based on the monitoring of on-chain data analyst Yu Jin, 5 hours ago, the &quot;Insider Trader&quot; @qwatio transferred 2.98 million USDC to Hyperliquid and opened short positions in BTC and ETH. Currently, there is a floating profit of $1.9 million.@qwatio used his principal for this short position. The profits from several previous contract operations have been almost completely liquidated. The funds transferred today are his last remaining principal. Currently, his position details are as follows:40 times short 1111 BTC, with a value of $128 million. The opening price is $117,297, and the liquidation price is $118,333.25 times short 4141 ETH, with a value of $15.28 million. The opening price is $3724, and the liquidation price is $4385.</description>
-      <pubDate>Fri, 01 Aug 2025 00:24:18 +0000</pubDate>
+      <title>Alleged Figma Founder&apos;s Address Holds Over $1.7 Million Worth of AGLD Token</title>
+      <link>https://www.lookonchain.com/feeds/22737</link>
+      <description>On August 1st, according to Arkham data, the address where Dylan Field, the suspected founder of Figma, is located holds more than 2.3 million AGLD tokens, which are worth $1.76 million and represent the largest holding of this address. In addition, the address also holds ETH, PEOPLE, and LOOT NFT.</description>
+      <pubDate>Fri, 01 Aug 2025 02:56:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22712</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22737</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>U.S. publicly traded company Mill City has completed a $450 million private fundraising round and established the SUI Treasury, holding approximately 76 million SUI tokens.</title>
+      <link>https://www.lookonchain.com/feeds/22736</link>
+      <description>On August 1st, according to TheBlock, the publicly traded company Mill City Ventures in the US has officially set up its SUI Token Reserve after completing a $450 million private placement financing. Currently, it holds a total of 76,271,187 SUI tokens, with an average purchase price of $3.6389 per token. All these tokens were acquired through an OTC agreement with the Sui Foundation. Mill City has declared that it will continue to purchase SUI on the open market and plans to use approximately 98% of the net proceeds from the private placement to buy SUI tokens and manage the reserve.</description>
+      <pubDate>Fri, 01 Aug 2025 02:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22736</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bitunix Analyst: US June PCE Inflation Rebound + Tax Hike Risk Rise, BTC Testing Pressure Triangle Apex, Short-Term Support Holds Firm at 117,000</title>
+      <link>https://www.lookonchain.com/feeds/22735</link>
+      <description>August 1st. In the US, the year-on-year rate of the June core PCE was recorded at 2.8%, which was higher than expected and the revised value, marking the fastest inflation rate since February. Meanwhile, both overall PCE and consumer spending rose in tandem, highlighting the resurgence of inflationary pressure. Meanwhile, a weak labor market and stagnant real income have reinforced the risks of economic slowdown. The market expects this Friday&apos;s jobs report to further confirm the decline in the momentum of hiring, adding uncertainty to the policy path.On the BTC front, the daily chart shows that the price has gradually converged after consolidating from a high level. It is currently testing the endpoint of the triangle formed by the descending trendline and horizontal support. The range of 118,500–118,800 serves as short-term resistance, and 116,300 is strong support. The liquidation heat map also shows that a large amount of liquidation buy orders are concentrated around 117,000 bel</description>
+      <pubDate>Fri, 01 Aug 2025 02:48:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22735</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -86,54 +139,15 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-      <category>profit</category>
 
     </item>
     <item>
-      <title>US Stock Crypto Concept Stocks Experience Broad Decline, with VAPE Plummeting by 23.87% and COIN Dropping Over 9% in After-Hours Trading</title>
-      <link>https://www.lookonchain.com/feeds/22711</link>
-      <description>On August 1st, according to rockflow data, the U.S. stock market closed on Thursday with all three major indexes experiencing a simultaneous decline. The Dow initially closed down by 0.74%, the S&amp;P 500 dropped by 0.37%, and the Nasdaq Composite Index showed a slight decrease. Crypto-related stocks witnessed a general decline, including:Coinbase (COIN) fell by 9.23% after hours, with a trading volume of $4.711 billion.Circle (CRCL) decreased by 3.66% and then experienced an additional 2.46% drop after hours, with a trading volume of $1.074 billion.MicroStrategy (MSTR) rose by 1.73% and then fell by 1.58% after hours, with a trading volume of $4.237 billion.Galaxy Digital (GLXY) fell by 1.68% and then saw another 1.11% drop after hours, with a trading volume of $2.43 billion.MARA Holdings (MARA) fell by 2.84% and then had an additional 1.31% drop after hours, with a trading volume of $654 million.Riot Blockchain (RIOT) fell by 0.81% and then experienced a further 7.01% drop a</description>
-      <pubDate>Fri, 01 Aug 2025 00:08:18 +0000</pubDate>
+      <title>LookOnChain: Bitcoin Surges Above $116,000</title>
+      <link>https://www.lookonchain.com/feeds/22734</link>
+      <description>Update: On August 1st, based on HTX market data, Bitcoin witnessed a rebound and exceeded $116,000. The current price stands at $116,012.</description>
+      <pubDate>Fri, 01 Aug 2025 02:48:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22711</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>In the past 12 hours, the entire network has witnessed a total of $291 million in liquidations, with the majority coming from long positions.</title>
-      <link>https://www.lookonchain.com/feeds/22710</link>
-      <description>On August 1st, according to Coinglass data, in the past 12 hours, a total of $291 million has been liquidated across the entire network. This affected 110,469 people globally. Specifically, long positions were liquidated to the tune of $272 million, while short positions were liquidated at $19.822 million. The largest single liquidation event took place on the Binance platform in the ETHUSDT contract trading pair, with a value of $6.8163 million.</description>
-      <pubDate>Thu, 31 Jul 2025 23:56:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22710</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Cryptocurrency Market Plunges Across the Board, Bitcoin Dips Below $116,000, Ethereum Below $3,700</title>
-      <link>https://www.lookonchain.com/feeds/22709</link>
-      <description>On August 1st, according to HTX market data, perhaps due to the decline in US stock futures and the influence of Trump&apos;s revision of tariff rates for certain countries, the crypto market witnessed a widespread pullback. The details are as follows:Bitcoin is currently trading at $115,730, with a 24-hour decline of 1.75%.Ethereum is currently trading at $3,691, with a 24-hour decrease of 3.13%.SOL is currently trading at $171.46, with a 24-hour decrease of 3.64%.BIO is currently trading at $0.06, with a 24-hour decrease of 11.26%.REZ is currently trading at $0.01284, with a 24-hour decrease of 10.42%.1000CAT is currently trading at $0.00965, with a 24-hour decrease of 10.24%.CRV is currently trading at $0.9367, with a 24-hour decrease of 9.6%.</description>
-      <pubDate>Thu, 31 Jul 2025 23:55:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22709</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22734</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -144,18 +158,16 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Trump Signs Executive Order, Amending Tariff Rates on Certain Countries</title>
-      <link>https://www.lookonchain.com/feeds/22708</link>
-      <description>On August 1st, Trump issued an executive order to adjust the tariff rates on certain countries. The tariff on Canada was raised from 25% to 35%. The higher tariff will become effective on August 1, 2025. (Golden Finance)</description>
-      <pubDate>Thu, 31 Jul 2025 23:55:18 +0000</pubDate>
+      <title>Binance Announcement on P2P Nickname and Avatar Adjustment</title>
+      <link>https://www.lookonchain.com/feeds/22733</link>
+      <description>August 1st, Binance will initiate the synchronization of user nicknames across different products starting from August 4, 2025, at 00:00 (UTC). The P2P nicknames will gradually merge with the nicknames of other accounts on the platform. In addition, avatars will also be adjusted. The avatars in Binance accounts will be utilized in some scenarios of Binance P2P, and this implementation will be completed by the end of August 2025. Existing users can edit their nicknames in the P2P profiles, Binance profiles, or Square profiles, and these modifications will be automatically synchronized across all other profiles on the entire Binance platform.</description>
+      <pubDate>Fri, 01 Aug 2025 02:48:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22708</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22733</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -167,32 +179,12 @@
 
     </item>
     <item>
-      <title>Arkham: FTX/Alameda has Staked $1.25 Billion Worth of ETH and SOL</title>
-      <link>https://www.lookonchain.com/feeds/22707</link>
-      <description>On August 1st, as per Arkham Monitoring, FTX/Alameda has placed a stake worth $1.25 billion in ETH and SOL.Last night, FTX&apos;s cold wallet staked $45 million worth of SOL, and Alameda&apos;s wallet address transferred $80 million worth of ETH into Figment.</description>
-      <pubDate>Thu, 31 Jul 2025 16:55:18 +0000</pubDate>
+      <title>Trump&apos;s Equivalent Tariffs Effective Date Postponed by One Week to August 7th</title>
+      <link>https://www.lookonchain.com/feeds/22732</link>
+      <description>On Thursday night local time on August 1st, US President Trump signed an executive order imposing tariffs ranging from 15% to 41% on goods exported to the United States from 67 trading partners, raising the tariff level to the highest in over a century. Nevertheless, the new tariffs will not come into effect until August 7th instead of the originally scheduled August 1st, providing other countries with another opportunity to attempt to negotiate for lower tariffs. A senior government official stated, &quot;This is of historical significance; this is a new trading system. This is what I refer to as the Trump Round of Negotiations.&quot; White House officials said on Thursday night that they hope to reach more agreements with other countries prior to the new tariff implementation date of August 7th. (Jinse Finance)</description>
+      <pubDate>Fri, 01 Aug 2025 02:40:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22707</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>SEC Chairman: Will Develop Framework to Allow for Trading of Crypto Securities and Traditional Securities Side by Side</title>
-      <link>https://www.lookonchain.com/feeds/22706</link>
-      <description>On August 1st, the Chairman of the U.S. SEC, Atkins, stated that he has instructed the staff to conduct research on how to adjust the custody system in order to promote the development of the crypto asset custody business. At the same time, he directed the staff to develop a framework that enables the parallel trading of crypto securities and non-crypto securities. To facilitate the trading of tokenized securities, the U.S. Securities and Exchange Commission may need to consider amending the National Market System Rules. (FX168)</description>
-      <pubDate>Thu, 31 Jul 2025 16:55:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22706</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22732</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
