@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 07:32:53 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Aug 2025 07:32:53 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 07:51:32 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 07:51:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,104 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>「Insider Trader」 @qwatio&apos;s short position opened this morning is now up over $3.3 million</title>
+      <link>https://www.lookonchain.com/feeds/22785</link>
+      <description>On August 1st, as per LookOnChain&apos;s monitoring, the &quot;Insider Trader&quot; @qwatio&apos;s short positions in BTC (40x) and ETH (25x) opened this morning have now amassed a profit of over $3.3 million.This morning, the &quot;Insider Trader&quot; @qwatio transferred 2.98 million USDC to Hyperliquid to initiate short positions in BTC and ETH.</description>
+      <pubDate>Fri, 01 Aug 2025 07:48:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22785</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ark Invest bought 60,000 shares of Figma yesterday, worth approximately $6.93 million.</title>
+      <link>https://www.lookonchain.com/feeds/22784</link>
+      <description>On August 1st, according to Ark Invest Daily, Cathie Wood&apos;s Ark Invest purchased 60,000 shares of Figma the previous day. Given the closing price of $115.5, the stake is valued at around $6.93 million.</description>
+      <pubDate>Fri, 01 Aug 2025 07:40:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22784</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin drops below $114,000, the mainstream CEX long liquidation pressure will reach $609 million</title>
+      <link>https://www.lookonchain.com/feeds/22783</link>
+      <description>On August 1st, based on Coinglass data, if Bitcoin drops below $114,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $609 million.Conversely, if Bitcoin exceeds $116,000, the cumulative intensity of short liquidation on mainstream CEXs will only be $73.97 million.BlockBeats Note: The liquidation chart does not display the exact number of contracts to be liquidated or the exact value of the contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to the adjacent liquidation cluster, that is, the intensity.Therefore, the liquidation chart shows to what degree the asset&apos;s price reaching a certain level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, a more intense reaction will occur due to a liquidity cascade.</description>
+      <pubDate>Fri, 01 Aug 2025 07:40:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22783</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The smart money that successfully went from a long ETH position to a short position on the 30th has today transitioned from a Bitcoin short position to a long position, and has opened a long positi...</title>
+      <link>https://www.lookonchain.com/feeds/22782</link>
+      <description>On August 1st, based on on-chain information, a shrewd whale today converted their Bitcoin short position into a long position and established an ETH long position. As of the time of writing, the address holds a total of $3.61 million worth of 25x leveraged Ethereum longs and $1.8 million worth of 40x leveraged Bitcoin longs.Earlier, on July 30th, this shrewd whale flipped their ETH longs to shorts at an entry price of $3,803.This address has cumulatively earned nearly $36 million in profits on Hyperliquid.</description>
+      <pubDate>Fri, 01 Aug 2025 07:32:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22782</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will launch MOMOFUN (MM) on August 3rd</title>
+      <link>https://www.lookonchain.com/feeds/22781</link>
+      <description>On August 1st, based on official information, Binance Alpha is scheduled to list MOMOFUN (MM) on August 3rd. Qualified users will be able to utilize their Binance Alpha points to claim the airdrop on the Alpha activity page once trading commences. Further details will be made known shortly.</description>
+      <pubDate>Fri, 01 Aug 2025 07:32:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22781</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>ai.ac&apos;s first AI Agent Token, MIA Token, has officially landed on Binance Alpha, leading the AgentFi new era.</title>
       <link>https://www.lookonchain.com/feeds/22780</link>
       <description>August 1st, the first AI Avatar token MIA of ai.ac officially landed on Binance Alpha, presenting a global opportunity for users to participate in the Avatar economy! ai.ac, incubated by Web3 accelerator amber.ac under the Amber Group, is a pioneering Avatar economy platform. As the first Avatar born on this platform, MIA has the capability to independently handle marketing, financing, operations, community management, value creation, and distribution, aiming to promote the Avatar economy and provide returns to its token-holding community.MIA is the core token of the MIA ecosystem and serves as the foundation of the incentive mechanism and a practical tool. Its distribution mechanism and unlocking rules are designed to ensure sustainable growth. MIA will continuously collaborate with top AI projects to advance the Avatar economy infrastructure and assist in creating an AI Avatar-driven AgentFi ecosystem.</description>
-      <pubDate>Fri, 01 Aug 2025 07:25:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 07:24:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22780</guid>
       <category>crypto</category>
@@ -34,7 +128,7 @@
       <title>The SEC has officially acknowledged receipt of the Canary PENGU ETF application, the first-ever Meme token and NFT blended spot ETF.</title>
       <link>https://www.lookonchain.com/feeds/22779</link>
       <description>On August 1st, the U.S. Securities and Exchange Commission (SEC) officially acknowledged the receipt of the Canary PENGU ETF application. This ETF is the first of its kind, being a blend of Meme Token and NFT in a spot ETF. With the growing attention from Wall Street, market participants anticipate a decisive moment of convergence between digital assets and traditional finance.The Canary Spot PENGU ETF intends to allocate 80-95% of its portfolio to Solana Meme Token PENGU, which is at the core of the Pudgy Penguins brand. The remaining 5-15% will consist of top NFT &quot;chonky penguins&quot; Pudgy Penguins and be moderately allocated to Solana and Ethereum to enhance liquidity. This holding structure reflects an active investment strategy. The ETF plans to hold specific NFTs based on factors such as rarity, visual appeal, and market value. The fund manager will actively assess and rotate these holdings to maintain the optimal portfolio. Incorporating NFTs into a regulated ETF represents a not</description>
-      <pubDate>Fri, 01 Aug 2025 07:25:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 07:24:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22779</guid>
       <category>crypto</category>
@@ -51,7 +145,7 @@
       <title>&quot;Brother Mastiff&quot; Huang Lizhong&apos;s long position is now facing a paper loss of nearly 12 million US dollars</title>
       <link>https://www.lookonchain.com/feeds/22776</link>
       <description>August 1st. According to on-chain analyst Auntie Ai (@ai_9684xtpa), the monitoring indicates that the long position of &quot;Brother Ma Ji&quot; Huang Licheng is currently facing a nearly $12 million floating loss.The long position of &quot;Brother Ma Ji&quot; Huang Licheng in ETH / HYPE / PUMP is currently still worth $148 million. Due to the decline in ETH, his total floating loss has expanded to $11.9 million, with the largest loss coming from PUMP ($6.82 million).</description>
-      <pubDate>Fri, 01 Aug 2025 07:17:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 07:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22776</guid>
       <category>crypto</category>
@@ -69,7 +163,7 @@
       <title>Bitcoin Falls Below $115,000, with a 24-Hour Decline of 2.82%</title>
       <link>https://www.lookonchain.com/feeds/22778</link>
       <description>On August 1st, according to HTX market data, Bitcoin has fallen below $115,000 and is currently trading at $114,953, experiencing a 24-hour decrease of 2.82%.</description>
-      <pubDate>Fri, 01 Aug 2025 07:17:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 07:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22778</guid>
       <category>crypto</category>
@@ -89,7 +183,7 @@
       <title>Metaplanet CEO: Company Plans to Issue up to Approximately $37.185 Billion Perpetual Preferred Stock</title>
       <link>https://www.lookonchain.com/feeds/22777</link>
       <description>On August 1st, the CEO of Metaplanet, Simon Gerovich, announced that the company intends to issue up to 555 billion yen (approximately $37.185 billion) in perpetual preferred shares and has submitted an application for this.</description>
-      <pubDate>Fri, 01 Aug 2025 07:17:00 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 07:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22777</guid>
       <category>crypto</category>
@@ -101,96 +195,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Citibank: Hong Kong&apos;s Stablecoin Market to Reach $16 Billion, Bullish on Zhongan and Alibaba</title>
-      <link>https://www.lookonchain.com/feeds/22775</link>
-      <description>August 1st. According to the Hong Kong Economic Times, Citigroup&apos;s latest research report indicated that the stablecoin market in Hong Kong could reach $16 billion. It is anticipated that stablecoins will boost the demand for short-term high-quality liquidity assets, potentially squeezing short-term yields and facilitating the development of the local fixed-income market.On the stablecoin value chain, Citigroup has a preference for Zhongan Online and Alibaba in terms of issuance and views Tiger Brokers as playing a role as a distributor. Citigroup rates Zhongan Online and Alibaba as &quot;Buy&quot; with target prices of 24 yuan and 144 yuan respectively.</description>
-      <pubDate>Fri, 01 Aug 2025 07:09:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22775</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha: The ai . ac (MIA) airdrop threshold is 200 points</title>
-      <link>https://www.lookonchain.com/feeds/22774</link>
-      <description>August 1st, as per an official announcement, Binance Alpha has now initiated ai.ac (MIA). Users who possess at least 200 Alpha points are eligible to claim a 500 MIA token airdrop. The first come, first served principle applies. If the event is still ongoing, the points threshold will automatically reduce by 15 points every hour.</description>
-      <pubDate>Fri, 01 Aug 2025 07:08:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22774</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>After the release of June inflation data in the United States, the probability of a Fed rate cut in September has dropped to 41.3%.</title>
-      <link>https://www.lookonchain.com/feeds/22773</link>
-      <description>August 1st. This week, the slightly higher-than-expected June inflation data in the US. Consequently, the probability that the Fed will keep interest rates unchanged until September is 58.7%, and the probability of a cumulative 25-basis-point rate cut has decreased to 41.3%.</description>
-      <pubDate>Fri, 01 Aug 2025 06:57:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22773</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>AI company Satsuma Technology appoints Kraken&apos;s Global Head of Policy as a non-executive director to support the company&apos;s Bitcoin treasury strategy</title>
-      <link>https://www.lookonchain.com/feeds/22772</link>
-      <description>On August 1st, the London-based artificial intelligence company Satsuma Technology appointed Jonathan Jachym, the Global Head of Policy at Kraken, to its board of directors as a non-executive director. His regulatory and cryptocurrency policy expertise will assist Satsuma in its evolving Bitcoin treasury strategy.In a prior announcement, the London-based artificial intelligence company Satsuma Technology has secured ￡100 million (approximately $135 million) to establish a Bitcoin treasury, setting a new record for Bitcoin treasury fundraising in the UK.</description>
-      <pubDate>Fri, 01 Aug 2025 06:56:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22772</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>The French publicly listed company CBI&apos;s Bitcoin holdings have increased to 25.07 coins, with plans to further increase to 2000 coins.</title>
-      <link>https://www.lookonchain.com/feeds/22771</link>
-      <description>On August 1st, according to the report by NLNico, the publicly listed French company Crypto Blockchain Industries has increased its holdings by 21.52 bitcoins in the past three months, bringing the total holdings to 25.07 bitcoins.Meanwhile, the company announced today that it has entered into a strategic partnership with SAFEbit. It plans to acquire up to 2,000 bitcoins (worth more than 200 million euros) by exchanging company shares at a discounted price and without the need for cash payment.</description>
-      <pubDate>Fri, 01 Aug 2025 06:52:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22771</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
