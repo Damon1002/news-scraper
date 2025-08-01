@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 14:22:21 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Aug 2025 14:22:21 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 14:47:14 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Aug 2025 14:47:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,84 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Stablecoin protocol Resupply has announced that it has fully repaid a $10 million bad debt.</title>
+      <link>https://www.lookonchain.com/feeds/22848</link>
+      <description>On August 1st, according to official channels, the stablecoin protocol Resupply declared that the $10 million in bad debts has now been completely repaid. Specifically, the $8.8 million in bad debts associated with the recent security vulnerability was repaid first.The remaining $1.13 million in bad debts is covered by a loan obtained from yearn and will be gradually repaid through the RSUP pledged in Convex and Yearn Finance within the protocol. Thus, all bad debts have officially been wiped out.</description>
+      <pubDate>Fri, 01 Aug 2025 14:40:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22848</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>ARK Innovation ETF (ARKK) Receives Record Single-Day Inflow</title>
+      <link>https://www.lookonchain.com/feeds/22849</link>
+      <description>On August 1st, Bloomberg ETF Senior Analyst Eric Balchunas posted on social media that ARKK attracted $800 million within just one day, establishing a new all-time record for daily fund inflows. This is probably because the fund has seen a 50% surge in the past 3 months, which is double the gains of SPY, QQQ, and IBIT. ARKK attracted $150 million in inflows, and the total daily fund inflows for the entire ARK series reached nearly $1 billion.</description>
+      <pubDate>Fri, 01 Aug 2025 14:40:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22849</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The total nonfarm payroll employment for May and June in the United States has been revised downward by 258,000 people.</title>
+      <link>https://www.lookonchain.com/feeds/22847</link>
+      <description>On August 1st, the US Bureau of Labor Statistics announced that the non-farm payroll figures for May were adjusted from 144,000 to 19,000; and the non-farm payroll figures for June were revised from 147,000 to 14,000.After the revisions, the combined total number of new jobs added in May and June was 258,000 lower than the revised figures. (FXStreet)</description>
+      <pubDate>Fri, 01 Aug 2025 14:32:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22847</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain insider whale increased their ETH short position to a notional value of $40.25 million, realizing a floating profit of over $3.24 million.</title>
+      <link>https://www.lookonchain.com/feeds/22846</link>
+      <description>On August 1st, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a particular &quot;insider whale&quot; continued to increase their short position in ETH and raised it to 11,111.11 coins (with a nominal value of $40.25 million). Currently, their short positions in both BTC and ETH are worth more than $168 million, and they have an unrealized gain of more than $3.24 million.</description>
+      <pubDate>Fri, 01 Aug 2025 14:24:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22846</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
       <title>U.S. publicly traded company DevvStream has initiated a Crypto Treasury strategy, with the initial purchase of BTC and SOL.</title>
       <link>https://www.lookonchain.com/feeds/22845</link>
       <description>On August 1st, according to businesswire, DevvStream Corp., a publicly traded carbon management company (Nasdaq: DEVS), announced the formal launch of its cryptocurrency treasury strategy today. The first batch has purchased Bitcoin (BTC) and Solana (SOL). This purchase was backed by the first $10 million portion of funding from a $300 million senior secured convertible note financing agreement with Helena Global Investment Opportunities 1 Ltd.</description>
-      <pubDate>Fri, 01 Aug 2025 14:16:28 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 14:16:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22845</guid>
       <category>crypto</category>
@@ -36,7 +110,7 @@
       <title>Bitcoin Temporarily Drops Below $114,000</title>
       <link>https://www.lookonchain.com/feeds/22844</link>
       <description>On August 1st, based on HTX market data, Bitcoin briefly fell below $114,000 and is currently trading at $114,167, with a 3.68% decrease in the past 24 hours.</description>
-      <pubDate>Fri, 01 Aug 2025 14:08:28 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 14:08:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22844</guid>
       <category>crypto</category>
@@ -56,7 +130,7 @@
       <title>JPMorgan: Bitcoin Miner Profit Hit New High Since July Halving</title>
       <link>https://www.lookonchain.com/feeds/22843</link>
       <description>On August 1st, according to a report by CoinDesk, Wall Street investment bank JPMorgan Chase released a research report on Friday. It stated that Bitcoin miners demonstrated another remarkable performance in July. Mining profitability reached its highest level since the most recent Bitcoin halving.The report pointed out: &quot;In July, Bitcoin miners on average earned block rewards of $57,400 per day per EH/s, which was a 4% increase from June and the highest level since the halving.&quot; However, it also noted: &quot;Despite the strong performance in July, daily revenue and gross profit per EH/s are still 43% and 50% lower respectively compared to before the halving.&quot;Bitcoin&apos;s block reward halving event takes place every four years. The most recent one occurred in April 2024, reducing the reward per block from 6.25 BTC to 3.125 BTC.</description>
-      <pubDate>Fri, 01 Aug 2025 14:00:28 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 14:00:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22843</guid>
       <category>crypto</category>
@@ -76,7 +150,7 @@
       <title>Market News: Trump to Launch Bitcoin Reserve Plan &quot;Soon&quot;</title>
       <link>https://www.lookonchain.com/feeds/22842</link>
       <description>August 1st. According to market reports, Bo Hines, who is the Executive Director of Trump&apos;s Digital Asset Advisory Committee, declared that Trump will &quot;in the near future&quot; launch a Bitcoin reserve plan. (Golden Ten)</description>
-      <pubDate>Fri, 01 Aug 2025 13:48:28 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 13:48:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22842</guid>
       <category>crypto</category>
@@ -95,7 +169,7 @@
       <title>H100 Group Increases Holding Again by 17.47 BTC, Total Holding Reaches 702.6 BTC</title>
       <link>https://www.lookonchain.com/feeds/22841</link>
       <description>On August 1st, based on the monitoring of @btcNLNico, a Swedish-listed company announced the acquisition of an additional 17.47 BTC, bringing its total holdings to 702.6 BTC.</description>
-      <pubDate>Fri, 01 Aug 2025 13:48:28 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 13:48:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22841</guid>
       <category>crypto</category>
@@ -114,83 +188,9 @@
       <title>Coinbase Stock Price Drops 12%, Marks Largest Intraday Decline Since April</title>
       <link>https://www.lookonchain.com/feeds/22840</link>
       <description>On August 1st, based on the market data from Rockflow, the stock price of Coinbase (COIN.O) dropped by 12% and is now trading at $331, which marks the largest intraday decline since April.</description>
-      <pubDate>Fri, 01 Aug 2025 13:40:28 +0000</pubDate>
+      <pubDate>Fri, 01 Aug 2025 13:46:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22840</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「Fed&apos;s Megaphone」: Slowing Job Market to Test Fed&apos;s Unyielding Rate Policy</title>
-      <link>https://www.lookonchain.com/feeds/22839</link>
-      <description>August 1st. In a message from &quot;the Fed Whisperer,&quot; Nick Timiraos, it was indicated that the recent three-month slowdown in employment might have created an opportunity for Fed officials to consider a rate cut at their next meeting in September. At the least, this has highlighted the difficult balancing act they are facing amid economic slowdown and rising inflationary pressures.Given that the labor market had been demonstrating robust job growth, Fed officials had been at ease this year in maintaining the stability of interest rates. However, significant downward adjustments to the May and June employment data have changed that situation. Fed officials had previously stated that they were less concerned about overall job growth as it had slowed in tandem with the deceleration in labor force growth.When the labor supply shrinks, even if job growth decelerates, the unemployment rate can still remain stable or even decrease. Nevertheless, Fed Chair Powell noted this week that the stab</description>
-      <pubDate>Fri, 01 Aug 2025 13:24:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22839</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Michael Saylor: Strategy Could Involve Buying Up to 1.5 Million Bitcoin</title>
-      <link>https://www.lookonchain.com/feeds/22836</link>
-      <description>On August 1st, Michael Saylor declared during a CNBC interview that Strategy might acquire up to 1.5 million bitcoins. This would result in holding more than 7.14% of the entire Bitcoin supply.As of the publicly available data as of this Monday, Strategy holds a combined total of 628,791 bitcoins, and the overall average holding price is $73,277.</description>
-      <pubDate>Fri, 01 Aug 2025 13:21:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22836</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Continues to Surge After Non-Farm Payrolls Announcement, Breaking Above $116,000</title>
-      <link>https://www.lookonchain.com/feeds/22838</link>
-      <description>On August 1st, according to HTX market data, Bitcoin continued to rise following the release of US non-farm payrolls data and broke through $116,000. It is currently priced at $116,005, with a 24-hour decline narrowed to 2.02%.</description>
-      <pubDate>Fri, 01 Aug 2025 13:21:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22838</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The trader is fully pricing in the scenario of two more Fed rate cuts before the end of the year.</title>
-      <link>https://www.lookonchain.com/feeds/22837</link>
-      <description>On August 1st, traders have fully factored in the situation where the Fed will cut interest rates twice before the end of the year. (Xinhua)</description>
-      <pubDate>Fri, 01 Aug 2025 13:21:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22837</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
