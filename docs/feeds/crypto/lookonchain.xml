@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 16:18:49 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Aug 2025 16:18:49 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 16:47:06 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 16:47:06 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,50 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Ethereum Falls Below $3450, 24-hour Loss Extends to 5.04%</title>
+      <link>https://www.lookonchain.com/feeds/22932</link>
+      <description>On August 3rd, according to HTX market data, with the continuous decline of the crypto market, Ethereum has fallen below $3,450, experiencing a 24-hour loss of 5.04%.</description>
+      <pubDate>Sat, 02 Aug 2025 16:32:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22932</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Whale Sets 10 Major Targets for Short Position Take-Profit, Cumulative Profit Reaches $7.494 Million</title>
+      <link>https://www.lookonchain.com/feeds/22931</link>
+      <description>On August 3rd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale named &quot;Setting 10 Big Goals First&quot; closed its short positions on ETH and BTC for profit one hour ago, with a total profit of $7.494 million. The profit from BTC was $6.217 million and the profit from ETH was $1.277 million.</description>
+      <pubDate>Sat, 02 Aug 2025 16:24:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22931</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
       <title>In the past 24 hours, there have been liquidations totaling $545 million across the network, with the largest single liquidation reaching $4.4537 million.</title>
       <link>https://www.lookonchain.com/feeds/22930</link>
       <description>Update, August 3rd. Based on Coinglass data, within the past 24 hours, there has been a cumulative liquidation of $545 million across the entire network. Specifically, there were $491 million in long liquidations and $54.6338 million in short liquidations. A total of 134,318 people were liquidated globally. The largest single liquidation order took place on Binance - ETHUSDC, amounting to $4.4537 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:16:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 16:16:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22930</guid>
       <category>crypto</category>
@@ -35,7 +75,7 @@
       <title>「Insider Trader」 Short Position Floating Profit Expands to $8.26 Million</title>
       <link>https://www.lookonchain.com/feeds/22929</link>
       <description>On August 2nd, as monitored by Onchain Lens, the &quot;Insider Trader&quot; @qwatio has increased his short position in ETH today and opened precise short positions with a 20x leverage for XRP and SOL. Currently, his total short position profit has expanded to $8.26 million. The specific short positions are as follows:BTC (with a 40x leverage): 1,111.11 BTC, with a value of $125.5 million;ETH (with a 25x leverage): 22,222.22 ETH, with a value of $76.77 million;XRP (with a 20x leverage): 3,333,333 XRP, with a value of $9.45 million;SOL (with a 20x leverage): 44,444.44 SOL, with a value of $7.17 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:08:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 16:08:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22929</guid>
       <category>crypto</category>
@@ -54,7 +94,7 @@
       <title>An address has liquidated a long ETH position, with a profit/loss of over $17 million in the past 5 days.</title>
       <link>https://www.lookonchain.com/feeds/22927</link>
       <description>On August 2nd, as per the monitoring of lookonchain, due to the market downturn, a portion of the long positions of BTC and ETH held by address 0x0558 were liquidated. He has completely closed his long position in ETH and currently holds a long position of 640 BTC (valued at $72.3 million). Five days ago, his total profit exceeded $18 million, but now only $494,700 remains—almost all the gains have vanished.</description>
-      <pubDate>Sat, 02 Aug 2025 15:56:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:57:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22927</guid>
       <category>crypto</category>
@@ -75,7 +115,7 @@
       <title>Federal Reserve&apos;s Williams: Significant Downward Revisions to May and June Job Growth Were the &quot;Real News&quot; in Friday&apos;s Nonfarm Payrolls Report</title>
       <link>https://www.lookonchain.com/feeds/22928</link>
       <description>August 2nd: Williams of the Federal Reserve stated that the substantial downward revisions to job growth in May and June were the &quot;actual news&quot; in the nonfarm payroll report on Friday. He will attend the September meeting with a mindset of being open to discussing whether to reduce interest rates. (Forex Live)</description>
-      <pubDate>Sat, 02 Aug 2025 15:56:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:57:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22928</guid>
       <category>crypto</category>
@@ -92,7 +132,7 @@
       <title>Trump: Hope to Release All Epstein Case Related Documents</title>
       <link>https://www.lookonchain.com/feeds/22926</link>
       <description>On August 2nd, Trump expressed that he &quot;hopes to make public all the documents related to the Epstein case&quot; while not wanting anyone to be harmed or implicated. He also stated that if those in possession of the documents truly have any information related to him, it should have been made public before the presidential election.BlockBeats had previously reported that on July 29th, U.S. President Trump claimed that he &quot;never had the honor&quot; to visit Jeffrey Epstein&apos;s island. Trump said he declined Epstein&apos;s invitation and regarded it as a wise choice. Previously, Trump had repeatedly distanced himself from Epstein.On July 24th, U.S. Attorney General Pam Bondi informed Trump in May that there are numerous individuals involved in the Epstein case, including his name, within the Epstein files. After the report was released, the White House provided contradictory responses: initially issuing a statement labeling it as &quot;fake news,&quot; but a White House official later told Reuters that the gov</description>
-      <pubDate>Sat, 02 Aug 2025 15:56:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:56:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22926</guid>
       <category>crypto</category>
@@ -109,7 +149,7 @@
       <title>Hong Kong Stablecoin Issuer Regulatory Regime Takes Effect, Vigilant Against Fraudulent Licensed Entity Scams</title>
       <link>https://www.lookonchain.com/feeds/22925</link>
       <description>On August 2nd, the Hong Kong Monetary Authority (HKMA) officially issued a security alert to be cautious of fraudulent stablecoin licensing scams. The Hong Kong Stablecoin Regulation has come into effect, and the Stablecoin Issuer Regulatory Regime has also started to be implemented simultaneously. The regulatory regime is still in its initial stage, and the regulatory concept will adhere to the principle of &quot;being strict first and progressing steadily.&quot;With the implementation of the regulatory regime, market participants should act carefully when communicating with the public to avoid making statements that may be misinterpreted or create unrealistic expectations. According to the Stablecoin Regulation, falsely claiming to be a licensee or applicant is illegal.As of now, the HKMA has not issued any stablecoin issuer licenses. The public should be vigilant against any stablecoin or stablecoin issuer claiming to be &quot;regulated&quot; or &quot;licensed&quot; in Hong Kong. After licenses are issued, t</description>
-      <pubDate>Sat, 02 Aug 2025 15:17:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22925</guid>
       <category>crypto</category>
@@ -126,7 +166,7 @@
       <title>Powell&apos;s Unexpected Resignation or Acceleration of Trump&apos;s Chosen Next Fed Chair</title>
       <link>https://www.lookonchain.com/feeds/22924</link>
       <description>On August 2nd, Federal Reserve Governor Quarles unexpectedly announced his resignation on Friday. This has presented President Trump with an opportunity to fill the Fed vacancy earlier than anticipated. It may also compel him to finalize his nominee for the next chair several months ahead of schedule.Derek Tang, an economist at the monetary policy analysis firm LH Meyer, said, &quot;Now the ball is in Trump&apos;s court. He has been putting pressure on the Fed and claiming that he wants to install his own people. Now the opportunity has arrived.&quot; While Powell&apos;s term as chair is set to expire in May next year, his term as governor extends until 2028. If Powell does not voluntarily resign from his governor position, Trump will not have another chance to fill the vacancy before 2028.In this situation, Trump may be forced to fill Quarles&apos; vacancy with his intended nominee for the chair. Tobin Marcus, the Director of U.S. Policy and Political Strategy at Wolf Research, pointed out that &quot;the key i</description>
-      <pubDate>Sat, 02 Aug 2025 15:17:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22924</guid>
       <category>crypto</category>
@@ -143,7 +183,7 @@
       <title>South Korean publicly listed company Bitmax&apos;s total Bitcoin holdings have surpassed 500 coins, ranking first in the South Korean market</title>
       <link>https://www.lookonchain.com/feeds/22923</link>
       <description>On August 2nd, a Korean company listed on the KOSDAQ, Bitmax, announced that it has increased its holdings to 56.0445 bitcoins, raising its total holdings to 500.123 bitcoins and ranking first among Korean listed companies in terms of bitcoin holdings. The company stated that it will continue to adhere to its strategy of accumulating bitcoin.Bitmax is a listed company focusing on augmented reality technology development, providing AR software development tools and sensor fusion positioning solutions. It also integrates bitcoin into its financial reserves.</description>
-      <pubDate>Sat, 02 Aug 2025 15:17:55 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 14:46:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22923</guid>
       <category>crypto</category>
@@ -156,43 +196,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Plunges Below $113,000 Temporarily</title>
-      <link>https://www.lookonchain.com/feeds/22922</link>
-      <description>On August 2nd, according to HTX market data, Bitcoin briefly fell below $113,000, with a 2.10% decline in the past 24 hours.</description>
-      <pubDate>Sat, 02 Aug 2025 15:17:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22922</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Trump&apos;s Tariffs Deal a Heavy Blow to Buffett&apos;s Berkshire Hathaway Consumer Business</title>
-      <link>https://www.lookonchain.com/feeds/22921</link>
-      <description>August 2nd. The company Berkshire Hathaway (BRK.A.N, BRK.B.N), which is owned by Warren Buffett, declared that its consumer business has been affected by the trade policy of US President Trump. This is because the policy has imposed import tariffs. In the second quarter, the consumer goods division of this conglomerate (including brands like Fruit of the Loom, Jazwares, and Brooks Sports) witnessed a 5.1% year-on-year decrease in revenue, reaching $189 million. This mainly resulted from a decline in sales, the impact of tariffs, and business restructuring.Berkshire mentioned that the tariff policy has led to delays in the delivery of orders. Nevertheless, the company pointed out that the sportswear brand Brooks achieved a remarkable 18.4% revenue growth this quarter, which was driven by increased sales. Since Berkshire&apos;s business covers multiple economic sectors, its operational status is regarded as a microcosm of the US economy and has attracted significant attention from investors</description>
-      <pubDate>Sat, 02 Aug 2025 14:17:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22921</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
