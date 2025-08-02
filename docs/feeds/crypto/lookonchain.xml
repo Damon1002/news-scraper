@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 07:29:24 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Aug 2025 07:29:24 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 07:44:42 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 07:44:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Trader Eugene: I have once again gone long on ETH, not advisable to quickly switch to a short position</title>
+      <link>https://www.lookonchain.com/feeds/22904</link>
+      <description>On August 2nd, Trader Eugene Ng Ah Sio posted on his personal channel, indicating that he has once again taken a long position on ETH. The bullish sentiment in August was hyped prematurely by the market. However, $113,000 for BTC and $3,500 for ETH are still reasonable entry points, with stop-loss set below $112,000 and $3,400 respectively.Although the hype about Data Availability Technology (DAT) may gradually wane, there is still significant structural buying interest in the current market. Therefore, it is not advisable to switch to a bearish outlook too hastily. Many people have been constantly jumping back and forth between &quot;bull market return&quot; and &quot;total collapse,&quot; yet they fail to realize that the market does not follow a simple binary path.</description>
+      <pubDate>Sat, 02 Aug 2025 07:40:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22904</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Binance: Alpha Users with at least 200 Points Can Receive a 750 AIO Airdrop</title>
+      <link>https://www.lookonchain.com/feeds/22903</link>
+      <description>August 2nd. As per official channels, the trading of OLAXBT (AIO) on Binance Alpha is set to commence on August 2, 2025, at 18:00 (UTC+8).After the commencement of trading, users who hold at least 200 Alpha Points will be eligible to claim a 750 AIO token airdrop. The first come, first served principle applies. If the event is still ongoing, the points threshold will automatically decrease by 15 points every hour.It is important to note that claiming the airdrop will consume 15 Alpha Points. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, the airdrop will be deemed forfeited.</description>
+      <pubDate>Sat, 02 Aug 2025 07:40:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22903</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Analyst: Traders have been actively closing their long positions since July 31, while sellers are currently increasing their short positions.</title>
       <link>https://www.lookonchain.com/feeds/22902</link>
       <description>On August 2nd, the CryptoQuant analyst Axel posted on social media that starting from July 31st, traders have begun to actively close long positions. In the past 24 hours, there has been a significant sell-off in the futures market. When the price dropped to a local low of $112,000, the net inflow volume over 6 hours plummeted to an extremely low level of -$175 million, indicating the dominance of bears. As the market stabilized to a certain extent, the pressure of this indicator has decreased to -$78 million, narrowing the negative gap by 2.2 times. However, the overall market imbalance still leans towards the bears. In the past 24 hours, the volume of open interest has increased to the range of $3.04 billion. Sellers are continuing to accumulate positions and are trying to take advantage of the bearish sentiment in the market.</description>
-      <pubDate>Sat, 02 Aug 2025 07:00:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 07:00:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22902</guid>
       <category>crypto</category>
@@ -34,7 +70,7 @@
       <title>An address lost $908,000 due to a phishing approval signed 458 days ago</title>
       <link>https://www.lookonchain.com/feeds/22901</link>
       <description>On August 2nd, according to the monitoring of Scam Sniffer, a victim&apos;s address lost $908,551 because it signed a phishing approval 458 days ago.</description>
-      <pubDate>Sat, 02 Aug 2025 06:40:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 06:43:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22901</guid>
       <category>crypto</category>
@@ -52,7 +88,7 @@
       <title>Binance Alpha will list DarkStar (DARK) on August 4th</title>
       <link>https://www.lookonchain.com/feeds/22900</link>
       <description>On August 2, as per official channels, Binance Alpha is set to list DarkStar (DARK) on August 4. Once Alpha trading commences, eligible users can access the Alpha event page to claim an airdrop by utilizing Binance Alpha points. Further details will be provided separately.</description>
-      <pubDate>Sat, 02 Aug 2025 06:28:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 06:43:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22900</guid>
       <category>crypto</category>
@@ -69,7 +105,7 @@
       <title>Ark Invest&apos;s three funds purchased approximately $30 million worth of COIN and approximately $17 million worth of BMNR yesterday.</title>
       <link>https://www.lookonchain.com/feeds/22899</link>
       <description>On August 2nd, according to the daily data of Ark Invest, several funds under ARK Invest increased their holdings of Coinbase (COIN) and the &quot;ETH Version of MicroStrategy&quot;, Bitmine (BMNR) stocks yesterday. A total of 94,678 shares of COIN were purchased, which is equivalent to about $29.79 million; and 540,712 shares of BMNR were bought, which is equivalent to about $17.129 million. Specifically:· ARKK bought 71,809 shares of COIN, equivalent to $22,597,574. It bought 364,589 shares of BMNR, equivalent to $11,550,179.· ARKW bought 14,822 shares of COIN, equivalent to $4,664,335. It bought 114,133 shares of BMNR, equivalent to $3,615,733.· ARKF bought 8,047 shares of COIN, equivalent to $2,526,758. It bought 61,990 shares of BMNR, equivalent to $1,963,843.</description>
-      <pubDate>Sat, 02 Aug 2025 05:28:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 05:43:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22899</guid>
       <category>crypto</category>
@@ -84,30 +120,10 @@
 
     </item>
     <item>
-      <title>ATA Creativity Global Receives $100 Million Strategic Investment from Baby BTC Capital, Transforming into a BTCFi Listing Platform</title>
-      <link>https://www.lookonchain.com/feeds/22896</link>
-      <description>August 2nd. According to official information, the NASDAQ-listed company ATA Creativity Global (Nasdaq: AACG) announced that it has reached an agreement with Baby BTC Strategic Capital, with the Babylon Foundation serving as the LP to lead. A total of $100 million will be invested to obtain a controlling stake in ATA. This includes $30 million in newly issued shares and $70 million in warrants, and a restructuring of the board.ATA will transform into the world&apos;s first publicly listed platform focusing on the BTCFi ecosystem, and will deepen cooperation with the Babylon project (which currently has 45,000 BTC staked). The company will also carry out a large-scale acquisition of Baby tokens, aiming to achieve a circulating market value of over $100 million for Baby, creating a &quot;BTCFi Infrastructure + Baby Token Reserve&quot; dual-track model to bridge the gap between the cryptocurrency and traditional financial regulatory pathways.</description>
-      <pubDate>Sat, 02 Aug 2025 05:28:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22896</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Crypto Fear &amp; Greed Index Drops to 55, Market &quot;Greed&quot; Sentiment Significantly Retreats</title>
       <link>https://www.lookonchain.com/feeds/22898</link>
       <description>On August 2nd, based on alternative data, today&apos;s cryptocurrency Fear and Greed Index stands at 55 (yesterday it was 65), and the market&apos;s &quot;greed&quot; sentiment has witnessed a significant decline.Note: The Fear Index threshold ranges from 0 to 100 and includes indicators such as Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sat, 02 Aug 2025 05:28:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 05:43:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22898</guid>
       <category>crypto</category>
@@ -124,7 +140,7 @@
       <title>Arthur Hayes: Bitcoin Expected to Test $100,000, Ethereum to Test $3,000</title>
       <link>https://www.lookonchain.com/feeds/22897</link>
       <description>On August 2nd, Arthur Hayes gave a response regarding the recent profit-taking activities on social media. He stated, &quot;The U.S. tariff relief program is set to expire in the third quarter... at least, this is how the market perceives it following the release of the non-farm payroll data. Currently, major economies have not been able to generate credit at a sufficient pace to boost nominal GDP. Therefore, Bitcoin will undergo a test at $100,000, and Ethereum will be tested at $3,000. For more details, please attend my keynote speech at WebX Asia in Tokyo on August 25th. I am now going to take some time to relax.&quot;It was previously reported by BlockBeats that Arthur Hayes sold 2,373 ETH ($8.32 million), 7.76 million ENA ($4.62 million), and 38.86 billion PEPE ($41,470) earlier today.</description>
-      <pubDate>Sat, 02 Aug 2025 05:28:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 05:43:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22897</guid>
       <category>crypto</category>
@@ -143,12 +159,12 @@
 
     </item>
     <item>
-      <title>A whale address has transferred 26,000 ETH to a CEX in the last 48 hours</title>
-      <link>https://www.lookonchain.com/feeds/22894</link>
-      <description>On August 2nd, as per the monitoring of LookOnChain, Whale 0x3c9E has made a deposit of 26,182 ETH (valued at $93.66 million) to Binance, Bybit, OKX, and Kraken within the past 48 hours.</description>
-      <pubDate>Sat, 02 Aug 2025 04:28:31 +0000</pubDate>
+      <title>ATA Creativity Global Receives $100 Million Strategic Investment from Baby BTC Capital, Transforming into a BTCFi Listing Platform</title>
+      <link>https://www.lookonchain.com/feeds/22896</link>
+      <description>August 2nd. According to official information, the NASDAQ-listed company ATA Creativity Global (Nasdaq: AACG) announced that it has reached an agreement with Baby BTC Strategic Capital, with the Babylon Foundation serving as the LP to lead. A total of $100 million will be invested to obtain a controlling stake in ATA. This includes $30 million in newly issued shares and $70 million in warrants, and a restructuring of the board.ATA will transform into the world&apos;s first publicly listed platform focusing on the BTCFi ecosystem, and will deepen cooperation with the Babylon project (which currently has 45,000 BTC staked). The company will also carry out a large-scale acquisition of Baby tokens, aiming to achieve a circulating market value of over $100 million for Baby, creating a &quot;BTCFi Infrastructure + Baby Token Reserve&quot; dual-track model to bridge the gap between the cryptocurrency and traditional financial regulatory pathways.</description>
+      <pubDate>Sat, 02 Aug 2025 04:43:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22894</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22896</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -157,17 +173,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>transfer</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
 
     </item>
     <item>
       <title>Bitcoin ETF Sees Highest Single-Day Net Outflow in Almost 5 Months, Marking Second-Highest Single-Day Net Outflow in History</title>
       <link>https://www.lookonchain.com/feeds/22895</link>
       <description>On August 2nd, as monitored by Farside Investors, the net outflow of the US Bitcoin spot ETF yesterday was $8.123 billion, setting the second-highest single-day net outflow record in history and the highest net outflow in nearly 5 months on a single day.In addition, the net outflow of the US Ethereum spot ETF yesterday was $1.523 billion, setting the third-highest net outflow record in history.</description>
-      <pubDate>Sat, 02 Aug 2025 04:28:31 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 03:43:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22895</guid>
       <category>crypto</category>
@@ -180,26 +195,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Yesterday the US Ethereum spot ETF experienced a net outflow of $1.523 billion</title>
-      <link>https://www.lookonchain.com/feeds/22893</link>
-      <description>August 2nd: As per Farside Investors, the net outflow of the U.S. Ethereum spot ETF yesterday was $152.3 million, and the breakdown is as follows:Fidelity FETH: -$6.2 millionBitwise ETHW: -$40.3 million21Shares CETH: -$1.9 millionVanEck ETHV: -$5.2 millionPIMCO QETH: -$8.4 millionFranklin Templeton EZET: -$5.4 millionGrayscale ETHE: -$37.2 millionGrayscale Mini ETH: -$47.7 million</description>
-      <pubDate>Sat, 02 Aug 2025 04:28:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22893</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
   </channel>
