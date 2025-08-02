@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 17:29:39 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Aug 2025 17:29:39 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 17:47:31 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 17:47:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>Whale Sets &quot;First 10 Big Goals&quot; to Long Bitcoin, Holding Over 267 Coins</title>
       <link>https://www.lookonchain.com/feeds/22935</link>
       <description>On August 3rd, Whale &quot;Sets 10 Major Goals First&quot; posted on their personal social media platform and said, &quot;Have more and don&apos;t betray.&quot;According to the screenshot they provided, they entered the market at a price of $112,891.3, went long on Bitcoin with a leverage of 5x. Currently, they hold a total of 267.322 coins, with a collateral of nearly $6.05 million.The current unrealized gain is more than $67,000.</description>
-      <pubDate>Sat, 02 Aug 2025 17:08:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 17:08:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22935</guid>
       <category>crypto</category>
@@ -37,7 +37,7 @@
       <title>Past 7 days CEX Net Outflow of 641.6K Ether</title>
       <link>https://www.lookonchain.com/feeds/22934</link>
       <description>On August 3rd, based on Coinglass data, during the past 7 days, there was a net outflow of 641,600 ETH from CEX. The top three CEX with the largest outflows are as follows:· Coinbase Pro, with an outflow of 477,100 ETH;· Binance, with an outflow of 148,200 ETH;· Bitfinex, with an outflow of 67,000 ETH.In addition, Kraken witnessed an inflow of 100,400 ETH and ranked first on the inflow list.</description>
-      <pubDate>Sat, 02 Aug 2025 17:08:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 17:08:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22934</guid>
       <category>crypto</category>
@@ -56,7 +56,7 @@
       <title>ETH/BTC briefly dropped to 0.03042, marking a more than 2% decrease in the last 24 hours.</title>
       <link>https://www.lookonchain.com/feeds/22933</link>
       <description>On August 3rd, based on HTX market data, the exchange rate of ETH/BTC briefly fell to 0.03042 and has now rebounded to 0.03062, with a 2.05% decrease in the past 24 hours.ETH briefly dropped to $3429.05, indicating a 3.76% decrease in the past 24 hours.</description>
-      <pubDate>Sat, 02 Aug 2025 16:48:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 16:48:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22933</guid>
       <category>crypto</category>
@@ -74,30 +74,10 @@
 
     </item>
     <item>
-      <title>Ethereum Falls Below $3450, 24-hour Loss Extends to 5.04%</title>
-      <link>https://www.lookonchain.com/feeds/22932</link>
-      <description>On August 3rd, according to HTX market data, with the continuous decline of the crypto market, Ethereum has fallen below $3,450, experiencing a 24-hour loss of 5.04%.</description>
-      <pubDate>Sat, 02 Aug 2025 16:32:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22932</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Whale Sets 10 Major Targets for Short Position Take-Profit, Cumulative Profit Reaches $7.494 Million</title>
       <link>https://www.lookonchain.com/feeds/22931</link>
       <description>On August 3rd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale named &quot;Setting 10 Big Goals First&quot; closed its short positions on ETH and BTC for profit one hour ago, with a total profit of $7.494 million. The profit from BTC was $6.217 million and the profit from ETH was $1.277 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:28:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 16:46:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22931</guid>
       <category>crypto</category>
@@ -114,10 +94,30 @@
 
     </item>
     <item>
+      <title>Ethereum Falls Below $3450, 24-hour Loss Extends to 5.04%</title>
+      <link>https://www.lookonchain.com/feeds/22932</link>
+      <description>On August 3rd, according to HTX market data, with the continuous decline of the crypto market, Ethereum has fallen below $3,450, experiencing a 24-hour loss of 5.04%.</description>
+      <pubDate>Sat, 02 Aug 2025 16:46:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22932</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>In the past 24 hours, there have been liquidations totaling $545 million across the network, with the largest single liquidation reaching $4.4537 million.</title>
       <link>https://www.lookonchain.com/feeds/22930</link>
       <description>Update, August 3rd. Based on Coinglass data, within the past 24 hours, there has been a cumulative liquidation of $545 million across the entire network. Specifically, there were $491 million in long liquidations and $54.6338 million in short liquidations. A total of 134,318 people were liquidated globally. The largest single liquidation order took place on Binance - ETHUSDC, amounting to $4.4537 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:28:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22930</guid>
       <category>crypto</category>
@@ -135,7 +135,7 @@
       <title>「Insider Trader」 Short Position Floating Profit Expands to $8.26 Million</title>
       <link>https://www.lookonchain.com/feeds/22929</link>
       <description>On August 2nd, as monitored by Onchain Lens, the &quot;Insider Trader&quot; @qwatio has increased his short position in ETH today and opened precise short positions with a 20x leverage for XRP and SOL. Currently, his total short position profit has expanded to $8.26 million. The specific short positions are as follows:BTC (with a 40x leverage): 1,111.11 BTC, with a value of $125.5 million;ETH (with a 25x leverage): 22,222.22 ETH, with a value of $76.77 million;XRP (with a 20x leverage): 3,333,333 XRP, with a value of $9.45 million;SOL (with a 20x leverage): 44,444.44 SOL, with a value of $7.17 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:28:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22929</guid>
       <category>crypto</category>
@@ -154,7 +154,7 @@
       <title>An address has liquidated a long ETH position, with a profit/loss of over $17 million in the past 5 days.</title>
       <link>https://www.lookonchain.com/feeds/22927</link>
       <description>On August 2nd, as per the monitoring of lookonchain, due to the market downturn, a portion of the long positions of BTC and ETH held by address 0x0558 were liquidated. He has completely closed his long position in ETH and currently holds a long position of 640 BTC (valued at $72.3 million). Five days ago, his total profit exceeded $18 million, but now only $494,700 remains—almost all the gains have vanished.</description>
-      <pubDate>Sat, 02 Aug 2025 15:28:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22927</guid>
       <category>crypto</category>
@@ -175,7 +175,7 @@
       <title>Federal Reserve&apos;s Williams: Significant Downward Revisions to May and June Job Growth Were the &quot;Real News&quot; in Friday&apos;s Nonfarm Payrolls Report</title>
       <link>https://www.lookonchain.com/feeds/22928</link>
       <description>August 2nd: Williams of the Federal Reserve stated that the substantial downward revisions to job growth in May and June were the &quot;actual news&quot; in the nonfarm payroll report on Friday. He will attend the September meeting with a mindset of being open to discussing whether to reduce interest rates. (Forex Live)</description>
-      <pubDate>Sat, 02 Aug 2025 15:28:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22928</guid>
       <category>crypto</category>
@@ -192,7 +192,7 @@
       <title>Trump: Hope to Release All Epstein Case Related Documents</title>
       <link>https://www.lookonchain.com/feeds/22926</link>
       <description>On August 2nd, Trump expressed that he &quot;hopes to make public all the documents related to the Epstein case&quot; while not wanting anyone to be harmed or implicated. He also stated that if those in possession of the documents truly have any information related to him, it should have been made public before the presidential election.BlockBeats had previously reported that on July 29th, U.S. President Trump claimed that he &quot;never had the honor&quot; to visit Jeffrey Epstein&apos;s island. Trump said he declined Epstein&apos;s invitation and regarded it as a wise choice. Previously, Trump had repeatedly distanced himself from Epstein.On July 24th, U.S. Attorney General Pam Bondi informed Trump in May that there are numerous individuals involved in the Epstein case, including his name, within the Epstein files. After the report was released, the White House provided contradictory responses: initially issuing a statement labeling it as &quot;fake news,&quot; but a White House official later told Reuters that the gov</description>
-      <pubDate>Sat, 02 Aug 2025 15:28:47 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 15:46:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22926</guid>
       <category>crypto</category>
