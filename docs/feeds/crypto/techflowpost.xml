@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 07:56:33 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Aug 2025 07:56:33 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 08:30:43 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 08:30:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>神秘鲸鱼累计购入价值 1.485 亿美元的 PI 代币</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Cointelegraph 报道，一名神秘鲸鱼已累计购入 3.31 亿枚 PI 代币，总价值约 1.485 亿美元。市场投机者认为这可能是一次战略性回购行动。</description>
+      <pubDate>Sat, 02 Aug 2025 08:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼地址过去8小时从CEX提币10,245枚ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，鲸鱼 0xF436 过去 8 小时内再次交易平台提取 10,245 枚 ETH（约合 3600 万美元）。</description>
+      <pubDate>Sat, 02 Aug 2025 08:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Binance：至少拥有200积分的Alpha用户可领取750枚AIO空投</title>
       <link>https://www.techflowpost.com</link>
@@ -25,9 +47,9 @@
 
     </item>
     <item>
-      <title>交易员Eugene：已再次做多ETH，当前BTC“入场”价格水平或在11.2万美元</title>
+      <title>交易员Eugene：已再次做多ETH，当前BTC试仓点或在11.3万美元</title>
       <link>https://www.techflowpost.com</link>
-      <description>交易员Eugene在个人频道发文表示，已经再次做多ETH，现阶段BTC合理价格水平或在11.3万美元，ETH在3500美元，如果比特币低于11.2万美元或ETH低于3400美元，则值得入场。客观的结构性买盘仍在持续，所以个人觉得市场不会这么快就变得悲观，很多人在“我们回来了”和“一切都结束了”之间...</description>
+      <description>交易员Eugene在个人频道发文表示，已经再次做多ETH，现阶段BTC合理试仓点或在11.3万美元，ETH在3500美元，如果比特币低于11.2万美元或ETH低于3400美元则是止损位。客观的结构性买盘仍在持续，所以个人觉得市场不会这么快就变得悲观，很多人在“我们回来了”和“一切都结束了”之间摇摆...</description>
       <pubDate>Sat, 02 Aug 2025 07:39:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，疑似归属于 Anchorage Digital 的地址似乎正通过 Galaxy Digital OTC 买入 14933 ETH，价值 5207 万美元。该地址于 4 小时 ETH 的反弹起点时开始接收 ETH，接收均价 3,487 美元；目...</description>
       <pubDate>Sat, 02 Aug 2025 02:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼从币安提取约11.1万枚UNI和501枚ETH后转入另一CEX，价值277万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Arkham监测数据显示，大约30分钟前，某鲸鱼从币安提取501.451枚ETH（价值176万美元）和11.1464万枚UNI（价值101万美元），随后该鲸鱼将其全部转入Bitget。</description>
-      <pubDate>Sat, 02 Aug 2025 02:37:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Beam 将参展 Gamescom 2025 并展示区块链游戏</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Beam Foundation 官方 X 账号披露，Beam 将参加Gamescom 2025。活动将于 8 月 20 日在德国科隆举行，Beam 将与 Avalanche（AVAX）合作，共同展示多款区块链游戏。Beam Foundation 在社交媒体上还提到了&quot;Forgotten Pla...</description>
-      <pubDate>Sat, 02 Aug 2025 02:37:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
