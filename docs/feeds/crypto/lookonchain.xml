@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Aug 2025 23:58:55 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Aug 2025 23:58:55 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 02:22:48 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 02:22:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>In the past 4 hours, there has been a total of $332 million in liquidations across the network, with long positions being the primary liquidated.</title>
-      <link>https://www.lookonchain.com/feeds/22870</link>
-      <description>On August 2nd, according to Coinglass data, within the past 4 hours, a total of $332 million has been liquidated across the network. Among them, $318 million is from long liquidations and $13.7068 million is from short liquidations.In the past 24 hours, the entire network has witnessed a liquidation of $1.059 billion. Long liquidations amount to $970 million, while short liquidations reach $89.1917 million. The largest single liquidation took place on Binance - ETHUSD_PERP, with a total of $13.7912 million.</description>
-      <pubDate>Fri, 01 Aug 2025 23:00:03 +0000</pubDate>
+      <title>A certain newly created address increased its holdings by another 16,500 ETH early this morning, accumulating nearly 80,000 ETH over the past three days.</title>
+      <link>https://www.lookonchain.com/feeds/22883</link>
+      <description>On August 2nd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the new address 0xdf0...e2EF3 has accumulated a total of 79,461.38 ETH (approximately $2.99 billion) within the past three days. Currently, it is facing an unrealized loss of $22.056 million.During the early morning dip today, this address once again received 16,495.15 ETH (approximately $58.5 million) from Galaxy Digital, which lowered its overall average ETH cost basis to $3,763.53.</description>
+      <pubDate>Sat, 02 Aug 2025 02:16:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22870</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22883</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,16 +28,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
-      <title>SOL Short-Term Dips Below $160</title>
-      <link>https://www.lookonchain.com/feeds/22868</link>
-      <description>On August 2nd, according to HTX market data, SOL briefly dropped below $160, experiencing a 24-hour percentage decline of 6.92%.</description>
-      <pubDate>Fri, 01 Aug 2025 22:58:03 +0000</pubDate>
+      <title>Due to suspicions of manipulation of employment data, Trump has fired the head of the US Department of Labor.</title>
+      <link>https://www.lookonchain.com/feeds/22882</link>
+      <description>On August 2nd, according to AXIOS, Stephen Miran, a senior economic adviser in the White House, said that a key economic data agency requires a &quot;new perspective.&quot; However, he did not support President Trump&apos;s claim of political manipulation of Friday&apos;s employment data. On Friday, Trump ordered the dismissal of the director of the Bureau of Labor Statistics (the agency that releases non-farm data) after previously making unfounded claims that the disappointing employment data was &quot;manipulated.&quot; The bureau later confirmed that Erika McEntarfer, the director, was fired, and her deputy, William Wiatrowski, served as the acting director.The July jobs report released earlier on Friday showed that only 73,000 jobs were added last month. The Bureau of Labor Statistics also announced significant revisions, indicating that employment was 258,000 fewer than previously thought. This marks the second-largest downward revision on record, second only to the revisions during the pandemic.Trump pre</description>
+      <pubDate>Sat, 02 Aug 2025 02:08:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22868</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22882</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -46,36 +47,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>LookOnChain: Bitcoin Falls Below $113,000</title>
-      <link>https://www.lookonchain.com/feeds/22867</link>
-      <description>On August 2nd, according to HTX market data, Bitcoin dropped below $113,000, experiencing a 24-hour decline of 2.68%.</description>
-      <pubDate>Fri, 01 Aug 2025 22:58:03 +0000</pubDate>
+      <title>Arthur Hayes sold 2373 ETH and 7.76 million ENA in the last 6 hours.</title>
+      <link>https://www.lookonchain.com/feeds/22881</link>
+      <description>On August 2nd. Based on LookOnChain&apos;s monitoring, Arthur Hayes sold 2,373 ETH amounting to $8.32 million, 7.76 million ENA with a value of $4.62 million, and 38.86 billion PEPE which is worth $41,470 within the past 6 hours.</description>
+      <pubDate>Sat, 02 Aug 2025 01:56:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22867</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Drops Below $3,450 in Short-Term Correction</title>
-      <link>https://www.lookonchain.com/feeds/22869</link>
-      <description>On August 2nd, based on HTX market data, Ethereum briefly fell below $3,450, experiencing a 24-hour decrease of 6.53%.</description>
-      <pubDate>Fri, 01 Aug 2025 22:58:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22869</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22881</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -90,63 +70,12 @@
 
     </item>
     <item>
-      <title>Trader Bets Bigger on September Fed Rate Cut, Possibly Due to C?uré Resignation</title>
-      <link>https://www.lookonchain.com/feeds/22866</link>
-      <description>August 2nd: Traders have heightened their wagers on a Fed rate cut in September. In terms of the news aspect, Federal Reserve Governor Cugler is set to resign next week, enabling Trump to appoint a preferred candidate in advance. (FXStreet)</description>
-      <pubDate>Fri, 01 Aug 2025 21:58:03 +0000</pubDate>
+      <title>「Pump Master」 Huang Licheng added to his long position in the early hours and then liquidated, increasing his overall unrealized loss to $18.5 million</title>
+      <link>https://www.lookonchain.com/feeds/22879</link>
+      <description>On August 2nd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), during the period of the rapid market decline from 0:00 to 4:00 in the morning today, &quot;Brother Ma Ji&quot; Huang Licheng carried out a small-scale round of additional long positions on ETH, HYPE, and PUMP. After a brief rebound at 5:00 in the morning, it once again bottomed out and chose to cut losses. Currently, there is still a remaining total position value of 1.49 billion US dollars. ETH is almost even with PUMP in terms of unrealized losses, exceeding 6 million US dollars. And the overall unrealized losses have expanded to 18.5 million US dollars.</description>
+      <pubDate>Sat, 02 Aug 2025 01:40:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22866</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: Non-Farm Payrolls Data Was Manipulated to Embarrass Me</title>
-      <link>https://www.lookonchain.com/feeds/22865</link>
-      <description>On August 2nd, U.S. President Trump&apos;s latest social media message reads: &quot;In my opinion, today&apos;s employment data has been manipulated in order to embarrass Republicans and me. Just like they did around the 2024 presidential election. Firstly, they presented three days of good data. Then, on November 15th, 2024, shortly after the election, that data was significantly revised downward. It&apos;s a complete fraud.&quot;&quot;Too late, Mr. Powell&quot; is not in a good situation either! But the good news is that our country is performing very well! (FXStreet)</description>
-      <pubDate>Fri, 01 Aug 2025 21:58:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22865</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Board Governor Quarles to Resign Next Week, Trump Sees an Opportunity to Appoint</title>
-      <link>https://www.lookonchain.com/feeds/22864</link>
-      <description>August 2nd: The Federal Reserve issued a statement announcing that Fed Governor Lael Brainard will tender her resignation next week. This gives President Trump an early chance to potentially appoint a preferred candidate who could assume a leadership role at the central bank. Brainard&apos;s position was not scheduled to become vacant until January of next year, and the 7-member Federal Reserve Board currently has no other vacant positions.Now, Trump will be able to promptly appoint a new governor to exert pressure on Chairman Powell—this governor may potentially succeed Powell. The statement noted that Brainard has submitted her resignation to President Trump and will step down next Friday, August 8th, in order to return to Georgetown University as a professor.Brainard did not participate in this week&apos;s Federal Reserve policy meeting. The Board stated that her absence was due to personal reasons. Brainard previously served as the Chief Economist at the U.S. Department of Labor and was</description>
-      <pubDate>Fri, 01 Aug 2025 21:58:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22864</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>In the past 24 hours, the entire network has seen $812 million in liquidations, mainly from long positions.</title>
-      <link>https://www.lookonchain.com/feeds/22861</link>
-      <description>On August 2nd, according to data from Coinglass, within the past 24 hours, the total liquidation across the entire network reached $8.12 billion. The total long liquidation was $7.34 billion, and the total short liquidation was $77.15 million.</description>
-      <pubDate>Fri, 01 Aug 2025 16:58:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22861</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22879</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -159,12 +88,12 @@
 
     </item>
     <item>
-      <title>Trump: Has Ordered Two Nuclear Submarines to be Deployed to Appropriate Region Near Russia</title>
-      <link>https://www.lookonchain.com/feeds/22863</link>
-      <description>On August 2nd, US President Trump posted on social media and said, &quot;In view of the highly provocative remarks made by former Russian President and current Deputy Chairman of the Russian Security Council Medvedev, I have ordered two nuclear submarines to be deployed to the relevant region to ensure that these foolish and provocative remarks are not just empty words. Speech is of great significance and often leads to unexpected consequences. I hope this will not become one of those situations.&quot;</description>
-      <pubDate>Fri, 01 Aug 2025 16:58:03 +0000</pubDate>
+      <title>Trump: Two Nuclear Submarines Deployed to the Region in Response to Provocative Remarks by Former Russian President</title>
+      <link>https://www.lookonchain.com/feeds/22880</link>
+      <description>On August 2nd, President Trump of the United States posted on social media: &quot;In view of the provocative remarks made by the former President of Russia and the current Deputy Chairman of the Russian Federation Security Council, Medvedev, I have ordered two nuclear submarines to be deployed to the corresponding region in order to prevent these foolish and provocative remarks from being mere words. Speech is of great importance and often leads to unexpected consequences. I hope this will not be one of those situations.&quot;Later, at 8 a.m. Beijing time this morning, Trump supplemented his statement, stating that the nuclear submarines are now closer to Russia.</description>
+      <pubDate>Sat, 02 Aug 2025 01:40:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22863</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22880</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -176,12 +105,94 @@
 
     </item>
     <item>
-      <title>CNBC: Crypto Market Enters Turbulent August as Trump&apos;s New Tariffs Spark Risk-Off Sentiment</title>
-      <link>https://www.lookonchain.com/feeds/22862</link>
-      <description>On August 2nd, as per the report by CNBC, the crypto market witnessed a decline on Friday following Trump&apos;s announcement of &quot;reciprocal&quot; tariff adjustments for dozens of countries. Bitcoin&apos;s price demonstrated relative strength, while Ethereum, XRP, and BNB all underwent minor drops. Bitcoin once dropped to a low of $113,988.47.This decline led to a widespread long liquidation, with traders being compelled to sell assets at the market price to repay debts, thereby further driving down the price.Crypto-related stocks experienced even greater declines. Coinbase took the lead in the decline due to its poor second-quarter performance, falling by 15%; Circle declined by 4%, Galaxy Digital fell by 2%, the Ethereum treasury company Bitmine Immersion dropped by 8%, and MicroStrategy fell by 5%.</description>
-      <pubDate>Fri, 01 Aug 2025 16:58:03 +0000</pubDate>
+      <title>Hyperliquid Whale Fund Movement: Over $150 million USDC withdrawn in 24 hours, with three addresses depositing $20 million USDC against the trend</title>
+      <link>https://www.lookonchain.com/feeds/22878</link>
+      <description>August 2nd. Based on the monitoring of HyperInsight at HyperInsight, in the past 24 hours, several whales have carried out large-scale fund operations, and the fund flow shows a confrontation between long and short positions:【Large Withdrawals】The whale with the address starting with 0x5b5d51 withdrew approximately 54 million USDC;The whale with the address starting with 0xB83DE0 withdrew about 32 million USDC;The whale with the address starting with 0x97E5b0 withdrew around 30.73 million USDC;The whale with the address starting with 0x8607a7 (within 4 hours) withdrew about 10 million USDC;The whale with the address starting with 0x418AA6 (within 4 hours) withdrew approximately 2.5 million USDC;【Against the Trend Deposits】The whale with the address starting with 0x1807cfb deposited about 7 million USDC;The whale with the address starting with 0xB8B9E3 deposited around 6.12 million USDC;The whale with the address st</description>
+      <pubDate>Sat, 02 Aug 2025 01:24:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22862</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22878</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「Insider Trader」 @qwatio&apos;s BTC &amp; ETH Double Short Position is currently up nearly $6 million</title>
+      <link>https://www.lookonchain.com/feeds/22877</link>
+      <description>On August 2nd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), with the continuous decline of the market, the &quot;insider trader&quot; @qwatio&apos;s BTCD double short position is now showing a profit of $5.859 million.</description>
+      <pubDate>Sat, 02 Aug 2025 01:24:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22877</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「ETH Version of MicroStrategy」 SharpLink (SBET) increased its ETH holdings by 14,900 coins and has set aside 55.56 million U for another purchase.</title>
+      <link>https://www.lookonchain.com/feeds/22876</link>
+      <description>On August 2nd, as monitored by on-chain data analyst Yu Jin, the &quot;ETH Version MicroStrategy&quot; stock SharpLink (SBET) transferred 53 million USDC to the Galaxy Digital address within the past 7 hours. Then, 2 hours ago, it received 14,933 ETH with a purchase price of approximately $3,550. After receiving the ETH, it transferred another 55.56 million USDC to Galaxy Digital to continue purchasing ETH. The total expenditure was $108 million.Since early June, SharpLink Gaming has been operating in a micro-strategy mode to accumulate ETH. As of today, it has accumulated 464,000 ETH, which is now worth $1.62 billion. The comprehensive average purchase price is about $3,029, and the current unrealized gain is $214 million.</description>
+      <pubDate>Sat, 02 Aug 2025 01:21:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22876</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>[Quad-Short ETH Whale with 75% Win Rate] Added to Short Position 3 Hours Ago with 20,000 ETH, Position Value Now $140 Million</title>
+      <link>https://www.lookonchain.com/feeds/22875</link>
+      <description>On August 2nd, according to the monitoring of on-chain data analyst Yu Jin, the [Four-Battle ETH 75% Win Rate Whale] continued to increase their short position by 20,000 ETH three hours ago. Currently, their short position has a floating profit of 7.5 million.It is reported that this address shorted 20,000 ETH at a price of $3,843 on July 28th. Early this morning, they added to their short position by shorting another 20,000 ETH at a price of $3,535.Currently, their position details are as follows: They have 15 times short positions of 40,000 ETH. The position value is $140 million. The opening price is $3,689 and the liquidation price is $3,717.</description>
+      <pubDate>Sat, 02 Aug 2025 01:21:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22875</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>US Stock Crypto Stocks See Larger Declines than Altcoins, with COIN Plummeting by 16.7% and VAPE Dropping Over 20% Again</title>
+      <link>https://www.lookonchain.com/feeds/22874</link>
+      <description>On August 2nd, based on the data from rockflow, the U.S. stock market closed significantly lower on Friday. The three major indices experienced a sharp decline. The Dow fell by 1.23%, the S&amp;P 500 dropped by 1.6%, and the Nasdaq fell by 2.24%. Cryptocurrency-related stocks generally showed a downward trend, including:Coinbase (COIN) decreased by 16.70% with a trading volume of $10.53 billion.Circle (CRCL) fell by 8.40% and had a trading volume of $2.26 billion.MicroStrategy (MSTR) declined by 8.77% with a trading volume of $8.197 billion.Galaxy Digital (GLXY) fell by 5.40% and had a trading volume of $2.57 billion.MARA Holdings (MARA) decreased by 3.61% with a trading volume of $673 million.Riot Blockchain (RIOT) fell by 17.75% with a trading volume of $568 million.BTCS (BTCS) dropped by 11.16% with a trading volume of $21.335 million.Bit Digital (BTBT) fell by 6.53% with a trading volume of $55.934 million.SharpLink Gaming (SBET) fell by 8.88% with a trading volume of $5.20 bi</description>
+      <pubDate>Sat, 02 Aug 2025 01:21:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22874</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
