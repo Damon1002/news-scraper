@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Aug 2025 03:43:43 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Aug 2025 03:43:43 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 04:23:34 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 04:23:34 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,109 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitcoin ETF Sees Highest Single-Day Net Outflow in Almost 5 Months, Marking Second-Highest Single-Day Net Outflow in History</title>
+      <link>https://www.lookonchain.com/feeds/22895</link>
+      <description>On August 2nd, as monitored by Farside Investors, the net outflow of the US Bitcoin spot ETF yesterday was $8.123 billion, setting the second-highest single-day net outflow record in history and the highest net outflow in nearly 5 months on a single day.In addition, the net outflow of the US Ethereum spot ETF yesterday was $1.523 billion, setting the third-highest net outflow record in history.</description>
+      <pubDate>Sat, 02 Aug 2025 04:08:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22895</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>A whale address has transferred 26,000 ETH to a CEX in the last 48 hours</title>
+      <link>https://www.lookonchain.com/feeds/22894</link>
+      <description>On August 2nd, as per the monitoring of LookOnChain, Whale 0x3c9E has made a deposit of 26,182 ETH (valued at $93.66 million) to Binance, Bybit, OKX, and Kraken within the past 48 hours.</description>
+      <pubDate>Sat, 02 Aug 2025 04:08:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22894</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Yesterday the US Ethereum spot ETF experienced a net outflow of $1.523 billion</title>
+      <link>https://www.lookonchain.com/feeds/22893</link>
+      <description>August 2nd: As per Farside Investors, the net outflow of the U.S. Ethereum spot ETF yesterday was $152.3 million, and the breakdown is as follows:Fidelity FETH: -$6.2 millionBitwise ETHW: -$40.3 million21Shares CETH: -$1.9 millionVanEck ETHV: -$5.2 millionPIMCO QETH: -$8.4 millionFranklin Templeton EZET: -$5.4 millionGrayscale ETHE: -$37.2 millionGrayscale Mini ETH: -$47.7 million</description>
+      <pubDate>Sat, 02 Aug 2025 04:00:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22893</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Yesterday the US Bitcoin spot ETF experienced a net outflow of $8.123 billion</title>
+      <link>https://www.lookonchain.com/feeds/22892</link>
+      <description>On August 2nd, according to the monitoring of Farside Investors, the net outflow of US Bitcoin spot ETF yesterday was $8.123 billion, including:BlackRock IBIT: -$2.6 millionFidelity FBTC: -$3.314 billionBitwise BITB: -$38.3 millionARK ARKB: -$3.279 billionVanEck BTCO: -$5.1 millionFranklin EZBC: -$6.6 millionGrayscale GBTC: -$66.8 millionGrayscale Mini BTC: -$33.6 million</description>
+      <pubDate>Sat, 02 Aug 2025 04:00:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22892</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale address has transferred 108,000 SOL to a CEX in the last 8 hours.</title>
+      <link>https://www.lookonchain.com/feeds/22891</link>
+      <description>On August 2nd, as per the monitoring of LookOnChain, Whale KMhcqN has deposited 108,016 SOL tokens (valued at $17.74 million) into OKX and Binance within the past 8 hours.</description>
+      <pubDate>Sat, 02 Aug 2025 03:48:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22891</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
       <title>SEC Cryptocurrency Working Group to Host 10 Roundtable Meetings Across the United States</title>
       <link>https://www.lookonchain.com/feeds/22890</link>
       <description>On August 2nd, Hester Peirce, a commissioner of the U.S. Securities and Exchange Commission (SEC), will set out on a ten-city tour this fall as part of the SEC&apos;s newly initiated cryptocurrency public engagement initiative. The regulatory agency announced on Friday that it will hold a series of roundtable meetings with the aim of soliciting feedback from industry stakeholders, developers, and investors on the digital asset regulations that the agency is considering.Peirce said in a statement, &quot;The cryptocurrency working group is acutely aware that any regulatory framework will have far-reaching impacts, and we want to ensure that our public engagement is as comprehensive as possible.&quot; The agency&apos;s cryptocurrency working group is &quot;particularly interested&quot; in meeting with cryptocurrency startups that have been in existence for less than two years and have fewer than 10 employees. These roundtable discussions will take place between August and December.Many roundtable meetings held by</description>
-      <pubDate>Sat, 02 Aug 2025 03:24:50 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 03:24:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22890</guid>
       <category>crypto</category>
@@ -34,7 +133,7 @@
       <title>Binance Alpha will launch Cycle Network (CYC) on August 4th</title>
       <link>https://www.lookonchain.com/feeds/22889</link>
       <description>August 2nd. According to official information, Binance Alpha is scheduled to list Cycle Network (CYC) on August 4th. Qualified users can utilize Binance Alpha Points to claim the airdrop on the Alpha event page. The airdrop will be available for claiming once trading commences. Further details will be made public shortly.</description>
-      <pubDate>Sat, 02 Aug 2025 03:16:50 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 03:22:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22889</guid>
       <category>crypto</category>
@@ -51,7 +150,7 @@
       <title>What Trump Did This Morning: Accused Non-Farm Payroll Data of Falsification and Fired the Labor Bureau Director, Dispatched a Nuclear Submarine Near Russian-Adjacent Region</title>
       <link>https://www.lookonchain.com/feeds/22888</link>
       <description>August 2nd. Yesterday, following the release of the non-farm payroll data, the U.S. Bureau of Labor Statistics made significant downward revisions to the May and June non-farm payroll data. The non-farm employment increase in May was revised from 144,000 to 19,000; the non-farm employment increase in June was revised from 147,000 to 14,000. After the revision, the combined May and June non-farm employment numbers were 258,000 lower than previously reported.U.S. President Trump directly pointed out in a tweet that &quot;this is a scam against him&quot;: &quot;In my view, today&apos;s job data has been manipulated to humiliate Republicans and me—just as before and after the 2024 presidential election. First, they presented three days of excellent data, and then on November 15, 2024, shortly after the election, this data was significantly revised downward—a complete scam.&quot; Trump then ordered the dismissal of Bureau of Labor Statistics Commissioner Erika McEntarfer, and his deputy William Wiatrowski served</description>
-      <pubDate>Sat, 02 Aug 2025 03:08:50 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 03:22:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22888</guid>
       <category>crypto</category>
@@ -68,7 +167,7 @@
       <title>If Bitcoin drops below $112,000, the mainstream CEX long liquidation pressure will reach $1.09 billion</title>
       <link>https://www.lookonchain.com/feeds/22887</link>
       <description>August 2nd. Based on Coinglass data, if Bitcoin drops below $112,000, the cumulative long liquidation intensity on mainstream CEXs will amount to $1.09 billion.On the other hand, if Bitcoin rebounds to $116,713, the cumulative short liquidation intensity on mainstream CEXs will reach $2.504 billion.BlockBeats Notes: The liquidation chart does not display the precise number of contracts to be liquidated or the exact value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent clusters, that is, intensity.Therefore, the liquidation chart shows how much the underlying price will be affected when it reaches a certain position. A higher &quot;liquidation bar&quot; indicates that the price is likely to experience a more intense reaction due to a liquidity cascade once it reaches that level.</description>
-      <pubDate>Sat, 02 Aug 2025 02:56:50 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 03:22:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22887</guid>
       <category>crypto</category>
@@ -88,101 +187,9 @@
       <title>Gate Group has secured licenses in 23 states across the United States and has officially launched the Gate US trading platform.</title>
       <link>https://www.lookonchain.com/feeds/22886</link>
       <description>On August 2nd, as per Cointelegraph, Gate announced that it has successfully acquired licenses in 23 U.S. states and has officially launched the Gate US trading platform. The platform is now providing cryptocurrency trading services to users in licensed regions, marking another significant milestone in Gate Group&apos;s accelerated pace of global compliance.Previously, Gate Group has obtained or completed regulatory registrations, license applications, authorizations, or approvals in jurisdictions such as Lithuania, Argentina, Malta, Italy, the Bahamas, Gibraltar, and Hong Kong. This year, Gate&apos;s subsidiary, Gate Technology FZE, obtained a VASP license under the regulation and supervision of VARA in Dubai. Last year, Gate Group also completed the acquisition of a licensed exchange in Japan, further expanding its global compliance network.</description>
-      <pubDate>Sat, 02 Aug 2025 02:48:50 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 02:22:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22886</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Suspected Anchorage Digital Address &quot;Buy the Dip&quot; Purchased 14,933 ETH Early This Morning</title>
-      <link>https://www.lookonchain.com/feeds/22885</link>
-      <description>August 2nd. According to on-chain analyst Ai Auntie (@ai_9684xtpa), an address that is suspected to belong to Anchorage Digital seems to have purchased 14,933 ETH through Galaxy Digital OTC, with a value of $52.07 million.The address began to receive ETH at the start of a 4-hour ETH rebound, and the average receiving price was $3,487. All the tokens have now been transferred to address 0x18A...327Ea.</description>
-      <pubDate>Sat, 02 Aug 2025 02:42:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22885</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>The CFTC has announced the launch of the Crypto Sprint program to collaborate with the SEC&apos;s Project Crypto.</title>
-      <link>https://www.lookonchain.com/feeds/22884</link>
-      <description>August 2nd. Caroline D. Pham, who is the Acting Chair of the U.S. Commodity Futures Trading Commission (CFTC), announced today that the CFTC will initiate a Crypto Sprint Initiative in order to start implementing the recommendations of the report by the President&apos;s Working Group on Financial Markets.Acting Chair Pham stated, &quot;The CFTC is working hard to fulfill President Trump&apos;s vision of making the United States the world&apos;s crypto capital. We will closely collaborate with SEC Chair Paul Atkins and Commissioner Hester Peirce to advance &apos;Project Crypto.&apos; Providing clear regulations for the digital asset market at present and promoting innovation will fulfill the government&apos;s commitment to usher in the crypto golden age.&quot;Officials pointed out that since January, the CFTC has hosted its very first Crypto CEO Forum, revoked outdated staff letters, and issued new guidance to enhance regulatory transparency for U.S. and global crypto and digital asset innovators and entrepreneurs. The CF</description>
-      <pubDate>Sat, 02 Aug 2025 02:42:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22884</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A certain newly created address increased its holdings by another 16,500 ETH early this morning, accumulating nearly 80,000 ETH over the past three days.</title>
-      <link>https://www.lookonchain.com/feeds/22883</link>
-      <description>On August 2nd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the new address 0xdf0...e2EF3 has accumulated a total of 79,461.38 ETH (approximately $2.99 billion) within the past three days. Currently, it is facing an unrealized loss of $22.056 million.During the early morning dip today, this address once again received 16,495.15 ETH (approximately $58.5 million) from Galaxy Digital, which lowered its overall average ETH cost basis to $3,763.53.</description>
-      <pubDate>Sat, 02 Aug 2025 02:42:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22883</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Arthur Hayes sold 2373 ETH and 7.76 million ENA in the last 6 hours.</title>
-      <link>https://www.lookonchain.com/feeds/22881</link>
-      <description>On August 2nd. Based on LookOnChain&apos;s monitoring, Arthur Hayes sold 2,373 ETH amounting to $8.32 million, 7.76 million ENA with a value of $4.62 million, and 38.86 billion PEPE which is worth $41,470 within the past 6 hours.</description>
-      <pubDate>Sat, 02 Aug 2025 01:42:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22881</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Due to suspicions of manipulation of employment data, Trump has fired the head of the US Department of Labor.</title>
-      <link>https://www.lookonchain.com/feeds/22882</link>
-      <description>On August 2nd, according to AXIOS, Stephen Miran, a senior economic adviser in the White House, said that a key economic data agency requires a &quot;new perspective.&quot; However, he did not support President Trump&apos;s claim of political manipulation of Friday&apos;s employment data. On Friday, Trump ordered the dismissal of the director of the Bureau of Labor Statistics (the agency that releases non-farm data) after previously making unfounded claims that the disappointing employment data was &quot;manipulated.&quot; The bureau later confirmed that Erika McEntarfer, the director, was fired, and her deputy, William Wiatrowski, served as the acting director.The July jobs report released earlier on Friday showed that only 73,000 jobs were added last month. The Bureau of Labor Statistics also announced significant revisions, indicating that employment was 258,000 fewer than previously thought. This marks the second-largest downward revision on record, second only to the revisions during the pandemic.Trump pre</description>
-      <pubDate>Sat, 02 Aug 2025 01:42:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22882</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
