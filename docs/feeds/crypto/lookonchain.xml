@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 04:56:56 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 04:56:56 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 05:32:05 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 05:32:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,45 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Hong Kong RWA Registration Platform to Go Live on August 7th</title>
+      <link>https://www.lookonchain.com/feeds/22970</link>
+      <description>August 3rd. According to the SCI-Tech Innovation Board Daily, the Hong Kong RWA Registration Platform is scheduled to become operational on August 7th. This initiative is led by the Hong Kong Web 3.0 Standardization Association and is aimed at bridging the entire process service system of dataization, assetization, and financialization in the context of RWA asset tokenization.</description>
+      <pubDate>Sun, 03 Aug 2025 05:24:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22970</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>CFX Breaks $0.215, Surging 11.6% in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/22969</link>
+      <description>On August 3rd, based on HTX market data, CFX has surpassed $0.215 and is currently trading at $0.21594, indicating a 24-hour price increase of 11.6%.</description>
+      <pubDate>Sun, 03 Aug 2025 05:16:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22969</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Elon Musk asked Grok about the probability of quantum computing breaking the Bitcoin algorithm (SHA-256), to which Grok replied, &quot;Almost 0 in the next 5 years.&quot;</title>
       <link>https://www.lookonchain.com/feeds/22968</link>
       <description>August 3rd: According to the published article by IBM on the research progress of quantum computing, Musk inquired of Grok about the probability of quantum computing breaking the Bitcoin algorithm (SHA-256).Grok replied that, based on the investigations by NIST, IBM, and experts for 2025, the probability of quantum computing breaking SHA-256 is &quot;nearly 0% within the next 5 years and will be less than 10% by 2035.&quot; This requires millions of error-corrected quantum bits, while current systems only support about 1,000 noisy quantum bits. For now, Bitcoin&apos;s hash value remains secure.</description>
-      <pubDate>Sun, 03 Aug 2025 04:41:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 04:40:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22968</guid>
       <category>crypto</category>
@@ -36,7 +71,7 @@
       <title>Ethereum Contract-Based Coin Top Holder Balance Drops Over 11% from Historical High</title>
       <link>https://www.lookonchain.com/feeds/22967</link>
       <description>On August 3rd, based on Coinglass data, the total amount of Ethereum held in DeFi contracts is currently stated to be 13.7473 million ETH. This represents a 11.4% decrease compared to the previous all-time high range of 15.2971 million ETH on July 29th.</description>
-      <pubDate>Sun, 03 Aug 2025 04:33:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 04:32:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22967</guid>
       <category>crypto</category>
@@ -55,7 +90,7 @@
       <title>The Satoshi Nakamoto statue in Lugano, Switzerland, was stolen today. The statue was co-founded by Tether.</title>
       <link>https://www.lookonchain.com/feeds/22966</link>
       <description>On August 3rd, as per BitcoinNews, the statue of Satoshi Nakamoto in Lugano, Switzerland, got stolen today.In October 2024 on the 25th, the city of Lugano in Switzerland unveiled a statue in Ciani Park (Villa Ciani) to pay tribute to the anonymous creator of Bitcoin, Satoshi Nakamoto. This event was organized by the Plan B initiative in cooperation with Tether and the city of Lugano.This statue was crafted by the Italian artist Valentina Picozzi and it took 18 months of research and 3 months to complete.</description>
-      <pubDate>Sun, 03 Aug 2025 04:25:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 04:31:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22966</guid>
       <category>crypto</category>
@@ -74,7 +109,7 @@
       <title>Communication platform Towns Protocol unveils Tokenomics: 57% of tokens allocated for airdrops, grants, and other community initiatives</title>
       <link>https://www.lookonchain.com/feeds/22965</link>
       <description>On August 3rd, the communication platform Towns Protocol disclosed the tokenomics as follows: The total supply of the TOWNS token is 10 billion. More than 10% of the tokens are planned to be airdropped to early users, partners, and launch collaborators on August 5th.In a previous announcement, Binance Alpha will list Towns (TOWNS) on August 5th.</description>
-      <pubDate>Sun, 03 Aug 2025 04:09:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 04:31:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22965</guid>
       <category>crypto</category>
@@ -88,10 +123,28 @@
 
     </item>
     <item>
+      <title>On August 1st, the entire network experienced a long liquidation of 920 million US dollars, marking the largest long liquidation day since February 25th.</title>
+      <link>https://www.lookonchain.com/feeds/22961</link>
+      <description>August 3rd. Based on Coinglass data, on August 1st, the total liquidation of long positions across the entire network reached $9.222 billion, which was the largest day for long liquidation since February 25th of this year.It is worthy of note that after February 25th, the market entered a consolidation phase that lasted for more than two months.</description>
+      <pubDate>Sun, 03 Aug 2025 03:31:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22961</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Debunked: Several Foreign Media Outlets Today Reported &quot;China Again Bans Cryptocurrency Trading and Mining,&quot; Which May Be Misinformation</title>
       <link>https://www.lookonchain.com/feeds/22964</link>
       <description>August 3rd. Today, numerous overseas media and KOLs, such as Kalshi, First Squawk, and The ETF Store President Nate Geraci, reported on the so-called &quot;China Just Announced Officially Banning Cryptocurrency Trading and Mining&quot; news. BlockBeats has obtained information from multiple sources that up to now, there has been no recent ban announced.In fact, as early as May 19, 2021, China had already completely prohibited cryptocurrency mining activities.</description>
-      <pubDate>Sun, 03 Aug 2025 03:56:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:31:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22964</guid>
       <category>crypto</category>
@@ -108,7 +161,7 @@
       <title>Some Altcoins Show Strong Rebound, CFX Surges Over 5% in Nearly 2 Hours</title>
       <link>https://www.lookonchain.com/feeds/22963</link>
       <description>On August 3rd, according to HTX market data, several altcoins witnessed significant growth along with the market&apos;s rebound. These include:CFX surged by more than 5% in the past 2 hours and is currently trading at $0.2009;RSC achieved a 22.9% increase in the past 24 hours and is now trading at $0.6493;TROLL saw a 19.1% increase in the past 24 hours and is now trading at $0.08076.</description>
-      <pubDate>Sun, 03 Aug 2025 03:56:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:31:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22963</guid>
       <category>crypto</category>
@@ -122,69 +175,12 @@
 
     </item>
     <item>
-      <title>On August 1st, the entire network experienced a long liquidation of 920 million US dollars, marking the largest long liquidation day since February 25th.</title>
-      <link>https://www.lookonchain.com/feeds/22961</link>
-      <description>August 3rd. Based on Coinglass data, on August 1st, the total liquidation of long positions across the entire network reached $9.222 billion, which was the largest day for long liquidation since February 25th of this year.It is worthy of note that after February 25th, the market entered a consolidation phase that lasted for more than two months.</description>
-      <pubDate>Sun, 03 Aug 2025 02:56:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22961</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale went long on Bitcoin with 40x leverage and set a take-profit point at $125,000</title>
-      <link>https://www.lookonchain.com/feeds/22960</link>
-      <description>On August 3rd, based on LookOnChain&apos;s monitoring, Whale 0xab15 established a 40x leveraged long position in Bitcoin. The position value was 400 BTC (equivalent to $45.37 million), and a take-profit price was set at $125,000.</description>
-      <pubDate>Sun, 03 Aug 2025 02:56:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22960</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
       <title>Hong Kong Legislator: Stablecoins Have No Pump-and-Dump Opportunity, Regulations Reference Industry Practices in the US, Japan, and EU</title>
       <link>https://www.lookonchain.com/feeds/22962</link>
       <description>August 3rd. Ted Hui, a member of the Hong Kong Legislative Council, stated in an interview that the core characteristic of a fiat-backed stablecoin is that it must be backed by highly liquid fiat reserves at a rate of 100%. Currently, the main function of a fiat-backed stablecoin is still international payments, and there is no chance for speculation.During the formulation of the &quot;Stablecoin Regulations&quot;, references were made to the United States, Japan, and the EU&apos;s MiCA (Markets in Crypto-Assets) regulation, as well as Singapore&apos;s Payment Service Act (PSA). The legislation takes into account international circulation and demand and adheres to both international and national standards. Additionally, Hui also mentioned that Hong Kong&apos;s stablecoin should not compete for market share with existing products but should explore new markets. (Daily Economic News)</description>
-      <pubDate>Sun, 03 Aug 2025 02:56:03 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:31:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22962</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Sam Altman: ChatGPT&apos;s new model is scheduled to be released in the coming months, but a capacity crisis may occur during this period</title>
-      <link>https://www.lookonchain.com/feeds/22959</link>
-      <description>On August 3rd, the founder of ChatGPT, Sam Altman, posted on the X platform, stating that new models, products, and features, etc. may be launched in the coming months. During this period, there may be some minor issues and capacity crises. Although there may be some instability, the market is expected to be able to accept the upcoming new products.</description>
-      <pubDate>Sun, 03 Aug 2025 02:56:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22959</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
