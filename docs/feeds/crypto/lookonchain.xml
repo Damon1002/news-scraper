@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 09:48:16 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 09:48:16 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 09:59:54 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 09:59:54 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,31 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Whale Sets 10 Big Goals: Bitcoin Long Position Already Up $1.31M</title>
+      <link>https://www.lookonchain.com/feeds/22985</link>
+      <description>On August 3rd, a screenshot disclosed by the whale &quot;Setting 10 Big Goals First&quot; on their personal social media platform indicates that their 5x leveraged Bitcoin long position is currently making a profit of $1.31 million. They took a long position on BTC with an average price of $112,992.84, and their total position size currently amounts to 1930.979 BTC, with a collateral of approximately $43.9 million.</description>
+      <pubDate>Sun, 03 Aug 2025 09:56:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22985</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The current mainstream CEX and DEX funding rate displays a market-wide bearish trend.</title>
       <link>https://www.lookonchain.com/feeds/22984</link>
       <description>On August 3rd, according to Coinglass data, the current funding rates of mainstream CEX and DEX suggest a generally bearish market. The specific funding rates for mainstream coins are presented in the attached image.BlockBeats Note: The funding rate is a rate set by cryptocurrency trading platforms to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it indicates a generally bearish market.</description>
-      <pubDate>Sun, 03 Aug 2025 09:40:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 09:41:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22984</guid>
       <category>crypto</category>
@@ -34,7 +55,7 @@
       <title>X Account@a updated the profile to Grok humanoid companion Ani, with the namesake Meme Coin surging over 60% in the last 6 hours.</title>
       <link>https://www.lookonchain.com/feeds/22983</link>
       <description>On August 3rd, the account with the handle @a on Platform X updated its profile and changed it to Ani, which is a humanoid companion developed by xAI, an artificial intelligence company owned by Musk.Currently, the custom name, background image, and bio of the @a account do not clearly show any official affiliation with xAI&apos;s Grok or other products. It seems that the related information is more of a personal creative choice rather than an official endorsement.According to GMGN market data (https://t.me/gmgnaibot?start=i_m4TE56o8), the Solana-based Meme coin Ani has exceeded a market capitalization of $47 million and is currently at $47.36 million with a 6-hour increase of 62.13%.</description>
-      <pubDate>Sun, 03 Aug 2025 09:08:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 09:08:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22983</guid>
       <category>crypto</category>
@@ -51,7 +72,7 @@
       <title>Satoshi Statue Project Owner Satoshigallery Offers 0.1 BTC Reward to Find Stolen Statue</title>
       <link>https://www.lookonchain.com/feeds/22982</link>
       <description>On August 3rd, based on a post from Satoshigallery, which is the planner of the Satoshi statue, on the X platform: We will provide 0.1 BTC to the person who assists us in recovering the Satoshi statue that was stolen in Lugano yesterday. Satoshigallery addresses the thief, saying, &quot;You can steal our symbol, but you can never steal our soul.&quot; The Satoshigallery team stated that they will collaborate to place this statue in 21 locations worldwide.In a previous communication, the Satoshi statue in Lugano, Switzerland, was stolen. This statue, co-founded by Tether, was designed by the Italian artist Valentina Picozzi and took 18 months of research and 3 months to construct.</description>
-      <pubDate>Sun, 03 Aug 2025 08:47:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 08:59:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22982</guid>
       <category>crypto</category>
@@ -70,7 +91,7 @@
       <title>A whale holder deposited 4.07 million USDC into Hyperliquid 20 minutes ago, increasing their HYPE position.</title>
       <link>https://www.lookonchain.com/feeds/22981</link>
       <description>On August 3rd, as monitored by on-chain analyst Ai Yi (@ai_9684xtpa), the whale address among the top 75 HYPE holders is still in the process of accumulation. 20 minutes ago, they deposited 4.07 million USDC into Hyperliquid and utilized it all to purchase HYPE. This accumulation has caused them to move up 8 places in the ranking. Currently, including the staked amount, they hold a total of 487,209.95 HYPE (approximately $18.65 million), with an unrealized gain of $1.535 million.</description>
-      <pubDate>Sun, 03 Aug 2025 07:47:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 07:59:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22981</guid>
       <category>crypto</category>
@@ -86,30 +107,10 @@
 
     </item>
     <item>
-      <title>Coinbase Institutional Withdraws 1000 Bitcoins, Valued at Approximately $113 Million</title>
-      <link>https://www.lookonchain.com/feeds/22978</link>
-      <description>On August 3rd, as monitored by Whale Alert, 1,000 BTC ($113,640,184) was transferred from Coinbase Institutional to an unidentified wallet.</description>
-      <pubDate>Sun, 03 Aug 2025 07:47:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22978</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Binance Alpha&apos;s new round of MOMOFUN (MM) single-ticket opening yield is approximately $31</title>
       <link>https://www.lookonchain.com/feeds/22980</link>
       <description>On August 3rd, based on market data, MOMOFUN (MM) has been listed on Binance Alpha and is currently trading at $0.0013. Since each eligible user could receive 24,000 MM tokens in an airdrop, the estimated opening profit from this airdrop event is approximately $31 per user.</description>
-      <pubDate>Sun, 03 Aug 2025 07:47:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 07:59:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22980</guid>
       <category>crypto</category>
@@ -127,7 +128,7 @@
       <title>Justin Sun will board the Blue Origin spaceship, and the launch window is scheduled to open tonight at 8:30 PM.</title>
       <link>https://www.lookonchain.com/feeds/22979</link>
       <description>On August 3rd, according to the official website of Blue Origin, the launch window for the Blue Origin spacecraft New Shepard, on which Justin Sun is aboard, will open this evening at 8:30 PM. The official website of Blue Origin will provide a live stream of this launch.In 2021, Justin Sun successfully bid $28 million for the &quot;New Shepard&quot; first crewed flight seat and donated all the bidding funds to Blue Origin&apos;s &quot;Club for the Future&quot; to provide support for global youth STEM education.</description>
-      <pubDate>Sun, 03 Aug 2025 07:47:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 07:59:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22979</guid>
       <category>crypto</category>
@@ -141,10 +142,30 @@
 
     </item>
     <item>
+      <title>Coinbase Institutional Withdraws 1000 Bitcoins, Valued at Approximately $113 Million</title>
+      <link>https://www.lookonchain.com/feeds/22978</link>
+      <description>On August 3rd, as monitored by Whale Alert, 1,000 BTC ($113,640,184) was transferred from Coinbase Institutional to an unidentified wallet.</description>
+      <pubDate>Sun, 03 Aug 2025 06:59:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22978</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>British Retail Investors to Be Able to Purchase Cryptocurrency Exchange Traded Notes in October</title>
       <link>https://www.lookonchain.com/feeds/22977</link>
       <description>On August 3rd, as per the Financial Conduct Authority (FCA) of the UK, a new regulation that is scheduled to come into effect on October 8th will enable UK retail investors to be able to purchase cryptocurrency exchange-traded notes (cETNs) soon. cETNs must be listed on an FCA-approved UK trading platform and adhere to financial promotion and consumer responsibility regulations. While retail users are permitted to use cETNs, they will not be encompassed by the Financial Services Compensation Scheme.The UK Financial Conduct Authority had previously prohibited retail investors from accessing cryptocurrency ETNs in 2021 due to concerns regarding investor protection matters. (CoinDesk)</description>
-      <pubDate>Sun, 03 Aug 2025 06:47:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 06:59:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22977</guid>
       <category>crypto</category>
@@ -161,26 +182,9 @@
       <title>Huobi HTX will launch the &quot;No Threshold&quot; Red Packet Meteor Shower today at 15:00 UTC, with a total prize pool of 10,000 USDT.</title>
       <link>https://www.lookonchain.com/feeds/22976</link>
       <description>On August 3rd, according to official channels, in order to celebrate Huobi HTX Global Advisor Justin Sun&apos;s first space voyage, Huobi HTX will launch a Red Packet Meteor Shower special event. Beginning at 15:00 on August 3rd (UTC+8), token red packets will be distributed every hour for a continuous 6 hours, with a total prize pool of 10,000 USDT. There is no participation requirement, and each user can receive up to 6 red packets. At 15:00 on August 3rd, users can scan the QR code of the poster in the Huobi app to access the event post, or log in to the Huobi HTX App and visit the comment section of the HTX and TRX trading pair candlestick chart page to obtain the red packet.</description>
-      <pubDate>Sun, 03 Aug 2025 06:47:23 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 06:59:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22976</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha: MOMOFUN (MM) Trading to Be Launched Today at 16:00, Airdrop Threshold at 200 Points</title>
-      <link>https://www.lookonchain.com/feeds/22975</link>
-      <description>On August 3rd, as per official information, Binance Alpha is scheduled to list MOMOFUN (MM) for trading at 16:00 today. Users who hold at least 200 Alpha Points are eligible to claim a 24,000 MM token airdrop.</description>
-      <pubDate>Sun, 03 Aug 2025 06:47:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22975</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
