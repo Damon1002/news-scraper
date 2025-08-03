@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 07:19:30 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 07:19:30 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 07:38:21 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 07:38:21 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Coinbase Institutional Withdraws 1000 Bitcoins, Valued at Approximately $113 Million</title>
+      <link>https://www.lookonchain.com/feeds/22978</link>
+      <description>On August 3rd, as monitored by Whale Alert, 1,000 BTC ($113,640,184) was transferred from Coinbase Institutional to an unidentified wallet.</description>
+      <pubDate>Sun, 03 Aug 2025 07:24:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22978</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>British Retail Investors to Be Able to Purchase Cryptocurrency Exchange Traded Notes in October</title>
       <link>https://www.lookonchain.com/feeds/22977</link>
       <description>On August 3rd, as per the Financial Conduct Authority (FCA) of the UK, a new regulation that is scheduled to come into effect on October 8th will enable UK retail investors to be able to purchase cryptocurrency exchange-traded notes (cETNs) soon. cETNs must be listed on an FCA-approved UK trading platform and adhere to financial promotion and consumer responsibility regulations. While retail users are permitted to use cETNs, they will not be encompassed by the Financial Services Compensation Scheme.The UK Financial Conduct Authority had previously prohibited retail investors from accessing cryptocurrency ETNs in 2021 due to concerns regarding investor protection matters. (CoinDesk)</description>
-      <pubDate>Sun, 03 Aug 2025 07:08:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 07:08:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22977</guid>
       <category>crypto</category>
@@ -34,7 +54,7 @@
       <title>Huobi HTX will launch the &quot;No Threshold&quot; Red Packet Meteor Shower today at 15:00 UTC, with a total prize pool of 10,000 USDT.</title>
       <link>https://www.lookonchain.com/feeds/22976</link>
       <description>On August 3rd, according to official channels, in order to celebrate Huobi HTX Global Advisor Justin Sun&apos;s first space voyage, Huobi HTX will launch a Red Packet Meteor Shower special event. Beginning at 15:00 on August 3rd (UTC+8), token red packets will be distributed every hour for a continuous 6 hours, with a total prize pool of 10,000 USDT. There is no participation requirement, and each user can receive up to 6 red packets. At 15:00 on August 3rd, users can scan the QR code of the poster in the Huobi app to access the event post, or log in to the Huobi HTX App and visit the comment section of the HTX and TRX trading pair candlestick chart page to obtain the red packet.</description>
-      <pubDate>Sun, 03 Aug 2025 07:08:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 07:08:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22976</guid>
       <category>crypto</category>
@@ -51,7 +71,7 @@
       <title>Binance Alpha: MOMOFUN (MM) Trading to Be Launched Today at 16:00, Airdrop Threshold at 200 Points</title>
       <link>https://www.lookonchain.com/feeds/22975</link>
       <description>On August 3rd, as per official information, Binance Alpha is scheduled to list MOMOFUN (MM) for trading at 16:00 today. Users who hold at least 200 Alpha Points are eligible to claim a 24,000 MM token airdrop.</description>
-      <pubDate>Sun, 03 Aug 2025 06:40:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 06:40:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22975</guid>
       <category>crypto</category>
@@ -68,7 +88,7 @@
       <title>A certain whale has bought $300 million worth of ETH in the past 3 days and is now facing an unrealized loss of $26 million.</title>
       <link>https://www.lookonchain.com/feeds/22974</link>
       <description>On August 3rd, according to Arkham&apos;s monitoring, a whale address beginning with 0xdf accumulated ETH worth $300 million through Galaxy Digital OTC trades over the past 3 days. Currently, it is facing an unrealized loss of $26 million.</description>
-      <pubDate>Sun, 03 Aug 2025 06:18:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 05:37:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22974</guid>
       <category>crypto</category>
@@ -89,7 +109,7 @@
       <title>Stablecoin Total Market Cap Continues to Rise, Increasing by 0.6% in the Past 7 Days</title>
       <link>https://www.lookonchain.com/feeds/22973</link>
       <description>On August 3rd, based on DefiLlama data, the current total market value of stablecoins across the entire network is reported to be $2672.27 billion, showing a 0.6% increase over the past 7 days. The market dominance of USDT has dropped to 61.64% (down from 61.9% the previous week).</description>
-      <pubDate>Sun, 03 Aug 2025 06:18:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 05:37:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22973</guid>
       <category>crypto</category>
@@ -106,7 +126,7 @@
       <title>Due to factors such as the shockingly low nonfarm payroll data in the US, the probability of a Fed rate cut in September surged to 80.3%.</title>
       <link>https://www.lookonchain.com/feeds/22972</link>
       <description>On August 3rd, this week in the US, only 73,000 non-farm jobs were added in July, which was much lower than expected. The data for June and May were also revised downward significantly. Meanwhile, Federal Reserve Board Member Cugler will resign next week, enabling Trump to appoint a preferred candidate earlier.Perhaps affected by the above news, on the CME &quot;FedWatch&quot; tool, the probability of a 25-basis-point rate cut by the Federal Reserve in September soared to 80.3%. Before the non-farm payroll data, this figure was only 41.3%.</description>
-      <pubDate>Sun, 03 Aug 2025 06:18:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 05:37:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22972</guid>
       <category>crypto</category>
@@ -123,7 +143,7 @@
       <title>Around 560,000 ETH is currently queued to exit the Ethereum PoS network, while over 123,000 ETH is waiting to join.</title>
       <link>https://www.lookonchain.com/feeds/22971</link>
       <description>On August 3rd, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue on the Ethereum PoS network is temporarily showing 559,412 ETH, which is approximately worth $19.31 billion. There was a recent peak of 744,000 ETH. The waiting time for exiting is about 9 days and 17 hours.At the same time, there are approximately 123,694 ETH queued to join the network, with a value of approximately $4.27 billion. The expected activation delay is about 2 days and 4 hours.Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may choose to cash out after Ethereum rebounded by more than 160% from its April low, resulting in a surge in the exit queue. On the other hand, new funds deposited due to regulatory optimism and institutional demand are also driving up the entry queue. Publicly traded companies like SharpLink Gaming and BitMine Immersion are increasing their ETH holdings and s</description>
-      <pubDate>Sun, 03 Aug 2025 05:18:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 05:37:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22971</guid>
       <category>crypto</category>
@@ -142,7 +162,7 @@
       <title>Hong Kong RWA Registration Platform to Go Live on August 7th</title>
       <link>https://www.lookonchain.com/feeds/22970</link>
       <description>August 3rd. According to the SCI-Tech Innovation Board Daily, the Hong Kong RWA Registration Platform is scheduled to become operational on August 7th. This initiative is led by the Hong Kong Web 3.0 Standardization Association and is aimed at bridging the entire process service system of dataization, assetization, and financialization in the context of RWA asset tokenization.</description>
-      <pubDate>Sun, 03 Aug 2025 05:18:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 05:37:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22970</guid>
       <category>crypto</category>
@@ -159,7 +179,7 @@
       <title>CFX Breaks $0.215, Surging 11.6% in 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/22969</link>
       <description>On August 3rd, based on HTX market data, CFX has surpassed $0.215 and is currently trading at $0.21594, indicating a 24-hour price increase of 11.6%.</description>
-      <pubDate>Sun, 03 Aug 2025 05:18:37 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 05:37:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/22969</guid>
       <category>crypto</category>
@@ -171,25 +191,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Elon Musk asked Grok about the probability of quantum computing breaking the Bitcoin algorithm (SHA-256), to which Grok replied, &quot;Almost 0 in the next 5 years.&quot;</title>
-      <link>https://www.lookonchain.com/feeds/22968</link>
-      <description>August 3rd: According to the published article by IBM on the research progress of quantum computing, Musk inquired of Grok about the probability of quantum computing breaking the Bitcoin algorithm (SHA-256).Grok replied that, based on the investigations by NIST, IBM, and experts for 2025, the probability of quantum computing breaking SHA-256 is &quot;nearly 0% within the next 5 years and will be less than 10% by 2035.&quot; This requires millions of error-corrected quantum bits, while current systems only support about 1,000 noisy quantum bits. For now, Bitcoin&apos;s hash value remains secure.</description>
-      <pubDate>Sun, 03 Aug 2025 04:18:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22968</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
