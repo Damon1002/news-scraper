@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 00:01:34 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 00:01:34 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 02:40:58 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 02:40:58 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>LookOnChain: Ethereum Drops Below $3400</title>
-      <link>https://www.lookonchain.com/feeds/22937</link>
-      <description>On August 3rd, based on HTX market data, Ethereum fell below $3400, showing a 24-hour percentage decline of 4.38%.</description>
-      <pubDate>Sat, 02 Aug 2025 18:00:42 +0000</pubDate>
+      <title>Earlier, the previously strong altcoins experienced a widespread decline, with VINE and ZORA nearing a 50% drop from their all-time highs.</title>
+      <link>https://www.lookonchain.com/feeds/22954</link>
+      <description>On August 3rd, based on market data, after the market correction, previously robust altcoins generally experienced a decline. These include:VINE witnessed a daily decline of 29.8% and is now trading at $0.06662.ZORA saw a daily drop of 15.6% and is now trading at $0.05402.ENA saw a daily decline of 9.7% and is now trading at $0.5271.</description>
+      <pubDate>Sun, 03 Aug 2025 02:16:04 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22937</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22954</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,18 +28,104 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>pump.fun&apos;s Solana Launchpad market share in the last 24 hours has increased to 32.4%, while Letsbonk has dropped to 50%.</title>
+      <link>https://www.lookonchain.com/feeds/22953</link>
+      <description>On August 3rd, according to the Jupiter Data Dashboard, in the past 24 hours, within the Solana launchpad market share ranking, the market share of pump.fun increased to 32.4%, while that of Letsbonk decreased to 50.2%.</description>
+      <pubDate>Sun, 03 Aug 2025 02:00:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22953</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>「Brother Big V」 Huang Licheng Liquidates PUMP Long Positions and Fully Exits Spot, Losing a Total of 9.94 Million US Dollars</title>
+      <link>https://www.lookonchain.com/feeds/22951</link>
+      <description>On August 3rd, as monitored by Onchain Lens, the &quot;Big Brother Whale&quot; completely liquidated his PUMP long position with a 5x leverage this morning, resulting in a loss of $7.76 million. He also sold off all his PUMP spot holdings, incurring a loss of $2.18 million, bringing his total loss on PUMP to $9.94 million.Currently, he still holds a long position in ETH with a 25x leverage and HYPE with a 5x leverage, with an unrealized loss of $13.5 million. His total profits have decreased from $26 million to $3.8 million.</description>
+      <pubDate>Sun, 03 Aug 2025 01:57:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22951</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>The crypto market is still experiencing a downturn, with Bitcoin briefly dipping to $112,584.</title>
-      <link>https://www.lookonchain.com/feeds/22936</link>
-      <description>On August 3rd, based on HTX market data, the cryptocurrency market continues to trend in a downward direction and there are no signs of a rebound yet. Bitcoin briefly fell to $112,584 and has now increased to $112,864, showing a 24-hour decrease of 1.28%. Ethereum briefly dropped to $3,414 and has now risen to $3,425, with a 24-hour decrease of 3.73%.</description>
-      <pubDate>Sat, 02 Aug 2025 18:00:42 +0000</pubDate>
+      <title>Crypto Fear &amp; Greed Index Drops to 53, Market Sentiment Returns to &quot;Neutral&quot; for the First Time in Nearly a Month</title>
+      <link>https://www.lookonchain.com/feeds/22952</link>
+      <description>On August 3rd, according to alternative data, the Fear and Greed Index of cryptocurrencies today is 53 (yesterday it was 55), and market sentiment has returned to &quot;Neutral,&quot; which is the first time in nearly a month.Note: The threshold of the Fear Index is 0-100, and it includes indicators such as Volatility (25%) + Market Trading Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
+      <pubDate>Sun, 03 Aug 2025 01:57:04 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22936</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22952</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Cryptocurrency total market capitalization has experienced a 24-hour decline of 5.4%, currently standing at $3.72 trillion.</title>
+      <link>https://www.lookonchain.com/feeds/22950</link>
+      <description>On August 3rd, based on CoinGecko data, the total cryptocurrency market capitalization has declined by 5.4% within the past 24 hours and currently stands at $3.72 trillion. Additionally, the current market dominance is 60.5% for Bitcoin and 11.1% for Ethereum.</description>
+      <pubDate>Sun, 03 Aug 2025 01:49:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22950</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>LuBian Pool was hacked in 2020, losing 127,000 BTC. The hacker still controls the assets and has become the 13th largest BTC holder globally.</title>
+      <link>https://www.lookonchain.com/feeds/22949</link>
+      <description>On August 3rd, according to Arkham, the once top-ten global mining pool LuBian experienced a significant security incident in December 2020. A total of 127,426 BTC were stolen. At the current coin price, the stolen BTC is valued at 14.5 billion US dollars, making it the largest Bitcoin theft in history.Arkham stated that LuBian was a Chinese mining pool with mining farms in China and Iran. In May 2020, it controlled nearly 6% of the Bitcoin network&apos;s total hashing power, exerting considerable industry influence. The attack took place on December 28, 2020. The attacker is said to have exploited a vulnerability in its private key generation algorithm and successfully stole over 90% of the holdings through brute force. The following day (December 29th), the hacker transferred some of the BTC again, amounting to 6 million US dollars.In addition, LuBian tried to negotiate with the hacker through on-chain OP_RETURN messages, requesting the return of the stolen assets. The official team s</description>
+      <pubDate>Sun, 03 Aug 2025 01:41:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22949</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin surpasses $114,000, the mainstream CEX cumulative short liquidation intensity will reach 603 million.</title>
+      <link>https://www.lookonchain.com/feeds/22946</link>
+      <description>On August 3rd, according to Coinglass data, if Bitcoin manages to break through $114,000, the total short liquidation strength of mainstream CEXs will reach 603 million.In contrast, if Bitcoin drops below $112,000, the total long liquidation strength of mainstream CEXs will only be 68.916 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, strength.Consequently, the liquidation chart shows the extent to which the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will experience a more intense reaction due to a liquidity cascade when it reaches that particular level.</description>
+      <pubDate>Sun, 03 Aug 2025 01:40:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22946</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -54,92 +140,12 @@
 
     </item>
     <item>
-      <title>Whale Sets &quot;First 10 Big Goals&quot; to Long Bitcoin, Holding Over 267 Coins</title>
-      <link>https://www.lookonchain.com/feeds/22935</link>
-      <description>On August 3rd, Whale &quot;Sets 10 Major Goals First&quot; posted on their personal social media platform and said, &quot;Have more and don&apos;t betray.&quot;According to the screenshot they provided, they entered the market at a price of $112,891.3, went long on Bitcoin with a leverage of 5x. Currently, they hold a total of 267.322 coins, with a collateral of nearly $6.05 million.The current unrealized gain is more than $67,000.</description>
-      <pubDate>Sat, 02 Aug 2025 17:00:42 +0000</pubDate>
+      <title>「Big Brother Whale」 Huang Licheng recently went long, causing him to give back over 20 million US dollars in profits.</title>
+      <link>https://www.lookonchain.com/feeds/22945</link>
+      <description>On August 3rd, based on cinder monitoring, Big Brother MaJi Huang Licheng&apos;s long position in ETH/HYPE/PUMP this time has nearly returned all the $22.45 million in profits he previously made on ETH and HYPE.Starting from mid-May at $27.5, he began taking a long position in HYPE through spot + futures, and started taking a long position in ETH at $2,654 at the end of May. By late July, his profits had surged to $22.45 million.As the market began to retreat in August, his long positions in ETH/HYPE/PUMP started to lose money, and he has now returned the previous $22.45 million profit and is down to $3.5 million.</description>
+      <pubDate>Sun, 03 Aug 2025 01:40:04 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22935</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Past 7 days CEX Net Outflow of 641.6K Ether</title>
-      <link>https://www.lookonchain.com/feeds/22934</link>
-      <description>On August 3rd, based on Coinglass data, during the past 7 days, there was a net outflow of 641,600 ETH from CEX. The top three CEX with the largest outflows are as follows:· Coinbase Pro, with an outflow of 477,100 ETH;· Binance, with an outflow of 148,200 ETH;· Bitfinex, with an outflow of 67,000 ETH.In addition, Kraken witnessed an inflow of 100,400 ETH and ranked first on the inflow list.</description>
-      <pubDate>Sat, 02 Aug 2025 17:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22934</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>ETH/BTC briefly dropped to 0.03042, marking a more than 2% decrease in the last 24 hours.</title>
-      <link>https://www.lookonchain.com/feeds/22933</link>
-      <description>On August 3rd, based on HTX market data, the exchange rate of ETH/BTC briefly fell to 0.03042 and has now rebounded to 0.03062, with a 2.05% decrease in the past 24 hours.ETH briefly dropped to $3429.05, indicating a 3.76% decrease in the past 24 hours.</description>
-      <pubDate>Sat, 02 Aug 2025 17:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22933</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Ethereum Falls Below $3450, 24-hour Loss Extends to 5.04%</title>
-      <link>https://www.lookonchain.com/feeds/22932</link>
-      <description>On August 3rd, according to HTX market data, with the continuous decline of the crypto market, Ethereum has fallen below $3,450, experiencing a 24-hour loss of 5.04%.</description>
-      <pubDate>Sat, 02 Aug 2025 17:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22932</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Whale Sets 10 Major Targets for Short Position Take-Profit, Cumulative Profit Reaches $7.494 Million</title>
-      <link>https://www.lookonchain.com/feeds/22931</link>
-      <description>On August 3rd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale named &quot;Setting 10 Big Goals First&quot; closed its short positions on ETH and BTC for profit one hour ago, with a total profit of $7.494 million. The profit from BTC was $6.217 million and the profit from ETH was $1.277 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22931</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22945</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -154,12 +160,12 @@
 
     </item>
     <item>
-      <title>In the past 24 hours, there have been liquidations totaling $545 million across the network, with the largest single liquidation reaching $4.4537 million.</title>
-      <link>https://www.lookonchain.com/feeds/22930</link>
-      <description>Update, August 3rd. Based on Coinglass data, within the past 24 hours, there has been a cumulative liquidation of $545 million across the entire network. Specifically, there were $491 million in long liquidations and $54.6338 million in short liquidations. A total of 134,318 people were liquidated globally. The largest single liquidation order took place on Binance - ETHUSDC, amounting to $4.4537 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:00:42 +0000</pubDate>
+      <title>Former Prosecutor in Charge of Trump Case Under Investigation for Alleged Illegal Political Activity</title>
+      <link>https://www.lookonchain.com/feeds/22948</link>
+      <description>August 3: As per CCTV News, on August 2 in local time, the Office of the Special Counsel in the United States affirmed that the former Special Counsel Jack Smith, who was in charge of the Trump case, is under investigation for &quot;alleged illegal political activities.&quot;Smith was appointed as the Special Counsel in November 2022 and was responsible for investigating and litigating the cases where Trump was alleged to have tried to overturn the 2020 presidential election results and mishandled government confidential documents. Trump faced criminal charges in both these cases. After the 2024 presidential election results were announced, Smith submitted materials to the United States Federal Court and dropped the charges against Trump. In the documents, he stated that the U.S. Constitution demands that criminal proceedings against a president-elect should be terminated before taking office. The Department of Justice made the decision to abandon the litigation process based on this provision</description>
+      <pubDate>Sun, 03 Aug 2025 01:40:04 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22930</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22948</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -168,16 +174,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>「Insider Trader」 Short Position Floating Profit Expands to $8.26 Million</title>
-      <link>https://www.lookonchain.com/feeds/22929</link>
-      <description>On August 2nd, as monitored by Onchain Lens, the &quot;Insider Trader&quot; @qwatio has increased his short position in ETH today and opened precise short positions with a 20x leverage for XRP and SOL. Currently, his total short position profit has expanded to $8.26 million. The specific short positions are as follows:BTC (with a 40x leverage): 1,111.11 BTC, with a value of $125.5 million;ETH (with a 25x leverage): 22,222.22 ETH, with a value of $76.77 million;XRP (with a 20x leverage): 3,333,333 XRP, with a value of $9.45 million;SOL (with a 20x leverage): 44,444.44 SOL, with a value of $7.17 million.</description>
-      <pubDate>Sat, 02 Aug 2025 16:00:42 +0000</pubDate>
+      <title>Bitcoin Miners Have Sold Over 3,000 Bitcoins in the Past Two Weeks</title>
+      <link>https://www.lookonchain.com/feeds/22947</link>
+      <description>On August 3rd, according to @ali_charts, Bitcoin miners have sold a total of more than 3,000 BTC in the past two weeks. As of August 1st, the balance of Bitcoin miners has decreased from 1.8098 million BTC on July 16th to 1.80698 million BTC.</description>
+      <pubDate>Sun, 03 Aug 2025 01:40:04 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22929</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22947</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -186,25 +191,8 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve&apos;s Williams: Significant Downward Revisions to May and June Job Growth Were the &quot;Real News&quot; in Friday&apos;s Nonfarm Payrolls Report</title>
-      <link>https://www.lookonchain.com/feeds/22928</link>
-      <description>August 2nd: Williams of the Federal Reserve stated that the substantial downward revisions to job growth in May and June were the &quot;actual news&quot; in the nonfarm payroll report on Friday. He will attend the September meeting with a mindset of being open to discussing whether to reduce interest rates. (Forex Live)</description>
-      <pubDate>Sat, 02 Aug 2025 16:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/22928</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
   </channel>
