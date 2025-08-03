@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 05:32:05 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 05:32:05 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 05:54:34 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 05:54:34 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某巨鲸过去 3 天内买入 3 亿美元 ETH，现浮亏 2600 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Arkham 监测，0xdf 开头巨鲸地址在过去 3 天内通过 Galaxy Digital 场外交易累计买入价值 3 亿美元的 ETH，现浮亏达 2600 万美元，跌幅约 8.7%。</description>
+      <pubDate>Sun, 03 Aug 2025 05:50:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>数据：BNSOL 总质押量突破 1,000 万枚 SOL</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Onchain Lens 监测，聪明钱“0xcb9”再次加仓做空以太坊，将其 15 倍杠杆 ETH 空单增加 1 万枚 ETH。目前该地址总空单规模已达 5 万枚 ETH，按当前市价计算，名义仓位价值约 1.69 亿美元，当前浮盈约 1200 万美元。</description>
       <pubDate>Sun, 03 Aug 2025 00:30:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>沙特房地产再融资公司（SRC）与 Albilad 银行签署房地产融资组合购买协议</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 crowdfundinsider 报道，沙特房地产再融资公司(SRC)与Albilad银行近日签署了房地产融资组合购买协议，旨在加强沙特王国的住房抵押贷款市场并提升金融系统的流动性。此次签约仪式在市政和农村事务与住房部长兼SRC董事长Majid bin Abdullah Al-Hogail以及...</description>
-      <pubDate>Sun, 03 Aug 2025 00:20:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
