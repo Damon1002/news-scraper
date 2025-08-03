@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 02:40:58 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 02:40:58 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 04:04:36 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 04:04:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,93 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>比特币再质押平台SatLayer已开放空投注册</title>
+      <link>https://www.panewslab.com/zh/articles/42d69397-410b-4d1c-8ab7-f81d8b6fa9c7</link>
+      <description>比特币再质押平台SatLayer已开放空投注册</description>
+      <pubDate>Sun, 03 Aug 2025 04:04:36 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/42d69397-410b-4d1c-8ab7-f81d8b6fa9c7</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>数据：比特币已连续40天突破10万美元，并已连续24天超11万美元</title>
+      <link>https://www.panewslab.com/zh/articles/d4cc146a-d392-4ec2-abd6-1dce12bc330d</link>
+      <description>数据：比特币已连续40天突破10万美元，并已连续24天超11万美元</description>
+      <pubDate>Sun, 03 Aug 2025 04:02:36 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d4cc146a-d392-4ec2-abd6-1dce12bc330d</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼40倍杠杆做多BTC，仓位规模约达4537万美元</title>
+      <link>https://www.panewslab.com/zh/articles/a0b7b03c-3e14-464e-8b0d-1ddb313abc3e</link>
+      <description>某鲸鱼40倍杠杆做多BTC，仓位规模约达4537万美元</description>
+      <pubDate>Sun, 03 Aug 2025 04:00:36 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a0b7b03c-3e14-464e-8b0d-1ddb313abc3e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼2小时前增持3000枚ETH，过去一周建仓的6711.2枚ETH浮亏165.4 万美元</title>
+      <link>https://www.panewslab.com/zh/articles/48ef9464-f65d-4ae8-b560-a8dd0112d105</link>
+      <description>某鲸鱼2小时前增持3000枚ETH，过去一周建仓的6711.2枚ETH浮亏165.4 万美元</description>
+      <pubDate>Sun, 03 Aug 2025 03:58:36 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/48ef9464-f65d-4ae8-b560-a8dd0112d105</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼10倍杠杆DOGE多单已部分平仓，约亏损309万美元</title>
+      <link>https://www.panewslab.com/zh/articles/862adf31-999d-4b81-a1b8-e5f226f2540b</link>
+      <description>某鲸鱼10倍杠杆DOGE多单已部分平仓，约亏损309万美元</description>
+      <pubDate>Sun, 03 Aug 2025 03:56:36 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/862adf31-999d-4b81-a1b8-e5f226f2540b</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>某巨鲸九小时前5倍杠杆做多BTC，保证金约605万美元</title>
       <link>https://www.panewslab.com/zh/articles/880674a9-7c80-44ac-b77b-832373ba2820</link>
       <description>某巨鲸九小时前5倍杠杆做多BTC，保证金约605万美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:40:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:54:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/880674a9-7c80-44ac-b77b-832373ba2820</guid>
       <category>crypto</category>
@@ -34,7 +117,7 @@
       <title>萨尔瓦多近7日共增持7枚BTC，总持仓达6256.18枚</title>
       <link>https://www.panewslab.com/zh/articles/3feec735-86e2-4354-9db1-014a3b88d6b8</link>
       <description>萨尔瓦多近7日共增持7枚BTC，总持仓达6256.18枚</description>
-      <pubDate>Sun, 03 Aug 2025 02:38:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:52:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3feec735-86e2-4354-9db1-014a3b88d6b8</guid>
       <category>crypto</category>
@@ -51,7 +134,7 @@
       <title>行情：1INCH日内涨幅5.59%，ETH日内跌幅1.32%</title>
       <link>https://www.panewslab.com/zh/articles/t7mdghz8</link>
       <description>行情：1INCH日内涨幅5.59%，ETH日内跌幅1.32%</description>
-      <pubDate>Sun, 03 Aug 2025 02:36:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:50:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/t7mdghz8</guid>
       <category>crypto</category>
@@ -68,7 +151,7 @@
       <title>黄立成平仓PUMP多头仓位亏损776万美元，总浮亏达1350万美元</title>
       <link>https://www.panewslab.com/zh/articles/36e0f10f-75bf-4233-b343-3cb8a06efe3e</link>
       <description>黄立成平仓PUMP多头仓位亏损776万美元，总浮亏达1350万美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:34:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:48:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/36e0f10f-75bf-4233-b343-3cb8a06efe3e</guid>
       <category>crypto</category>
@@ -83,7 +166,7 @@
       <title>黄立成做多ETH/HYPE/PUMP基本已将此前盈利的2245万美元全部回吐</title>
       <link>https://www.panewslab.com/zh/articles/a641d6b8-5b0c-4bbf-8dc1-f9254c244c96</link>
       <description>黄立成做多ETH/HYPE/PUMP基本已将此前盈利的2245万美元全部回吐</description>
-      <pubDate>Sun, 03 Aug 2025 02:32:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:46:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a641d6b8-5b0c-4bbf-8dc1-f9254c244c96</guid>
       <category>crypto</category>
@@ -100,7 +183,7 @@
       <title>负责特朗普案的前检察官因“涉嫌非法政治活动”遭调查</title>
       <link>https://www.panewslab.com/zh/articles/fef06232-796f-4b1a-9efc-f8aaced06d05</link>
       <description>负责特朗普案的前检察官因“涉嫌非法政治活动”遭调查</description>
-      <pubDate>Sun, 03 Aug 2025 02:30:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:44:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fef06232-796f-4b1a-9efc-f8aaced06d05</guid>
       <category>crypto</category>
@@ -115,7 +198,7 @@
       <title>某鲸鱼6小时前从FalconX获得25,540枚ETH，价值8610万美元</title>
       <link>https://www.panewslab.com/zh/articles/c9ff0773-a131-4396-8fda-85a7dfeb859b</link>
       <description>某鲸鱼6小时前从FalconX获得25,540枚ETH，价值8610万美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:28:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:42:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c9ff0773-a131-4396-8fda-85a7dfeb859b</guid>
       <category>crypto</category>
@@ -132,7 +215,7 @@
       <title>BTC跌破112000美元，日内下跌 0.79%</title>
       <link>https://www.panewslab.com/zh/articles/o26sgbwv</link>
       <description>BTC跌破112000美元，日内下跌 0.79%</description>
-      <pubDate>Sun, 03 Aug 2025 02:26:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:40:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/o26sgbwv</guid>
       <category>crypto</category>
@@ -149,7 +232,7 @@
       <title>“四战ETH 75%胜率鲸鱼”在3小时前加仓1万枚ETH，目前ETH空单浮盈1225万美元</title>
       <link>https://www.panewslab.com/zh/articles/670093e0-6541-4f8e-9e4f-396d8b26773c</link>
       <description>“四战ETH 75%胜率鲸鱼”在3小时前加仓1万枚ETH，目前ETH空单浮盈1225万美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:24:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:38:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/670093e0-6541-4f8e-9e4f-396d8b26773c</guid>
       <category>crypto</category>
@@ -166,7 +249,7 @@
       <title>数据：Solana CME期货交易量7月飙升252%达81亿美元，创上线以来最高交易量</title>
       <link>https://www.panewslab.com/zh/articles/5c234ed0-7c03-4706-bfe9-d72060a1542c</link>
       <description>数据：Solana CME期货交易量7月飙升252%达81亿美元，创上线以来最高交易量</description>
-      <pubDate>Sun, 03 Aug 2025 02:22:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:36:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5c234ed0-7c03-4706-bfe9-d72060a1542c</guid>
       <category>crypto</category>
@@ -181,7 +264,7 @@
       <title>Sharplink Gaming增持15,822枚ETH，价值约5556万美元</title>
       <link>https://www.panewslab.com/zh/articles/eaa0865a-b422-4e8e-b667-3a5231900d65</link>
       <description>Sharplink Gaming增持15,822枚ETH，价值约5556万美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:20:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:34:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/eaa0865a-b422-4e8e-b667-3a5231900d65</guid>
       <category>crypto</category>
@@ -198,7 +281,7 @@
       <title>Arkham：LuBian矿池曾于2020年被盗超12.7万枚比特币，现价值近145亿美元</title>
       <link>https://www.panewslab.com/zh/articles/6a284b2b-45a9-4b66-8239-3ccde22c1f4e</link>
       <description>Arkham：LuBian矿池曾于2020年被盗超12.7万枚比特币，现价值近145亿美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:18:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:32:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6a284b2b-45a9-4b66-8239-3ccde22c1f4e</guid>
       <category>crypto</category>
@@ -215,7 +298,7 @@
       <title>ETH跌破3400美元，日内下跌 1.80%</title>
       <link>https://www.panewslab.com/zh/articles/xn2wno7q</link>
       <description>ETH跌破3400美元，日内下跌 1.80%</description>
-      <pubDate>Sun, 03 Aug 2025 02:16:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:30:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/xn2wno7q</guid>
       <category>crypto</category>
@@ -232,7 +315,7 @@
       <title>过去24小时全网合约爆仓5.25亿美元，主爆空单</title>
       <link>https://www.panewslab.com/zh/articles/rcdkmqgf</link>
       <description>过去24小时全网合约爆仓5.25亿美元，主爆空单</description>
-      <pubDate>Sun, 03 Aug 2025 02:14:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:28:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/rcdkmqgf</guid>
       <category>crypto</category>
@@ -247,7 +330,7 @@
       <title>“内幕巨鲸”浮盈迎来新高，目前累计浮盈超720.7万美元</title>
       <link>https://www.panewslab.com/zh/articles/4602701a-6910-4ced-b0e2-8dd8995de47f</link>
       <description>“内幕巨鲸”浮盈迎来新高，目前累计浮盈超720.7万美元</description>
-      <pubDate>Sun, 03 Aug 2025 02:12:58 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 03:26:36 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4602701a-6910-4ced-b0e2-8dd8995de47f</guid>
       <category>crypto</category>
@@ -256,87 +339,6 @@
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>库格勒意外辞职或加速特朗普选定下任美联储主席人选</title>
-      <link>https://www.panewslab.com/zh/articles/36baab85-932e-4deb-a3a3-3062d5a75fd0</link>
-      <description>库格勒意外辞职或加速特朗普选定下任美联储主席人选</description>
-      <pubDate>Sun, 03 Aug 2025 02:10:58 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/36baab85-932e-4deb-a3a3-3062d5a75fd0</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>过去1小时全网爆仓超2000万美元，主爆多单</title>
-      <link>https://www.panewslab.com/zh/articles/ef6821e6-b25d-4e2a-89a4-b2cf2f0edcf7</link>
-      <description>过去1小时全网爆仓超2000万美元，主爆多单</description>
-      <pubDate>Sun, 03 Aug 2025 02:08:58 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ef6821e6-b25d-4e2a-89a4-b2cf2f0edcf7</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>BTC跌破113000美元，日内下跌 2.04%</title>
-      <link>https://www.panewslab.com/zh/articles/bv3c6m3o</link>
-      <description>BTC跌破113000美元，日内下跌 2.04%</description>
-      <pubDate>Sun, 03 Aug 2025 02:06:58 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bv3c6m3o</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>香港金管局：警惕虚假稳定币持牌诈骗，持有未受监管稳定币须自行承担风险</title>
-      <link>https://www.panewslab.com/zh/articles/847bb05d-bf49-4ec6-8f0b-a802c206fc4c</link>
-      <description>香港金管局：警惕虚假稳定币持牌诈骗，持有未受监管稳定币须自行承担风险</description>
-      <pubDate>Sun, 03 Aug 2025 02:04:58 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/847bb05d-bf49-4ec6-8f0b-a802c206fc4c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>“内幕巨鲸”已开设1111枚BTC、22222枚ETH、333万枚XRP、44444万枚SOL空单</title>
-      <link>https://www.panewslab.com/zh/articles/5ef66caf-6599-4155-a4d6-3c75cf8018df</link>
-      <description>“内幕巨鲸”已开设1111枚BTC、22222枚ETH、333万枚XRP、44444万枚SOL空单</description>
-      <pubDate>Sun, 03 Aug 2025 02:02:58 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5ef66caf-6599-4155-a4d6-3c75cf8018df</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
