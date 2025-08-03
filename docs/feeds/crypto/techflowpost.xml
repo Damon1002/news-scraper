@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 11:11:04 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 11:11:04 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 11:31:44 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 11:31:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>特朗普媒体与科技集团正式披露「Truth」代币及钱包相关计划</title>
+      <title>ETH 突破 3,500 美元，24 小时涨幅 0.78%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 HTX 行情数据，ETH 突破 3,500 美元，现报 3,509.93 美元，24 小时涨幅 0.78%。</description>
+      <pubDate>Sun, 03 Aug 2025 11:14:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>BTC 回升突破 11.4 万美元，24 小时涨幅 0.43%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 HTX 行情数据，BTC 回升突破 11.4 万美元，现报 114,031 美元，24 小时涨幅 0.43%。</description>
+      <pubDate>Sun, 03 Aug 2025 11:11:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>特朗普媒体与科技集团已披露「Truth」代币及钱包相关计划</title>
       <link>https://www.techflowpost.com</link>
       <description>据 DL News 报道，特朗普媒体与科技集团（TMTG）在最新提交给美国证券交易委员会（SEC）的文件中，正式披露了其 Truth 品牌实用型代币及数字钱包的相关计划。早在几个月前，该公司就在一封致股东信中首次暗示过这一概念。文件显示，该代币将作为一个「更大规模奖励计划」的一部分，集成于「Tru...</description>
       <pubDate>Sun, 03 Aug 2025 10:54:00 +0000</pubDate>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Lookonchain 监测，巨鲸地址 0xab15 开设 40 倍杠杆 BTC 多头仓位，持仓规模达 400 枚 BTC（约 4537 万美元）。其已设定止盈目标价为 125,000 美元。</description>
       <pubDate>Sun, 03 Aug 2025 03:05:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>巨鲸「0x3c9E」过去 3 天共售出超 3.36 万枚 ETH，价值约 1.19 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Lookonchain 监测，0x3c9E 开头巨鲸地址再次抛售 ETH。该地址 5 小时前向交易所存入 7,500 枚 ETH（约 2,558 万美元），使其在过去 3 天内总计售出的 ETH 达到 33,682 枚，价值约 1.19 亿美元。</description>
-      <pubDate>Sun, 03 Aug 2025 02:53:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>「时隔两年再次建仓 ETH 的巨鲸」于 2 小时前从币安提出 3000 枚 ETH，过去一周累计建仓 6711.2 枚 ETH</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，时隔两年再次建仓 ETH 的大户 0x5Fe 2 小时前又从 Binance 提出了 3000 枚 ETH。7月28日，该地址以 3912 美元建仓 3711 枚 ETH，过去一周他已累计建仓 6711.2 ETH（约 2473 万美元），成...</description>
-      <pubDate>Sun, 03 Aug 2025 02:51:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

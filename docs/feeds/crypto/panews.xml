@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 11:11:04 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 11:11:04 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 11:31:44 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 11:31:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>ETH突破3500美元，日内涨幅 1.19%</title>
+      <link>https://www.panewslab.com/zh/articles/zzmp4c8n</link>
+      <description>ETH突破3500美元，日内涨幅 1.19%</description>
+      <pubDate>Sun, 03 Aug 2025 11:31:44 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/zzmp4c8n</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>BTC突破114000美元，日内涨幅 1.03%</title>
       <link>https://www.panewslab.com/zh/articles/mhimb5ht</link>
       <description>BTC突破114000美元，日内涨幅 1.03%</description>
-      <pubDate>Sun, 03 Aug 2025 11:11:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:29:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/mhimb5ht</guid>
       <category>crypto</category>
@@ -34,7 +51,7 @@
       <title>Justin Sun乘坐的蓝色起源飞船发射窗口将于今晚8点34分开启</title>
       <link>https://www.panewslab.com/zh/articles/4b901ede-becf-44ae-b46f-53ec9bb516cb</link>
       <description>Justin Sun乘坐的蓝色起源飞船发射窗口将于今晚8点34分开启</description>
-      <pubDate>Sun, 03 Aug 2025 11:09:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:27:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4b901ede-becf-44ae-b46f-53ec9bb516cb</guid>
       <category>crypto</category>
@@ -49,7 +66,7 @@
       <title>“内幕巨鲸”1个半小时前继续滚仓，目前空单仓位价值达3亿美元</title>
       <link>https://www.panewslab.com/zh/articles/cc8a4175-0022-4307-9b4c-6267e90c7aef</link>
       <description>“内幕巨鲸”1个半小时前继续滚仓，目前空单仓位价值达3亿美元</description>
-      <pubDate>Sun, 03 Aug 2025 11:07:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:25:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cc8a4175-0022-4307-9b4c-6267e90c7aef</guid>
       <category>crypto</category>
@@ -64,7 +81,7 @@
       <title>鲸鱼“先定10个大目标”比特币多单浮盈约131万美元</title>
       <link>https://www.panewslab.com/zh/articles/a7359f66-0af8-4b95-a4bb-6e9ca66369c5</link>
       <description>鲸鱼“先定10个大目标”比特币多单浮盈约131万美元</description>
-      <pubDate>Sun, 03 Aug 2025 11:05:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:23:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a7359f66-0af8-4b95-a4bb-6e9ca66369c5</guid>
       <category>crypto</category>
@@ -81,7 +98,7 @@
       <title>消息人士：京东、蚂蚁或难出现在首批香港稳定币牌照名单上</title>
       <link>https://www.panewslab.com/zh/articles/b06e93b2-9c06-4e2f-b583-e31ca4b61679</link>
       <description>消息人士：京东、蚂蚁或难出现在首批香港稳定币牌照名单上</description>
-      <pubDate>Sun, 03 Aug 2025 11:03:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:21:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b06e93b2-9c06-4e2f-b583-e31ca4b61679</guid>
       <category>crypto</category>
@@ -96,7 +113,7 @@
       <title>Michael Saylor：短期看比特币是种交易资产，长期看是种财库资产</title>
       <link>https://www.panewslab.com/zh/articles/535bf80f-1987-41f9-812c-0bf1d8081300</link>
       <description>Michael Saylor：短期看比特币是种交易资产，长期看是种财库资产</description>
-      <pubDate>Sun, 03 Aug 2025 11:01:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:19:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/535bf80f-1987-41f9-812c-0bf1d8081300</guid>
       <category>crypto</category>
@@ -113,7 +130,7 @@
       <title>英国金融行为监管局澄清对零售客户参与加密资产衍生品交易的禁令继续有效</title>
       <link>https://www.panewslab.com/zh/articles/c4672029-055d-4f81-9d13-f5105e869c98</link>
       <description>英国金融行为监管局澄清对零售客户参与加密资产衍生品交易的禁令继续有效</description>
-      <pubDate>Sun, 03 Aug 2025 10:59:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:17:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c4672029-055d-4f81-9d13-f5105e869c98</guid>
       <category>crypto</category>
@@ -128,7 +145,7 @@
       <title>美CFTC代理主席宣布启动“Crypto Sprint”计划，与SEC合作推进特朗普加密黄金时代愿景</title>
       <link>https://www.panewslab.com/zh/articles/6ace7c32-6cc6-494c-b056-0830b342d05e</link>
       <description>美CFTC代理主席宣布启动“Crypto Sprint”计划，与SEC合作推进特朗普加密黄金时代愿景</description>
-      <pubDate>Sun, 03 Aug 2025 10:57:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:15:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6ace7c32-6cc6-494c-b056-0830b342d05e</guid>
       <category>crypto</category>
@@ -143,7 +160,7 @@
       <title>内部人士：我国尚无在全球有影响力的公链，建议由央国企主导建设国家级公链</title>
       <link>https://www.panewslab.com/zh/articles/acd084f1-7a23-41e5-8779-366973fdbb4f</link>
       <description>内部人士：我国尚无在全球有影响力的公链，建议由央国企主导建设国家级公链</description>
-      <pubDate>Sun, 03 Aug 2025 10:55:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:13:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/acd084f1-7a23-41e5-8779-366973fdbb4f</guid>
       <category>crypto</category>
@@ -158,7 +175,7 @@
       <title>Metaplanet CEO：公司目标是提供多种工具来筹集资金购买比特币</title>
       <link>https://www.panewslab.com/zh/articles/14954724-4b9e-41c7-9df3-c29f0ae3dae2</link>
       <description>Metaplanet CEO：公司目标是提供多种工具来筹集资金购买比特币</description>
-      <pubDate>Sun, 03 Aug 2025 10:53:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:11:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/14954724-4b9e-41c7-9df3-c29f0ae3dae2</guid>
       <category>crypto</category>
@@ -175,7 +192,7 @@
       <title>中本聪雕像规划商Satoshigallery悬赏0.1枚比特币征寻位于瑞士的雕像被盗线索</title>
       <link>https://www.panewslab.com/zh/articles/ae6c4cc4-68c7-4495-a3b7-1d4e0a88ad53</link>
       <description>中本聪雕像规划商Satoshigallery悬赏0.1枚比特币征寻位于瑞士的雕像被盗线索</description>
-      <pubDate>Sun, 03 Aug 2025 10:51:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:09:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ae6c4cc4-68c7-4495-a3b7-1d4e0a88ad53</guid>
       <category>crypto</category>
@@ -192,7 +209,7 @@
       <title>HYPE持仓大户增持407万美元的HYPE，目前持仓浮盈153.5万美元</title>
       <link>https://www.panewslab.com/zh/articles/26d02dfb-ae51-47e0-81d7-2a9104641891</link>
       <description>HYPE持仓大户增持407万美元的HYPE，目前持仓浮盈153.5万美元</description>
-      <pubDate>Sun, 03 Aug 2025 10:49:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:07:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/26d02dfb-ae51-47e0-81d7-2a9104641891</guid>
       <category>crypto</category>
@@ -207,7 +224,7 @@
       <title>北京探索涉案虚拟货币处置机制，委托北交所并通过香港持牌交易所公开变现出售</title>
       <link>https://www.panewslab.com/zh/articles/ac6475c8-1bcd-4f72-a247-a2ef0e166bce</link>
       <description>北京探索涉案虚拟货币处置机制，委托北交所并通过香港持牌交易所公开变现出售</description>
-      <pubDate>Sun, 03 Aug 2025 10:47:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:05:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ac6475c8-1bcd-4f72-a247-a2ef0e166bce</guid>
       <category>crypto</category>
@@ -222,7 +239,7 @@
       <title>马斯克：实时AI视频渲染技术有望3到6个月实现</title>
       <link>https://www.panewslab.com/zh/articles/be84929c-f3c5-4194-94ff-4fb6a39eb0c2</link>
       <description>马斯克：实时AI视频渲染技术有望3到6个月实现</description>
-      <pubDate>Sun, 03 Aug 2025 10:45:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:03:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/be84929c-f3c5-4194-94ff-4fb6a39eb0c2</guid>
       <category>crypto</category>
@@ -237,7 +254,7 @@
       <title>数据：1000枚BTC从Coinbase Institutional转移到未知钱包</title>
       <link>https://www.panewslab.com/zh/articles/cafa774b-f065-4eee-8972-e5a6670086a4</link>
       <description>数据：1000枚BTC从Coinbase Institutional转移到未知钱包</description>
-      <pubDate>Sun, 03 Aug 2025 10:43:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 11:01:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cafa774b-f065-4eee-8972-e5a6670086a4</guid>
       <category>crypto</category>
@@ -254,7 +271,7 @@
       <title>币安：持有至少200个币安Alpha积分方可申领2.4万枚MM代币空投</title>
       <link>https://www.panewslab.com/zh/articles/5b37a25a-e989-4608-8cb8-23c74daffb6a</link>
       <description>币安：持有至少200个币安Alpha积分方可申领2.4万枚MM代币空投</description>
-      <pubDate>Sun, 03 Aug 2025 10:41:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 10:59:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5b37a25a-e989-4608-8cb8-23c74daffb6a</guid>
       <category>crypto</category>
@@ -269,7 +286,7 @@
       <title>某巨鲸过去3天买入3亿美元ETH，目前约浮亏2600万美元</title>
       <link>https://www.panewslab.com/zh/articles/60e5e176-7cff-46e1-a7a0-855b99ae7392</link>
       <description>某巨鲸过去3天买入3亿美元ETH，目前约浮亏2600万美元</description>
-      <pubDate>Sun, 03 Aug 2025 10:39:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 10:57:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/60e5e176-7cff-46e1-a7a0-855b99ae7392</guid>
       <category>crypto</category>
@@ -286,7 +303,7 @@
       <title>由香港Web3.0标准化协会发起RWA注册登记平台将于8月7日上线</title>
       <link>https://www.panewslab.com/zh/articles/0446020a-d03e-4c08-9589-a2e8af1066f9</link>
       <description>由香港Web3.0标准化协会发起RWA注册登记平台将于8月7日上线</description>
-      <pubDate>Sun, 03 Aug 2025 10:37:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 10:55:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0446020a-d03e-4c08-9589-a2e8af1066f9</guid>
       <category>crypto</category>
@@ -301,24 +318,9 @@
       <title>瑞士卢加诺的中本聪雕像疑似被盗</title>
       <link>https://www.panewslab.com/zh/articles/3d45e1b1-acd9-47b2-bdc2-bb9470ceb8af</link>
       <description>瑞士卢加诺的中本聪雕像疑似被盗</description>
-      <pubDate>Sun, 03 Aug 2025 10:35:04 +0000</pubDate>
+      <pubDate>Sun, 03 Aug 2025 10:53:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3d45e1b1-acd9-47b2-bdc2-bb9470ceb8af</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>今日社区流传的“中国再度宣布禁止加密货币交易和挖矿”或为不实消息</title>
-      <link>https://www.panewslab.com/zh/articles/6d345314-b1bf-463d-b4a9-b7d03fbc51bc</link>
-      <description>今日社区流传的“中国再度宣布禁止加密货币交易和挖矿”或为不实消息</description>
-      <pubDate>Sun, 03 Aug 2025 10:33:04 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6d345314-b1bf-463d-b4a9-b7d03fbc51bc</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
