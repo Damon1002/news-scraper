@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Aug 2025 05:54:34 +0000</lastBuildDate>
-    <pubDate>Sun, 03 Aug 2025 05:54:34 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 06:28:11 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 06:28:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>HTX Ventures 负责人 Alec：稳定币正演进为全球金融基础设施，关键在于“合规+可组合性”</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX Ventures 负责人 Alec Goh受邀出席GM Vietnam 2025-越南区块链周，并在“Stablecoin - The Most Viable Use Case for Crypto Adoption”主题圆桌论坛中分享了他对稳定币发展的深刻见解。Alec指出，稳定币市值已...</description>
+      <pubDate>Sun, 03 Aug 2025 06:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某巨鲸过去 3 天内买入 3 亿美元 ETH，现浮亏 2600 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 The Block 数据，Solana CME 期货交易量 7 月份飙升 252%，达到 81 亿美元。创下自上线以来的最高。</description>
       <pubDate>Sun, 03 Aug 2025 00:37:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某聪明钱加仓 1 万枚 ETH 空单，浮盈达 1200 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Onchain Lens 监测，聪明钱“0xcb9”再次加仓做空以太坊，将其 15 倍杠杆 ETH 空单增加 1 万枚 ETH。目前该地址总空单规模已达 5 万枚 ETH，按当前市价计算，名义仓位价值约 1.69 亿美元，当前浮盈约 1200 万美元。</description>
-      <pubDate>Sun, 03 Aug 2025 00:30:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
