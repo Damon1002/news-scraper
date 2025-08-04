@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Aug 2025 10:59:10 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 10:59:10 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 11:27:56 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 11:27:56 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>CertiK: CrediX Hacker Bridges $4.5M Stolen Assets to Ethereum Network</title>
+      <link>https://www.lookonchain.com/feeds/23096</link>
+      <description>On August 4th, as per the monitoring of CertiK Alert, the CrediX hacker has managed to bridge the stolen $4.5 million worth of crypto assets from Sonic to the Ethereum network. At present, the stolen funds still remain in the attacker&apos;s wallet.</description>
+      <pubDate>Mon, 04 Aug 2025 11:16:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23096</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha has launched the Cycle Network (CYC)</title>
+      <link>https://www.lookonchain.com/feeds/23095</link>
+      <description>On August 4th, according to the official website, Binance Alpha has launched the Cycle Network (CYC). （这本身就是比较符合常规英语表达习惯的句子呀，没有特别大的改写需求呢，其表述较为清晰和自然，基本符合美国人的语言习惯呀。）</description>
+      <pubDate>Mon, 04 Aug 2025 11:08:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23095</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>DeFi Platform Credix Faces Attack, Losing Approximately $4.5 Million</title>
       <link>https://www.lookonchain.com/feeds/23094</link>
       <description>On August 4th, as monitored by PeckShield, the administrator account address of the DeFi platform Credix came under attack. This account holds several key permissions, such as:· POOL_ADMIN (Pool Administrator)· BRIDGE (Cross-chain Bridge Permission)· ASSET_LISTING_ADMIN (Asset Listing Administrator)· EMERGENCY_ADMIN (Emergency Administrator)· RISK_ADMIN (Risk Control Administrator)The attacker took advantage of the BRIDGE permission and stole or borrowed funds from the pool assets, resulting in an estimated loss of approximately $4.5 million. This also involved the minting of a counterfeit (not backed by real assets) acUSDC token (Credix Market Sonic USDC).</description>
-      <pubDate>Mon, 04 Aug 2025 10:56:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:57:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23094</guid>
       <category>crypto</category>
@@ -35,7 +72,7 @@
       <title>MYX 24h Price Increase Widens to 140%, Market Cap Rises to $36.6 Million</title>
       <link>https://www.lookonchain.com/feeds/23093</link>
       <description>On August 4th, according to HTX market data, the 24-hour gain of MYX has expanded to 140%, and the market capitalization has risen to $36.6 million.</description>
-      <pubDate>Mon, 04 Aug 2025 10:41:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:41:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23093</guid>
       <category>crypto</category>
@@ -53,7 +90,7 @@
       <title>US Stock Sequans Up 6.40% in Pre-market Trading, UK Stock Coinsilium Group Down 6.27% Today</title>
       <link>https://www.lookonchain.com/feeds/23092</link>
       <description>On August 4th, according to data from Rockflow market (with the link https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats and opened in a new tab), the pre-market US stock Sequans rose by 6.40%, and its market capitalization increased to $178 million. The UK stock Coinsilium Group dropped by 6.27% today, with its market capitalization decreasing to ￡19.4531 million.BlockBeats reported today that the publicly traded company Sequans increased its Bitcoin holdings by 85 coins, bringing the total holdings to 3,157 coins. The subsidiary Forza of Coinsilium Group increased its BTC holdings by 57.54 coins, with a total holding of 181.96 coins.</description>
-      <pubDate>Mon, 04 Aug 2025 10:25:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23092</guid>
       <category>crypto</category>
@@ -70,7 +107,7 @@
       <title>Listed Company Sequans Increases Bitcoin Holdings by 85, Totaling 3157 Coins</title>
       <link>https://www.lookonchain.com/feeds/23091</link>
       <description>On August 4th, the publicly traded company Sequans in the US has increased its holdings by an additional 85 bitcoins, bringing the total to 3157 bitcoins.</description>
-      <pubDate>Mon, 04 Aug 2025 10:24:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23091</guid>
       <category>crypto</category>
@@ -89,7 +126,7 @@
       <title>《Financial Times》: Taxation Required for Overseas Stock Trading Income, Strengthening Oversight of Individuals&apos; Foreign Income</title>
       <link>https://www.lookonchain.com/feeds/23090</link>
       <description>August 4th. As per an article in the Financial Times, recently certain taxpayers received a notification from the tax authority instructing them to legally report overseas income and pay the relevant taxes. &quot;According to our country&apos;s individual income tax law, individual stock trading income is regarded as capital gains income and should be taxed at a 20% rate on a transaction basis.Specifically, individuals&apos; stock trading income on the domestic secondary market is temporarily exempt from individual income tax; there is no tax exemption provision for stock trading income directly conducted overseas and it needs to be reported and taxed in the following year when the income is obtained,&quot; explained Zhang Wei, Dean of the Taxation College of Jilin University of Finance and Economics.Zhang Wei further elaborated, &quot;In order to collect taxes more reasonably, our country&apos;s tax authorities permit taxpayers to offset gains and losses within a tax year but do not allow offsetting acr</description>
-      <pubDate>Mon, 04 Aug 2025 10:17:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23090</guid>
       <category>crypto</category>
@@ -106,7 +143,7 @@
       <title>Listed company Coinsilium Group&apos;s subsidiary Forza increases its Bitcoin holdings by 57.54 BTC, bringing its total holdings to 181.96 BTC.</title>
       <link>https://www.lookonchain.com/feeds/23089</link>
       <description>August 4th - The subsidiary Forza of the publicly listed company Coinsilium Group in the UK increased its holdings of BTC by 57.54 coins, raising its total holdings to 181.96 coins.</description>
-      <pubDate>Mon, 04 Aug 2025 10:17:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23089</guid>
       <category>crypto</category>
@@ -125,7 +162,7 @@
       <title>Binance Wallet will adjust the airdropped token name, changing DARK to DARKSTAR.</title>
       <link>https://www.lookonchain.com/feeds/23088</link>
       <description>August 4th. To avoid confusion with a token of a similar name, Binance Wallet will modify the DARK airdrop token name to DARKSTAR.This morning, Binance Alpha was the first platform to list DarkStar (DARK), and Alpha trading will commence on August 4, 2025, at 20:00 (UTC+8). After the trading begins, users who hold at least 200 Binance Alpha Points can receive 1000 DARK airdropped tokens. It&apos;s on a first-come, first-served basis. If the event has not ended, the points threshold will automatically decrease by 15 points per hour.</description>
-      <pubDate>Mon, 04 Aug 2025 10:17:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23088</guid>
       <category>crypto</category>
@@ -142,43 +179,9 @@
       <title>Binance Alpha&apos;s new airdrop SUP will go live on August 5th</title>
       <link>https://www.lookonchain.com/feeds/23087</link>
       <description>On August 4th, Binance Alpha is set to launch Superp (SUP) on August 5th. Users who meet the eligibility criteria will be able to participate in the Alpha event and claim the airdrop by using Binance Alpha Points once Alpha trading commences. Further details will be made available shortly.</description>
-      <pubDate>Mon, 04 Aug 2025 10:08:17 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23087</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>pump.fun&apos;s circulating supply in the last 24 hours has only been 21.43% of LetsBONK, causing its market share to drop to 22.2%.</title>
-      <link>https://www.lookonchain.com/feeds/23086</link>
-      <description>On August 4th, based on Jup.ag data, within the past 24 hours, the token supply of pump.fun reached 3,515 (with a bonded rate of 0.34%), while the token supply of LetsBONK reached 16,399 (with a bonded rate of 1.07%).The market share of pump.fun has declined to 22.2%, and LetsBONK has achieved a market share of 67%.</description>
-      <pubDate>Mon, 04 Aug 2025 09:58:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23086</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha&apos;s new airdrop PROVE will launch on August 5th</title>
-      <link>https://www.lookonchain.com/feeds/23085</link>
-      <description>On August 4th, Binance Alpha is set to become the first platform to list Succinct (PROVE) on August 5th. Once Alpha trading commences, eligible users can access the Alpha event page to claim an airdrop by using Binance Alpha Points. Further details will be provided at a later time.</description>
-      <pubDate>Mon, 04 Aug 2025 09:58:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23085</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
