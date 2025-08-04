@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Aug 2025 07:05:12 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 07:05:12 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 07:40:07 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 07:40:07 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance Alpha New Airdrop DARK Participation Threshold Announcement: At Least 200 Points</title>
+      <link>https://www.lookonchain.com/feeds/23063</link>
+      <description>On August 4th, according to an official announcement, Binance Alpha is the first platform to list DarkStar (DARK), and trading on Alpha will commence on August 4, 2025, at 20:00 (UTC+8).After the start of trading, users who hold at least 200 Binance Alpha points can claim 1000 DARK tokens as an airdrop. First come, first served. If the event is not yet completed, the points threshold will automatically decrease by 15 points every hour.It should be noted that claiming the airdrop will consume 15 Binance Alpha points. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a waiver of the airdrop.</description>
+      <pubDate>Mon, 04 Aug 2025 07:33:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23063</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale withdrew 2,850 Ethereum from Kraken, worth approximately $10.09 million</title>
+      <link>https://www.lookonchain.com/feeds/23061</link>
+      <description>On August 4th, as monitored by Onchain Lens, a whale address withdrew 2,850 ETH from Kraken, which is approximately worth $10.09 million. The address currently holds 18,111 ETH, and the total value is around $64 million. The address is: 0x1c11ba15939e1c16ec7ca1678df6160ea2063bc5.</description>
+      <pubDate>Mon, 04 Aug 2025 07:32:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23061</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Matrixport: Bitcoin Tests Key Support Level, Continues August&apos;s Common Seasonal Weakness</title>
+      <link>https://www.lookonchain.com/feeds/23062</link>
+      <description>On August 4th, Matrixport issued an icon analysis stating: &quot;In the past few weeks, we have repeatedly pointed out in &apos;Matrix on Target&apos; and daily updates that Bitcoin is getting close to the crucial technical support level of $112,000. Now that this support has been breached, market sentiment is starting to change. Although many bullish views still hold sway, our previous cautious stance is gradually being verified.&quot;&quot;This recent downward trend has, on one hand, continued the common August seasonal weakness. On the other hand, it has been affected by macro uncertainty resulting from the downward adjustment of labor market data. A similar situation occurred around the same time last year when, under market pressure, the Federal Reserve unexpectedly cut interest rates by 50 basis points.&quot;Considering that the market has already factored in two rate cuts, with the first expected as early as September, we maintain our previous expectation: until there is no improvement in economic and mark</description>
+      <pubDate>Mon, 04 Aug 2025 07:32:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23062</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Gate 24-hour Net Fund Flow Surpasses $63.87 Million, Ranking Second Globally</title>
+      <link>https://www.lookonchain.com/feeds/23060</link>
+      <description>On August 4th, according to data from DefiLlama, Gate witnessed a net inflow of more than $63.87 million in the past 24 hours and ranked second globally.</description>
+      <pubDate>Mon, 04 Aug 2025 07:08:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23060</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Stable Labs has launched on the Base Network, with cross-chain technology support provided by Axelar.</title>
+      <link>https://www.lookonchain.com/feeds/23059</link>
+      <description>On August 4th, Stables Labs, the developer of the stablecoin issuance protocol usdx.money, announced the launch on the Base network. It has collaborated with the cross-chain interoperability protocol Axelar and Squid to offer seamless cross-chain access for USDX and sUSDX on the Base chain. The announced next steps of Stables Labs include:· Cross-Chain Integration: Bridge USDX/sUSDX to Base via Axelar and Squid. Ensure asset security upon arrival. Conduct comprehensive audits, testing, and continuous monitoring.· Launch Liquidity Building on Balancer: Launch the V3 liquidity pool: USDX/sUSDX/aaveUSDC (in a 1:1:1 ratio). Provide initial liquidity and strong LP incentives. Initiate community activities to drive early adoption. Offer a 20% S-Points bonus during Epoch 10.</description>
+      <pubDate>Mon, 04 Aug 2025 07:08:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23059</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>An address deposited 4759 BNB to a CEX, and if sold, it would yield a profit of nearly $600,000.</title>
       <link>https://www.lookonchain.com/feeds/23058</link>
       <description>August 4th. Based on the monitoring of on-chain analyst AI Auntie @ai_9684xtpa, the address 0xc0C...c2249, three hours ago, deposited all 4759 BNB that was purchased in November 2024 at an average price of $630 into Binance (approximately $3.59 million). If sold, a profit of $591,000 would be obtained, with a return rate of 20%.However, when compared to BNB&apos;s previous high of $861.1, a potential profit of $508,000 was missed.</description>
-      <pubDate>Mon, 04 Aug 2025 07:00:19 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 07:00:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23058</guid>
       <category>crypto</category>
@@ -36,7 +128,7 @@
       <title>In the last 24 hours, CEX Net Outflow of 1017.72 BTC</title>
       <link>https://www.lookonchain.com/feeds/23057</link>
       <description>On August 4th, according to Coinglass data, in the past 24 hours, CEX had a total net outflow of 1017.72 BTC. The top three exchanges with outflows were as follows:· Binance, with an outflow of 1037.51 BTC;· OKX, with an outflow of 398.08 BTC;· Coinbase Pro, with an outflow of 286.09 BTC.In addition, Bitfinex saw an inflow of 495.03 BTC and ranked first in the inflow list.</description>
-      <pubDate>Mon, 04 Aug 2025 06:40:19 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 06:40:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23057</guid>
       <category>crypto</category>
@@ -55,9 +147,29 @@
       <title>H100 Group Raises Approximately $2.2 Million to Buy More Bitcoin</title>
       <link>https://www.lookonchain.com/feeds/23055</link>
       <description>On August 4th, according to @btcNLNico, the Swedish listed company H100 Group announced that it had raised 21.2 million Swedish Krona (approximately $220,000) and intended to use this amount to purchase more Bitcoin.</description>
-      <pubDate>Mon, 04 Aug 2025 06:32:19 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 06:39:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23055</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The Smarter Web Company has announced a funding round of 8.1 million euros, intended for the purchase of Bitcoin</title>
+      <link>https://www.lookonchain.com/feeds/23054</link>
+      <description>On August 4th, as per @btcNLNico, the London-listed tech firm The Smarter Web Company declared a capital raising of €8.1 million (approximately $10.75 million), with the intention of purchasing a greater amount of Bitcoin.</description>
+      <pubDate>Mon, 04 Aug 2025 06:39:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23054</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -75,7 +187,7 @@
       <title>Japanese publicly listed company Convano has announced that it will once again raise 2 billion yen to increase its BTC holdings</title>
       <link>https://www.lookonchain.com/feeds/23056</link>
       <description>On August 4th, as monitored by @btcNLNico, the publicly traded Japanese company and nail salon operator Convano Co., Ltd. announced today that it has raised an additional 2 billion yen (approximately $13.54 million), and this additional funds will be used to increase its Bitcoin holdings in August. The company intends to hold 21,000 Bitcoins by the end of March 2027.</description>
-      <pubDate>Mon, 04 Aug 2025 06:32:19 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 06:39:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23056</guid>
       <category>crypto</category>
@@ -88,117 +200,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>The Smarter Web Company has announced a funding round of 8.1 million euros, intended for the purchase of Bitcoin</title>
-      <link>https://www.lookonchain.com/feeds/23054</link>
-      <description>On August 4th, as per @btcNLNico, the London-listed tech firm The Smarter Web Company declared a capital raising of €8.1 million (approximately $10.75 million), with the intention of purchasing a greater amount of Bitcoin.</description>
-      <pubDate>Mon, 04 Aug 2025 06:16:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23054</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>European publicly traded company Capital B raises €11.5 million to advance its Bitcoin Treasury Strategy</title>
-      <link>https://www.lookonchain.com/feeds/23053</link>
-      <description>On August 4th, as reported by @btcNLNico, the European publicly-listed company Capital B (formerly known as The Blockchain Group) announced a capital raising of €11.5 million (approximately $13.3 million) in order to advance its Bitcoin treasury company strategy.</description>
-      <pubDate>Mon, 04 Aug 2025 06:09:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23053</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>In the past 7 days, El Salvador has accumulated an additional 8 BTC, bringing its total holdings to 6258.18 BTC.</title>
-      <link>https://www.lookonchain.com/feeds/23052</link>
-      <description>On August 4th, according to the data from the Ministry of Finance of El Salvador, in the past 7 days, El Salvador has added an additional 8 Bitcoins. As a result, its total Bitcoin holdings have reached 6258.18 BTC, with a value of more than $7.15 billion.</description>
-      <pubDate>Mon, 04 Aug 2025 06:08:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23052</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>MAGIC Surges Above $0.2, Up Over 22% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/23051</link>
-      <description>On August 4th, according to HTX market data, MAGIC exceeded $0.2 and is now trading at $0.2011, with a 24-hour increase of 22.28%.</description>
-      <pubDate>Mon, 04 Aug 2025 06:04:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23051</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The current mainstream CEX and DEX funding rate displays a divergence in market trend, with bearish and neutral views coexisting.</title>
-      <link>https://www.lookonchain.com/feeds/23050</link>
-      <description>On August 4th, according to Coinglass data, the current funding rates of mainstream CEX and DEX show a divergent market trend, with both bearish and neutral sentiments. The specific funding rates for mainstream coins are shown in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency trading platforms to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it signifies a generally bearish market.</description>
-      <pubDate>Mon, 04 Aug 2025 06:04:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23050</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analyst: Rate Cut Expectation Heating Up in Tandem with SEC&apos;s New Policy, Market Sentiment Improving</title>
-      <link>https://www.lookonchain.com/feeds/23049</link>
-      <description>On August 4th, according to The Block, Vincent Liu, the Chief Investment Officer of Kronos Research, stated that in the midst of macroeconomic uncertainty and institutional buying, the current market is demonstrating a sense of &quot;cautious optimism.&quot; The Fear and Greed Index is moving towards &quot;greed,&quot; and whale accumulation and expectations of rate cuts are driving traders to reallocate risk assets.Investors are focusing on the U.S. July CPI data, which will be released on August 12th, as a key indicator for the next interest rate hike or cut decision. Although the Fed maintained rates at the July FOMC meeting and Powell stated that a September rate cut still depends on economic data, CME FedWatch data shows that the market expects a probability of more than 80% for a 0.25 percentage point cut.Furthermore, Liu believes that the U.S. SEC&apos;s &quot;Project Crypto&quot; could be beneficial to the market in the medium to long term. This project will reduce regulatory uncertainty, promote the growth</description>
-      <pubDate>Mon, 04 Aug 2025 05:04:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23049</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
