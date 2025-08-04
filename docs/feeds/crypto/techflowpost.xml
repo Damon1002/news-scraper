@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Aug 2025 11:27:56 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 11:27:56 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 11:45:48 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 11:45:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>币安推出网页版钱包，支持一键自动交易功能</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安宣布推出网页版数字货币钱包（Binance Wallet Web），为用户提供桌面端的链上交易服务。该钱包采用无密钥自托管技术，并引入&quot;安全自动签名&quot;功能，允许用户在7天内进行无需重复确认的交易操作。目前该服务支持BNB智能链和Solana两个公链，用户可通过二维码扫描实现与币安应...</description>
+      <pubDate>Mon, 04 Aug 2025 11:33:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bitget 推出第 29 期链上交易竞赛，交易解锁 20,000 枚 BGB</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 WEEX 唯客交易所公告，已完成对平台币 WEEX Token（WXT）2025 年第二季度例行销毁，本次销毁数量 60,509,555 WXT，销毁价值 1,873,436 美元（以销毁当日市场价计算）。截至目前，WXT 共进行了 3 轮销毁，累计销毁量 4,124,203,823 WXT，...</description>
       <pubDate>Mon, 04 Aug 2025 07:51:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>“ETH ICO 巨鲸”在过去三周内从 CEX 提取了价值约 4700 万美元的 ETH，</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，成本低至 0.31 美元的“ETH ICO 巨鲸”在进行了长达一年的持续抛售后于最近三周内从交易所提取 13600 枚 ETH（约 4700 万美元），最近一次提取发生在 15 分钟前，均价 3456 美元。该巨鲸距离上一次囤积 ETH 已有...</description>
-      <pubDate>Mon, 04 Aug 2025 07:40:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
