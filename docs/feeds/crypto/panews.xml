@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Aug 2025 10:38:41 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 10:38:41 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 10:59:10 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 10:59:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,25 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>PeckShield：CrediX遭攻击源于管理员账户被攻破，损失约450万美元</title>
+      <link>https://www.panewslab.com/zh/articles/87ef4905-d343-49b5-859c-f5c9e1051113</link>
+      <description>PeckShield：CrediX遭攻击源于管理员账户被攻破，损失约450万美元</description>
+      <pubDate>Mon, 04 Aug 2025 10:59:10 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/87ef4905-d343-49b5-859c-f5c9e1051113</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>Gate Wallet BountyDrop 新上线 EPHYRA 空投活动</title>
       <link>https://www.panewslab.com/zh/articles/05bd2bae-bc5c-4348-bc60-2d2896b17707</link>
       <description>Gate Wallet BountyDrop 新上线 EPHYRA 空投活动</description>
-      <pubDate>Mon, 04 Aug 2025 10:38:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:57:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/05bd2bae-bc5c-4348-bc60-2d2896b17707</guid>
       <category>crypto</category>
@@ -32,7 +47,7 @@
       <title>金融时报：境外股票交易收入须申报纳税，年度内盈亏可抵扣</title>
       <link>https://www.panewslab.com/zh/articles/51bc34ba-1825-4bce-92c4-db10b0db4ff5</link>
       <description>金融时报：境外股票交易收入须申报纳税，年度内盈亏可抵扣</description>
-      <pubDate>Mon, 04 Aug 2025 10:36:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:55:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/51bc34ba-1825-4bce-92c4-db10b0db4ff5</guid>
       <category>crypto</category>
@@ -47,7 +62,7 @@
       <title>鲸探上线数字艺术展，4088幅作品3小时内被预定</title>
       <link>https://www.panewslab.com/zh/articles/737da342-baba-42e4-b28d-15ed78f27d0e</link>
       <description>鲸探上线数字艺术展，4088幅作品3小时内被预定</description>
-      <pubDate>Mon, 04 Aug 2025 10:34:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:53:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/737da342-baba-42e4-b28d-15ed78f27d0e</guid>
       <category>crypto</category>
@@ -62,7 +77,7 @@
       <title>Binance Alpha将于8月5日上线Superp（SUP）</title>
       <link>https://www.panewslab.com/zh/articles/6913fe8f-8668-4416-8743-5d2520d5755e</link>
       <description>Binance Alpha将于8月5日上线Superp（SUP）</description>
-      <pubDate>Mon, 04 Aug 2025 10:32:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:51:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6913fe8f-8668-4416-8743-5d2520d5755e</guid>
       <category>crypto</category>
@@ -77,7 +92,7 @@
       <title>ChainOpera Al多智能体群组上线，已落地智能交易场景，付费用户突破 30 万</title>
       <link>https://www.panewslab.com/zh/articles/55162e27-006e-4f18-b5ac-19b96f227ffd</link>
       <description>ChainOpera Al多智能体群组上线，已落地智能交易场景，付费用户突破 30 万</description>
-      <pubDate>Mon, 04 Aug 2025 10:30:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:49:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/55162e27-006e-4f18-b5ac-19b96f227ffd</guid>
       <category>crypto</category>
@@ -92,7 +107,7 @@
       <title>CrediX：已停用网站并禁止用户存款，用户如需操作请通过合约提现</title>
       <link>https://www.panewslab.com/zh/articles/ced2afd5-3d48-45dd-9cb2-535131da070d</link>
       <description>CrediX：已停用网站并禁止用户存款，用户如需操作请通过合约提现</description>
-      <pubDate>Mon, 04 Aug 2025 10:28:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:47:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ced2afd5-3d48-45dd-9cb2-535131da070d</guid>
       <category>crypto</category>
@@ -107,7 +122,7 @@
       <title>币安Alpha将在8月5日上线 Succinct（PROVE）</title>
       <link>https://www.panewslab.com/zh/articles/7295949a-7688-4fb0-a65f-4e475f8048d6</link>
       <description>币安Alpha将在8月5日上线 Succinct（PROVE）</description>
-      <pubDate>Mon, 04 Aug 2025 10:26:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:45:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7295949a-7688-4fb0-a65f-4e475f8048d6</guid>
       <category>crypto</category>
@@ -122,7 +137,7 @@
       <title>币安将于明早暂停Sei（SEI）网络的代币充提以支持其网络升级</title>
       <link>https://www.panewslab.com/zh/articles/d6c704f9-7cc8-49b4-9a8a-6d4a130906bb</link>
       <description>币安将于明早暂停Sei（SEI）网络的代币充提以支持其网络升级</description>
-      <pubDate>Mon, 04 Aug 2025 10:24:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:43:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d6c704f9-7cc8-49b4-9a8a-6d4a130906bb</guid>
       <category>crypto</category>
@@ -137,7 +152,7 @@
       <title>币安将上线第30期HODLer空投项目Towns（TOWNS）</title>
       <link>https://www.panewslab.com/zh/articles/95817bf9-a895-43b3-a472-b44202cc8f25</link>
       <description>币安将上线第30期HODLer空投项目Towns（TOWNS）</description>
-      <pubDate>Mon, 04 Aug 2025 10:22:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:41:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/95817bf9-a895-43b3-a472-b44202cc8f25</guid>
       <category>crypto</category>
@@ -152,7 +167,7 @@
       <title>持有至少200个Binance Alpha积分可领取800枚CYC代币空投</title>
       <link>https://www.panewslab.com/zh/articles/a8c5e9f9-d82d-43cf-87ba-d0fe0a5df6f3</link>
       <description>持有至少200个Binance Alpha积分可领取800枚CYC代币空投</description>
-      <pubDate>Mon, 04 Aug 2025 10:20:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:39:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a8c5e9f9-d82d-43cf-87ba-d0fe0a5df6f3</guid>
       <category>crypto</category>
@@ -167,7 +182,7 @@
       <title>《富爸爸穷爸爸》作者：比特币要是因为“8月诅咒”跌破9万美元的话，将加倍投资</title>
       <link>https://www.panewslab.com/zh/articles/3e3f030b-8753-444a-80e0-45f34e064cde</link>
       <description>《富爸爸穷爸爸》作者：比特币要是因为“8月诅咒”跌破9万美元的话，将加倍投资</description>
-      <pubDate>Mon, 04 Aug 2025 10:18:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:37:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3e3f030b-8753-444a-80e0-45f34e064cde</guid>
       <category>crypto</category>
@@ -184,7 +199,7 @@
       <title>CoinShares：数字资产投资产品15周来首次出现净流出，比特币周内流出4.04亿美元</title>
       <link>https://www.panewslab.com/zh/articles/da6ac53b-a03d-4eda-81b8-eea47631d91b</link>
       <description>CoinShares：数字资产投资产品15周来首次出现净流出，比特币周内流出4.04亿美元</description>
-      <pubDate>Mon, 04 Aug 2025 10:16:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:35:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/da6ac53b-a03d-4eda-81b8-eea47631d91b</guid>
       <category>crypto</category>
@@ -201,7 +216,7 @@
       <title>西班牙咖啡连锁店Vanadi Coffee新增7枚BTC，总持仓达85枚</title>
       <link>https://www.panewslab.com/zh/articles/40f1a0cc-2c40-4862-81a1-663166e95915</link>
       <description>西班牙咖啡连锁店Vanadi Coffee新增7枚BTC，总持仓达85枚</description>
-      <pubDate>Mon, 04 Aug 2025 10:14:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:33:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/40f1a0cc-2c40-4862-81a1-663166e95915</guid>
       <category>crypto</category>
@@ -218,7 +233,7 @@
       <title>8264万美元ETH于半小时前从Ceffu存入币安，Abraxas Capital于18小时前将1.069亿美元ETH存入币安</title>
       <link>https://www.panewslab.com/zh/articles/d7c00f9a-9644-4e92-aab2-b763bad95dab</link>
       <description>8264万美元ETH于半小时前从Ceffu存入币安，Abraxas Capital于18小时前将1.069亿美元ETH存入币安</description>
-      <pubDate>Mon, 04 Aug 2025 10:12:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:31:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d7c00f9a-9644-4e92-aab2-b763bad95dab</guid>
       <category>crypto</category>
@@ -235,7 +250,7 @@
       <title>法国农业信贷银行旗下CACEIS收购Kriptown少数股权，以支持区块链交易所Lise的推出</title>
       <link>https://www.panewslab.com/zh/articles/2ec26204-c069-4caf-aba5-bc366b69c21f</link>
       <description>法国农业信贷银行旗下CACEIS收购Kriptown少数股权，以支持区块链交易所Lise的推出</description>
-      <pubDate>Mon, 04 Aug 2025 10:10:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:29:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2ec26204-c069-4caf-aba5-bc366b69c21f</guid>
       <category>crypto</category>
@@ -250,7 +265,7 @@
       <title>数据：香港虚拟资产ETF今日成交额约2759.936万港元</title>
       <link>https://www.panewslab.com/zh/articles/503c3a5d-3445-4439-9751-bb105c320457</link>
       <description>数据：香港虚拟资产ETF今日成交额约2759.936万港元</description>
-      <pubDate>Mon, 04 Aug 2025 10:08:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:27:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/503c3a5d-3445-4439-9751-bb105c320457</guid>
       <category>crypto</category>
@@ -265,7 +280,7 @@
       <title>币安Alpha将于8月6日上线Fireverse（FIR）代币</title>
       <link>https://www.panewslab.com/zh/articles/ed5e0744-eb84-4c92-bd24-18468d47262b</link>
       <description>币安Alpha将于8月6日上线Fireverse（FIR）代币</description>
-      <pubDate>Mon, 04 Aug 2025 10:06:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:25:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ed5e0744-eb84-4c92-bd24-18468d47262b</guid>
       <category>crypto</category>
@@ -280,7 +295,7 @@
       <title>YGG成立Onchain Guild并分配5000万枚YGG至生态资金池，以探索收益生成机会</title>
       <link>https://www.panewslab.com/zh/articles/58f5c41e-b697-4f63-8b67-05a3fe515118</link>
       <description>YGG成立Onchain Guild并分配5000万枚YGG至生态资金池，以探索收益生成机会</description>
-      <pubDate>Mon, 04 Aug 2025 10:04:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:23:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/58f5c41e-b697-4f63-8b67-05a3fe515118</guid>
       <category>crypto</category>
@@ -295,7 +310,7 @@
       <title>ETH ICO巨鲸结束持续1年的抛售开始囤积以太坊，三周内囤积13600枚ETH</title>
       <link>https://www.panewslab.com/zh/articles/c55e46eb-73ee-490d-b914-05e58e94f14a</link>
       <description>ETH ICO巨鲸结束持续1年的抛售开始囤积以太坊，三周内囤积13600枚ETH</description>
-      <pubDate>Mon, 04 Aug 2025 10:02:41 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 10:21:10 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c55e46eb-73ee-490d-b914-05e58e94f14a</guid>
       <category>crypto</category>
@@ -306,21 +321,6 @@
       <category>chinese-crypto-news</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>持有至少200个币安Alpha积分可申领1000个DARK代币空投</title>
-      <link>https://www.panewslab.com/zh/articles/d37bb7ca-fee3-4068-b6af-8339d5a3a998</link>
-      <description>持有至少200个币安Alpha积分可申领1000个DARK代币空投</description>
-      <pubDate>Mon, 04 Aug 2025 10:00:41 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d37bb7ca-fee3-4068-b6af-8339d5a3a998</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
