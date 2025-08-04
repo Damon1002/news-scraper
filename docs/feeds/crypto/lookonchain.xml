@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Aug 2025 08:38:26 +0000</lastBuildDate>
-    <pubDate>Mon, 04 Aug 2025 08:38:26 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 09:02:36 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 09:02:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Orderly Omnivault APY exceeds 28%, TVL Surpasses $6 Million</title>
-      <link>https://www.lookonchain.com/feeds/23068</link>
-      <description>On August 4th, the liquidity infrastructure&apos;s product Omnivault TVL exceeded 6 million US dollars, with an APY of more than 28%. Previously, in April 2025, Orderly launched OmniVault, enabling DeFi users to act as liquidity providers (LPs) and earn passive income. OmniVault adopts a market-making strategy managed by a trusted institution, allowing LPs to deposit USDC and earn yield across multiple networks supported by Orderly. The income earned by LPs is guaranteed by the market maker Kronos.</description>
-      <pubDate>Mon, 04 Aug 2025 08:32:34 +0000</pubDate>
+      <title>Last week, digital asset investment products saw an outflow of $223 million, marking the first outflow in 15 weeks.</title>
+      <link>https://www.lookonchain.com/feeds/23072</link>
+      <description>On August 4th, CoinShares released its most recent weekly report data. Digital asset investment products witnessed outflows for the first time in 15 weeks. By the end of this week, the total outflows reached $2.23 billion. The week began with an inflow of $8.83 billion, but this trend reversed in the latter part of the week. This might be due to the hawkish FOMC meeting and a series of better-than-expected U.S. economic data. Although the soft weekend employment data has dovish implications for the Fed, a general risk-off sentiment led to further outflows, with outflows exceeding $1 billion on Friday.Bitcoin bore the brunt of the negative sentiment impact, with outflows of $4.04 billion this week. Nevertheless, since the beginning of the year, inflows have remained strong, reaching $20 billion.Despite facing setbacks later in the week, Ethereum achieved net inflows for the 15th consecutive week, totaling $1.33 billion, indicating strong market optimism for the asset. XRP, Solana, a</description>
+      <pubDate>Mon, 04 Aug 2025 08:56:43 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23068</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23072</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -32,12 +32,88 @@
 
     </item>
     <item>
+      <title>Bitcoin Options Market Trading Volume Sees &apos;Explosive&apos; Growth</title>
+      <link>https://www.lookonchain.com/feeds/23071</link>
+      <description>On August 4th, as per a news release dispatched by Binance to CoinDesk, the aggregate trading volume of the BTC options market has witnessed a remarkable surge. It has escalated from $4.11 billion in 2020 to $138.76 billion in June 2025, signifying a growth of more than 3200%.Options are a category of derivative contracts that bestow upon the buyer the entitlement, yet not the obligation, to purchase or sell the underlying asset at a pre-determined price within or by a specific date. Among them, a Call Option confers the right to buy, indicating a bullish stance towards the market. Conversely, a Put Option offers downside protection.</description>
+      <pubDate>Mon, 04 Aug 2025 08:56:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23071</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Binance Opens Bitcoin &apos;Options Writing&apos; Feature to All Users</title>
+      <link>https://www.lookonchain.com/feeds/23073</link>
+      <description>On August 4th, according to CoinDesk, Binance announced on Monday that it is making Bitcoin &quot;options writing&quot; available to all users in order to meet the growing demand of retail investors for more strategic and complex trading tools.Options are a kind of derivative contract that grants the buyer the right to buy or sell the underlying asset at a predetermined price on or before a specific date. Among them, a Call Option provides the right to buy, indicating a bullish stance in the market, while a Put Option offers downside protection.&quot;Writing options&quot; refers to selling Call or Put Options, which is similar to providing &quot;insurance&quot; for the upside or downside of the underlying asset. The seller of the option (that is, the writer) receives a premium as compensation for the upfront payment.</description>
+      <pubDate>Mon, 04 Aug 2025 08:56:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23073</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Two addresses recently deposited nearly 54,000 ETH into a CEX, with a total value of $189 million.</title>
+      <link>https://www.lookonchain.com/feeds/23070</link>
+      <description>Update, August 4th: According to The Data Nerd, 30 minutes prior to this update, 23,321 ETH (approximately $82.64 million) was transferred from the Binance institutional custody platform Ceffu to Binance. 18 hours before this update, Abraxas Capital deposited 30,600 ETH (approximately $106.9 million) into Bitfinex.</description>
+      <pubDate>Mon, 04 Aug 2025 08:40:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23070</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Hyperliquid&apos;s July Revenue Surpasses $86 Million, Reaching an All-Time High</title>
       <link>https://www.lookonchain.com/feeds/23069</link>
       <description>On August 4th, according to Dune Data, Hyperliquid&apos;s revenue in July exceeded $86 million, reaching $86,608,345 and hitting a historical high. Meanwhile, its annualized revenue exceeded $1.2 billion, also reaching a historical high. The cumulative total revenue of the platform has reached $404.24 million.BlockBeats Note: Annualized revenue refers to the method of converting revenue data from the current period into an estimated annual revenue.</description>
-      <pubDate>Mon, 04 Aug 2025 08:32:34 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 08:32:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23069</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Orderly Omnivault APY exceeds 28%, TVL Surpasses $6 Million</title>
+      <link>https://www.lookonchain.com/feeds/23068</link>
+      <description>On August 4th, the liquidity infrastructure&apos;s product Omnivault TVL exceeded 6 million US dollars, with an APY of more than 28%. Previously, in April 2025, Orderly launched OmniVault, enabling DeFi users to act as liquidity providers (LPs) and earn passive income. OmniVault adopts a market-making strategy managed by a trusted institution, allowing LPs to deposit USDC and earn yield across multiple networks supported by Orderly. The income earned by LPs is guaranteed by the market maker Kronos.</description>
+      <pubDate>Mon, 04 Aug 2025 08:32:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23068</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -53,7 +129,7 @@
       <title>US Stock Crypto Concept Stocks Surge in Pre-market Trading, Sharplink Gaming Up by 4.03%</title>
       <link>https://www.lookonchain.com/feeds/23067</link>
       <description>On August 4th, based on the market data from Rockflow, there was a general increase in the pre-market trading of US cryptocurrency-related stocks. These included:- Sharplink Gaming, which rose by 4.03%;- Bitmine, with a 3.63% increase;- Strategy, rising by 2.88%;- Circle, up by 1.47%;- Coinbase, with a 2.69% gain;- HOOD, increasing by 1.18%;- BTCS, which rose by 1.97%.</description>
-      <pubDate>Mon, 04 Aug 2025 08:16:34 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 08:16:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23067</guid>
       <category>crypto</category>
@@ -70,7 +146,7 @@
       <title>Binance Alpha will list Fireverse (FIR) on August 6th.</title>
       <link>https://www.lookonchain.com/feeds/23066</link>
       <description>On August 4th, as per an official announcement, Binance Alpha is set to launch Fireverse (FIR) on August 6th. Once trading begins, eligible users will be able to claim an airdrop by using Binance Alpha Points through the Alpha activity page. Further details will be made public shortly.</description>
-      <pubDate>Mon, 04 Aug 2025 08:08:34 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 08:08:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23066</guid>
       <category>crypto</category>
@@ -87,7 +163,7 @@
       <title>WEEX has completed the WXT burn in the second quarter of 2025 and launched a one million WXT airdrop event.</title>
       <link>https://www.lookonchain.com/feeds/23065</link>
       <description>August 4th, WEEX Announcement: The platform token WEEX Token (WXT) has successfully completed the routine burning for the second quarter of 2025. The amount burned this time is 60,509,555 WXT, and the burning value is $1,873,436 (calculated based on the market price on the day of burning). As of now, WXT has gone through 3 rounds of burning, with a total burned amount of 4,124,203,823 WXT. After this burning, the total supply of WXT is 5,875,796,177 WXT.Meanwhile, WEEX has launched a million WXT airdrop reward event: During the event period (8/1 0:00 - 8/5 23:59 UTC+8), if the WXT balance is ≥ 5,000 coins, a 50 WXT airdrop will be received. New users (referring to users who conduct their first contract transaction during the event period) will receive double rewards. During the event, for every additional net holding of 1,000 WXT, users can receive a random airdrop of 5-30 WXT, with a maximum of 300 WXT per user. For every 10,000 U contract transaction volume completed during the eve</description>
-      <pubDate>Mon, 04 Aug 2025 07:56:34 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 08:01:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23065</guid>
       <category>crypto</category>
@@ -105,7 +181,7 @@
       <title>Ethereum ICO Whale on the Verge of Ending Sell-off Cycle and Initiating Buying, Recently Withdrawn 13,600 ETH from CEX</title>
       <link>https://www.lookonchain.com/feeds/23064</link>
       <description>On August 4th, based on the monitoring of on-chain analyst AI Auntie @ai_9684xtpa, the &quot;ETH ICO Whale with 1 million ETH&quot; has withdrawn 13,600 ETH (equivalent to 47 million US dollars) from exchanges in the past three weeks after a one-year continuous sell-off. The most recent withdrawal took place 15 minutes ago at an average price of $3456.It has been more than two years since the whale last accumulated ETH. As of now, the whale still holds 59,718 ETH on-chain, which is worth 210 million US dollars.</description>
-      <pubDate>Mon, 04 Aug 2025 07:41:34 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 08:01:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23064</guid>
       <category>crypto</category>
@@ -119,81 +195,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>whale</category>
-
-    </item>
-    <item>
-      <title>A whale withdrew 2,850 Ethereum from Kraken, worth approximately $10.09 million</title>
-      <link>https://www.lookonchain.com/feeds/23061</link>
-      <description>On August 4th, as monitored by Onchain Lens, a whale address withdrew 2,850 ETH from Kraken, which is approximately worth $10.09 million. The address currently holds 18,111 ETH, and the total value is around $64 million. The address is: 0x1c11ba15939e1c16ec7ca1678df6160ea2063bc5.</description>
-      <pubDate>Mon, 04 Aug 2025 07:37:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23061</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Gate 24-hour Net Fund Flow Surpasses $63.87 Million, Ranking Second Globally</title>
-      <link>https://www.lookonchain.com/feeds/23060</link>
-      <description>On August 4th, according to data from DefiLlama, Gate witnessed a net inflow of more than $63.87 million in the past 24 hours and ranked second globally.</description>
-      <pubDate>Mon, 04 Aug 2025 07:37:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23060</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha New Airdrop DARK Participation Threshold Announcement: At Least 200 Points</title>
-      <link>https://www.lookonchain.com/feeds/23063</link>
-      <description>On August 4th, according to an official announcement, Binance Alpha is the first platform to list DarkStar (DARK), and trading on Alpha will commence on August 4, 2025, at 20:00 (UTC+8).After the start of trading, users who hold at least 200 Binance Alpha points can claim 1000 DARK tokens as an airdrop. First come, first served. If the event is not yet completed, the points threshold will automatically decrease by 15 points every hour.It should be noted that claiming the airdrop will consume 15 Binance Alpha points. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a waiver of the airdrop.</description>
-      <pubDate>Mon, 04 Aug 2025 07:37:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23063</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Matrixport: Bitcoin Tests Key Support Level, Continues August&apos;s Common Seasonal Weakness</title>
-      <link>https://www.lookonchain.com/feeds/23062</link>
-      <description>On August 4th, Matrixport issued an icon analysis stating: &quot;In the past few weeks, we have repeatedly pointed out in &apos;Matrix on Target&apos; and daily updates that Bitcoin is getting close to the crucial technical support level of $112,000. Now that this support has been breached, market sentiment is starting to change. Although many bullish views still hold sway, our previous cautious stance is gradually being verified.&quot;&quot;This recent downward trend has, on one hand, continued the common August seasonal weakness. On the other hand, it has been affected by macro uncertainty resulting from the downward adjustment of labor market data. A similar situation occurred around the same time last year when, under market pressure, the Federal Reserve unexpectedly cut interest rates by 50 basis points.&quot;Considering that the market has already factored in two rate cuts, with the first expected as early as September, we maintain our previous expectation: until there is no improvement in economic and mark</description>
-      <pubDate>Mon, 04 Aug 2025 07:37:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23062</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
