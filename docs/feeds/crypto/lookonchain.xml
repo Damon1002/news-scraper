@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 12:33:28 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 12:33:28 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 13:27:42 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 13:27:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,50 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Trump: Will Drastically Increase Tariffs on India in the Next 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/23253</link>
-      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that India is the country with the highest tariffs and that he will significantly increase tariffs on India within the next 24 hours. India is not a good trading partner, and the disagreement with India lies in its high tariffs. (FX168)</description>
-      <pubDate>Tue, 05 Aug 2025 12:32:36 +0000</pubDate>
+      <title>Riot Blockchain Mined a Total of 484 Bitcoins in July</title>
+      <link>https://www.lookonchain.com/feeds/23262</link>
+      <description>On August 5th, Riot Platforms presented its July 2025 Operations Report. The figures indicate that the company mined a total of 484 bitcoins in July. This represents an 8% increase compared to the previous month and a 31% growth year-on-year.During this period, the company sold 475 bitcoins at an average price of $115,411, resulting in a net revenue of $54.8 million. Regarding infrastructure, the company&apos;s total deployed hash rate remained at 35.5 EH/s, while the average operational hash rate was 30.2 EH/s. By participating in a grid demand response program, the company received a $13.9 million electricity subsidy, reducing the overall electricity cost to $0.028 per kilowatt-hour.</description>
+      <pubDate>Tue, 05 Aug 2025 13:24:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23253</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23262</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>White House Crypto Report Suggests Avoiding Double Taxation, Bitcoin Miners to Be Taxed Only Upon Sale</title>
+      <link>https://www.lookonchain.com/feeds/23261</link>
+      <description>On August 5th, the Digital Asset Work Group of the U.S. White House suggested in a 168-page cryptocurrency report that the IRS clarify the tax timing of Bitcoin mining income. It is possible to change it to be taxed at the time of sale in order to avoid double taxation of &quot;mining income tax + capital gains on sale.&quot;BitFuFu CEO Leo Lu stated that this action could substantially reduce the tax burden of miners and promote the mainstream adoption of Bitcoin. Congress has already witnessed bills such as H.R. 8149 proposing similar tax deferral schemes.</description>
+      <pubDate>Tue, 05 Aug 2025 13:24:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23261</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>On-chain Transaction Engine Decibel Launches on Aptos, Reshaping Decentralized Market Infrastructure</title>
+      <link>https://www.lookonchain.com/feeds/23260</link>
+      <description>On August 5th, the new decentralized trading engine, Decibel, which is supported by Aptos Labs and the Decibel Foundation, was officially launched today. The platform is designed to offer a neutral and composable core infrastructure for the global on-chain market. It integrates spot trading, perpetual contracts, and yield strategies and will serve as the execution layer within the Aptos financial ecosystem.As the demand for decentralized finance continues to rise, the market still heavily depends on fragmented platforms and third-party exchanges, resulting in the dispersion of liquidity and limited composability. By leveraging the Aptos blockchain, Decibel supports multi-collateral cross-margin accounts, a self-custody architecture, and programmable incentive mechanisms. This provides traders, developers, and institutions with unified liquidity management, direct order flow, and real-time data access, enhancing the efficiency of fund circulation and the trading execution experience.</description>
+      <pubDate>Tue, 05 Aug 2025 13:08:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23260</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +69,12 @@
 
     </item>
     <item>
-      <title>Trump: Will Announce Drug, Chip Tariffs Within Next Week</title>
-      <link>https://www.lookonchain.com/feeds/23252</link>
-      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that Switzerland made a significant amount of money through the pharmaceutical industry. He announced that drug tariffs would be imposed within the next week and chip tariffs would also be announced.We will initially impose relatively small tariffs on the pharmaceutical industry, but eventually, these tariffs will reach 250%. (Golden Finance)</description>
-      <pubDate>Tue, 05 Aug 2025 12:24:36 +0000</pubDate>
+      <title>BounceBit introduces the Franklin Dupton Tokenized Fund for its Treasury Bond Yield Strategy</title>
+      <link>https://www.lookonchain.com/feeds/23259</link>
+      <description>On August 5th, the cryptocurrency infrastructure platform BounceBit is set to introduce Franklin Templeton&apos;s Tokenized Money Market Fund into its structured income platform BB Prime. By combining the US Treasury yield with cryptocurrency funds and a basis arbitrage strategy, an innovative product of CeDeFi (Centralized and Decentralized Finance integration) is created.This tokenized fund belongs to the BENJI product series and will serve as collateral and settlement tool in the investment strategy. Through this means, investors can not only obtain the underlying Treasury yield but also overlay other sources of income. Franklin Templeton is one of the earliest traditional asset management institutions to issue tokenized funds on public chains. As early as 2021, it launched the first tokenized US money market fund BENJI. The company stated in a release: &quot;We have designed the BENJI tokenized money market fund series to meet the diverse needs of retail, wealth management, institutions, b</description>
+      <pubDate>Tue, 05 Aug 2025 13:08:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23252</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23259</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -48,12 +86,12 @@
 
     </item>
     <item>
-      <title>Trump: Will Impose 35% Tariff on EU if Obligations Are Not Met</title>
-      <link>https://www.lookonchain.com/feeds/23251</link>
-      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that if the EU fails to fulfill its obligations, a 35% tariff will be imposed on the EU. (Xinhua)</description>
-      <pubDate>Tue, 05 Aug 2025 12:24:36 +0000</pubDate>
+      <title>Binance Alpha PROVE Airdrop Threshold: At least 241 Points in the first stage</title>
+      <link>https://www.lookonchain.com/feeds/23258</link>
+      <description>August 5th, Binance Alpha has taken the lead in listing Succinct (token symbol: PROVE). The trading on Alpha is scheduled to officially commence on August 5, 2025, at 15:00 (UTC). Eligible users can, within 24 hours after the start of trading, access the Binance Alpha event page to claim 100 PROVE airdropped tokens by using Alpha Points. The Binance Alpha airdrop will be carried out in two phases: In the first phase (the first 18 hours), users with at least 241 Alpha Points can claim the airdrop; in the second phase (the last 6 hours), users with at least 200 Alpha Points can participate in the airdrop on a first-come, first-served basis. If the rewards are not all distributed, the hourly points threshold will automatically decrease by 15 points. It should be noted that claiming the airdrop will consume 15 Alpha Points. Users must complete the claim confirmation on the Alpha event page within 24 hours; otherwise, they will be considered to have automatically given up their airdrop elig</description>
+      <pubDate>Tue, 05 Aug 2025 13:00:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23251</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23258</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -65,12 +103,31 @@
 
     </item>
     <item>
-      <title>Trump: Might Soon Announce New Fed Chair, Powell Lowered Rates Too Late</title>
-      <link>https://www.lookonchain.com/feeds/23250</link>
-      <description>August 5th. During a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that the position of the Fed Chair is a political one and that Powell cut rates too late. There are numerous excellent candidates for the Fed Chair, such as Warsh and Hassett, as well as two other candidates who may soon be announced as the next Fed Chair. He likes [Kevin] Warsh, but Warsh desires to remain at the Treasury. Perhaps the vacancy left by Powell could be utilized to select the future Fed Chair. (FXStreet)</description>
-      <pubDate>Tue, 05 Aug 2025 12:16:36 +0000</pubDate>
+      <title>Indonesia is currently exploring the feasibility of adopting Bitcoin as a national reserve asset.</title>
+      <link>https://www.lookonchain.com/feeds/23257</link>
+      <description>On August 5th, as reported by BitcoinMagazine, the vice president&apos;s office in Indonesia has extended an invitation to Bitcoin supporters to engage in discussions regarding the feasibility of adopting Bitcoin as a national reserve asset.</description>
+      <pubDate>Tue, 05 Aug 2025 12:56:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23250</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23257</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Trump: May Not Run for US President Again</title>
+      <link>https://www.lookonchain.com/feeds/23256</link>
+      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that he might not run for the presidency again. (FX168)</description>
+      <pubDate>Tue, 05 Aug 2025 12:40:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23256</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -82,12 +139,12 @@
 
     </item>
     <item>
-      <title>Trump: Labor statistics data is highly politicized and reiterates that the data is manipulated</title>
-      <link>https://www.lookonchain.com/feeds/23249</link>
-      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that U.S. labor statistics are highly politicized and reiterated that the data is manipulated. (Xinhua News)BlockBeats previously reported that on August 2nd, President Trump of the United States directly tweeted with accusations, &quot;This is a scam against him&quot;: &quot;In my opinion, today&apos;s job data is manipulated to embarrass Republicans and me—just as before and after the 2024 presidential election, they first presented three days of beautiful data, and then on November 15, 2024, shortly after the election, these data were significantly revised downward—this is entirely a scam.&quot; Trump then ordered the dismissal of Commissioner Erika McEntarfer of the Bureau of Labor Statistics, and her deputy William Wiatrowski will serve as the acting commissioner.</description>
-      <pubDate>Tue, 05 Aug 2025 12:16:36 +0000</pubDate>
+      <title>MEI Pharma Increases LTC Holdings with an Average Price of $107.58 to 929,548 Coins</title>
+      <link>https://www.lookonchain.com/feeds/23255</link>
+      <description>On August 5th, MEI Pharma, Inc. (NASDAQ: MEIP) announced today that it had acquired 929,548 Litecoins (LTC) at an average price of $107.58 per coin, thus successfully commencing a significant institutional treasury strategy.As of August 4, 2025, the total value of this LTC treasury amounts to approximately $110.4 million. MEI has also become the first U.S. public company to hold Litecoin as a primary reserve asset, implementing a new strategy based on digital asset infrastructure and long-term capital innovation.This strategic move was developed through the collaboration between MEI and GSR and was executed under the guidance of Litecoin founder and MEI board member, Charlie Lee. This marks the start of MEI&apos;s larger-scale institutional treasury plan, aiming to leverage Litecoin&apos;s scalability and reliability as a long-term store of value and operating capital asset.</description>
+      <pubDate>Tue, 05 Aug 2025 12:32:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23249</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23255</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -96,15 +153,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>SharpLink increased its ETH holdings last week at an average price of $3,634 for a total of 83,561 ETH.</title>
-      <link>https://www.lookonchain.com/feeds/23248</link>
-      <description>On August 5th, SharpLink announced in a post that from July 28th to August 3rd, SharpLink purchased 83,561 ETH with an average price of $3,634 per coin, totaling $265 million.The amount of ETH per share (that is, &quot;ETH holding concentration&quot;) is currently 3.66 ETH, which is higher than last week&apos;s 3.40 ETH, representing a 83% increase since the launch of this strategy on June 2nd.At present, 100% of the company&apos;s ETH is staked, and the accumulated staking rewards have reached 929 ETH.</description>
-      <pubDate>Tue, 05 Aug 2025 12:16:36 +0000</pubDate>
+      <title>U.S. Stock Ethereum Reserve Concept Stocks Surge in Pre-market Trading, BMNR and GAME Up Over 3%</title>
+      <link>https://www.lookonchain.com/feeds/23254</link>
+      <description>On August 5th, according to Rockflow market data, Ethereum reserve concept stocks in the US stock market witnessed a general increase in pre-market trading. These included:· SharpLink Gaming (SBET.US) rose by 2.82%;· Bitmine Immersion Technologies (BMNR.US) increased by 3.05%;· GameSquare (GAME.US) went up by 3.13%;· Bit Digital (BTBT.US) advanced by 0.61%.</description>
+      <pubDate>Tue, 05 Aug 2025 12:32:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23248</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23254</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -115,16 +173,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>The Kingdom of Bhutan&apos;s government transferred 517 bitcoins to a new address</title>
-      <link>https://www.lookonchain.com/feeds/23247</link>
-      <description>On August 5th, as monitored by OnchainLens, the government address of the Kingdom of Bhutan transferred 517 bitcoins (valued at approximately $59.23 million) to a new wallet (most likely to Binance).</description>
-      <pubDate>Tue, 05 Aug 2025 12:08:36 +0000</pubDate>
+      <title>Trump: Will Drastically Increase Tariffs on India in the Next 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/23253</link>
+      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that India is the country with the highest tariffs and that he will significantly increase tariffs on India within the next 24 hours. India is not a good trading partner, and the disagreement with India lies in its high tariffs. (FX168)</description>
+      <pubDate>Tue, 05 Aug 2025 12:32:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23247</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23253</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -133,64 +190,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>MYX is about to face a large unlocking tomorrow, with the coin&apos;s price surging nearly 5x in a single day</title>
-      <link>https://www.lookonchain.com/feeds/23246</link>
-      <description>On August 5th, according to the monitoring of on-chain analyst AI Auntie @ai_9684xtpa, MYX will experience a 3.9% monthly unlock tomorrow. The one-day increase of MYX is nearly 5 times, and it has surged 16 times in 7 days. Before this 38.99 million unlock of MYX, it was only valued at $3.9 million, but now it is valued as high as $59.42 million.</description>
-      <pubDate>Tue, 05 Aug 2025 12:08:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23246</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Coinbase Bitcoin Premium Reverts to Positive, Analysts Bullish on Year-End Target of $130,000</title>
-      <link>https://www.lookonchain.com/feeds/23245</link>
-      <description>On August 5th, Coinbase&apos;s Bitcoin Premium Index has turned positive again, suggesting that the domestic U.S. demand is picking up, which further boosts analysts&apos; bullish views on Bitcoin&apos;s long-term price outlook. An analyst from the Bitcoin yield protocol TeraHash stated in an interview: &quot;If ETFs continue to receive inflows and the macro environment remains stable, Bitcoin may likely trade between $130,000 and $150,000 by the end of the year. However, everything still depends on the Federal Reserve&apos;s next decisions, especially the highly anticipated rate cut in September.&quot;It is widely held in the market that a Fed rate cut will act as a &quot;booster rocket&quot; for Bitcoin. A lower interest rate environment is more conducive to risk assets like cryptocurrencies and stocks. James Butterfill, the Research Director at CoinShares, stated that he expects the Fed to &quot;quickly shift to a dovish stance.&quot; This policy shift means a greater emphasis on economic growth rather than inflation control, usu</description>
-      <pubDate>Tue, 05 Aug 2025 11:56:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23245</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Galaxy Digital reports Q2 Net Income of $30.7 Million, Reversing Previous Quarter Loss</title>
-      <link>https://www.lookonchain.com/feeds/23244</link>
-      <description>On August 5th, the key highlights of Galaxy Digital&apos;s Q2 2025 financial report are as follows:Net income amounted to $30.7 million (with diluted earnings per share of $0.08), reversing the loss from the previous quarter.Adjusted EBITDA was $211 million.Total shareholder equity stood at $2.6 billion, and cash and stablecoin reserves reached $1.2 billion.The adjusted gross profit of the digital asset business increased by 10% quarter over quarter and reached $71.4 million.The adjusted gross profit of the global markets business increased by 28% quarter over quarter and reached $55.4 million.Total assets under management (AUM) increased by 27% quarter over quarter and reached $9 billion.The average loan book size increased by 27% and reached $1.1 billion.</description>
-      <pubDate>Tue, 05 Aug 2025 11:41:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23244</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
