@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 05:47:42 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 05:47:42 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 06:02:30 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 06:02:30 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Peter Schiff: September Rate Cut Not Set in Stone, Inflation May Be Higher Than Expected</title>
+      <link>https://www.lookonchain.com/feeds/23195</link>
+      <description>On August 5th, economist and cryptocurrency critic Peter Schiff tweeted and said, &quot;A September rate cut is not a certainty at all. The inflation data released between now and the next Federal Reserve meeting may be higher than anticipated. The fact that the market has risen in the expectation of a rate cut actually makes the possibility of a cut lower. Stronger inflationary pressure will override the impact of the slowing growth in jobs.&quot;</description>
+      <pubDate>Tue, 05 Aug 2025 05:49:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23195</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The SEC Updates the US Dollar Stablecoin Accounting Rules Staff Guide, With Some Stablecoins Being Considered as Cash</title>
       <link>https://www.lookonchain.com/feeds/23194</link>
       <description>On August 5th, the U.S. Securities and Exchange Commission (SEC) updated its staff guidance on stablecoin accounting rules. The key point of the new guidance is that if a stablecoin pegged to the U.S. dollar has a collateralized redemption mechanism and its value stability is pegged to another asset type, it may be classified as &quot;cash equivalent&quot;.While the SEC is formulating broader cryptocurrency regulatory rules, this latest interim guidance is part of Chairman Paul Atkins&apos; efforts to remove restrictive measures. For instance, in April of this year, the SEC clearly stated that a &quot;covered&quot; U.S. dollar stablecoin is not regarded as a security and confirmed that entities engaged in stablecoin issuance and redemption activities do not need to register with the agency for such activities.</description>
-      <pubDate>Tue, 05 Aug 2025 05:40:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:40:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23194</guid>
       <category>crypto</category>
@@ -34,7 +51,7 @@
       <title>Analyst: The Federal Reserve should adjust its dual mandate target and readjust its monetary policy</title>
       <link>https://www.lookonchain.com/feeds/23193</link>
       <description>On August 5th, Brij Khurana, the Fixed Income Portfolio Manager of Wellington Management, stated that the Federal Reserve plans to update its statement every 5 years, detailing how it will fulfill its dual mandate of maximizing employment and maintaining price stability. The Federal Reserve last issued this statement during the 2020 COVID-19 pandemic and adopted a framework focusing on a 2% long-term average inflation rate.Later this year, when the Federal Reserve releases its next statement, it should carefully reconsider its dual mandate and adjust its monetary policy to move towards maximizing productivity. Since 2008, the annual growth rate of US productivity has slowed down to 1.6%, which is lower than the 2.4% over the previous 18 years. Placing emphasis on accelerating productivity again will enable the Federal Reserve to achieve its dual mandate goals without unintended negative consequences such as exacerbated income inequality and rising debt levels, both of which dampen pr</description>
-      <pubDate>Tue, 05 Aug 2025 05:32:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:32:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23193</guid>
       <category>crypto</category>
@@ -51,7 +68,7 @@
       <title>British Man James Howells Refuses to Give Up Search for Lost 8000 BTC</title>
       <link>https://www.lookonchain.com/feeds/23192</link>
       <description>On August 5th, as per The Block, earlier this week, several posts emerged on social media stating that UK Newport IT engineer James Howells had officially concluded his search for the lost 8,000 BTC. James Howells got in touch with The Block through a private message on the social platform X and said, &quot;No, I haven&apos;t &apos;given up.&apos; Part of the story circulating in the public is true, but it&apos;s not exactly as the story unfolds.&quot;Howells explained that on July 1st, he formally made an offer to the leadership of the Newport City Council, their legal team, and a member of parliament to purchase and excavate the Newport landfill site, with an estimated value ranging from $33 million to $40 million. To raise funds for the acquisition, Howells had announced plans to launch an Ordinal-based token in October representing 21% of the value of the lost wallet. Despite the substantial offer amount, Howells claims that Newport has not responded or acknowledged receiving the offer. So, as things stand no</description>
-      <pubDate>Tue, 05 Aug 2025 05:24:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:24:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23192</guid>
       <category>crypto</category>
@@ -70,7 +87,7 @@
       <title>Binance will conduct wallet maintenance for USDC withdrawals on the Ethereum mainnet, Polygon, and other networks</title>
       <link>https://www.lookonchain.com/feeds/23191</link>
       <description>August 5th. According to official channels, Binance will carry out wallet maintenance for USD Coin (USDC) on Ethereum (ETH), Polygon (POL), Arbitrum (ARB), Base (BASE), and Optimism (OP) at 15:00 (UTC+8) on August 6th, 2025.To facilitate this maintenance, Binance will halt USD Coin (USDC) withdrawals on Ethereum (ETH), Polygon (POL), Arbitrum (ARB), Base (BASE), and Optimism (OP) starting from 15:00 (UTC+8) on August 6th, 2025. The maintenance is projected to last for 2 hours, and withdrawals will resume automatically upon the completion of the maintenance.</description>
-      <pubDate>Tue, 05 Aug 2025 05:19:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:19:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23191</guid>
       <category>crypto</category>
@@ -89,7 +106,7 @@
       <title>「Quad-Shorter with 75% ETH Win Rate」 Adds to ETH Short Position, Current Position Size Reaches $127 Million</title>
       <link>https://www.lookonchain.com/feeds/23190</link>
       <description>On August 5th, according to the monitoring of HyperInsight accessible via https://app.hyperliquid.xyz/join/NTOD, the &quot;Four Battles ETH 75% Win Rate Whale&quot; augmented its short position in ETH to 35,000 coins (with a nominal value of approximately $127 million). The opening price was $3,641.5 and the liquidation price was $3,805.In this round, the short position of this whale on ETH has shifted from a floating profit of $12.25 million to a floating loss of $170,000.</description>
-      <pubDate>Tue, 05 Aug 2025 04:56:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:01:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23190</guid>
       <category>crypto</category>
@@ -109,7 +126,7 @@
       <title>Payment service company Remitly will adopt a stablecoin for cross-border payments</title>
       <link>https://www.lookonchain.com/feeds/23189</link>
       <description>On August 5th, the payment service company Remitly is going to adopt stablecoin technology in order to enhance its international remittance capabilities. This action is intended to position Remitly at the forefront of financial technology innovation. By using blockchain technology, it will be able to provide customers in more than 170 countries with faster, more cost-effective, and secure cross-border payment solutions.</description>
-      <pubDate>Tue, 05 Aug 2025 04:50:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:01:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23189</guid>
       <category>crypto</category>
@@ -126,7 +143,7 @@
       <title>Thomas Lee: ETH Will Still Be One of the Biggest Macro Trends in the Next 10 to 15 Years</title>
       <link>https://www.lookonchain.com/feeds/23188</link>
       <description>On August 5th, Thomas Lee, the chairman of the board of BitMine, tweeted, saying, &quot;BMNR currently possesses 833,133 ETH, which is worth 3 billion US dollars. This makes it the largest ETH treasury in the world and the third-largest cryptocurrency treasury in the world.&quot;As Wall Street financializes blockchain and artificial intelligence leads to the tokenization of robotic assets, ETH will continue to be one of the biggest macro trends in the next 10 to 15 years.</description>
-      <pubDate>Tue, 05 Aug 2025 04:46:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 05:01:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23188</guid>
       <category>crypto</category>
@@ -145,7 +162,7 @@
       <title>Shitcoins Surge Across the Board, ILV Surges Over 75% in 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/23187</link>
       <description>On August 5th, according to HTX market data, altcoins witnessed a general rise. The specific details are as follows:ILV is currently trading at $22.27, with a 24-hour increase of more than 75%;MAGIC is currently priced at $0.265, experiencing a 24-hour increase of over 48%;RARE is currently valued at $0.0648, showing a 24-hour increase of more than 29%;KERNEL is currently priced at $0.2425, with a 24-hour increase of over 25%;SYN is currently priced at $0.1504, having a 24-hour increase of over 21%;PARTI is currently priced at $0.2068, with a 24-hour increase of over 19%.</description>
-      <pubDate>Tue, 05 Aug 2025 03:46:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 04:01:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23187</guid>
       <category>crypto</category>
@@ -162,7 +179,7 @@
       <title>Yesterday, the US Bitcoin Spot ETF saw a net outflow of $3.235 billion, while the Ethereum ETF experienced a net outflow of $4.651 billion.</title>
       <link>https://www.lookonchain.com/feeds/23186</link>
       <description>On August 5th, according to Farside data, the net outflow of the US Spot Bitcoin ETF was $323.5 million yesterday. Additionally, the net outflow of the Ethereum ETF was $465.1 million, with the net outflow of the Ethereum ETF reaching a record high.</description>
-      <pubDate>Tue, 05 Aug 2025 03:46:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 04:01:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23186</guid>
       <category>crypto</category>
@@ -178,25 +195,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bloomberg Analyst: Bitcoin&apos;s Volatility Has Significantly Decreased Since the Launch of a Bitcoin Spot ETF, Now Less Than Twice That of Gold</title>
-      <link>https://www.lookonchain.com/feeds/23185</link>
-      <description>On August 5th, Bloomberg ETF Senior Analyst Eric Balchunas posted on social media, saying, &quot;Since the listing of the Bitcoin ETF, its volatility has decreased significantly. The 90-day rolling volatility has dropped below 40 for the first time, while it was above 60 at the time of the ETF listing. For comparison, when combined with GLD data, Bitcoin&apos;s volatility is now less than twice that of gold, whereas it used to be more than three times.&quot;</description>
-      <pubDate>Tue, 05 Aug 2025 03:46:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23185</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
