@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 14:36:55 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 14:36:55 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 14:58:21 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 14:58:21 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,68 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A Whale Increases Ethereum Short Position Once Again to 57,000 ETH, Liquidation Price at $3,727</title>
+      <link>https://www.lookonchain.com/feeds/23287</link>
+      <description>On August 5th, as monitored by EmberCN, after partial position liquidation, the [Four-Battle ETH 75% Win Rate Whale] reopened its short position in ETH to 50,000 ETH ($1.81 billion). His previously opened 50,000 ETH short position was reduced to 24,000 ETH after deleveraging last night and partial liquidation in the early morning. Then, he began to gradually withdraw ETH and ARB from WhiteBIT and Kucoin and sell them on-chain to exchange for 7.21 million USDC and transfer them to Hyperliquid to continuously increase his short position in ETH. Currently, after several position increases, his short position in ETH has returned to 50,000 ETH ($1.81 billion).Shortly after the above transaction operations, the whale once again increased his short position by 7,000 ETH, expanding his holdings to 57,000 ETH. The opening price was $3632 and the liquidation price was $3727, currently generating a profit of over $2.5 million.</description>
+      <pubDate>Tue, 05 Aug 2025 14:57:29 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23287</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The U.S. CFTC is considering allowing futures exchanges to engage in spot cryptocurrency trading</title>
+      <link>https://www.lookonchain.com/feeds/23286</link>
+      <description>On August 5th, the U.S. Commodity Futures Trading Commission (CFTC) declared that it is contemplating the permission for spot cryptocurrency trading on registered futures exchanges and is soliciting feedback from stakeholders to advance President Trump&apos;s cryptocurrency development goals.CFTC Acting Chairman Caroline Pham stated in a Monday announcement that the agency is seeking stakeholders&apos; assistance on how to offer regulatory clarity for listing spot cryptocurrency assets on CFTC-registered futures exchanges (also known as designated contract markets, DCMs). This is one of the exchange types regulated by the CFTC.This &quot;Listing Spot Cryptocurrency Trading Initiative&quot; is the CFTC&apos;s initial response to a report released last week by the Trump administration&apos;s Digital Asset Market Working Group. The report outlined specific expectations for U.S. regulatory agencies, such as requiring the CFTC to provide clear guidance on registration, custody, and other aspects to establish a regul</description>
+      <pubDate>Tue, 05 Aug 2025 14:40:29 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23286</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Bitcoin Drops Below $113,000</title>
+      <link>https://www.lookonchain.com/feeds/23285</link>
+      <description>On August 5th, with respect to HTX market data, Bitcoin fell below $113,000, showing a 24-hour change of -2.01%.</description>
+      <pubDate>Tue, 05 Aug 2025 14:40:29 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23285</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>「BNB Version of MicroStrategy」 VAPE Surges Nearly 7%, Market Cap Rises to $15.67 Million</title>
       <link>https://www.lookonchain.com/feeds/23284</link>
       <description>On August 5th, according to Rockflow market data, the &quot;BNB Version MicroStrategy&quot; VAPE witnessed a nearly 7% surge, with its market value rising to $15.67 million.Today, CEA Industries (VAPE) announced the accomplishment of a $500 million private placement, and the stock symbol will be updated to BNC. The company intends to utilize the net proceeds from this offering to purchase BNB, making it the company&apos;s primary treasury reserve asset while continuously progressing its core business.</description>
-      <pubDate>Tue, 05 Aug 2025 14:32:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:32:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23284</guid>
       <category>crypto</category>
@@ -35,7 +93,7 @@
       <title>Brazil will discuss the establishment of a Bitcoin Strategic Reserve.</title>
       <link>https://www.lookonchain.com/feeds/23283</link>
       <description>Update: On August 5th, as per CoinDesk, Brazil is scheduled to hold a public hearing on August 20 in order to deliberate on the establishment of a Bitcoin strategic reserve.</description>
-      <pubDate>Tue, 05 Aug 2025 14:32:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:32:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23283</guid>
       <category>crypto</category>
@@ -54,7 +112,7 @@
       <title>CEA Industries has successfully completed a $500 million private placement, and the stock ticker will be updated to BNC.</title>
       <link>https://www.lookonchain.com/feeds/23280</link>
       <description>Update: On August 5th, CEA Industries Inc. (presently trading on the Nasdaq under the symbol: VAPE; it will be changed to: BNC on Wednesday, August 6th, 2025) announced today that the company has successfully completed a $500 million private placement led by YZi Labs on August 5th, 2025 to support the implementation of its BNB-centric treasury strategy.This private placement was a common stock PIPE (Private Investment in Public Equity) transaction, raising a total of $500 million. There is also the potential to receive up to an additional $750 million in cash through the issuance of accompanying warrants in the future (assuming 100% exercise of the warrants).The company further announced that effective August 6th, 2025 (Wednesday), the company&apos;s common stock will trade on the Nasdaq under the new ticker symbol &quot;BNC&quot;, and the publicly traded warrants issued by the company will also transition to the new ticker symbol &quot;BNCWW&quot;. The company holds the view that this ticker symbol change</description>
-      <pubDate>Tue, 05 Aug 2025 14:25:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:24:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23280</guid>
       <category>crypto</category>
@@ -72,7 +130,7 @@
       <title>Towns: Some eligible wallets are temporarily unable to see the airdrop claim button due to a display error</title>
       <link>https://www.lookonchain.com/feeds/23282</link>
       <description>On August 5th, Towns Protocol announced that &quot;Due to a display error, some eligible wallets are temporarily unable to see the airdrop claim entrance. If you have passed the eligibility check, your claim eligibility remains valid. We are working on fixing the issue and will update the notice as soon as possible.&quot;</description>
-      <pubDate>Tue, 05 Aug 2025 14:25:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:24:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23282</guid>
       <category>crypto</category>
@@ -89,7 +147,7 @@
       <title>LookOnChain: Ethereum Drops Below $3600</title>
       <link>https://www.lookonchain.com/feeds/23281</link>
       <description>On August 5th, based on HTX market data, Ethereum fell below $3,600, experiencing a 24-hour loss of 2.20%.</description>
-      <pubDate>Tue, 05 Aug 2025 14:25:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:24:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23281</guid>
       <category>crypto</category>
@@ -109,7 +167,7 @@
       <title>Coinbase: Canadian Customers Can Now Buy and Sell Cryptocurrency via PayPal</title>
       <link>https://www.lookonchain.com/feeds/23279</link>
       <description>On August 5th, Coinbase made an announcement that Canadian users are now able to buy and sell cryptocurrency through PayPal.</description>
-      <pubDate>Tue, 05 Aug 2025 14:17:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:16:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23279</guid>
       <category>crypto</category>
@@ -126,61 +184,9 @@
       <title>Binance will list Towns (TOWNS) and Succinct (PROVE) Perpetual Contracts</title>
       <link>https://www.lookonchain.com/feeds/23278</link>
       <description>August 5th, Binance initiates Savings, One-Click Buy, Instant Exchange, Leveraged Tokens, and Futures for Towns (TOWNS) and Succinct (PROVE). The TOWNS Capital Protected Earning Coin-Linked Savings and PROVE Capital Protected Earning Coin-Linked Savings offerings will be launched on the Binance Coin-Linked Savings platform for subscription on August 5, 2025, at 10:30 PM (UTC+8) and August 6, 2025, at 1:00 AM (UTC+8) respectively. Users have the ability to purchase/sell TOWNS and PROVE through the &quot;One-Click Buy&quot; page.One hour following the launch of TOWNS and PROVE on Binance Spot, trading will commence on One-Click Buy. During the one-hour period after the launch of TOWNS and PROVE on Binance Spot, users can convert TOWNS and PROVE to BTC, USDT, or other tokens supported by the instant exchange platform with fee-free conversions.Binance will launch Towns 1-75x Leveraged USDT-Margined Perpetual Contracts and PROVE 1-75x Leveraged USDT-Margined Perpetual Contracts on August 5, 2025,</description>
-      <pubDate>Tue, 05 Aug 2025 14:17:02 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 14:16:29 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23278</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Jito Labs proposes to distribute protocol revenue to JTO holders to further the decentralization of the network</title>
-      <link>https://www.lookonchain.com/feeds/23277</link>
-      <description>On Tuesday, August 5th, Jito Labs launched a new governance proposal called JIP-24. The purpose of this proposal is to enhance the decentralization of the network. It suggests that all transaction fee revenue from the Block Engine and the Block Assembly Market (BAM) should be directly routed to the Jito DAO treasury.If the proposal is approved, the DAO will assume control of the protocol&apos;s revenue stream and distribute it to JTO token holders. This move will reduce Jito Labs&apos; control over the Jito network and give a sub-governance group within the DAO a more prominent role in protocol development. Jito Labs believes that this will ultimately increase the value of the Jito token.Currently, the rewards generated by Jito&apos;s Block Engine are distributed as follows: 3% to Jito Labs and 3% to the DAO. However, with the JIP-24 proposal, this profit-sharing mechanism will be eliminated. All future 6% transaction fees and all revenue related to BAM will be permanently allocated to the DAO tr</description>
-      <pubDate>Tue, 05 Aug 2025 14:09:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23277</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>JTO experienced a brief 6% surge before pulling back, raising its market value to $1.355 billion.</title>
-      <link>https://www.lookonchain.com/feeds/23276</link>
-      <description>On August 5th, perhaps influenced by the news &quot;Jito Labs Proposes to Distribute Protocol Revenue to JTO Holders&quot;, JTO witnessed a short-term surge of more than 6% and then retreated. Its market capitalization reached $1.355 billion.</description>
-      <pubDate>Tue, 05 Aug 2025 14:09:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23276</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Trends officially launches Trends Points, partnering with Kaito, Backpack, and Sidekick to conduct community activities</title>
-      <link>https://www.lookonchain.com/feeds/23275</link>
-      <description>August 5th. The Tweet tokenization project Trends officially declared the commencement of Trends Points (TPS), which serves as the core credential for gauging community engagement within the Trends ecosystem. TPS will be issued through partnerships with significant ecosystem partners and Trends-native activities. The first season of TPS is backed by Kaito AI and carried out in collaboration with Backpack and Sidekick. Event duration: August 5th 10 PM - August 22nd 10 PM (Beijing Time).For the Kaito AI community: Holders of sKAITO who tokenize an X post on Trends and connect it to their X account will obtain a fixed TPS reward. The first 250 eligible tokenized tweets each day will receive a 20% TPS bonus, and the top 500 by the end of the season will receive an additional 20% total TPS bonus. Similar future events (including TPS Season 1) will set aside 20% of the points for gKAITO holders.For the Backpack community: It will be held from August 5th to August 11th. Any X post tokeniz</description>
-      <pubDate>Tue, 05 Aug 2025 14:06:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23275</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
