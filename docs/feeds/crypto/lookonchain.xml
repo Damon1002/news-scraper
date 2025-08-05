@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 07:44:52 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 07:44:52 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 07:57:49 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 07:57:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,91 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitcoin Magazine CEO: Aims to Raise Up to $200 Million to Support BTC-Related Political Initiatives, Propelling BTC to $10 Million</title>
+      <link>https://www.lookonchain.com/feeds/23215</link>
+      <description>On August 5th, David Bailey, the CEO of Bitcoin Magazine, announced on social media a plan to raise an amount ranging from $100 million to $200 million to provide support for Bitcoin-related political initiatives. The aim is to drive the Bitcoin price to $10 million.</description>
+      <pubDate>Tue, 05 Aug 2025 07:56:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23215</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin drops below $113,000, the mainstream CEX long liquidation volume will reach $944 million.</title>
+      <link>https://www.lookonchain.com/feeds/23216</link>
+      <description>On August 5th, according to Coinglass data, in the event that Bitcoin drops below $113,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $944 million.On the other hand, if Bitcoin rebounds above $115,000, the cumulative intensity of short liquidation on mainstream CEXs will reach $77.28 million.BlockBeats Note: The liquidation chart does not display the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, which is referred to as intensity.Therefore, the liquidation chart shows to what extent reaching a certain price level will have an impact. Higher &quot;liquidation bars&quot; indicate that once the price reaches that level, a more intense reaction will occur due to a liquidity cascade.</description>
+      <pubDate>Tue, 05 Aug 2025 07:56:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23216</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Hyperliquid: Multiple Whales Withdraw Over $10 Million USDC Again, Short ETH Whale Realizes $13 Million Loss After Reducing Position</title>
+      <link>https://www.lookonchain.com/feeds/23213</link>
+      <description>On August 5th, according to the monitoring of HyperInsight, in the past 6 hours, several whale addresses carried out large USDC withdrawals. Additionally, a whale adjusted its ETH short position and still maintained a floating loss of more than $13 million:【Large Withdrawals】The whale address starting with 0xe86b05 withdrew $3 million USDC;The whale address starting with 0xe506B8 withdrew $2.23 million USDC;The whale address starting with 0x72b744 withdrew $2.85 million USDC;The whale address starting with 0x2ac1fA3 withdrew $2 million USDC.(Total withdrawals: approximately $10.08 million USDC)【Contract Position Change】The whale address 0x20c2d9 reduced its ETH short position by 655.29 coins. Currently, it is facing a floating loss of $13.11 million, and the latest liquidation price is $4,902.7.</description>
+      <pubDate>Tue, 05 Aug 2025 07:49:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23213</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Mantle Sees $388M ETH Reserve, Stablecoin Cap Soars 22.85%, $MNT Jumps 25%</title>
+      <link>https://www.lookonchain.com/feeds/23214</link>
+      <description>Money is flowing into Mantle(@Mantle_Official) — stablecoin macp on Mantle has surged 22.85% in the past 7 days, reaching $653.51M. Mantle (@Mantle_Official) is now listed on the Strategic ETH Reserve and contributes 101,867 $ETH($388M). Meanwhile, $MNT is up nearly 25% today.</description>
+      <pubDate>Tue, 05 Aug 2025 07:49:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23214</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Meme project BigStrategy Inc. first-round purchased 2 million WLFI tokens and added them to the project&apos;s treasury for long-term holding</title>
       <link>https://www.lookonchain.com/feeds/23211</link>
       <description>On August 5th, as per official channels, the BSC-based meme project BigStrategy Inc. (BSTR) announced that it has accomplished the first acquisition of 2 million WLFI via off-exchange OTC. This acquisition will be held as a treasury reserve for the long term. According to the widespread predictions within the community, the initial circulation ratio of WLFI is approximately 5%. In the context of a very low overall available supply, this reserve provides BigStrategy Inc. with a relatively abundant early allocation and a long-term holding foundation.It is reported that this portion of WLFI will be kept in the project&apos;s treasury for the long term, and all future earnings generated will be distributed on-chain to BSTR shareholders in proportion to their holdings. This reserve has been completed, and the details have been publicly disclosed on the official website.BigStrategy Inc. is the first project to operate in the form of an on-chain company and implement the &quot;WLFI Microstrategy&quot; m</description>
-      <pubDate>Tue, 05 Aug 2025 07:33:00 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 07:32:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23211</guid>
       <category>crypto</category>
@@ -32,10 +113,27 @@
 
     </item>
     <item>
+      <title>Meme Market Watch: New Coin DUMP on Solana, Bucky Market Cap Surges Temporarily, Base Chain NET and QR See Increased Trading Activity</title>
+      <link>https://www.lookonchain.com/feeds/23212</link>
+      <description>August 5th. According to GMGN data, within the past 6 hours on the Solana blockchain in the &quot;Next Blue Chip&quot; sector, the top five tokens in terms of market capitalization are PUMP, MarsMi, DUMP, Ani, and Bucky. Here, DUMP has been listed for less than 24 hours. It has a low trading volume and either has fewer than a thousand holding addresses or poses significant risks.On the other hand, on the Base chain, in the past 24 hours, the top five tokens by trading volume released on Clanker are BNKR, CLANKER, Fartcoin, NET, and QR. The latter two are newly on the list and have been performing exceptionally well these days.BlockBeats reminds users that Meme coins often lack practical use cases and experience significant price volatility. Therefore, investment should be approached with caution.</description>
+      <pubDate>Tue, 05 Aug 2025 07:32:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23212</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Opinion: Ethereum ETF Sees Record Single-Day Net Outflow, Signaling Short-Term Profit Taking, Not Institutional Waning</title>
       <link>https://www.lookonchain.com/feeds/23210</link>
       <description>August 5th. In relation to yesterday&apos;s largest single-day net outflow of a U.S. Ethereum spot ETF, Nick Ruck, the research director of LVRG, stated: &quot;Although this might suggest profit-taking following ETH&apos;s recent price surge, it does not necessarily imply a decline in institutional demand. Particularly when considering the industry&apos;s record $5.4 billion inflow in July and the corporate accumulation of ETH.&quot;Vincent Liu, the chief information officer of Kronos Research, also holds a similar view. &quot;This trend reflects short-term profit-taking and the fluctuation of risk aversion sentiment rather than a rejection of long-term ETH holdings.&quot; (The Block)</description>
-      <pubDate>Tue, 05 Aug 2025 07:33:00 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 07:32:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23210</guid>
       <category>crypto</category>
@@ -52,27 +150,10 @@
 
     </item>
     <item>
-      <title>Meme Market Watch: New Coin DUMP on Solana, Bucky Market Cap Surges Temporarily, Base Chain NET and QR See Increased Trading Activity</title>
-      <link>https://www.lookonchain.com/feeds/23212</link>
-      <description>August 5th. According to GMGN data, within the past 6 hours on the Solana blockchain in the &quot;Next Blue Chip&quot; sector, the top five tokens in terms of market capitalization are PUMP, MarsMi, DUMP, Ani, and Bucky. Here, DUMP has been listed for less than 24 hours. It has a low trading volume and either has fewer than a thousand holding addresses or poses significant risks.On the other hand, on the Base chain, in the past 24 hours, the top five tokens by trading volume released on Clanker are BNKR, CLANKER, Fartcoin, NET, and QR. The latter two are newly on the list and have been performing exceptionally well these days.BlockBeats reminds users that Meme coins often lack practical use cases and experience significant price volatility. Therefore, investment should be approached with caution.</description>
-      <pubDate>Tue, 05 Aug 2025 07:33:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23212</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>HTX DeepThink: Fed&apos;s Unwillingness to Provide Clear Guidance on Easing Triggers Short-Term Market Shock, &quot;Collapse&quot; in Employment Data Prompts Reassessment of Rate Cut Expectations</title>
       <link>https://www.lookonchain.com/feeds/23209</link>
       <description>On August 5th, HTX DeepThink columnist and HTX Research researcher Chloe (@ChloeTalk1) pointed out in her analysis that during the July FOMC meeting, the interest rate was kept at 5.25%–5.50% and no guidance was provided on future interest rate cuts, which triggered market concerns about &quot;sustaining high interest rates for a longer period.&quot; Subsequently, the 10-year U.S. Treasury bond yield rose to 4.24%, the U.S. dollar index returned above 100, gold fell below $3,270, and Bitcoin retraced to the $116,000 range in the short term. Meanwhile, on-chain activity also decreased synchronously.The July non-farm payroll report unexpectedly saw a &quot;cliff-like decline&quot;: only 73,000 new jobs were added, falling short of the expected 180,000. Moreover, the employment data for May and June were revised downward by about 90% in total. The reality of a &quot;systemic overestimation&quot; of the labor market promptly led the market to quickly reassess the Fed&apos;s policy path. As a result, the CME FedWatch inter</description>
-      <pubDate>Tue, 05 Aug 2025 07:26:00 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 07:25:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23209</guid>
       <category>crypto</category>
@@ -89,7 +170,7 @@
       <title>Linea will integrate the Lido V3 staking-as-a-Service infrastructure to enable its L2 native rewards.</title>
       <link>https://www.lookonchain.com/feeds/23208</link>
       <description>On August 5th, as per official channels, Linea is set to integrate the Lido V3 stVault infrastructure in order to assist in achieving Linea&apos;s sustainable non-custodial DeFi engine. This ensures that all bridged ETH automatically accrues staking rewards.It is reported that Lido will offer customized services for staking bridged ETH and direct the rewards to Linea&apos;s LP and DeFi while maintaining trustless access and withdrawals. All ETH deposited into Linea will be staked through the Lido V3 stVault managed by Linea.</description>
-      <pubDate>Tue, 05 Aug 2025 07:25:00 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 07:24:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23208</guid>
       <category>crypto</category>
@@ -106,77 +187,9 @@
       <title>South Korean internet giant Kakao has established a Stablecoin Special Working Group</title>
       <link>https://www.lookonchain.com/feeds/23207</link>
       <description>On August 5th, as per Daily Economic News, the South Korean internet behemoth Kakao has formed a special task force for stablecoins. The CEO of Kakao, Shina Chung, the CEO of Kakao Pay, Shin Won-keun, and the CEO of Kakao Bank, Yoon Ho-young, will participate in weekly meetings to deliberate on various situations and tasks associated with the project. Other subsidiaries such as Kakao Games are anticipated to join in the future. Additionally, a task force involving grassroots employees from its subsidiaries has been established to actively drive the proposed agenda forward.</description>
-      <pubDate>Tue, 05 Aug 2025 07:25:00 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 07:24:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23207</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analysis: Amid escalating inflation concerns, the options market is showing bearish pre-signals.</title>
-      <link>https://www.lookonchain.com/feeds/23206</link>
-      <description>On August 5th, as per CoinDesk, worries regarding the economy, such as rising inflation and disappointing job figures, have resulted in a recent price decline of Bitcoin. Meanwhile, with indicators in the options market indicating a shift in market sentiment, Bitcoin&apos;s long-term bullish sentiment has transformed into a neutral one.Griffin Ardern, the Director of Options Trading and Research at the crypto financial platform BloFin, stated, &quot;I have noticed a rather worrying sign of a recent market retracement. The bullish sentiment for Bitcoin&apos;s far-month options has vanished and is currently firmly in a neutral position. This implies that the options market believes that BTC is unlikely to establish a long-term upward trend, and the probability of reaching new highs in the coming months is decreasing, similar to what occurred in January and February 2022.&quot;</description>
-      <pubDate>Tue, 05 Aug 2025 07:17:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23206</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will open Superp (SUP) trading at 6:00 PM today, with an airdrop threshold of 200 points.</title>
-      <link>https://www.lookonchain.com/feeds/23205</link>
-      <description>August 5th. According to an official announcement, Binance Alpha is the first platform to list Superp (SUP). Alpha trading will commence on August 5th at 18:00 (UTC+8). After the trading starts, users who hold at least 200 Alpha points can claim a 500 SUP token airdrop. The first come, first served principle applies. If the event is not yet over, the points threshold will automatically decrease by 15 points every hour.</description>
-      <pubDate>Tue, 05 Aug 2025 07:09:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23205</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BOCHK Completes Phase 2 Testing of DigiBond on In-house Built Consortium Blockchain</title>
-      <link>https://www.lookonchain.com/feeds/23204</link>
-      <description>On August 5th, according to the Aastocks report, Bank of China Hong Kong has announced the completion of the second stage trial of the pilot project under the &quot;e-Yuan+&quot; initiative of the Hong Kong Monetary Authority. This trial verified the programmability of digital currency in prepaid consumption and earmarked use cases. By using a self-built alliance blockchain, the concept of a &quot;unified wallet&quot; was tested, and more than 1500 transactions were completed at PacificCoffee.</description>
-      <pubDate>Tue, 05 Aug 2025 07:01:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23204</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Matrixport: The current surge of altcoins may be difficult to sustain, and market sentiment still needs to be observed</title>
-      <link>https://www.lookonchain.com/feeds/23203</link>
-      <description>August 5th. Matrixport shared today&apos;s market views as follows: Despite the continuous hype in the market regarding the &quot;altcoin bull run,&quot; there have only been two brief rebound rounds up to now, which were concentrated on a few projects. The overall market lacks sustainability. Although there was a phased activity in the fourth quarter of 2024, it did not lead to widespread diffusion.Overall, the rebound lacks fundamental support, making it difficult to drive the market into a sustained upward momentum. Matrixport remains cautious and believes that this round of gains may be difficult to maintain. The rapid drop in funding rates also indicates that bullish sentiment has not effectively converged, and market enthusiasm is still under observation.</description>
-      <pubDate>Tue, 05 Aug 2025 07:01:00 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23203</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
