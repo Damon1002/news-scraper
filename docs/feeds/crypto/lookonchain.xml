@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 08:39:48 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 08:39:48 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 09:02:39 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 09:02:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Binance Launches Limited-Time Zero Fee Promotion for USDC Trading Pairs for VIP 2-9 and Spot Market Makers</title>
-      <link>https://www.lookonchain.com/feeds/23220</link>
-      <description>August 5th. According to an official announcement, Binance will initiate a time-limited zero-fee trading activity for the trading pairs of BNB/USDC, ADA/USDC, TRX/USDC, and XRP/USDC from August 12th, 2025 to October 11th, 2025 (UTC). This activity is applicable to VIP 2 to VIP 9 users as well as Spot Liquidity Providers. During the event, both buyers and sellers will be able to avail of zero Maker/Taker fees.</description>
-      <pubDate>Tue, 05 Aug 2025 08:32:55 +0000</pubDate>
+      <title>KyberSwap Introduces FairFlow, MEV Revenue Selectively Returned to LP</title>
+      <link>https://www.lookonchain.com/feeds/23224</link>
+      <description>On August 5th, KyberSwap declared that it is set to launch a novel LP reward mechanism named FairFlow on August 6th. FairFlow is a Swap Hook based on Uniswap V4, aiming to return the arbitrage profits that were originally grabbed by external MEV arbitrageurs back to the liquidity providers (LPs). LPs can obtain rewards without staking LP tokens.The core mechanism is the Equilibrium Gain (EG) sharing plan: KyberSwap&apos;s aggregator integrates with the FairFlow pool. When a trade presents an arbitrage opportunity, the FairFlow Hook seizes a portion of the profit and distributes 70% proportionally to LPs, with 30% allocated to the platform&apos;s ecosystem. EG rewards are distributed weekly in a dual token format, and LP tokens can be used in other DeFi protocols simultaneously to earn additional yield.According to the official experimental data, the APR of the FairFlow pool is higher than that of traditional pools. For instance, in the ETH-cbBTC pair on the Base network, within 189 hours, th</description>
+      <pubDate>Tue, 05 Aug 2025 08:48:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23220</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23224</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Data: Over 70% of Linea LXP holders hold no more than 2250 tokens</title>
+      <link>https://www.lookonchain.com/feeds/23223</link>
+      <description>On August 5th, based on Dune Data, the distribution of Linea LXP holders is as follows:? 1 - 1500 LXP: 40.0%;? 1501 - 2250 LXP: 30.4%;? 2251 - 2800 LXP: 10.2%;? 2801 - 3500 LXP: 8.1%;? 3501 - 5000 LXP: 7.2%;? 5000+ LXP: 4.0%;According to previous public information, 9% (6.48 billion LINEA) of the total supply of LINEA tokens is directly allocated to LXP holders.</description>
+      <pubDate>Tue, 05 Aug 2025 08:40:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23223</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Swiss Crypto Bank AMINA is launching the SUI token trading and custody service, with plans to offer SUI staking service.</title>
+      <link>https://www.lookonchain.com/feeds/23222</link>
+      <description>August 5th: The Swiss crypto bank AMINA Bank has emerged as the world&apos;s first regulated bank to provide SUI token trading and custody services.It is reported that SUI is the native asset of the Sui blockchain, aiming to replace traditional Web2 infrastructure and support enterprise-grade low-latency applications and efficient transaction processing. AMINA plans to offer SUI staking services in the future and has opened buy and sell functions for customers with unrestricted trading volume. At the same time, governance tools have been incorporated to support compliance and auditing processes.In previous news, the Swiss bank AMINA supported the custody and trading of Ripple&apos;s stablecoin RLUSD.</description>
+      <pubDate>Tue, 05 Aug 2025 08:40:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23222</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,9 +68,26 @@
       <title>EU Official: US 15% Tariff on EU is an All-In Tariff</title>
       <link>https://www.lookonchain.com/feeds/23221</link>
       <description>On Tuesday, EU officials stated that the 15% tariff imposed on EU goods entering the United States is comprehensive and covers the most favored nation rate. This is different from some other countries that have agreements with the US. The official pointed out that the 15% tariff applies to all goods except steel and aluminum. Currently, drugs and semiconductors have a zero tariff, but if these goods are subject to an increase due to the US 232 investigation, the tariff will also not exceed 15%. This 15% maximum also extends to cars and automotive parts. There are no quotas or restrictions on cars and automotive parts. (Golden Finance)</description>
-      <pubDate>Tue, 05 Aug 2025 08:32:55 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 08:32:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23221</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Launches Limited-Time Zero Fee Promotion for USDC Trading Pairs for VIP 2-9 and Spot Market Makers</title>
+      <link>https://www.lookonchain.com/feeds/23220</link>
+      <description>August 5th. According to an official announcement, Binance will initiate a time-limited zero-fee trading activity for the trading pairs of BNB/USDC, ADA/USDC, TRX/USDC, and XRP/USDC from August 12th, 2025 to October 11th, 2025 (UTC). This activity is applicable to VIP 2 to VIP 9 users as well as Spot Liquidity Providers. During the event, both buyers and sellers will be able to avail of zero Maker/Taker fees.</description>
+      <pubDate>Tue, 05 Aug 2025 08:32:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23220</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +102,7 @@
       <title>Binance Alpha: TOWNS Phase 1 Airdrop Threshold is 230 Points</title>
       <link>https://www.lookonchain.com/feeds/23219</link>
       <description>August 5th. As per an official announcement, Binance Alpha TOWNS trading is set to commence on August 5, 2025, at 20:30 (UTC).The airdrop will be dispensed in two stages:Stage One (first 18 hours): Users who hold at least 230 Binance Alpha Points are eligible to claim the airdrop.Stage Two (last 6 hours): Users possessing at least 200 Alpha Points can participate in the airdrop on a first-come, first-served basis. In case the rewards are not completely distributed, the points threshold will automatically decrease by 15 points per hour.</description>
-      <pubDate>Tue, 05 Aug 2025 08:16:55 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 08:16:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23219</guid>
       <category>crypto</category>
@@ -68,7 +119,7 @@
       <title>The PROVE token has been deployed on the BSC and Ethereum mainnet</title>
       <link>https://www.lookonchain.com/feeds/23218</link>
       <description>August 5th. According to on-chain analyst Ai Auntie (@ai_9684xtpa), Binance HODLer&apos;s new coin, PROVE token, has been deployed on both the BSC and Ethereum mainnets. Specifically, 6 million tokens have been deployed on the BSC. The top first and second addresses hold 500,000 and 1 million PROVE tokens respectively. It is currently impossible to determine the exact amount of the Alpha airdrop. Looking at recent Alpha airdrops, the airdrop values of different projects vary greatly, ranging from as low as 1 million to as high as 8.68 million. If these 5 million PROVE tokens (or a portion of them) are used for the airdrop, then this will also be a large distribution. On the Ethereum mainnet, 1 billion tokens have been deployed, including 15 million tokens designated for the Binance HODLer airdrop. The airdrop claim time is currently uncertain.</description>
-      <pubDate>Tue, 05 Aug 2025 08:16:55 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 08:16:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23218</guid>
       <category>crypto</category>
@@ -87,7 +138,7 @@
       <title>Certain Metaverse Project Tokens See Price Increase Today, ILV Surges Over 60% in 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/23217</link>
       <description>On August 5th, based on market data, some tokens in the blockchain gaming sector witnessed gains today. These include:ILV witnessed a daily increase of 62.4% and is now trading at $20.66;DARK saw a daily increase of 122.3% and is now trading at $0.1293;MAGIC saw a daily increase of 25.1% and is now trading at $0.2524;B3 saw a daily increase of 16.3% and is now trading at $0.003289.</description>
-      <pubDate>Tue, 05 Aug 2025 08:08:55 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 08:08:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23217</guid>
       <category>crypto</category>
@@ -104,7 +155,7 @@
       <title>If Bitcoin drops below $113,000, the mainstream CEX long liquidation volume will reach $944 million.</title>
       <link>https://www.lookonchain.com/feeds/23216</link>
       <description>On August 5th, according to Coinglass data, in the event that Bitcoin drops below $113,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $944 million.On the other hand, if Bitcoin rebounds above $115,000, the cumulative intensity of short liquidation on mainstream CEXs will reach $77.28 million.BlockBeats Note: The liquidation chart does not display the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, which is referred to as intensity.Therefore, the liquidation chart shows to what extent reaching a certain price level will have an impact. Higher &quot;liquidation bars&quot; indicate that once the price reaches that level, a more intense reaction will occur due to a liquidity cascade.</description>
-      <pubDate>Tue, 05 Aug 2025 07:56:55 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 08:01:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23216</guid>
       <category>crypto</category>
@@ -124,7 +175,7 @@
       <title>Bitcoin Magazine CEO: Aims to Raise Up to $200 Million to Support BTC-Related Political Initiatives, Propelling BTC to $10 Million</title>
       <link>https://www.lookonchain.com/feeds/23215</link>
       <description>On August 5th, David Bailey, the CEO of Bitcoin Magazine, announced on social media a plan to raise an amount ranging from $100 million to $200 million to provide support for Bitcoin-related political initiatives. The aim is to drive the Bitcoin price to $10 million.</description>
-      <pubDate>Tue, 05 Aug 2025 07:56:55 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 08:01:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23215</guid>
       <category>crypto</category>
@@ -138,64 +189,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid: Multiple Whales Withdraw Over $10 Million USDC Again, Short ETH Whale Realizes $13 Million Loss After Reducing Position</title>
-      <link>https://www.lookonchain.com/feeds/23213</link>
-      <description>On August 5th, according to the monitoring of HyperInsight, in the past 6 hours, several whale addresses carried out large USDC withdrawals. Additionally, a whale adjusted its ETH short position and still maintained a floating loss of more than $13 million:【Large Withdrawals】The whale address starting with 0xe86b05 withdrew $3 million USDC;The whale address starting with 0xe506B8 withdrew $2.23 million USDC;The whale address starting with 0x72b744 withdrew $2.85 million USDC;The whale address starting with 0x2ac1fA3 withdrew $2 million USDC.(Total withdrawals: approximately $10.08 million USDC)【Contract Position Change】The whale address 0x20c2d9 reduced its ETH short position by 655.29 coins. Currently, it is facing a floating loss of $13.11 million, and the latest liquidation price is $4,902.7.</description>
-      <pubDate>Tue, 05 Aug 2025 07:49:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23213</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Mantle Sees $388M ETH Reserve, Stablecoin Cap Soars 22.85%, $MNT Jumps 25%</title>
-      <link>https://www.lookonchain.com/feeds/23214</link>
-      <description>Money is flowing into Mantle(@Mantle_Official) — stablecoin macp on Mantle has surged 22.85% in the past 7 days, reaching $653.51M. Mantle (@Mantle_Official) is now listed on the Strategic ETH Reserve and contributes 101,867 $ETH($388M). Meanwhile, $MNT is up nearly 25% today.</description>
-      <pubDate>Tue, 05 Aug 2025 07:49:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23214</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Meme Market Watch: New Coin DUMP on Solana, Bucky Market Cap Surges Temporarily, Base Chain NET and QR See Increased Trading Activity</title>
-      <link>https://www.lookonchain.com/feeds/23212</link>
-      <description>August 5th. According to GMGN data, within the past 6 hours on the Solana blockchain in the &quot;Next Blue Chip&quot; sector, the top five tokens in terms of market capitalization are PUMP, MarsMi, DUMP, Ani, and Bucky. Here, DUMP has been listed for less than 24 hours. It has a low trading volume and either has fewer than a thousand holding addresses or poses significant risks.On the other hand, on the Base chain, in the past 24 hours, the top five tokens by trading volume released on Clanker are BNKR, CLANKER, Fartcoin, NET, and QR. The latter two are newly on the list and have been performing exceptionally well these days.BlockBeats reminds users that Meme coins often lack practical use cases and experience significant price volatility. Therefore, investment should be approached with caution.</description>
-      <pubDate>Tue, 05 Aug 2025 07:38:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23212</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
