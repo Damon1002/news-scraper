@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 13:27:42 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 13:27:42 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 14:01:02 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 14:01:02 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,137 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Riot Blockchain Mined a Total of 484 Bitcoins in July</title>
-      <link>https://www.lookonchain.com/feeds/23262</link>
-      <description>On August 5th, Riot Platforms presented its July 2025 Operations Report. The figures indicate that the company mined a total of 484 bitcoins in July. This represents an 8% increase compared to the previous month and a 31% growth year-on-year.During this period, the company sold 475 bitcoins at an average price of $115,411, resulting in a net revenue of $54.8 million. Regarding infrastructure, the company&apos;s total deployed hash rate remained at 35.5 EH/s, while the average operational hash rate was 30.2 EH/s. By participating in a grid demand response program, the company received a $13.9 million electricity subsidy, reducing the overall electricity cost to $0.028 per kilowatt-hour.</description>
-      <pubDate>Tue, 05 Aug 2025 13:24:47 +0000</pubDate>
+      <title>「SOL Version of MicroStrategy」 Upexi&apos;s Holdings Surpass 2 Million SOL, July&apos;s Increase Exceeds 1.26 Million SOL</title>
+      <link>https://www.lookonchain.com/feeds/23272</link>
+      <description>On August 5th, the holdings of Solana Treasury Company Upexi exceeded 2 million SOL. The current total value reached $334 million. In July, Upexi completed a $200 million financing round and acquired more than 1.26 million SOL, resulting in a 172% increase in its managed assets.</description>
+      <pubDate>Tue, 05 Aug 2025 13:56:10 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23262</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>White House Crypto Report Suggests Avoiding Double Taxation, Bitcoin Miners to Be Taxed Only Upon Sale</title>
-      <link>https://www.lookonchain.com/feeds/23261</link>
-      <description>On August 5th, the Digital Asset Work Group of the U.S. White House suggested in a 168-page cryptocurrency report that the IRS clarify the tax timing of Bitcoin mining income. It is possible to change it to be taxed at the time of sale in order to avoid double taxation of &quot;mining income tax + capital gains on sale.&quot;BitFuFu CEO Leo Lu stated that this action could substantially reduce the tax burden of miners and promote the mainstream adoption of Bitcoin. Congress has already witnessed bills such as H.R. 8149 proposing similar tax deferral schemes.</description>
-      <pubDate>Tue, 05 Aug 2025 13:24:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23261</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>On-chain Transaction Engine Decibel Launches on Aptos, Reshaping Decentralized Market Infrastructure</title>
-      <link>https://www.lookonchain.com/feeds/23260</link>
-      <description>On August 5th, the new decentralized trading engine, Decibel, which is supported by Aptos Labs and the Decibel Foundation, was officially launched today. The platform is designed to offer a neutral and composable core infrastructure for the global on-chain market. It integrates spot trading, perpetual contracts, and yield strategies and will serve as the execution layer within the Aptos financial ecosystem.As the demand for decentralized finance continues to rise, the market still heavily depends on fragmented platforms and third-party exchanges, resulting in the dispersion of liquidity and limited composability. By leveraging the Aptos blockchain, Decibel supports multi-collateral cross-margin accounts, a self-custody architecture, and programmable incentive mechanisms. This provides traders, developers, and institutions with unified liquidity management, direct order flow, and real-time data access, enhancing the efficiency of fund circulation and the trading execution experience.</description>
-      <pubDate>Tue, 05 Aug 2025 13:08:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23260</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BounceBit introduces the Franklin Dupton Tokenized Fund for its Treasury Bond Yield Strategy</title>
-      <link>https://www.lookonchain.com/feeds/23259</link>
-      <description>On August 5th, the cryptocurrency infrastructure platform BounceBit is set to introduce Franklin Templeton&apos;s Tokenized Money Market Fund into its structured income platform BB Prime. By combining the US Treasury yield with cryptocurrency funds and a basis arbitrage strategy, an innovative product of CeDeFi (Centralized and Decentralized Finance integration) is created.This tokenized fund belongs to the BENJI product series and will serve as collateral and settlement tool in the investment strategy. Through this means, investors can not only obtain the underlying Treasury yield but also overlay other sources of income. Franklin Templeton is one of the earliest traditional asset management institutions to issue tokenized funds on public chains. As early as 2021, it launched the first tokenized US money market fund BENJI. The company stated in a release: &quot;We have designed the BENJI tokenized money market fund series to meet the diverse needs of retail, wealth management, institutions, b</description>
-      <pubDate>Tue, 05 Aug 2025 13:08:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23259</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha PROVE Airdrop Threshold: At least 241 Points in the first stage</title>
-      <link>https://www.lookonchain.com/feeds/23258</link>
-      <description>August 5th, Binance Alpha has taken the lead in listing Succinct (token symbol: PROVE). The trading on Alpha is scheduled to officially commence on August 5, 2025, at 15:00 (UTC). Eligible users can, within 24 hours after the start of trading, access the Binance Alpha event page to claim 100 PROVE airdropped tokens by using Alpha Points. The Binance Alpha airdrop will be carried out in two phases: In the first phase (the first 18 hours), users with at least 241 Alpha Points can claim the airdrop; in the second phase (the last 6 hours), users with at least 200 Alpha Points can participate in the airdrop on a first-come, first-served basis. If the rewards are not all distributed, the hourly points threshold will automatically decrease by 15 points. It should be noted that claiming the airdrop will consume 15 Alpha Points. Users must complete the claim confirmation on the Alpha event page within 24 hours; otherwise, they will be considered to have automatically given up their airdrop elig</description>
-      <pubDate>Tue, 05 Aug 2025 13:00:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23258</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Indonesia is currently exploring the feasibility of adopting Bitcoin as a national reserve asset.</title>
-      <link>https://www.lookonchain.com/feeds/23257</link>
-      <description>On August 5th, as reported by BitcoinMagazine, the vice president&apos;s office in Indonesia has extended an invitation to Bitcoin supporters to engage in discussions regarding the feasibility of adopting Bitcoin as a national reserve asset.</description>
-      <pubDate>Tue, 05 Aug 2025 12:56:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23257</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Trump: May Not Run for US President Again</title>
-      <link>https://www.lookonchain.com/feeds/23256</link>
-      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that he might not run for the presidency again. (FX168)</description>
-      <pubDate>Tue, 05 Aug 2025 12:40:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23256</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>MEI Pharma Increases LTC Holdings with an Average Price of $107.58 to 929,548 Coins</title>
-      <link>https://www.lookonchain.com/feeds/23255</link>
-      <description>On August 5th, MEI Pharma, Inc. (NASDAQ: MEIP) announced today that it had acquired 929,548 Litecoins (LTC) at an average price of $107.58 per coin, thus successfully commencing a significant institutional treasury strategy.As of August 4, 2025, the total value of this LTC treasury amounts to approximately $110.4 million. MEI has also become the first U.S. public company to hold Litecoin as a primary reserve asset, implementing a new strategy based on digital asset infrastructure and long-term capital innovation.This strategic move was developed through the collaboration between MEI and GSR and was executed under the guidance of Litecoin founder and MEI board member, Charlie Lee. This marks the start of MEI&apos;s larger-scale institutional treasury plan, aiming to leverage Litecoin&apos;s scalability and reliability as a long-term store of value and operating capital asset.</description>
-      <pubDate>Tue, 05 Aug 2025 12:32:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23255</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23272</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -157,12 +32,29 @@
 
     </item>
     <item>
-      <title>U.S. Stock Ethereum Reserve Concept Stocks Surge in Pre-market Trading, BMNR and GAME Up Over 3%</title>
-      <link>https://www.lookonchain.com/feeds/23254</link>
-      <description>On August 5th, according to Rockflow market data, Ethereum reserve concept stocks in the US stock market witnessed a general increase in pre-market trading. These included:· SharpLink Gaming (SBET.US) rose by 2.82%;· Bitmine Immersion Technologies (BMNR.US) increased by 3.05%;· GameSquare (GAME.US) went up by 3.13%;· Bit Digital (BTBT.US) advanced by 0.61%.</description>
-      <pubDate>Tue, 05 Aug 2025 12:32:47 +0000</pubDate>
+      <title>The final value of the July U.S. Markit Services PMI was 55.7, compared to an expected 55.2.</title>
+      <link>https://www.lookonchain.com/feeds/23270</link>
+      <description>On August 5th: The ultimate value of the US July Markit Services PMI came in at 55.7. The expected value was 55.2, and the previous value was also 55.2. (Xinhua Finance)</description>
+      <pubDate>Tue, 05 Aug 2025 13:49:10 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23254</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23270</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale has further increased their short position to 50,000 ETH, liquidation price $3764</title>
+      <link>https://www.lookonchain.com/feeds/23271</link>
+      <description>On August 5th, as monitored by EmberCN, after partially liquidating his position, the [Four-time ETH Whale with a 75% Win Rate] has reopened his short position in ETH to 50,000 ETH (180 million USD).His previous 50,000 ETH short position, which was partially liquidated last night and in the early morning, had dropped to 24,000 ETH. He then began to sequentially withdraw ETH and ARB from WhiteBIT and Kucoin, sell them on-chain for 7.21 million USDC, and transfer them to Hyperliquid to continue adding to his short position in ETH.Currently, after several additional positions, his short position in ETH has returned to 50,000 ETH (180 million USD) with an entry price of 3639 USD and a liquidation price of 3764 USD.</description>
+      <pubDate>Tue, 05 Aug 2025 13:49:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23271</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -173,15 +65,17 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Trump: Will Drastically Increase Tariffs on India in the Next 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/23253</link>
-      <description>On August 5th, during a live interview on CNBC&apos;s &quot;Squawk Box&quot;, President Trump of the United States stated that India is the country with the highest tariffs and that he will significantly increase tariffs on India within the next 24 hours. India is not a good trading partner, and the disagreement with India lies in its high tariffs. (FX168)</description>
-      <pubDate>Tue, 05 Aug 2025 12:32:47 +0000</pubDate>
+      <title>In July, the Ethereum market saw a demand of 3 million ETH, half of which came from the Ethereum Reserve Company</title>
+      <link>https://www.lookonchain.com/feeds/23269</link>
+      <description>On August 5th, according to Trader T, in July, the market demand for Ethereum amounted to 3 million units:· 50% originated from ETFs (with 78% coming from BlackRock);· 50% came from Ethereum reserve companies (with 41% from Bitmine and 16% from SharpLink).</description>
+      <pubDate>Tue, 05 Aug 2025 13:48:10 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23253</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23269</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -190,6 +84,116 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>JP Morgan: In the foreseeable future, people will tend to sell the US Dollar on rallies</title>
+      <link>https://www.lookonchain.com/feeds/23268</link>
+      <description>On August 5th, &quot;We have always been conducting trade within the context of American exceptionalism. The United States is undoubtedly the world&apos;s most powerful economy. In my opinion, the situation has undergone a change,&quot; stated Erik Nelson, the Global Foreign Exchange Strategist at Wells Fargo. &quot;There are potential structural issues - such as the independence of the Fed and the quality of data, to name just a few. When it comes to the economic backdrop, all of these are heading in the wrong direction. In the foreseeable future, people will be inclined to sell the dollar during rallies.&quot; (FXStreet)</description>
+      <pubDate>Tue, 05 Aug 2025 13:41:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23268</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>MYX Short-term Breakthrough $1.33, 24-hour Gain Expanded to 290%</title>
+      <link>https://www.lookonchain.com/feeds/23267</link>
+      <description>On August 5th, based on HTX market data, MYX briefly rose above $1.33 and is currently trading at $1.2985. It has witnessed a 24-hour price increase of 290%, driving its market capitalization to $215 million.</description>
+      <pubDate>Tue, 05 Aug 2025 13:41:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23267</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>US Stock Crypto Concept Stocks Experience Widespread Decline, Circle Down 3.83%</title>
+      <link>https://www.lookonchain.com/feeds/23266</link>
+      <description>On August 5th, based on the market data from Rockflow, US stock cryptocurrency concept stocks generally declined. These include:- Sharplink Gaming dropped by 1.45%;- Circle decreased by 3.83%;- Strategy fell by 1.53%;- Coinbase declined by 3.44%;- HOOD fell by 0.58%.</description>
+      <pubDate>Tue, 05 Aug 2025 13:40:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23266</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>U.S. Stock Market&apos;s Big Three Indexes Open Higher, Coinbase Drops Nearly 4%</title>
+      <link>https://www.lookonchain.com/feeds/23265</link>
+      <description>On August 5th, when the U.S. stock market opened, the Dow increased by 0.06%, the S&amp;P 500 rose by 0.1%, and the Nasdaq went up by 0.11%. Coinbase (COIN.O) dropped by nearly 4%. (FX168)</description>
+      <pubDate>Tue, 05 Aug 2025 13:33:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23265</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>CleanSpark mined 671 Bitcoin in July, bringing its total holdings to 12,703 Bitcoin</title>
+      <link>https://www.lookonchain.com/feeds/23264</link>
+      <description>On August 5th, the Bitcoin mining company CleanSpark disclosed its July 2025 operational data. The report indicates that the company mined 671 bitcoins during that month, and by the end of July, the total holdings reached 12,703 bitcoins.During this period, they sold 575.97 bitcoins at an average price of $112,351, resulting in a revenue of $64.71 million.</description>
+      <pubDate>Tue, 05 Aug 2025 13:32:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23264</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>BitFuFu mined 467 Bitcoins in July, increasing its total holdings to 1784.</title>
+      <link>https://www.lookonchain.com/feeds/23263</link>
+      <description>On August 5th, the mining firm BitFuFu presented its July 2025 operating report. The figures indicate that the company&apos;s total managed hash rate reached 38.6 EH/s, representing a 6.6% increase compared to the previous period. The total power capacity reached 752 megawatts, with a 3.3% growth compared to the previous period.In July, the company mined a total of 467 bitcoins, which was a 4.9% rise compared to the previous period. Among them, 384 were mined using cloud hash rate, and 83 were mined using self-owned hash rate. The latter witnessed a 43.1% increase compared to the previous period. As of July 31st, the company held 1,784 bitcoins.</description>
+      <pubDate>Tue, 05 Aug 2025 13:32:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23263</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
   </channel>
