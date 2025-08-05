@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 01:29:18 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 01:29:18 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 03:28:29 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 03:28:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,46 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Coinbase and PayPal to Continue Offering Stablecoin Rewards in Response to &quot;GENIUS Act&quot; Regulatory Controversy</title>
-      <link>https://www.lookonchain.com/feeds/23158</link>
-      <description>On August 5th, according to Decrypt, during last Thursday&apos;s earnings call, Coinbase CEO Brian Armstrong stated that the company will keep providing holding rewards for USDC to users. He regarded this program as a key differentiator to attract users.Although the &quot;GENIUS Act&quot; prohibits stablecoin issuers from paying interest or returns, Armstrong clarified: &quot;We are not the issuer. It&apos;s not interest that is being paid; it&apos;s a reward.&quot; Currently, Coinbase offers a 4.1% annual percentage yield (APY) on USDC deposits to US users.This act specifically targets issuers like USDC&apos;s issuer Circle and does not prohibit exchanges from providing rewards. A Senate staffer explained that the act aims to prevent stablecoins from being treated as traditional deposit instruments.In addition, PayPal is also following a similar strategy. It offers a 3.7% APY to users holding its stablecoin PYUSD to attract more customers.</description>
-      <pubDate>Tue, 05 Aug 2025 01:24:25 +0000</pubDate>
+      <title>Linea: Native Yield Farming will be launched in the coming months, bridging ETH for automatic staking on the mainnet</title>
+      <link>https://www.lookonchain.com/feeds/23181</link>
+      <description>On August 5th, Linea made an announcement. In the forthcoming months, it is going to launch native staking and bridge Linea&apos;s ETH to Lido v3 for automatic staking on the Ethereum mainnet. The staking rewards that are generated will flow back into the Linea ecosystem and be distributed to liquidity providers. This will support liquidity programs and amplify rewards.</description>
+      <pubDate>Tue, 05 Aug 2025 03:24:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23158</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The US SEC Releases Interim Stablecoin Accounting Treatment Guidance</title>
-      <link>https://www.lookonchain.com/feeds/23157</link>
-      <description>On August 5th, according to Bloomberg, the U.S. Securities and Exchange Commission (SEC) is building on the foundation of preliminary cryptocurrency accounting rules. It has issued a new staff guidance stating that certain stablecoins can be regarded as cash equivalents.When this interim guidance was released, the SEC was formulating regulatory rules for security tokens. Under the leadership of SEC Chairman Paul Atkins, the Commission has started to gradually revoke some of the more stringent policies, including accounting guidance that was previously considered to be impeding traditional lending institutions from entering the crypto market.According to the latest guidance, holding certain stablecoins pegged to the U.S. dollar, if these stablecoins have a guaranteed redemption right and are value-anchored to another class of assets, can be classified as cash equivalents.</description>
-      <pubDate>Tue, 05 Aug 2025 01:08:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23157</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>[ETH Whale with 75% Win Rate in Four Trades] Adds to ETH Short Position, Currently Facing $2.32 Million Unrealized Loss</title>
-      <link>https://www.lookonchain.com/feeds/23156</link>
-      <description>On August 5th, according to ChainNews, [Four-time ETH Bear Whale] added 3.32 million USDC as collateral in the early morning, raising its ETH short position to 27,000 ETH (with a nominal value of approximately $100 million).This whale&apos;s ETH short position has gone from having a floating profit of $12.25 million to having a floating loss of $2.32 million.</description>
-      <pubDate>Tue, 05 Aug 2025 00:48:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23156</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23181</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -64,17 +30,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>Hyperliquid Whale Activity: A large SOL whale dramatically reduced its short position, realizing a $24 million floating loss; Two addresses deposited a total of $25 million USDC in one day</title>
-      <link>https://www.lookonchain.com/feeds/23155</link>
-      <description>On August 5th, according to the monitoring of HyperInsight, there has been a rebound in the market in the past 24 hours. There have been large fund movements in 2 whale addresses, which include:The whale address starting with 0x9324A1 has accumulated a total deposit of approximately 3.91 million USDC.The whale address starting with 0x5b5d51 has accumulated a total deposit of approximately 22.01 million USDC.Regarding derivative holdings: The whale address starting with 0x4a207d2 has changed its 130.45 BTC holdings from a short position to a long position. The liquidation price has dropped from $201,000 to $56,000. During the same period, the short position of SOL at this address has decreased by 121,969.92 coins. The liquidation price has been adjusted to $395.9, and it is currently at a floating loss of $2,422.</description>
-      <pubDate>Tue, 05 Aug 2025 00:48:25 +0000</pubDate>
+      <title>Particle Network is launching an end-to-end comprehensive SDK to create a universal transaction layer for RWAs, stablecoins, and digital assets.</title>
+      <link>https://www.lookonchain.com/feeds/23180</link>
+      <description>On August 5th, Particle Network made a post on social media, and it announced the launch of an end-to-end universal Software Development Kit (SDK) to establish a transaction layer for RWAs (Real World Assets), stablecoins, and digital assets. Circle was designated as the first batch of cornerstone partners.</description>
+      <pubDate>Tue, 05 Aug 2025 03:17:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23155</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23180</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -83,17 +47,71 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Chaos Labs: Aave&apos;s $4.7B Exposure to Ethena Could Trigger &quot;Liquidity Crunch&quot;</title>
+      <link>https://www.lookonchain.com/feeds/23179</link>
+      <description>On August 5th, as reported by DL News, Chaos Labs, Aave&apos;s risk advisor, stated that with the continuous increase in the deposit amount of the US dollar-pegged token USDe in the protocol, Ethena&apos;s USDe stablecoin may pose a threat to Aave&apos;s robustness and trigger a liquidity crunch. In a post released on Saturday on the Aave governance forum, Chaos Labs discussed the potential risks of Aave&apos;s exposure to Ethena, which has been on the rise. Chaos Labs pointed out that when USDe holders deposit a large amount of the token into Aave and its issuer Ethena simultaneously lends out the stablecoin backing that asset, a significant risk is formed. Ethena must avoid overallocating its stablecoin reserves to Aave. Self-imposed limits on such exposure help ensure redemption reliability and market stability. Ethena has not responded immediately to a request for comment.Ethena has deposited $580 million of USDe-backed assets into Aave through a strategy known as rehypothecation. In addition, Aave&apos;</description>
+      <pubDate>Tue, 05 Aug 2025 03:17:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23179</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>A British Man Abandons Retrieval of Hard Drive Containing 8,000 Bitcoins at a Certain Landfill Site</title>
-      <link>https://www.lookonchain.com/feeds/23154</link>
-      <description>On August 5th, according to Cointelegraph, James Howells, an IT engineer from Newport, UK, has concluded a 12-year search without being able to recover what he thinks are 8,000 bitcoins (now valued at approximately $920 million) that were stored on a hard drive buried in a municipal landfill site in South Wales.</description>
-      <pubDate>Tue, 05 Aug 2025 00:40:25 +0000</pubDate>
+      <title>An investor spent $22,800 to buy 27.86 million TROLL tokens three months ago, and is currently enjoying a profit of over 100x.</title>
+      <link>https://www.lookonchain.com/feeds/23178</link>
+      <description>On August 5th, as per the monitoring of LookOnChain, a trader spent $22,800 three months ago to acquire 27.86 million TROLL tokens. Subsequently, the trader sold 1.28 million TROLL tokens for $162,000 and currently still holds 26.57 million TROLL tokens, which is valued at $2.48 million.With the recent surge in the price of TROLL, his position has achieved a more than 100-fold unrealized gain, and the profits are close to $2.48 million.</description>
+      <pubDate>Tue, 05 Aug 2025 03:09:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23154</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23178</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Bybit Mid-Year Review: CEO Ben Recaps Key Events of the First Half of the Year, Invites Community to &quot;Reshape the Future&quot;</title>
+      <link>https://www.lookonchain.com/feeds/23177</link>
+      <description>On August 4th, the cryptocurrency exchange Bybit is set to host an exclusive live stream on August 6th at 8 a.m. UTC with Co-Founder and CEO Ben Zhou.This live stream, titled &quot;Shaping the Future&quot;, will allow Ben to review Bybit&apos;s multiple industry-first achievements by 2025 and disclose the company&apos;s latest efforts in enhancing security and innovation.Key highlights:- Bybit&apos;s H1 2025 Report Card: Platform breakthroughs and the redefinition of the user CeDeFi experience.- Ecosystem Growth: Spot innovation, unique wealth management solutions, regulatory breakthroughs, product innovation, and cross-regional ecosystem expansion.- Offline Community Engagement: Bybit&apos;s Summer European and Asian roadshows and events.- Technology and Vision: Ben will explore how blockchain technology is seamlessly integrated into the real world and how, through the power of the community, the industry&apos;s digital asset standards are jointly reshaped.</description>
+      <pubDate>Tue, 05 Aug 2025 03:00:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23177</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>An address swapped 1,562.7 ETH for 49.39 WBTC 3 hours ago.</title>
+      <link>https://www.lookonchain.com/feeds/23176</link>
+      <description>On August 5th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the address 0xd47...0562e exchanged 1,562.7 ETH for 49.39 WBTC (approximately $5.81 million) three hours ago. At the time of the swap, the price of ETH was $3,721 and the price of BTC was $114,627.</description>
+      <pubDate>Tue, 05 Aug 2025 02:56:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23176</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -104,15 +122,17 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
-      <title>The Federal Reserve&apos;s September Interest Rate Cut Probability Soars to 94.4%</title>
-      <link>https://www.lookonchain.com/feeds/23153</link>
-      <description>On August 5th, based on CME&apos;s &quot;FedWatch&quot; data, the likelihood of the Fed maintaining the interest rate unchanged in September is 5.6%, and the probability of a 25-basis-point rate cut is 94.4%.</description>
-      <pubDate>Tue, 05 Aug 2025 00:32:25 +0000</pubDate>
+      <title>Somnia has launched the Foundation&apos;s Twitter account</title>
+      <link>https://www.lookonchain.com/feeds/23175</link>
+      <description>On August 5th, the gaming and entertainment blockchain project Somnia announced that the foundation has initiated the opening of an official Twitter account.</description>
+      <pubDate>Tue, 05 Aug 2025 02:48:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23153</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23175</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -124,12 +144,32 @@
 
     </item>
     <item>
-      <title>Metaplanet Launches Official Merchandise Online Store PlanetGear</title>
-      <link>https://www.lookonchain.com/feeds/23152</link>
-      <description>August 5th. According to official channels, Metaplanet has declared the formal inauguration of the PlanetGear online store. This store is committed to integrating the philosophy and culture of Bitcoin into modern lifestyle design and launching relevant merchandise.According to the announcement, PlanetGear has selected clothing, accessories, and limited-edition items that reflect the worldview of MetaPlanet and Bitcoin Magazine Japan. It aims to serve as a bridge between Bitcoin culture and daily life.</description>
-      <pubDate>Tue, 05 Aug 2025 00:28:25 +0000</pubDate>
+      <title>Trader Eugene: ETH Long Position Take Profit Reached</title>
+      <link>https://www.lookonchain.com/feeds/23174</link>
+      <description>On August 5th, trader Eugene Ng Ah Sio announced in his personal channel that he had realized profits from his long position in ETH.Previously, on August 2nd, Eugene stated that he &quot;had once again taken a long position on ETH. The bullish sentiment in August was hyped up prematurely by the market, but $113,000 BTC and $3,500 ETH still represent reasonable entry points. The stop-loss is set below $112,000 and $3,400. Although the hype regarding Data Availability Technology (DAT) may gradually wane, there is still significant structural buying in the current market, so it is not advisable to quickly shift to a bearish outlook.&quot;</description>
+      <pubDate>Tue, 05 Aug 2025 02:40:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23152</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23174</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Shitcoin Season Index Rebounds to 43</title>
+      <link>https://www.lookonchain.com/feeds/23173</link>
+      <description>On August 5th, as per Coinmarketcap data, the Altcoin Season Index has gone up to 43. It had dropped to 34 on August 1st. This index indicates that among the top 100 cryptocurrencies by market capitalization, approximately 43 projects have outperformed Bitcoin in the past 90 days.Note: The CMC cryptocurrency Altseason Index is a real-time indicator employed to determine whether the current cryptocurrency market is in an altcoin-dominated season. This index is based on the performance of the top 100 altcoins relative to Bitcoin over the past 90 days.</description>
+      <pubDate>Tue, 05 Aug 2025 02:40:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23173</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -141,12 +181,12 @@
 
     </item>
     <item>
-      <title>WSJ: White House Prepares to Issue Executive Order Punishing Banks for Discriminating Against Cryptocurrency Companies</title>
-      <link>https://www.lookonchain.com/feeds/23151</link>
-      <description>On August 5th, as reported by The Wall Street Journal, the White House is getting ready to enhance pressure on large banks in reaction to their supposed discriminatory behavior towards conservative individuals and cryptocurrency companies. The White House is devising to issue an executive order that poses a threat of fining banks which refuse to serve customers for political motives.A draft of the executive order that was accessed by The Wall Street Journal shows that the order will instruct banking regulators to conduct investigations into whether any financial institutions have violated the Equal Credit Opportunity Act, antitrust laws, or consumer financial protection laws.</description>
-      <pubDate>Tue, 05 Aug 2025 00:28:25 +0000</pubDate>
+      <title>「3963 BTC Ancient Whale HODLer Dormant for 14.5 Years」 transfers out 108 BTC Again</title>
+      <link>https://www.lookonchain.com/feeds/23172</link>
+      <description>On August 5th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;ancient whale that had been dormant while holding 3963 BTC for 14.5 years&quot; transferred 108 BTC to an address affiliated with Wintermute, which was worth approximately $12.42 million.10 hours ago, they recharged 0.001 BTC into the Wintermute Deposit address for a small-scale test or a possible upcoming sale. Currently, this ancient whale still holds 3360 BTC in their wallet, approximately $385 million.</description>
+      <pubDate>Tue, 05 Aug 2025 02:32:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23151</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23172</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -155,40 +195,10 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Billionaire Adam Weitsman Announces Acquisition of Over 5000 NFTs from Yuga Labs</title>
-      <link>https://www.lookonchain.com/feeds/23150</link>
-      <description>On August 5th, the billionaire Adam Weitsman made a post on social media. He said, &quot;I am making a long-term investment in Otherside. I am directly acquiring more than 5000 Otherdeeds, Mega Kodas, and Weapon Kodas from Yuga Labs to continuously enhance my collection. I have also promised to make a series of acquisitions in the open market this year. I will spare no effort to help Othersidemeta achieve success.&quot;Adam Weitsman is an American entrepreneur, investor, and philanthropist. Currently, he serves as the CEO of Upstate Shredding – Weitsman Recycling, which is one of the largest privately owned scrap metal processing companies on the East Coast of the United States, processing over 1 million tons of steel and 25 million pounds of nonferrous metals annually. In 2021, he founded Viridium LLC and entered the cryptocurrency mining field.</description>
-      <pubDate>Tue, 05 Aug 2025 00:28:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23150</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Solana Mobile&apos;s second phone, Seeker, has started shipping, and the native token SKR has not been released yet.</title>
-      <link>https://www.lookonchain.com/feeds/23149</link>
-      <description>August 5th. Solana Mobile announced on social media that its second phone, Seeker, began shipping on August 4th, 2025.During this time, the Solana Mobile ecosystem will introduce the native token SKR to provide incentives for developers and users to participate in the development of the mobile Web3 ecosystem. However, the SKR token has not been officially launched yet.</description>
-      <pubDate>Tue, 05 Aug 2025 00:28:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23149</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>transfer</category>
 
     </item>
   </channel>
