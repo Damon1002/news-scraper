@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 15:34:37 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 15:34:37 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 15:51:32 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 15:51:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,65 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>In the past 24 hours, there has been a total of $365 million in liquidations across the network, primarily affecting long positions.</title>
+      <link>https://www.lookonchain.com/feeds/23297</link>
+      <description>On August 5th, according to Coinglass data, within the past 24 hours, the total value that was liquidated across the entire network amounted to $365 million. There were $236 million in long liquidations and $129 million in short liquidations.During the past 24 hours, a total of 127,776 people were liquidated globally. The largest single liquidation took place on Hyperliquid - BTC-USD, with a total of $5.165 million.</description>
+      <pubDate>Tue, 05 Aug 2025 15:48:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23297</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Shipping company Robin Energy has completed a $3 million Bitcoin allocation</title>
+      <link>https://www.lookonchain.com/feeds/23296</link>
+      <description>On August 5th, as reported by BitcoinNews, the Cyprus-based shipping company Robin Energy has finished allocating $3 million worth of Bitcoin and it is being held in custody by Anchorage Digital Bank.</description>
+      <pubDate>Tue, 05 Aug 2025 15:40:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23296</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The Atlanta Fed&apos;s GDPNow model initially estimates that the US Q3 GDP growth rate is 2.5%, up from the previous estimate of 2.1%.</title>
+      <link>https://www.lookonchain.com/feeds/23295</link>
+      <description>On August 5th, the GDPNow model of the Atlanta Fed initially projected that the growth rate of the US third-quarter GDP would be 2.5%, which was an increase from the previously estimated 2.1%. (FXStreet)</description>
+      <pubDate>Tue, 05 Aug 2025 15:40:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23295</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Upbit Exchange Trading Volume Rebounds: XRP, ETH, BTC Hold Top Three Spots</title>
       <link>https://www.lookonchain.com/feeds/23294</link>
       <description>On August 5th, based on CoinGecko data, in the past 24 hours, the trading volume on Upbit has rebounded to $19.64 billion, showing a 24-hour increase of 10.6%.The XRP/KRW trading pair accounted for 21.74% of the trading volume and ranked first in the Korean Won (KRW) market. The remaining top five were: ETH, BTC, GAS, SOL.</description>
-      <pubDate>Tue, 05 Aug 2025 15:32:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:32:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23294</guid>
       <category>crypto</category>
@@ -38,7 +93,7 @@
       <title>「Insider Trader」 Increases Short Position to $132 Million, BTC Short Liquidation Price $114,210</title>
       <link>https://www.lookonchain.com/feeds/23292</link>
       <description>August 5th. The &quot;Insider Trader&quot; @qwatio increased his short position by 25 minutes ago, raising the scale to $1.32 billion. Previously, his $3 billion short position had been liquidated and decreased to less than $1 billion through several liquidations. After the market drop tonight, he added to his position. Currently, his BTC short liquidation price is $114,210 and his ETH short liquidation price is $3,822, with an overall unrealized profit of around $1.4 million.</description>
-      <pubDate>Tue, 05 Aug 2025 15:24:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:24:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23292</guid>
       <category>crypto</category>
@@ -58,7 +113,7 @@
       <title>The Succinct Prover Network has been officially deployed on the mainnet, enabling the native token PROVE.</title>
       <link>https://www.lookonchain.com/feeds/23293</link>
       <description>August 5th. The Succinct Prover Network is an Ethereum-based decentralized marketplace for prover networks. It enables various applications to submit zero-knowledge proof (ZK proof) requests, which are then competitively verified by independent provers. The goal is to allow developers to use zero-knowledge technology without the need for custom configurations, facilitating the construction of secure, transparent, and scalable cryptographic infrastructure.This system will support various platforms. Ethereum has already identified ZK technology as a key focus for its future development. Additionally, the system also supports high-speed rollups, which are suitable for handling computationally intensive applications processing tens of thousands of transactions per second, such as trading platforms and AI agents.The network&apos;s architecture adopts a design of off-chain execution and on-chain settlement, similar to Layer 2 solutions. Proofs are periodically submitted to Ethereum, allowing</description>
-      <pubDate>Tue, 05 Aug 2025 15:24:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:24:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23293</guid>
       <category>crypto</category>
@@ -75,7 +130,7 @@
       <title>Binance Alpha has now launched PROVE, with a reported market cap of $180 million.</title>
       <link>https://www.lookonchain.com/feeds/23291</link>
       <description>On August 5th, Binance Alpha has now initiated PROVE. It once soared and broke through $1.67 and is now in a retracement to $0.925. Currently, the market capitalization stands at $180 million.</description>
-      <pubDate>Tue, 05 Aug 2025 15:16:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23291</guid>
       <category>crypto</category>
@@ -93,7 +148,7 @@
       <title>Michigan Pension Fund Increases Exposure to Ark Bitcoin ETF in Q2, Holding Valued at Around $10.7 Million</title>
       <link>https://www.lookonchain.com/feeds/23289</link>
       <description>On August 5th, based on a U.S. Securities and Exchange Commission (SEC) filing made today, as of June 30th, the Michigan State Pension Fund held 300,000 shares of the Ark Bitcoin ETF. The value of these shares was approximately $10.7 million. This holding represents an increase compared to the previously reported 100,000 shares as of March 31st.Note: The Ark Bitcoin ETF is officially known as The ARK 21Shares Bitcoin ETF (ARKB).</description>
-      <pubDate>Tue, 05 Aug 2025 15:00:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:00:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23289</guid>
       <category>crypto</category>
@@ -113,7 +168,7 @@
       <title>JD Responds to Rumors of &quot;Exiting the Stablecoin Business&quot;: Rumor is False, Currently Preparing to Apply for License</title>
       <link>https://www.lookonchain.com/feeds/23290</link>
       <description>August 5th: There are market rumors suggesting that JD.com and others might withdraw from the Hong Kong stablecoin business. In response to this, a subsidiary of JD, JD Chain, has taken notice of the baseless reports and rumors circulating in the market. JD Chain hereby states that it is in the process of preparing for the application of a Hong Kong stablecoin license. (Golden Finance)</description>
-      <pubDate>Tue, 05 Aug 2025 15:00:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:00:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23290</guid>
       <category>crypto</category>
@@ -130,7 +185,7 @@
       <title>MEXC Lists Succinct (PROVE) for Spot, Futures, and Spot Trading</title>
       <link>https://www.lookonchain.com/feeds/23288</link>
       <description>August 5th. As per official data, MEXC launched Succinct (PROVE) at 23:00 (UTC+8) on August 5th and opened the PROVE/USDT and PROVE/USDC trading pairs. Spot trading will be exempt from fees for the initial 14 days following the launch.At 23:10 on the same day (UTC+8), PROVE U perpetual contract trading was made available, with leverage ranging from 1x to 50x. The platform will introduce flash swap functionality at 00:00 (UTC+8) on August 6th, enabling users to seamlessly and instantaneously swap PROVE with other assets.</description>
-      <pubDate>Tue, 05 Aug 2025 15:00:44 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:00:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23288</guid>
       <category>crypto</category>
@@ -141,64 +196,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A Whale Increases Ethereum Short Position Once Again to 57,000 ETH, Liquidation Price at $3,727</title>
-      <link>https://www.lookonchain.com/feeds/23287</link>
-      <description>On August 5th, as monitored by EmberCN, after partial position liquidation, the [Four-Battle ETH 75% Win Rate Whale] reopened its short position in ETH to 50,000 ETH ($1.81 billion). His previously opened 50,000 ETH short position was reduced to 24,000 ETH after deleveraging last night and partial liquidation in the early morning. Then, he began to gradually withdraw ETH and ARB from WhiteBIT and Kucoin and sell them on-chain to exchange for 7.21 million USDC and transfer them to Hyperliquid to continuously increase his short position in ETH. Currently, after several position increases, his short position in ETH has returned to 50,000 ETH ($1.81 billion).Shortly after the above transaction operations, the whale once again increased his short position by 7,000 ETH, expanding his holdings to 57,000 ETH. The opening price was $3632 and the liquidation price was $3727, currently generating a profit of over $2.5 million.</description>
-      <pubDate>Tue, 05 Aug 2025 14:56:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23287</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The U.S. CFTC is considering allowing futures exchanges to engage in spot cryptocurrency trading</title>
-      <link>https://www.lookonchain.com/feeds/23286</link>
-      <description>On August 5th, the U.S. Commodity Futures Trading Commission (CFTC) declared that it is contemplating the permission for spot cryptocurrency trading on registered futures exchanges and is soliciting feedback from stakeholders to advance President Trump&apos;s cryptocurrency development goals.CFTC Acting Chairman Caroline Pham stated in a Monday announcement that the agency is seeking stakeholders&apos; assistance on how to offer regulatory clarity for listing spot cryptocurrency assets on CFTC-registered futures exchanges (also known as designated contract markets, DCMs). This is one of the exchange types regulated by the CFTC.This &quot;Listing Spot Cryptocurrency Trading Initiative&quot; is the CFTC&apos;s initial response to a report released last week by the Trump administration&apos;s Digital Asset Market Working Group. The report outlined specific expectations for U.S. regulatory agencies, such as requiring the CFTC to provide clear guidance on registration, custody, and other aspects to establish a regul</description>
-      <pubDate>Tue, 05 Aug 2025 14:40:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23286</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Bitcoin Drops Below $113,000</title>
-      <link>https://www.lookonchain.com/feeds/23285</link>
-      <description>On August 5th, with respect to HTX market data, Bitcoin fell below $113,000, showing a 24-hour change of -2.01%.</description>
-      <pubDate>Tue, 05 Aug 2025 14:40:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23285</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
