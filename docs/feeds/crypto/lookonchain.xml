@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Aug 2025 16:58:40 +0000</lastBuildDate>
-    <pubDate>Tue, 05 Aug 2025 16:58:40 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 17:29:33 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 17:29:33 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>美SEC: Liquidity Staking Activity Not Considered a Security</title>
+      <link>https://www.lookonchain.com/feeds/23305</link>
+      <description>On August 6th, based on market information, the U.S. Securities and Exchange Commission issued a statement regarding liquidity mining activities, indicating that liquidity mining activities are not regarded as securities.</description>
+      <pubDate>Tue, 05 Aug 2025 17:08:41 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23305</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Russia is reportedly considering proposing a Ukraine ceasefire to Trump</title>
       <link>https://www.lookonchain.com/feeds/23304</link>
       <description>On August 6th, as reported by Bloomberg, it is said that Russia is considering putting forward a ceasefire in Ukraine to Trump.</description>
-      <pubDate>Tue, 05 Aug 2025 16:40:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 16:40:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23304</guid>
       <category>crypto</category>
@@ -34,7 +51,7 @@
       <title>Coinbase Developer Platform Launches &quot;Embedded Wallet&quot; Service</title>
       <link>https://www.lookonchain.com/feeds/23303</link>
       <description>On August 6th, Coinbase&apos;s developer platform officially introduced the &quot;Embedded Wallets&quot; product. This enables developers to incorporate self-hosted wallets into their applications with a very minimal amount of code. The service encompasses functions such as fiat onramp and cryptocurrency exchange. Users can log in through email, SMS, or OAuth, and the wallet has a self-hosted characteristic.</description>
-      <pubDate>Tue, 05 Aug 2025 16:16:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 16:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23303</guid>
       <category>crypto</category>
@@ -51,7 +68,7 @@
       <title>Tether CEO: 40% of the entire network&apos;s blockchain transaction fee consumption is from USDT transfers</title>
       <link>https://www.lookonchain.com/feeds/23302</link>
       <description>On August 6th, Paolo Ardoino, the CEO of Tether, disclosed in a post that &quot;40% of the entire blockchain transaction fees are utilized for USDT transfers. This encompasses 9 chains: Ethereum, Tron, TON, Solana, BSC, Avalanche, Arbitrum, Polygon, and Optimism.&quot; In emerging markets, millions of people are using Tether&apos;s digital US dollar, USDT, daily to safeguard their families against local currency depreciation and inflation. In the future, blockchains that focus on reducing gas fees and support fee payment in USDT will lead the world.</description>
-      <pubDate>Tue, 05 Aug 2025 16:16:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 16:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23302</guid>
       <category>crypto</category>
@@ -71,7 +88,7 @@
       <title>Coinbase to List Succinct (PROVE)</title>
       <link>https://www.lookonchain.com/feeds/23301</link>
       <description>On August 6th, Coinbase will introduce support for Succinct (PROVE) (an ERC-20 token) on the Ethereum network. If liquidity requirements are fulfilled, trading will commence later today. Once an appropriate supply of the asset is in place, trading for the PROVE-USD pair will be gradually implemented.</description>
-      <pubDate>Tue, 05 Aug 2025 16:16:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 16:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23301</guid>
       <category>crypto</category>
@@ -88,7 +105,7 @@
       <title>Coinbase will list Euler (EUL)</title>
       <link>https://www.lookonchain.com/feeds/23300</link>
       <description>On August 6th, Coinbase will provide support for Euler (EUL) on the Ethereum network (ERC-20 token). If the liquidity conditions are fulfilled, trading will commence on August 6, 2025, at 9 a.m. Pacific Time or thereafter. Once there is an adequate supply of the asset, the EUL-USD trading pair will be gradually introduced.</description>
-      <pubDate>Tue, 05 Aug 2025 16:08:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 16:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23300</guid>
       <category>crypto</category>
@@ -105,7 +122,7 @@
       <title>Spot Gold Breaks Above $3390/oz for the First Time Since July 24th</title>
       <link>https://www.lookonchain.com/feeds/23299</link>
       <description>On August 5th, the spot gold broke through $3390/oz. This was the first time since July 24th, with an intraday increase of 0.48%. (IG)</description>
-      <pubDate>Tue, 05 Aug 2025 16:00:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 16:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23299</guid>
       <category>crypto</category>
@@ -120,27 +137,10 @@
 
     </item>
     <item>
-      <title>The Atlanta Fed&apos;s GDPNow model initially estimates that the US Q3 GDP growth rate is 2.5%, up from the previous estimate of 2.1%.</title>
-      <link>https://www.lookonchain.com/feeds/23295</link>
-      <description>On August 5th, the GDPNow model of the Atlanta Fed initially projected that the growth rate of the US third-quarter GDP would be 2.5%, which was an increase from the previously estimated 2.1%. (FXStreet)</description>
-      <pubDate>Tue, 05 Aug 2025 15:57:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23295</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>In the past 24 hours, there has been a total of $365 million in liquidations across the network, primarily affecting long positions.</title>
       <link>https://www.lookonchain.com/feeds/23297</link>
       <description>On August 5th, according to Coinglass data, within the past 24 hours, the total value that was liquidated across the entire network amounted to $365 million. There were $236 million in long liquidations and $129 million in short liquidations.During the past 24 hours, a total of 127,776 people were liquidated globally. The largest single liquidation took place on Hyperliquid - BTC-USD, with a total of $5.165 million.</description>
-      <pubDate>Tue, 05 Aug 2025 15:57:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23297</guid>
       <category>crypto</category>
@@ -158,7 +158,7 @@
       <title>Shipping company Robin Energy has completed a $3 million Bitcoin allocation</title>
       <link>https://www.lookonchain.com/feeds/23296</link>
       <description>On August 5th, as reported by BitcoinNews, the Cyprus-based shipping company Robin Energy has finished allocating $3 million worth of Bitcoin and it is being held in custody by Anchorage Digital Bank.</description>
-      <pubDate>Tue, 05 Aug 2025 15:57:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23296</guid>
       <category>crypto</category>
@@ -178,7 +178,7 @@
       <title>LookOnChain: Coinbase to List Mamo (MAMO)</title>
       <link>https://www.lookonchain.com/feeds/23298</link>
       <description>On August 5th, Coinbase will commence providing support for Mamo (MAMO) on the Base network. In the event that liquidity conditions are fulfilled, trading will initiate on August 6, 2025, at 9:00 AM Pacific Time or subsequently. Once an adequate supply of these assets becomes available, the MAMO-USD trading pair will be progressively launched.</description>
-      <pubDate>Tue, 05 Aug 2025 15:57:48 +0000</pubDate>
+      <pubDate>Tue, 05 Aug 2025 15:28:41 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23298</guid>
       <category>crypto</category>
