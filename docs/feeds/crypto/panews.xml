@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 09:39:18 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 09:39:18 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 09:57:59 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 09:57:59 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,25 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>韩国最大网络银行KakaoBank评估发行韩元稳定币</title>
+      <link>https://www.panewslab.com/zh/articles/23042429-db7d-4f0e-b452-5d2f2191fe22</link>
+      <description>韩国最大网络银行KakaoBank评估发行韩元稳定币</description>
+      <pubDate>Wed, 06 Aug 2025 09:57:59 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/23042429-db7d-4f0e-b452-5d2f2191fe22</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>SuperGaming获A16z、Polygon等投资方1500万美元B轮融资，估值达1亿美元</title>
       <link>https://www.panewslab.com/zh/articles/5077177c-f887-449c-b5a8-da0beb220160</link>
       <description>SuperGaming获A16z、Polygon等投资方1500万美元B轮融资，估值达1亿美元</description>
-      <pubDate>Wed, 06 Aug 2025 09:39:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:55:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5077177c-f887-449c-b5a8-da0beb220160</guid>
       <category>crypto</category>
@@ -32,7 +47,7 @@
       <title>Laser Digital获迪拜VARA许可推出加密期权OTC</title>
       <link>https://www.panewslab.com/zh/articles/c4d82032-a7aa-48a6-9249-8b0be25cb627</link>
       <description>Laser Digital获迪拜VARA许可推出加密期权OTC</description>
-      <pubDate>Wed, 06 Aug 2025 09:37:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:53:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c4d82032-a7aa-48a6-9249-8b0be25cb627</guid>
       <category>crypto</category>
@@ -47,7 +62,7 @@
       <title>马斯克称Grok 2下周开源</title>
       <link>https://www.panewslab.com/zh/articles/9dc51b90-4681-4a75-87cd-76a055760d6e</link>
       <description>马斯克称Grok 2下周开源</description>
-      <pubDate>Wed, 06 Aug 2025 09:35:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:51:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9dc51b90-4681-4a75-87cd-76a055760d6e</guid>
       <category>crypto</category>
@@ -62,7 +77,7 @@
       <title>Anthropic发布的Claude Opus 4.1已面向付费用户开放</title>
       <link>https://www.panewslab.com/zh/articles/31064735-f71a-4dc2-b6e1-2641578fd9e4</link>
       <description>Anthropic发布的Claude Opus 4.1已面向付费用户开放</description>
-      <pubDate>Wed, 06 Aug 2025 09:33:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:49:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/31064735-f71a-4dc2-b6e1-2641578fd9e4</guid>
       <category>crypto</category>
@@ -77,7 +92,7 @@
       <title>KGeN第一阶段启动，开放rKGEN领取与质押</title>
       <link>https://www.panewslab.com/zh/articles/c40b73d9-d2ac-43b6-8031-5c32f193cb05</link>
       <description>KGeN第一阶段启动，开放rKGEN领取与质押</description>
-      <pubDate>Wed, 06 Aug 2025 09:31:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:47:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c40b73d9-d2ac-43b6-8031-5c32f193cb05</guid>
       <category>crypto</category>
@@ -92,7 +107,7 @@
       <title>Crypto Beast更改X用户名为@realcryptoelio，曾被指控操控45个钱包导致$ALT暴跌</title>
       <link>https://www.panewslab.com/zh/articles/b561c5e7-b6dd-4e9b-b132-87f1d32a9068</link>
       <description>Crypto Beast更改X用户名为@realcryptoelio，曾被指控操控45个钱包导致$ALT暴跌</description>
-      <pubDate>Wed, 06 Aug 2025 09:29:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:45:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b561c5e7-b6dd-4e9b-b132-87f1d32a9068</guid>
       <category>crypto</category>
@@ -107,7 +122,7 @@
       <title>Sidekick基金会成立，20%代币将用于长期社区激励</title>
       <link>https://www.panewslab.com/zh/articles/26bb0f3d-95b7-449b-a3d5-4c3446b0b5e5</link>
       <description>Sidekick基金会成立，20%代币将用于长期社区激励</description>
-      <pubDate>Wed, 06 Aug 2025 09:27:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:43:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/26bb0f3d-95b7-449b-a3d5-4c3446b0b5e5</guid>
       <category>crypto</category>
@@ -122,7 +137,7 @@
       <title>数据：两大鲸鱼16小时内抛售近6880万美元ETH</title>
       <link>https://www.panewslab.com/zh/articles/cb436aed-f180-4999-b242-adce646d347e</link>
       <description>数据：两大鲸鱼16小时内抛售近6880万美元ETH</description>
-      <pubDate>Wed, 06 Aug 2025 09:25:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:41:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cb436aed-f180-4999-b242-adce646d347e</guid>
       <category>crypto</category>
@@ -139,7 +154,7 @@
       <title>Espresso将额外空投代币，包括2.5万枚$ESP、认购金额的33%以及为NFT持有者提供额外10%</title>
       <link>https://www.panewslab.com/zh/articles/358da64a-92a2-4850-84cc-f3f7963fe1c1</link>
       <description>Espresso将额外空投代币，包括2.5万枚$ESP、认购金额的33%以及为NFT持有者提供额外10%</description>
-      <pubDate>Wed, 06 Aug 2025 09:23:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:39:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/358da64a-92a2-4850-84cc-f3f7963fe1c1</guid>
       <category>crypto</category>
@@ -155,7 +170,7 @@
       <title>火币HTX第七期Launchpool活动将于今日18时开启，质押 $HTX 赚取 APEPE, ES 和 SNAKES 多重挖矿奖励</title>
       <link>https://www.panewslab.com/zh/articles/527dba0c-44bf-4c18-87db-faaeb169f761</link>
       <description>火币HTX第七期Launchpool活动将于今日18时开启，质押 $HTX 赚取 APEPE, ES 和 SNAKES 多重挖矿奖励</description>
-      <pubDate>Wed, 06 Aug 2025 09:21:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:37:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/527dba0c-44bf-4c18-87db-faaeb169f761</guid>
       <category>crypto</category>
@@ -170,7 +185,7 @@
       <title>5个参与PUMP公售的大户疑似清仓，较峰值错失1086.6万美元利润</title>
       <link>https://www.panewslab.com/zh/articles/ff57d6b5-405d-46a4-819b-3e3418cc9163</link>
       <description>5个参与PUMP公售的大户疑似清仓，较峰值错失1086.6万美元利润</description>
-      <pubDate>Wed, 06 Aug 2025 09:19:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:35:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ff57d6b5-405d-46a4-819b-3e3418cc9163</guid>
       <category>crypto</category>
@@ -185,7 +200,7 @@
       <title>数据：香港虚拟资产ETF今日成交额约2967.708万港元</title>
       <link>https://www.panewslab.com/zh/articles/dcbe78b5-b1b3-4252-8510-96915e0847c2</link>
       <description>数据：香港虚拟资产ETF今日成交额约2967.708万港元</description>
-      <pubDate>Wed, 06 Aug 2025 09:17:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:33:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/dcbe78b5-b1b3-4252-8510-96915e0847c2</guid>
       <category>crypto</category>
@@ -200,7 +215,7 @@
       <title>数据：近7亿枚USDC从币安转至未知钱包</title>
       <link>https://www.panewslab.com/zh/articles/8dd3c034-b289-4ec8-af00-2d93b593f686</link>
       <description>数据：近7亿枚USDC从币安转至未知钱包</description>
-      <pubDate>Wed, 06 Aug 2025 09:15:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:31:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8dd3c034-b289-4ec8-af00-2d93b593f686</guid>
       <category>crypto</category>
@@ -215,7 +230,7 @@
       <title>上一轮牛市建仓BTC的大户1小时前再次向币安转移50枚WBTC</title>
       <link>https://www.panewslab.com/zh/articles/739ce0b7-13d3-4d77-b58c-995b2a78aa9f</link>
       <description>上一轮牛市建仓BTC的大户1小时前再次向币安转移50枚WBTC</description>
-      <pubDate>Wed, 06 Aug 2025 09:13:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:29:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/739ce0b7-13d3-4d77-b58c-995b2a78aa9f</guid>
       <category>crypto</category>
@@ -232,7 +247,7 @@
       <title>CryptoQuant：链上数据表明10.8万至11.2万美元区间有较强支撑，当前回调属正常现象</title>
       <link>https://www.panewslab.com/zh/articles/5c9c6e01-0c5d-461f-9808-6504bfd0f267</link>
       <description>CryptoQuant：链上数据表明10.8万至11.2万美元区间有较强支撑，当前回调属正常现象</description>
-      <pubDate>Wed, 06 Aug 2025 09:11:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:27:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5c9c6e01-0c5d-461f-9808-6504bfd0f267</guid>
       <category>crypto</category>
@@ -247,7 +262,7 @@
       <title>币安Alpha积分至少200可申领1000枚Fireverse（FIR）</title>
       <link>https://www.panewslab.com/zh/articles/882e45fe-5f32-4919-8f32-120fdf7ce845</link>
       <description>币安Alpha积分至少200可申领1000枚Fireverse（FIR）</description>
-      <pubDate>Wed, 06 Aug 2025 09:09:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:25:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/882e45fe-5f32-4919-8f32-120fdf7ce845</guid>
       <category>crypto</category>
@@ -262,7 +277,7 @@
       <title>币安将于8月11日下架DEFIUSDT和MEMEFI U本位永续合约</title>
       <link>https://www.panewslab.com/zh/articles/59f082b6-f969-4c00-b706-e7567f8a8a9b</link>
       <description>币安将于8月11日下架DEFIUSDT和MEMEFI U本位永续合约</description>
-      <pubDate>Wed, 06 Aug 2025 09:07:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:23:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/59f082b6-f969-4c00-b706-e7567f8a8a9b</guid>
       <category>crypto</category>
@@ -278,7 +293,7 @@
       <title>英国AI公司Satsuma完成2.176亿美元募资，BTC储备增至1125.85枚</title>
       <link>https://www.panewslab.com/zh/articles/db922945-8abb-4b99-9687-cfd53bae9583</link>
       <description>英国AI公司Satsuma完成2.176亿美元募资，BTC储备增至1125.85枚</description>
-      <pubDate>Wed, 06 Aug 2025 09:05:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:21:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/db922945-8abb-4b99-9687-cfd53bae9583</guid>
       <category>crypto</category>
@@ -295,7 +310,7 @@
       <title>分析：105,696美元是比特币关键支撑位，若跌破则需警惕熊市信号</title>
       <link>https://www.panewslab.com/zh/articles/745e1a2e-1163-4646-8b2e-80a3b5d4f287</link>
       <description>分析：105,696美元是比特币关键支撑位，若跌破则需警惕熊市信号</description>
-      <pubDate>Wed, 06 Aug 2025 09:03:18 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:19:59 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/745e1a2e-1163-4646-8b2e-80a3b5d4f287</guid>
       <category>crypto</category>
@@ -306,23 +321,6 @@
       <category>chinese-crypto-news</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Celer推出cBridge支持Unichain，实现ETH跨链桥接</title>
-      <link>https://www.panewslab.com/zh/articles/da5bd95c-f4b0-43fb-8477-8f0bf18d2942</link>
-      <description>Celer推出cBridge支持Unichain，实现ETH跨链桥接</description>
-      <pubDate>Wed, 06 Aug 2025 09:01:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/da5bd95c-f4b0-43fb-8477-8f0bf18d2942</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
