@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 09:02:36 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 09:02:36 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 09:39:18 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 09:39:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,84 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>KakaoBank Plans to Enter the South Korean Stablecoin Market</title>
+      <link>https://www.lookonchain.com/feeds/23393</link>
+      <description>On August 6th, according to The Block, Kwon Tae-hun, the CFO of KakaoBank, stated at the event for the release of the first half of 2025 performance that the bank is evaluating the issuance and custody services of digital assets and is collaborating with the stablecoin working group of the Kakao Group. KakaoBank has accumulated experience in areas such as the issuance of real-name accounts on cryptocurrency exchanges, anti-money laundering monitoring, and has participated in the pilot project of the central bank digital currency of the Bank of Korea.</description>
+      <pubDate>Wed, 06 Aug 2025 09:32:26 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23393</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>SuperGaming has completed a $15 million Series B funding round, with participation from a16z Speedrun and others.</title>
+      <link>https://www.lookonchain.com/feeds/23392</link>
+      <description>August 6th: The game development studio SuperGaming has successfully completed a Series B funding round worth $15 million. This round was led by Skycatcher and Steadview Capital, and also involved a16z Speedrun, Bandai Namco 021 Fund, Neowiz, and Polygon Ventures. As a result, the company now has a valuation of $1 billion.The newly obtained funds will be utilized to facilitate the international launch of its game &quot;Indus Battle Royale&quot;, with Latin America being the first region. Furthermore, this funding will assist the company in expanding its game development and technology platform.</description>
+      <pubDate>Wed, 06 Aug 2025 09:32:26 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23392</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin surpasses $115,000, the mainstream CEX cumulative short liquidation pressure will reach 694 million.</title>
+      <link>https://www.lookonchain.com/feeds/23391</link>
+      <description>On August 6th, based on Coinglass data, if Bitcoin surges past $115,000, the cumulative short liquidation intensity on mainstream CEX will reach $694 million.Conversely, if Bitcoin drops below $112,000, the cumulative long liquidation intensity on mainstream CEX will be $843 million.BlockBeats Note: The liquidation chart does not present the exact number of contracts to be liquidated or the precise value of the liquidated contracts. The bars on the liquidation chart actually indicate the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows the extent to which the asset price reaching a certain position will be impacted. Higher &quot;liquidation bars&quot; signify that when the price reaches those levels, a more intense reaction will occur due to a liquidity cascade.</description>
+      <pubDate>Wed, 06 Aug 2025 09:25:26 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23391</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Analysis: If Haslet or Malpas were to take over as Federal Reserve Board members, the dollar would fall</title>
       <link>https://www.lookonchain.com/feeds/23390</link>
       <description>On August 6th, based on foreign media analysis, if US President Trump selects either Kevin Hassett or David Malpass to succeed Kudlow as a Federal Reserve Board member, the US dollar is likely to weaken. This is because Hassett and Malpass are regarded as more dovish than the other top candidate for the position, Kevin Warsh. Trump is anticipated to announce by the end of this week who will replace Kudlow, and this individual is also highly likely to succeed Powell as the Fed Chair. Trump has narrowed down the candidates to four people: Hassett, Malpass, Warsh, and the current Fed Governor Waller. Regardless of whom Trump finally chooses to replace Kudlow, the candidate is prone to advocating that the Fed cut rates by more than 25 basis points in September. (FXStreet)</description>
-      <pubDate>Wed, 06 Aug 2025 09:01:44 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 09:01:26 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23390</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Tech Fairness Hackathon Successfully Concluded, with 21 Projects Winning Awards, Focusing on AI×Web3 Technology for Good</title>
+      <link>https://www.lookonchain.com/feeds/23389</link>
+      <description>August 6: The first &quot;Tech Fairness Hackathon&quot; came to an end on August 4. It was co-hosted by &quot;FAIR3&quot;, &quot;CARV&quot;, and &quot;HackQuest&quot;. Over 600 project registrations and more than 200 project submissions were attracted. The focus was on key issues such as technical fairness, privacy rights, and AI infrastructure. A total of 21 winning projects were selected, covering tracks like AI Infra, identity systems, and data arrangement:· The &quot;FAIR3&quot; track offered a $30,000 prize pool to support institutional design and public infrastructure innovation.· The &quot;CARV&quot; track established a $20,000 prize pool, focusing on supporting the construction of AI Agent on-chain and modular identity systems.&quot;FAIR3&quot; simultaneously launched the &quot;Tech Fairness Incubation Program&quot;, providing funding and community support to excellent projects and promoting developers to sign the &quot;Technical Fairness Commitment Agreement&quot; to jointly build an open and transparent technical future.</description>
+      <pubDate>Wed, 06 Aug 2025 08:56:26 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23389</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +106,7 @@
       <title>Analyst: If Bitcoin Tests the $105,000 Range in the Short Term, It May Have an Impact on Leveraged Futures Traders</title>
       <link>https://www.lookonchain.com/feeds/23388</link>
       <description>On August 6th, CryptoQuant analyst CryptoMe stated that according to on-chain data, Bitcoin has a significant cost cluster around $105,000. This includes a UTxO wall, the average cost of 1-3 month old holdings, and the realized prices of short-term holders all concentrating at that level. The analysis pointed out that this is not a bearish signal. It is expected that Bitcoin will reach higher price levels in the medium to long term. However, if the price were to temporarily fall to this level, leveraged futures traders may face risks. It is recommended that investors appropriately reduce position risks and control volatility exposure.</description>
-      <pubDate>Wed, 06 Aug 2025 08:56:44 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 08:56:26 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23388</guid>
       <category>crypto</category>
@@ -51,46 +123,12 @@
 
     </item>
     <item>
-      <title>Tech Fairness Hackathon Successfully Concluded, with 21 Projects Winning Awards, Focusing on AI×Web3 Technology for Good</title>
-      <link>https://www.lookonchain.com/feeds/23389</link>
-      <description>August 6: The first &quot;Tech Fairness Hackathon&quot; came to an end on August 4. It was co-hosted by &quot;FAIR3&quot;, &quot;CARV&quot;, and &quot;HackQuest&quot;. Over 600 project registrations and more than 200 project submissions were attracted. The focus was on key issues such as technical fairness, privacy rights, and AI infrastructure. A total of 21 winning projects were selected, covering tracks like AI Infra, identity systems, and data arrangement:· The &quot;FAIR3&quot; track offered a $30,000 prize pool to support institutional design and public infrastructure innovation.· The &quot;CARV&quot; track established a $20,000 prize pool, focusing on supporting the construction of AI Agent on-chain and modular identity systems.&quot;FAIR3&quot; simultaneously launched the &quot;Tech Fairness Incubation Program&quot;, providing funding and community support to excellent projects and promoting developers to sign the &quot;Technical Fairness Commitment Agreement&quot; to jointly build an open and transparent technical future.</description>
-      <pubDate>Wed, 06 Aug 2025 08:56:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23389</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Nomura Securities&apos; subsidiary Laser Digital has been approved to launch crypto derivatives in Dubai</title>
       <link>https://www.lookonchain.com/feeds/23387</link>
       <description>On August 6th, as per Coindesk, Nomura Securities&apos; digital asset subsidiary, Laser Digital, has obtained approval to commence cryptocurrency derivatives operations in Dubai.</description>
-      <pubDate>Wed, 06 Aug 2025 08:48:44 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 08:48:26 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23387</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Crypto Influencer Crypto Beast has reactivated their X account and rebranded as @realcryptoelio</title>
-      <link>https://www.lookonchain.com/feeds/23386</link>
-      <description>On August 6th, the cryptocurrency sleuth ZachXBT mentioned that the cryptocurrency influencer Crypto Beast has just reactivated his X account and changed his username to @realcryptoelio.It was previously reported that on July 22nd, the cryptocurrency influencer Crypto Beast deactivated his X (original Twitter) account. It was likely that he would come back online in a few days with a possible username change. Crypto Beast was exposed for manipulating the ALT crash event and had cashed out more than $11 million.</description>
-      <pubDate>Wed, 06 Aug 2025 08:32:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23386</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -105,7 +143,7 @@
       <title>Two Whales collectively transferred $68.8 million worth of ETH to a CEX</title>
       <link>https://www.lookonchain.com/feeds/23384</link>
       <description>On August 6th, as per the monitoring of LookOnChain, Whale 0xc156 transferred all 13,459 ETH ($49 million) into Binance 20 minutes ago. Additionally, Whale 0x46DB deposited 5,504 ETH ($19.8 million) into OKX within the past 16 hours.</description>
-      <pubDate>Wed, 06 Aug 2025 08:25:44 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 08:38:26 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23384</guid>
       <category>crypto</category>
@@ -124,10 +162,27 @@
 
     </item>
     <item>
+      <title>Crypto Influencer Crypto Beast has reactivated their X account and rebranded as @realcryptoelio</title>
+      <link>https://www.lookonchain.com/feeds/23386</link>
+      <description>On August 6th, the cryptocurrency sleuth ZachXBT mentioned that the cryptocurrency influencer Crypto Beast has just reactivated his X account and changed his username to @realcryptoelio.It was previously reported that on July 22nd, the cryptocurrency influencer Crypto Beast deactivated his X (original Twitter) account. It was likely that he would come back online in a few days with a possible username change. Crypto Beast was exposed for manipulating the ALT crash event and had cashed out more than $11 million.</description>
+      <pubDate>Wed, 06 Aug 2025 08:38:26 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23386</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Lido: SEC Clarifies the Non-Security Nature of Staked Assets, Helping Drive Institutional Adoption and DeFi Ecosystem Growth</title>
       <link>https://www.lookonchain.com/feeds/23385</link>
       <description>On August 6th, Lido stated in a post that, &quot;The previous day, the U.S. SEC issued guidance affirming that liquid staking and similar receipt-like tokens like stETH do not constitute securities, thereby providing the long-awaited regulatory clarity for Lido and the entire industry. Lido&apos;s operations in the U.S. have now obtained increased regulatory clarity, eliminating the previous uncertainty that hindered institutional adoption and DeFi integration.&quot;This stance has paved the way for U.S.-based platforms, financial institutions, and users to utilize Lido more freely. Without the worry of triggering securities laws, more protocols may integrate stETH, further expanding its use cases in the DeFi space. This also reinforces the reasons for centralized exchanges and fintech platforms to support Lido&apos;s liquid staking, potentially attracting more funds.</description>
-      <pubDate>Wed, 06 Aug 2025 08:25:44 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 08:38:26 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23385</guid>
       <category>crypto</category>
@@ -138,59 +193,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Huobi HTX&apos;s seventh Launchpool event will start today at 18:00 UTC, allowing users to stake HTX to earn APEPE, ES, and SNAKES multi-mining rewards.</title>
-      <link>https://www.lookonchain.com/feeds/23383</link>
-      <description>August 6th. According to an official announcement from Huobi HTX, the Huobi HTX 7th Launchpool event is set to officially commence at 18:00 (UTC+8) on August 6th and will run through September 5th at 18:00 (UTC+8). This mining period will have a duration of 30 days. By staking HTX or participating in the one-click purchase of $HTX flexible savings products, participants can share a prize pool consisting of 38,461,538,462 APEPE, 98,360 ES, and 714,285 SNAKES, with a total pool value exceeding 120,000 USDT.Launchpool links earning and airdrop channels, enabling users to mine multiple coins with a single asset. Through the &quot;one-click purchase&quot; function, users can simultaneously obtain earnings from mining and airdrop rewards. Users can participate by accessing the Huobi HTX App home page → More → Activities &amp; Rewards → Launchpool and clicking on &quot;One-Click Purchase&quot; to join, easily receiving various project airdrop rewards. The warm-up period has already started, so making early purchas</description>
-      <pubDate>Wed, 06 Aug 2025 08:17:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23383</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Five of the participants in the PUMP token sale have transferred 1.25 billion PUMP tokens to Kraken, causing a 72% price drop from the all-time high.</title>
-      <link>https://www.lookonchain.com/feeds/23382</link>
-      <description>August 6th. Based on the on-chain analyst Ai Auntie (@ai_9684xtpa), it appears that the five addresses that participated in the PUMP public sale and received the maximum allocation have liquidated their holdings. Compared to the price peak, they have missed out on a potential profit of $10.866 million.Four hours ago, the individual consolidated 1.25 billion PUMP from these five addresses and subsequently deposited them into Kraken, with a value of $4.06 million. Since then, the value of these tokens has decreased by 72% from their all-time high.</description>
-      <pubDate>Wed, 06 Aug 2025 08:08:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23382</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>Indian Authorities Freeze $4.8 Million in Coinbase User Crypto Scam Case</title>
-      <link>https://www.lookonchain.com/feeds/23381</link>
-      <description>On August 6th, the Indian Enforcement Directorate (ED) launched an investigation into a large-scale cryptocurrency fraud case. It froze assets worth 428 million Indian Rupees (approximately $4.8 million) belonging to the alleged fraudster Chirag Tomar, his relatives, and associated entities. This enforcement action was carried out under the Prevention of Money Laundering Act (PMLA) and involved the seizure of 18 immovable properties in Delhi and multiple bank accounts.Chirag Tomar is a key mastermind behind a cryptocurrency phishing scam that targeted Coinbase users from mid-2021 to late 2023. The scam entailed creating a fake website or using Search Engine Optimization (SEO) techniques to imitate the cryptocurrency exchange Coinbase in order to deceive users into logging in, ultimately resulting in the theft of approximately $20 million worth of cryptocurrency.</description>
-      <pubDate>Wed, 06 Aug 2025 08:01:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23381</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
