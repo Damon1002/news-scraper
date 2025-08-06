@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 13:29:15 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 13:29:15 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 14:01:34 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 14:01:34 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,87 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>美国白宫：特朗普将对印度商品加征25%关税</title>
+      <link>https://www.panewslab.com/zh/articles/352f4c95-6709-4ceb-b9c5-b845467665b1</link>
+      <description>美国白宫：特朗普将对印度商品加征25%关税</description>
+      <pubDate>Wed, 06 Aug 2025 14:01:34 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/352f4c95-6709-4ceb-b9c5-b845467665b1</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>TROLL币3.5个月暴涨1300倍，某地址单笔投资获利378万美元</title>
+      <link>https://www.panewslab.com/zh/articles/ebaa12b3-9aeb-482b-8ffb-c334e9804122</link>
+      <description>TROLL币3.5个月暴涨1300倍，某地址单笔投资获利378万美元</description>
+      <pubDate>Wed, 06 Aug 2025 13:59:34 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ebaa12b3-9aeb-482b-8ffb-c334e9804122</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Nubila集成Monad，构建高性能AI感知网络，携手NodeOps正式启动验证者节点销售</title>
+      <link>https://www.panewslab.com/zh/articles/d44f5376-1af9-465d-af78-b13a235639d9</link>
+      <description>Nubila集成Monad，构建高性能AI感知网络，携手NodeOps正式启动验证者节点销售</description>
+      <pubDate>Wed, 06 Aug 2025 13:57:34 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d44f5376-1af9-465d-af78-b13a235639d9</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Cosmos Health签订高达3亿美元融资协议以启动ETH财库策略</title>
+      <link>https://www.panewslab.com/zh/articles/22a26518-3fa5-45c0-8000-81d6f9f38fc7</link>
+      <description>Cosmos Health签订高达3亿美元融资协议以启动ETH财库策略</description>
+      <pubDate>Wed, 06 Aug 2025 13:55:34 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/22a26518-3fa5-45c0-8000-81d6f9f38fc7</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>OpenAI工具将部署于美国联邦政府各部门</title>
+      <link>https://www.panewslab.com/zh/articles/2570a28a-5f64-486e-823d-55df272f9545</link>
+      <description>OpenAI工具将部署于美国联邦政府各部门</description>
+      <pubDate>Wed, 06 Aug 2025 13:53:34 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2570a28a-5f64-486e-823d-55df272f9545</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>Empery Digital再购88枚BTC，持仓超4000枚</title>
       <link>https://www.panewslab.com/zh/articles/79009559-9d15-49d7-9509-88c3669cd8da</link>
       <description>Empery Digital再购88枚BTC，持仓超4000枚</description>
-      <pubDate>Wed, 06 Aug 2025 13:29:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:51:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/79009559-9d15-49d7-9509-88c3669cd8da</guid>
       <category>crypto</category>
@@ -34,7 +111,7 @@
       <title>美联储卡什卡利：今年降息两次似乎仍然是合适的</title>
       <link>https://www.panewslab.com/zh/articles/5c3ff216-398e-4312-9be3-13430d18aab2</link>
       <description>美联储卡什卡利：今年降息两次似乎仍然是合适的</description>
-      <pubDate>Wed, 06 Aug 2025 13:27:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:49:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5c3ff216-398e-4312-9be3-13430d18aab2</guid>
       <category>crypto</category>
@@ -49,7 +126,7 @@
       <title>AI原生ERP平台Rillet完成7000万美元B轮融资，A16z和ICONIQ领投</title>
       <link>https://www.panewslab.com/zh/articles/34f04601-6d0f-4a72-afbd-37c30d81c805</link>
       <description>AI原生ERP平台Rillet完成7000万美元B轮融资，A16z和ICONIQ领投</description>
-      <pubDate>Wed, 06 Aug 2025 13:25:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:47:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/34f04601-6d0f-4a72-afbd-37c30d81c805</guid>
       <category>crypto</category>
@@ -64,7 +141,7 @@
       <title>白宫：苹果将增加1000亿美元的美国投资承诺</title>
       <link>https://www.panewslab.com/zh/articles/a7f64125-3180-496e-a365-b533e70099ec</link>
       <description>白宫：苹果将增加1000亿美元的美国投资承诺</description>
-      <pubDate>Wed, 06 Aug 2025 13:23:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:45:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a7f64125-3180-496e-a365-b533e70099ec</guid>
       <category>crypto</category>
@@ -79,7 +156,7 @@
       <title>某巨鲸提取9295枚SOL购入160万枚Fartcoin</title>
       <link>https://www.panewslab.com/zh/articles/b76ccfdb-69f9-4042-83a0-57461f548625</link>
       <description>某巨鲸提取9295枚SOL购入160万枚Fartcoin</description>
-      <pubDate>Wed, 06 Aug 2025 13:21:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:43:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b76ccfdb-69f9-4042-83a0-57461f548625</guid>
       <category>crypto</category>
@@ -94,7 +171,7 @@
       <title>Trump Media测试Truth Social平台AI搜索功能</title>
       <link>https://www.panewslab.com/zh/articles/7594d827-ebd8-427d-add5-e6d2c650ed8c</link>
       <description>Trump Media测试Truth Social平台AI搜索功能</description>
-      <pubDate>Wed, 06 Aug 2025 13:19:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:41:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7594d827-ebd8-427d-add5-e6d2c650ed8c</guid>
       <category>crypto</category>
@@ -109,7 +186,7 @@
       <title>Kaito AI：Billions公募已登陆 Capital Launchpad</title>
       <link>https://www.panewslab.com/zh/articles/3ca74c9c-c664-436b-8230-891c0df47ce3</link>
       <description>Kaito AI：Billions公募已登陆 Capital Launchpad</description>
-      <pubDate>Wed, 06 Aug 2025 13:17:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:39:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3ca74c9c-c664-436b-8230-891c0df47ce3</guid>
       <category>crypto</category>
@@ -124,7 +201,7 @@
       <title>矿企IREN 7月营收创8600万美元新高，共产出728 BTC</title>
       <link>https://www.panewslab.com/zh/articles/4615fe28-b980-48b7-971b-1b447f5d045e</link>
       <description>矿企IREN 7月营收创8600万美元新高，共产出728 BTC</description>
-      <pubDate>Wed, 06 Aug 2025 13:15:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:37:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4615fe28-b980-48b7-971b-1b447f5d045e</guid>
       <category>crypto</category>
@@ -141,7 +218,7 @@
       <title>ZOOZ完成首轮500万美元私募，拟95%资金建比特币储备</title>
       <link>https://www.panewslab.com/zh/articles/6d4243a5-5632-457e-b433-71e035a52e13</link>
       <description>ZOOZ完成首轮500万美元私募，拟95%资金建比特币储备</description>
-      <pubDate>Wed, 06 Aug 2025 13:13:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:35:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6d4243a5-5632-457e-b433-71e035a52e13</guid>
       <category>crypto</category>
@@ -158,7 +235,7 @@
       <title>哈塞特表示：特朗普的首要任务是维护美联储的独立性</title>
       <link>https://www.panewslab.com/zh/articles/4d1922c0-fe0c-4ce6-8879-fe517305100a</link>
       <description>哈塞特表示：特朗普的首要任务是维护美联储的独立性</description>
-      <pubDate>Wed, 06 Aug 2025 13:11:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:33:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4d1922c0-fe0c-4ce6-8879-fe517305100a</guid>
       <category>crypto</category>
@@ -173,7 +250,7 @@
       <title>Glassnode：7-10年老地址罕见移动助推比特币利润激增至超10亿美元</title>
       <link>https://www.panewslab.com/zh/articles/b1aa4853-ceaf-4833-8689-5ecc472db2f4</link>
       <description>Glassnode：7-10年老地址罕见移动助推比特币利润激增至超10亿美元</description>
-      <pubDate>Wed, 06 Aug 2025 13:09:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:31:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b1aa4853-ceaf-4833-8689-5ecc472db2f4</guid>
       <category>crypto</category>
@@ -190,7 +267,7 @@
       <title>BTC跌破114000美元，日内涨幅 0.93%</title>
       <link>https://www.panewslab.com/zh/articles/h9ess3g3</link>
       <description>BTC跌破114000美元，日内涨幅 0.93%</description>
-      <pubDate>Wed, 06 Aug 2025 13:07:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:29:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/h9ess3g3</guid>
       <category>crypto</category>
@@ -207,7 +284,7 @@
       <title>数字资产结算网络Lynq迎来首批机构客户</title>
       <link>https://www.panewslab.com/zh/articles/e01cd994-abfa-4ee6-aed9-aefec7770e12</link>
       <description>数字资产结算网络Lynq迎来首批机构客户</description>
-      <pubDate>Wed, 06 Aug 2025 13:05:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:27:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e01cd994-abfa-4ee6-aed9-aefec7770e12</guid>
       <category>crypto</category>
@@ -222,7 +299,7 @@
       <title>清算公司Marex接入摩根大通的区块链结算系统Kinexys</title>
       <link>https://www.panewslab.com/zh/articles/7bd7db82-b14d-4e9a-b723-06b1ae45f4b6</link>
       <description>清算公司Marex接入摩根大通的区块链结算系统Kinexys</description>
-      <pubDate>Wed, 06 Aug 2025 13:03:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:25:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7bd7db82-b14d-4e9a-b723-06b1ae45f4b6</guid>
       <category>crypto</category>
@@ -237,7 +314,7 @@
       <title>PancakeSwap上线AAPL、AMZN、TSLA股票永续合约</title>
       <link>https://www.panewslab.com/zh/articles/9572f14f-4210-4d37-8bf4-42b3c9e78ae2</link>
       <description>PancakeSwap上线AAPL、AMZN、TSLA股票永续合约</description>
-      <pubDate>Wed, 06 Aug 2025 13:01:15 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 13:23:34 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9572f14f-4210-4d37-8bf4-42b3c9e78ae2</guid>
       <category>crypto</category>
@@ -246,87 +323,6 @@
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>以太坊7月链上交易量达2380亿美元，创2021年12月以来最高</title>
-      <link>https://www.panewslab.com/zh/articles/74162f0b-2db5-4e36-a9ea-7c1bb5f56b72</link>
-      <description>以太坊7月链上交易量达2380亿美元，创2021年12月以来最高</description>
-      <pubDate>Wed, 06 Aug 2025 12:59:15 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/74162f0b-2db5-4e36-a9ea-7c1bb5f56b72</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Stride：质押业务保持正常运行，将探索Cosmos生态之外的新增创收产品线</title>
-      <link>https://www.panewslab.com/zh/articles/614f2189-0502-4278-b674-42e6812ce57c</link>
-      <description>Stride：质押业务保持正常运行，将探索Cosmos生态之外的新增创收产品线</description>
-      <pubDate>Wed, 06 Aug 2025 12:57:15 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/614f2189-0502-4278-b674-42e6812ce57c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Gate Wallet BountyDrop 新上线 f(x) protocol 空投活动</title>
-      <link>https://www.panewslab.com/zh/articles/92f6ae54-f50c-424f-932f-5331f207ae12</link>
-      <description>Gate Wallet BountyDrop 新上线 f(x) protocol 空投活动</description>
-      <pubDate>Wed, 06 Aug 2025 12:55:15 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/92f6ae54-f50c-424f-932f-5331f207ae12</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>白宫：特朗普凌晨04:30将发表“一项声明”</title>
-      <link>https://www.panewslab.com/zh/articles/fc81e2e3-82f1-4a38-bcad-c8e4dd925629</link>
-      <description>白宫：特朗普凌晨04:30将发表“一项声明”</description>
-      <pubDate>Wed, 06 Aug 2025 12:53:15 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fc81e2e3-82f1-4a38-bcad-c8e4dd925629</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>比特币和以太坊8月期权市场出现看跌倾向</title>
-      <link>https://www.panewslab.com/zh/articles/532b8b82-d247-48d2-b961-0724c029cc3c</link>
-      <description>比特币和以太坊8月期权市场出现看跌倾向</description>
-      <pubDate>Wed, 06 Aug 2025 12:51:15 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/532b8b82-d247-48d2-b961-0724c029cc3c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
