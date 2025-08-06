@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 15:34:20 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 15:34:20 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 15:52:29 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 15:52:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Tesla&apos;s stock surged over 3.3% intraday, with the new version of FSD software expected to be released by the end of next month</title>
-      <link>https://www.lookonchain.com/feeds/23449</link>
-      <description>On August 6th, based on the market data from RockFlow, Tesla (TSLA.O) saw an intraday surge of more than 3.3%. The trading volume exceeded 10 billion US dollars. Its new FSD model is expected to be released by the end of next month.</description>
-      <pubDate>Wed, 06 Aug 2025 15:33:27 +0000</pubDate>
+      <title>Trump: Proud to Donate President&apos;s Salary, First Installment Used for White House Renovation</title>
+      <link>https://www.lookonchain.com/feeds/23452</link>
+      <description>On August 6th, Trump put up a post on Truth Social and said: I take pride in being the only president (maybe except for the late and great President Washington) to donate my salary. My first paycheck was given to the White House Historical Association for the urgently needed renovation of this beautiful people&apos;s residence. The White House is experiencing extensive improvements and beautification at a scale that has not been witnessed since its initial construction. Let&apos;s Make America Great Again!</description>
+      <pubDate>Wed, 06 Aug 2025 15:48:35 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23449</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23452</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Apple Stock Surges Over 5.8%, Marking Highest Gain Since May 12</title>
+      <link>https://www.lookonchain.com/feeds/23451</link>
+      <description>On August 6th, based on the market data from RockFlow (with the link https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats and targeted at _blank), Apple&apos;s stock witnessed an intraday surge of over 5.8%, reaching its highest gain since May 12th. Apple is scheduled to launch a new U.S. manufacturing plan and is set to increase its U.S. investment commitment by $100 billion. President Trump is anticipated to make a statement regarding this on this day.</description>
+      <pubDate>Wed, 06 Aug 2025 15:48:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23451</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +51,7 @@
       <title>「Insider Trader」 Stops Out BTC Short, Gives Back $26M Profit and Loses $2M Principal</title>
       <link>https://www.lookonchain.com/feeds/23450</link>
       <description>On August 6th, as per EmberCN&apos;s monitoring, the &quot;Insider Trader&quot; @qwatio liquidated half of their BTC short position on Hyperliquid 20 minutes ago. After having returned $26 million in profit, their initial capital has endured a loss of $2 million, with only $1 million remaining.Currently, @qwatio still maintains a $62.5 million BTC short position with a liquidation price set at $115,368.</description>
-      <pubDate>Wed, 06 Aug 2025 15:33:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:32:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23450</guid>
       <category>crypto</category>
@@ -52,10 +69,27 @@
 
     </item>
     <item>
+      <title>Tesla&apos;s stock surged over 3.3% intraday, with the new version of FSD software expected to be released by the end of next month</title>
+      <link>https://www.lookonchain.com/feeds/23449</link>
+      <description>On August 6th, based on the market data from RockFlow, Tesla (TSLA.O) saw an intraday surge of more than 3.3%. The trading volume exceeded 10 billion US dollars. Its new FSD model is expected to be released by the end of next month.</description>
+      <pubDate>Wed, 06 Aug 2025 15:32:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23449</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Magic Eden: Season 2 Airdrop Rewards will be distributed today, totaling 10 million ME.</title>
       <link>https://www.lookonchain.com/feeds/23448</link>
       <description>August 6th. Magic Eden officially announced that the airdrop rewards of the second season will be distributed later on this day. The total reward has been increased from 8 million ME to 10 million ME.</description>
-      <pubDate>Wed, 06 Aug 2025 15:24:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:24:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23448</guid>
       <category>crypto</category>
@@ -73,7 +107,7 @@
       <title>The US-listed company TAO Synergies holds a total of 42,111 TAO, with a value of approximately $14.47 million.</title>
       <link>https://www.lookonchain.com/feeds/23447</link>
       <description>On August 6th, as per a report from PR Newswire, the U.S. listed company TAO Synergies Inc. (stock code: TAOX) held a total of 42,111 Bittensor (TAO) tokens by August 5th and had been actively involved in staking on the Bittensor (TAO) network. Currently, its TAO holdings were valued at around $14.47 million.Previously, on July 18th, TAO Synergies Inc. announced that it had invested $10 million to acquire 29,899 Bittensor (TAO) tokens.</description>
-      <pubDate>Wed, 06 Aug 2025 15:24:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:24:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23447</guid>
       <category>crypto</category>
@@ -91,7 +125,7 @@
       <title>LookOnChain: Bitcoin Breaks $115,000</title>
       <link>https://www.lookonchain.com/feeds/23446</link>
       <description>On August 6th, based on HTX market data, Bitcoin exceeded $115,000, showing a 24-hour percentage change of 1.92%.</description>
-      <pubDate>Wed, 06 Aug 2025 15:08:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:08:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23446</guid>
       <category>crypto</category>
@@ -111,7 +145,7 @@
       <title>Clanker and Bankr are now integrated into Unichan</title>
       <link>https://www.lookonchain.com/feeds/23445</link>
       <description>On August 6th, the Meme Coin Launchpad Clanker has now been integrated with Bankr on Unichan.</description>
-      <pubDate>Wed, 06 Aug 2025 15:08:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:08:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23445</guid>
       <category>crypto</category>
@@ -128,7 +162,7 @@
       <title>The MYX perpetual contract on a mainstream CEX has reached the limit negative fee rate, with the 24-hour liquidation volume second only to BTC and ETH.</title>
       <link>https://www.lookonchain.com/feeds/23444</link>
       <description>On August 6th, as per Coinglass data, the perpetual contract for MYX on mainstream CEX has reached the maximum negative fee rate. Binance currently has a -2% funding rate for the MYX contract, with a settlement frequency of 1 hour.According to HTX market information, MYX is currently trading at $2.01, showing a 24-hour increase of 32.77%. The total trading volume of MYX contracts across all platforms in the past 24 hours is currently at $8.963 billion, with a 31.91% increase. The current total open interest of MYX contracts across all platforms reaches $136 million. In the past 24 hours, MYX contracts have liquidated $16.22 million, ranking third after Bitcoin and Ethereum.</description>
-      <pubDate>Wed, 06 Aug 2025 15:00:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:00:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23444</guid>
       <category>crypto</category>
@@ -149,45 +183,9 @@
       <title>Opinion: Trump&apos;s Tariffs Squeeze US Bitcoin Miners, Mining Companies to Face Slower Growth</title>
       <link>https://www.lookonchain.com/feeds/23443</link>
       <description>On August 6th, as per TheBlock, Ethan Vera, the Chief Operating Officer of Luxor Technology, declared that following the White House&apos;s imposition of high reciprocal tariffs on Bitcoin mining machines from Southeast Asia, U.S. Bitcoin miners are bracing themselves for a slowdown in growth. The latest tariff rate is set to come into effect on August 7th. This includes a 19% reciprocal tariff on ASIC mining machines from Indonesia, Malaysia, and Thailand, raising the total import tariff rate of these countries to 21.6%. The tariffs have resulted in a decrease in demand from U.S. customers, with mining machines flowing to countries with more lenient import policies like Canada. Under the 21.6% tariff, the U.S. has now become one of the least competitive regions for importing mining machines, and miners are contemplating expanding into Canada and other markets.Ethan Vera anticipates that if the tariffs have a significant impact on the industry&apos;s supply chain, Russia will become the main b</description>
-      <pubDate>Wed, 06 Aug 2025 14:48:27 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 14:51:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23443</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Tornado Cash Co-Founder Roman Storm Stuck in Legal Limbo</title>
-      <link>https://www.lookonchain.com/feeds/23442</link>
-      <description>August 6th. As per crypto journalist Eleanor Terrett, during the jury trial of Tornado Cash co-founder Roman Storm today, a deadlock emerged on certain charges. Judge Failla promptly gave instructions for the jury to reexamine. In the event that the deadlock persists, the court will accept a partial verdict, and the government may refile the remaining charges. The case is currently awaiting the jury&apos;s reconsideration.</description>
-      <pubDate>Wed, 06 Aug 2025 14:48:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23442</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Michael Saylor: Received the Most Important Investment Advice to &quot;Buy Bitcoin&quot;</title>
-      <link>https://www.lookonchain.com/feeds/23441</link>
-      <description>On August 6th, the founder of Strategy, Michael Saylor, responded to a community question which inquired, &quot;What is the most crucial investment advice you have ever received?&quot; He replied, &quot;Buy Bitcoin.&quot;</description>
-      <pubDate>Wed, 06 Aug 2025 14:40:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23441</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
