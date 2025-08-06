@@ -5,14 +5,91 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 04:16:03 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 04:16:03 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 05:00:52 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 05:00:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>ABCDE 联创 Du Jun：预计以太坊有望涨至 2 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>ABCDE 联创 Du Jun 在社交媒体发文表示，“公链的三个核心要素为去中心化、不宕机和安全性。除比特币和以太坊外，没有其他公链能够同时满足这三个条件。基于此，预计以太坊价格有望达到 2 万美元。”</description>
+      <pubDate>Wed, 06 Aug 2025 04:51:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>以太坊基金会公布扩展进展：主网 Gas 上限升至 4500 万，目标 1 亿</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据以太坊基金会（Ethereum Foundation）官方披露，以太坊主网在 Berlinterop 活动后将 Gas 上限提升至 4500 万，这是迈向 1 亿 Gas 目标的第一步。此外，所有主要执行层客户端已部署前合并历史过期功能，显著减少节点磁盘使用。以太坊基金会还任命 Marius v...</description>
+      <pubDate>Wed, 06 Aug 2025 04:40:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Cumberland、Abraxas Captital 过去 11 小时内积累超 4.4 万枚 ETH，约 1.5 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 The Data Nerd 监测，10 小时前，Cumberland 从 Coinbase 提取了 36,918 枚 ETH (约 1.3286 亿美元)。4 小时前，Abraxas Captital 继续从 Binance 积累 7,191 枚 ETH (约 2597 万美元)。</description>
+      <pubDate>Wed, 06 Aug 2025 04:36:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>金洲资管推出代币化有限合伙基金，在以太坊链上发行</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据香港信报报道，金洲资产管理有限公司推出全球纽带代币化收入有限合伙基金，这是香港首个获证监会备案的代币化有限合伙基金。该基金在以太坊公链发行，基于 ERC-20 技术标准，结合双登记结构将基金份额同时记录在区块链和香港法律认可的登记簿上。技术合作方 NVT 为该基金提供区块链解决方案，通过其现实世...</description>
+      <pubDate>Wed, 06 Aug 2025 04:35:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼地址向 Kraken 转入 12.5 亿枚 PUMP ，预计亏损近 100 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain 监测，鲸鱼账户 BfL4vh 向 Kraken 转入约 12.5 亿枚 PUMP 代币，价值约 409 万美元。该地址此前通过 5 个钱包地址共使用 500 万 USDC 参与了 PUMP 代币的公开发售，此次出售预计亏损近 100 万美元。</description>
+      <pubDate>Wed, 06 Aug 2025 04:21:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Bitget 推出 VIP 多空争霸交易赛，解锁 100,000 USDT 奖池</title>
+      <link>https://www.techflowpost.com</link>
+      <description>本次活动时间截止 8 月 24 日 23:59（UTC+8）。</description>
+      <pubDate>Wed, 06 Aug 2025 04:18:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>USDJ 协议将于8月31日终止服务，用户需尽快完成资产迁移</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方消息，USDJ 协议将于 2025年8月31日 正式终止服务并启动下架计划。为确保用户资产安全，官方呼吁所有 USDJ 持有者、抵押债仓（CDP）用户及 JustLend DAO 存借用户立即处理相关仓位，或将 USDJ 兑换为 USDD 等稳定代币，避免流动性不足或市场波动风险。本次调整旨...</description>
+      <pubDate>Wed, 06 Aug 2025 04:18:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Arkham：近期 ETF 选择出售 BTC，但比特币财库公司纷纷增持</title>
       <link>https://www.techflowpost.com</link>
@@ -25,7 +102,7 @@
 
     </item>
     <item>
-      <title>Galaxy Digital 3 小时前向币安转入 25 万枚 SOL，价值约 4070 万美</title>
+      <title>Galaxy Digital 3 小时前向币安转入 25 万枚 SOL，价值约 4070 美元</title>
       <link>https://www.techflowpost.com</link>
       <description>据链上分析平台 Lookonchain（@lookonchain）监测，Galaxy Digital 3 小时前解除质押了 25 万枚 SOL，并将其转入币安交易所，价值约 4070 万美元。</description>
       <pubDate>Wed, 06 Aug 2025 04:04:00 +0000</pubDate>
@@ -205,83 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Bitget 行情数据显示，SPARK 上线 Bitget Onchain 后最高涨幅超 700%。</description>
       <pubDate>Wed, 06 Aug 2025 02:19:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>直播交易平台 Sidekick 宣布成立 Sidekick Foundation 并公布代币经济学模型</title>
-      <link>https://www.techflowpost.com</link>
-      <description>K 总供应量为 10 亿枚，初始流通量为 1.11 亿枚（占总量 11.13%）。代币分配情况：生态增长（20%）；长期社区激励（20%）；流动性激励（4%）；基金会（16%）；顾问（5%）；核心贡献者（15%）；投资人（20%）。其中，投资人、顾问与核心贡献者份额将锁仓 12 个月，随后线性解锁...</description>
-      <pubDate>Wed, 06 Aug 2025 01:59:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>中国国家安全部：某境外公司借加密货币扫描收集全球虹膜数据，威胁个人信息及国家安全</title>
-      <link>https://www.techflowpost.com</link>
-      <description>中国国家安全部公众号发文表示：有公开案例显示，某境外公司以发放加密货币代币为噱头，在世界范围内扫描收集用户虹膜信息，并将数据源转移，给个人信息安全甚至国家安全带来威胁。</description>
-      <pubDate>Wed, 06 Aug 2025 01:45:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某用户 6 小时前因签署钓鱼交易损失约 305 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Scam Sniffer 披露，一名用户在 6 小时前因签署钓鱼交易损失价值约 305 万美元的加密资产。</description>
-      <pubDate>Wed, 06 Aug 2025 01:24:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>今日恐慌与贪婪指数降至 54，由「贪婪状态」转为「中性状态」</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Alternative.me 数据，今日加密货币恐慌与贪婪指数降至 54（昨日该指数为 60），表明市场由「贪婪状态」转为「中性状态」。</description>
-      <pubDate>Wed, 06 Aug 2025 01:16:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Ledger 硬件钱包限制导致部分 ADA 持有者无法参与领取 Glacier 空投</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Decrypt 报道，由于 Ledger 硬件钱包软件限制，部分 Cardano 用户无法领取 Midnight Foundation 的 Glacier 空投。Cardano 联合创始人 Charles Hoskinson 解释称，问题出在 Ledger 对 CIP-8 消息签名协议的实现上...</description>
-      <pubDate>Wed, 06 Aug 2025 01:08:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>中国发展出版社出版稳定币科普书《与每个老百姓密切相关的稳定币》</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官网显示，中国发展出版社成立于1989年，是直属于国务院发展研究中心的智库型出版传媒集团。</description>
-      <pubDate>Wed, 06 Aug 2025 01:04:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析师：某实体旗下 4 个钱包过去两天内接收了 10.1 万枚以太坊，价值约 3.64 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，过去两天内，同一实体控制的 4 个多签钱包从 FalconX、Galaxy Digital 和 BitGo 接收了总计 101,131 枚以太坊，价值约 3.64 亿美元。</description>
-      <pubDate>Wed, 06 Aug 2025 00:52:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
