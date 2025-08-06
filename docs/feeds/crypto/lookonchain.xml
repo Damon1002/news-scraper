@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 01:04:29 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 01:04:29 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 03:13:21 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 03:13:21 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,52 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>An entity has recently been accumulating ETH in batches, holding over 100,000 coins in total, with a value of $363.58 million.</title>
-      <link>https://www.lookonchain.com/feeds/23318</link>
-      <description>August 6th. Based on the monitoring of OnchainLens, in the past two days, 4 multi-sig wallets (belonging to the same entity) received 101,131 ETH, which is worth $3.6358 billion, from FalconX, Galaxy Digital, and BitGo.Addresses: 0x55cf01a87ba597ffa6772a0634c30ceec7fce6790x8c6bbdeffbe8fc7c58e920934667c5b74debdc600x86f911deb6bb8ca5c36eddf9ef86a9dc1f6944460xf2a030cd953b4dcad9563f5a1d58bb3342fea458</description>
-      <pubDate>Wed, 06 Aug 2025 00:56:37 +0000</pubDate>
+      <title>Bithumb has added a PROVE/KRW trading pair.</title>
+      <link>https://www.lookonchain.com/feeds/23335</link>
+      <description>August 6th. According to official information, Bithumb has included the PROVE-KRW trading pair. The trading is set to begin on Wednesday, August 6th at 5:00 PM in the local time.</description>
+      <pubDate>Wed, 06 Aug 2025 03:08:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23318</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Yesterday FBTC net outflow was $99.1 million, GBTC net outflow was $19.7 million</title>
-      <link>https://www.lookonchain.com/feeds/23317</link>
-      <description>On August 6th, as per farside monitoring, yesterday FBTC witnessed a net outflow of $99.10 million, and GBTC saw a net outflow of $19.70 million.</description>
-      <pubDate>Wed, 06 Aug 2025 00:48:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23317</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Jupiter Lend&apos;s Lending Protocol will be rolled out in stages, with private testing set to commence soon</title>
-      <link>https://www.lookonchain.com/feeds/23316</link>
-      <description>On August 6th, Jupiter announced that the lending protocol Jupiter Lend will be launched in phases. It will begin with a private beta for waitlisted users starting from today. The official public launch version later this August will provide a Loan-to-Value ratio (LTV) of up to 95%, with close to zero liquidation penalties. There will be multiple vaults and generous Annual Percentage Yields (APY).</description>
-      <pubDate>Wed, 06 Aug 2025 00:40:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23316</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23335</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -71,12 +31,12 @@
 
     </item>
     <item>
-      <title>Yesterday Grayscale ETH saw a net outflow of $13.4 million, while ETHE had a net outflow of $10.9 million.</title>
-      <link>https://www.lookonchain.com/feeds/23314</link>
-      <description>On August 6th, as per farside monitoring, the Grayscale ETH witnessed a net outflow of $13.4 million yesterday. ETHE had a net outflow of $10.9 million. CETH had a net inflow of $3.6 million. And ETHV had a net inflow of $5.2 million.</description>
-      <pubDate>Wed, 06 Aug 2025 00:32:37 +0000</pubDate>
+      <title>Binance Alpha will launch Sidekick (K) on August 8.</title>
+      <link>https://www.lookonchain.com/feeds/23334</link>
+      <description>August 6th: According to official channels, Binance Alpha is set to become the first platform to initiate the launch of Sidekick (K) on August 8th.Users who are eligible can access the Alpha event page once Alpha trading commences and utilize Alpha Points to claim the airdrop. Further details will be provided separately.</description>
+      <pubDate>Wed, 06 Aug 2025 03:08:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23314</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23334</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -85,18 +45,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>Yesterday&apos;s GBTC Net Outflow: $19.7M</title>
-      <link>https://www.lookonchain.com/feeds/23315</link>
-      <description>August 6th. Based on farside monitoring, the net outflow of GBTC yesterday was $19.7 million.</description>
-      <pubDate>Wed, 06 Aug 2025 00:32:37 +0000</pubDate>
+      <title>Or possibly influenced by pump.fun&apos;s official Twitter account&apos;s &quot;Strong Milk&quot; meme, the related meme coin has seen a significant price increase recently.</title>
+      <link>https://www.lookonchain.com/feeds/23333</link>
+      <description>On August 6th, according to GMGN market information, some meme coins in the pump.fun ecosystem have witnessed significant gains recently. These include:TROLL has seen a 298.8% surge in the past week, and its market cap now stands at $171 million;HOUSE has surged by 88.5% in the past week, with a market cap of $25.78 million;neet has increased by 103.8% in the past week, and its market cap is now $16.84 million;BlockBeats&apos; new article today 《PUMP Rises Against the Trend, What Happened in the Meme Launchpad in the Past Two Weeks》 mentioned that the pump.fun official Twitter account posted a picture on July 23rd, which contained multiple meme coins in the pump.fun ecosystem.BlockBeats reminds users that the prices of these tokens are highly volatile, and users should invest cautiously.</description>
+      <pubDate>Wed, 06 Aug 2025 02:56:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23315</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23333</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -105,18 +62,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>CZ Requests Bankruptcy Court to Dismiss $1.76B Lawsuit Filed by FTX Trust</title>
-      <link>https://www.lookonchain.com/feeds/23313</link>
-      <description>On August 6th, CZ has emerged as the latest Binance figure to petition the bankruptcy court to dismiss FTX&apos;s trust accusation. The trust aimed to reclaim $1.76 billion that was inappropriately transferred by Sam Bankman-Fried (SBF). CZ submitted a motion in the Delaware bankruptcy court this Monday, claiming that FTX Trust and FTX Digital Markets Ltd. were unable to prove that he has a &quot;domicile&quot; in Delaware as he is a resident of the UAE and not under the jurisdiction of the state.In the filing, CZ stated: &quot;These accusations have little to do with Delaware or even the U.S. mainland, and the relevant laws do not possess extraterritorial effects, thus they are simply not applicable.&quot;As early as November 2024, FTX Trust and FTX Digital Markets had previously sued Binance and its executives in relation to the July 2021 SBF share buyback agreement. In July of this year, two former Binance executives, Samuel Wenjun Lim and Xiao Dinghua, also requested the court to remove themselves from</description>
-      <pubDate>Wed, 06 Aug 2025 00:32:37 +0000</pubDate>
+      <title>Flow Traders to Serve as Market Maker for Binance&apos;s New Coin PROVE</title>
+      <link>https://www.lookonchain.com/feeds/23332</link>
+      <description>On August 6th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), Flow Traders received 2.5 million PROVE tokens from the project team&apos;s address 14 hours ago. This accounted for 1.28% of the total circulating supply. The tokens have now all been deposited into major CEXs such as Binance, Gate, Kucoin, and Bitvavo.</description>
+      <pubDate>Wed, 06 Aug 2025 02:48:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23313</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23332</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -125,16 +79,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>A Whale Increases Ethereum Short Position to 70,000 ETH, Liquidation Price at $3,686</title>
-      <link>https://www.lookonchain.com/feeds/23312</link>
-      <description>On August 6th, based on the monitoring of @EmberCN, the [Four-time ETH 75% Win Rate Whale] continued to be engaged in shorting ETH this morning: at 6 o&apos;clock, it was still increasing its short position of ETH. Currently, it holds a short position of up to 70,000 ETH (approximately $252 million).Position Details: Shorting 70,000 ETH with a leverage of 15 times, worth $252 million, with an opening price of $3618 and a liquidation price of $3686, and having unrealized gains of more than $1.33 million.</description>
-      <pubDate>Wed, 06 Aug 2025 00:24:37 +0000</pubDate>
+      <title>「Quad-Stack ETH Whale with 75% Win Rate」 has realized a nearly $2.6 million profit.</title>
+      <link>https://www.lookonchain.com/feeds/23331</link>
+      <description>On August 6th, on-chain data indicates that this morning, the &quot;Four-Battles ETH 75% Win Rate Whale&quot; increased its ETH short position to 70,000 ETH (approximately $252 million). Subsequently, its position is now showing a realized profit of $2.59 million. The liquidation price of its short position is $3,698.</description>
+      <pubDate>Wed, 06 Aug 2025 02:41:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23312</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23331</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -147,15 +100,16 @@
       <category>ethereum</category>
       <category>whale</category>
       <category>high-value</category>
+      <category>profit</category>
 
     </item>
     <item>
-      <title>「Insider Trader」 Stops Ethereum Short, Bitcoin Short Liquidation Price at $114,491</title>
-      <link>https://www.lookonchain.com/feeds/23311</link>
-      <description>On August 6th, according to EmberCN&apos;s monitoring, the &quot;insider trader&quot; @qwatio, one hour ago. In order to prevent the BTC short position from being liquidated, he liquidated the ETH short position for stop loss. Currently, he only holds a BTC short position worth $115 million, with a liquidation price at $114,491 and an unrealized profit of more than $600,000. However, the liquidation price is only $400 away from the current BTC price.</description>
-      <pubDate>Wed, 06 Aug 2025 00:16:37 +0000</pubDate>
+      <title>Analysis: SEC Chair&apos;s &quot;Project Crypto&quot; Encompasses Multiple Key Opportunities, Yet to be Fully Priced</title>
+      <link>https://www.lookonchain.com/feeds/23330</link>
+      <description>On August 6th, Matt Hougan, the Chief Investment Officer of Bitwise, stated that the &quot;Project Crypto&quot; speech by SEC Chair Atkins is a &quot;roadmap for investment in the next five years.&quot; He pointed out three key opportunities: Ethereum/L1, super apps like Coinbase, and DeFi protocols. The speech mainly focused on public blockchains such as Ethereum.Atkins believes that all assets - stocks, bonds, the US dollar, etc. - will eventually migrate to public blockchains; DeFi will play a crucial role in the future; crypto assets and blockchain can create exciting new business models; the main obstacle to this &quot;revolution&quot; was a hostile regulatory environment, which has now completely reversed.Matt Hougan mentioned three immediate investment opportunities that stand out:The first and most obvious opportunity is to invest in Ethereum and other first-layer blockchains that support stablecoins and tokenization.The second is Coinbase, Robinhood, and other &quot;super apps.&quot; He boldly predicted that o</description>
+      <pubDate>Wed, 06 Aug 2025 02:33:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23311</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23330</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -164,20 +118,51 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>U.S. DOGE Department Employee Attacked, Trump Calls for Legislation to Prosecute Attackers</title>
+      <link>https://www.lookonchain.com/feeds/23329</link>
+      <description>August 6th. As per the police in Washington D.C., a 19-year-old individual named &quot;Big Balls&quot; was assaulted in Washington over the weekend. He played a crucial role in the &quot;Department of Government Efficiency&quot; (DOGE) initiative aimed at downsizing the government and is currently still in government service.A police report indicates that around 3 a.m. on Sunday, Edward Coristine was attacked by approximately 10 teenagers near Dupont Circle.Trump posted a photo on his social media platform, showing Coristine without a shirt and with what seemed to be blood on his face, body, and pants. He called for a change in the law so that the teenagers who attacked him could be prosecuted as adults. He wrote: &quot;Perhaps this should have been done a long time ago, so that this remarkable young man, as well as many others, would not have to endure the terror of violent crime.&quot; (Kryptonite)</description>
+      <pubDate>Wed, 06 Aug 2025 02:17:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23329</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Hyperliquid Whale Continues Withdrawal, Over 36 million USDC Flowed Out in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/23327</link>
+      <description>On August 6th, according to the monitoring of HyperInsight accessible at https://app.hyperliquid.xyz/join/NTOD, while the market was experiencing fluctuations, whale addresses were still speeding up the withdrawal of USDC. In the past 24 hours, the total withdrawal volume exceeded 36 million US dollars. The whale withdrawal situation has been ongoing for more than three days, including:The whale address starting with 0x2326aD withdrew a total of 10.96 million USDC in the past 24 hours;The whale address starting with 0x5b5d51 made two withdrawals this morning: 8 million USDC and 5 million USDC;The whale address starting with 0xB83DE0 withdrew a total of 14.5 million USDC in the past 24 hours.</description>
+      <pubDate>Wed, 06 Aug 2025 02:16:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23327</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Metamask is planning to partner with Stripe to issue the stablecoin 「Metamask USD」.</title>
-      <link>https://www.lookonchain.com/feeds/23310</link>
-      <description>On August 6th, according to a governance proposal, MetaMask intends to collaborate with Stripe to launch a stablecoin named &quot;MetaMask USD (mmUSD).&quot; This stablecoin will be issued by Stripe but will use the &quot;M^0&quot; network for off-chain issuance and settlement.This stablecoin is designed to be a core asset within the MetaMask ecosystem and will be seamlessly integrated into various MetaMask services. Currently, neither MetaMask nor Stripe has provided official confirmations, and specific details regarding the stablecoin&apos;s structure, release schedule, or regulatory aspects are limited.</description>
-      <pubDate>Wed, 06 Aug 2025 00:08:37 +0000</pubDate>
+      <title>Sidekick establishes Foundation and issues native token K</title>
+      <link>https://www.lookonchain.com/feeds/23328</link>
+      <description>On August 6th, the Web3 live trading platform Sidekick announced the founding of the Sidekick Foundation and the issuance of its native token K. This token enables real-time interaction on the platform, creator monetization, and community engagement. It allows for seamless value exchange among hosts, viewers, and partners, facilitating various functions such as live gifting, staking, premium access, rewards, and decentralized governance.The tokenomics of the K token has a total token supply of 1 billion, which is distributed as follows: Ecosystem Growth (20%), Long-Term Community Incentives (20%), Liquidity Incentives (4%), Foundation (16%), Advisors (5%), Core Contributors (15%), Investors (20%).The initial circulating supply allocation of the tokens is 111,333,333 K (11.13% of the total token supply), including: Ecosystem Growth (6.883%), Long-Term Community Incentives (1.5%), Liquidity Incentives (2%), Foundation (0.75%).Lock-up Terms: The allocations of Investors, Advisors, a</description>
+      <pubDate>Wed, 06 Aug 2025 02:16:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23310</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23328</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -189,12 +174,12 @@
 
     </item>
     <item>
-      <title>Robinhood Crypto has launched ONDO and FLOKI for US users.</title>
-      <link>https://www.lookonchain.com/feeds/23309</link>
-      <description>On August 6th, Robinhood Crypto made ONDO and FLOKI available to U.S. users in an effort to further enhance the platform&apos;s asset offerings.</description>
-      <pubDate>Wed, 06 Aug 2025 00:08:37 +0000</pubDate>
+      <title>A User Loses Over $3 Million Due to Signing a Phishing Transaction</title>
+      <link>https://www.lookonchain.com/feeds/23326</link>
+      <description>On August 6th, as per the monitoring of Scam Sniffer, 6 hours prior to this moment, a user suffered a loss of $3.05 million due to signing a phishing transaction.</description>
+      <pubDate>Wed, 06 Aug 2025 02:12:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23309</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23326</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -203,6 +188,7 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
   </channel>
