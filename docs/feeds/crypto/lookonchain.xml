@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 20:32:09 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 20:32:09 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 20:52:15 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 20:52:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,26 +17,9 @@
       <title>Bitlight Labs is pleased to announce that the RGB mainnet is now live, allowing open testing of asset issuance.</title>
       <link>https://www.lookonchain.com/feeds/23464</link>
       <description>On August 7th, the infrastructure developer Bitlight Labs of the RGB Protocol announced that the RGB mainnet is now live. It supports access to the RGB Faucet, enabling the minting of test assets on RGB and the exploration of Bitcoin&apos;s on-chain native smart contract capabilities.</description>
-      <pubDate>Wed, 06 Aug 2025 17:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 17:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23464</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>After the Tornado Cash Case Reached a Partial Settlement, TORN Experienced a Short-Term Drop of Over 18%</title>
-      <link>https://www.lookonchain.com/feeds/23463</link>
-      <description>On August 7th, according to HTX market data, after the &quot;Tornado Cash Partial Settlement&quot;, TORN witnessed a short-term drop of more than 18% and reached $11.</description>
-      <pubDate>Wed, 06 Aug 2025 17:31:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23463</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +34,7 @@
       <title>Whale @ParallelAiRev Tops Hyperliquid Weekly $PUMP Profits With $1.26M Gain</title>
       <link>https://www.lookonchain.com/feeds/23459</link>
       <description>Whale investor @ParallelAiRev is holding a 2.3B $PUMP($7.85M) long position with over $1.26M in unrealized profit — making him the top $PUMP earner on Hyperliquid&apos;s leaderboard over the past week.</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 16:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23459</guid>
       <category>crypto</category>
@@ -68,12 +51,12 @@
 
     </item>
     <item>
-      <title>A certain newly created wallet has accumulated 500 BTC over the past two weeks, totaling $58.3 million in value</title>
-      <link>https://www.lookonchain.com/feeds/23458</link>
-      <description>On July 7th, based on the monitoring of OnchainLens, during the past two weeks, a newly established wallet has accumulated 500 BTC from a cryptocurrency exchange (CEX), with a value of $58.3 million.Address: 14yyRRiEMJ5q5LmDCH4Nf6Emx7UKhoRfxR</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <title>After the Tornado Cash Case Reached a Partial Settlement, TORN Experienced a Short-Term Drop of Over 18%</title>
+      <link>https://www.lookonchain.com/feeds/23463</link>
+      <description>On August 7th, according to HTX market data, after the &quot;Tornado Cash Partial Settlement&quot;, TORN witnessed a short-term drop of more than 18% and reached $11.</description>
+      <pubDate>Wed, 06 Aug 2025 16:51:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23458</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23463</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -82,16 +65,13 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
     <item>
       <title>Vitalik: Ethereum will eventually achieve instant cross-L2 native asset transfers via L1</title>
       <link>https://www.lookonchain.com/feeds/23462</link>
       <description>On August 7th, Vitalik Buterin, the founder of Ethereum, stated in a post that he was very pleased to witness many mainstream Layer 2 solutions entering Stage 1, which is the &quot;limited training rounds&quot;. The next objective is to achieve fast withdrawals through a zero-knowledge proof system. He considers this to be more significant than reaching Stage 2, which is &quot;without training rounds&quot;. Fast withdrawal times are of great importance as they will lower the capital costs for liquidity providers. If the native withdrawal time can be shortened to less than 1 hour in the short term and to 12 seconds in the medium term, Ethereum Layer 1 will further enhance its position as the default platform for issuing assets and as the economic center of the Ethereum ecosystem.For this to be achieved, we need to give up the Optimistic proof system, which essentially requires waiting for several days to make a withdrawal. Historically, zero-knowledge proof technology was immature and costly, making the</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 16:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23462</guid>
       <category>crypto</category>
@@ -111,7 +91,7 @@
       <title>Tornado Cash Case Reaches Partial Settlement: Guilty of Operating Unlicensed Money Transmitting Business</title>
       <link>https://www.lookonchain.com/feeds/23461</link>
       <description>On August 7th, during the trial of Roman Storm, the co-founder of Tornado Cash, a partial verdict was reached. The charge of operating an unlicensed money transmitting business was sustained. The charge of money laundering conspiracy remains undetermined. And the third charge (evading sanctions) resulted in an acquittal.Roman Storm stood trial in the federal court of the Southern District of New York. This case could potentially set a legal precedent regarding the extent of responsibility that developers should bear when the decentralized software they created is used illegally. The U.S. prosecutors accused Storm of conspiracy in money laundering, violating U.S. sanction regulations, and operating an unlicensed money transmitting business. If found guilty, he could face a maximum prison term of 40 years.</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 16:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23461</guid>
       <category>crypto</category>
@@ -128,7 +108,7 @@
       <title>Trader Eugene: Halt Trading Stay Away from the Market, Wait for a Clear Case of Mispricing</title>
       <link>https://www.lookonchain.com/feeds/23460</link>
       <description>On August 7th, Trader Eugene Ng Ah Sio declared in a post on his personal platform that he has temporarily ceased trading in order to stay away from the market for a brief period. He is waiting for a clear instance of significant mispricing before coming back. He believes that this is the season to cut down on trading activities.Previously, it was reported that on August 5th, Trader Eugene had already realized profits from his long position in ETH.</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 16:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23460</guid>
       <category>crypto</category>
@@ -142,10 +122,30 @@
 
     </item>
     <item>
+      <title>A certain newly created wallet has accumulated 500 BTC over the past two weeks, totaling $58.3 million in value</title>
+      <link>https://www.lookonchain.com/feeds/23458</link>
+      <description>On July 7th, based on the monitoring of OnchainLens, during the past two weeks, a newly established wallet has accumulated 500 BTC from a cryptocurrency exchange (CEX), with a value of $58.3 million.Address: 14yyRRiEMJ5q5LmDCH4Nf6Emx7UKhoRfxR</description>
+      <pubDate>Wed, 06 Aug 2025 15:51:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23458</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The three major U.S. stock indexes extended their gains, with the Nasdaq rising over 1%.</title>
       <link>https://www.lookonchain.com/feeds/23457</link>
       <description>On August 7th, based on the market data from RockFlow, the three major U.S. stock indexes witnessed an extension of their gains. The Nasdaq increased by more than 1%, the S&amp;P 500 rose by 0.76%, and the Dow went up by 0.32%.</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23457</guid>
       <category>crypto</category>
@@ -162,7 +162,7 @@
       <title>MYX Finance Issues Official Clarification on 3% &apos;Binance Wallet Airdrop&apos; Distribution</title>
       <link>https://www.lookonchain.com/feeds/23456</link>
       <description>August 7th: MYX Finance has issued an official clarification regarding the distribution of a 3% &quot;Binance Wallet Airdrop.&quot; MYX witnessed a total monthly unlock of 3.9% on August 6th. MYX Finance stated that this distribution is distinct and not readily representable in a traditional token unlock schedule. The specific details are as follows:The full 3% of the tokens will be set aside for MYX and Binance Wallet&apos;s joint community reward program;These tokens will be specifically designated for future community activities and will not be immediately sold on the open market;This batch of tokens was unlocked on August 5th with 1.5%, and the remaining 1.5% will be unlocked on November 6, 2025. After each unlock, Binance Wallet will have the autonomy to determine how to deploy these tokens in community activities. Prior to officially announcing such activities, the unlocked tokens will be held in a designated reserve wallet and will not enter circulation.</description>
-      <pubDate>Wed, 06 Aug 2025 16:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23456</guid>
       <category>crypto</category>
@@ -179,7 +179,7 @@
       <title>LookOnChain: Coinbase to List DYDX</title>
       <link>https://www.lookonchain.com/feeds/23455</link>
       <description>On August 6th, Coinbase will list DYDX. Provided that liquidity conditions are fulfilled, trading will commence on August 7, 2025, at 9:00 AM Pacific Time or at a later time.</description>
-      <pubDate>Wed, 06 Aug 2025 15:31:16 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 15:51:23 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23455</guid>
       <category>crypto</category>
