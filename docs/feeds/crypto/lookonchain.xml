@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Aug 2025 07:16:25 +0000</lastBuildDate>
-    <pubDate>Wed, 06 Aug 2025 07:16:25 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 07:44:03 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 07:44:03 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,137 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance Alpha will list Fireverse (FIR), with an airdrop eligibility threshold of 200 points.</title>
+      <link>https://www.lookonchain.com/feeds/23378</link>
+      <description>On August 6th, as per official information, Binance Alpha is the inaugural platform to list Fireverse (FIR) for trading. The Alpha trading will officially commence on August 6, 2025, at 19:00 (UTC+8).Once trading gets underway, users who hold at least 200 Binance Alpha points can obtain a first-served, first-come basis airdrop of 1000 FIR tokens. In case the reward pool is not completely claimed, the points threshold will automatically decrease by 15 points every hour.Claiming the airdrop will consume 15 Binance Alpha points. Users must confirm the receipt on the Alpha event page within 24 hours; otherwise, it will be regarded as a waiver of the airdrop.</description>
+      <pubDate>Wed, 06 Aug 2025 07:40:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23378</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Satsuma Technology has raised $217.6 million to establish a Bitcoin Treasury.</title>
+      <link>https://www.lookonchain.com/feeds/23377</link>
+      <description>On August 6th, the London-based artificial intelligence company Satsuma Technology concluded a financing round worth ￡163.7 million ($217.6 million), surpassing the target by 64%. Investors include ParaFi, Pantera, DCG, Kraken, and others.This funding round accepted 1,097 bitcoins, advancing its Bitcoin treasury strategy. Its current total bitcoin holdings are expected to reach 1,125.85 coins.</description>
+      <pubDate>Wed, 06 Aug 2025 07:33:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23377</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>ZAN Deeply Collaborates with ZK Technology Company StarkWare</title>
+      <link>https://www.lookonchain.com/feeds/23376</link>
+      <description>August 6th, Lately, ZAN (Powered by AntChain OpenLabs) has gained significant recognition from the Starknet Foundation Board due to its robust technical capabilities and product strength in the domain of &quot;Hardware-Software Integrated ZK Acceleration Service.&quot; StarkWare is a globally renowned blockchain infrastructure company that is based on ZK technology.This collaboration centers around the advanced Stwo proving system. By leveraging ZAN&apos;s ZK acceleration service, clients can achieve a 37x boost in proof generation speed. Through this in-depth collaboration with the Starknet Foundation, ZAN will bring more business value to all ZK ecosystem projects that adopt the Stwo proving system and ensure that ZK acceleration technology continues to have a sustained technical influence on the industry.</description>
+      <pubDate>Wed, 06 Aug 2025 07:33:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23376</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance to Delist DEFIUSDT and MEMEFI U Based Perpetual Contracts</title>
+      <link>https://www.lookonchain.com/feeds/23375</link>
+      <description>On August 6th, according to official channels, Binance will carry out automatic liquidation of the DEFIUSDT and MEMEFIU linear perpetual contracts at 17:00 (UTC+8) on August 11, 2025. After the liquidation is completed, the aforementioned linear perpetual contract trading pairs will be delisted.</description>
+      <pubDate>Wed, 06 Aug 2025 07:32:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23375</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The amount of ETH queued for exiting the Ethereum PoS network has decreased for four consecutive days, with the current value at approximately $1.612 billion worth of ETH in the exit queue.</title>
+      <link>https://www.lookonchain.com/feeds/23374</link>
+      <description>On August 6th, based on the data from the Validator Queue tracking website validatorqueue, it is reported that the current exit queue of the Ethereum PoS network is 443,164 ETH, which is approximately worth $16.12 billion. The amount of queued ETH has been decreasing continuously for 4 days, and the exit waiting time is approximately 7 days and 17 hours.At the same time, the amount of ETH waiting to join the network is approximately 95,626 ETH, worth approximately $3.47 billion, with an expected activation delay of about 1 day and 16 hours.Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may have chosen to cash out after Ethereum rebounded by more than 160% from its April low, resulting in a surge in the exit queue. On the other hand, new funds being deposited driven by regulatory optimism and institutional demand are also boosting the entry queue. Listed companies such as SharpLink Gaming and BitMine Imm</description>
+      <pubDate>Wed, 06 Aug 2025 07:25:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23374</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Pendle has launched the funding rate trading platform Boros, which debuted on Arbitrum.</title>
+      <link>https://www.lookonchain.com/feeds/23373</link>
+      <description>On August 6th, Pendle launched the funding rate trading platform Boros on the Arbitrum network. This platform enables users to trade the on-chain funding rate yield of BTC and ETH. Currently, Boros supports trading the funding rates of BTCUSDT and ETHUSDT on the Binance platform and is planned to gradually expand to more assets (such as SOLUSDT, BNBUSDT), more platforms (such as Hyperliquid, Bybit), and more expiry time products in the future.The platform initially focuses on the funding rate market of Binance&apos;s BTCUSDT and ETHUSDT perpetual contracts, with the following limits: a maximum open interest of $10 million in nominal value per trading pair; an initial leverage limit of 1.2x. Users can hedge or speculate on future funding rate changes by buying and selling Yield Units (YU), similar to Pendle&apos;s YT mechanism.Boros aims to become the core platform in the Pendle ecosystem dedicated to yield trading and plans to integrate RWA yield products like bonds and stocks later to build</description>
+      <pubDate>Wed, 06 Aug 2025 07:18:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23373</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitunix Analyst: US Inflation Data Politicization Concerns Rise, BTC Short-term Support Pressure Evident, Suggests Monitoring 112,000 Range</title>
+      <link>https://www.lookonchain.com/feeds/23372</link>
+      <description>August 6: President Trump dismissed the Commissioner of the BLS, which has raised concerns in the market regarding the politicization of inflation data. The $2.1 trillion TIPS market is highly dependent on the credibility of CPI data. If trust is undermined, it may become the first default point in the US Treasury market. TIPS have shown strong performance this year, indicating persistent high inflation expectations, and the market is closely focused on next week&apos;s CPI report. Short-term US Treasury bond yields have dropped significantly as investors anticipate the early rate cut by the Fed.In the cryptocurrency field, BTC&apos;s recent trend has been affected by macroeconomic uncertainty. 112,000 serves as the short-term support. If it breaks below this level, it could trigger a cascading liquidation, maintaining significant short-term pressure.Bitunix analyst&apos;s recommendation:The credibility of US inflation data is wavering, intensifying the market&apos;s risk-off sentiment. Short-term BT</description>
+      <pubDate>Wed, 06 Aug 2025 07:18:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23372</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Matrixport: Bitcoin Price Stays Bullish as Long as It&apos;s Above $105,696</title>
       <link>https://www.lookonchain.com/feeds/23371</link>
       <description>On August 6th, Matrixport released today&apos;s market analysis which stated, &quot;At the present stage, it might still be too early and even somewhat pessimistic to determine whether Bitcoin will decline back to its 21-week moving average of $105,696. Nevertheless, we still regard this level as a reference for the key trend: if the price is above this level, the overall trend remains bullish; once it breaks below, we need to be vigilant against a bear market signal.&quot;In the past three weeks, we have maintained a more cautious attitude in our weekly reports. During this period, Bitcoin has undergone a pullback, although market sentiment remains relatively optimistic.In the short term, some funds may flow back from high-volatility alternative coins to Bitcoin, which provides some support to the price. However, we still advise investors to remain cautious and control their risk exposure. This judgment has been made multiple times in the past few weeks and is still applicable today.</description>
-      <pubDate>Wed, 06 Aug 2025 07:09:32 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 07:10:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23371</guid>
       <category>crypto</category>
@@ -37,7 +164,7 @@
       <title>Musk: Grok2 will be open sourced next week</title>
       <link>https://www.lookonchain.com/feeds/23370</link>
       <description>On August 6th, Musk tweeted, &quot;It is time for us to make Grok 2 open source, and this will be accomplished next week.&quot;</description>
-      <pubDate>Wed, 06 Aug 2025 07:09:32 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 07:09:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23370</guid>
       <category>crypto</category>
@@ -54,7 +181,7 @@
       <title>「Quad-Shorting ETH Whale with 75% Win Rate」: 70,000 ETH Short Position Goes from Profit to Loss, Currently at Around $840,000 Unrealized Loss</title>
       <link>https://www.lookonchain.com/feeds/23369</link>
       <description>On August 6th, according to the monitoring of HyperInsight accessible through the link https://app.hyperliquid.xyz/join/NTOD, the &quot;Four-Battle ETH 75% Win Rate Whale&quot; is currently holding a short position of 70,000 ETH (with a nominal value of approximately $254 million), having an opening price of $3,618.3 and a liquidation price of $3,698.29.This whale&apos;s short position in ETH has witnessed a change from a floating profit of $12.25 million to a floating loss of $840,000.</description>
-      <pubDate>Wed, 06 Aug 2025 06:48:32 +0000</pubDate>
+      <pubDate>Wed, 06 Aug 2025 06:48:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23369</guid>
       <category>crypto</category>
@@ -70,133 +197,6 @@
       <category>whale</category>
       <category>high-value</category>
       <category>profit</category>
-
-    </item>
-    <item>
-      <title>H100 Group Increases Holdings Again by 60.6 BTC, Bringing Total Holdings to 763.2 BTC</title>
-      <link>https://www.lookonchain.com/feeds/23368</link>
-      <description>On August 6th, the Swedish listed company H100 Group announced that they had once again increased their holdings by 60.6 BTC, and their total holdings had reached 763.2 BTC.</description>
-      <pubDate>Wed, 06 Aug 2025 06:40:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23368</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Shitcoin Season Index Drops to 38</title>
-      <link>https://www.lookonchain.com/feeds/23367</link>
-      <description>On August 6th, as per Coinmarketcap data, the Altcoin Season Index has decreased to 38 (from 42 yesterday). This index implies that among the top 100 cryptocurrencies by market capitalization, approximately 38 projects have achieved higher price appreciation than Bitcoin over the past 90 days.Note: The CMC Altcoin Season Index is a real-time indicator formulated to assess whether the cryptocurrency market is currently in an altcoin-dominated season. The index is based on the performance of the top 100 altcoins in relation to Bitcoin over the past 90 days.</description>
-      <pubDate>Wed, 06 Aug 2025 06:32:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23367</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitget Launchpool Project TOWNS is now open for staking, with BGB locked and 16.34 million TOWNS unlocked.</title>
-      <link>https://www.lookonchain.com/feeds/23366</link>
-      <description>Update: On August 6th, the current Launchpool project of Bitget, Towns Protocol (TOWNS), is now open for participation. By staking BGB, users can unlock 16,340,000 TOWNS. The staking period ends at 14:00 (UTC+8) on August 10th.This round of Launchpool has opened a total of 2 staking pools, including:BGB Staking Pool· Airdrop Allocation: 15,215,000 TOWNS· VIP User Staking Limit: 50,000 BGB· Regular User Staking Limit: 5,000 BGBTOWNS Staking Pool· Airdrop Allocation: 1,125,000 TOWNS· Individual Staking Limit: 11,254,000 TOWNS</description>
-      <pubDate>Wed, 06 Aug 2025 06:16:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23366</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bybit Co-CEO Helen Hai and Spot Lead Emily Bao Join Mantle as Key Advisors</title>
-      <link>https://www.lookonchain.com/feeds/23365</link>
-      <description>On August 6th, according to an official announcement, Mantle Network announced that Helen Liu, the co-CEO of Bybit, and Emily Bao, the current Spot Business Lead of Bybit, have joined as key advisors to the Mantle ecosystem. This move is regarded as an important step in driving the expansion of the ecosystem and strategic realignment.Helen Liu previously worked at Nokia and Microsoft and led Bybit&apos;s global business expansion, bringing rich experience in operations and technical deployment. Emily Bao is the founder of ByReal and has been committed to bridging real-world assets with on-chain execution for a long time. She has a deep background in market design and ecosystem architecture.Mantle stated that the addition of these two executives will help strengthen the collaboration with Bybit, drive the strategic transition of CEX to Web3, and further enhance Mantle&apos;s execution capabilities in DeFi, ecosystem partnerships, and infrastructure development.</description>
-      <pubDate>Wed, 06 Aug 2025 06:16:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23365</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>UK-listed company Vaultz Capital increases its Bitcoin holdings to 47.85 BTC</title>
-      <link>https://www.lookonchain.com/feeds/23364</link>
-      <description>On August 6th, the publicly listed company Vaultz Capital in the UK purchased 47.85 bitcoins, increasing its total bitcoin holdings to 117.85 bitcoins.</description>
-      <pubDate>Wed, 06 Aug 2025 06:16:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23364</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Smarter Web Company issues a $21 million Bitcoin-denominated convertible bond, with institutional investor TOBAM subscribing in full.</title>
-      <link>https://www.lookonchain.com/feeds/23363</link>
-      <description>August 6th. As per official channels, the Smarter Web Company has issued a convertible bond worth $21 million, which is priced in Bitcoin. This bond has been fully subscribed by the institutional investor TOBAM.It is reported that this zero-coupon bond enables conversion to stock at a 5% premium. It also incorporates Bitcoin-based downside protection and restricts the proportion of purchased Bitcoin to be within 30%. This represents the first such financing transaction in the UK market.</description>
-      <pubDate>Wed, 06 Aug 2025 06:15:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23363</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>LD Capital Founder James: Expecting a rate cut rally to start after mid-August, all recent pullbacks have been buying opportunities</title>
-      <link>https://www.lookonchain.com/feeds/23362</link>
-      <description>On August 6th, the founder of LD Capital, Yi Lihua, stated that due to factors such as the U.S. stock market and tariffs, ETH had experienced a period of turmoil. It is expected that after mid-August, it will begin to see a market driven by the anticipation of a September rate cut. The bullish trend is undeniable, and all recent pullbacks have been buying opportunities.</description>
-      <pubDate>Wed, 06 Aug 2025 06:15:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23362</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
