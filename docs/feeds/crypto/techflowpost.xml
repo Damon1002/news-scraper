@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 11:49:54 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 11:49:54 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 12:01:29 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 12:01:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Bitget 上线 GHO（GHO） 现货交易</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Bitget 在创新区上线 GHO（GHO）。交易通道现已开放，提现通道将于 8 月 8 日 20:00（UTC+8）开放。</description>
+      <pubDate>Thu, 07 Aug 2025 11:59:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>慢雾：加密货币钱包解决方案 HashiCorp Vault 被发现 0-Day 漏洞</title>
+      <link>https://www.techflowpost.com</link>
+      <description>慢雾首席信息安全官 23pds 发文表示，加密货币钱包解决方案 HashiCorp Vault 被发现 0-Day 漏洞，涉及身份验证和授权、远程代码执行等方面。其中部分漏洞可绕过锁定与多因素认证保护，甚至允许攻击者实现远程代码执行（RCE），对基础设施安全构成严重威胁。Cyata 团队已与 Ha...</description>
+      <pubDate>Thu, 07 Aug 2025 11:57:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>美国财长贝森特：我们已经开始了美联储主席的面试流程</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>马斯克发文表示，Grok Imagine 视频生成现已在 Android 上推出。</description>
       <pubDate>Thu, 07 Aug 2025 09:05:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>诈骗者利用AI生成视频推广恶意智能合约，盗取超100万美元加密资产</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据CoinDesk报道，安全机构SentinelLABS最新报告显示，一批诈骗者通过部署伪装成最大可提取价值（MEV）交易机器人的恶意智能合约，已成功盗取超过100万美元加密资产。攻击者利用人工智能生成的YouTube视频教程和经过混淆的智能合约代码实施诈骗。最大的单个攻击钱包地址已获取244.9...</description>
-      <pubDate>Thu, 07 Aug 2025 08:49:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>WLFI宣布推出USD1稳定币积分计划</title>
-      <link>https://www.techflowpost.com</link>
-      <description>WLFI今日宣布将推出USD1稳定币积分计划，该计划初期将与特定加密货币交易所合作。根据计划，用户可通过在合作交易所进行USD1交易对交易、持有USD1余额以及参与质押等方式获取积分。此举旨在激励稳定币使用者对加密货币生态的贡献。具体积分规则将由各合作方陆续公布。</description>
-      <pubDate>Thu, 07 Aug 2025 08:35:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
