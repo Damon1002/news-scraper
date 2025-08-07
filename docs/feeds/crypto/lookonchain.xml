@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 15:36:08 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 15:36:08 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 15:53:04 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 15:53:04 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>Circle to Issue an Additional 50 Million USDC</title>
       <link>https://www.lookonchain.com/feeds/23597</link>
       <description>On August 7th, based on on-chain data, Circle (USDC Treasury) minted an extra 50 million USDC on the Ethereum network at 23:16 Beijing time.</description>
-      <pubDate>Thu, 07 Aug 2025 15:32:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 15:32:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23597</guid>
       <category>crypto</category>
@@ -35,7 +35,7 @@
       <title>Animoca Brands partners with ProvLabs to create cross-chain insurance vault marketplace NUVA</title>
       <link>https://www.lookonchain.com/feeds/23596</link>
       <description>On August 7th, as per official information, Animoca Brands and Provenance Blockchain Labs (ProvLabs) have announced a strategic partnership today. The two parties are set to jointly develop NUVA, which is a marketplace that connects Real-World Asset (RWA) issuers with investors.NUVA will transform into a unified and cross-chain-compatible marketplace. Each marketplace within it will possess a distinct yield strategy and risk profile. Investors, encompassing retail investors, institutions, Web3 foundations, and treasuries, will be able to gain access to a wide range of investment products through NUVA in a permissionless manner.</description>
-      <pubDate>Thu, 07 Aug 2025 15:08:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 15:08:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23596</guid>
       <category>crypto</category>
@@ -52,26 +52,9 @@
       <title>Binance will launch YALA and CARV USDT-Margined Perpetual Contracts</title>
       <link>https://www.lookonchain.com/feeds/23595</link>
       <description>On August 7th, as per an official announcement, Binance is going to list YALA and CARV perpetual contracts.</description>
-      <pubDate>Thu, 07 Aug 2025 15:00:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 15:00:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23595</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Bank of Boston: I Still Believe There Will Be One Rate Cut This Year</title>
-      <link>https://www.lookonchain.com/feeds/23594</link>
-      <description>On August 7th, the President of the Boston Fed stated that he still believed there would be one rate cut this year. (Xinhua Finance)</description>
-      <pubDate>Thu, 07 Aug 2025 14:48:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23594</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -86,7 +69,7 @@
       <title>「Insider Trader」 @qwatio Lost Entire $29 Million Profit Plus Principal in Just Six Months</title>
       <link>https://www.lookonchain.com/feeds/23593</link>
       <description>On August 7th, according to Ember Monitor, &quot;@qwatio, the &apos;Insider Trader&apos;,&quot; spent 475,000 USDC today to establish a short position on GMX. This short position was just liquidated. It lasted for six months, with an initial principal of $3 million and a final profit of $29 million. However, in the end, the entire amount was lost.</description>
-      <pubDate>Thu, 07 Aug 2025 14:40:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 14:52:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23593</guid>
       <category>crypto</category>
@@ -102,10 +85,27 @@
 
     </item>
     <item>
+      <title>Federal Reserve Bank of Boston: I Still Believe There Will Be One Rate Cut This Year</title>
+      <link>https://www.lookonchain.com/feeds/23594</link>
+      <description>On August 7th, the President of the Boston Fed stated that he still believed there would be one rate cut this year. (Xinhua Finance)</description>
+      <pubDate>Thu, 07 Aug 2025 14:52:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23594</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Binance: EU Users Can Use Mastercard for Cryptocurrency Withdrawals</title>
       <link>https://www.lookonchain.com/feeds/23592</link>
       <description>On August 7th, Binance officials declared that European users are able to convert their cryptocurrencies into fiat currency and directly deposit/withdraw funds to/from eligible Mastercards.</description>
-      <pubDate>Thu, 07 Aug 2025 14:35:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 14:52:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23592</guid>
       <category>crypto</category>
@@ -119,10 +119,28 @@
 
     </item>
     <item>
+      <title>Paxos Reaches $48.5 Million Settlement with New York Financial Regulators</title>
+      <link>https://www.lookonchain.com/feeds/23589</link>
+      <description>On August 7th, as reported by Reuters, the New York financial regulator announced that Paxos Trust had reached a settlement agreement worth $48.5 million due to shortcomings in anti-money laundering and due diligence regarding Binance.</description>
+      <pubDate>Thu, 07 Aug 2025 13:52:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23589</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Market News: Warle Emerges as a Top Contender for Fed Chair in Trump Administration</title>
       <link>https://www.lookonchain.com/feeds/23591</link>
       <description>On August 7th: Based on market information, Waller has emerged as a leading candidate for the position of Fed Chair within the Trump administration. Waller has had meetings with the Trump team but has not yet met with Trump himself. It is reported that the Trump team is in favor of Waller&apos;s willingness to cut interest rates based on forecasts. (FX168)</description>
-      <pubDate>Thu, 07 Aug 2025 14:35:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 13:52:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23591</guid>
       <category>crypto</category>
@@ -139,7 +157,7 @@
       <title>Plasma will collaborate with Aave to launch the first-ever institution-focused fund for the global financial system</title>
       <link>https://www.lookonchain.com/feeds/23590</link>
       <description>On August 7th, according to official channels, the stablecoin project Plasma announced that it is collaborating with Aave to launch the first and only institutional fund dedicated to the global new financial system.</description>
-      <pubDate>Thu, 07 Aug 2025 14:35:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 13:52:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23590</guid>
       <category>crypto</category>
@@ -153,28 +171,10 @@
 
     </item>
     <item>
-      <title>Paxos Reaches $48.5 Million Settlement with New York Financial Regulators</title>
-      <link>https://www.lookonchain.com/feeds/23589</link>
-      <description>On August 7th, as reported by Reuters, the New York financial regulator announced that Paxos Trust had reached a settlement agreement worth $48.5 million due to shortcomings in anti-money laundering and due diligence regarding Binance.</description>
-      <pubDate>Thu, 07 Aug 2025 13:35:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23589</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Huobi HTX has partnered with World Liberty Financial to become a partner of the USD1 Tokenization Plan</title>
       <link>https://www.lookonchain.com/feeds/23588</link>
       <description>July 8th. As per official channels, Huobi HTX officially declared a partnership with World Liberty Financial (WLFI), emerging as one of the initial key partners within its USD1 Rewards Program. The USD1 Rewards Program stands as the world&apos;s first points reward mechanism tailored explicitly for the stablecoin USD1, whereby users are capable of accruing points through trading, holding, or staking USD1.Huobi HTX Global Advisor Justin Sun expressed, &quot;Huobi HTX is delighted to back the growth of USD1 and participate in this pioneering rewards program. We will persistently drive the extensive adoption of stablecoins by means of secure and reliable trading services, profound strategic partnerships, and forward-looking undertakings.&quot;WLFI was jointly founded by U.S. President Trump and members of his family. USD1 is the compliant stablecoin issued under WLFI and is fully backed by short-term U.S. Treasury bonds, U.S. dollar deposits, and cash equivalents, guaranteeing high transparency and</description>
-      <pubDate>Thu, 07 Aug 2025 13:35:16 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 13:52:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23588</guid>
       <category>crypto</category>
