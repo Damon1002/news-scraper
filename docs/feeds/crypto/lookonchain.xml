@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 01:25:08 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 01:25:08 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 03:23:00 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 03:23:00 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>The creator of Trollface has stated that they had no intention to be involved in a Solana-based meme coin using their work, and they have ruled out the possibility of taking legal action.</title>
-      <link>https://www.lookonchain.com/feeds/23477</link>
-      <description>On August 7th, as per Decrypt, Carlos Ramirez, the creator of the classic internet meme &quot;Trollface,&quot; declared that he has &quot;no intention&quot; of getting involved in a meme coin based on his own creation and launched on the Solana blockchain. This is because the capitalist nature of the crypto industry would impede artistic expression. Nevertheless, he also excluded the possibility of taking legal action against the token, even though he seemed to have promoted another Troll token earlier this year and on Tuesday of this past week.Carlos Ramirez mentioned that he &quot;frequently&quot; receives token allocation invitations from meme token projects related to Trollface and said: &quot;If I can&apos;t sell, the money is of no significance to me; but if I sell, it will cause the market to crash. And truthfully, I don&apos;t want to be held accountable for someone else&apos;s financial ruin.&quot;In the past two weeks, the price of the meme coin Troll has soared by over 1,050%, with its market capitalization rising from $16.1</description>
-      <pubDate>Thu, 07 Aug 2025 01:16:16 +0000</pubDate>
+      <title>Aave Protocol Surpasses $60 Billion in Total Deposits, Reaching All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/23498</link>
+      <description>On August 7th, according to an official statement, the total value locked in the decentralized lending protocol Aave has reached $60 billion, setting a new all-time high for the protocol.</description>
+      <pubDate>Thu, 07 Aug 2025 03:16:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23477</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23498</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,56 +28,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the number of transactions on the Ethereum network reached 1.87 million, nearing an all-time high.</title>
-      <link>https://www.lookonchain.com/feeds/23476</link>
-      <description>On August 7th, according to Etherscan data, the daily transaction volume on the Ethereum network yesterday climbed to 1.87 million transactions, nearing the all-time high of 1.96 million transactions set on January 14, 2024.Nansen&apos;s Senior Research Analyst, Jake Kenni, stated that this significant increase in transactions was primarily driven by the elevated volume of stablecoins like USDC, Tether, and the decentralized exchange Uniswap. Sara Gherghelas, DappRadar&apos;s Senior Analyst, pointed out that the passage of the &quot;GENIUS Act&quot; established a legal framework for U.S. stablecoin operations, thereby enhancing market confidence.</description>
-      <pubDate>Thu, 07 Aug 2025 00:56:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23476</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Placeholder Partner: ETH/BTC Exchange Rate Uptrend Appears Unabated</title>
-      <link>https://www.lookonchain.com/feeds/23475</link>
-      <description>On August 7th, Partner Chris Burniske of Placeholder posted on social media, saying, &quot;The uptrend of the ETH/BTC exchange rate appears to have not come to a halt.&quot;</description>
-      <pubDate>Thu, 07 Aug 2025 00:48:16 +0000</pubDate>
+      <title>The latest Federal Reserve report explores using gold reserve valuation gains to fund a Bitcoin strategic reserve.</title>
+      <link>https://www.lookonchain.com/feeds/23499</link>
+      <description>On August 7th, as per Cointelegraph, a recent report from the Federal Reserve delved into the possibility of using the valuation increments from gold reserves to finance the United States&apos; strategic Bitcoin reserve.</description>
+      <pubDate>Thu, 07 Aug 2025 03:16:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23475</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Bitwise CIO: Institutions and Governments are Exploring Incorporating Bitcoin into Reserves; Demand May See Exponential Growth in Early Stages</title>
-      <link>https://www.lookonchain.com/feeds/23474</link>
-      <description>On August 7th, as per Cointelegraph, Matt Hougan, the CIO of Bitwise, declared that institutions and governments are engaged in discussions regarding the incorporation of Bitcoin into their reserves, signifying the nascent stage of exponential demand.</description>
-      <pubDate>Thu, 07 Aug 2025 00:40:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23474</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23499</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -91,30 +51,12 @@
 
     </item>
     <item>
-      <title>In the past 24 hours, the entire network has seen $172 million in total liquidations, with the majority coming from the largest short positions.</title>
-      <link>https://www.lookonchain.com/feeds/23473</link>
-      <description>On August 7th, according to Coinglass data, the total liquidation within the past 24 hours reached $172 million. The total amount of long liquidations was $71.47 million, and the total amount of short liquidations was $101 million.</description>
-      <pubDate>Thu, 07 Aug 2025 00:32:16 +0000</pubDate>
+      <title>Upbit Exchange Daily Trading Volume Drops by Over 10%: PROVE, XRP, ETH Currently Top Three</title>
+      <link>https://www.lookonchain.com/feeds/23497</link>
+      <description>On August 7th, according to CoinGecko data, within the past 24 hours, the trading volume on Upbit decreased to 1.625 billion USD, experiencing a single-day decline of more than 10%. Among them, the new coin pair PROVE/KRW took the lead with a trading volume of 18.1%, and the remaining top five were: XRP, ETH, BTC, ENA.</description>
+      <pubDate>Thu, 07 Aug 2025 03:08:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23473</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「Quad-Short ETH Whale」 with a 75% win rate narrowly avoided liquidation with a 14,000 ETH position. After adding more collateral, the liquidation price increased from $3699 to $3724.</title>
-      <link>https://www.lookonchain.com/feeds/23472</link>
-      <description>On August 7th, as monitored by on-chain analyst Yu Jin, with less than $1 remaining, the &quot;Four Battles ETH 75% Win Rate Whale&quot; was at risk of being liquidated, with a forced settlement of 14,000 ETH.At 2 o&apos;clock in the morning, the price of ETH reached a high of $3,698.8, while the liquidation price of the whale&apos;s 70,000 ETH short position was at $3,699. As long as it did not rise by another $1, his position would be liquidated with a forced settlement of 14,000 ETH.Subsequently, he quickly withdrew funds from WhiteBIT to top up his margin, raising the liquidation price from $3,699 to $3,724.</description>
-      <pubDate>Thu, 07 Aug 2025 00:24:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23472</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23497</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -125,38 +67,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>A whale has accumulated a total of 128,204 ETH over the past 3 days, worth $4.645 billion.</title>
-      <link>https://www.lookonchain.com/feeds/23470</link>
-      <description>On August 7th, according to on-chain analyst ChainInfo, a certain whale or institution has been accumulating ETH. It created a wallet through BitGo and has continuously received 27,073 ETH ($97.62 million) from multiple institutional business platforms in the past 20 hours. Currently, within a span of 3 days, this whale has accumulated a total of 128,204 ETH worth $4.645 billion through institutional business platforms such as FalconX, Galaxy Digital, and BitGo.</description>
-      <pubDate>Thu, 07 Aug 2025 00:24:16 +0000</pubDate>
+      <title>Cumulative Profit $9.4M Smart Money Bitcoin Long Position Leveraged 40x, Average Entry Price $114,567</title>
+      <link>https://www.lookonchain.com/feeds/23496</link>
+      <description>On August 7th, based on on-chain information, a whale added more than 40 times long leverage on Bitcoin just 10 minutes ago. Currently, it is holding a position size of 250 BTC with a position value of approximately $28.62 million and an entry price of $114,567.This address has accumulated a profit of $9.4 million on Hyperliquid.</description>
+      <pubDate>Thu, 07 Aug 2025 03:08:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23470</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Parataxis Holdings to Merge with SilverBox Corp IV, Aiming to Raise $640 Million to Establish Bitcoin Treasury Company</title>
-      <link>https://www.lookonchain.com/feeds/23469</link>
-      <description>August 7th. As per The Block, the crypto investment startup Parataxis Holdings declared on Wednesday that it is undergoing a merger with the special purpose acquisition company SilverBox Corp IV in order to raise $640 million for a Bitcoin treasury company that will be listed on the New York Stock Exchange. Once the merger is completed, the new company intends to list on the New York Stock Exchange under the ticker symbol PRTX.The statement indicated, &quot;This business combination will furnish Parataxis Holdings with approximately up to $240 million in funding, with the exact amount hinging on the redemption status of SBXD (SilverBox Corp IV SPAC) shareholders. This encompasses $31 million in equity funding that will be promptly utilized to purchase Bitcoin.&quot;Parataxis also mentioned that it has &quot;entered into a stock purchase agreement&quot; which enables it to &quot;issue and sell up to $400 million in equity,&quot; and further added that these combined measures &quot;could potentially provide a total of</description>
-      <pubDate>Thu, 07 Aug 2025 00:24:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23469</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23496</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -168,32 +87,16 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
+      <category>profit</category>
 
     </item>
     <item>
-      <title>Orca Council Releases Governance Proposal to Buy Back ORCA with up to 55,000 SOL</title>
-      <link>https://www.lookonchain.com/feeds/23471</link>
-      <description>On August 7th, the Orca Council has put forward a governance proposal. It aims to repurchase ORCA by using up to 55,000 SOL and staking it on a validator node. During a 5-day voting period followed by a 2-day cooling-off period, ORCA token holders have the right to submit veto votes. The details of the proposal are as follows:· Fund Size: All SOL and USDC in the treasury wallet. Currently, it is about 55,000 SOL and 400,000 USDC.· Execution Plan: All SOL in the treasury wallet will first be staked on an Orca validator node. Then, it will be withdrawn periodically as needed to implement the Orca buyback plan. The plan will be carried out on a decentralized exchange or in cooperation with market makers and will last for 24 months. The daily buyback cap is 2% of ORCA&apos;s 30-day average trading volume to minimize market impact.· Storage and Use of Buyback Tokens: The repurchased ORCA tokens will be held in a multisig DAO treasury wallet. The Council plans to either burn these tokens to</description>
-      <pubDate>Thu, 07 Aug 2025 00:24:16 +0000</pubDate>
+      <title>In the past two days, the BlackRock Ethereum ETF has experienced a daily trading volume peak followed by a decrease of over 50%.</title>
+      <link>https://www.lookonchain.com/feeds/23495</link>
+      <description>On August 7th, according to Trader T data, the daily trading volume of the Bitwise Ethereum Spot ETF (ETHA) yesterday dropped to 600 million U.S. dollars, which is a decrease of more than 50% from the previous week&apos;s high of 1.4 billion U.S. dollars. Correspondingly, the net inflow of ETHA in the past two days has also shown a declining trend along with the trading volume.</description>
+      <pubDate>Thu, 07 Aug 2025 02:56:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23471</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Standard Chartered: Ethereum Treasury Company Now &apos;Very Investible,&apos; Superior to U.S. Spot Ethereum ETF</title>
-      <link>https://www.lookonchain.com/feeds/23468</link>
-      <description>On August 7th, as reported by The Block, Geoffrey Kendrick, the Global Head of Digital Assets Research at Standard Chartered Bank, stated that Ethereum Treasury Companies are currently &quot;very worthy of investment&quot; and are more attractive to investors compared to a U.S. spot Ethereum ETF. The Net Asset Value (NAV) multiple of Ethereum Treasury Companies, which is the market cap divided by the held ETH value, is currently &quot;starting to normalize&quot; and is expected to remain above 1, making it a better investment target than a U.S. spot ETH ETF. Kendrick said: &quot;I see no reason why the NAV multiple should be below 1.0, as I believe these companies present investors with a regulatory arbitrage opportunity.&quot; With the normalization of the NAV multiple, Ethereum Treasury Companies can provide better opportunities for Ethereum price appreciation, staking rewards, and per-ETH growth compared to a U.S. spot ETH ETF, which currently cannot participate in staking or decentralized finance (DeFi).Kendr</description>
-      <pubDate>Wed, 06 Aug 2025 23:24:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23468</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23495</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -204,6 +107,92 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Meme Coin TROLL Prototype Author: No intention to participate in any meme coin based on their work, nor will take any legal action</title>
+      <link>https://www.lookonchain.com/feeds/23494</link>
+      <description>On August 7th, as per the report by Decrypt, Carlos Ramirez (also known as Whynne, the creator of Trollface) stated in his first interview in a decade that he &quot;unintentionally&quot; got entangled in the surging Solana meme coin based on his creation. This was because the capitalist nature of cryptocurrency would interfere with artistic expression.Whynne mentioned that he &quot;constantly&quot; receives tokens related to the Trollface meme coin. He has no intention of participating and will not take legal action against the rising Troll meme coin. In the past two weeks, the market value of the meme coin TROLL has surged by more than 1050%.</description>
+      <pubDate>Thu, 07 Aug 2025 02:49:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23494</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Scam Sniffer: Top-Ranked &quot;DappRadar&quot; Phishing Site in Bing Search</title>
+      <link>https://www.lookonchain.com/feeds/23493</link>
+      <description>On August 7th, Scam Sniffer tweeted to give a reminder that a phishing website for &quot;DappRadar&quot; is ranking at the top on the Bing search engine. Users are advised to verify the URL.</description>
+      <pubDate>Thu, 07 Aug 2025 02:48:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23493</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>SEC Commissioner: New Liquidity Pledge Statement May Not Reflect Actual Circumstances</title>
+      <link>https://www.lookonchain.com/feeds/23492</link>
+      <description>On August 7th, Caroline Crenshaw, a commissioner of the Securities and Exchange Commission (SEC), published a statement on the SEC&apos;s website. She stated that the new liquidity mining guidance did not clarify the application of federal securities laws to crypto assets and instead increased confusion. This statement is based on a series of untested industry assumptions, and the legal conclusions only apply if these assumptions are true.Earlier, the SEC issued a statement regarding liquidity mining activities, clearly stating that liquidity mining activities are not regarded as securities. The SEC stated that participants in liquidity mining activities do not need to register transactions with the Securities and Exchange Commission under the Securities Act, nor do they need to comply with the Securities Act&apos;s registration exemption requirements for these liquidity mining activities.</description>
+      <pubDate>Thu, 07 Aug 2025 02:41:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23492</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Liquidity Staking Protocol Soars as RPL Surges Over 19% in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/23491</link>
+      <description>On August 7th, according to HTX market data, there was a general increase in prices in today&apos;s liquidity staking protocols. These include:The price of RPL increased by 19.2% in the last 24 hours and is currently trading at $7.98.The price of SWELL increased by 18.5% in the last 24 hours and is currently trading at $0.01.The price of LDO increased by 4.4% in the last 24 hours and is currently trading at $0.9364.In previous news, the US SEC has clarified the non-securities nature of liquidity staking.</description>
+      <pubDate>Thu, 07 Aug 2025 02:40:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23491</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>China&apos;s Xiangyang City cracked a case of transferring illegal funds using cryptocurrency, and the defendant was sentenced to two years and six months to three years in prison.</title>
+      <link>https://www.lookonchain.com/feeds/23490</link>
+      <description>July 7th. Recently, the Procuratorate of Baokang County, Xiangyang City, Hubei Province, China, initiated a public prosecution. The local court sentenced five defendants, Yao, Yang, Liu (A), Qiao, and Liu (B), to imprisonment ranging from 2 years and 6 months to 3 years for the crime of using virtual currency to transfer illegal funds to conceal and disguise the proceeds of crime. They were each fined between 5,000 yuan and 18,000 yuan.Starting from April 2024, Yang, Yao, Liu (A), and others formed a group chat through overseas messaging applications. They were aware that the upstream funds might be proceeds of illegal activities such as telecommunications fraud. They used Tether transactions to assist the upstream in transferring illegal crime funds. The group had a clear division of labor: Yang was responsible for providing funds, Yao and Liu (A) coordinated with the upstream fraudsters to receive &quot;cash-out&quot; instructions. Qiao, Liu (B), and other &quot;drivers&quot; then went to designated l</description>
+      <pubDate>Thu, 07 Aug 2025 02:33:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23490</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>transfer</category>
 
     </item>
   </channel>
