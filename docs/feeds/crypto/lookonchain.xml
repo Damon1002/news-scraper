@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 03:23:00 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 03:23:00 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 04:29:08 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 04:29:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Aave Protocol Surpasses $60 Billion in Total Deposits, Reaching All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/23498</link>
-      <description>On August 7th, according to an official statement, the total value locked in the decentralized lending protocol Aave has reached $60 billion, setting a new all-time high for the protocol.</description>
-      <pubDate>Thu, 07 Aug 2025 03:16:07 +0000</pubDate>
+      <title>Phishing Shield: The top result on Google search for &quot;Aave&quot; is a phishing website</title>
+      <link>https://www.lookonchain.com/feeds/23510</link>
+      <description>On August 7th, as monitored by PeckShield, a phishing advertisement imitating the decentralized lending protocol Aave showed up as the top result in Google search results. It is advised that users refrain from interacting with it. It is recommended that when visiting Web3 sites, users always verify the authenticity of the website to avoid phishing attacks.</description>
+      <pubDate>Thu, 07 Aug 2025 04:25:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23498</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23510</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,16 +28,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>The latest Federal Reserve report explores using gold reserve valuation gains to fund a Bitcoin strategic reserve.</title>
-      <link>https://www.lookonchain.com/feeds/23499</link>
-      <description>On August 7th, as per Cointelegraph, a recent report from the Federal Reserve delved into the possibility of using the valuation increments from gold reserves to finance the United States&apos; strategic Bitcoin reserve.</description>
-      <pubDate>Thu, 07 Aug 2025 03:16:07 +0000</pubDate>
+      <title>Trump: Interview process for the next Fed Chair has begun, with all 3 candidates from Wall Street</title>
+      <link>https://www.lookonchain.com/feeds/23511</link>
+      <description>On August 7th, Trump declared that the interview procedure for the next Federal Reserve Chair has commenced. The current list of candidates has been narrowed down to three, and it is noted that they all originate from Wall Street. (Cointelegraph)</description>
+      <pubDate>Thu, 07 Aug 2025 04:25:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23499</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23511</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -46,17 +45,32 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
     <item>
-      <title>Upbit Exchange Daily Trading Volume Drops by Over 10%: PROVE, XRP, ETH Currently Top Three</title>
-      <link>https://www.lookonchain.com/feeds/23497</link>
-      <description>On August 7th, according to CoinGecko data, within the past 24 hours, the trading volume on Upbit decreased to 1.625 billion USD, experiencing a single-day decline of more than 10%. Among them, the new coin pair PROVE/KRW took the lead with a trading volume of 18.1%, and the remaining top five were: XRP, ETH, BTC, ENA.</description>
-      <pubDate>Thu, 07 Aug 2025 03:08:07 +0000</pubDate>
+      <title>Moody&apos;s: Hong Kong Stablecoin Regulation Positively Affects Banks and Securities Firms Becoming Issuers</title>
+      <link>https://www.lookonchain.com/feeds/23509</link>
+      <description>On August 7th, one of the world&apos;s largest rating agencies, Moody&apos;s, indicated that the clarity of regulations under the Hong Kong &quot;Stablecoin Regulation&quot; is anticipated to boost market confidence and facilitate the long-term utilization of stablecoins. This holds a positive credit impact on Hong Kong banks aiming to obtain licensed stablecoin issuer status and Hong Kong securities firms holding virtual asset trading licenses. If they become licensed banks, large banks will be required to leverage their reputations, liquidity management, and compliance infrastructure to gain a first-mover advantage. (Aastocks)</description>
+      <pubDate>Thu, 07 Aug 2025 04:09:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23497</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23509</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Cboe Applies to Add Staking Feature to VanEck Ethereum ETF, Staking Rewards to Constitute Fund Income</title>
+      <link>https://www.lookonchain.com/feeds/23508</link>
+      <description>On August 7th, as per official documents, Cboe BZX has submitted an application to the U.S. Securities and Exchange Commission (SEC). The application is to incorporate the Ethereum staking feature into the approved VanEck Ethereum ETF.According to the document, the sponsor of the fund has the option to stake either all or a portion of the Ethereum held by the fund by engaging one or more trusted staking service providers. The staking rewards obtained will be regarded as a part of the fund&apos;s income.</description>
+      <pubDate>Thu, 07 Aug 2025 04:09:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23508</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -70,12 +84,29 @@
 
     </item>
     <item>
-      <title>Cumulative Profit $9.4M Smart Money Bitcoin Long Position Leveraged 40x, Average Entry Price $114,567</title>
-      <link>https://www.lookonchain.com/feeds/23496</link>
-      <description>On August 7th, based on on-chain information, a whale added more than 40 times long leverage on Bitcoin just 10 minutes ago. Currently, it is holding a position size of 250 BTC with a position value of approximately $28.62 million and an entry price of $114,567.This address has accumulated a profit of $9.4 million on Hyperliquid.</description>
-      <pubDate>Thu, 07 Aug 2025 03:08:07 +0000</pubDate>
+      <title>Trump Celebrates Tariffs Taking Effect: Billions of Dollars in Tariffs Now Pouring into the U.S.</title>
+      <link>https://www.lookonchain.com/feeds/23507</link>
+      <description>On August 7th, U.S. President Trump posted on the social media platform Truth, stating, &quot;The EQT tariffs will come into effect at midnight tonight, and tens of billions of dollars will start to flow into the United States. The only thing that can prevent this great undertaking of the United States is a radical left-wing court that desires to witness the failure of our country.&quot;</description>
+      <pubDate>Thu, 07 Aug 2025 04:08:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23496</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23507</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance&apos;s August Reserves: Net Increase of Over 30,000 Ethereum, Net Increase of Approximately 3,087 Bitcoins</title>
+      <link>https://www.lookonchain.com/feeds/23506</link>
+      <description>On August 7th, Binance announced its August reserve report today. In contrast to the July reserve report, within Binance&apos;s August reserve, Ethereum witnessed a net growth of 30,475 coins. Given the current price of $3,662, this amounts to approximately $111.6 million. It is important to note that Binance&apos;s June reserve report indicated a substantial decrease in its Ethereum reserves.Moreover, Binance also experienced a net increase of around 3,087 Bitcoin compared to the previous month.</description>
+      <pubDate>Thu, 07 Aug 2025 04:00:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23506</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -86,36 +117,58 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>In the past two days, the BlackRock Ethereum ETF has experienced a daily trading volume peak followed by a decrease of over 50%.</title>
-      <link>https://www.lookonchain.com/feeds/23495</link>
-      <description>On August 7th, according to Trader T data, the daily trading volume of the Bitwise Ethereum Spot ETF (ETHA) yesterday dropped to 600 million U.S. dollars, which is a decrease of more than 50% from the previous week&apos;s high of 1.4 billion U.S. dollars. Correspondingly, the net inflow of ETHA in the past two days has also shown a declining trend along with the trading volume.</description>
-      <pubDate>Thu, 07 Aug 2025 02:56:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23495</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
 
     </item>
     <item>
-      <title>Meme Coin TROLL Prototype Author: No intention to participate in any meme coin based on their work, nor will take any legal action</title>
-      <link>https://www.lookonchain.com/feeds/23494</link>
-      <description>On August 7th, as per the report by Decrypt, Carlos Ramirez (also known as Whynne, the creator of Trollface) stated in his first interview in a decade that he &quot;unintentionally&quot; got entangled in the surging Solana meme coin based on his creation. This was because the capitalist nature of cryptocurrency would interfere with artistic expression.Whynne mentioned that he &quot;constantly&quot; receives tokens related to the Trollface meme coin. He has no intention of participating and will not take legal action against the rising Troll meme coin. In the past two weeks, the market value of the meme coin TROLL has surged by more than 1050%.</description>
-      <pubDate>Thu, 07 Aug 2025 02:49:07 +0000</pubDate>
+      <title>Sui&apos;s Liquidity Staking Platform Volo Introduces Volo Vault, Supporting wBTC DeFi Yield Farming</title>
+      <link>https://www.lookonchain.com/feeds/23505</link>
+      <description>On August 7th, the Sui ecosystem&apos;s liquidity staking platform Volo announced the commencement of its first Volo Vault treasury, initially providing support for wBTC deposits. Users can utilize this to augment the earning capacity of BTC within the DeFi landscape. This characteristic represents a significant milestone for Volo in terms of cross-chain asset support and DeFi yield aggregation.Volo itself is a liquidity staking protocol on Sui, enabling users to stake SUI and receive vSUI, which can be employed in multiple DeFi scenarios. The growth related to this is governed by the Volo DAO. With the launch of the Volo Vault, the platform is progressively establishing a DeFi yield entry point for ordinary users, thereby further enhancing ecosystem liquidity and unleashing potential growth impetus.</description>
+      <pubDate>Thu, 07 Aug 2025 03:57:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23494</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23505</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Yesterday, the United States Ethereum Spot ETF saw a net inflow of $35.1 million, while the Bitcoin Spot ETF saw a net inflow of $91.6 million.</title>
+      <link>https://www.lookonchain.com/feeds/23504</link>
+      <description>On August 7th, as monitored by Farside Investors, the net inflow of the US Ethereum spot ETF yesterday was $35.1 million, and the net inflow of BlackRock ETHA was $33.4 million.In addition, the Bitcoin spot ETF witnessed a net inflow of $91.6 million yesterday, bringing an end to a 4-day consecutive streak of net outflows. BlackRock IBIT saw a net inflow of $41.9 million.</description>
+      <pubDate>Thu, 07 Aug 2025 03:56:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23504</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Cryptocurrency Exchange Platform Bullish (BLSH) has Launched New Stock Purchase</title>
+      <link>https://www.lookonchain.com/feeds/23503</link>
+      <description>On August 7th, Futu began the subscription for the new shares of Bullish (BLSH), the cryptocurrency exchange platform under Vaulta, the parent company of EOS (now Block.one). The subscription is scheduled to close at 19:00 on August 12, 2025.The offering price of Bullish ranges from $28 to $31. It is issuing 20.3 million shares and is expected to raise a maximum of $629 million. At the highest offering price, Bullish&apos;s valuation will reach $4.2 billion. It is anticipated to be listed on the NYSE on August 13, 2025. Funds managed by BlackRock and ARK Investment Management have indicated their intention to subscribe for up to $200 million worth of common stock at the IPO price. The company operates a digital asset trading platform and owns the renowned cryptocurrency media CoinDesk.In 2022, 2023, and 2024, Bullish had digital asset sales of $72.89 billion, $116.49 billion, and $250.2 billion respectively. Its net profits were -$4.246 billion, $1.3 billion, and $79.56 million respecti</description>
+      <pubDate>Thu, 07 Aug 2025 03:49:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23503</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -127,12 +180,12 @@
 
     </item>
     <item>
-      <title>Scam Sniffer: Top-Ranked &quot;DappRadar&quot; Phishing Site in Bing Search</title>
-      <link>https://www.lookonchain.com/feeds/23493</link>
-      <description>On August 7th, Scam Sniffer tweeted to give a reminder that a phishing website for &quot;DappRadar&quot; is ranking at the top on the Bing search engine. Users are advised to verify the URL.</description>
-      <pubDate>Thu, 07 Aug 2025 02:48:07 +0000</pubDate>
+      <title>Bullish, a cryptocurrency exchange, is expected to officially list on the New York Stock Exchange on August 13, holding 24,000 Bitcoins and other cryptocurrency assets.</title>
+      <link>https://www.lookonchain.com/feeds/23502</link>
+      <description>On August 7th, the cryptocurrency exchange platform Bullish, which is supported by billionaire Peter Thiel, is anticipated to be officially listed on the NYSE on August 13th. The company declared in the regulatory filings submitted on Monday that it will sell 20.3 million shares with a price ranging from $28 to $31 per share, raising a maximum of $629.3 million. Furthermore, the underwriters have a 30-day option starting from the date of the prospectus to purchase an additional 3.045 million shares.Regarding assets, Bullish noted in the filing that the company currently possesses over $3 billion in liquid assets, which include:24,000 Bitcoins;12,600 ETH;$418 million in cash and stablecoins.</description>
+      <pubDate>Thu, 07 Aug 2025 03:40:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23493</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23502</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -141,58 +194,8 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>SEC Commissioner: New Liquidity Pledge Statement May Not Reflect Actual Circumstances</title>
-      <link>https://www.lookonchain.com/feeds/23492</link>
-      <description>On August 7th, Caroline Crenshaw, a commissioner of the Securities and Exchange Commission (SEC), published a statement on the SEC&apos;s website. She stated that the new liquidity mining guidance did not clarify the application of federal securities laws to crypto assets and instead increased confusion. This statement is based on a series of untested industry assumptions, and the legal conclusions only apply if these assumptions are true.Earlier, the SEC issued a statement regarding liquidity mining activities, clearly stating that liquidity mining activities are not regarded as securities. The SEC stated that participants in liquidity mining activities do not need to register transactions with the Securities and Exchange Commission under the Securities Act, nor do they need to comply with the Securities Act&apos;s registration exemption requirements for these liquidity mining activities.</description>
-      <pubDate>Thu, 07 Aug 2025 02:41:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23492</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Liquidity Staking Protocol Soars as RPL Surges Over 19% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/23491</link>
-      <description>On August 7th, according to HTX market data, there was a general increase in prices in today&apos;s liquidity staking protocols. These include:The price of RPL increased by 19.2% in the last 24 hours and is currently trading at $7.98.The price of SWELL increased by 18.5% in the last 24 hours and is currently trading at $0.01.The price of LDO increased by 4.4% in the last 24 hours and is currently trading at $0.9364.In previous news, the US SEC has clarified the non-securities nature of liquidity staking.</description>
-      <pubDate>Thu, 07 Aug 2025 02:40:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23491</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>China&apos;s Xiangyang City cracked a case of transferring illegal funds using cryptocurrency, and the defendant was sentenced to two years and six months to three years in prison.</title>
-      <link>https://www.lookonchain.com/feeds/23490</link>
-      <description>July 7th. Recently, the Procuratorate of Baokang County, Xiangyang City, Hubei Province, China, initiated a public prosecution. The local court sentenced five defendants, Yao, Yang, Liu (A), Qiao, and Liu (B), to imprisonment ranging from 2 years and 6 months to 3 years for the crime of using virtual currency to transfer illegal funds to conceal and disguise the proceeds of crime. They were each fined between 5,000 yuan and 18,000 yuan.Starting from April 2024, Yang, Yao, Liu (A), and others formed a group chat through overseas messaging applications. They were aware that the upstream funds might be proceeds of illegal activities such as telecommunications fraud. They used Tether transactions to assist the upstream in transferring illegal crime funds. The group had a clear division of labor: Yang was responsible for providing funds, Yao and Liu (A) coordinated with the upstream fraudsters to receive &quot;cash-out&quot; instructions. Qiao, Liu (B), and other &quot;drivers&quot; then went to designated l</description>
-      <pubDate>Thu, 07 Aug 2025 02:33:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23490</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>transfer</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
   </channel>
