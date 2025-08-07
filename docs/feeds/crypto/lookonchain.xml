@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 04:29:08 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 04:29:08 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 05:05:29 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 05:05:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,48 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Phishing Shield: The top result on Google search for &quot;Aave&quot; is a phishing website</title>
-      <link>https://www.lookonchain.com/feeds/23510</link>
-      <description>On August 7th, as monitored by PeckShield, a phishing advertisement imitating the decentralized lending protocol Aave showed up as the top result in Google search results. It is advised that users refrain from interacting with it. It is recommended that when visiting Web3 sites, users always verify the authenticity of the website to avoid phishing attacks.</description>
-      <pubDate>Thu, 07 Aug 2025 04:25:15 +0000</pubDate>
+      <title>Listed on the Hong Kong Stock Exchange, China New City has reached a partnership with HashKey Exchange, and the two parties will collaborate on compliant digital asset management and other fields.</title>
+      <link>https://www.lookonchain.com/feeds/23514</link>
+      <description>On August 7, a Hong Kong-listed company, China New City Group Limited, entered into a Memorandum of Understanding with the Hong Kong-licensed virtual asset trading platform HashKey Exchange. The two parties will cooperate in regulatory-compliant digital asset management, technical exploration, and market expansion. China New City Group Limited is a Hong Kong-listed company primarily engaged in commercial real estate development and operation management.</description>
+      <pubDate>Thu, 07 Aug 2025 04:56:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23510</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23514</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Analysis: Bitcoin Frequently Testing 50-Day Moving Average, Showing Signs of Exhaustion in Its Uptrend</title>
+      <link>https://www.lookonchain.com/feeds/23513</link>
+      <description>July 7th, Regarding the recent market adjustment, certain analysts have cautioned that the summer lull will persist. Alex Kuptsikevich, the Chief Market Analyst at FxPro, stated in a report on Thursday: &quot;The support attained in the previous peak area suggests that the market is pausing momentarily to secure profits. Nevertheless, the market downturn is causing the most active traders to waver as they have now shifted to very minor undertakings.&quot;On the other hand, Bitcoin is once more drawing near to its 50-day moving average. Such repeated testing of the mid-term trend signal line indicates that as the largest cryptocurrency, Bitcoin has entered a state of accumulation fatigue.&quot; (CoinDesk)</description>
+      <pubDate>Thu, 07 Aug 2025 04:40:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23513</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Gate will list INFINIT (IN) spot trading and futures trading</title>
+      <link>https://www.lookonchain.com/feeds/23512</link>
+      <description>On August 7th, as per the official announcement, Gate is set to list INFINIT (IN) spot trading at 18:00 (UTC+8) on August 7th. Furthermore, at 18:10, INFINIT (IN) perpetual contract trading (settled in USDT) will commence, with support for 1-20x leverage.</description>
+      <pubDate>Thu, 07 Aug 2025 04:32:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23512</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,9 +70,26 @@
       <title>Trump: Interview process for the next Fed Chair has begun, with all 3 candidates from Wall Street</title>
       <link>https://www.lookonchain.com/feeds/23511</link>
       <description>On August 7th, Trump declared that the interview procedure for the next Federal Reserve Chair has commenced. The current list of candidates has been narrowed down to three, and it is noted that they all originate from Wall Street. (Cointelegraph)</description>
-      <pubDate>Thu, 07 Aug 2025 04:25:15 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 04:24:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23511</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Phishing Shield: The top result on Google search for &quot;Aave&quot; is a phishing website</title>
+      <link>https://www.lookonchain.com/feeds/23510</link>
+      <description>On August 7th, as monitored by PeckShield, a phishing advertisement imitating the decentralized lending protocol Aave showed up as the top result in Google search results. It is advised that users refrain from interacting with it. It is recommended that when visiting Web3 sites, users always verify the authenticity of the website to avoid phishing attacks.</description>
+      <pubDate>Thu, 07 Aug 2025 04:24:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23510</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +104,7 @@
       <title>Moody&apos;s: Hong Kong Stablecoin Regulation Positively Affects Banks and Securities Firms Becoming Issuers</title>
       <link>https://www.lookonchain.com/feeds/23509</link>
       <description>On August 7th, one of the world&apos;s largest rating agencies, Moody&apos;s, indicated that the clarity of regulations under the Hong Kong &quot;Stablecoin Regulation&quot; is anticipated to boost market confidence and facilitate the long-term utilization of stablecoins. This holds a positive credit impact on Hong Kong banks aiming to obtain licensed stablecoin issuer status and Hong Kong securities firms holding virtual asset trading licenses. If they become licensed banks, large banks will be required to leverage their reputations, liquidity management, and compliance infrastructure to gain a first-mover advantage. (Aastocks)</description>
-      <pubDate>Thu, 07 Aug 2025 04:09:15 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 04:08:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23509</guid>
       <category>crypto</category>
@@ -68,7 +121,7 @@
       <title>Cboe Applies to Add Staking Feature to VanEck Ethereum ETF, Staking Rewards to Constitute Fund Income</title>
       <link>https://www.lookonchain.com/feeds/23508</link>
       <description>On August 7th, as per official documents, Cboe BZX has submitted an application to the U.S. Securities and Exchange Commission (SEC). The application is to incorporate the Ethereum staking feature into the approved VanEck Ethereum ETF.According to the document, the sponsor of the fund has the option to stake either all or a portion of the Ethereum held by the fund by engaging one or more trusted staking service providers. The staking rewards obtained will be regarded as a part of the fund&apos;s income.</description>
-      <pubDate>Thu, 07 Aug 2025 04:09:15 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 04:08:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23508</guid>
       <category>crypto</category>
@@ -87,7 +140,7 @@
       <title>Trump Celebrates Tariffs Taking Effect: Billions of Dollars in Tariffs Now Pouring into the U.S.</title>
       <link>https://www.lookonchain.com/feeds/23507</link>
       <description>On August 7th, U.S. President Trump posted on the social media platform Truth, stating, &quot;The EQT tariffs will come into effect at midnight tonight, and tens of billions of dollars will start to flow into the United States. The only thing that can prevent this great undertaking of the United States is a radical left-wing court that desires to witness the failure of our country.&quot;</description>
-      <pubDate>Thu, 07 Aug 2025 04:08:15 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 04:08:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23507</guid>
       <category>crypto</category>
@@ -104,7 +157,7 @@
       <title>Binance&apos;s August Reserves: Net Increase of Over 30,000 Ethereum, Net Increase of Approximately 3,087 Bitcoins</title>
       <link>https://www.lookonchain.com/feeds/23506</link>
       <description>On August 7th, Binance announced its August reserve report today. In contrast to the July reserve report, within Binance&apos;s August reserve, Ethereum witnessed a net growth of 30,475 coins. Given the current price of $3,662, this amounts to approximately $111.6 million. It is important to note that Binance&apos;s June reserve report indicated a substantial decrease in its Ethereum reserves.Moreover, Binance also experienced a net increase of around 3,087 Bitcoin compared to the previous month.</description>
-      <pubDate>Thu, 07 Aug 2025 04:00:15 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 04:04:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23506</guid>
       <category>crypto</category>
@@ -125,67 +178,9 @@
       <title>Sui&apos;s Liquidity Staking Platform Volo Introduces Volo Vault, Supporting wBTC DeFi Yield Farming</title>
       <link>https://www.lookonchain.com/feeds/23505</link>
       <description>On August 7th, the Sui ecosystem&apos;s liquidity staking platform Volo announced the commencement of its first Volo Vault treasury, initially providing support for wBTC deposits. Users can utilize this to augment the earning capacity of BTC within the DeFi landscape. This characteristic represents a significant milestone for Volo in terms of cross-chain asset support and DeFi yield aggregation.Volo itself is a liquidity staking protocol on Sui, enabling users to stake SUI and receive vSUI, which can be employed in multiple DeFi scenarios. The growth related to this is governed by the Volo DAO. With the launch of the Volo Vault, the platform is progressively establishing a DeFi yield entry point for ordinary users, thereby further enhancing ecosystem liquidity and unleashing potential growth impetus.</description>
-      <pubDate>Thu, 07 Aug 2025 03:57:15 +0000</pubDate>
+      <pubDate>Thu, 07 Aug 2025 04:04:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23505</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the United States Ethereum Spot ETF saw a net inflow of $35.1 million, while the Bitcoin Spot ETF saw a net inflow of $91.6 million.</title>
-      <link>https://www.lookonchain.com/feeds/23504</link>
-      <description>On August 7th, as monitored by Farside Investors, the net inflow of the US Ethereum spot ETF yesterday was $35.1 million, and the net inflow of BlackRock ETHA was $33.4 million.In addition, the Bitcoin spot ETF witnessed a net inflow of $91.6 million yesterday, bringing an end to a 4-day consecutive streak of net outflows. BlackRock IBIT saw a net inflow of $41.9 million.</description>
-      <pubDate>Thu, 07 Aug 2025 03:56:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23504</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Cryptocurrency Exchange Platform Bullish (BLSH) has Launched New Stock Purchase</title>
-      <link>https://www.lookonchain.com/feeds/23503</link>
-      <description>On August 7th, Futu began the subscription for the new shares of Bullish (BLSH), the cryptocurrency exchange platform under Vaulta, the parent company of EOS (now Block.one). The subscription is scheduled to close at 19:00 on August 12, 2025.The offering price of Bullish ranges from $28 to $31. It is issuing 20.3 million shares and is expected to raise a maximum of $629 million. At the highest offering price, Bullish&apos;s valuation will reach $4.2 billion. It is anticipated to be listed on the NYSE on August 13, 2025. Funds managed by BlackRock and ARK Investment Management have indicated their intention to subscribe for up to $200 million worth of common stock at the IPO price. The company operates a digital asset trading platform and owns the renowned cryptocurrency media CoinDesk.In 2022, 2023, and 2024, Bullish had digital asset sales of $72.89 billion, $116.49 billion, and $250.2 billion respectively. Its net profits were -$4.246 billion, $1.3 billion, and $79.56 million respecti</description>
-      <pubDate>Thu, 07 Aug 2025 03:49:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23503</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bullish, a cryptocurrency exchange, is expected to officially list on the New York Stock Exchange on August 13, holding 24,000 Bitcoins and other cryptocurrency assets.</title>
-      <link>https://www.lookonchain.com/feeds/23502</link>
-      <description>On August 7th, the cryptocurrency exchange platform Bullish, which is supported by billionaire Peter Thiel, is anticipated to be officially listed on the NYSE on August 13th. The company declared in the regulatory filings submitted on Monday that it will sell 20.3 million shares with a price ranging from $28 to $31 per share, raising a maximum of $629.3 million. Furthermore, the underwriters have a 30-day option starting from the date of the prospectus to purchase an additional 3.045 million shares.Regarding assets, Bullish noted in the filing that the company currently possesses over $3 billion in liquid assets, which include:24,000 Bitcoins;12,600 ETH;$418 million in cash and stablecoins.</description>
-      <pubDate>Thu, 07 Aug 2025 03:40:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23502</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
