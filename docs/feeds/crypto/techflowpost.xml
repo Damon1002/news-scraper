@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 13:05:46 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 13:05:46 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 13:51:36 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 13:51:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,73 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Chainlink将利用协议收入建立建立LINK代币战略储备</title>
+      <title>英国油气公司计划开展比特币挖矿业务，或将采用比特币财务策略</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据The Block报道，英国上市公司Union Jack Oil宣布，计划在其东约克郡的West Newton站点开展比特币挖矿业务。该公司将与德州天然气服务商360 Energy合作，把现场天然气转化为电力用于比特币挖矿。该站点已被评估含有近2000亿立方英尺可采天然气储量。Union Jac...</description>
+      <pubDate>Thu, 07 Aug 2025 13:42:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>美股开盘，加密股普涨</title>
+      <link>https://www.techflowpost.com</link>
+      <description>BitMine Immersion (BMNR) 上涨6.64%，报41.025美元；</description>
+      <pubDate>Thu, 07 Aug 2025 13:34:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某巨鲸 2 小时内卖出 1 万枚 stETH 和 398 枚 BTC，价值约 8493 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，鲸鱼 0xd8d0 在过去 2 小时内出售了 10,000 枚 stETH （价值约3816 万美元）和 398 枚 BTC （价值约 4641 万美元），换取了 8493 万枚 USDC。</description>
+      <pubDate>Thu, 07 Aug 2025 13:23:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>两地址抛售 1770 枚 ETH，资金均来源于 Railgun</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，疑似归属于同一人的 2 个地址抛售持仓六个月的 1770.2 枚 ETH，价值约 671 万美元，资金均来源于隐私协议 Railgun。这些 ETH 是在 2025 年 2 月以 2690 美元的价格获得，本次卖出将获利约 195 万美元。...</description>
+      <pubDate>Thu, 07 Aug 2025 13:19:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>内幕交易员 qwatio 在 GMX 上开空 ETH 仓位被清算减仓</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据分析师余烬监测，「内幕老哥」qwatio 两小时前用 47.5 万 USDC 在 GMX 上开的 ETH 空仓刚才被清算减仓。此前其在 Hyperliquid 上开空也被清算。</description>
+      <pubDate>Thu, 07 Aug 2025 13:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>所罗门兄弟完成对&quot;遗弃&quot;比特币钱包的通知程序</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据CoinDesk报道，投资银行所罗门兄弟今日宣布完成向疑似遗弃的比特币钱包发送OP_Return通知的程序。该行动针对包括持有8万枚比特币的&quot;1Feex&quot;地址在内的多个长期休眠钱包。根据所罗门兄弟的说法，超过14年未动用的资产可依据&quot;遗弃原则&quot;被视为合法遗弃。钱包所有者需在90天内通过发送交易或...</description>
+      <pubDate>Thu, 07 Aug 2025 13:12:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Chainlink将利用协议收入建立LINK代币战略储备</title>
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，Chainlink基金会今日宣布推出Chainlink储备计划，旨在通过链上和链下收入建立LINK代币战略储备。该储备已在初期积累超100万美元等值LINK代币，并将通过Payment Abstraction机制，将企业服务收入和链上服务费用自动转换为LINK代币。基金会表示，储备计划...</description>
       <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据分析师余烬监测，[四战 ETH 75% 胜率鲸鱼] 的 7 万枚 ETH 空单遭受清算，并随着 ETH 的继续上涨，他多次止损减仓。 目前他的 ETH 空单仅剩余 2.5 万枚 (9556 万美元)，最新的清算价为 3,876美元。</description>
       <pubDate>Thu, 07 Aug 2025 11:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>贝森特：特朗普表示他不会解雇美联储主席鲍威尔</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，美国财长贝森特表示特朗普表示他不会解雇美联储主席鲍威尔。但就劳工统计局局长被解雇而言，这早就该发生了。</description>
-      <pubDate>Thu, 07 Aug 2025 11:39:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>SUN 代币第四十五期回购销毁完成，384 万枚代币转入黑洞地址</title>
-      <link>https://www.techflowpost.com</link>
-      <description>SUN.io 官方发布公告，宣布第四十五期 SUN 代币回购销毁已顺利完成。在2025年7月10日至2025年8月7日期间（新加坡时间），共销毁 3,843,344.5487 枚 SUN 代币，全部已转入黑洞地址进行永久销毁，进一步缩减了 SUN 的流通量。自2021年12月15日（新加坡时间）开...</description>
-      <pubDate>Thu, 07 Aug 2025 11:35:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>火币HTX推出“合约跟单狂欢月”特别活动：跟单、带单瓜分13万USDT奖池</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据火币HTX官方公告，为庆祝平台成立12周年，火币合约跟单于8月7日18:00至9月4日18:00（UTC+8）特别推出“合约跟单狂欢月”活动，总奖池高达130,000 USDT，跟单、带单均可获得奖励。其中，交易员满足带单天数≥10天、订单≥30笔、平均单笔保证金&gt;10 USDT，即可瓜分10,...</description>
-      <pubDate>Thu, 07 Aug 2025 11:33:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>净好感度民调：特朗普为负16%，马斯克负28%垫底</title>
-      <link>https://www.techflowpost.com</link>
-      <description>调查结果显示，多位美国政界人物的支持率为负值，其中总统特朗普为负16%，前总统拜登为负11%。特斯拉首席执行官埃隆·马斯克和以色列总理内塔尼亚胡的支持率垫底，分别为负28%和负23%。</description>
-      <pubDate>Thu, 07 Aug 2025 11:15:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>民调：特朗普支持率降至38%，男性选民支持显著下滑</title>
-      <link>https://www.techflowpost.com</link>
-      <description>马萨诸塞大学阿默斯特分校最新民调显示，美国总统特朗普的支持率降至38%，较4月份下降6个百分点，58%的受访者对其表现持否定态度。男性选民支持率从4月的48%大幅下滑至39%，独立选民支持率也从31%降至21%。民调显示，特朗普在移民、关税和通货膨胀等议题上的表现评分较低。该民调于7月25日至30...</description>
-      <pubDate>Thu, 07 Aug 2025 11:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 与 Pulsar 深化合作关系，强化流动性生态与交易体验</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 宣布与高频交易及做市商机构 Pulsar 进一步深化合作关系。此次合作将聚焦提升平台现货与衍生品市场的流动性表现，为全球用户构建更优质的交易环境。Pulsar 首席执行官 Jacky Chung 对此表示：“ Bitget 的发展潜力与行业影响力备受认可，我们期待通过此次深化合作，携...</description>
-      <pubDate>Thu, 07 Aug 2025 11:06:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
