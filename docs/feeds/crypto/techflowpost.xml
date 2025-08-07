@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Aug 2025 08:37:00 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Aug 2025 08:37:00 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 09:01:33 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 09:01:33 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>诈骗者利用AI生成视频推广恶意智能合约，盗取超100万美元加密资产</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据CoinDesk报道，安全机构SentinelLABS最新报告显示，一批诈骗者通过部署伪装成最大可提取价值（MEV）交易机器人的恶意智能合约，已成功盗取超过100万美元加密资产。攻击者利用人工智能生成的YouTube视频教程和经过混淆的智能合约代码实施诈骗。最大的单个攻击钱包地址已获取244.9...</description>
+      <pubDate>Thu, 07 Aug 2025 08:49:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>WLFI宣布推出USD1稳定币积分计划</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，曹操出行(02643.HK)日内涨超20%。此前消息，曹操出行与胜利证券签署虚拟资产战略合作备忘录，将探索RWA代币化与稳定币支付。</description>
       <pubDate>Thu, 07 Aug 2025 05:28:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>港股上市公司宜搜科技战略投资Lightnet 500万美元，深化RWA战略布局</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，港股上市公司宜搜科技宣布以 500 万美元战略投资正大集团旗下金融科技公司 Lightnet，支持其 Web 3 技术及跨境支付业务发展。同时，宜搜科技还表示将深化现实世界资产（RWA）战略布局，以构建自身 RWA 生态体系。</description>
-      <pubDate>Thu, 07 Aug 2025 05:15:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
