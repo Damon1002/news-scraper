@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Aug 2025 13:49:20 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Aug 2025 13:49:20 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 14:12:31 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 14:12:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,153 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>「ETH Whale with 75% Win Rate in Four Battles」 on the Verge of Liquidation, Ethereum Short Position Faces Over $9 Million in Unrealized Losses</title>
+      <link>https://www.lookonchain.com/feeds/23749</link>
+      <description>On August 8th, as indicated by on-chain data, the &quot;Four-Battle ETH 75% Win Rate Whale&quot; is on the verge of liquidation (with a liquidation price of $4,016.41). Its 15x short position in Ethereum is facing a floating loss of more than $9 million.</description>
+      <pubDate>Fri, 08 Aug 2025 14:09:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23749</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Affected by ETH Breaking $4,000, Stock BMNR Surges Over 14% Intraday</title>
+      <link>https://www.lookonchain.com/feeds/23747</link>
+      <description>On August 8th, according to the market data from Rockflow, due to ETH breaking through $4000, the stock BMNR witnessed an intraday surge of over 14% and is currently trading at $47.26.</description>
+      <pubDate>Fri, 08 Aug 2025 14:00:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23747</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>AguilaTrades&apos;s long positions for BTC and ETH are currently showing a combined unrealized profit of $5.11 million.</title>
+      <link>https://www.lookonchain.com/feeds/23748</link>
+      <description>On August 8th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the total unrealized profit of AguilaTrades&apos; long positions in BTC and ETH is $5.11 million, with ETH accounting for $3.93 million of the profit.BTC: Long with a multiple of 40 and holding 1277.75 coins, with an entry price of $115,968.ETH: Long with a multiple of 25 and holding 20,296.06 coins, with an entry price of $3,783.1.</description>
+      <pubDate>Fri, 08 Aug 2025 14:00:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23748</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Ethereum Breaks $4000 Barrier Again After 237 Days, Reaches New High for the Year</title>
+      <link>https://www.lookonchain.com/feeds/23746</link>
+      <description>August 8th. According to HTX market data, Ethereum has once again surpassed the $4000 mark after 237 days since December 14th, 2024, reaching a new high for the year.</description>
+      <pubDate>Fri, 08 Aug 2025 13:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23746</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Records 2.42% Price Increase in the Past Hour, Nearing the $4000 Milestone</title>
+      <link>https://www.lookonchain.com/feeds/23745</link>
+      <description>On August 8th, based on HTX market data, Ethereum witnessed a nearly 2.42% hourly increase and approached $4,000. It is currently trading at $3,979.15.</description>
+      <pubDate>Fri, 08 Aug 2025 13:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23745</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Linea Network TVL Surges Over 37% in the Last 24 Hours, Now Standing at $260 Million</title>
+      <link>https://www.lookonchain.com/feeds/23744</link>
+      <description>On August 8th, based on DefiLlama data, the TVL of the Linea Network has witnessed a surge of over 37% in the past 24 hours and currently stands at $2.6082 billion.Yesterday, the DEX protocol Etherex, which completed its TGE, became the protocol with the largest TVL on the Linea Network. Its current TVL is $96.13 million, representing a weekly increase of 1241%.</description>
+      <pubDate>Fri, 08 Aug 2025 13:48:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23744</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bitcoin ETF Daily Net Inflow: 2,195 BTC, Ethereum ETF Net Inflow: 43,329 ETH</title>
+      <link>https://www.lookonchain.com/feeds/23743</link>
+      <description>On August 8th, as per the monitoring of LookOnChain, 10 Bitcoin ETFs witnessed a net inflow of 2,195 BTC (approximately $256 million) within a single day. Among them, iShares (BlackRock) received 1,191 BTC (approximately $139 million) and currently holds 739,362 BTC (approximately $86.23 billion).In addition, 9 Ethereum ETFs saw a net inflow of 43,329 ETH (approximately $169 million) in a single day. iShares (BlackRock) received 26,604 ETH (approximately $104 million) and currently holds 2,987,576 ETH (approximately $11.67 billion).</description>
+      <pubDate>Fri, 08 Aug 2025 13:48:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23743</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>U.S. Stock Crypto Sector Starts Trading Day with Broad Gains, BMNR Up Over 5%</title>
       <link>https://www.lookonchain.com/feeds/23742</link>
       <description>On August 8th, according to the market data from Rockflow, the US stock cryptocurrency sector opened with a general upward trend. This includes:ETH MicroStrategy Stocks: BMNR rose by more than 5%, and SBET increased by 2.18%;BNB MicroStrategy Stocks: BNC went up by 5.03%, while WINT dropped by 2.18%;COIN rose by 0.18% and CRCL rose by 1.27%.</description>
-      <pubDate>Fri, 08 Aug 2025 13:40:27 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 13:40:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23742</guid>
       <category>crypto</category>
@@ -34,7 +177,7 @@
       <title>Source: Joe McCann-led Solana Treasury Company has called off SPAC deal</title>
       <link>https://www.lookonchain.com/feeds/23741</link>
       <description>On August 8th, it was reported by sources that the Solana financial tool SPAC deal led by Joe McCann has been called off. The reason for the failed transaction has not been made public immediately. Two weeks ago, a limited partner at McCann&apos;s hedge fund Asymmetric posted on X that the fund has witnessed a nearly 80% decline year-to-date.On July 24th, it was announced that Joe McCann, the founder and CEO of the crypto hedge fund Asymmetric Financial, is going to serve as the CEO of a new Solana treasury company called Accelerate. The company plans to raise up to $1.51 billion. It intends to raise $800 million through a PIPE, $358.8 million through a SPAC, $250 million through convertible bonds, and sell $103.2 million in SPAC subscription rights. If this fundraising is successful, Accelerate will promptly start to establish a new Solana treasury or become the largest SOL treasury management company in the market.</description>
-      <pubDate>Fri, 08 Aug 2025 13:24:27 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 13:24:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23741</guid>
       <category>crypto</category>
@@ -51,7 +194,7 @@
       <title>NASDAQ-listed company Trident Digital plans to raise $500 million to establish a corporate XRP reserve</title>
       <link>https://www.lookonchain.com/feeds/23740</link>
       <description>On August 8th, the Nasdaq-listed company Trident Digital Tech Holdings (TDTH) announced today that it has the intention to apply for a stablecoin operational license in multiple African countries with the aim of promoting the application of RLUSD in the African market. Additionally, the company plans to raise $5 billion in order to establish a corporate XRP reserve pool so as to enhance the integration with the Ripple ecosystem.The company is currently in the early stages of discussions with regulatory agencies and financial institutions in different countries and is anticipated to commence the phased deployment in pilot countries by the middle of 2026.</description>
-      <pubDate>Fri, 08 Aug 2025 13:16:27 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 13:16:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23740</guid>
       <category>crypto</category>
@@ -63,129 +206,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bloomberg ETF Analyst: The First 2x Long Galaxy ETF GLXU Officially Begins Trading Today</title>
-      <link>https://www.lookonchain.com/feeds/23739</link>
-      <description>On August 8th, Bloomberg ETF analyst Eric Balchunas declared that the first 2x long Galaxy ETF (GLXU) officially began trading on this very day.</description>
-      <pubDate>Fri, 08 Aug 2025 13:08:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23739</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Listed Company on the Hong Kong Stock Exchange Establishes Joint Venture for International Business Settlement, Engaging in Crypto Asset-Related Business</title>
-      <link>https://www.lookonchain.com/feeds/23738</link>
-      <description>August 8th, International Business Settlement (00147.HK) declared that on August 8, 2025, the company&apos;s wholly-owned subsidiary, Chengtai, and Mr. Chen Sanming signed a joint venture agreement to set up a joint venture. After going through the registration process, the joint venture will be held by Chengtai and Mr. Chen Sanming with 70% and 30% equity respectively. The joint venture will mainly be involved in cryptocurrency-related business. (Sohu Finance)</description>
-      <pubDate>Fri, 08 Aug 2025 13:00:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23738</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「Quad-Stacking ETH with 75% Win Rate Whale」 is currently holding positions with an unrealized loss of $6.26 million, resulting in a total loss of over $10.46 million.</title>
-      <link>https://www.lookonchain.com/feeds/23735</link>
-      <description>On August 8th, based on on-chain information, the &quot;Four-Battles ETH 75% Win Rate Whale&quot; added $5.53 million in collateral this morning. Its 15x short position in Ethereum is currently facing an unrealized loss of $6.26 million, with a total historical loss of more than $10.46 million.</description>
-      <pubDate>Fri, 08 Aug 2025 12:56:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23735</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Solayer: To Distribute 50,000 WCT Tokens to Active Ecological Users</title>
-      <link>https://www.lookonchain.com/feeds/23737</link>
-      <description>On August 8th, according to official information, Solayer is going to hold a joint event with WCT to give rewards to active users in the ecosystem. The top 100 consumers of Jade Card and the top 100 holders of sUSD, sSOL, and LAYER will obtain a distribution of 50,000 WCT tokens. The eligibility will be determined based on a snapshot taken on August 18th.</description>
-      <pubDate>Fri, 08 Aug 2025 12:56:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23737</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Rating Agency S&amp;P: DeFi Protocol Sky Credit Rating on Par with Congo Debt, at a Lowly B-</title>
-      <link>https://www.lookonchain.com/feeds/23736</link>
-      <description>August 8: The rating agency S&amp;P Global carried out its initial credit rating on the DeFi protocol Sky (formerly known as MakerDAO). It assigned a B- rating to Sky, which is on a par with the sovereign debt rating of the Republic of the Congo and is classified as a high-risk &quot;speculative grade.&quot; S&amp;P pointed out that the current risks of Sky mainly include high depositor concentration, excessive reliance on the founder Rune Christensen, and the uncertainty of DeFi regulation. However, it also recognized that Sky has had low credit losses and stable revenue since 2020.This rating does not cover the governance token SKY and only pertains to USDS, DAI, and their savings derivatives. Sky is the fourth-largest stablecoin issuer on Ethereum, with a circulating supply of $7.9 billion.Sky responded that this rating is the first step towards integrating with the traditional financial system. In the future, as DeFi awareness grows, the ratings may be upgraded. Analysts believe that although th</description>
-      <pubDate>Fri, 08 Aug 2025 12:56:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23736</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Canadian July Employment Data Below Expectations, Increased Likelihood of September Interest Rate Cut</title>
-      <link>https://www.lookonchain.com/feeds/23734</link>
-      <description>August 8th. In Canada, the employment change in July was -40.8K people. The expected value was 13.5K people, and the previous value was 83.1K people. After the data was released, the probability of a rate cut by the Bank of Canada in September indicated by the Canadian futures market rose to 38% from 33% before the employment data was announced.</description>
-      <pubDate>Fri, 08 Aug 2025 12:48:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23734</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>XRP Futures Trading Volume Surges 208% in 24 Hours, Open Interest Up 15%</title>
-      <link>https://www.lookonchain.com/feeds/23733</link>
-      <description>On August 8th, according to glassnode, the trading volume of XRP futures witnessed a significant surge. The 24-hour trading volume increased by 208% and reached $12.4 billion, surpassing SOL&apos;s $9.6 billion. The open interest rose to $5.9 billion (+15%).glassnode&apos;s analysis stated that the current positive funding rate in the market indicates a large number of long positions. This could potentially increase the liquidation risk in case of a price decline.</description>
-      <pubDate>Fri, 08 Aug 2025 12:48:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23733</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
