@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Aug 2025 08:59:38 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Aug 2025 08:59:38 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 09:37:09 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 09:37:09 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,105 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>An address held ETH for four years to break even and take profit, having accumulated 3750 ETH in 2021.</title>
+      <link>https://www.lookonchain.com/feeds/23699</link>
+      <description>August 8th. According to on-chain analyst Ai (@ai_9684xtpa), an address that has been holding ETH for four years has finally reached the break-even point and cashed out. The address &apos;0x219...C3c4F&apos; sold 3000 ETH in the past hour, with a value of $11.74 million, realizing a profit of $1.24 million.During the super bull market from April to December 2021, the main funding address accumulated 3750 ETH at an average price of $3500. The value of the asset had once shrunk by 70%.</description>
+      <pubDate>Fri, 08 Aug 2025 09:33:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23699</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>The academic community has referred to Trump&apos;s attempt to seize control of statistical agencies, accusing them of &quot;employment data manipulation,&quot; as lacking evidence</title>
+      <link>https://www.lookonchain.com/feeds/23698</link>
+      <description>August 8: In this week, the University of Chicago carried out a survey among 46 American economists. Among them, 38 stated that there is no evidence indicating that the US Bureau of Labor Statistics (BLS) employment data is inclined towards either the Republican Party or the Democratic Party. Many economists argue that Trump&apos;s attacks on the US economic data agencies pose a significant threat to official statistics. Last Friday, Trump ordered the removal of the head of the BLS (the non-farm payroll data agency), claiming without any evidence that the disappointing employment data was &quot;manipulated.&quot; The BLS later confirmed the dismissal of the head, Erika McEntarfer, and her deputy William Wiatrowski took on the acting head role.Trump had previously claimed that the BLS inflated employment numbers last year to assist the Democratic Party during the presidential election. However, the agency revised the numbers downward by more than 800,000 in August 2024, which was regarded as a setba</description>
+      <pubDate>Fri, 08 Aug 2025 09:32:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23698</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>IN is now available on multiple exchanges including Binance, Bybit, Bitget, KuCoin, and more.</title>
+      <link>https://www.lookonchain.com/feeds/23697</link>
+      <description>On August 8th, the native token of INFINIT, IN, was listed on Binance (Alpha &amp; Futures), Bybit Futures, Bitget, KuCoin, and many other platforms. As the core driving force of the INFINIT AI-powered DeFi economy, IN enables anyone to create and monetize DeFi strategies by using more than 20 AI Agents. End users can execute these strategies with just one click.IN is utilized for value exchange within the ecosystem, granting exclusive access to products, facilitating governance voting, and achieving incentive alignment throughout the system. Additionally, users staking IN can receive protocol fees from Agent and strategy execution. This allows them to unlock advanced features such as exclusive access to top strategies and participate in key decision-making voting, including protocol upgrades, fee models, and integration solutions.</description>
+      <pubDate>Fri, 08 Aug 2025 09:24:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23697</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale withdrew 55,664 SOL from Binance and transferred it to Kamino for staking, worth $9.72 million</title>
+      <link>https://www.lookonchain.com/feeds/23696</link>
+      <description>On August 8th, based on LookOnChain&apos;s monitoring, the whale address BnwZvG withdrew an additional 55,664 SOL from Binance. This amount is worth $9.72 million and was deposited into the Kamino staking.</description>
+      <pubDate>Fri, 08 Aug 2025 09:09:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23696</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>A whale has deposited 1,383 ETH into a CEX, worth $5.39 million</title>
+      <link>https://www.lookonchain.com/feeds/23695</link>
+      <description>August 8th. Based on the monitoring of OnchainLens, a whale that had been dormant for eight months deposited 1,383 ETH, which is worth $5.39 million, into a CEX and achieved a profit of $4.32 million.The whale originally withdrew 2,768 ETH with a value of $6.45 million and still retains 1,384 ETH worth $5.39 million.</description>
+      <pubDate>Fri, 08 Aug 2025 09:08:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23695</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Binance Alpha&apos;s new Sidekick(K) launchpad opened with an approximate initial return of $92.5</title>
       <link>https://www.lookonchain.com/feeds/23694</link>
       <description>On August 8th, based on market data, Sidekick (K) has been listed on Binance Alpha. It is currently trading at $0.37 and has a market capitalization of $41 million. Each eligible user can receive an airdrop of 250 K tokens. The estimated airdrop value per person is approximately $92.50 according to the current price.</description>
-      <pubDate>Fri, 08 Aug 2025 08:58:45 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 08:58:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23694</guid>
       <category>crypto</category>
@@ -35,7 +130,7 @@
       <title>OKX is now integrated with Apple Pay, supporting one-click coin purchases for users in the United States and Europe.</title>
       <link>https://www.lookonchain.com/feeds/23693</link>
       <description>August 8th. According to official sources, the CEO of OKX, Star, retweeted the message &quot;Apple Pay has now landed on the OKX European site&quot; on the X platform and stated: &quot;This is a significant step towards the adoption of cryptocurrencies. Apple Pay has been fully integrated into the buy-crypto process on the OKX platform, enabling users in the United States and the European Economic Area (EEA) to make one-click coin purchases without the need to enter bank card information. OKX is making the crypto world simpler, more accessible, and truly mainstream.&quot;</description>
-      <pubDate>Fri, 08 Aug 2025 08:48:45 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 08:48:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23693</guid>
       <category>crypto</category>
@@ -52,7 +147,7 @@
       <title>Bitget Launches Sidekick (K) Spot Trading</title>
       <link>https://www.lookonchain.com/feeds/23692</link>
       <description>August 8th. Bitget has launched Sidekick (K) in the Innovation Zone. The trading channel is now available, and the withdrawal channel will open at 18:00 on August 8th (UTC+8).</description>
-      <pubDate>Fri, 08 Aug 2025 08:40:45 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 08:40:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23692</guid>
       <category>crypto</category>
@@ -69,7 +164,7 @@
       <title>Bybit will launch the Sidekick(K) U-based Perpetual Contract</title>
       <link>https://www.lookonchain.com/feeds/23691</link>
       <description>August 8th. Bybit is set to launch the Sidekick (K)U Coin-margined Perpetual Contract.</description>
-      <pubDate>Fri, 08 Aug 2025 08:40:45 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 08:40:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23691</guid>
       <category>crypto</category>
@@ -86,99 +181,9 @@
       <title>Binance Alpha will launch SatLayer (SLAY) on August 11.</title>
       <link>https://www.lookonchain.com/feeds/23690</link>
       <description>On August 8th, Binance Alpha is set to launch SatLayer (SLAY) on August 11th. Users who are eligible can access the Alpha event page and claim the airdrop by using points once the Alpha trading commences. Specific details will be provided separately.</description>
-      <pubDate>Fri, 08 Aug 2025 08:40:45 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 08:40:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23690</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Moonbirds 7-Day Price Change Reaches 17.76%, Floor Price Surpasses 2.5 ETH</title>
-      <link>https://www.lookonchain.com/feeds/23689</link>
-      <description>On August 8th, according to Blur Data, Moonbirds witnessed a 17.76% growth in the past 7 days. The floor price exceeded 2.5 ETH, with a 24-hour increase of 10.81% and a 24-hour trading volume of 146.65 ETH.</description>
-      <pubDate>Fri, 08 Aug 2025 08:40:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23689</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A &quot;Alpha Attack Speed Build&quot; whale address recently spent $90,000 sniping the PROVE listing, making a $6,517 profit</title>
-      <link>https://www.lookonchain.com/feeds/23687</link>
-      <description>August 8th. According to on-chain analyst Ai Auntie (@ai_9684xtpa), a particular &quot;Alpha Raid Speed&quot; smart money address has been constantly implementing the &quot;sniper opening and buy low, sell high&quot; strategy. In a recent transaction, they used $90,000 to snipe the opening price of PROVE and achieved a profit of $6,517.According to statistics, Binance Alpha has recently shifted some newly listed tokens from the &quot;opening price drop&quot; mode to the &quot;stable&quot; or even &quot;opening low and rising high&quot; mode. Among the latest 5 listed tokens, four have not witnessed a price drop within the first 24 hours. The token listed the day before yesterday, IN, has seen a 65% price increase in the past 24 hours, making it the best-performing Alpha new coin recently.</description>
-      <pubDate>Fri, 08 Aug 2025 08:32:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23687</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Binance Completes GUNZ (GUN) Integration on the Solana Network</title>
-      <link>https://www.lookonchain.com/feeds/23688</link>
-      <description>August 8, according to an official communication, Binance has accomplished the integration of GUNZ (GUN) on the Solana network and has currently initiated the deposit and withdrawal services.</description>
-      <pubDate>Fri, 08 Aug 2025 08:32:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23688</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>DDC Enterprise is pleased to announce a partnership with Galaxy Digital.</title>
-      <link>https://www.lookonchain.com/feeds/23686</link>
-      <description>On August 8th, DDC Enterprise Limited (with the New York Stock Exchange symbol: DDC) declared a partnership with Galaxy Digital in order to enhance its corporate Bitcoin treasury management. Galaxy&apos;s institutional trading services and infrastructure will be incorporated into DDC&apos;s operations, offering deeper liquidity, secure execution, and regulated custody for DDC&apos;s digital asset reserves.Previously on July 1st, DDC Enterprise (NYSE: DDC) announced the accomplishment of a $528 million financing plan. The investors consist of Anson Funds, Animoca Brands, Kenetic Capital, QCP Capital, and others. The raised funds will be utilized to expand its Bitcoin reserves.</description>
-      <pubDate>Fri, 08 Aug 2025 08:32:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23686</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bybit Web3 has been newly revamped and launched, making on-chain transactions more convenient.</title>
-      <link>https://www.lookonchain.com/feeds/23685</link>
-      <description>August 8th. Bybit announced the official launch of the new version of Web3. It enables users to directly trade on-chain assets on the Bybit main site through a Unified Trading Account (UTA). There is no need to connect a wallet, create a Web3 wallet, or recharge Gas tokens. Bybit Web3 serves as a bridge between CEX and DEX, providing users with a more convenient, secure, and seamless on-chain asset exploration and trading experience.Currently, Bybit Web3 supports popular tokens such as TUNA, PUMP, FRAG, Fartcoin, JLP, RAY, MOODENG, LetsBONK, TSLAx, MSTRx, SPYx, CRCLx, and NVDAx.</description>
-      <pubDate>Fri, 08 Aug 2025 08:24:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23685</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
