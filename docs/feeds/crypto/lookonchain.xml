@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Aug 2025 04:29:08 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Aug 2025 04:29:08 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 05:05:19 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 05:05:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,53 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Binance Partners with Spanish Bank BBVA to Allow Customers to Hold Assets Off the Crypto Exchange Platform</title>
-      <link>https://www.lookonchain.com/feeds/23649</link>
-      <description>On August 8th, as reported by the Financial Times, Binance is collaborating with the Spanish bank BBVA. This enables customers to have their assets custodied by the bank rather than the exchange. BBVA, Spain&apos;s third-largest bank, has recently begun serving as one of the few independent custodians for Binance. The purpose of this move is to address investors&apos; concerns regarding the security of the exchange, particularly in the aftermath of the 2022 FTX bankruptcy event. Under the cooperative arrangement, traders&apos; funds will be held in the form of U.S. Treasury bonds at BBVA, and Binance will accept these assets as trading margin.</description>
-      <pubDate>Fri, 08 Aug 2025 04:25:15 +0000</pubDate>
+      <title>About $1.75 billion worth of ETH is currently queued to exit the Ethereum PoS network, while approximately $150 million worth of ETH is waiting to join.</title>
+      <link>https://www.lookonchain.com/feeds/23653</link>
+      <description>On August 8th, based on the data from the Validator Queue tracking website &quot;validatorqueue&quot;, it is reported that the current exit queue of the Ethereum PoS network is 445,845 ETH, which is approximately worth $1.75 billion. The recent peak of the exit queue was 744,000 ETH. The waiting time for the exit queue is approximately 7 days and 18 hours.Meanwhile, there are about 39,370 ETH queued to join the network, which is approximately worth $150 million. This is a significant decrease from the recent peak of 435,000 ETH. The anticipated activation delay is around 16 hours and 24 minutes.</description>
+      <pubDate>Fri, 08 Aug 2025 04:56:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23649</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23653</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale has accumulated 171,015 ETH in the past 4 days, equivalent to around $670 million.</title>
+      <link>https://www.lookonchain.com/feeds/23652</link>
+      <description>On August 8th, according to on-chain analyst Wu Ji, a whale has accumulated a total of 171,015 ETH, which is worth an astonishing $670 million within the past 4 days through 6 addresses. In just the past 1 hour alone, they have received 23,424 ETH ($91.65 million).They utilized the address 0x0c3...40e to create a wallet via BitGo and then purchased and received ETH from institutional business platforms like FalconX, Galaxy Digital, and BitGo. Currently, they have created a total of 6 wallets to receive the accumulated 171,015 ETH ($670 million), with an average price of $3,669 per ETH.</description>
+      <pubDate>Fri, 08 Aug 2025 04:40:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23652</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>JPMorgan Chase: Expects the Federal Reserve to begin cutting interest rates in September 2025, with three 25 basis point reductions.</title>
+      <link>https://www.lookonchain.com/feeds/23651</link>
+      <description>On August 8th, JPMorgan Chase announced that it anticipates the Fed to commence cutting interest rates in September 2025, with three reductions each of 25 basis points. This contrasts with the previous forecast of only one rate cut in December. (FXStreet)</description>
+      <pubDate>Fri, 08 Aug 2025 04:32:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23651</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +75,7 @@
       <title>Whale Bets Against the Trend by Increasing ETH Short Position, Single Address Faces Unrealized Loss of Over $16 Million</title>
       <link>https://www.lookonchain.com/feeds/23650</link>
       <description>On August 8th, according to the monitoring of HyperInsight, as ETH once again rose to $4000, some whales chose to increase their short positions against the trend, and their current unrealized losses continued to expand. These include:The whale with the address starting with 0x20c2d9 added $870,000 to their ETH short position, and the current unrealized loss is -$16.78 million (liquidation price $4,903).The whale with the address starting with 0x507561 added $830,000 to their ETH short position, and the current unrealized loss is -$2.16 million (liquidation price $4,488).The whale with the address starting with 0x8af700 added $950,000 to their XRP short position, and the current unrealized loss is -$7.75 million (liquidation price $5.693).</description>
-      <pubDate>Fri, 08 Aug 2025 04:25:15 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 04:24:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23650</guid>
       <category>crypto</category>
@@ -55,7 +96,7 @@
       <title>A whale bought 3358 ETH at an average price of $3828.</title>
       <link>https://www.lookonchain.com/feeds/23648</link>
       <description>On August 8th, according to the monitoring of LookOnChain, 2 days prior to this, Whale 0x46DB sold 5,504 ETH (equivalent to 19.81 million USD) in a state of panic during a market downturn at a price of 3,599 USD. Today, as ETH rebounded, the whale purchased 3,358 ETH (amounting to 12.85 million USD) at a price of 3,828 USD.</description>
-      <pubDate>Fri, 08 Aug 2025 04:24:15 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 04:24:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23648</guid>
       <category>crypto</category>
@@ -73,10 +114,27 @@
 
     </item>
     <item>
+      <title>Binance Partners with Spanish Bank BBVA to Allow Customers to Hold Assets Off the Crypto Exchange Platform</title>
+      <link>https://www.lookonchain.com/feeds/23649</link>
+      <description>On August 8th, as reported by the Financial Times, Binance is collaborating with the Spanish bank BBVA. This enables customers to have their assets custodied by the bank rather than the exchange. BBVA, Spain&apos;s third-largest bank, has recently begun serving as one of the few independent custodians for Binance. The purpose of this move is to address investors&apos; concerns regarding the security of the exchange, particularly in the aftermath of the 2022 FTX bankruptcy event. Under the cooperative arrangement, traders&apos; funds will be held in the form of U.S. Treasury bonds at BBVA, and Binance will accept these assets as trading margin.</description>
+      <pubDate>Fri, 08 Aug 2025 04:24:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23649</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>If Ethereum Breaks $4000, Mainstream CEX Cumulative Short Liquidation Pressure Will Reach $677 Million</title>
       <link>https://www.lookonchain.com/feeds/23647</link>
       <description>On August 8th, according to Coinglass data, if Ethereum breaks through $4000, the cumulative short liquidation intensity of mainstream CEX will amount to 677 million.Conversely, if Ethereum drops below $3800, the cumulative long liquidation intensity of mainstream CEX will reach 1.247 billion.BlockBeats Notes: The liquidation chart does not display the exact number of contracts awaiting liquidation or the precise value of contracts being liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to neighboring liquidation clusters, which is referred to as intensity.Consequently, the liquidation chart shows to what degree the price of the underlying asset will be influenced when it reaches a particular level. A higher &quot;liquidation bar&quot; indicates that the price will undergo a more pronounced reaction due to a liquidity cascade when it reaches that specific point.</description>
-      <pubDate>Fri, 08 Aug 2025 04:17:15 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 04:17:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23647</guid>
       <category>crypto</category>
@@ -96,7 +154,7 @@
       <title>「Quad ETH Maxi Whale」 Increases Collateral by $5.53M, Liquidation Price Raised to $4,015.86</title>
       <link>https://www.lookonchain.com/feeds/23645</link>
       <description>On August 8th, as monitored by LookOnChain, the &quot;Four-Battle ETH 75% Win Rate Whale&quot; sold an additional 1,451 ETH within the past 18 hours. These ETH were exchanged for 5.53 million USDC and then deposited into Hyperliquid to avoid liquidation.The new liquidation price is: $4,015.86.The current total loss amount is: $11.62 million.</description>
-      <pubDate>Fri, 08 Aug 2025 03:57:15 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 04:04:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23645</guid>
       <category>crypto</category>
@@ -117,7 +175,7 @@
       <title>A certain trader bought the dip of a meme coin in the past 7 days and made a profit of 138x, totaling over $176,000.</title>
       <link>https://www.lookonchain.com/feeds/23646</link>
       <description>On August 8th, as monitored by on-chain analyst @ai_9684xtpa, a trader achieved a 138x return by purchasing during market dips in meme coins over the past 7 days. The Binance futures smart money user NAMSEOKHEE currently holds 75 positions, with 44 being wins and 31 being losses, resulting in total profits exceeding $176,000.</description>
-      <pubDate>Fri, 08 Aug 2025 03:57:15 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 04:04:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23646</guid>
       <category>crypto</category>
@@ -136,7 +194,7 @@
       <title>Standard &amp; Poor&apos;s has assigned Sky Protocol a &apos;B-&apos; credit rating due to its &quot;centralization and liquidity risks.&quot;</title>
       <link>https://www.lookonchain.com/feeds/23644</link>
       <description>On August 8th, as per The Block, S&amp;P Global has granted a &quot;B-&quot; credit rating to the issuer of USDS, Sky Protocol. This marks the first time that a rating agency has issued a credit rating for a stablecoin system. The report indicates that although Sky has maintained stable profits since 2020 and the losses have been manageable during market volatility, there are three main risks. Firstly, the founder Rune Christensen actually controls protocol decisions through a 9% governance token (and the low voting turnout exacerbates centralization). Secondly, the concentration of large depositors may trigger a bank run. Thirdly, there is a 0.4% risk-adjusted capital ratio and a weak static surplus reserve mechanism.S&amp;P states that the network security risks brought by smart contract asset storage and the uncertainty of DeFi regulations pose potential threats. In the next 12 months, if Sky experiences liquidity shortages, excessive losses in crypto loans, or an unfavorable regulatory environment</description>
-      <pubDate>Fri, 08 Aug 2025 03:56:15 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 04:04:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23644</guid>
       <category>crypto</category>
@@ -147,64 +205,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>WEEX x BOSS Newbie Welcome Gift: Recharge Transaction to Share 50,000 U</title>
-      <link>https://www.lookonchain.com/feeds/23643</link>
-      <description>August 8th, WEEX announced that the platform has launched the BOSS Newcomer Airdrop Event, with a total prize pool of 50,000 U. Before 18:00 on August 14 (UTC+8), new users with a net recharge of ≥ 100 U and who make their first spot trading with the BOSS trading pair can receive a 15 USDT reward. New users with a cumulative contract trading volume (no specific coin required) of ≥ 500 U can receive 15 USDT + 10 U in contract trial funds. New users with a daily cumulative contract trading volume of ≥ 10,000 U, maintained for 3 consecutive days or more, can share 20,000 USDT based on their trading volume proportion. For each successful referral by new or existing users, they can receive 10 USDT, with a maximum reward of 1,000 USDT per person.</description>
-      <pubDate>Fri, 08 Aug 2025 03:49:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23643</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $2.223 billion, while the Bitcoin Spot ETF saw a net inflow of $2.774 billion.</title>
-      <link>https://www.lookonchain.com/feeds/23642</link>
-      <description>On August 8th, based on the data from Farside Investors, yesterday the net inflow of funds into the US Ethereum spot ETF was $2.223 billion, and the net inflow into the Bitcoin spot ETF was $2.774 billion.</description>
-      <pubDate>Fri, 08 Aug 2025 03:49:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23642</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Market Cap Surpasses Vanguard FTSE All-World ETF, Global Asset Market Cap Rises to 27th Place</title>
-      <link>https://www.lookonchain.com/feeds/23641</link>
-      <description>On August 8th, based on 8marketcap data, the market capitalization of Ethereum (ETH) has achieved $475.7 billion. It has surpassed the Vanguard Total Stock Market ETF and risen to the 27th position in the global asset market value.</description>
-      <pubDate>Fri, 08 Aug 2025 03:48:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23641</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
