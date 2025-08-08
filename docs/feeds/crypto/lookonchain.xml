@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Aug 2025 14:59:01 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Aug 2025 14:59:01 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 15:33:22 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 15:33:22 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,104 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Gate has launched K perpetual contract trading</title>
+      <link>https://www.lookonchain.com/feeds/23763</link>
+      <description>On August 8th, as per the official announcement, Gate has initiated K perpetual contract trading (settled in USDT) and supports leverage ranging from 1 to 20x.</description>
+      <pubDate>Fri, 08 Aug 2025 15:24:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23763</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Vitalik: Significant Cultural Differences Between China and the United States, Longevity Technology Could Become a Future Cultural Preservation Tool</title>
+      <link>https://www.lookonchain.com/feeds/23762</link>
+      <description>On August 8th, Vitalik Buterin, a co-founder of Ethereum, posted on Farcaster and said, &quot;The cultural disparity between the United States and China is still approximately 4 times greater than the cultural disparity between two generations that are 30 years apart.&quot;However, I anticipate that with the acceleration of technological progress and the increasing interconnection of the world, this ratio will reverse and lead to unexpected consequences and impacts. (For instance, longevity technology itself may turn into a kind of &apos;cultural preservation&apos; approach.)</description>
+      <pubDate>Fri, 08 Aug 2025 15:24:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23762</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>After Ethereum Breaks $4,000, Polymarket Traders Further Bet on Its Price Breaking $4,200 This Month</title>
+      <link>https://www.lookonchain.com/feeds/23761</link>
+      <description>August 8th: Once Ethereum broke through $4000, the likelihood on Polymarket that ETH would surpass $4200 this month has risen by 17% and now stands at 68%.At the present moment of writing, more than $2.84 million has been wagered on this prediction.</description>
+      <pubDate>Fri, 08 Aug 2025 15:16:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23761</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>In the past 24 hours, Ethereum saw a total of $119 million in liquidations across the network, with the majority being long positions.</title>
+      <link>https://www.lookonchain.com/feeds/23759</link>
+      <description>On August 8th, based on Coinglass data, within the past 24 hours, the entire Ethereum network witnessed a liquidation amount of $119 million. Among them, the short liquidation amount was $93.0166 million.</description>
+      <pubDate>Fri, 08 Aug 2025 15:08:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23759</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Opinion: After Ethereum Breaks $4,000, the Next Target Price is $6,400</title>
+      <link>https://www.lookonchain.com/feeds/23760</link>
+      <description>On August 8th, according to the technical analysis of @ali_charts, if Ethereum breaks through $4000, the next target price will be $6400.</description>
+      <pubDate>Fri, 08 Aug 2025 15:08:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23760</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Trump: Tariffs Have a Tremendous Positive Effect on the Stock Market</title>
       <link>https://www.lookonchain.com/feeds/23758</link>
       <description>August 8th: President Trump of the US posted a new message on the social media platform &quot;Truth&quot;: &quot;Tariffs are exerting a tremendous positive impact on the stock market. Almost every day is setting new records. Furthermore, hundreds of billions of dollars are flowing into the US Treasury. If at this time a radical left-wing court makes a ruling against us and attempts to suppress or disrupt the largest-scale funding, wealth creation, and influence in the history of the US, then we will never be able to recover or repay these massive funds, nor will we be able to regain our honor. That will be a repetition of 1929, a great depression!&quot;</description>
-      <pubDate>Fri, 08 Aug 2025 14:56:08 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 14:56:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23758</guid>
       <category>crypto</category>
@@ -34,7 +128,7 @@
       <title>Hongqiao Group has reached a strategic cooperation with Oriental Ecolink to establish a digital ecosystem for RWA timber assets.</title>
       <link>https://www.lookonchain.com/feeds/23757</link>
       <description>August 8th. The Hong Kong-listed company Hungqiao Group (08137.HK) announced that on August 8, 2025, it signed a non-legally binding memorandum of understanding with Oriental Yilin, a digital operation service provider for forest assets. Both parties will jointly establish a &quot;Forest + Finance + Blockchain&quot; integrated ecosystem in order to promote the application of Real World Assets (RWA) in the forestry field.This action indicates that Hungqiao Group has officially entered the new RWA track. (Sohu Finance)</description>
-      <pubDate>Fri, 08 Aug 2025 14:49:08 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 14:48:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23757</guid>
       <category>crypto</category>
@@ -51,7 +145,7 @@
       <title>A certain smart money increased its ETH long position by acquiring 4000 coins at an average price of $3997, while also holding a 40x leverage Bitcoin long position.</title>
       <link>https://www.lookonchain.com/feeds/23756</link>
       <description>On August 8th, according to on-chain data, a certain shrewd capital increased its long position in ETH by 4000 coins within a half-hour period with a leverage of 25x at an average price of $3997, resulting in its current holding reaching $20.55 million.It is worth noting that this address had partially closed some of its long positions in ETH just 50 minutes earlier. As of now, the same address also holds a long position in Bitcoin with a 40x leverage and a value of $29.17 million.</description>
-      <pubDate>Fri, 08 Aug 2025 14:48:08 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 14:48:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23756</guid>
       <category>crypto</category>
@@ -73,7 +167,7 @@
       <title>Due to the fact that the mining rigs were determined by the United States to be of Chinese origin, CleanSpark faces up to a $185 million punitive tariff.</title>
       <link>https://www.lookonchain.com/feeds/23755</link>
       <description>August 8th: The U.S. crypto mining firm CleanSpark made it known that a portion of the Bitcoin miners it imported from April to June 2024 have been identified by U.S. Customs as having Chinese origins. This potentially exposes them to a punitive tariff of up to $185 million. CleanSpark refutes these allegations, claiming that its purchase contracts and supplier documents show that the miners are not manufactured in China and will firmly defend against the accusations.Reports suggest that previously, the mining firm IREN also encountered similar disputes involving an amount of $100 million. (The Miner Mag)</description>
-      <pubDate>Fri, 08 Aug 2025 14:40:08 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 14:40:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23755</guid>
       <category>crypto</category>
@@ -91,107 +185,9 @@
       <title>Ethereum&apos;s Largest Whale BMNR Sees Unrealized Gain of Over 14%, Amounting to $410 Million</title>
       <link>https://www.lookonchain.com/feeds/23754</link>
       <description>August 8th. According to the most recent announcement, by August 3rd at 6:30 PM Eastern Time, the largest holding institution of Ethereum, BitMine (BMNR), holds 833,137 ETH with a price of $3,491.86 per ETH.Based on the current market price of Ethereum at $3,984, the current unrealized gain/loss ratio of BMNR is 14.09%, and the unrealized gain is $410 million.</description>
-      <pubDate>Fri, 08 Aug 2025 14:33:08 +0000</pubDate>
+      <pubDate>Fri, 08 Aug 2025 14:32:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23754</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale bought 1390 ETH at an average price of $4000 and used it as collateral to leverage the ETH/BTC exchange rate.</title>
-      <link>https://www.lookonchain.com/feeds/23753</link>
-      <description>On August 8th, as per LookOnChain&apos;s monitoring, when ETH exceeded $4000, whale 0xaf6c made a purchase. It bought 1,390 WETH at a price of $4000 each, amounting to $5.56 million. Subsequently, this whale deposited these 1,390 WETH into Aave. It then borrowed 52.83 WBTC ($6.17 million) from Aave and swapped it for 1,539 WETH ($6.17 million).</description>
-      <pubDate>Fri, 08 Aug 2025 14:32:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23753</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The United States and Russia plan to reach an agreement on the Ukraine issue</title>
-      <link>https://www.lookonchain.com/feeds/23752</link>
-      <description>Update: On August 8th, as per market intelligence, the United States and Russia are scheduled to reach an accord on the Ukraine matter and are set to hold a summit in the coming week. Under the terms of the agreement, Russia will halt its offensive actions along the present front line in the Kherson and Zaporizhzhia regions of Ukraine.</description>
-      <pubDate>Fri, 08 Aug 2025 14:32:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23752</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Lens is launching a Token Distributor that will distribute GHO tokens to real users.</title>
-      <link>https://www.lookonchain.com/feeds/23751</link>
-      <description>On August 8th, as per official channels, Lens has made an announcement regarding the launch of a token dispenser. This dispenser is utilized for gasless token distribution, which is based on the real user value rather than superficial activities.The dispenser is constructed on Lens and is currently in the preliminary testing stage. It will directly distribute GHO to high-value users and deposit it directly into their Lens account without the need for any claiming process. The team stated that although the first phase mainly focuses on GHO, the system is capable of supporting all ERC-20 tokens.In April of this year, Layer 2 SocialFi blockchain Lens Chain announced the official launch of its mainnet.</description>
-      <pubDate>Fri, 08 Aug 2025 14:24:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23751</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>If Ethereum breaks above $4,100, the mainstream CEX total short liquidation volume will reach $864 million.</title>
-      <link>https://www.lookonchain.com/feeds/23750</link>
-      <description>On August 8th, according to Coinglass data, if Ethereum manages to break through $4100, the cumulative short liquidation intensity on mainstream CEXs will reach 864 million.Conversely, if Ethereum drops below $3900, the cumulative long liquidation intensity on mainstream CEXs will reach 668 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what extent the target price will be influenced when it reaches a certain position. A higher &quot;liquidation bar&quot; indicates that the price will experience a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Fri, 08 Aug 2025 14:16:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23750</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「ETH Whale with 75% Win Rate in Four Battles」 on the Verge of Liquidation, Ethereum Short Position Faces Over $9 Million in Unrealized Losses</title>
-      <link>https://www.lookonchain.com/feeds/23749</link>
-      <description>On August 8th, as indicated by on-chain data, the &quot;Four-Battle ETH 75% Win Rate Whale&quot; is on the verge of liquidation (with a liquidation price of $4,016.41). Its 15x short position in Ethereum is facing a floating loss of more than $9 million.</description>
-      <pubDate>Fri, 08 Aug 2025 14:10:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23749</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
