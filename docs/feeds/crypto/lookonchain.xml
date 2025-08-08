@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Aug 2025 01:25:40 +0000</lastBuildDate>
-    <pubDate>Fri, 08 Aug 2025 01:25:40 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 03:23:15 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 03:23:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>A whale address sold 70,000 SOL, swapped for 13,000 HYPE and 1,711 ETH</title>
-      <link>https://www.lookonchain.com/feeds/23621</link>
-      <description>August 8th. According to the monitoring of Onchain Lens, a whale address deposited 70,558 SOL worth $12.39 million into HyperLiquid yesterday and then sold it to make purchases. It bought:· 130,737 HYPE, which was worth $5.335 million and was bought at an average price of $4,080.· 1,711.77 ETH, which was worth $6.655 million and was bought at an average price of $3,888.</description>
-      <pubDate>Fri, 08 Aug 2025 01:24:48 +0000</pubDate>
+      <title>Base: Introducing Creator Content Transaction Fee Splitting Mechanism in the Base app</title>
+      <link>https://www.lookonchain.com/feeds/23634</link>
+      <description>August 8th, Base tweeted that on the Base app, creators have the opportunity to earn income when users engage with their content. Each time a post is bought or sold, the creator will directly receive a fee into their wallet. Commencing from today, Base will start to support creators in this new global economic model by collecting minted content.In addition, Base declared that this series is not intended for investment returns and is not financial advice; it is advisable that you conduct your own research. Base plans to hold these tokens indefinitely and will neither trade nor sell them. We think that creators should be directly rewarded for their creativity and hope to show how creators can make a profit from their content.</description>
+      <pubDate>Fri, 08 Aug 2025 03:08:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23621</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23634</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Vitalik: Ethereum Treasury Foundation Expands ETH Investment Channels, But Mishandling Could Lead to &quot;Over-Leveraged Gamble&quot;</title>
+      <link>https://www.lookonchain.com/feeds/23632</link>
+      <description>On August 8th, as per Cointelegraph, Vitalik, the founder of Ethereum, stated that the Ethereum Treasury company has broadened the channels for a more extensive set of investors to gain access to ETH. However, he cautioned that if not managed properly, this trend might develop into an &quot;over-leveraged game.&quot;</description>
+      <pubDate>Fri, 08 Aug 2025 02:56:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23632</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,16 +47,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
 
     </item>
     <item>
-      <title>US Stock Crypto Stocks Generally Up, CRCL Down 5.43%, BTBT Down 14.24%</title>
-      <link>https://www.lookonchain.com/feeds/23622</link>
-      <description>On August 8th, according to data from rockflow (click https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats to view), the U.S. stock market closed on Thursday. The Dow Jones Industrial Average (DJIA) initially decreased by 0.51%, the S&amp;P 500 Index went down by 0.08%, and the Nasdaq rose by 0.35%. Cryptocurrency stocks generally showed an upward trend. Some individual stocks experienced significant declines, including:Coinbase (COIN) increased by 2.37%.Circle (CRCL) dropped by 5.43%.MicroStrategy (MSTR) rose by 4.85%.Bitmine (BMNR) rose by 7.30%.BTCS (BTCS) rose by 7.14%.Bit Digital (BTBT) fell by 14.24%.SharpLink Gaming (SBET) rose by 5.51%.</description>
-      <pubDate>Fri, 08 Aug 2025 01:24:48 +0000</pubDate>
+      <title>Base Token Ecotoken Experiences Widespread Price Increase, ZORA Surges 30% in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/23633</link>
+      <description>On August 8th, based on GMGN market data, the Base ecosystem tokens generally witnessed a price increase. These include:· ZORA witnessed a 30.1% price rise in the past 24 hours. It currently has a market capitalization of $256 million and a 24-hour trading volume of $176 million.· BNKR saw a 17.2% price increase in the last 24 hours. Its current market capitalization is $81.59 million and the 24-hour trading volume is $12.45 million.· DRB had a 30.5% price increase in the past 24 hours. It currently has a market capitalization of $19.19 million and a 24-hour trading volume of $3.92 million.· KTA saw a 28.7% price increase in the last 24 hours. It currently has a market capitalization of $524 million and a 24-hour trading volume of $20.98 million.</description>
+      <pubDate>Fri, 08 Aug 2025 02:56:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23622</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23633</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,12 +67,12 @@
 
     </item>
     <item>
-      <title>Analyst: Stephen Miran&apos;s Joining the Fed Will Put More Pressure on Powell to Cut Rates</title>
-      <link>https://www.lookonchain.com/feeds/23620</link>
-      <description>August 8th - Jay Hatfield, who is the CEO of New York Infrastructure Capital Management, pointed out that the appointment of Stephen Miran as a temporary board member of the Federal Reserve is somewhat unusual. This is because he previously served as the Chairman of the President&apos;s Council of Economic Advisers and has made some controversial and even questionable statements, such as advocating for the mandatory purchase of government bonds. However, Hatfield believes that this will not have an impact on Miran&apos;s duties as a Federal Reserve board member. This position is not that ideal, and serving as a short-term board member is not a particularly attractive opportunity. This decision is quite practical because it is difficult to draw someone from the private sector for such a short period. The public&apos;s attention is still focused on the nomination of the Federal Reserve Chairman, but the addition of Stephen Miran will put more pressure on Powell to cut interest rates. (Golden Ten)</description>
-      <pubDate>Fri, 08 Aug 2025 01:16:48 +0000</pubDate>
+      <title>Solana On-Chain Meme Coin BOSS Surges Over 132% in 24 Hours, Reaching a Market Cap of $29 Million</title>
+      <link>https://www.lookonchain.com/feeds/23631</link>
+      <description>On August 8th, according to GMGN data, the Solana-based Meme coin BOSS witnessed a surge of over 132% within the past 24 hours. It has a market capitalization of $29 million and a 24-hour trading volume of $69 million.BlockBeats reminds users that Meme coins typically lack practical use cases and undergo significant price fluctuations. Therefore, investment should be approached with caution.</description>
+      <pubDate>Fri, 08 Aug 2025 02:48:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23620</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23631</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -65,15 +81,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>CryptoQuant: Bitcoin Enters Bull Market Cooling-off Period, Fed&apos;s September Meeting Rate Cut Could Be a New Catalyst</title>
-      <link>https://www.lookonchain.com/feeds/23619</link>
-      <description>On August 8th, the blockchain data analysis firm CryptoQuant pointed out that after Bitcoin reached a historical high of $123,000 last month, it is showing signs of short-term consolidation or a mild downward risk.The company stated in a report released on Thursday: &quot;Bitcoin has entered a bull market cooldown period. The bullishness index has dropped from 80 to 60. Although the overall environment remains positive, the upward momentum is weakening. CryptoQuant&apos;s bullishness index evaluates the strength of the Bitcoin market through multiple on-chain indicators. A value close to 100 indicates strong buying pressure and bullish sentiment, while close to zero indicates heavy selling pressure.&quot;CryptoQuant&apos;s analysis stated that the current index value of 60 is still in the bullish range, but the momentum is continuing to wane. The index retreat reflects profit-taking after reaching a historical high and also includes a seasonal slowdown in summer trading activity. The report specifically</description>
-      <pubDate>Fri, 08 Aug 2025 01:08:48 +0000</pubDate>
+      <title>AguilaTrades has increased its long positions for BTC and ETH to $227 million, currently realizing a profit of $3.227 million.</title>
+      <link>https://www.lookonchain.com/feeds/23629</link>
+      <description>On August 8th, according to on-chain analyst Ai (@ai_9684xtpa), trader AguilaTrades has boosted their long positions in BTC and ETH to $227 million this morning, currently having a floating profit of $3.227 million.· BTC: 40 times long, holding 1277.75 BTC, with an entry price of $115,968.· ETH: 25 times long, holding 20296.06 ETH, and the entry price is $3,783.1.</description>
+      <pubDate>Fri, 08 Aug 2025 02:40:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23619</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23629</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -84,110 +101,87 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>CryptoQuant Research Chief: XRP Whale is accelerating token movement to CEX, price may face short-term pressure</title>
-      <link>https://www.lookonchain.com/feeds/23618</link>
-      <description>On August 8th, Julio Moreno, the Head of Research at CryptoQuant, pointed out that as XRP whales expedited the transfer of assets to exchanges, the price of the token might encounter short-term pressure. &quot;A sudden inflow of whale funds into exchanges can indicate a price turning point because these large holders may begin to sell off,&quot; Moreno said.CryptoQuant data reveals that as of Thursday, the 30-day moving average of XRP whales transferring to exchanges has risen from 141 million coins in early July to 260 million coins.Whale activity has a substantial impact on market sentiment. Moreno further added that in July, XRP&apos;s price declined after a surge in whale fund inflows. It is worth noting that on July 18th, the day when XRP reached a historical high, whales transferred 660 million tokens to exchanges, and in the subsequent week, the price dropped back to $3.</description>
-      <pubDate>Fri, 08 Aug 2025 01:00:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23618</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Web3+AI project Perle has completed a $9 million fundraising round, with Framework Ventures leading the investment.</title>
-      <link>https://www.lookonchain.com/feeds/23617</link>
-      <description>On August 8th, as reported by The Block, the Web3-based artificial intelligence project Perle has completed a seed round of financing worth $9 million, with Framework Ventures serving as the lead investor. This funding round has increased Perle&apos;s total funding to $17.5 million.With the newly obtained funds, Perle will establish Perle Labs, a product that utilizes blockchain infrastructure, user payment incentives, and on-chain attribution to enhance the training methods of AI models. According to the Perle website, Perle offers &quot;curated&quot; data and human moderators.Previously, in October 2024, Perle raised $8.5 million in a seed funding round led by CoinFund.</description>
-      <pubDate>Fri, 08 Aug 2025 00:56:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23617</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Whale Contract Trader AguilaTrades&apos; long position has been increased to $223 million</title>
-      <link>https://www.lookonchain.com/feeds/23616</link>
-      <description>On August 8th, according to the monitoring of on-chain data analyst Yu Jin, the whale contract trader AguilaTrades has been continuously increasing his long position through TWAP since yesterday afternoon. Currently, his long position is worth $223 million, with an unrealized gain of $4.76 million:Long 1277 BTC with 40 times leverage, worth $150 million, entry price $115,968, liquidation price $112,932;Long 18833 ETH with 25 times leverage, worth $73.64 million, entry price $3,774, liquidation price $3,600.</description>
-      <pubDate>Fri, 08 Aug 2025 00:56:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23616</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ripple Invests $200 Million to Acquire Payment Platform Rail, to Jointly Develop a Stablecoin Payment Solution</title>
-      <link>https://www.lookonchain.com/feeds/23615</link>
-      <description>On August 8th, Ripple announced that it has reached an agreement to acquire the global payment platform Rail, which is based on stablecoins, for $200 million.It is reported that Rail provides payment solutions to fintech companies, payment service providers, digital banks, and enterprises. These solutions include virtual IBANs, named accounts, USD payment channels, and third-party payments. Currently, Rail has 12 bank partners.Through this acquisition, Ripple and Rail will jointly develop a stablecoin payment solution. The goal is to enhance Ripple&apos;s position as a &quot;digital asset payment infrastructure.&quot; Ripple Payments currently has an extensive payment network, digital asset liquidity, and more than 60 licenses for compliant management of customer payment flows. Rail&apos;s virtual accounts and automated backend infrastructure will further improve Ripple&apos;s operational efficiency.</description>
-      <pubDate>Fri, 08 Aug 2025 00:48:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23615</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale address shorted ETH with 15x leverage, once reaching a peak profit of $14 million. It is now facing a loss of $7 million.</title>
-      <link>https://www.lookonchain.com/feeds/23613</link>
-      <description>On August 8th, according to the monitoring of On-chain Lens, the whale address with the contract starting with 0xcb9 once had a $14 million unrealized profit in its recent short position of ETH (15x), but failed to close the position. Now, with the surge in the price of ETH, its short position has changed from a $14 million unrealized profit to a $7 million unrealized loss, resulting in a total loss of $11 million.</description>
-      <pubDate>Fri, 08 Aug 2025 00:48:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23613</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
       <category>high-value</category>
       <category>profit</category>
 
     </item>
     <item>
-      <title>pump.fun Launches Glass Full Foundation to Accelerate Community Development in the Ecosystem</title>
-      <link>https://www.lookonchain.com/feeds/23614</link>
-      <description>August 8th. According to official channels, pump.fun has declared the commencement of the Glass Full Foundation in order to expedite community development within the ecosystem. The foundation will supply liquidity to tokens in the pump.fun ecosystem so as to provide support for core community projects. It has already initiated the provision of initial support to multiple projects and will persist in deploying funds.</description>
-      <pubDate>Fri, 08 Aug 2025 00:48:48 +0000</pubDate>
+      <title>CME FedWatch: 92.7% Probability of 25 Basis Point Rate Cut in September</title>
+      <link>https://www.lookonchain.com/feeds/23630</link>
+      <description>On August 8th, based on CME&apos;s &quot;FedWatch&quot; data, the likelihood of a 25-basis-point rate cut in September is 92.7%, and the probability of rates remaining unchanged is 7.3%.</description>
+      <pubDate>Fri, 08 Aug 2025 02:40:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23614</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23630</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Upbit Lists STORY (STO) Spot Trading</title>
+      <link>https://www.lookonchain.com/feeds/23628</link>
+      <description>On August 8th, according to official information, Upbit has launched STORY (IP) spot trading, with support for KRW, BTC, and USDT markets.Based on HTX market data, influenced by the news of Upbit&apos;s listing, IP saw a short-term surge of over 15% and is currently priced at $7.14.</description>
+      <pubDate>Fri, 08 Aug 2025 02:22:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23628</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Affected by the Upbit listing news, IP surged over 15% in a short period</title>
+      <link>https://www.lookonchain.com/feeds/23627</link>
+      <description>On August 8th, according to HTX market data, due to the announcement of the Upbit listing, IP briefly surged by more than 15% and is currently trading at $7.14.</description>
+      <pubDate>Fri, 08 Aug 2025 02:22:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23627</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Shitcoins See Bull Run: Pendle Surges by 27.51%, XRP Spikes 11% as Lawsuit Ends</title>
+      <link>https://www.lookonchain.com/feeds/23626</link>
+      <description>On August 8th, based on HTX market data, since Bitcoin broke through $117,000 this morning and Ethereum broke through $3,900, altcoins witnessed a general surge. These include:- BIO with a 24-hour gain of 47.86% and currently priced at $0.09.- BB with a 24-hour gain of 42.94% and currently priced at $0.1448.- PENDLE with a 24-hour gain of 27.51% and currently priced at $5.1.- ORCA with a 24-hour gain of 21.24% and currently priced at $2.6.- FXS with a 24-hour gain of 15.28% and currently priced at $2.94.- XLM with a 24-hour gain of 14.34% and currently priced at $0.4566.- LDO with a 24-hour gain of 12.07% and currently priced at $1.048.- XRP with a 24-hour gain of 11.13% and currently priced at $3.31.- LINK with a 24-hour gain of 10.46% and currently priced at $18.38.</description>
+      <pubDate>Fri, 08 Aug 2025 02:22:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23626</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Pendle Finance&apos;s multi-signature address sent 900,000 PENDLE to Binance</title>
+      <link>https://www.lookonchain.com/feeds/23625</link>
+      <description>On August 8th, according to on-chain data analyst Yu Jin, a multi-signature address of Pendle Finance transferred 900,000 PENDLE tokens (approximately $4.65 million) to Binance around 25 minutes ago. Additionally, according to HTX market data, PENDLE has witnessed a 24-hour price increase of 28.31% and is currently trading at $5.118.</description>
+      <pubDate>Fri, 08 Aug 2025 02:22:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23625</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
