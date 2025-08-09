@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Aug 2025 13:52:09 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Aug 2025 13:52:09 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 14:13:06 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 14:13:06 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某巨鲸做空ENA现已浮亏 328.8 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，今年七月底开始 5x 做空ENA地址已浮亏328.8万美元，他的 ENA 空单开仓价格为 0.5236美元（现价 0.7328美元）；此外，他还做空了包含 ETH / LDO / MKR /CRV 在内的一揽子以太坊生态代币，目前累计浮亏 ...</description>
+      <pubDate>Sat, 09 Aug 2025 13:53:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>ETH 联创 Jeffrey Wilcke 时隔三个月再次将 9840.36 枚ETH 充值进 Kraken</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Coinglass数据显示，过去1小时ETH多空爆仓总额达1.14亿美元，其中空单爆仓1.12亿美元，多单爆仓173.04万美元。</description>
       <pubDate>Sat, 09 Aug 2025 05:13:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>ETH突破4200美元，24小时涨幅扩大至7.02%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>HTX行情显示，ETH突破4200美元，现报4175美元，24小时涨幅扩大至7.02%。</description>
-      <pubDate>Sat, 09 Aug 2025 05:07:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
