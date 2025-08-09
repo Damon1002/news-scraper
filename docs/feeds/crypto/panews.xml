@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Aug 2025 08:22:27 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Aug 2025 08:22:27 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 08:46:15 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 08:46:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,59 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>ETH突破4200美元，日内涨幅 6.21%</title>
+      <link>https://www.panewslab.com/zh/articles/7tw70tyl</link>
+      <description>ETH突破4200美元，日内涨幅 6.21%</description>
+      <pubDate>Sat, 09 Aug 2025 08:46:15 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7tw70tyl</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>BTC突破117000美元，日内涨幅 0.69%</title>
+      <link>https://www.panewslab.com/zh/articles/9kz6sxs8</link>
+      <description>BTC突破117000美元，日内涨幅 0.69%</description>
+      <pubDate>Sat, 09 Aug 2025 08:44:15 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9kz6sxs8</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>2025年《财富》发布全球最具影响力商界人士榜：黄仁勋榜首</title>
+      <link>https://www.panewslab.com/zh/articles/93a50969-f90a-4f30-a810-eb33120471a9</link>
+      <description>2025年《财富》发布全球最具影响力商界人士榜：黄仁勋榜首</description>
+      <pubDate>Sat, 09 Aug 2025 08:42:15 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/93a50969-f90a-4f30-a810-eb33120471a9</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>Glassnode：过去几天ETH首次购买者和动量交易者均大幅增加</title>
       <link>https://www.panewslab.com/zh/articles/953fdd1f-3f69-42c0-a9e9-2f7d070fc80b</link>
       <description>Glassnode：过去几天ETH首次购买者和动量交易者均大幅增加</description>
-      <pubDate>Sat, 09 Aug 2025 08:22:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:40:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/953fdd1f-3f69-42c0-a9e9-2f7d070fc80b</guid>
       <category>crypto</category>
@@ -34,7 +83,7 @@
       <title>持有ETH 8年的某地址在2小时前卖出3280枚ETH，收益率达288倍</title>
       <link>https://www.panewslab.com/zh/articles/94cf6217-7459-49fb-ba0c-2cc978f89437</link>
       <description>持有ETH 8年的某地址在2小时前卖出3280枚ETH，收益率达288倍</description>
-      <pubDate>Sat, 09 Aug 2025 08:20:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:38:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/94cf6217-7459-49fb-ba0c-2cc978f89437</guid>
       <category>crypto</category>
@@ -51,7 +100,7 @@
       <title>某地址疑似抛售6314.12枚ETH，价值2545万美元</title>
       <link>https://www.panewslab.com/zh/articles/a50d1f1a-3711-4e18-8d7f-e9a00355009c</link>
       <description>某地址疑似抛售6314.12枚ETH，价值2545万美元</description>
-      <pubDate>Sat, 09 Aug 2025 08:18:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:36:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a50d1f1a-3711-4e18-8d7f-e9a00355009c</guid>
       <category>crypto</category>
@@ -68,7 +117,7 @@
       <title>Gate Alpha将开启积分空投第六期，持有76积分可抢先领取100 BSU</title>
       <link>https://www.panewslab.com/zh/articles/e3d77eda-428a-4d63-a313-45052e287b31</link>
       <description>Gate Alpha将开启积分空投第六期，持有76积分可抢先领取100 BSU</description>
-      <pubDate>Sat, 09 Aug 2025 08:16:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:34:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e3d77eda-428a-4d63-a313-45052e287b31</guid>
       <category>crypto</category>
@@ -83,7 +132,7 @@
       <title>“四战ETH 75%胜率鲸鱼”已全部平仓，此次做空ETH亏损2073万美元</title>
       <link>https://www.panewslab.com/zh/articles/f7eec9e1-f409-4659-b0b2-391314888b6d</link>
       <description>“四战ETH 75%胜率鲸鱼”已全部平仓，此次做空ETH亏损2073万美元</description>
-      <pubDate>Sat, 09 Aug 2025 08:14:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:32:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f7eec9e1-f409-4659-b0b2-391314888b6d</guid>
       <category>crypto</category>
@@ -100,7 +149,7 @@
       <title>Arthur Hayes：不得不全部买回ETH，发誓再也不止盈了</title>
       <link>https://www.panewslab.com/zh/articles/9afd8f6d-5cf7-4017-8085-6fd18348eec7</link>
       <description>Arthur Hayes：不得不全部买回ETH，发誓再也不止盈了</description>
-      <pubDate>Sat, 09 Aug 2025 08:12:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:30:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9afd8f6d-5cf7-4017-8085-6fd18348eec7</guid>
       <category>crypto</category>
@@ -117,7 +166,7 @@
       <title>巴西央行数字货币Drex将放弃区块链技术，以便在2026年推出</title>
       <link>https://www.panewslab.com/zh/articles/0b6f56d7-0d63-4e41-b9f8-57da73a6fe23</link>
       <description>巴西央行数字货币Drex将放弃区块链技术，以便在2026年推出</description>
-      <pubDate>Sat, 09 Aug 2025 08:10:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:28:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0b6f56d7-0d63-4e41-b9f8-57da73a6fe23</guid>
       <category>crypto</category>
@@ -132,7 +181,7 @@
       <title>数据：过去7天USDC流通量约增加8亿枚</title>
       <link>https://www.panewslab.com/zh/articles/855885f6-0662-4d20-8b48-8165eaa164f0</link>
       <description>数据：过去7天USDC流通量约增加8亿枚</description>
-      <pubDate>Sat, 09 Aug 2025 08:08:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:26:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/855885f6-0662-4d20-8b48-8165eaa164f0</guid>
       <category>crypto</category>
@@ -147,7 +196,7 @@
       <title>LD Capital创始人：ETH新目标是5000美元突破新高，降息预期来临会有优质山寨季</title>
       <link>https://www.panewslab.com/zh/articles/1062a27c-8456-48d0-98b1-976b05e5af8b</link>
       <description>LD Capital创始人：ETH新目标是5000美元突破新高，降息预期来临会有优质山寨季</description>
-      <pubDate>Sat, 09 Aug 2025 08:06:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:24:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1062a27c-8456-48d0-98b1-976b05e5af8b</guid>
       <category>crypto</category>
@@ -164,7 +213,7 @@
       <title>某交易员在ETH突破4200美元后被全部清算，总损失超1585万美元</title>
       <link>https://www.panewslab.com/zh/articles/a7d6787d-5962-40dd-9347-13252f1278bd</link>
       <description>某交易员在ETH突破4200美元后被全部清算，总损失超1585万美元</description>
-      <pubDate>Sat, 09 Aug 2025 08:04:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:22:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a7d6787d-5962-40dd-9347-13252f1278bd</guid>
       <category>crypto</category>
@@ -181,7 +230,7 @@
       <title>WORLD3发布演示视频，揭示“持久化专家智能体”如何实现Web3全自动化</title>
       <link>https://www.panewslab.com/zh/articles/19045aa2-cc4f-4250-a3f9-d3337b600ea5</link>
       <description>WORLD3发布演示视频，揭示“持久化专家智能体”如何实现Web3全自动化</description>
-      <pubDate>Sat, 09 Aug 2025 08:02:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:20:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/19045aa2-cc4f-4250-a3f9-d3337b600ea5</guid>
       <category>crypto</category>
@@ -196,7 +245,7 @@
       <title>过去1小时全网合约爆仓1.39亿美元，ETH爆仓1.14亿美元</title>
       <link>https://www.panewslab.com/zh/articles/862b94f1-c761-4b37-ab77-8b7fa4ff26bd</link>
       <description>过去1小时全网合约爆仓1.39亿美元，ETH爆仓1.14亿美元</description>
-      <pubDate>Sat, 09 Aug 2025 08:00:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:18:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/862b94f1-c761-4b37-ab77-8b7fa4ff26bd</guid>
       <category>crypto</category>
@@ -213,7 +262,7 @@
       <title>ETH突破4200美元后回落，日内涨幅达3.94%</title>
       <link>https://www.panewslab.com/zh/articles/c141c3f6-ce32-451b-ba9c-cb30d488c295</link>
       <description>ETH突破4200美元后回落，日内涨幅达3.94%</description>
-      <pubDate>Sat, 09 Aug 2025 07:58:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:16:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c141c3f6-ce32-451b-ba9c-cb30d488c295</guid>
       <category>crypto</category>
@@ -230,7 +279,7 @@
       <title>币安：持有至少200个Alpha积分方可领取510个BSU代币空投</title>
       <link>https://www.panewslab.com/zh/articles/edff47c9-73ea-4e26-9f92-9d33898c3fc3</link>
       <description>币安：持有至少200个Alpha积分方可领取510个BSU代币空投</description>
-      <pubDate>Sat, 09 Aug 2025 07:56:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:14:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/edff47c9-73ea-4e26-9f92-9d33898c3fc3</guid>
       <category>crypto</category>
@@ -245,7 +294,7 @@
       <title>ETH突破4100美元，日内涨幅 3.73%</title>
       <link>https://www.panewslab.com/zh/articles/5ud7o3h4</link>
       <description>ETH突破4100美元，日内涨幅 3.73%</description>
-      <pubDate>Sat, 09 Aug 2025 07:54:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:12:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5ud7o3h4</guid>
       <category>crypto</category>
@@ -262,7 +311,7 @@
       <title>自称来自乌克兰的某Web3团队以面试为由，引诱成员克隆恶意代码</title>
       <link>https://www.panewslab.com/zh/articles/2d7f5bce-132f-4748-89c6-fb3938e4263a</link>
       <description>自称来自乌克兰的某Web3团队以面试为由，引诱成员克隆恶意代码</description>
-      <pubDate>Sat, 09 Aug 2025 07:52:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:10:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2d7f5bce-132f-4748-89c6-fb3938e4263a</guid>
       <category>crypto</category>
@@ -277,60 +326,9 @@
       <title>以太坊现货ETF昨日净流入4.61亿美元，持续4日净流入</title>
       <link>https://www.panewslab.com/zh/articles/e1aff53d-6ecc-4de1-b722-fc7998520783</link>
       <description>以太坊现货ETF昨日净流入4.61亿美元，持续4日净流入</description>
-      <pubDate>Sat, 09 Aug 2025 07:50:27 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 08:08:15 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e1aff53d-6ecc-4de1-b722-fc7998520783</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>分析：若ETH突破4100美元关键阻力位，或将快速升至4400-4500美元</title>
-      <link>https://www.panewslab.com/zh/articles/5bf08a0f-a8c8-4381-aea1-00aebd0c3f0d</link>
-      <description>分析：若ETH突破4100美元关键阻力位，或将快速升至4400-4500美元</description>
-      <pubDate>Sat, 09 Aug 2025 07:48:27 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5bf08a0f-a8c8-4381-aea1-00aebd0c3f0d</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>比特币现货ETF昨日净流入4.04亿美元，持续3日净流入</title>
-      <link>https://www.panewslab.com/zh/articles/9670a082-80e6-4f5a-9c11-0de6f50fd73a</link>
-      <description>比特币现货ETF昨日净流入4.04亿美元，持续3日净流入</description>
-      <pubDate>Sat, 09 Aug 2025 07:46:27 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9670a082-80e6-4f5a-9c11-0de6f50fd73a</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼此前在ETH暴跌期间抛售38,582枚ETH，目前高价回购1800枚ETH</title>
-      <link>https://www.panewslab.com/zh/articles/3c95cf52-2df2-43d5-a9d5-d19242149f97</link>
-      <description>某鲸鱼此前在ETH暴跌期间抛售38,582枚ETH，目前高价回购1800枚ETH</description>
-      <pubDate>Sat, 09 Aug 2025 07:44:27 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3c95cf52-2df2-43d5-a9d5-d19242149f97</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
