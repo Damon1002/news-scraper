@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Aug 2025 07:54:06 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Aug 2025 07:54:06 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 08:22:27 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 08:22:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Glassnode：ETH新增买盘与存量持有者共同推升市场动能</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Glassnode 发文分析称，在过去的几天里，ETH 的首次购买者和动量交易者（Momentum Buyers）数量都大幅增加，这表明新的需求进入市场，同时现有持有者也愿意提高成本基础，重新参与其中。</description>
+      <pubDate>Sat, 09 Aug 2025 08:17:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某地址卖出持有8年的3280枚ETH，回报率达288倍</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Arkham 监测，pump.fun 向一个新地址发送了另外 560 万美元的 SOL，用于回购 PUMP。到目前为止，其已经在这个地址回购了价值 668 万美元的 PUMP，并将其中的 572 万美元发送到了 Squads Vault。</description>
       <pubDate>Sat, 09 Aug 2025 01:49:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BlackRock明确表态暂无计划推出XRP和SOL ETF</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据The Block报道，全球最大资产管理公司BlackRock于8月9日明确表示，目前没有计划申请发行XRP或SOL ETF。此声明出现在Ripple与美国证券交易委员会（SEC）长达数年的诉讼终结之后。尽管市场此前预期Ripple诉讼案的结束可能刺激大型机构申请XRP ETF，但BlackRo...</description>
-      <pubDate>Sat, 09 Aug 2025 01:39:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
