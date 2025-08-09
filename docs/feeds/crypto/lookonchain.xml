@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:57:14 +0000</lastBuildDate>
-    <pubDate>Sat, 09 Aug 2025 00:57:14 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 02:50:56 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 02:50:56 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,102 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>US Stock ETH Strategy Stocks Soar, BMNR Surges by 24.59%, Daily Trading Volume Overtakes Strategy (MSTR)</title>
-      <link>https://www.lookonchain.com/feeds/23779</link>
-      <description>On August 9th, according to market data from rockflow, the U.S. stock market closed higher on Friday, with all three major indexes showing an upward trend. The Dow increased by 0.47%, the S&amp;P 500 Index rose by 0.78%, and the Nasdaq went up by 0.98%. U.S. stock ETH strategy stocks generally witnessed a rise, including:Circle (CRCL) rose by 3.99%, with a trading volume of $14.17 billion.MicroStrategy (MSTR) fell by 1.71%, and the trading volume was $44.49 billion.Bitmine (BMNR) rose by 24.59%, and the trading volume was $45.33 billion.BTCS (BTCS) rose by 11.11%, with a trading volume of $457.975 million.Bit Digital (BTBT) rose by 1.36%, and the trading volume was $1.06 billion.SharpLink Gaming (SBET) rose by 2.40%, with a trading volume of $19.35 billion.It is worth noting that Bitmine (BMNR), which has a market capitalization of only $5.308 billion, had a daily trading volume</description>
-      <pubDate>Sat, 09 Aug 2025 00:48:22 +0000</pubDate>
+      <title>In the past 24 hours, the total netizens&apos; margin call liquidations across all exchanges amounted to $228 million, with $95.32 million in ETH liquidations.</title>
+      <link>https://www.lookonchain.com/feeds/23796</link>
+      <description>On August 9th, based on Coinglass data, within the past 24 hours, the total amount of liquidation across the entire network was $228 million. A total of 86,742 people were liquidated globally. The long liquidations totaled $79.64 million, and the short liquidations totaled $148 million. ETH liquidations reached $95.32 million, making it the most liquidated asset across the network.</description>
+      <pubDate>Sat, 09 Aug 2025 02:49:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23779</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Due to the DEX trading feature being launched on the Coinbase app, AERO has surpassed $0.93.</title>
-      <link>https://www.lookonchain.com/feeds/23778</link>
-      <description>On August 9th, based on market data, AERO has surpassed $0.93 and is currently priced at $0.9322, with a 24-hour increase of 18%.Previously, Coinbase announced the launch of DEX trading functionality on its app, which supports automatic liquidity matching through DEX aggregators such as Aerodrome and Uniswap.</description>
-      <pubDate>Fri, 08 Aug 2025 16:56:22 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23778</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Tesla Granted Texas Ride-Hailing License, Paving the Way for Robotaxi Operations</title>
-      <link>https://www.lookonchain.com/feeds/23777</link>
-      <description>On August 9th, Tesla obtained a ridesharing license in Texas. This has opened the door for the electric vehicle manufacturer to operate its autonomous taxi service in accordance with the state&apos;s new autonomous vehicle regulations. Tesla Robotaxi LLC is now listed as a licensed transportation network company by the Texas licensing and regulatory authorities and has joined the ranks of companies like Uber Technologies Inc. and Lyft Inc. This license is essential as the new law, which came into effect on September 1st in the state, imposes regulatory requirements on autonomous ridesharing that are equivalent to those for human-driven ridesharing. The new policy has added additional licensing, regulatory, and operational requirements for autonomous vehicle operators.Currently, Texas law requires that autonomous vehicles be equipped with cameras, insurance, and the ability to comply with traffic rules. In June, Tesla launched a pilot autonomous ridesharing service in Austin, using a small</description>
-      <pubDate>Fri, 08 Aug 2025 16:56:22 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23777</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Pump.Fun sent a value of $5.6 million SOL to a new address, which will be used for the PUMP buyback.</title>
-      <link>https://www.lookonchain.com/feeds/23775</link>
-      <description>On August 9th, as per Arkham&apos;s monitoring, Pump.Fun transferred $5.6 million worth of SOL to a new address for the purpose of repurchasing PUMP. Up to now, they have already repurchased $6.68 million worth of PUMP at this address and dispatched $5.72 million of it to Squads Vault.</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23775</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Michael Saylor: Over $1 Trillion from Traditional Markets Could Flow into Digital Asset Infrastructure</title>
-      <link>https://www.lookonchain.com/feeds/23776</link>
-      <description>On August 9th, Michael Saylor, the founder of Strategy, stated in an interview with Bloomberg today that more than $100 trillion from the traditional stock and credit markets might flow into digital asset support tools, and their performance would exceed that of fiat currency.</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23776</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「Crypto Big Brother」 Huang Lizheng Turns Ethereum Longs from Loss to Profit, Currently Holding over $3.6 Million in Unrealized Gains</title>
-      <link>https://www.lookonchain.com/feeds/23771</link>
-      <description>On August 8th, on-chain data indicates that with the increase of Ethereum, the 25x leveraged long position of &quot;Big Brother Whale&quot; Huang Licai in Ethereum has gone from a loss to a profit. Currently, the unrealized gain is more than $3.6 million. On the other hand, his 5x PUMP long position is still in an unrealized loss of nearly $500,000.</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23771</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23796</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -121,16 +31,67 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-      <category>profit</category>
 
     </item>
     <item>
-      <title>USDC Treasury Mints Over 64.45M USDC on Ethereum</title>
-      <link>https://www.lookonchain.com/feeds/23774</link>
-      <description>On August 8th, as monitored by Whale Alert, the USDC Treasury minted an extra 64,457,620 USDC on the Ethereum blockchain, which is approximately equivalent to $64,441,957.</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
+      <title>Meme Coin Market Watch: Base Chain MIGHTFLY, XTTA, and YETI New Coins Active</title>
+      <link>https://www.lookonchain.com/feeds/23795</link>
+      <description>On August 9th, according to GMGN data, in the &quot;Hot&quot; category, the top five tokens in terms of trading volume on the Solana blockchain within the past 24 hours are TRUMP, BOSS, MOONTRUMP, LILPEPE, and GOOGLE. With the exception of TRUMP, all are newly listed meme tokens that have a low market capitalization and a small number of holders, presenting a relatively high risk.On the other hand, on the Base blockchain, the top five tokens in terms of trading volume within the past 24 hours are AERO, ZORA, MIGHTFLY, XTTA, and YETI. Both MIGHTFLY and YETI have been listed for less than 24 hours and have a low market capitalization, posing a relatively high risk. Therefore, please participate with caution.BlockBeats reminds users that most meme coins have no practical use cases and experience significant price volatility. Investment should be approached with caution.</description>
+      <pubDate>Sat, 09 Aug 2025 02:48:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23774</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23795</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>IoTeX Partners with HashKey Exchange to Co-build Digital Asset Infrastructure and AI Ecosystem</title>
+      <link>https://www.lookonchain.com/feeds/23794</link>
+      <description>On August 9th, as per official information, the DePIN + AI open smart platform IoTeX announced a strategic partnership today with the licensed compliant exchange platform HashKey Exchange. The two parties will jointly probe and establish digital asset infrastructure and, based on this, commence the co-construction process of the &quot;AI Eco Center&quot;.This cooperation encompasses multiple key domains, such as the construction of a digital asset service system, the identity verification (ioID) and trusted data access capabilities provided by the IoTeX Layer1 blockchain platform, as well as HashKey&apos;s comprehensive support in regulatory compliance consulting, asset custody, and auditing. Currently, HashKey Exchange has officially launched the &quot;IOTX/HKD&quot; trading pair as its fifth Hong Kong dollar asset trading pair, which is also the first asset trading pair concentrating on the AI field and holds significant market importance.This strategic partnership indicates IoTeX&apos;s continuous deepening</description>
+      <pubDate>Sat, 09 Aug 2025 02:41:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23794</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>DWP Management has announced that its fund has raised approximately $200 million since April, all in XRP.</title>
+      <link>https://www.lookonchain.com/feeds/23793</link>
+      <description>On August 9th, Digital Wealth Partners Management, LLC (DWP Management) made an announcement today. It stated that since April, its series of private investment funds have successfully raised approximately $200 million in funding. As a private fund manager that accepts investments in digital assets, all in-kind contributions up to now have been made in XRP.</description>
+      <pubDate>Sat, 09 Aug 2025 02:32:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23793</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Flashbot Whale pfm.eth bought 2045 ETH on a FOMO chase five hours ago</title>
+      <link>https://www.lookonchain.com/feeds/23792</link>
+      <description>On August 9th, according to the monitoring of on-chain analyst Ai Yi (@ai_9684xtpa), Whale Trader pfm.eth made a purchase 5 hours ago. It spent 2.917 million USDC and 5.39 million USDT to buy 2,045 ETH, with an average price of $4,057.6.In the past 24 hours, they have been continuously chasing the price and bought 2,802 ETH on-chain, which is equivalent to about $11.297 million, at an average price of $4,032.</description>
+      <pubDate>Sat, 09 Aug 2025 02:25:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23792</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -141,15 +102,16 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
 
     </item>
     <item>
-      <title>Trump and Putin are scheduled to hold a meeting next weekend</title>
-      <link>https://www.lookonchain.com/feeds/23773</link>
-      <description>On August 9th, as per CNBC, it is scheduled that Trump and Putin will hold a meeting in the upcoming weekend. The specific details have not been confirmed yet. (Golden Ten)</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
+      <title>Harvard University&apos;s endowment holds $1.17 billion worth of the BlackRock Bitcoin Spot ETF, surpassing its investment in Google&apos;s parent company, Alphabet.</title>
+      <link>https://www.lookonchain.com/feeds/23791</link>
+      <description>On August 9th, as reported by The Block and disclosed on Friday, it was revealed that Harvard University&apos;s endowment held a $117 million stake in the Bitwise Bitcoin ETF by the end of the second quarter.This Bitcoin ETF investment ranked as the fifth-largest holding for the university, which was slightly higher than its investment in Google&apos;s parent company, Alphabet. The filings indicated that Harvard held nearly $114 million worth of Alphabet stock by the end of the quarter.The endowment of the Ivy League school is managed by Harvard Management Company. At the end of the last quarter, its largest holding was in Microsoft stock, with a value of over $3.1 billion.</description>
+      <pubDate>Sat, 09 Aug 2025 02:16:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23773</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23791</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -158,15 +120,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Coinbase: DEX Trading Feature Now Live on App and Begins Rollout to Select US Users</title>
-      <link>https://www.lookonchain.com/feeds/23772</link>
-      <description>On August 9th, Coinbase announced that the DEX trading feature has been launched on the app and is available to some U.S. users (excluding those in New York state). This feature enables automatic liquidity matching through DEX aggregators like Aerodrome and Uniswap, and Coinbase sponsors the network fees. Transactions need to utilize an integrated self-custodial wallet.Coinbase will incrementally add support for new DEX assets in batches and gradually expand its services in the coming weeks, ultimately supporting all assets in the Base Layer ecosystem.</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
+      <title>Whale/Institutional Address Cluster Accumulates Over 1,035,000 ETH in One Month</title>
+      <link>https://www.lookonchain.com/feeds/23790</link>
+      <description>On August 9th, according to on-chain data analyst Yu Jin, since July 10th, more than 1,035,000 ETH (valued at approximately $4.167 billion) has been accumulated by several unknown whales or institutions through exchanges and institutional platforms within a month.During the same time period, the price of ETH has gone up from $2,600 to $4,000, representing a 45% increase. Most of the ETH accumulated by these addresses is likely to belong to institutions or U.S. public companies holding ETH reserves (excluding SBET, as the addresses of SBET are known). The average price of the accumulated ETH is approximately $3,546.</description>
+      <pubDate>Sat, 09 Aug 2025 02:08:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23772</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23790</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -175,15 +140,58 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
 
     </item>
     <item>
-      <title>Trump Plans to Push Fannie Mae and Freddie Mac IPO Within the Year, Aiming to Raise $30 Billion</title>
-      <link>https://www.lookonchain.com/feeds/23770</link>
-      <description>On August 8th, as reported by The Wall Street Journal, Trump is getting ready to urge Fannie Mae and Freddie Mac to carry out their initial public offerings (IPOs) by 2025. He intends to raise $30 billion and aims for a valuation of $500 billion, which may potentially become the largest IPO in history.</description>
-      <pubDate>Fri, 08 Aug 2025 15:56:22 +0000</pubDate>
+      <title>Analyst: Options Market Data Shows ETH Has Potential to Rise to $4400</title>
+      <link>https://www.lookonchain.com/feeds/23789</link>
+      <description>On August 9th, Coindesk analyst Omkar Godbole declared that a concealed signal within the derivatives market suggests that Ethereum (ETH) might undergo an intensified upward trend, propelling its price to reach $4400 in a short time.This crucial indicator is the net Gamma exposure of market makers in the Deribit Ethereum options market. Gamma is a significant metric for options traders, quantifying how the options&apos; Delta (that is, their sensitivity to changes in the underlying asset&apos;s price) varies with market fluctuations.When market makers are in a negative Gamma state, they are compelled to purchase the underlying asset when the price rises and sell when the price falls, which typically amplifies one-sided market movements. Market makers provide liquidity to the order book, make profits from the bid-ask spread, and strive to maintain a price-neutral net exposure.According to data provider Amberdata, a notable negative Gamma accumulation has been observed in the $4000 to $4400</description>
+      <pubDate>Sat, 09 Aug 2025 01:57:03 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23770</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23789</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A certain whale/institutional address withdrew approximately 10,000 ETH from Kraken 6 hours ago.</title>
+      <link>https://www.lookonchain.com/feeds/23787</link>
+      <description>August 9th. Based on the monitoring of on-chain data analyst Yu Jin, the whale/institutional address 0xD47...3c0, which accumulated ETH through Kraken, once again accumulated ETH after half a month. Six hours ago, it withdrew 10,076 ETH (approximately $40.38 million) from Kraken.It is reported that this address has been accumulating ETH since July 19th and has now accumulated a total of 49,928 ETH (approximately $200 million), with an average price of $3,720.</description>
+      <pubDate>Sat, 09 Aug 2025 01:50:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23787</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Bloomberg: WLFI Aims to Raise $1.5 Billion to Establish a Publicly Traded Company Joining the Digital Reserve Craze</title>
+      <link>https://www.lookonchain.com/feeds/23788</link>
+      <description>On August 9th, according to Bloomberg, World Liberty Financial (WLFI), which is backed by the Trump family, is in the process of discussions with major investors with the aim of establishing a publicly traded company to hold its WLFI token. This move is in line with the trend of digital asset treasury companies. Sources familiar with the matter indicate that the deal structure is still being finalized. The fundraising target is approximately $1.5 billion, and major investors in the technology and crypto industries have been reached out to for participation.</description>
+      <pubDate>Sat, 09 Aug 2025 01:50:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23788</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
