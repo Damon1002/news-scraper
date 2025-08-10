@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Aug 2025 13:02:53 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 13:02:53 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2025 13:38:05 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2025 13:38:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某鲸鱼从 Aave 借款 2000 万枚 USDC 转进 Kraken，购买并提回 109.6 枚 WBTC</title>
+      <link>https://www.techflowpost.com</link>
+      <description>这个鲸鱼是在通过 Aave 以循环贷方式杠杆购买 WBTC。他目前已经共计囤积了 603.5 枚 WBTC (7162 万美元)，成本约 90,382 美元。</description>
+      <pubDate>Sun, 10 Aug 2025 13:28:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>以太坊联创：资金管理公司或将在一年内推动 ETH 市值超越 BTC</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 HTX 行情数据显示，BTC 突破 117000 美元，现报 117044 美元，24 小时涨幅 0.13%。</description>
       <pubDate>Sun, 10 Aug 2025 02:37:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>ETH/BTC 汇率连续五日上涨，当前为 0.037</title>
-      <link>https://www.techflowpost.com</link>
-      <description>上一次达到这一水平是在今年 1 月的上涨行情中。</description>
-      <pubDate>Sun, 10 Aug 2025 02:15:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
