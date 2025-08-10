@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Aug 2025 03:51:10 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 03:51:10 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2025 04:33:39 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2025 04:33:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>A whale has shorted ETH 20x, with a floating loss of nearly $20 million, and is continuously adding to collateral.</title>
-      <link>https://www.lookonchain.com/feeds/23891</link>
-      <description>On August 10th, as per the monitoring of OnchainLens, a particular whale address has been constantly depositing funds into HyperLiquid in an attempt to avoid the liquidation of its $66.4 million Ethereum 20x leveraged short position. During the past two days, the whale has deposited $9.5 million USDC, and the liquidation price is $4,885. Currently, the total unrealized loss amounts to $19.9 million.</description>
-      <pubDate>Sun, 10 Aug 2025 03:48:18 +0000</pubDate>
+      <title>S&amp;P Global: July U.S. CPI Data to Be Key Economic Indicator for New Week</title>
+      <link>https://www.lookonchain.com/feeds/23895</link>
+      <description>On August 10th, Standard &amp; Poor&apos;s Global indicated that the July U.S. CPI data would be a key economic indicator in the new week. Due to tariff policies causing inflation expectations to rise, the market is eagerly anticipating this report. Despite the current tariff developments (such as the higher tariffs imposed on August 7th and the latest threat of 100% chip tariffs), which suggest a possible increase in inflation, the overall U.S. second-quarter consumer price increase has remained below 3.0%.It is worthy of note that the Standard &amp; Poor&apos;s Global U.S. PMI data, as a leading indicator of CPI trends, has hinted that inflation may pick up in the second half of 2025. Therefore, the upcoming CPI data will confirm whether prices in July have begun to accelerate. This is crucial for the Fed&apos;s monetary policy as there is potential price volatility, and the Fed is currently maintaining a wait-and-see stance. (FXStreet)</description>
+      <pubDate>Sun, 10 Aug 2025 04:00:47 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23891</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23895</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Net Inflow of 99,300 Ethereum to CEX in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/23894</link>
+      <description>On August 10th, according to Coinglass data, during the past 24 hours, the total net inflow of Ethereum on CEX was 99,300 ETH. The top three CEX inflows are as follows:· Binance, with an inflow of 128,900 ETH;· OKX, with an inflow of 12,100 ETH;· Bybit, with an inflow of 4,232.97 ETH.In addition, Bitfinex witnessed an outflow of 35,000 ETH, ranking first on the outflow list.</description>
+      <pubDate>Sun, 10 Aug 2025 04:00:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23894</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,15 +47,13 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
       <title>A Whale Investor Puts ETH into Staking, Earns Over $13 Million in Profit in Two Months</title>
       <link>https://www.lookonchain.com/feeds/23893</link>
       <description>August 10th. Based on the monitoring of Onchain Lens, a whale address withdrew 2009 ETH from Binance (approximately $8.53 million) for staking.In the past two months, this address has withdrawn a total of 10,999 ETH from Binance (approximately $46.69 million) for staking on EigenLayer and ETH2.0. Currently, it has earned a profit of $13.53 million.Address: 0x1fc75ad0511ddc3a23b9583ba1c285b8292faed5.</description>
-      <pubDate>Sun, 10 Aug 2025 03:48:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 03:48:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23893</guid>
       <category>crypto</category>
@@ -57,10 +72,31 @@
 
     </item>
     <item>
+      <title>A whale has shorted ETH 20x, with a floating loss of nearly $20 million, and is continuously adding to collateral.</title>
+      <link>https://www.lookonchain.com/feeds/23891</link>
+      <description>On August 10th, as per the monitoring of OnchainLens, a particular whale address has been constantly depositing funds into HyperLiquid in an attempt to avoid the liquidation of its $66.4 million Ethereum 20x leveraged short position. During the past two days, the whale has deposited $9.5 million USDC, and the liquidation price is $4,885. Currently, the total unrealized loss amounts to $19.9 million.</description>
+      <pubDate>Sun, 10 Aug 2025 03:48:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23891</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>White House Official: Trump Open to Attending US-Russia-Ukraine Trilateral Summit in Alaska</title>
       <link>https://www.lookonchain.com/feeds/23892</link>
       <description>August 10: A White House official indicated that Trump is receptive to convening a U.S.-Russia-Ukraine trilateral summit in Alaska. However, the White House is currently making preparations for a bilateral meeting as requested by Putin. (FX168)</description>
-      <pubDate>Sun, 10 Aug 2025 03:48:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 03:48:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23892</guid>
       <category>crypto</category>
@@ -77,7 +113,7 @@
       <title>Abraxas Capital&apos;s Short Position Accumulated Unrealized Loss Exceeds $190 Million, Funding Rate Revenue Exceeds $28 Million</title>
       <link>https://www.lookonchain.com/feeds/23890</link>
       <description>August 10th. According to the monitoring of lookonchain, two accounts of Abraxas Capital are shorting ETH, BTC, SOL, HYPE, and SUI. The total unrealized loss amounts to more than $190 million. They hold a short position of 113,819 ETH (valued at $483 million), and the losses exceed $144 million.It is worth noting, however, that previous analyses suggested that the short positions opened by Abraxas Capital are actually spot hedge accounts. This series of short positions has previously generated a significant unrealized profit during market downturns. Additionally, the short position funding rate revenue exceeds $28 million.</description>
-      <pubDate>Sun, 10 Aug 2025 03:40:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 03:40:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23890</guid>
       <category>crypto</category>
@@ -95,7 +131,7 @@
       <title>A Bitcoin Whaleshark Increases Holdings of nearly $4.5M in Value in LINK, Bringing Total Holdings to 335,000 LINK</title>
       <link>https://www.lookonchain.com/feeds/23889</link>
       <description>On August 10th, according to the on-chain analyst AI Auntie @ai_9684xtpa, an address that was previously engaged in buying low and selling high WBTC to earn $14.26 million has withdrawn 210,000 LINK from Binance within the past 10 hours. The value of this withdrawal is $4.484 million. Currently, they hold a total of 335,000 LINK, with an approximate value of $7.16 million.</description>
-      <pubDate>Sun, 10 Aug 2025 03:32:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 03:32:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23889</guid>
       <category>crypto</category>
@@ -116,7 +152,7 @@
       <title>LookOnChain: Bitcoin Surges Above $118,000</title>
       <link>https://www.lookonchain.com/feeds/23888</link>
       <description>On August 10th, based on HTX market data, Bitcoin saw a rebound and exceeded $11,800, registering a 24-hour increase of 1.50%.</description>
-      <pubDate>Sun, 10 Aug 2025 03:32:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 03:32:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23888</guid>
       <category>crypto</category>
@@ -136,7 +172,7 @@
       <title>Blue-Chip NFTs Surge, Cool Cats See Over 44% Gain in 7 Days</title>
       <link>https://www.lookonchain.com/feeds/23887</link>
       <description>On August 10th, according to Blur market data, there was a general increase in the blue-chip NFT series. These include:· Cool Cats rose by more than 44% in the past 7 days, with a current floor price of 0.635 ETH.· Azuki rose by more than 26% in the past 7 days, with a current floor price of 2.48 ETH.· Meebits rose by more than 16% in the past 7 days, with a current floor price of 0.80 ETH.· Bored Ape Yacht Club rose by more than 15% in the past 7 days, with a current floor price of 13.4 ETH.· Mutant Ape Yacht Club rose by more than 11% in the past 7 days, with a current floor price of 1.9325 ETH.· LilPudgys rose by more than 12% in the past 7 days, with a current floor price of 1.7489 ETH.· Milady rose by more than 10% in the past 7 days, with a current floor price of 2.879 ETH.</description>
-      <pubDate>Sun, 10 Aug 2025 03:16:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 03:32:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23887</guid>
       <category>crypto</category>
@@ -153,7 +189,7 @@
       <title>Ethereum Market Cap Stabilizes Above $500 Billion, Approaching Investment Threshold of Some US States</title>
       <link>https://www.lookonchain.com/feeds/23886</link>
       <description>On August 10th, with the total market capitalization of Ethereum surpassing $500 billion, it has initially reached the public fund investment threshold of some states in the United States:· On May 7th, New Hampshire passed the Strategic Bitcoin Reserve Act. This act stipulates that the state treasurer may invest up to 5% of public funds from the general fund and other authorized funds in these assets. Cryptocurrencies need to be projects with a market capitalization exceeding $500 billion.· On June 22nd, the governor of Texas signed the Bitcoin Reserve Act SB 21, making it a law. It will establish a fund managed by the state government and only invest in cryptocurrencies with an average market capitalization of at least $500 billion in the past 12 months and eligible to receive state budget appropriations.· On March 25th, the Oklahoma House of Representatives voted to pass the Strategic Bitcoin Reserve Act (not yet formally enacted into law). This act allows the state to invest 10%</description>
-      <pubDate>Sun, 10 Aug 2025 02:56:18 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 02:32:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23886</guid>
       <category>crypto</category>
@@ -166,43 +202,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Trump and Putin are set to meet in Alaska, and the White House is considering inviting Zelensky</title>
-      <link>https://www.lookonchain.com/feeds/23885</link>
-      <description>On August 10th, U.S. President Trump announced on the 8th that he will hold a meeting with Russian President Putin in Alaska, the United States, on the 15th to discuss the Ukraine crisis.According to the latest report from the National Broadcasting Company (NBC) on the 9th at local time, the White House is deliberating on inviting Ukrainian President Zelensky to Alaska, but a final decision has not been made yet. Trump had previously informed the media that Putin does not need to meet with Zelensky prior to meeting with him. (FXStreet)</description>
-      <pubDate>Sun, 10 Aug 2025 02:56:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23885</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Surges Above $117,000, 24-hour Gain 0.65%</title>
-      <link>https://www.lookonchain.com/feeds/23884</link>
-      <description>On August 10th, based on HTX market data, Bitcoin experienced a rebound and broke through $117,000, with a 0.65% increase in the past 24 hours.</description>
-      <pubDate>Sun, 10 Aug 2025 02:56:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23884</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
       <category>high-value</category>
 
     </item>

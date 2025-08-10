@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Aug 2025 03:51:10 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 03:51:10 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2025 04:33:39 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2025 04:33:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>AguilaTrades 已关闭其 BTC 与 ETH 多单，总计盈利 1129 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>此前其曾亏损 3996 万美元，目前仍需赚回 2874 万美元方可回本。</description>
+      <pubDate>Sun, 10 Aug 2025 04:13:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某巨鲸近两月累计提取 10999 枚 ETH 并质押，已浮盈 1353 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Arkham数据显示，以太坊创始人 Vitalik Buterin（vitalik.eth）的链上资产总值达到 10.2 亿美元，其中主要持仓包括 24 万枚以太币（ETH）、2,906 个 AETHWETH 代币等。</description>
       <pubDate>Sat, 09 Aug 2025 15:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析师：ETH价格有望达到20,000美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Cointelegraph报道，交易分析师Merlijn指出，以太坊目前运行在一个持续7年的上升通道中，该通道此前已推动ETH从100美元上涨至4,000美元。若延续此前走势，ETH价格有望达到20,000美元。目前ETH对BTC的比价仍需上涨150%才能达到2021年创下的0.0883的历史高...</description>
-      <pubDate>Sat, 09 Aug 2025 14:55:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
