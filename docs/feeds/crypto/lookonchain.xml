@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Aug 2025 23:27:21 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 23:27:21 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2025 23:44:22 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2025 23:44:22 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,61 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>CME FedWatch: 88.4% Probability of 25 Basis Point Rate Cut in September</title>
+      <link>https://www.lookonchain.com/feeds/23933</link>
+      <description>On August 11th, based on CME&apos;s &quot;FedWatch&quot; data, the likelihood of a 25-basis-point rate cut in September is 88.4%, and the probability of rates remaining unchanged is 11.6%.</description>
+      <pubDate>Sun, 10 Aug 2025 23:40:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23933</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>U.S. Treasury Secretary Yellen: Expects Trade Issues to be Resolved by the End of October</title>
+      <link>https://www.lookonchain.com/feeds/23932</link>
+      <description>August 11th. In an interview with Nikkei News, U.S. Treasury Secretary Benson expressed that President Trump&apos;s tariff policy is intended to bring manufacturing back to the United States. When assessing the impact of Trump&apos;s economic policies since taking office, Benson stated, &quot;Trump&apos;s economic policy is like a &apos;three-legged stool&apos; - tax cuts, trade, and deregulation. Regarding taxes, we have swiftly completed the record-breaking Tax Cuts and Jobs Act, which was signed into effect on July 4th. In terms of trade, I believe we can make significant progress by the end of October. Regarding deregulation, it is an ongoing process. The President has made it clear that for every new regulation implemented, ten old ones must be eliminated.&quot;Benson pointed out that the main reason for adopting a tariff policy in trade is to rebalance the (current account deficit). He said, &quot;Over time, tariffs should be like a melting ice cube. If production returns to the United States, then our imports</description>
+      <pubDate>Sun, 10 Aug 2025 23:40:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23932</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The Trump administration is considering appointing a senior critic to head the Bureau of Labor Statistics, potentially signaling for reforms.</title>
+      <link>https://www.lookonchain.com/feeds/23934</link>
+      <description>August 11th. According to The Wall Street Journal, E.J. Antoni, who is the Chief Economist at the conservative think tank Traditional Foundation, has become a leading candidate for the head of the U.S. Bureau of Labor Statistics (BLS). A senior government official stated that the Trump administration is conducting interviews for the BLS director position, and among the candidates is at least one long-time critic of the agency. Earlier this month, after a weak jobs report, Trump removed the BLS director from his post, and officials are currently in the process of considering potential replacements.E.J. Antoni, who is undergoing interviews, has been a vocal critic of the BLS&apos;s employment data collection methods as the Chief Economist of the Traditional Foundation. A White House spokesperson said, &quot;President Trump has chosen the most talented individuals to lead the federal government and will announce the new BLS director appointee after reaching a decision.&quot; The report pointed out tha</description>
+      <pubDate>Sun, 10 Aug 2025 23:40:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23934</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>In the past 24 hours, the entire network has seen a total of $343 million in liquidations, with both longs and shorts getting rekt.</title>
       <link>https://www.lookonchain.com/feeds/23931</link>
       <description>On August 10th, according to Coinglass data, during the past 24 hours, the total liquidation across the network reached $343 million. The long liquidations amounted to $172 million, while the short liquidations totaled $171 million.</description>
-      <pubDate>Sun, 10 Aug 2025 15:26:28 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 15:43:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23931</guid>
       <category>crypto</category>
@@ -35,7 +86,7 @@
       <title>If Bitcoin surpasses $120,000, the mainstream CEX cumulative short liquidation intensity will reach 359 million.</title>
       <link>https://www.lookonchain.com/feeds/23929</link>
       <description>On August 10th, according to Coinglass data, in the event that Bitcoin surges past $120,000, the cumulative short liquidation intensity on mainstream CEXes will amount to 359 million.Conversely, if Bitcoin drops below $117,000, the cumulative long liquidation intensity on mainstream CEXes will reach 274 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart showcases to what degree reaching a certain price level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, it will trigger a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Sun, 10 Aug 2025 15:26:28 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 15:43:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23929</guid>
       <category>crypto</category>
@@ -55,7 +106,7 @@
       <title>Bitcoin Surges to Reach $119,000</title>
       <link>https://www.lookonchain.com/feeds/23930</link>
       <description>On August 10th, based on HTX market data, Bitcoin rose to $119,000, with a 1.72% increase in the past 24 hours.</description>
-      <pubDate>Sun, 10 Aug 2025 15:26:28 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 15:43:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23930</guid>
       <category>crypto</category>
@@ -75,9 +126,26 @@
       <title>The current mainstream CEX and DEX funding rate displays a divergence in market direction, with both bullish and neutral perspectives coexisting.</title>
       <link>https://www.lookonchain.com/feeds/23928</link>
       <description>On August 10th, according to Coinglass data, the current funding rates of mainstream CEX and DEX show a divergent market trend with both bullish and neutral sentiments. The specific funding rates for major coins are as shown in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applied to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market sentiment. When the funding rate is less than 0.005%, it indicates a generally bearish market sentiment.</description>
-      <pubDate>Sun, 10 Aug 2025 15:26:28 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 14:43:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23928</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>JD.com Initiates Recruitment for &apos;Stablecoin On-Chain Activity Planning&apos; Position</title>
+      <link>https://www.lookonchain.com/feeds/23927</link>
+      <description>August 10th. JD Technology Group has recently begun recruiting for the position of &quot;Stablecoin On-Chain Activity Planner&quot;. The main responsibilities involve formulating and implementing the on-chain growth strategy for the stablecoin. Analyzing on-chain data to optimize market strategies. Expanding partnerships with DeFi protocols, DEXs, lending platforms, and other ecosystem partners. And planning and executing marketing activities. This position also requires leveraging Web3 industry resources to expand the scope and influence of activities.Requirements are as follows: having more than 3 years of experience in Web3 growth operations or blockchain marketing, with successful on-chain activity cases. Having been deeply involved in the economic model design or growth activities of at least one DeFi protocol. Being familiar with market growth strategies in the DeFi, PayFi, and exchange platform ecosystems. Being proficient in DEXs, lending, derivative protocol, and stablecoin use cases.</description>
+      <pubDate>Sun, 10 Aug 2025 14:43:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23927</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -92,7 +160,7 @@
       <title>A certain whale that has been dormant for 3 years has staked 4736 ETH in Kiln, with unrealized gains of $10.7 million.</title>
       <link>https://www.lookonchain.com/feeds/23925</link>
       <description>On August 10th, as per the monitoring of Onchain Lens, a dormant whale has pledged its 4736 ETH (valued at $19.84 million) in Kiln.This whale spent around $9.12 million to acquire these ETH 4 to 5 years ago and currently holds unrealized gains of $10.7 million.</description>
-      <pubDate>Sun, 10 Aug 2025 14:26:28 +0000</pubDate>
+      <pubDate>Sun, 10 Aug 2025 13:43:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/23925</guid>
       <category>crypto</category>
@@ -107,83 +175,6 @@
       <category>ethereum</category>
       <category>whale</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>JD.com Initiates Recruitment for &apos;Stablecoin On-Chain Activity Planning&apos; Position</title>
-      <link>https://www.lookonchain.com/feeds/23927</link>
-      <description>August 10th. JD Technology Group has recently begun recruiting for the position of &quot;Stablecoin On-Chain Activity Planner&quot;. The main responsibilities involve formulating and implementing the on-chain growth strategy for the stablecoin. Analyzing on-chain data to optimize market strategies. Expanding partnerships with DeFi protocols, DEXs, lending platforms, and other ecosystem partners. And planning and executing marketing activities. This position also requires leveraging Web3 industry resources to expand the scope and influence of activities.Requirements are as follows: having more than 3 years of experience in Web3 growth operations or blockchain marketing, with successful on-chain activity cases. Having been deeply involved in the economic model design or growth activities of at least one DeFi protocol. Being familiar with market growth strategies in the DeFi, PayFi, and exchange platform ecosystems. Being proficient in DEXs, lending, derivative protocol, and stablecoin use cases.</description>
-      <pubDate>Sun, 10 Aug 2025 14:26:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23927</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale accumulated 603.5 WBTC through an Aave flash loan, totaling approximately $71.62 million</title>
-      <link>https://www.lookonchain.com/feeds/23923</link>
-      <description>On August 10th, as per Amberdata&apos;s monitoring, a whale transferred 20 million USDC that was borrowed from Aave to Kraken three days ago. Since then, it has purchased and withdrawn 109.6 WBTC (amounting to 12.91 million US dollars). The whale used a flash loan through Aave to leverage and buy WBTC. Currently, it has accumulated a total of 603.5 WBTC (worth 71.62 million US dollars), with an average cost of approximately $90,382.</description>
-      <pubDate>Sun, 10 Aug 2025 13:26:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23923</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Three years ago, a whale who accumulated Ethereum at an average price of $1237 is suspected to have unloaded their position, potentially realizing a profit of $1.066 million.</title>
-      <link>https://www.lookonchain.com/feeds/23922</link>
-      <description>August 10th. According to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale that opened a position in ETH three years ago at an average price of $1237 has made small deposits to exchanges three times in the past year. It appears that the whale has finally made a decision to liquidate its position half an hour ago. If it were to sell all of its holdings, it would achieve a profit of $1.066 million, with a return on investment of 237%.</description>
-      <pubDate>Sun, 10 Aug 2025 13:26:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23922</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Sidekick Foundation: K Token Airdrop Claim Process to Be Phased</title>
-      <link>https://www.lookonchain.com/feeds/23924</link>
-      <description>On August 10, the Sidekick Foundation announced that it will commence a multi-round K token airdrop application starting today. The coverage includes the following user groups:Users of Yappers (open for claiming from 22:30 to 23:30 Beijing time today);Loyal participants of online/offline events (distributed today);Contracted anchors;Platform audiences (the airdrop channel will open on August 15);Early ecosystem explorers (such as members of the Telegram community).</description>
-      <pubDate>Sun, 10 Aug 2025 13:26:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23924</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
