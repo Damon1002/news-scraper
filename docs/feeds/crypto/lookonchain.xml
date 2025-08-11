@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Aug 2025 12:47:58 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 12:47:58 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 13:30:23 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 13:30:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Due to a BONK Finance Company announcement, SHOT&apos;s stock price surged 9.65% in pre-market trading.</title>
-      <link>https://www.lookonchain.com/feeds/24062</link>
-      <description>On August 11th, based on rockflow data, the US-listed company Safety Shot (SHOT) announced the launch of the BONK Treasury Strategy, resulting in a 9.65% increase in SHOT&apos;s pre-market trading. The company&apos;s current market value is reported to be $164 million.According to HTX market data, BONK surged by more than 3% in a short period and is currently priced at $0.00002688.BlockBeats previously reported that the US-listed company Safety Shot (NASDAQ: SHOT) announced a strategic alliance with the BONK founding contributor and officially entered the decentralized finance (DeFi) field. According to the agreement, the company will receive $25 million worth of BONK tokens and issue preferred shares convertible to common stock with a total value of $35 million.</description>
-      <pubDate>Mon, 11 Aug 2025 12:41:06 +0000</pubDate>
+      <title>Contract Trading Whale AguilaTrades Adds Another 9000 ETH to Short Order</title>
+      <link>https://www.lookonchain.com/feeds/24071</link>
+      <description>On August 11th, according to on-chain analyst Ai姨 (@ai_9684xtpa), the contract transaction whale AguilaTrades once more placed a short order of 9,000 ETH, increasing the total order value to $122 million.</description>
+      <pubDate>Mon, 11 Aug 2025 13:24:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24062</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24071</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,15 +28,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
 
     </item>
     <item>
-      <title>Binance Earn will undergo a BFUSD upgrade to enhance user experience</title>
-      <link>https://www.lookonchain.com/feeds/24061</link>
-      <description>August 11th. According to official information, Binance Finance announced an upgrade to BFUSD in order to enhance the user experience. Commencing at 08:00 on August 14th, 2025 (UTC+8), users will no longer be required to possess a futures account and can directly subscribe to and redeem BFUSD through Binance Finance.To facilitate this upgrade, all user subscriptions and redemptions between 13:00 and 22:00 on August 13th, 2025 (UTC+8) may be impacted. To ensure the smoothness of user transactions, please refrain from performing subscription and redemption operations during the upgrade. Users currently holding BFUSD in futures accounts can transfer BFUSD to spot accounts for redemption. Starting from 08:00 on August 14th, 2025 (UTC+8), users will no longer be able to subscribe to and redeem BFUSD through Binance Futures.</description>
-      <pubDate>Mon, 11 Aug 2025 12:41:06 +0000</pubDate>
+      <title>The ENS team multisig address has transferred approximately 142,000 ENS in the last 20 minutes.</title>
+      <link>https://www.lookonchain.com/feeds/24073</link>
+      <description>On August 11th, according to on-chain data analyst Yu Jin, a multisig wallet of an ENS team transferred out 141,937 ENS (approximately 4.02 million) within the past 20 minutes. 72,437 ENS was transferred to FalconX and 69,500 ENS was transferred to Coinbase.</description>
+      <pubDate>Mon, 11 Aug 2025 13:24:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24061</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24073</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -45,32 +48,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>transfer</category>
 
     </item>
     <item>
-      <title>US publicly traded company Safety Shot announced that it will launch the BONK Treasury Strategy</title>
-      <link>https://www.lookonchain.com/feeds/24063</link>
-      <description>On August 11th, as per stocktitan, the US-listed company Safety Shot (Nasdaq: SHOT) announced a strategic alliance with a founding contributor of BONK and officially entered the field of Decentralized Finance (DeFi). Under the terms of the agreement, the company will receive $25 million worth of BONK tokens and will issue preferred shares convertible into common stock with a total value of $35 million in exchange.This enterprise, which has $15 million in cash and has paid off all its debts, chose BONK as its financial strategy target mainly considering the token&apos;s competitive advantages. Built on the Solana blockchain, BONK has high-speed transaction capabilities and a deflationary tokenomics model. Currently, it has a market capitalization exceeding $2 billion and 980,000 on-chain holders.</description>
-      <pubDate>Mon, 11 Aug 2025 12:41:06 +0000</pubDate>
+      <title>Blue Origin will accept payment in cryptocurrency such as BTC, ETH, SOL for space travel.</title>
+      <link>https://www.lookonchain.com/feeds/24072</link>
+      <description>On August 11th, Jeff Bezos&apos; space travel company Blue Origin will now be able to accept Bitcoin, Ethereum, SOL, USDT, and USDC for rides on its new Shepard spacecraft.</description>
+      <pubDate>Mon, 11 Aug 2025 13:24:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24063</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Smarter Web Company announces a rights issue fundraising of approximately $10.23 million to increase its holdings of BTC.</title>
-      <link>https://www.lookonchain.com/feeds/24060</link>
-      <description>On August 11th, as per market information, The Smarter Web Company declared a private placement of 3,452,086 shares of new common stock at around ￡2.21 per share, raising approximately ￡7.6 million (about $10.23 million) to back its continuous BTC accumulation.</description>
-      <pubDate>Mon, 11 Aug 2025 12:32:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24060</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24072</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -81,16 +68,17 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>high-value</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
-      <title>New ETH Treasury Company 180 Life Sciences Stock Price Up 4.84% in Pre-market Trading</title>
-      <link>https://www.lookonchain.com/feeds/24059</link>
-      <description>On August 11th, based on rockflow data, possibly due to funding news, the stock price of the new ETH Treasury company 180 Life Sciences (ATNF) surged by 4.84% in pre-market trading.180 Life Sciences (Nasdaq: ATNF) successfully completed a $425 million private funding round to support its Ethereum Treasury strategy. This funding round was led by Electric Capital and Harbour Island, with the participation of well-known cryptocurrency investment firms such as Borderless Capital and Polychain Capital.</description>
-      <pubDate>Mon, 11 Aug 2025 12:25:06 +0000</pubDate>
+      <title>Metalpha associated address deposited 5000 ETH to Binance</title>
+      <link>https://www.lookonchain.com/feeds/24070</link>
+      <description>On August 11th, as per the monitoring of LookOnChain, a wallet linked to Metalpha has just transferred 5,000 ETH to Binance (approximately $20.91 million).</description>
+      <pubDate>Mon, 11 Aug 2025 13:16:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24059</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24070</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -104,12 +92,12 @@
 
     </item>
     <item>
-      <title>Chainlink Partners with NYSE Parent Company ICE to Bring Forex and Precious Metals Pricing Data On-chain</title>
-      <link>https://www.lookonchain.com/feeds/24058</link>
-      <description>On August 11th, as per official information, Chainlink has entered into a partnership with Intercontinental Exchange (ICE), which is the parent company of the New York Stock Exchange. The purpose of this partnership is to bring forex and precious metals pricing data onto the blockchain network.This partnership will incorporate ICE&apos;s Global Consolidated Feed into Chainlink&apos;s Data Streams. The data source encompasses market data from more than 300 global exchanges and trading platforms and currently serves over 2,000 on-chain applications, financial institutions, and infrastructure providers.Officials stated that by integrating ICE data, Chainlink aims to provide pricing data streams that meet the precision and latency requirements of traditional capital markets. This standard is anticipated to support the development of a new generation of tokenized assets, automated settlement systems, and other institutional-grade blockchain applications. This move is in line with the industry tre</description>
-      <pubDate>Mon, 11 Aug 2025 12:25:06 +0000</pubDate>
+      <title>James Wynn: Believes Arthur Hayes FOMO-ing is a Top Signal</title>
+      <link>https://www.lookonchain.com/feeds/24069</link>
+      <description>August 11th witnessed James Wynn posting on social media that Arthur Hayes constantly sells at the lows and buys at the highs. Every investor is obligated to learn to think independently. No one has the ability to predict the market accurately. However, the key to making substantial profits for oneself is: always go against the mainstream. When Hayes follows the trend and enters a rally, it serves as the best signal to take a short position. No disrespect intended, but this is evidently the outcome of FOMO psychology.BlockBeats Note: James Wynn, who once held leverage positions of up to $1.2 billion on Hyperliquid and was renowned for his trading style with 40 times or even higher leverage. He has achieved significant profits (such as a $25.18 million profit from a PEPE long position) but ultimately lost $80 million and wiped out within 5 days.</description>
+      <pubDate>Mon, 11 Aug 2025 13:16:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24058</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24069</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -121,12 +109,12 @@
 
     </item>
     <item>
-      <title>180 Life Sciences Completes $425 Million Private Financing to Launch ETH Treasury Strategy, Plans to Raise Additional $150 Million</title>
-      <link>https://www.lookonchain.com/feeds/24057</link>
-      <description>On August 11th, according to stocktitan, 180 Life Sciences (NASDAQ: ATNF) has successfully completed a private placement worth $425 million to implement its Ethereum Treasury Strategy. The PIPE (Private Investment in Public Equity) transaction was priced at $2.65 per share. This round of financing is led by Electric Capital and Harbour Island, with the participation of well-known cryptocurrency investment institutions such as Borderless Capital and Polychain Capital.The company intends to use the raised funds mainly to purchase Ethereum (ETH) and launch an income-generating program managed by Electric Capital. This program will seek returns beyond traditional ETH staking by using a combination of strategies including staking, lending, and providing liquidity. Additionally, the company has announced a significant adjustment to the governance framework, including the appointment of McAndrew Rudisill as the Chairman of the Board and the addition of multiple independent directors.After</description>
-      <pubDate>Mon, 11 Aug 2025 12:24:06 +0000</pubDate>
+      <title>Contract Trade Whale AguilaTrades Places 20,000 ETH Short Order</title>
+      <link>https://www.lookonchain.com/feeds/24068</link>
+      <description>On August 11th, according to on-chain analyst Ai姨 (@ai_9684xtpa), when ETH dropped beneath $4200, the contract trading whale AguilaTrades placed a short order for 20,000 ETH within the [$4200 - $4240] range, which was approximately equivalent to $95.1 million.</description>
+      <pubDate>Mon, 11 Aug 2025 13:08:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24057</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24068</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -137,16 +125,34 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>dYdX Foundation Raises $8 Million to Accelerate Ecosystem Development</title>
+      <link>https://www.lookonchain.com/feeds/24067</link>
+      <description>On August 11th, as per official channels, the dYdX Foundation made an announcement regarding the disbursement of 8 million US dollars in DYDX tokens from the dYdX Chain Community Treasury. This move aims to upgrade its grant program in order to accelerate the growth of the ecosystem, enhance capital efficiency, and provide scalable strategic funding support for high-impact projects. The $8 million fund will be concentrated on three key domains within the next 12 to 18 months:· Infrastructure, Development Tools, and Security System Development· Ecosystem Expansion Plan· Cutting-edge Technology Research and DevelopmentThe new program will be directly managed by the Foundation&apos;s wholly-owned subsidiary, dYdX Grants Ltd., replacing the original Grants DAO framework.</description>
+      <pubDate>Mon, 11 Aug 2025 13:00:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24067</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>US Stock SharpLink Announces New $400 Million Funding Round to Further Increase ETH Holdings</title>
-      <link>https://www.lookonchain.com/feeds/24055</link>
-      <description>On August 11th, according to official channels, SharpLink Gaming, Inc. (Nasdaq: SBET) announced today that it has entered into a securities purchase agreement with five of the world&apos;s top institutional investors. Through a registered direct offering, it has successfully raised $400 million. As of August 10, 2025, the company holds approximately 598,800 Ether (ETH), and in addition, it has an unallocated approximately $200 million ATM financing facility. The total estimated value of its ETH holdings is expected to exceed $3 billion.SharpLink Co-CEO Joseph Chalom said: &quot;The nearly $900 million raised in the past week validates the market&apos;s confidence in our Ethereum treasury strategy. The speed and scale of these investments not only reflect trust in SharpLink but also demonstrate the market&apos;s widespread recognition of Ethereum&apos;s transformative potential.&quot;Key Transaction Terms:· Offering Price: $21.76 per share (in compliance with Nasdaq market price regulations)· Total Fundraising</description>
-      <pubDate>Mon, 11 Aug 2025 12:17:06 +0000</pubDate>
+      <title>IP is down 8% after rising 3% on news of the &quot;US Stock IP Treasury Company&quot;</title>
+      <link>https://www.lookonchain.com/feeds/24066</link>
+      <description>On August 11th, based on HTX market data, Story (IP) witnessed a 3% rise following the announcement on the &quot;US Stock IP Treasury Company&quot;, and then it dropped by more than 8% and is currently priced at $6.5. After the news release, it declined by 3.3%.BlockBeats previously reported that Heritage Distilling Holding Company (NASDAQ: CASK) announced today that it has completed a $220 million private placement ($100 million in cash and $120 million in IP tokens). Heritage will raise $100 million in cash through the issuance of common stock and warrants, while receiving IP tokens from institutions such as the Story Foundation at a fixed price of $3.4 per share.</description>
+      <pubDate>Mon, 11 Aug 2025 12:56:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24055</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24066</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -155,18 +161,33 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>U.S. Stock Market Listed Company Heritage Distilling Completes $220 Million Private Placement to Launch IP Treasury Strategy</title>
+      <link>https://www.lookonchain.com/feeds/24065</link>
+      <description>On August 11th, according to the report from businesswire, Heritage Distilling Holding Company (Nasdaq: CASK) announced today the completion of a $220 million private placement ($100 million in cash and $120 million in IP tokens). Participating in this placement were institutions such as Story Foundation, a16z crypto, and Amber Group to launch the world&apos;s first IP token digital asset treasury strategy.This transaction adopts a &quot;Equity + Token&quot; hybrid PIPE structure. Heritage will raise $100 million in cash by issuing common stock and warrants. At the same time, it will receive IP tokens from Story Foundation and other institutions at a fixed price of $3.4 per share. After the transaction, the company&apos;s treasury will hold approximately 52.5 million IP tokens (valued at $361 million based on the closing price of $6.8785 on August 10, 2025).</description>
+      <pubDate>Mon, 11 Aug 2025 12:48:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24065</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Trump Media &amp; Technology Group Submits Amended Version of Bitcoin Spot ETF S-1 Filing</title>
-      <link>https://www.lookonchain.com/feeds/24056</link>
-      <description>On August 11th, according to a report by businessinsider, Trump Media and Technology Group Corp. under Trump, Inc. (stock code: DJT) announced today that it has submitted the first amended S-1 registration statement for the Truth Social Bitcoin ETF to the U.S. Securities and Exchange Commission (SEC). This ETF will directly hold Bitcoin with the aim of tracking the price performance of Bitcoin, and its shares are expected to be listed on the NYSE Arca exchange. The following are other details:· Custody and Liquidity Support: Crypto.com, a cryptocurrency exchange platform, will act as the exclusive Bitcoin custodian, primary executing broker, and liquidity provider.· Sponsor: Yorkville U.S. Digital Corp. will serve as the ETF sponsor.· Approval Process: The launch of the ETF is subject to the SEC declaring the registration statement effective and approving the Form 19b-4 application.</description>
-      <pubDate>Mon, 11 Aug 2025 12:17:06 +0000</pubDate>
+      <title>New &apos;IP Treasury Strategy&apos; Company Heritage Distilling&apos;s Stock Price Plunges 15% in Pre-market Trading</title>
+      <link>https://www.lookonchain.com/feeds/24064</link>
+      <description>On August 11th, according to data from rockflow (accessible at https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats and targeted to _blank), the stock price of the newly established &quot;IP Treasury Strategy&quot; company, Heritage Distilling (CASK), experienced a 15% decline in pre-market trading and reached $0.59.Previously, BlockBeats reported that Heritage Distilling Holding Company (NASDAQ: CASK) announced today that it has successfully completed a $220 million private financing ($100 million in cash and $120 million in IP tokens). This financing round was led by the Story Foundation and institutional investors such as a16z crypto and Amber Group. The funds will be utilized to launch the world&apos;s first IP token digital asset treasury strategy.</description>
+      <pubDate>Mon, 11 Aug 2025 12:48:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24056</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24064</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -175,27 +196,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Strategy increased its Bitcoin holdings by 155 coins last week</title>
-      <link>https://www.lookonchain.com/feeds/24054</link>
-      <description>August 11: Based on official information, Strategy acquired 155 bitcoins from August 4 to August 10 with an average price of $116,401 per BTC, amounting to $18 million in total.As of August 10, 2025, Strategy holds a cumulative total of 628,946 BTC, with an approximate value of $46.09 billion. The average cost per coin is approximately $73,288.</description>
-      <pubDate>Mon, 11 Aug 2025 12:08:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24054</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
