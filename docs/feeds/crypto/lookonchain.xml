@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Aug 2025 23:55:46 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 23:55:46 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 01:57:42 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 01:57:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Bitcoin Dominance Falls to 60.5%, Altcoin Market Cap Rises by 15.44% in the Past Week</title>
-      <link>https://www.lookonchain.com/feeds/23935</link>
-      <description>On August 11th, based on market data, the Bitcoin dominance (BTC.D) has witnessed a 3.22% decrease over the past week and currently stands at 60.5%.During the same time frame, the total crypto market capitalization has seen a 9.51% increase in the past week. The total market capitalization excluding Bitcoin (TOTAL 2) has risen by 15.44%, and the total market capitalization excluding Bitcoin and Ethereum (TOTAL 3) has climbed by 11.11%.</description>
-      <pubDate>Sun, 10 Aug 2025 23:48:52 +0000</pubDate>
+      <title>If Ethereum breaks $4400, mainstream CEX total short liquidation volume will reach $928 million</title>
+      <link>https://www.lookonchain.com/feeds/23958</link>
+      <description>On August 11th, based on Coinglass data, if Ethereum manages to break through $4400, the total short liquidation strength of mainstream CEXs will reach 928 million.Conversely, if Ethereum drops below $4200, the total long liquidation strength of mainstream CEXs will reach 705 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, strength.Therefore, the liquidation chart shows to what extent the target price will be influenced when it reaches a certain position. A higher &quot;liquidation bar&quot; indicates that when the price reaches that particular point, a more intense reaction will occur due to a surge in liquidity.</description>
+      <pubDate>Mon, 11 Aug 2025 01:56:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23935</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23958</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,86 +28,52 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>The Trump administration is considering appointing a senior critic to head the Bureau of Labor Statistics, potentially signaling for reforms.</title>
-      <link>https://www.lookonchain.com/feeds/23934</link>
-      <description>August 11th. According to The Wall Street Journal, E.J. Antoni, who is the Chief Economist at the conservative think tank Traditional Foundation, has become a leading candidate for the head of the U.S. Bureau of Labor Statistics (BLS). A senior government official stated that the Trump administration is conducting interviews for the BLS director position, and among the candidates is at least one long-time critic of the agency. Earlier this month, after a weak jobs report, Trump removed the BLS director from his post, and officials are currently in the process of considering potential replacements.E.J. Antoni, who is undergoing interviews, has been a vocal critic of the BLS&apos;s employment data collection methods as the Chief Economist of the Traditional Foundation. A White House spokesperson said, &quot;President Trump has chosen the most talented individuals to lead the federal government and will announce the new BLS director appointee after reaching a decision.&quot; The report pointed out tha</description>
-      <pubDate>Sun, 10 Aug 2025 23:40:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23934</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>CME FedWatch: 88.4% Probability of 25 Basis Point Rate Cut in September</title>
-      <link>https://www.lookonchain.com/feeds/23933</link>
-      <description>On August 11th, based on CME&apos;s &quot;FedWatch&quot; data, the likelihood of a 25-basis-point rate cut in September is 88.4%, and the probability of rates remaining unchanged is 11.6%.</description>
-      <pubDate>Sun, 10 Aug 2025 23:40:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23933</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>U.S. Treasury Secretary Yellen: Expects Trade Issues to be Resolved by the End of October</title>
-      <link>https://www.lookonchain.com/feeds/23932</link>
-      <description>August 11th. In an interview with Nikkei News, U.S. Treasury Secretary Benson expressed that President Trump&apos;s tariff policy is intended to bring manufacturing back to the United States. When assessing the impact of Trump&apos;s economic policies since taking office, Benson stated, &quot;Trump&apos;s economic policy is like a &apos;three-legged stool&apos; - tax cuts, trade, and deregulation. Regarding taxes, we have swiftly completed the record-breaking Tax Cuts and Jobs Act, which was signed into effect on July 4th. In terms of trade, I believe we can make significant progress by the end of October. Regarding deregulation, it is an ongoing process. The President has made it clear that for every new regulation implemented, ten old ones must be eliminated.&quot;Benson pointed out that the main reason for adopting a tariff policy in trade is to rebalance the (current account deficit). He said, &quot;Over time, tariffs should be like a melting ice cube. If production returns to the United States, then our imports</description>
-      <pubDate>Sun, 10 Aug 2025 23:40:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23932</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>In the past 24 hours, the entire network has seen a total of $343 million in liquidations, with both longs and shorts getting rekt.</title>
-      <link>https://www.lookonchain.com/feeds/23931</link>
-      <description>On August 10th, according to Coinglass data, during the past 24 hours, the total liquidation across the network reached $343 million. The long liquidations amounted to $172 million, while the short liquidations totaled $171 million.</description>
-      <pubDate>Sun, 10 Aug 2025 15:54:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23931</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>If Bitcoin surpasses $120,000, the mainstream CEX cumulative short liquidation intensity will reach 359 million.</title>
-      <link>https://www.lookonchain.com/feeds/23929</link>
-      <description>On August 10th, according to Coinglass data, in the event that Bitcoin surges past $120,000, the cumulative short liquidation intensity on mainstream CEXes will amount to 359 million.Conversely, if Bitcoin drops below $117,000, the cumulative long liquidation intensity on mainstream CEXes will reach 274 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart showcases to what degree reaching a certain price level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, it will trigger a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Sun, 10 Aug 2025 14:54:52 +0000</pubDate>
+      <title>Pump.fun Co-founder: Market Expected to See a Return to the 2024 Q4 pump.fun &quot;Trench&quot; Craze</title>
+      <link>https://www.lookonchain.com/feeds/23957</link>
+      <description>On August 11th, Alon, a co-founder of Pump.fun, tweeted, &quot;I have a feeling that we are on the verge of returning to the fourth quarter of 2024, where the &apos;trench&apos; frenzy of pump.fun is about to happen again. However, this time, the rise will be even more significant.&quot;</description>
+      <pubDate>Mon, 11 Aug 2025 01:48:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23929</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23957</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Wangshi hopes Musk will rejoin the MAGA camp before the midterm election</title>
+      <link>https://www.lookonchain.com/feeds/23956</link>
+      <description>On August 11th, according to market information, US Vice President Pence desires that Musk will re-enter the MAGA camp prior to the midterm elections. (ZeroHedge)</description>
+      <pubDate>Mon, 11 Aug 2025 01:40:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23956</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Michael Saylor: When banks start recommending Bitcoin, Bitcoin will surge to $10 million</title>
+      <link>https://www.lookonchain.com/feeds/23955</link>
+      <description>On August 11th, according to a report from Cointelegraph, Michael Saylor, the founder of Strategy, stated, &quot;When banks begin to recommend Bitcoin, the price of each Bitcoin will reach $10 million.&quot;</description>
+      <pubDate>Mon, 11 Aug 2025 01:32:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23955</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -122,12 +88,12 @@
 
     </item>
     <item>
-      <title>Bitcoin Surges to Reach $119,000</title>
-      <link>https://www.lookonchain.com/feeds/23930</link>
-      <description>On August 10th, based on HTX market data, Bitcoin rose to $119,000, with a 1.72% increase in the past 24 hours.</description>
-      <pubDate>Sun, 10 Aug 2025 14:54:52 +0000</pubDate>
+      <title>LookOnChain: Ethereum Surpasses $4300</title>
+      <link>https://www.lookonchain.com/feeds/23954</link>
+      <description>On August 11th, according to HTX market data, Ethereum has exceeded $4300, with a 24-hour fluctuation of 0.03%.</description>
+      <pubDate>Mon, 11 Aug 2025 01:32:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23930</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23954</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -136,18 +102,56 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>The current mainstream CEX and DEX funding rate displays a divergence in market direction, with both bullish and neutral perspectives coexisting.</title>
-      <link>https://www.lookonchain.com/feeds/23928</link>
-      <description>On August 10th, according to Coinglass data, the current funding rates of mainstream CEX and DEX show a divergent market trend with both bullish and neutral sentiments. The specific funding rates for major coins are as shown in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applied to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market sentiment. When the funding rate is less than 0.005%, it indicates a generally bearish market sentiment.</description>
-      <pubDate>Sun, 10 Aug 2025 14:54:52 +0000</pubDate>
+      <title>AguilaTrades has nearly closed its 25x leveraged short position on ETH in the early hours of today, resulting in a loss of $696,000.</title>
+      <link>https://www.lookonchain.com/feeds/23953</link>
+      <description>On August 11th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), AguilaTrades nearly liquidated a 25x leveraged short position on ETH in the early morning. It suffered a 24-hour loss of $696,000 and currently holds only $386,000 in position.AguilaTrades&apos;s previous short position on ETH earned a profit of over $11.3 million.</description>
+      <pubDate>Mon, 11 Aug 2025 01:24:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23928</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23953</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>ZORA briefly surged above $0.13, hitting a new all-time high</title>
+      <link>https://www.lookonchain.com/feeds/23952</link>
+      <description>On August 11th, according to HTX market data, ZORA briefly rose above $0.13 and is currently trading at $0.125. It has witnessed a 24-hour price increase of 27.35%. Its market capitalization has reached $405 million, hitting a new all-time high.</description>
+      <pubDate>Mon, 11 Aug 2025 01:16:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23952</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Musk: Grok 4 is now freely available to all users</title>
+      <link>https://www.lookonchain.com/feeds/23951</link>
+      <description>On August 11th, Musk tweeted that &quot;Grok 4 has now become freely accessible to all users. The free plan enables a certain small number of queries per day, and a subscription is necessary if one wants to exceed that limit.&quot;</description>
+      <pubDate>Mon, 11 Aug 2025 01:16:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23951</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -159,12 +163,12 @@
 
     </item>
     <item>
-      <title>JD.com Initiates Recruitment for &apos;Stablecoin On-Chain Activity Planning&apos; Position</title>
-      <link>https://www.lookonchain.com/feeds/23927</link>
-      <description>August 10th. JD Technology Group has recently begun recruiting for the position of &quot;Stablecoin On-Chain Activity Planner&quot;. The main responsibilities involve formulating and implementing the on-chain growth strategy for the stablecoin. Analyzing on-chain data to optimize market strategies. Expanding partnerships with DeFi protocols, DEXs, lending platforms, and other ecosystem partners. And planning and executing marketing activities. This position also requires leveraging Web3 industry resources to expand the scope and influence of activities.Requirements are as follows: having more than 3 years of experience in Web3 growth operations or blockchain marketing, with successful on-chain activity cases. Having been deeply involved in the economic model design or growth activities of at least one DeFi protocol. Being familiar with market growth strategies in the DeFi, PayFi, and exchange platform ecosystems. Being proficient in DEXs, lending, derivative protocol, and stablecoin use cases.</description>
-      <pubDate>Sun, 10 Aug 2025 14:54:52 +0000</pubDate>
+      <title>Suspected SharpLink Associated Address Withdraws 52,809 ETH from Coinbase Prime, Equivalent to Approximately $220 Million</title>
+      <link>https://www.lookonchain.com/feeds/23949</link>
+      <description>On August 11th, as monitored by on-chain analyst Yu Jin, 10 hours ago, a newly created wallet withdrew 52,809 ETH ($220 million) from Coinbase Prime. Subsequently, it distributed the funds to 8 wallets for Ethereum staking. One of these wallets is the known address of SharpLink (SBET). Last Friday, SharpLink sold shares and raised $200 million. Therefore, it is highly likely that they converted these funds into ETH over the weekend.Currently, SharpLink (SBET) holds a latest ETH balance of approximately 621,000 ETH, with a value of $2.65 billion. The average purchase price is roughly $3,226.</description>
+      <pubDate>Mon, 11 Aug 2025 01:08:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23927</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23949</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -173,6 +177,28 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Infini attacker has once again sold 1771 ETH today.</title>
+      <link>https://www.lookonchain.com/feeds/23950</link>
+      <description>On August 11th, as per the monitoring of LookOnChain, the Infini attacker sold 1,771 ETH (valued at $7.44 million) today at an average price of $4,202.On February 24th, the attacker took advantage of a vulnerability and stole $49.5 million from Infini by purchasing 17,696 ETH at a price of $2,798. Leveraging the increase in the ETH price, on July 17th, they sold 1,770 ETH (worth $5.88 million) at $3,321 and transferred 4,501 ETH (worth $15.03 million) using Tornado Cash.</description>
+      <pubDate>Mon, 11 Aug 2025 01:08:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23950</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
   </channel>
