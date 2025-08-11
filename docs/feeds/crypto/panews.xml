@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Aug 2025 14:53:35 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 14:53:35 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 15:19:29 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 15:19:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,55 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Paxos申请美国信托银行牌照</title>
+      <title>Mill City Ventures再购入2000万美元SUI代币</title>
+      <link>https://www.panewslab.com/zh/articles/7017a5b7-3991-4cd0-8810-be3c9d3f8666</link>
+      <description>Mill City Ventures再购入2000万美元SUI代币</description>
+      <pubDate>Mon, 11 Aug 2025 15:19:29 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7017a5b7-3991-4cd0-8810-be3c9d3f8666</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>OSL HK开放Solana（SOL）零售交易</title>
+      <link>https://www.panewslab.com/zh/articles/c2d8324c-2999-4043-b62f-8e13315dcddd</link>
+      <description>OSL HK开放Solana（SOL）零售交易</description>
+      <pubDate>Mon, 11 Aug 2025 15:17:29 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c2d8324c-2999-4043-b62f-8e13315dcddd</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>特朗普宣布华盛顿特区进入公共安全紧急状态</title>
+      <link>https://www.panewslab.com/zh/articles/6fed0e88-bf6c-43ec-a5cf-28265ff272af</link>
+      <description>特朗普宣布华盛顿特区进入公共安全紧急状态</description>
+      <pubDate>Mon, 11 Aug 2025 15:15:29 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6fed0e88-bf6c-43ec-a5cf-28265ff272af</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Paxos申请将纽约信托牌照转换为美国国家信托牌照</title>
       <link>https://www.panewslab.com/zh/articles/1256073c-e5e9-4f39-a08e-a26bd0d13c4f</link>
-      <description>Paxos申请美国信托银行牌照</description>
-      <pubDate>Mon, 11 Aug 2025 14:53:35 +0000</pubDate>
+      <description>Paxos申请将纽约信托牌照转换为美国国家信托牌照</description>
+      <pubDate>Mon, 11 Aug 2025 15:13:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1256073c-e5e9-4f39-a08e-a26bd0d13c4f</guid>
       <category>crypto</category>
@@ -32,7 +77,7 @@
       <title>DeepSeek服务出现重大故障，网页与API正逐步恢复</title>
       <link>https://www.panewslab.com/zh/articles/c5804a07-be66-4e3d-912f-d63125b50ef0</link>
       <description>DeepSeek服务出现重大故障，网页与API正逐步恢复</description>
-      <pubDate>Mon, 11 Aug 2025 14:51:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:11:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c5804a07-be66-4e3d-912f-d63125b50ef0</guid>
       <category>crypto</category>
@@ -47,7 +92,7 @@
       <title>美股以太币储备概念拉升，BMNR涨超23%，SBET涨超13%</title>
       <link>https://www.panewslab.com/zh/articles/112ea30b-9762-4a0e-913e-d408e7b3cd8f</link>
       <description>美股以太币储备概念拉升，BMNR涨超23%，SBET涨超13%</description>
-      <pubDate>Mon, 11 Aug 2025 14:49:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:09:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/112ea30b-9762-4a0e-913e-d408e7b3cd8f</guid>
       <category>crypto</category>
@@ -62,7 +107,7 @@
       <title>AguilaTrades开仓半小时便止损ETH空单，亏损192万美元</title>
       <link>https://www.panewslab.com/zh/articles/89d5389c-1a70-4cfd-a607-a95c823d20a4</link>
       <description>AguilaTrades开仓半小时便止损ETH空单，亏损192万美元</description>
-      <pubDate>Mon, 11 Aug 2025 14:47:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:07:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/89d5389c-1a70-4cfd-a607-a95c823d20a4</guid>
       <category>crypto</category>
@@ -79,7 +124,7 @@
       <title>BTC跌破120000美元，日内涨幅 1.00%</title>
       <link>https://www.panewslab.com/zh/articles/qt983m5r</link>
       <description>BTC跌破120000美元，日内涨幅 1.00%</description>
-      <pubDate>Mon, 11 Aug 2025 14:45:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:05:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/qt983m5r</guid>
       <category>crypto</category>
@@ -96,7 +141,7 @@
       <title>Thumzup Media完成5000万美元公开募股定价，拟加码加密货币资产</title>
       <link>https://www.panewslab.com/zh/articles/95e21a1d-2a74-481f-8890-357f79056fe7</link>
       <description>Thumzup Media完成5000万美元公开募股定价，拟加码加密货币资产</description>
-      <pubDate>Mon, 11 Aug 2025 14:43:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:03:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/95e21a1d-2a74-481f-8890-357f79056fe7</guid>
       <category>crypto</category>
@@ -111,7 +156,7 @@
       <title>FG Nexus宣布已购入47,331枚ETH，耗资2亿美元</title>
       <link>https://www.panewslab.com/zh/articles/d68d2959-ed91-4551-ab8f-717781dd2290</link>
       <description>FG Nexus宣布已购入47,331枚ETH，耗资2亿美元</description>
-      <pubDate>Mon, 11 Aug 2025 14:41:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:01:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d68d2959-ed91-4551-ab8f-717781dd2290</guid>
       <category>crypto</category>
@@ -128,7 +173,7 @@
       <title>交易员以15倍杠杆做空2.6万枚ETH，仓位价值1.11亿美元</title>
       <link>https://www.panewslab.com/zh/articles/8f00fbb8-7ef7-4df8-ad87-43696e7f7fad</link>
       <description>交易员以15倍杠杆做空2.6万枚ETH，仓位价值1.11亿美元</description>
-      <pubDate>Mon, 11 Aug 2025 14:39:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:59:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8f00fbb8-7ef7-4df8-ad87-43696e7f7fad</guid>
       <category>crypto</category>
@@ -145,7 +190,7 @@
       <title>ETH突破4300美元，日内涨幅 1.96%</title>
       <link>https://www.panewslab.com/zh/articles/lktc0pdn</link>
       <description>ETH突破4300美元，日内涨幅 1.96%</description>
-      <pubDate>Mon, 11 Aug 2025 14:37:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:57:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/lktc0pdn</guid>
       <category>crypto</category>
@@ -162,7 +207,7 @@
       <title>Bullish上调IPO目标至48.2亿美元，计划将募资转为稳定币</title>
       <link>https://www.panewslab.com/zh/articles/dd1e131d-6697-4658-bcab-0d6b67268f78</link>
       <description>Bullish上调IPO目标至48.2亿美元，计划将募资转为稳定币</description>
-      <pubDate>Mon, 11 Aug 2025 14:35:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:55:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/dd1e131d-6697-4658-bcab-0d6b67268f78</guid>
       <category>crypto</category>
@@ -177,7 +222,7 @@
       <title>贝索斯旗下航天公司蓝色起源将接受比特币及加密货币支付</title>
       <link>https://www.panewslab.com/zh/articles/a53d80ae-7f4f-4790-a382-cf9526037c93</link>
       <description>贝索斯旗下航天公司蓝色起源将接受比特币及加密货币支付</description>
-      <pubDate>Mon, 11 Aug 2025 14:33:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:53:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a53d80ae-7f4f-4790-a382-cf9526037c93</guid>
       <category>crypto</category>
@@ -194,7 +239,7 @@
       <title>ENS多签钱包转出近14.2万枚ENS至交易平台</title>
       <link>https://www.panewslab.com/zh/articles/b6672fa6-f2af-4d9e-ab5c-9075f338e29d</link>
       <description>ENS多签钱包转出近14.2万枚ENS至交易平台</description>
-      <pubDate>Mon, 11 Aug 2025 14:31:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:51:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b6672fa6-f2af-4d9e-ab5c-9075f338e29d</guid>
       <category>crypto</category>
@@ -209,7 +254,7 @@
       <title>Gate 推出 VIP 理财加息福利，USDT 7 天定期尊享 6% 年化</title>
       <link>https://www.panewslab.com/zh/articles/1bf24f63-f69b-402d-829c-dcf470246651</link>
       <description>Gate 推出 VIP 理财加息福利，USDT 7 天定期尊享 6% 年化</description>
-      <pubDate>Mon, 11 Aug 2025 14:29:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:49:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1bf24f63-f69b-402d-829c-dcf470246651</guid>
       <category>crypto</category>
@@ -224,7 +269,7 @@
       <title>Roundhill重新申报MEME主题ETF</title>
       <link>https://www.panewslab.com/zh/articles/123ecb53-521e-4ade-9007-ab1926c09bdd</link>
       <description>Roundhill重新申报MEME主题ETF</description>
-      <pubDate>Mon, 11 Aug 2025 14:27:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:47:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/123ecb53-521e-4ade-9007-ab1926c09bdd</guid>
       <category>crypto</category>
@@ -239,7 +284,7 @@
       <title>The Smarter Web Company完成新一轮认购融资762万英镑</title>
       <link>https://www.panewslab.com/zh/articles/b8080873-d9be-48b3-a19d-c26ae18ecdf4</link>
       <description>The Smarter Web Company完成新一轮认购融资762万英镑</description>
-      <pubDate>Mon, 11 Aug 2025 14:25:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:45:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b8080873-d9be-48b3-a19d-c26ae18ecdf4</guid>
       <category>crypto</category>
@@ -254,7 +299,7 @@
       <title>公司MCVT增持超560万枚SUI，金库持仓突破8,187万枚</title>
       <link>https://www.panewslab.com/zh/articles/7e788c96-a15b-41bf-9286-f73835b0df81</link>
       <description>公司MCVT增持超560万枚SUI，金库持仓突破8,187万枚</description>
-      <pubDate>Mon, 11 Aug 2025 14:23:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:43:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7e788c96-a15b-41bf-9286-f73835b0df81</guid>
       <category>crypto</category>
@@ -269,54 +314,9 @@
       <title>Zoth获Bolts Capital 1500万美元战略投资，推动RWA上链</title>
       <link>https://www.panewslab.com/zh/articles/8cd4a9a8-4369-4d95-bc13-208f78b9f87d</link>
       <description>Zoth获Bolts Capital 1500万美元战略投资，推动RWA上链</description>
-      <pubDate>Mon, 11 Aug 2025 14:21:35 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:41:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8cd4a9a8-4369-4d95-bc13-208f78b9f87d</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Story携手Heritage Distilling启动3.6亿美元$IP战略储备，a16z首次参与上市公司代币国库配置</title>
-      <link>https://www.panewslab.com/zh/articles/342f0835-62ef-499a-97b8-f879a3a2cff6</link>
-      <description>Story携手Heritage Distilling启动3.6亿美元$IP战略储备，a16z首次参与上市公司代币国库配置</description>
-      <pubDate>Mon, 11 Aug 2025 14:19:35 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/342f0835-62ef-499a-97b8-f879a3a2cff6</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Safety Shot宣布与BONK达成战略合作，获2500万美元BONK代币</title>
-      <link>https://www.panewslab.com/zh/articles/1715e8d6-6b69-4f63-913e-502ade8d298a</link>
-      <description>Safety Shot宣布与BONK达成战略合作，获2500万美元BONK代币</description>
-      <pubDate>Mon, 11 Aug 2025 14:17:35 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1715e8d6-6b69-4f63-913e-502ade8d298a</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>BFUSD迁移至币安理财，合约账户申购功能关闭</title>
-      <link>https://www.panewslab.com/zh/articles/e4190a4a-4334-4b89-9cca-03eeb119d66f</link>
-      <description>BFUSD迁移至币安理财，合约账户申购功能关闭</description>
-      <pubDate>Mon, 11 Aug 2025 14:15:35 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e4190a4a-4334-4b89-9cca-03eeb119d66f</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
