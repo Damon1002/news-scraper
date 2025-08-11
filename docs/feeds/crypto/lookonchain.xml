@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Aug 2025 07:41:51 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 07:41:51 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 07:55:36 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 07:55:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Citigroup: Bond Market Sentiment Shift, Possible Stock Market Pullback in the Next Three Months</title>
+      <link>https://www.lookonchain.com/feeds/24016</link>
+      <description>On August 11th, Stuart Kaiser, the chief of Citigroup&apos;s US Options Strat, stated that in the past few weeks, the derivatives trading desk of the bank has witnessed a substantial increase in the demand from asset management clients to short products linked to the iShares index or junk bond benchmarks. This might indicate that macro investors have an outlook on the future direction or imply that they are hedging against the rise in risk assets. The fact that people are hedging credit risk suggests that they anticipate a considerable pullback in the stock market within the next three months. (FX678)</description>
+      <pubDate>Mon, 11 Aug 2025 07:48:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24016</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Matrixport: Ethereum&apos;s Next Target Price Could Be $4362, Boosted by Recent Institutional Buying Pressure and Regulatory Tailwinds</title>
       <link>https://www.lookonchain.com/feeds/24015</link>
       <description>On August 11th, Matrixport issued its daily chart analysis indicating that the Ethereum price surged beyond the $4,000 level and reached a new high since the end of 2021. This round of upward momentum was primarily driven by institutional buying pressure and a short squeeze. The on-chain activity also achieved a new all-time high, with a daily transaction volume exceeding 1.8 million and more than 30% of the supply already being staked.The SEC ruled that liquidity staking tokens are not securities, which brought significant regulatory optimism to the industry and enhanced market confidence in Ethereum and staking platforms. Encouraged by this, some public companies have expedited their strategic deployments, and their treasuries now hold more than $3.5 billion worth of ETH, which is nearly a tenfold increase compared to last year.The next target for the market may be $4,362, and the all-time high of $4,892 is still regarded as the ultimate milestone.</description>
-      <pubDate>Mon, 11 Aug 2025 07:40:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:40:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24015</guid>
       <category>crypto</category>
@@ -37,7 +54,7 @@
       <title>If Bitcoin breaks its all-time high, the mainstream CEX cumulative short liquidation intensity will reach 793 million.</title>
       <link>https://www.lookonchain.com/feeds/24014</link>
       <description>On August 11th, according to Coinglass data, in the event that Bitcoin surpasses its all-time high, the cumulative short liquidation intensity on mainstream CEXs will amount to 793 million.On the other hand, if Bitcoin drops below $120,000, the cumulative long liquidation intensity on mainstream CEXs will reach 1.084 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, which is referred to as intensity.Consequently, the liquidation chart indicates the extent to which reaching a particular price level will have an impact. A higher &quot;liquidation bar&quot; suggests that the price will encounter a more intense reaction due to a liquidity cascade when it reaches that level.</description>
-      <pubDate>Mon, 11 Aug 2025 07:32:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:32:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24014</guid>
       <category>crypto</category>
@@ -57,7 +74,7 @@
       <title>HashKey Cloud will provide collateral services to the publicly listed company Huali Medical, working together to explore a new model for the appreciation of encrypted assets</title>
       <link>https://www.lookonchain.com/feeds/24013</link>
       <description>On August 11th, HashKey Cloud, which is a Web3 infrastructure service provider under HashKey Group, announced that it will offer staking services for the publicly listed company Hutchmed (1931.HK). The two parties will jointly explore Ethereum (ETH) staking and restaking, DeFi yield farming, and other innovative value-added models in order to assist Hutchmed in exploring new asset appreciation within a crypto-native treasury system.This cooperation highlights the significant potential of HashKey Cloud in enabling traditional finance. By providing secure and professional staking technology support, HashKey Cloud helps Hutchmed enhance asset management efficiency and establishes a replicable staking model for other publicly listed companies, thus setting a model for publicly listed companies to manage crypto assets in a compliant manner. This will undoubtedly inspire more publicly listed companies to adopt crypto asset management strategies, promote the widespread application of blockc</description>
-      <pubDate>Mon, 11 Aug 2025 07:24:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:24:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24013</guid>
       <category>crypto</category>
@@ -76,7 +93,7 @@
       <title>Bank of America: Probability of a hard economic landing drops to lowest level since January, equity allocation rising</title>
       <link>https://www.lookonchain.com/feeds/24012</link>
       <description>August 11th: According to the monthly fund manager survey conducted by a U.S. bank, due to optimistic earnings performance and enhanced global economic sentiment, investors re-entered the stock market. Holding U.S. large-cap tech stocks once again became the most popular trade. The August survey involved 169 participants managing $413 billion in assets.The likelihood of an economic hard landing has dropped to the lowest level since January 2025. Stock allocation is on the rise but has not yet reached an extreme level. A net 78% of respondents anticipate that short-term interest rates will decline within the next 12 months. 29% of respondents think that the trade war remains the biggest &quot;tail risk,&quot; while 27% believe that inflation restricts the Fed from cutting rates.20% of respondents believe that Fed Governor Waller is most likely to be the next Fed Chair, 19% think it is NEC Director Hassett, and 15% believe it is former Fed Governor Warsh.</description>
-      <pubDate>Mon, 11 Aug 2025 07:24:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:24:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24012</guid>
       <category>crypto</category>
@@ -93,7 +110,7 @@
       <title>Meme Coin SPARK&apos;s Market Cap Surges to Over $52 Million, Setting a New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/24011</link>
       <description>August 11th. According to GMGN data, the on-chain AI virtual creature concept Meme token SPARK&apos;s market capitalization briefly exceeded $52 million, reaching a new all-time high. It had a 24-hour gain of 60.24% and a 24-hour trading volume of $24.5 million.BlockBeats reminds users that Meme coins usually lack practical use cases and experience high price volatility. Therefore, investment should be approached with caution.</description>
-      <pubDate>Mon, 11 Aug 2025 07:16:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:16:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24011</guid>
       <category>crypto</category>
@@ -111,7 +128,7 @@
       <title>A certain whale has sold over 300,000 UNI and 1,000 AAVE, repositioning to LDO and ENA.</title>
       <link>https://www.lookonchain.com/feeds/24010</link>
       <description>August 11th: Based on the monitoring of OnchainLens, in the past 24 hours, a whale address has sold 300,662 UNI tokens for 756 WETH (approximately $3.19 million), achieving a profit of $895,000. This whale also sold 1,000 AAVE tokens for 72 WETH (approximately $307,600).In addition, the whale has also made the following purchases:2.31 million LDO tokens, spending 738.85 WETH (approximately $3.11 million) at a purchase price of $1.35;1.21 million ENA tokens, spending 220 WETH (approximately $922,700) at a purchase price of $0.76.Address: 0xbcda26b7c6fe36b4f97c21a57807817b06e15c77</description>
-      <pubDate>Mon, 11 Aug 2025 07:09:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:09:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24010</guid>
       <category>crypto</category>
@@ -129,7 +146,7 @@
       <title>The US dollar edged slightly lower but traded in a range-bound manner as investors patiently awaited the US CPI data.</title>
       <link>https://www.lookonchain.com/feeds/24009</link>
       <description>On August 11th, the US dollar saw a slight decline but remained within a narrow trading range as investors were awaiting the release of the US Consumer Price Index inflation data on Tuesday. In the previous week, the US dollar fell due to the recent weak employment data and Mester&apos;s temporary appointment to the Federal Reserve Board, which increased the possibility of a rate cut in the near future.However, the data on Tuesday may offer early indications of US trade tariffs driving up inflation. Chris Weston from Pepperstone stated in a report, &quot;All eyes will be focused on the degree to which core goods inflation is being affected by tariffs and whether these factors will be more prominent in the August CPI.&quot; (FXStreet)</description>
-      <pubDate>Mon, 11 Aug 2025 07:09:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:09:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24009</guid>
       <category>crypto</category>
@@ -146,7 +163,7 @@
       <title>UXLINK Announces Entry into the US Market</title>
       <link>https://www.lookonchain.com/feeds/24008</link>
       <description>On August 11th, UXLINK announced on its official X platform that it is set to officially enter the U.S. market. This move will bring its innovative Web3 + AI social infrastructure to American users and partners.UXLINK, which hails from Tokyo and Singapore, has already amassed over 50 million users worldwide in South Korea, Japan, Southeast Asia, South Asia, and Africa.The community lead of UXLINK stated, &quot;As a project that has been operational for three years and had a TGE a year ago, we are highly compliant. We will bring &apos;Social + AI&apos; to the U.S. market and will make full use of the leading AI technology in the U.S. to further enhance our infrastructure and service capabilities. We will establish a local community and seek more listing and treasury opportunities.&quot;</description>
-      <pubDate>Mon, 11 Aug 2025 07:08:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:09:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24008</guid>
       <category>crypto</category>
@@ -163,7 +180,7 @@
       <title>HTX DeepThink: Federal Reserve Board Governor Nomination Triggers Policy Game Theory, Multiple Key Data Tests Cryptocurrency Market</title>
       <link>https://www.lookonchain.com/feeds/24007</link>
       <description>On August 11th, the HTX Researcher Chloe pointed out that Trump nominated his long-term economic advisor, Stephen Moore, to serve as a member of the Federal Reserve Board. This strengthened the market&apos;s expectations for the Fed&apos;s future loose monetary policy. Moore advocates for rate cuts, which is in contrast to Powell&apos;s cautious stance and has driven the recent rebound of risk assets such as Bitcoin.This week, the market is focusing on three key data points: July CPI, PPI, and retail sales. If the inflation data is higher than expected, investors may reduce their rate cut bets, leading to a stronger dollar and pressure on the crypto market. If retail sales are weak, it will support the expectation of a rate cut in September and be favorable for the continued rise of risk assets.In addition, in terms of geopolitics, Trump and Putin will meet in Alaska on August 15th to discuss Ukraine and bilateral relations, which may affect market risk appetite.Overall, this week the crypto ma</description>
-      <pubDate>Mon, 11 Aug 2025 07:08:58 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 07:08:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24007</guid>
       <category>crypto</category>
@@ -174,26 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Treasury Holdings Surpass 3 Million ETH, Ethereum ETF Total Holdings Approaching 6 Million ETH</title>
-      <link>https://www.lookonchain.com/feeds/24006</link>
-      <description>On August 11th, based on strategicethreserve data, the total holdings of the Ethereum Treasury Strategy Company have reached 3.04 million ETH, which accounts for 2.51% of the supply; the total holdings of the Ethereum ETF have reached 5.91 million ETH, accounting for 4.89% of the supply.</description>
-      <pubDate>Mon, 11 Aug 2025 06:56:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24006</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
   </channel>
