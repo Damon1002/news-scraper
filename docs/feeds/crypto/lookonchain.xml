@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Aug 2025 01:57:42 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 01:57:42 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 03:47:46 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 03:47:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>If Ethereum breaks $4400, mainstream CEX total short liquidation volume will reach $928 million</title>
-      <link>https://www.lookonchain.com/feeds/23958</link>
-      <description>On August 11th, based on Coinglass data, if Ethereum manages to break through $4400, the total short liquidation strength of mainstream CEXs will reach 928 million.Conversely, if Ethereum drops below $4200, the total long liquidation strength of mainstream CEXs will reach 705 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, strength.Therefore, the liquidation chart shows to what extent the target price will be influenced when it reaches a certain position. A higher &quot;liquidation bar&quot; indicates that when the price reaches that particular point, a more intense reaction will occur due to a surge in liquidity.</description>
-      <pubDate>Mon, 11 Aug 2025 01:56:50 +0000</pubDate>
+      <title>Binance Launches USDC Savings with Zero Capital Guarantee, Featuring Special Promotion with up to 12% APY</title>
+      <link>https://www.lookonchain.com/feeds/23977</link>
+      <description>August 11th. According to an official announcement, Binance Savings declared that starting from 08:00 on August 11th, 2025, and ending at 07:59 on September 10th (in UTC+8 time zone), the platform will launch a time-limited USDC Principal-Protected Earn Activity. This gives users the chance to earn an annualized return of up to 12%. The subscription method is on a first-come, first-served basis.During this activity, users who subscribe an amount not exceeding 100,000 USDC can enjoy a 12% annualized yield. This includes approximately 10% in tiered returns and around 2% in real-time returns. For amounts exceeding 100,000 USDC, the calculation will be based on approximately 2% real-time return. Earnings are divided into two parts: tiered returns that are distributed daily to the spot account and real-time returns calculated by the minute and credited to the savings account, providing both stability and flexibility.The USDC Principal-Protected Term Deposit product supports a minimum su</description>
+      <pubDate>Mon, 11 Aug 2025 03:40:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23958</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23977</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,52 +28,86 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Pudgy Penguins Teams Up with Suplay for a Comprehensive Upgrade of Global Distribution Channels</title>
+      <link>https://www.lookonchain.com/feeds/23979</link>
+      <description>August 11th: The prominent NFT project, Pudgy Penguins, declared a strategic partnership with China&apos;s premier toy and lifestyle enterprise, Suplay. This marks another significant milestone in the amalgamation of digital and physical collectibles markets. This collaboration will utilize Suplay&apos;s prowess in manufacturing and distribution to extend Pudgy Penguins&apos; beloved characters, which are already present in an extensive retail network, into a diverse range of physical products such as collectible cards, blind boxes, and licensed merchandise.Pudgy Penguins has already constructed a robust global retail distribution system, encompassing over 10,000 stores and forming profound partnerships with retail behemoths like Walmart, Target, and Amazon. The project has garnered over 500 billion GIPHY views, 5 billion+ TikTok video views, and achieved $10 million in retail sales. On the other hand, Suplay is a leading entity in China&apos;s toy culture sector, backed by Mihayo Capital, and has raise</description>
+      <pubDate>Mon, 11 Aug 2025 03:40:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23979</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>AI L1 network Nesa has announced the launch of an on-chain reputation system driven by deep reinforcement learning.</title>
+      <link>https://www.lookonchain.com/feeds/23978</link>
+      <description>On August 11th, the AI L1 network Nesa announced the commencement of an on-chain reputation system that is driven by deep reinforcement learning. Nesa has introduced a system composed of three control loops - request-based routing, hot-swapping and capacity rebalancing, as well as miner-level evolution.</description>
+      <pubDate>Mon, 11 Aug 2025 03:40:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23978</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Market Cap Surpasses Amazon, Rises to 6th in Global Asset Market Cap Ranking</title>
+      <link>https://www.lookonchain.com/feeds/23976</link>
+      <description>On August 11th, based on 8market data, Bitcoin&apos;s market capitalization exceeded that of Amazon and reached $2.45 trillion, rising to the 6th position in the global asset market capitalization rankings.</description>
+      <pubDate>Mon, 11 Aug 2025 03:32:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23976</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Crypto Market Starts Uptrend, Total Market Cap Surpasses $4.139 Trillion</title>
+      <link>https://www.lookonchain.com/feeds/23975</link>
+      <description>On August 11th, the crypto market exhibited a rising trend. Bitcoin broke through $12,200. Ethereum once again exceeded $4,300. The total cryptocurrency market capitalization exceeded $4.139 trillion, with a 24-hour increase of 1.8%. Fan token projects and Ethereum ecosystem tokens took the lead in the altcoin market. These include: ZRO, which saw a 21.85% increase in the last 24 hours and is now trading at $2.42; LDO, which saw a 12.93% increase in the last 24 hours and is now trading at $1.48; JUV, which saw a 36% increase in the last 24 hours and is now trading at $1.49; ENA, which saw an 11.4% increase in the last 24 hours and is now trading at $0.826; and LISTA, which saw a 9.55% increase in the last 24 hours and is now trading at $0.338.</description>
+      <pubDate>Mon, 11 Aug 2025 03:32:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23975</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Pump.fun Co-founder: Market Expected to See a Return to the 2024 Q4 pump.fun &quot;Trench&quot; Craze</title>
-      <link>https://www.lookonchain.com/feeds/23957</link>
-      <description>On August 11th, Alon, a co-founder of Pump.fun, tweeted, &quot;I have a feeling that we are on the verge of returning to the fourth quarter of 2024, where the &apos;trench&apos; frenzy of pump.fun is about to happen again. However, this time, the rise will be even more significant.&quot;</description>
-      <pubDate>Mon, 11 Aug 2025 01:48:50 +0000</pubDate>
+      <title>Bitcoin Breaks $122,000, Only About 1% Away from New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/23974</link>
+      <description>On August 11th, based on HTX market data, Bitcoin has exceeded $122,000, with a 24-hour price increase of 3.75%.Currently, it is only approximately 1% away from reaching the historical high of $123,250 on July 14th.</description>
+      <pubDate>Mon, 11 Aug 2025 03:24:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23957</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Wangshi hopes Musk will rejoin the MAGA camp before the midterm election</title>
-      <link>https://www.lookonchain.com/feeds/23956</link>
-      <description>On August 11th, according to market information, US Vice President Pence desires that Musk will re-enter the MAGA camp prior to the midterm elections. (ZeroHedge)</description>
-      <pubDate>Mon, 11 Aug 2025 01:40:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23956</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Michael Saylor: When banks start recommending Bitcoin, Bitcoin will surge to $10 million</title>
-      <link>https://www.lookonchain.com/feeds/23955</link>
-      <description>On August 11th, according to a report from Cointelegraph, Michael Saylor, the founder of Strategy, stated, &quot;When banks begin to recommend Bitcoin, the price of each Bitcoin will reach $10 million.&quot;</description>
-      <pubDate>Mon, 11 Aug 2025 01:32:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23955</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23974</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -88,12 +122,29 @@
 
     </item>
     <item>
-      <title>LookOnChain: Ethereum Surpasses $4300</title>
-      <link>https://www.lookonchain.com/feeds/23954</link>
-      <description>On August 11th, according to HTX market data, Ethereum has exceeded $4300, with a 24-hour fluctuation of 0.03%.</description>
-      <pubDate>Mon, 11 Aug 2025 01:32:50 +0000</pubDate>
+      <title>BAGS 7-Day Protocol Revenue Surpasses Letsbonk, Founder Previously Snagged Dogwifhat NFT</title>
+      <link>https://www.lookonchain.com/feeds/23973</link>
+      <description>On August 11th, as per the data from Defillama, the revenue of the Solana Meme issuance platform BAGS in the past 7 days exceeded that of Letsbonk and currently stands at $3.95 million. The revenue of Letsbonk in the past 7 days was $2.16 million, and the revenue of Pump.fun in the past 7 days was $8.58 million.Moreover, according to the Jupiter Data Dashboard, in the past 24 hours in the Solana coin issuance platform market share ranking, pump.fun ranks first with 67.9%, Letsbonk ranks second with 19.1%, and BAGS ranks third with 11.6%.On August 8th, the founder of BAGS, Finn, spent 6.8 BTC (approximately $800,000) to auction and acquire the original hat of the Dogwifhat (WIF) Meme.</description>
+      <pubDate>Mon, 11 Aug 2025 03:16:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23954</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23973</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Gate ETH Staking Total Exceeds 160,000 ETH, with an Annualized Yield of 5.04%</title>
+      <link>https://www.lookonchain.com/feeds/23972</link>
+      <description>On August 11th, based on the latest data from the Gate platform, the total staking amount of its ETH mining product has reached 162,300 ETH, and the reference annualized yield is 5.04%. Users who stake ETH can receive an equivalent amount of ETH2 assets, achieving asset appreciation.This service supports instant redemption, providing liquidity and enabling the earning of stable returns. In addition to ETH, the platform also offers multi-currency staking options. As of the time of this publication, the reference annualized yields are as follows: BTC 3%, USDT 16.72%, USDE 14.63%, SOL 6.25%, GT 6.26%.</description>
+      <pubDate>Mon, 11 Aug 2025 03:16:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23972</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -104,36 +155,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>AguilaTrades has nearly closed its 25x leveraged short position on ETH in the early hours of today, resulting in a loss of $696,000.</title>
-      <link>https://www.lookonchain.com/feeds/23953</link>
-      <description>On August 11th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), AguilaTrades nearly liquidated a 25x leveraged short position on ETH in the early morning. It suffered a 24-hour loss of $696,000 and currently holds only $386,000 in position.AguilaTrades&apos;s previous short position on ETH earned a profit of over $11.3 million.</description>
-      <pubDate>Mon, 11 Aug 2025 01:24:50 +0000</pubDate>
+      <title>Web3 developer education platform HackQuest has completed a $4.1 million Pre-A round of financing, with Animoca Brands and Open Campus co-leading the investment.</title>
+      <link>https://www.lookonchain.com/feeds/23971</link>
+      <description>August 11th. The Web3 developer education platform, HackQuest, announced the completion of a $4.1 million Pre-A round of financing. This round was jointly led by Animoca Brands and Open Campus. Gate Ventures, Hash Global, HashKey Capital, Bytetrade Labs, StepN, Outlier Ventures, and others also participated. Angel investors include Scott Moore, the founder of Public Works; YY, a partner at Signum Capital; Riccardo, the ecosystem lead at Outlier Ventures; James, a co-founder of Jambo; and others. HackQuest stated that the funds will be utilized to expedite the development of the developer platform and expand its global impact on the developer community by acquiring high-quality platforms in the same field.</description>
+      <pubDate>Mon, 11 Aug 2025 03:08:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23953</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>ZORA briefly surged above $0.13, hitting a new all-time high</title>
-      <link>https://www.lookonchain.com/feeds/23952</link>
-      <description>On August 11th, according to HTX market data, ZORA briefly rose above $0.13 and is currently trading at $0.125. It has witnessed a 24-hour price increase of 27.35%. Its market capitalization has reached $405 million, hitting a new all-time high.</description>
-      <pubDate>Mon, 11 Aug 2025 01:16:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23952</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23971</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -146,12 +176,12 @@
 
     </item>
     <item>
-      <title>Musk: Grok 4 is now freely available to all users</title>
-      <link>https://www.lookonchain.com/feeds/23951</link>
-      <description>On August 11th, Musk tweeted that &quot;Grok 4 has now become freely accessible to all users. The free plan enables a certain small number of queries per day, and a subscription is necessary if one wants to exceed that limit.&quot;</description>
-      <pubDate>Mon, 11 Aug 2025 01:16:50 +0000</pubDate>
+      <title>BNB surges over 2.5% in the past 2 hours, currently trading at $826.</title>
+      <link>https://www.lookonchain.com/feeds/23970</link>
+      <description>On August 11th, according to HTX market data, it may be influenced by the news that &quot;BNB version of MicroStrategy&quot;, CEA Industries (BNC), announced the purchase of 200,000 BNB. In the past 2 hours, BNB surged by more than 2.5% and is now trading at $826.</description>
+      <pubDate>Mon, 11 Aug 2025 02:56:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23951</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23970</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -160,45 +190,7 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Suspected SharpLink Associated Address Withdraws 52,809 ETH from Coinbase Prime, Equivalent to Approximately $220 Million</title>
-      <link>https://www.lookonchain.com/feeds/23949</link>
-      <description>On August 11th, as monitored by on-chain analyst Yu Jin, 10 hours ago, a newly created wallet withdrew 52,809 ETH ($220 million) from Coinbase Prime. Subsequently, it distributed the funds to 8 wallets for Ethereum staking. One of these wallets is the known address of SharpLink (SBET). Last Friday, SharpLink sold shares and raised $200 million. Therefore, it is highly likely that they converted these funds into ETH over the weekend.Currently, SharpLink (SBET) holds a latest ETH balance of approximately 621,000 ETH, with a value of $2.65 billion. The average purchase price is roughly $3,226.</description>
-      <pubDate>Mon, 11 Aug 2025 01:08:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23949</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Infini attacker has once again sold 1771 ETH today.</title>
-      <link>https://www.lookonchain.com/feeds/23950</link>
-      <description>On August 11th, as per the monitoring of LookOnChain, the Infini attacker sold 1,771 ETH (valued at $7.44 million) today at an average price of $4,202.On February 24th, the attacker took advantage of a vulnerability and stole $49.5 million from Infini by purchasing 17,696 ETH at a price of $2,798. Leveraging the increase in the ETH price, on July 17th, they sold 1,770 ETH (worth $5.88 million) at $3,321 and transferred 4,501 ETH (worth $15.03 million) using Tornado Cash.</description>
-      <pubDate>Mon, 11 Aug 2025 01:08:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/23950</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
