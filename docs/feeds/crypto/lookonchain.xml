@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Aug 2025 17:27:35 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 17:27:35 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 17:48:25 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 17:48:25 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>In the last 24 hours, the entire network has seen a total of $439 million in liquidations, with both longs and shorts getting wiped out.</title>
       <link>https://www.lookonchain.com/feeds/24100</link>
       <description>August 12th. According to data from Coinglass, within the past 24 hours, a total of $439 million was liquidated across the entire network. Globally, 124,354 people were liquidated. Among them, long positions were liquidated to the tune of $214 million, while short positions saw a liquidation of $225 million. The asset with the highest liquidation was BTC, with $124 million being liquidated, and ETH came in second with $91.0 million being liquidated.</description>
-      <pubDate>Mon, 11 Aug 2025 17:16:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 17:16:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24100</guid>
       <category>crypto</category>
@@ -35,7 +35,7 @@
       <title>CBOE Submits Application for Canary&apos;s Staking INJ ETF</title>
       <link>https://www.lookonchain.com/feeds/24099</link>
       <description>On August 12th, CBOE submitted an application to the US SEC regarding Canary Capital&apos;s INJ ETF.Previously reported by BlockBeats on July 17th, Canary submitted the S1 application for the STAKED INJ ETF.</description>
-      <pubDate>Mon, 11 Aug 2025 17:16:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 17:16:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24099</guid>
       <category>crypto</category>
@@ -49,30 +49,10 @@
 
     </item>
     <item>
-      <title>A certain Whale/Institution once again acquired 12,020 ETH from FalconX, bringing their total holdings to over 230,000 ETH</title>
-      <link>https://www.lookonchain.com/feeds/24095</link>
-      <description>August 11th. Based on the monitoring of Onchain Lens, a whale/institutional address starting with 0xe17c once more received 12,020 ETH from FalconX within less than 1 hour. The value of this transaction is $51.51 million.At present, the whale/institution holds a total of 233,186 ETH, which is worth $1 billion. These ETH are distributed across 7 different wallets.</description>
-      <pubDate>Mon, 11 Aug 2025 16:26:41 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24095</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-
-    </item>
-    <item>
       <title>Ethereum Surpasses $4350, Continuing to Hit New Highs in This Bull Market</title>
       <link>https://www.lookonchain.com/feeds/24098</link>
       <description>On August 12th, based on HTX market data, Ethereum surpassed $4350 and reached a high of $4366, establishing a new high in this round of the bull market, with a 24-hour increase of 2.76%.</description>
-      <pubDate>Mon, 11 Aug 2025 16:26:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 16:47:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24098</guid>
       <category>crypto</category>
@@ -89,12 +69,12 @@
 
     </item>
     <item>
-      <title>Due to favorable news related to fee switch, UNI experienced a brief surge of over 8%.</title>
-      <link>https://www.lookonchain.com/feeds/24097</link>
-      <description>On August 12th, according to HTX market data, due to the influence of the positive news related to fee switching, UNI witnessed a rapid surge of over 8%. It is currently trading at $11.8.BlockBeats had previously reported that the Uniswap Foundation recently proposed to establish a new legal entity named &quot;DUNI&quot; for its governance organization within the &quot;Decentralized Autonomous Non-Profit Association&quot; (DUNA) legal framework in Wyoming. The Uniswap Foundation stated in the announcement that by adopting the DUNA framework, it will open the way for protocol fees. At this point, some of the liquidity provider fees will be transferred to the DAO treasury.</description>
-      <pubDate>Mon, 11 Aug 2025 16:26:41 +0000</pubDate>
+      <title>A certain Whale/Institution once again acquired 12,020 ETH from FalconX, bringing their total holdings to over 230,000 ETH</title>
+      <link>https://www.lookonchain.com/feeds/24095</link>
+      <description>August 11th. Based on the monitoring of Onchain Lens, a whale/institutional address starting with 0xe17c once more received 12,020 ETH from FalconX within less than 1 hour. The value of this transaction is $51.51 million.At present, the whale/institution holds a total of 233,186 ETH, which is worth $1 billion. These ETH are distributed across 7 different wallets.</description>
+      <pubDate>Mon, 11 Aug 2025 15:47:32 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24097</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24095</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -103,30 +83,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Uniswap Foundation Introduces the &quot;DUNA DAO&quot; Structure to Pave the Way for Fee Switching</title>
-      <link>https://www.lookonchain.com/feeds/24096</link>
-      <description>On August 12th, as per The Block, the Uniswap Foundation recently put forward a proposal to establish a new legal entity named &quot;DUNI&quot; for its governance organization within the decentralized non-corporation non-profit association (DUNA) legal framework in Wyoming.The foundation is in charge of supervising the world&apos;s largest decentralized cryptocurrency spot exchange. This new legal entity will offer a legal cover while maintaining the existing governance structure of the Uniswap DAO, enabling it to engage service providers, sign contracts, and fulfill regulatory and tax compliance obligations.If the proposal gets approved, the Uniswap DAO will become the largest decentralized organization to adopt this legal framework. According to the proposal terms, the entity will receive $16.5 million worth of UNI tokens to cover past tax obligations and set up a legal defense budget. Since Uniswap has never chosen to be taxed as a corporation, the foundation anticipates paying less than $10 m</description>
-      <pubDate>Mon, 11 Aug 2025 16:26:41 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24096</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
 
     </item>
     <item>
       <title>A whale address has received 29,000 ETH from Galaxy Digital in the past 24 hours, worth approximately 126 million US dollars.</title>
       <link>https://www.lookonchain.com/feeds/24094</link>
       <description>On August 11th, as reported by Arkham Monitor, a whale address beginning with 0x235 received 29,311 ETH from the Galaxy Digital OTC address within the past 24 hours. The value of this transaction is approximately 126 million US dollars.</description>
-      <pubDate>Mon, 11 Aug 2025 15:26:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:47:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24094</guid>
       <category>crypto</category>
@@ -144,10 +110,44 @@
 
     </item>
     <item>
+      <title>Due to favorable news related to fee switch, UNI experienced a brief surge of over 8%.</title>
+      <link>https://www.lookonchain.com/feeds/24097</link>
+      <description>On August 12th, according to HTX market data, due to the influence of the positive news related to fee switching, UNI witnessed a rapid surge of over 8%. It is currently trading at $11.8.BlockBeats had previously reported that the Uniswap Foundation recently proposed to establish a new legal entity named &quot;DUNI&quot; for its governance organization within the &quot;Decentralized Autonomous Non-Profit Association&quot; (DUNA) legal framework in Wyoming. The Uniswap Foundation stated in the announcement that by adopting the DUNA framework, it will open the way for protocol fees. At this point, some of the liquidity provider fees will be transferred to the DAO treasury.</description>
+      <pubDate>Mon, 11 Aug 2025 15:47:32 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24097</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The Uniswap Foundation Introduces the &quot;DUNA DAO&quot; Structure to Pave the Way for Fee Switching</title>
+      <link>https://www.lookonchain.com/feeds/24096</link>
+      <description>On August 12th, as per The Block, the Uniswap Foundation recently put forward a proposal to establish a new legal entity named &quot;DUNI&quot; for its governance organization within the decentralized non-corporation non-profit association (DUNA) legal framework in Wyoming.The foundation is in charge of supervising the world&apos;s largest decentralized cryptocurrency spot exchange. This new legal entity will offer a legal cover while maintaining the existing governance structure of the Uniswap DAO, enabling it to engage service providers, sign contracts, and fulfill regulatory and tax compliance obligations.If the proposal gets approved, the Uniswap DAO will become the largest decentralized organization to adopt this legal framework. According to the proposal terms, the entity will receive $16.5 million worth of UNI tokens to cover past tax obligations and set up a legal defense budget. Since Uniswap has never chosen to be taxed as a corporation, the foundation anticipates paying less than $10 m</description>
+      <pubDate>Mon, 11 Aug 2025 15:47:32 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24096</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Bullish&apos;s IPO Receives Oversubscription Even After Upsizing</title>
       <link>https://www.lookonchain.com/feeds/24093</link>
       <description>On August 11th, the initial public offering (IPO) of the crypto exchange platform Bullish received oversubscription after it was upsized. (Bloomberg Terminal)BlockBeats had previously reported that the cryptocurrency exchange platform Bullish, which is backed by Peter Thiel, has expanded its IPO size. It now aims for a valuation of up to $4.82 billion, which is a significant increase from the $4.2 billion target set last week. The new plan is to sell 30 million shares at a price of $32 to $33 per share. At the highest price, Bullish could raise approximately $990 million, which is more than the earlier plan to sell 20.3 million shares at $28 to $31 per share. (Reuters)</description>
-      <pubDate>Mon, 11 Aug 2025 15:26:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:47:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24093</guid>
       <category>crypto</category>
@@ -164,7 +164,7 @@
       <title>The new BONK Financial Corp Safety Shot (SHOT) token price is halved.</title>
       <link>https://www.lookonchain.com/feeds/24092</link>
       <description>On August 11th, based on the data from rockflow, the stock price of the new BONK Treasury company Safety Shot (SHOT) witnessed a 49.1% decline during the trading session. Currently, it is trading at $0.58, with a market capitalization of $85.01 million. When the &quot;BONK Treasury&quot; news was made public, it rose to $1.25 in pre-market trading.BlockBeats had previously reported that the U.S. listed company Safety Shot (Nasdaq symbol: SHOT) announced a strategic alliance with the founding contributors of BONK and officially entered the decentralized finance (DeFi) field. Under the agreement, the company will receive $25 million worth of BONK tokens and will issue convertible preferred shares worth $35 million, which can be exchanged for common stock.</description>
-      <pubDate>Mon, 11 Aug 2025 15:26:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 15:47:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24092</guid>
       <category>crypto</category>
@@ -181,7 +181,7 @@
       <title>Trump announced that he will place the Washington, D.C. Police Department under federal control and deploy the National Guard to the district.</title>
       <link>https://www.lookonchain.com/feeds/24091</link>
       <description>On Monday, August 11th, President Trump of the United States stated that he will bring the Washington D.C. Metropolitan Police Department under federal control. He has ordered the deployment of the National Guard to the capital to combat what he characterized as a wave of &quot;lawlessness.&quot;Trump told reporters at the White House press conference: &quot;I am deploying the National Guard to assist in restoring law and order and public safety in Washington D.C. Our nation&apos;s capital has been seized by violent mobs and bloodthirsty criminals.&quot; This action represents Trump&apos;s latest exertion of executive power to interfere in matters that are traditionally under local jurisdiction, specifically targeting Democratic-run cities. However, he denied that he is &quot;creating a crisis&quot; to expand presidential authority.Trump stated that the high crime rate in Washington D.C. is having an impact on the functioning of the federal government. While acknowledging that other cities are also in a poor state, Washi</description>
-      <pubDate>Mon, 11 Aug 2025 15:26:41 +0000</pubDate>
+      <pubDate>Mon, 11 Aug 2025 14:47:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24091</guid>
       <category>crypto</category>
