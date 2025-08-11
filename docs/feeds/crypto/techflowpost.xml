@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Aug 2025 15:42:26 +0000</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 15:42:26 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 15:57:16 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 15:57:16 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>TON 基金会：Coinbase Ventures 已成为 Toncoin 持有者</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 TON 基金会披露，Coinbase Ventures 已成为 Toncoin 持有者。TON 基金会表示，尽管具体持仓规模未披露，但已获得包括红杉资本、Benchmark 和 Ribbit 在内的多家顶级投资机构支持。TON 生态系统致力于通过 Telegram 的数十亿用户基础，推动加密货...</description>
+      <pubDate>Mon, 11 Aug 2025 15:50:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>今日链上资金流向：Base 净流入 560 万美元，以太坊净流出 430 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Whale Alert 监测，加密货币做市商 Cumberland 向 Coinbase Institutional 转移了 471 枚比特币（约合 5,639.82 万美元）。</description>
       <pubDate>Mon, 11 Aug 2025 12:56:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Story 携手纳斯达克上市公司 Heritage Distilling 启动 3.6 亿美元 $IP 战略储备，a16z 首次参与上市公司代币国库配置</title>
-      <link>https://www.techflowpost.com</link>
-      <description>AI 原生基础设施与可编程 IP 区块链 Story 宣布与纳斯达克上市公司 Heritage Distilling（NASDAQ: CASK）共同启动 3.6 亿美元 $IP 代币储备计划，获 a16z crypto、Selini Capital、Amber Group、Arrington Ca...</description>
-      <pubDate>Mon, 11 Aug 2025 12:42:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
