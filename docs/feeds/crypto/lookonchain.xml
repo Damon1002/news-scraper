@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 09:02:23 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 09:02:23 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 09:34:00 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 09:34:00 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,69 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Analyst: When BTC drops ahead of CPI or PPI data release, it typically sees a quick rebound post-data.</title>
+      <link>https://www.lookonchain.com/feeds/24195</link>
+      <description>On August 12th, cryptocurrency analyst @ali_charts presented a chart analysis indicating that when BTC declines prior to the release of CPI or PPI data, it generally experiences a rapid rebound after the data is made public, and vice versa.</description>
+      <pubDate>Tue, 12 Aug 2025 09:24:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24195</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Or 3 addresses belonging to the same whale staked 14,942 ETH and deposited it into Binance</title>
+      <link>https://www.lookonchain.com/feeds/24194</link>
+      <description>On August 12th, as monitored by LookOnChain, within the past hour, three addresses (which are likely to belong to the same whale) unbonded 14,942 ETH ($64.38 million) and deposited it into Binance.</description>
+      <pubDate>Tue, 12 Aug 2025 09:16:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24194</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>A whale withdrew 500 BTC from Binance 1 hour ago and currently holds a total of 3,000 BTC.</title>
+      <link>https://www.lookonchain.com/feeds/24193</link>
+      <description>On August 12th, according to Arkham Monitoring, a whale withdrew 500 BTC from Binance one hour ago. Currently, this address holds a total of 3,000 BTC, which is worth $356 million.</description>
+      <pubDate>Tue, 12 Aug 2025 09:16:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24193</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+
+    </item>
+    <item>
       <title>Bitcoin Short-Term Holders Accumulate Over 220,000 BTC Since June 21</title>
       <link>https://www.lookonchain.com/feeds/24192</link>
       <description>On August 12th, according to Glassnode data, starting from June 21st, short-term holders (investors who have held Bitcoin for less than 155 days) have increased their holdings by more than 220,000 BTC (+9.9%). Although this growth is significant, it is still relatively moderate when compared to the period from January to March of this year. During that time, the supply held by short-term holders witnessed a surge of 540,000 BTC (+25%) in one of the most intense rotations within this cycle.</description>
-      <pubDate>Tue, 12 Aug 2025 09:01:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 09:00:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24192</guid>
       <category>crypto</category>
@@ -36,7 +95,7 @@
       <title>Arthur Hayes has accumulated a total of $9.81 million worth of ETH-based tokens in the past two days, currently realizing a $180,000 unrealized gain.</title>
       <link>https://www.lookonchain.com/feeds/24190</link>
       <description>On August 12th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), following the establishment of a new position, Arthur Hayes, the co-founder of BitMEX, has accumulated ETH ecosystem tokens worth $9.801 million in the past two days. Currently, he has an unrealized gain of $180,000.</description>
-      <pubDate>Tue, 12 Aug 2025 08:58:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:58:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24190</guid>
       <category>crypto</category>
@@ -56,7 +115,7 @@
       <title>Analysis: Bitcoin&apos;s uptrend may be nearing an early end, with the price target potentially falling to $95,000</title>
       <link>https://www.lookonchain.com/feeds/24191</link>
       <description>August 12th. As per Cointelegraph, the upward trajectory of Bitcoin is at risk of coming to an early end. The market is showing a target price expectation below $100,000. The latest market analysis released by traders like ZAYK Charts on Tuesday cautioned that Bitcoin is currently in a continuous &quot;Distribution Phase.&quot;ZAYK Charts thinks that Bitcoin may drop to $95,000, a level that has not been reached since early May. BTC previously went through the classic &quot;Mark-Up&quot; phase from a long-term low rebound and has now entered the &quot;Distribution&quot; phase, which is typically a reversal zone of an uptrend.Since last November, the $92,000 to $95,000 range has had a significant impact on Bitcoin&apos;s price movement, serving as both support and resistance levels during intense market volatility.Trader Mikybull Crypto characterized this week&apos;s Bitcoin breakthrough above $122,000 followed by a pullback as &quot;ugly.&quot; He stated that BTC has re-entered its previous range-bound action, with altcoins bein</description>
-      <pubDate>Tue, 12 Aug 2025 08:58:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:58:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24191</guid>
       <category>crypto</category>
@@ -76,7 +135,7 @@
       <title>Whale AguilaTrades&apos;s ETH long position has increased to 10,000 ETH, equivalent to around $43.07 million</title>
       <link>https://www.lookonchain.com/feeds/24189</link>
       <description>On August 12th, based on the monitoring of on-chain analyst Yu Jin, whale AguilaTrades has currently established a long position of 10,000 ETH. The value of this position is $43.07 million. The entry price is $4,318, and the liquidation price is $3,852.</description>
-      <pubDate>Tue, 12 Aug 2025 08:48:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:48:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24189</guid>
       <category>crypto</category>
@@ -97,7 +156,7 @@
       <title>Within one week of the implementation of the Hong Kong Stablecoin Regulation, the size of the local OTC trading market has decreased by approximately 32.94%.</title>
       <link>https://www.lookonchain.com/feeds/24188</link>
       <description>On August 12th, as per Bitrace&apos;s monitoring, within a week after the implementation of the Hong Kong stablecoin regulations, the local OTC market size has witnessed a reduction of approximately 32.94%. The daily average USDT transfer volume of the business addresses of storefront service providers has dropped by 43.20% (from 9.47 million to 5.38 million), while that of the business addresses of non-storefront service providers has decreased by 30.65% (from 42.57 million to 29.52 million).</description>
-      <pubDate>Tue, 12 Aug 2025 08:40:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:41:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24188</guid>
       <category>crypto</category>
@@ -114,7 +173,7 @@
       <title>Ethena is the sixth DeFi protocol to surpass $10 billion TVL</title>
       <link>https://www.lookonchain.com/feeds/24187</link>
       <description>On August 12th, 21.co&apos;s Strategy Analyst, Tom Wan, posted on social media stating, &quot;Ethena has emerged as the sixth DeFi protocol to surpass a TVL of $10 billion, and it is the second non-staking DeFi protocol to achieve this milestone following Aave.&quot;According to Dune data, Ethena&apos;s current TVL has attained $11.893 billion, with an sUSDe APY of 4.72%.</description>
-      <pubDate>Tue, 12 Aug 2025 08:40:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:41:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24187</guid>
       <category>crypto</category>
@@ -134,7 +193,7 @@
       <title>Presto Research Director: Ethereum is Ready to Win Wall Street&apos;s Approval</title>
       <link>https://www.lookonchain.com/feeds/24186</link>
       <description>On August 12th, with the second-largest cryptocurrency ETH surging to its highest level in nearly four years, the U.S. Ethereum spot ETF witnessed its largest single-day inflow of funds. The data indicates that on Monday, the Ethereum spot ETF attracted a total inflow of slightly more than $1 billion. So far this year, the total inflow of these 9 funds has exceeded $8.2 billion.It turns out that the focus of &quot;treasury companies&quot; on ETH is an important driving force behind the token&apos;s rise. These listed companies are continuously expanding their digital asset reserves. According to the data compiled by Strategic EthReserve.xyz, the so-called &quot;digital asset treasury companies&quot; have absorbed more than $15 billion worth of ETH so far. Peter, the research director at the quant trading firm Presto, said: &quot;Recent stablecoin legislation and the cryptocurrency roadmap outlined by the Chairman of the U.S. Securities and Exchange Commission both suggest that the Ethereum blockchain behind Ether</description>
-      <pubDate>Tue, 12 Aug 2025 08:24:30 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:33:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24186</guid>
       <category>crypto</category>
@@ -147,59 +206,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Fosun International&apos;s Response to Stablecoin License Application: No Comment</title>
-      <link>https://www.lookonchain.com/feeds/24185</link>
-      <description>On August 12th, market news indicated that Fosun has confirmed its application for a stablecoin license in Hong Kong and has already set up a complete stablecoin license application team. In response to the above news, Fosun stated that they have &quot;no comment&quot; at this moment.</description>
-      <pubDate>Tue, 12 Aug 2025 08:24:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24185</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>US Stock Market ETH Strategy Stocks Surge in Pre-market Trading, Bitmine Up Over 7%</title>
-      <link>https://www.lookonchain.com/feeds/24184</link>
-      <description>On August 12th, according to the market data of Rockflow, there was a general rise in the pre-market trading of US ETH strategy stocks. These include:· Bitmine increased by 7.29%;· Sharplink Gaming rose by 3.87%;· BTCS went up by 3.4%;· Circle went up by 1.04%;· Coinbase rose by 0.74%;· Strategy rose by 0.3%.</description>
-      <pubDate>Tue, 12 Aug 2025 08:16:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24184</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha Launches World3 (WAI)</title>
-      <link>https://www.lookonchain.com/feeds/24183</link>
-      <description>On August 12th, Binance Alpha launched World3 (WAI).</description>
-      <pubDate>Tue, 12 Aug 2025 08:08:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24183</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
