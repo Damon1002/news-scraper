@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 16:46:18 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 16:46:18 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 17:01:56 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 17:01:56 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,66 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Odin.fun has announced a trade suspension due to a suspected vulnerability.</title>
+      <link>https://www.lookonchain.com/feeds/24279</link>
+      <description>On August 13th, the trading platform Odin.fun within the Bitcoin ecosystem announced the suspension of trading in order to verify the recent platform withdrawal activities and will keep users updated on the progress of the investigation.According to community feedback, the odin.fun platform seems to have encountered a vulnerability, with approximately 60 BTC being transferred abnormally.BlockBeats previously reported that on April 14th, the developer Bob Bodily of Odin.fun liquidated all assets on the Odin platform, suspected of being stolen. On that day, the platform suspended trading and withdrawals to determine the scope of the hacker&apos;s attack.</description>
+      <pubDate>Tue, 12 Aug 2025 17:01:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24279</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>SharpLink&apos;s Ethereum Staking Balance Surpasses 600,000 Coins, with an Additional 5,226 Coins Staked One Hour Ago</title>
+      <link>https://www.lookonchain.com/feeds/24278</link>
+      <description>On August 13th, as per the monitoring of LookOnChain, SharpLink (SBET) once more increased its holdings of ETH by 5,226 coins 1 hour ago, with a value of $23.1 million.SharpLink currently holds 604,026 ETH, which is worth $2.69 billion and ranks second among institutional holdings of Ethereum.</description>
+      <pubDate>Tue, 12 Aug 2025 16:56:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24278</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>A new address withdrew 23,365 ETH from Kraken, worth $104 million</title>
+      <link>https://www.lookonchain.com/feeds/24277</link>
+      <description>On August 13th, as per the monitoring of LookOnChain, a fresh wallet address &apos;0x2A92&apos; has withdrawn 23,365 ETH from Kraken within the past hour, with a value of $104 million.</description>
+      <pubDate>Tue, 12 Aug 2025 16:48:03 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24277</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Lending Protocol Spark Launches Season Two Reward Event, Season One SPK Rewards Now Available for Claim</title>
       <link>https://www.lookonchain.com/feeds/24276</link>
       <description>August 13th. The lending protocol Spark launched the second season points event. The first season SPK rewards can now be claimed. The second season points event will continue until December 12th.</description>
-      <pubDate>Tue, 12 Aug 2025 16:32:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:32:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24276</guid>
       <category>crypto</category>
@@ -34,7 +90,7 @@
       <title>US Stock Market Continues to Rise, New ETH Treasury Company ETHZilla Surges Over 146% Intraday</title>
       <link>https://www.lookonchain.com/feeds/24275</link>
       <description>On August 13th, according to RockFlow market data, there was a broad rally in the US stock market. The Nasdaq and the Dow rose more than 1% intra-day, and the S&amp;P 500 Index increased by 0.86%.The new ETH treasury company ETHZilla (ATNF) saw a surge of over 146% during the day. The stock price is currently at $8.03, indicating a market capitalization of approximately $48 million. It is worth noting that today&apos;s ETHZilla intra-day trading volume has exceeded $689 million.In earlier news, billionaire Peter Thiel once again took a position in Ethereum. Peter Thiel and his investment team acquired a 7.5% stake in the Ethereum treasury reserve company ETHZilla (formerly 180 Life Sciences Corp.).</description>
-      <pubDate>Tue, 12 Aug 2025 16:24:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:25:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24275</guid>
       <category>crypto</category>
@@ -53,7 +109,7 @@
       <title>SlowMist: The Qubic-controlled Monero mining power ratio is still questionable and difficult to prove</title>
       <link>https://www.lookonchain.com/feeds/24274</link>
       <description>August 13th: Di Xie, the founder of SlowMist, commented on the Monero 51% attack incident. He pointed out that there are many doubts in the community regarding whether it is truly a 51% attack in essence. However, there is no doubt about block reorganization (such as 6 blocks). The Qubic mining pool claims to control 51% of the hash power, but many community members believe that they control approximately 33% of the hash power. This controversy is not easy to verify. To prove a 51% attack decisively, a double-spending attack test must be carried out.Previously reported, through the &quot;useful Proof of Work (uPoW)&quot; mechanism, Sergey Ivancheglo, the co-founder of IOTA, quickly accumulated a large amount of Monero hash power in his project Qubic. On August 12th, Qubic briefly controlled 52.72% of the Monero network&apos;s hash rate (approximately 3.01 GH/s). Once exceeding 51%, Qubic could reject blocks from other pools, resulting in chain reorganization, double-spending, or transaction censors</description>
-      <pubDate>Tue, 12 Aug 2025 16:16:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:17:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24274</guid>
       <category>crypto</category>
@@ -70,7 +126,7 @@
       <title>Ethereum Sustains Rally, Nears $4500, Hits New High Since Mid-December 2021</title>
       <link>https://www.lookonchain.com/feeds/24273</link>
       <description>On August 13th, according to HTX market data, Ethereum continued to rise and got close to $4500. It is currently trading at $4479, with a 24-hour increase of 2.71% and hitting a new high since mid-December 2021.</description>
-      <pubDate>Tue, 12 Aug 2025 16:08:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:09:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24273</guid>
       <category>crypto</category>
@@ -90,7 +146,7 @@
       <title>LookOnChain: Bitcoin Surpasses $120,000</title>
       <link>https://www.lookonchain.com/feeds/24272</link>
       <description>On August 13th, according to HTX market data, Bitcoin exceeded $120,000, and the 24-hour decline narrowed to 0.2%.</description>
-      <pubDate>Tue, 12 Aug 2025 16:08:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:08:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24272</guid>
       <category>crypto</category>
@@ -110,7 +166,7 @@
       <title>New ETH Treasury Project ETHZilla Surges Over 90% intraday, with Trading Volume Exceeding $592 Million</title>
       <link>https://www.lookonchain.com/feeds/24271</link>
       <description>On August 12th, according to the market data of RockFlow, the new ETH treasury company ETHZilla (ATNF) saw a more than 90% intraday surge. The current stock price is $6.36, and the market capitalization is approximately $38.4 million. It is worth noting that the intraday trading volume of ETHZilla today has exceeded $592 million, which is 15.4 times its market capitalization.Before this news, billionaire Peter Thiel once again took a position in Ethereum. Peter Thiel and his investment team acquired a 7.5% stake in the Ethereum treasury reserve company ETHZilla (formerly 180 Life Sciences Corp.).The remaining Ethereum MicroStrategy stocks maintained their upward trend: Bitmine Immersion (BMNR) surged by more than 10%; SharpLink Gaming (SBET) rose by 0.92%; Bit Digital (BTBT) increased by 2.8%.</description>
-      <pubDate>Tue, 12 Aug 2025 16:00:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:01:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24271</guid>
       <category>crypto</category>
@@ -130,62 +186,9 @@
       <title>Polygon ecosystem DEX QuickSwap announces expansion to Base Chain</title>
       <link>https://www.lookonchain.com/feeds/24270</link>
       <description>On August 12th, QuickSwap, a decentralized exchange (DEX) within the Polygon ecosystem, declared its expansion to the Base Chain.</description>
-      <pubDate>Tue, 12 Aug 2025 16:00:26 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 16:01:03 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24270</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Perplexity AI Makes $34.5 Billion Acquisition Offer to Google-Owned Chrome Browser</title>
-      <link>https://www.lookonchain.com/feeds/24269</link>
-      <description>August 12th. As per The Wall Street Journal, the artificial intelligence search platform Perplexity AI has presented a $34.5 billion acquisition offer to Google&apos;s Chrome browser, with the intention of challenging Google&apos;s search hegemony.Perplexity&apos;s offer is significantly higher than its own valuation (estimated to be $18 billion). Perplexity declared that several investors, comprising multiple large venture capital funds, have given their full support to this transaction.</description>
-      <pubDate>Tue, 12 Aug 2025 15:48:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24269</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BAGS&apos; Meme Token PEPE Surges to a Transient Market Cap Exceeding $20 Million, With a 2251% 24-Hour Growth</title>
-      <link>https://www.lookonchain.com/feeds/24268</link>
-      <description>On August 12th, based on the data from GMGN, the Meme token PEPE (Pepe By Matt Furie) of BAGS briefly rose above a market capitalization of $20 million and has now retraced to $12 million. The 24-hour trading volume is $16 million, with a 24-hour increase of 2251%.</description>
-      <pubDate>Tue, 12 Aug 2025 15:45:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24268</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Coinbase has announced the launch of its second Stablecoin Initiative Fund, Bootstrap Fund.</title>
-      <link>https://www.lookonchain.com/feeds/24267</link>
-      <description>On August 12th, Coinbase made an announcement regarding the impending launch of the second Stablecoin-Led Bootstrap Fund with the aim of bolstering the stablecoin liquidity in DeFi capital markets. This fund, which is managed by Coinbase Asset Management (CBAM), will initially be allocated to protocols such as Aave, Morpho, Kamino, and Jupiter.</description>
-      <pubDate>Tue, 12 Aug 2025 15:45:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24267</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
