@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 11:35:44 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 11:35:44 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 11:48:07 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 11:48:07 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>慢雾余弦：Qubic 仅利用 3 亿美元资金撬动了门罗币 50 亿美元市值</title>
+      <link>https://www.techflowpost.com</link>
+      <description>慢雾余弦在社交媒体发文表示，“Qubic 矿池利用经济激励博弈手法完成了这次针对门罗币的 51% 攻击验证（我相信出发点不是恶意），算是用 3 亿美金（$QUBIC 市值）撬动了 50 亿美金（门罗币市值）”此前消息，慢雾余弦发文表示，针对门罗币的 51% 攻击疑似已经成功。</description>
+      <pubDate>Tue, 12 Aug 2025 11:39:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>Cyber 多签钱包 1 小时前向币安转移 174.4 万枚 CYBER，约合 618 万美元</title>
       <link>https://www.techflowpost.com</link>
-      <description>据链上分析师余烬（@BuildOnCyber）监测，Cyber 的一个多签钱包向币安转移了 174.4 万枚 CYBER（约合 618 万美元）。</description>
+      <description>据链上分析师余烬监测，Cyber 的一个多签钱包向币安转移了 174.4 万枚 CYBER（约合 618 万美元）。</description>
       <pubDate>Tue, 12 Aug 2025 11:33:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Bitrace 报道，香港稳定币条例实施一周后，本地场外交易市场规模下降约 32.94%。门店类服务商商业地址的日均 USDT 转账量下降 43.20%（从 947 万降至 538 万），而非店铺型服务提供商商业地址则减少 30.65%（从 4257 万个减少到 2952 万个）。</description>
       <pubDate>Tue, 12 Aug 2025 08:34:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>复星国际回应申请稳定币牌照：不予置评</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据澎湃新闻报道，对于“复星已确定在港申请稳定币牌照，且已组建了完整的稳定币牌照申请团队”相关消息，复星方面表示“不予置评”。</description>
-      <pubDate>Tue, 12 Aug 2025 08:26:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
