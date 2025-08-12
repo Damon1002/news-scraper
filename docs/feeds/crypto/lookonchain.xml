@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 10:55:40 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 10:55:40 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 11:19:48 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 11:19:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,65 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The USDC Treasury has minted an additional 500 million USDC on the Solana blockchain.</title>
+      <link>https://www.lookonchain.com/feeds/24207</link>
+      <description>On August 12th, as monitored by Whale Alert, the USDC Treasury has minted an extra 5 billion USDC on the Solana blockchain. This minting was carried out in two transactions, with 2.5 billion USDC minted in each transaction.</description>
+      <pubDate>Tue, 12 Aug 2025 11:08:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24207</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>BiyaPay Analyst: US July CPI Forecast Data &apos;Hotter Than Expected&apos;, BTC May Retest $110,000 Support</title>
+      <link>https://www.lookonchain.com/feeds/24206</link>
+      <description>August 12th. The U.S. Bureau of Labor Statistics (BLS) is scheduled to release the July CPI inflation report at 8:30 p.m. on August 12th. The market generally anticipates that due to tariff-induced price hikes, the CPI is likely to rise once again, exerting sustained pressure on the U.S. economy. According to projections, the month-on-month CPI for July is expected to increase by 0.2%, with a year-on-year growth of 2.8%; when excluding the more volatile food and energy prices, the core CPI is expected to rise by 0.3% month-on-month and 3% year-on-year.It is worthy of note that this is also the first CPI report issued by the agency after Trump dismissed the BLS commissioner, which has raised market concerns about the credibility of the data. Both Goldman Sachs and JPMorgan have cautioned that the data may be &quot;overheated&quot; and could potentially fuel ongoing inflation. If the CPI data surpasses expectations, market expectations for a September Fed rate cut may be dampened, potentially le</description>
+      <pubDate>Tue, 12 Aug 2025 11:00:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24206</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>US Stock Market: Circle Surges 7.09% in Pre-market Trading Following the Release of Q2 2025 Earnings Report</title>
+      <link>https://www.lookonchain.com/feeds/24205</link>
+      <description>On August 12th, according to the market data of Rockflow, the US stock Circle rose by 3.3% in pre-market trading. Previously, Circle released its financial report for the second quarter of 2025. As of the end of the second quarter of 2025, the circulating supply of USDC increased by 90% year-on-year and reached 61.3 billion USDC. The net loss was $482 million, mainly due to non-cash expenses related to its Initial Public Offering (IPO).</description>
+      <pubDate>Tue, 12 Aug 2025 10:56:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24205</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Qubic Response to Monero 51% Attack Event: Continuing with Monero Experiment as Planned, Details to be Revealed in Due Course</title>
       <link>https://www.lookonchain.com/feeds/24204</link>
       <description>On August 12th, Qubic gave a response regarding the Monero 51% attack incident, stating, &quot;The Monero (XMR) experiment is moving forward as scheduled, and everything will be disclosed at the right moment.&quot;Previously, it was reported that Sergey Ivancheglo, the co-founder of IOTA, through his project Qubic, rapidly amassed a significant amount of Monero (XMR) hash power using the &quot;useful Proof of Work (uPoW)&quot; mechanism. On August 12th, Qubic briefly took control of 52.72% of the Monero network&apos;s hash rate (approximately 3.01 GH/s). Once surpassing 51%, Qubic has the ability to reject blocks from other mining pools, resulting in chain reorganization, double spending, or transaction censorship. The Monero community has launched resistance and defense measures, while Qubic has characterized this action as a technical demonstration rather than a malicious attack.</description>
-      <pubDate>Tue, 12 Aug 2025 10:48:47 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:48:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24204</guid>
       <category>crypto</category>
@@ -34,7 +89,7 @@
       <title>Circle Releases Q2 2025 Financial Report: Net Loss of $482 Million, USDC Circulating Supply Reaches 65.2 Billion as of August 10</title>
       <link>https://www.lookonchain.com/feeds/24203</link>
       <description>On August 12th, Circle released its Q2 2025 financial report. By the end of the first quarter of 2025, the circulating supply of USDC had increased by 90% year-on-year and reached 613 billion tokens. As of August 10th, 2025, it further increased by 6.4% to reach 652 billion tokens. Total revenue and reserve income saw a 53% year-on-year increase and reached $658 million.The net loss was $482 million, mainly due to significant non-cash expenses related to the initial public offering (IPO), which totaled $591 million. These included:· $424 million of stock-based compensation recognized as a result of the IPO meeting attribution conditions;· A $167 million increase in the fair value of convertible bonds due to stock price appreciation.Adjusted EBITDA increased by 52% year-on-year and reached $126 million.</description>
-      <pubDate>Tue, 12 Aug 2025 10:40:47 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:40:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24203</guid>
       <category>crypto</category>
@@ -52,26 +107,9 @@
       <title>Circle will launch ARC, a Layer1 blockchain focused on stablecoins.</title>
       <link>https://www.lookonchain.com/feeds/24202</link>
       <description>On August 12th, based on market information, Circle is going to launch ARC, a Layer 1 blockchain that mainly focuses on stablecoins.</description>
-      <pubDate>Tue, 12 Aug 2025 10:32:47 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:32:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24202</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Affected by the Binance Alpha listing, WAI saw a temporary peak surge of 932%</title>
-      <link>https://www.lookonchain.com/feeds/24201</link>
-      <description>On August 12th, the World3 project of the AI Agent officially landed on Binance Alpha. After its launch, WAI quickly attracted strong buying interest, with an intraday peak increase of 932%. Meanwhile, WAI has been listed on the spot exchanges of Bitget and KuCoin.World3 is supported by Microsoft for Startups and has received investments from industry capitals such as Ubisoft and Animoca Brands. It aims to build a 24/7 autonomously running Web3 AI workforce. It is reported that the platform has deployed more than 110,000 AI Agents, completed more than 2 million on-chain transactions, and spans various fields such as DeFi, DAO, and GameFi.Industry analysis believes that the AI Agent of World3 has autonomous planning, long-term execution, and multi-chain interaction capabilities. Compared with traditional AI tools, its implementation and scalability are stronger. As the core payment token of the ecosystem, as the platform usage increases, the value capture potential of WAI is worth p</description>
-      <pubDate>Tue, 12 Aug 2025 10:24:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24201</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -86,7 +124,7 @@
       <title>Radiant Capital Attacker Sells 3091 ETH to Acquire 13.26M DAI</title>
       <link>https://www.lookonchain.com/feeds/24200</link>
       <description>On August 12th, as monitored by Onchain Lens, the attacker of Radiant Capital sold 3,091 ETH at an average price of $4,291, obtaining 13.26 million DAI. These DAI were then transferred to another wallet. The platform was hacked on October 17, 2024, resulting in a loss of approximately $53 million.</description>
-      <pubDate>Tue, 12 Aug 2025 10:24:47 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24200</guid>
       <category>crypto</category>
@@ -105,9 +143,26 @@
       <title>Affected by the news of a 51% attack on Monero, XMR plummets over 10% in 24 hours</title>
       <link>https://www.lookonchain.com/feeds/24199</link>
       <description>On August 12th, based on HTX market data, due to the news of the Monero 51% attack, the price of XMR fell by more than 10% within 24 hours and is currently trading at $246.61.Earlier reports showed that Sergey Ivancheglo, the co-founder of IOTA, through his project Qubic, rapidly accumulated a large amount of Monero&apos;s mining power via the &quot;useful Proof of Work (uPoW)&quot; mechanism. On August 12th, Qubic briefly controlled 52.72% of Monero&apos;s network hashrate (approximately 3.01 GH/s). Once exceeding 51%, Qubic can reject blocks from other mining pools, resulting in chain reorganization, double-spending, or transaction censorship. The Monero community has launched resistance and defense actions, while the Qubic team stated that this was a technical demonstration and not a malicious attack.</description>
-      <pubDate>Tue, 12 Aug 2025 10:24:47 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24199</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Affected by the Binance Alpha listing, WAI saw a temporary peak surge of 932%</title>
+      <link>https://www.lookonchain.com/feeds/24201</link>
+      <description>On August 12th, the World3 project of the AI Agent officially landed on Binance Alpha. After its launch, WAI quickly attracted strong buying interest, with an intraday peak increase of 932%. Meanwhile, WAI has been listed on the spot exchanges of Bitget and KuCoin.World3 is supported by Microsoft for Startups and has received investments from industry capitals such as Ubisoft and Animoca Brands. It aims to build a 24/7 autonomously running Web3 AI workforce. It is reported that the platform has deployed more than 110,000 AI Agents, completed more than 2 million on-chain transactions, and spans various fields such as DeFi, DAO, and GameFi.Industry analysis believes that the AI Agent of World3 has autonomous planning, long-term execution, and multi-chain interaction capabilities. Compared with traditional AI tools, its implementation and scalability are stronger. As the core payment token of the ecosystem, as the platform usage increases, the value capture potential of WAI is worth p</description>
+      <pubDate>Tue, 12 Aug 2025 10:24:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24201</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -122,7 +177,7 @@
       <title>Privacy-focused Cryptocurrency Monero Suffers a 51% Attack, Qubic States the Incident Was a Technical Demonstration and Not a Malicious Attack</title>
       <link>https://www.lookonchain.com/feeds/24198</link>
       <description>On August 12th, the project Qubic by IOTA co-founder Sergey Ivancheglo rapidly accumulated a substantial amount of Monero mining power through the &quot;useful Proof of Work (uPoW)&quot; mechanism. It surged from less than 2% to over 27% and briefly became the largest Monero mining pool. It openly declared its goal of reaching over 51% to test network security.On August 12th, Qubic briefly controlled 52.72% of the Monero network&apos;s hash rate (approximately 3.01 GH/s). Once surpassing 51%, Qubic has the ability to reject blocks from other pools, resulting in chain reorganization, double-spending, or transaction censorship.The Monero community has launched resistance and defense actions. Qubic stated that this was a technical demonstration and not a malicious attack. The CTO of Ledger posted that Monero seems to be facing a successful 51% attack. The Qubic mining pool has been steadily accumulating mining power for months and now controls the majority of the network&apos;s mining power. A significan</description>
-      <pubDate>Tue, 12 Aug 2025 10:16:47 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:18:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24198</guid>
       <category>crypto</category>
@@ -133,61 +188,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Shield Wall: Resupply Attacker has laundered 2280 ETH through Tornado Cash</title>
-      <link>https://www.lookonchain.com/feeds/24197</link>
-      <description>Update: On August 12th, as per PeckShield&apos;s monitoring, the Resupply attacker has managed to launder 2280 ETH (valued approximately at $9.8 million) by means of Tornado Cash.</description>
-      <pubDate>Tue, 12 Aug 2025 10:00:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24197</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Binance Wallet Exclusive TGE Launch of Cherry AI (AIBOT)</title>
-      <link>https://www.lookonchain.com/feeds/24196</link>
-      <description>August 12th. According to official information, Binance Wallet hosted the 33rd exclusive TGE with Cherry AI (AIBOT).· Subscription Period: From 4:00 PM to 6:00 PM on August 14th, 2025 (UTC+8).· Subscription Qualification: Eligible users need to participate by using Alpha Points.An additional 30,000,000 AIBOT will be set aside for future events, and the specific details will be announced later.</description>
-      <pubDate>Tue, 12 Aug 2025 09:54:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24196</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analyst: When BTC drops ahead of CPI or PPI data release, it typically sees a quick rebound post-data.</title>
-      <link>https://www.lookonchain.com/feeds/24195</link>
-      <description>On August 12th, cryptocurrency analyst @ali_charts presented a chart analysis indicating that when BTC declines prior to the release of CPI or PPI data, it generally experiences a rapid rebound after the data is made public, and vice versa.</description>
-      <pubDate>Tue, 12 Aug 2025 08:54:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24195</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>

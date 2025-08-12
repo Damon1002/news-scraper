@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 10:55:40 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 10:55:40 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 11:19:48 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 11:19:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,31 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Cathie Wood：ETF 的成功在于积极响应了市场对透明度的需求</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 CoinDesk 报道，ARK Invest 首席执行官 Cathie Wood 表示，ETF 产品取得成功以及公司业绩表现良好的原因，在于他们积极响应了市场对透明度的需求。</description>
+      <pubDate>Tue, 12 Aug 2025 11:08:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>USDC Treasury 在 Solana 链上新增铸造了 5 亿枚 USDC</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Whale Alert（@whale_alert）监测，USDC Treasury 在 Solana 链上新增铸造了 5 亿枚 USDC。</description>
+      <pubDate>Tue, 12 Aug 2025 10:59:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>SWIF 上线 Bitget Onchain 后最高涨幅超 1500%</title>
       <link>https://www.techflowpost.com</link>
-      <description>SWIF 上线 Bitget Onchain 后最高涨幅超 1500%。</description>
+      <description>据 Bitget 官方消息，SWIF 上线 Bitget Onchain 后最高涨幅超 1500%。</description>
       <pubDate>Tue, 12 Aug 2025 10:53:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，随着第二大加密货币以太币攀升至近四年来的最高水平，美国专注于以太币的交易所交易基金创下了单日最大资金流入量。数据显示，周一，现货以太币ETF合计吸引了略超10亿美元的资金流入。今年以来，这9只基金的资金流入总量已超过82亿美元。事实证明，专注于以太币的“国库公司”是推动该代币上涨的...</description>
       <pubDate>Tue, 12 Aug 2025 08:24:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安 Alpha 已上线 World3 (WAI)</title>
-      <link>https://www.techflowpost.com</link>
-      <description>官方页面显示，Binance Alpha 上线 World3 (WAI)。</description>
-      <pubDate>Tue, 12 Aug 2025 08:04:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>0G Labs 启动 AI Alignment Node KYC 注册</title>
-      <link>https://www.techflowpost.com</link>
-      <description>所有AI Alignment Node持有者请访问 0G Alignment Node门户 进行身份验证。注册包括连接钱包、选择Blockpass作为KYC提供商、创建Blockpass账户并完成KYC要求。</description>
-      <pubDate>Tue, 12 Aug 2025 08:01:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
