@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 10:10:45 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 10:10:45 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 10:40:47 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 10:40:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,97 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Circle will launch ARC, a Layer1 blockchain focused on stablecoins.</title>
+      <link>https://www.lookonchain.com/feeds/24202</link>
+      <description>On August 12th, based on market information, Circle is going to launch ARC, a Layer 1 blockchain that mainly focuses on stablecoins.</description>
+      <pubDate>Tue, 12 Aug 2025 10:32:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24202</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Affected by the Binance Alpha listing, WAI saw a temporary peak surge of 932%</title>
+      <link>https://www.lookonchain.com/feeds/24201</link>
+      <description>On August 12th, the World3 project of the AI Agent officially landed on Binance Alpha. After its launch, WAI quickly attracted strong buying interest, with an intraday peak increase of 932%. Meanwhile, WAI has been listed on the spot exchanges of Bitget and KuCoin.World3 is supported by Microsoft for Startups and has received investments from industry capitals such as Ubisoft and Animoca Brands. It aims to build a 24/7 autonomously running Web3 AI workforce. It is reported that the platform has deployed more than 110,000 AI Agents, completed more than 2 million on-chain transactions, and spans various fields such as DeFi, DAO, and GameFi.Industry analysis believes that the AI Agent of World3 has autonomous planning, long-term execution, and multi-chain interaction capabilities. Compared with traditional AI tools, its implementation and scalability are stronger. As the core payment token of the ecosystem, as the platform usage increases, the value capture potential of WAI is worth p</description>
+      <pubDate>Tue, 12 Aug 2025 10:24:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24201</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Radiant Capital Attacker Sells 3091 ETH to Acquire 13.26M DAI</title>
+      <link>https://www.lookonchain.com/feeds/24200</link>
+      <description>On August 12th, as monitored by Onchain Lens, the attacker of Radiant Capital sold 3,091 ETH at an average price of $4,291, obtaining 13.26 million DAI. These DAI were then transferred to another wallet. The platform was hacked on October 17, 2024, resulting in a loss of approximately $53 million.</description>
+      <pubDate>Tue, 12 Aug 2025 10:24:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24200</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Affected by the news of a 51% attack on Monero, XMR plummets over 10% in 24 hours</title>
+      <link>https://www.lookonchain.com/feeds/24199</link>
+      <description>On August 12th, based on HTX market data, due to the news of the Monero 51% attack, the price of XMR fell by more than 10% within 24 hours and is currently trading at $246.61.Earlier reports showed that Sergey Ivancheglo, the co-founder of IOTA, through his project Qubic, rapidly accumulated a large amount of Monero&apos;s mining power via the &quot;useful Proof of Work (uPoW)&quot; mechanism. On August 12th, Qubic briefly controlled 52.72% of Monero&apos;s network hashrate (approximately 3.01 GH/s). Once exceeding 51%, Qubic can reject blocks from other mining pools, resulting in chain reorganization, double-spending, or transaction censorship. The Monero community has launched resistance and defense actions, while the Qubic team stated that this was a technical demonstration and not a malicious attack.</description>
+      <pubDate>Tue, 12 Aug 2025 10:24:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24199</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Privacy-focused Cryptocurrency Monero Suffers a 51% Attack, Qubic States the Incident Was a Technical Demonstration and Not a Malicious Attack</title>
+      <link>https://www.lookonchain.com/feeds/24198</link>
+      <description>On August 12th, the project Qubic by IOTA co-founder Sergey Ivancheglo rapidly accumulated a substantial amount of Monero mining power through the &quot;useful Proof of Work (uPoW)&quot; mechanism. It surged from less than 2% to over 27% and briefly became the largest Monero mining pool. It openly declared its goal of reaching over 51% to test network security.On August 12th, Qubic briefly controlled 52.72% of the Monero network&apos;s hash rate (approximately 3.01 GH/s). Once surpassing 51%, Qubic has the ability to reject blocks from other pools, resulting in chain reorganization, double-spending, or transaction censorship.The Monero community has launched resistance and defense actions. Qubic stated that this was a technical demonstration and not a malicious attack. The CTO of Ledger posted that Monero seems to be facing a successful 51% attack. The Qubic mining pool has been steadily accumulating mining power for months and now controls the majority of the network&apos;s mining power. A significan</description>
+      <pubDate>Tue, 12 Aug 2025 10:16:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24198</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Shield Wall: Resupply Attacker has laundered 2280 ETH through Tornado Cash</title>
       <link>https://www.lookonchain.com/feeds/24197</link>
       <description>Update: On August 12th, as per PeckShield&apos;s monitoring, the Resupply attacker has managed to launder 2280 ETH (valued approximately at $9.8 million) by means of Tornado Cash.</description>
-      <pubDate>Tue, 12 Aug 2025 10:00:52 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 10:00:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24197</guid>
       <category>crypto</category>
@@ -36,7 +123,7 @@
       <title>Binance Wallet Exclusive TGE Launch of Cherry AI (AIBOT)</title>
       <link>https://www.lookonchain.com/feeds/24196</link>
       <description>August 12th. According to official information, Binance Wallet hosted the 33rd exclusive TGE with Cherry AI (AIBOT).· Subscription Period: From 4:00 PM to 6:00 PM on August 14th, 2025 (UTC+8).· Subscription Qualification: Eligible users need to participate by using Alpha Points.An additional 30,000,000 AIBOT will be set aside for future events, and the specific details will be announced later.</description>
-      <pubDate>Tue, 12 Aug 2025 09:40:52 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 09:40:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24196</guid>
       <category>crypto</category>
@@ -50,29 +137,10 @@
 
     </item>
     <item>
-      <title>Analyst: When BTC drops ahead of CPI or PPI data release, it typically sees a quick rebound post-data.</title>
-      <link>https://www.lookonchain.com/feeds/24195</link>
-      <description>On August 12th, cryptocurrency analyst @ali_charts presented a chart analysis indicating that when BTC declines prior to the release of CPI or PPI data, it generally experiences a rapid rebound after the data is made public, and vice versa.</description>
-      <pubDate>Tue, 12 Aug 2025 09:24:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24195</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
       <title>Or 3 addresses belonging to the same whale staked 14,942 ETH and deposited it into Binance</title>
       <link>https://www.lookonchain.com/feeds/24194</link>
       <description>On August 12th, as monitored by LookOnChain, within the past hour, three addresses (which are likely to belong to the same whale) unbonded 14,942 ETH ($64.38 million) and deposited it into Binance.</description>
-      <pubDate>Tue, 12 Aug 2025 09:16:52 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 09:39:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24194</guid>
       <category>crypto</category>
@@ -92,7 +160,7 @@
       <title>A whale withdrew 500 BTC from Binance 1 hour ago and currently holds a total of 3,000 BTC.</title>
       <link>https://www.lookonchain.com/feeds/24193</link>
       <description>On August 12th, according to Arkham Monitoring, a whale withdrew 500 BTC from Binance one hour ago. Currently, this address holds a total of 3,000 BTC, which is worth $356 million.</description>
-      <pubDate>Tue, 12 Aug 2025 09:16:52 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 09:39:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24193</guid>
       <category>crypto</category>
@@ -109,53 +177,12 @@
 
     </item>
     <item>
-      <title>Arthur Hayes has accumulated a total of $9.81 million worth of ETH-based tokens in the past two days, currently realizing a $180,000 unrealized gain.</title>
-      <link>https://www.lookonchain.com/feeds/24190</link>
-      <description>On August 12th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), following the establishment of a new position, Arthur Hayes, the co-founder of BitMEX, has accumulated ETH ecosystem tokens worth $9.801 million in the past two days. Currently, he has an unrealized gain of $180,000.</description>
-      <pubDate>Tue, 12 Aug 2025 09:09:52 +0000</pubDate>
+      <title>Analyst: When BTC drops ahead of CPI or PPI data release, it typically sees a quick rebound post-data.</title>
+      <link>https://www.lookonchain.com/feeds/24195</link>
+      <description>On August 12th, cryptocurrency analyst @ali_charts presented a chart analysis indicating that when BTC declines prior to the release of CPI or PPI data, it generally experiences a rapid rebound after the data is made public, and vice versa.</description>
+      <pubDate>Tue, 12 Aug 2025 09:39:54 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24190</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Whale AguilaTrades&apos;s ETH long position has increased to 10,000 ETH, equivalent to around $43.07 million</title>
-      <link>https://www.lookonchain.com/feeds/24189</link>
-      <description>On August 12th, based on the monitoring of on-chain analyst Yu Jin, whale AguilaTrades has currently established a long position of 10,000 ETH. The value of this position is $43.07 million. The entry price is $4,318, and the liquidation price is $3,852.</description>
-      <pubDate>Tue, 12 Aug 2025 09:09:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24189</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Short-Term Holders Accumulate Over 220,000 BTC Since June 21</title>
-      <link>https://www.lookonchain.com/feeds/24192</link>
-      <description>On August 12th, according to Glassnode data, starting from June 21st, short-term holders (investors who have held Bitcoin for less than 155 days) have increased their holdings by more than 220,000 BTC (+9.9%). Although this growth is significant, it is still relatively moderate when compared to the period from January to March of this year. During that time, the supply held by short-term holders witnessed a surge of 540,000 BTC (+25%) in one of the most intense rotations within this cycle.</description>
-      <pubDate>Tue, 12 Aug 2025 09:09:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24192</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24195</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -166,43 +193,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Analysis: Bitcoin&apos;s uptrend may be nearing an early end, with the price target potentially falling to $95,000</title>
-      <link>https://www.lookonchain.com/feeds/24191</link>
-      <description>August 12th. As per Cointelegraph, the upward trajectory of Bitcoin is at risk of coming to an early end. The market is showing a target price expectation below $100,000. The latest market analysis released by traders like ZAYK Charts on Tuesday cautioned that Bitcoin is currently in a continuous &quot;Distribution Phase.&quot;ZAYK Charts thinks that Bitcoin may drop to $95,000, a level that has not been reached since early May. BTC previously went through the classic &quot;Mark-Up&quot; phase from a long-term low rebound and has now entered the &quot;Distribution&quot; phase, which is typically a reversal zone of an uptrend.Since last November, the $92,000 to $95,000 range has had a significant impact on Bitcoin&apos;s price movement, serving as both support and resistance levels during intense market volatility.Trader Mikybull Crypto characterized this week&apos;s Bitcoin breakthrough above $122,000 followed by a pullback as &quot;ugly.&quot; He stated that BTC has re-entered its previous range-bound action, with altcoins bein</description>
-      <pubDate>Tue, 12 Aug 2025 09:09:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24191</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Within one week of the implementation of the Hong Kong Stablecoin Regulation, the size of the local OTC trading market has decreased by approximately 32.94%.</title>
-      <link>https://www.lookonchain.com/feeds/24188</link>
-      <description>On August 12th, as per Bitrace&apos;s monitoring, within a week after the implementation of the Hong Kong stablecoin regulations, the local OTC market size has witnessed a reduction of approximately 32.94%. The daily average USDT transfer volume of the business addresses of storefront service providers has dropped by 43.20% (from 9.47 million to 5.38 million), while that of the business addresses of non-storefront service providers has decreased by 30.65% (from 42.57 million to 29.52 million).</description>
-      <pubDate>Tue, 12 Aug 2025 09:09:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24188</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
