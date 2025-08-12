@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 11:59:51 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 11:59:51 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 12:59:32 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 12:59:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>eToro Online Trading Platform Reports $30.2 Million in Net Revenue for Q2</title>
-      <link>https://www.lookonchain.com/feeds/24216</link>
-      <description>On August 12th, eToro, a US-listed stock and crypto online trading platform, announced that its net revenue for the second quarter of 2025 was $30.2 million, as opposed to $30.6 million in the same period of the previous year. The revenue for the second quarter was $2.09 billion, compared to $1.85 billion in 2024. The year-to-date revenue is $5.85 billion, compared to $5.23 billion in 2024.BlockBeats had previously reported that on July 29th, the online trading platform eToro announced that it would launch a tokenized US stock service on the Ethereum blockchain, enabling users to purchase and trade tokenized US stocks on-chain as a strategic move towards a tokenized future.</description>
-      <pubDate>Tue, 12 Aug 2025 11:56:59 +0000</pubDate>
+      <title>Arthur Hayes Joins Solana Ecosystem&apos;s Upexi Advisory Council</title>
+      <link>https://www.lookonchain.com/feeds/24233</link>
+      <description>On August 12th, the Solana DeFi platform Upexi announced that Arthur Hayes, the co-founder of BitMEX, has joined as the first member of its Advisory Board. The Upexi Advisory Board will lead strategic planning, increase market exposure, and attract more capital to Upexi&apos;s SOL treasury.</description>
+      <pubDate>Tue, 12 Aug 2025 12:56:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24216</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24233</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,16 +28,72 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The Vietnamese National Assembly has approved the establishment of an International Financial Center to pilot cryptocurrency asset trading.</title>
+      <link>https://www.lookonchain.com/feeds/24232</link>
+      <description>August 12th: Pham Tien Dung, who is the Deputy Governor of the State Bank of Vietnam, declared that the Vietnamese National Assembly has given its approval to a resolution for establishing an International Financial Center. This allows for the establishment of a digital asset exchange platform. Additionally, the Ministry of Finance has presented a draft resolution for a pilot program, designating blockchain as a core operational infrastructure. The &quot;Industrial and Digital Transformation Law&quot; has clearly defined digital assets, virtual assets, and tokenized assets, thus laying a specific legal foundation. The Vietnamese government has shown its determination to meet regulatory requirements while creating a flexible sandbox environment that adheres to global standards for businesses and investors.</description>
+      <pubDate>Tue, 12 Aug 2025 12:56:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24232</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain whale withdrew 500 BTC from Binance 5 hours ago, with a total of 3000 BTC withdrawn within 3 months.</title>
+      <link>https://www.lookonchain.com/feeds/24229</link>
+      <description>On August 12th, according to the monitoring of LookOnChain, a whale address beginning with bc1q5r withdrew 500 BTC from Binance 5 hours ago, which is approximately worth $59.53 million. This whale has withdrawn a total of 3000 BTC from Binance within the past 3 months, amounting to around $355 million, with an average price of $109,895.</description>
+      <pubDate>Tue, 12 Aug 2025 12:49:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24229</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>U.S. Stock Futures Rise in Unison, Ethereum Surges Towards $4400</title>
+      <link>https://www.lookonchain.com/feeds/24231</link>
+      <description>On August 12th, following the release of the US CPI, the futures of the three major US stock indexes all witnessed an increase. The Nasdaq 100 Index went up by 0.44%, and the S&amp;P 500 Index rose by 0.38%. According to HTX market data, Bitcoin surged to above $119,000, while Ethereum rose to nearly $4,400 and is currently trading at $4,397.</description>
+      <pubDate>Tue, 12 Aug 2025 12:49:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24231</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Blockchain Identity Verification Platform 1Kosmos Completes $57 Million Series B Funding Round, Led by Oquirrh Ventures</title>
-      <link>https://www.lookonchain.com/feeds/24215</link>
-      <description>August 12th. The blockchain identity verification platform 1Kosmos has completed a Series B funding round of $57 million. This round was led by Forgepoint Capital and Oquirrh Ventures under Origami. Participants also include Craig Abod, who is the Founder and President of Carahsoft. NextEra Energy Ventures, Gula Tech Adventures, and the 1Kosmos management team also took part. 1Kosmos utilizes a private and permissioned blockchain for the encryption and storage of Personally Identifiable Information (PII). It assists enterprises in transforming identity verification into a business facilitator and drives the future of authentication and passwordless identity.</description>
-      <pubDate>Tue, 12 Aug 2025 11:56:59 +0000</pubDate>
+      <title>Ethereum Breaks $4400, Hits New High Since January 2022</title>
+      <link>https://www.lookonchain.com/feeds/24230</link>
+      <description>On August 12th, according to HTX market data, Ethereum exceeded $4400, showing a 24-hour increase of 5.27% and reaching a new high since January 2022.</description>
+      <pubDate>Tue, 12 Aug 2025 12:49:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24215</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24230</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -46,16 +102,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Europe&apos;s largest financial technology company, Revolut, has launched PARTI to collaborate with the Particle Network in advancing the development of a General Transaction Layer for Real-World Assets...</title>
-      <link>https://www.lookonchain.com/feeds/24214</link>
-      <description>On August 12th, according to official information, Revolut, which is the largest financial technology company in Europe, has officially listed the $PARTI token. The two sides will cooperate to promote the development of the Particle Network&apos;s RWA Layer.Revolut, known as the &quot;European Alipay,&quot; holds EU banking and UK banking licenses and has 60 million users in more than 60 countries around the world. After this listing, users in the European Economic Area (EEA) and the UK can directly trade $PARTI with their local currency or US dollars.</description>
-      <pubDate>Tue, 12 Aug 2025 11:56:59 +0000</pubDate>
+      <title>After the CPI is published, traders increase their bets that the Federal Reserve will cut interest rates in September and December.</title>
+      <link>https://www.lookonchain.com/feeds/24228</link>
+      <description>August 12th: Following the release of the U.S. CPI, traders enhanced their wagers on a September rate cut by the Federal Reserve. They continued to bet on rate cuts in both September and December.Spot gold witnessed a short-term surge of more than $10, while the U.S. Dollar Index (DXY) witnessed a short-term decline of more than 30 points and was trading at 98.25.</description>
+      <pubDate>Tue, 12 Aug 2025 12:41:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24214</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24228</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -67,31 +125,12 @@
 
     </item>
     <item>
-      <title>Cyber Team Transfers 1,744,000 CYBER to Binance, Worth $6.18 Million</title>
-      <link>https://www.lookonchain.com/feeds/24212</link>
-      <description>On August 12th, as per the monitoring of EmberCN, this afternoon CYBER witnessed a surge of 130% because of its listing on Upbit. One hour ago, a multi-sig wallet of the Cyber team transferred 1,744,000 CYBER to Binance, with a value of $6.18 million.</description>
-      <pubDate>Tue, 12 Aug 2025 11:48:59 +0000</pubDate>
+      <title>U.S. Core CPI Rises to Five-Month High, Exceeds Expectations</title>
+      <link>https://www.lookonchain.com/feeds/24227</link>
+      <description>On August 12th, the year-on-year rate of the US July non-seasonally adjusted core CPI further rose to 3.1%, reaching a five-month high and being above the market expectation of 3.0% and the previous value of 2.90%. (FXStreet)</description>
+      <pubDate>Tue, 12 Aug 2025 12:40:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24212</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>U.S. CPI Outlook: Wells Fargo Anticipates Inflation to Rebound</title>
-      <link>https://www.lookonchain.com/feeds/24213</link>
-      <description>August 12th: Wells Fargo Bank declared that the U.S. CPI data will further manifest that higher tariffs have driven up prices. The bank noted: &quot;We are still in the preliminary stage of the price adjustment process, and it is not yet definite how higher import taxes will ultimately be allocated among end customers, domestic sellers, and foreign exporters. Meanwhile, consumer fatigue is on the rise, making it even more challenging to pass on overall price hikes.&quot; Looking ahead, Wells Fargo Bank anticipates that inflation will accelerate in the second half of this year but will not increase significantly. The core CPI and core PCE price index will return to around 3% in the fourth quarter.The U.S. July CPI data will be released tonight at 20:30 Beijing time. The market expects that core inflation will rebound moderately. Currently, there is a &quot;hawk-dove standoff&quot; within the Federal Reserve. If the data validates tariff transmission and economic uncertainty, the Fed&apos;s interest rate cut p</description>
-      <pubDate>Tue, 12 Aug 2025 11:48:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24213</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24227</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -103,30 +142,12 @@
 
     </item>
     <item>
-      <title>SlowMist Cosmos: Qubic Leveraged Economic Incentives Game to Accomplish a 51% Attack Against Monero, Moving $3 Billion and Impacting $5 Billion Realized</title>
-      <link>https://www.lookonchain.com/feeds/24211</link>
-      <description>On August 12th, Cao Yun, the founder of SlowMist, commented on the Monero 51% attack incident. He said, &quot;This is very interesting. The Qubic mining pool used an economic incentive game theory to conduct this 51% attack on Monero XMR. I believe it was not malicious in nature. It can be seen that the theoretical scenario of $3 billion (the market capitalization of QUBIC) affecting $50 billion (the market capitalization of Monero) has become a reality...&quot;Previous reports indicated that Sergey Ivancheglo, the co-founder of IOTA, through the &quot;useful Proof of Work (uPoW)&quot; mechanism, his project Qubic rapidly accumulated a large amount of Monero hash rate. On August 12th, Qubic briefly controlled 52.72% of the hash rate (approximately 3.01 GH/s) of the Monero network. Once exceeding 51%, Qubic could reject blocks from other pools, leading to chain reorganization, double spending, or transaction censorship. The Monero community has initiated resistance and defense actions, while Qubic has de</description>
-      <pubDate>Tue, 12 Aug 2025 11:48:59 +0000</pubDate>
+      <title>In July, the U.S. seasonally adjusted core CPI saw a year-on-year increase of 3.1%, slightly below expectations.</title>
+      <link>https://www.lookonchain.com/feeds/24226</link>
+      <description>On August 12th, the US July Non-Seasonally Adjusted Core CPI YoY was 3.1%. The expected value was 3.00%, and the previous value was 2.90%. It remained flat from the previous month and was slightly below expectations. (FX Street)</description>
+      <pubDate>Tue, 12 Aug 2025 12:32:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24211</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Vitalik: &quot;I Only Support Open Source&quot; Should Be a Common Viewpoint</title>
-      <link>https://www.lookonchain.com/feeds/24210</link>
-      <description>On August 12th, Ethereum founder Vitalik Buterin released a long article titled &quot;Thoughts on Idea-drivenness.&quot; He pointed out that &quot;I only support things that are open source&quot; should be a common perspective, and &quot;I only support things if they are open source&quot; should be an even more common one. There exists a conflict between idea-driven approaches (rooted in a philosophical framework) and data-driven approaches (stemming from empirical analysis). The idea-driven approach, or ideology, can simplify complex decision-making, facilitate social coordination, and achieve specialization. However, it may also become rigid or divorced from real goals.</description>
-      <pubDate>Tue, 12 Aug 2025 11:40:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24210</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24226</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -138,12 +159,12 @@
 
     </item>
     <item>
-      <title>FTX investors sue Silicon Valley law firm Fenwick &amp; West, accusing it of aiding funds misappropriation by the SBF team</title>
-      <link>https://www.lookonchain.com/feeds/24209</link>
-      <description>August 12th. As per Decrypt, FTX investors have initiated lawsuits against the Silicon Valley law firm Fenwick &amp; West in multiple legal jurisdictions. They allege that the firm had a &quot;deep involvement&quot; in the downfall of FTX and provided assistance in designing shell companies and structures, which enabled the SBF team to embezzle billions of dollars of customer funds. This law firm is the only one among the 130 firms that partnered with FTX to be accused of having knowledge and significantly aiding in the commission of fraud. The plaintiffs assert that Fenwick designed, approved, and implemented shell companies, such as North Dimension, to conceal the flow of customer funds, evade regulations, and leverage its reputation to help FTX attract more than $1.3 billion in funding. An independent auditor&apos;s report showed that the firm was involved in nearly every aspect of FTX Group&apos;s improper conduct and provided legal advice while being aware that customer funds were being misappropriated.</description>
-      <pubDate>Tue, 12 Aug 2025 11:32:59 +0000</pubDate>
+      <title>Guangzhou, China: Strengthen Investment Attraction Efforts for Key Digital Service Providers in Blockchain, Artificial Intelligence, and More</title>
+      <link>https://www.lookonchain.com/feeds/24225</link>
+      <description>August 12. Lately, the People&apos;s Government of Guangzhou, China has issued the &quot;Implementation Plan for Implementing the Opinions on Implementing Financial Support for Guangzhou Nansha to Deepen the Guangdong-Hong Kong-Macao Comprehensive Cooperation Oriented to the World.&quot; It brought up the support for the development of the digital industry. Enhance the investment attraction efforts for key digital service institutions like blockchain and artificial intelligence, and cultivate local high-quality digital service institutions. Encourage digital industry companies to strengthen cooperation with Nansha financial institutions and expand the financial scenario integration applications. Support the establishment in Nansha of data and computing power centers, R&amp;D certification centers, evaluation centers, and regulatory platforms that integrate key digital technologies such as blockchain and artificial intelligence with financial scenarios. Promote data exchanges to improve the comprehensive</description>
+      <pubDate>Tue, 12 Aug 2025 12:32:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24209</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24225</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -155,12 +176,12 @@
 
     </item>
     <item>
-      <title>Circle&apos;s stablecoin Layer1 ARC will launch its public testnet in the fall, providing EVM compatibility.</title>
-      <link>https://www.lookonchain.com/feeds/24208</link>
-      <description>On August 12th, Circle revealed details about the stablecoin Layer1 blockchain ARC. Apart from utilizing the USDC stablecoin as the native Gas token, it plans to launch a public testnet this autumn and be EVM-compatible. The objective is to offer enterprise-grade infrastructure for stablecoin payments, foreign exchange, and capital market applications. Circle stated that it will also introduce features such as a stablecoin foreign exchange engine, sub-second settlement, and optional privacy features, while seamlessly integrating with the Circle platform and maintaining interoperability with other partner blockchains.This move by Circle is intended to counter its top competitor Tether, which has been actively engaged in the development and support of two stablecoin Layer1 blockchains: Stable and Plasma. In the current approximately $260 billion stablecoin market, Circle holds a $65 billion market share, while Tether holds around $165 billion.</description>
-      <pubDate>Tue, 12 Aug 2025 11:32:59 +0000</pubDate>
+      <title>Before the release of the US CPI, the probability of a Fed rate cut in September was 82.5%.</title>
+      <link>https://www.lookonchain.com/feeds/24224</link>
+      <description>On August 12th, based on CME&apos;s &quot;FedWatch&quot;: The likelihood of the Fed maintaining the interest rate steady in September is 17.5%, and the probability of a 25-basis-point rate cut is 82.5%.There is a 6.5% probability of the Fed keeping the interest rate steady in October. The cumulative probability of a 25-basis-point rate cut is 41.5%, and the cumulative probability of a 50-basis-point rate cut is 52.0%.</description>
+      <pubDate>Tue, 12 Aug 2025 12:32:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24208</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24224</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -169,24 +190,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The USDC Treasury has minted an additional 500 million USDC on the Solana blockchain.</title>
-      <link>https://www.lookonchain.com/feeds/24207</link>
-      <description>On August 12th, as monitored by Whale Alert, the USDC Treasury has minted an extra 5 billion USDC on the Solana blockchain. This minting was carried out in two transactions, with 2.5 billion USDC minted in each transaction.</description>
-      <pubDate>Tue, 12 Aug 2025 11:08:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24207</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
