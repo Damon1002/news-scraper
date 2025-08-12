@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 04:54:31 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 04:54:31 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 05:18:45 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 05:18:45 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>AguilaTrades once again liquidates the ETH short position at a stop loss, marking the third consecutive &quot;top-sniping short&quot; with a loss of $3.8 million.</title>
+      <link>https://www.lookonchain.com/feeds/24156</link>
+      <description>August 12th. According to Ember Monitor, the whale trader AguilaTrades has consecutively liquidated his short position for the third time. He closed the majority of his ETH short position that he opened earlier this morning, 20 minutes ago. The remaining part is also being gradually liquidated through TWAP.During the past three days, AguilaTrades has carried out three &quot;top-sniping&quot; actions on ETH. Each time, he set a stop-loss after the price rose by $50 above his short entry price, resulting in a loss of $3.8 million.</description>
+      <pubDate>Tue, 12 Aug 2025 05:08:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24156</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Li Xiaolai once said &quot;Revisit EOS in 7 Years&quot;; On its seventh anniversary, Bullish Goes to NYSE for IPO and Receives Oversubscription</title>
+      <link>https://www.lookonchain.com/feeds/24155</link>
+      <description>On August 12th, the prominent blockchain investor Li Xiaolai once expressed his anticipation for the future of the EOS ecosystem in a WeChat Moments post titled &quot;Looking at EOS Seven Years Later&quot; on August 10th, 2018.Block.one (the blockchain company behind EOS), whose digital asset exchange platform Bullish was launched in 2020, is expected to be officially listed on the NYSE on August 13th, 2025.This time, the Bullish IPO still received oversubscription after expanding the issuance scale, indicating the high recognition of Block.one and its ecosystem in the market.Note: EOS has been renamed to Vaulta (A).</description>
+      <pubDate>Tue, 12 Aug 2025 04:56:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24155</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Base Layer AI Concept Coin GAI Surpasses $40 Million Market Cap, Hits All-Time High</title>
       <link>https://www.lookonchain.com/feeds/24154</link>
       <description>On August 12th, according to GMGN market data, the Base Layer AI concept coin GraphAI (GAI) has exceeded a market capitalization of $40 million. Currently, it is valued at $42 million, reaching a new all-time high with a 24-hour increase of 58%. GraphAI provides real-time blockchain intelligence to support on-chain AI agents operating for the integration of real-world assets (RWA).</description>
-      <pubDate>Tue, 12 Aug 2025 04:40:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:40:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24154</guid>
       <category>crypto</category>
@@ -35,7 +72,7 @@
       <title>RgbSwap launches the first RGB Protocol asset DogeRGB and initiates the Claim process, conducting a large-scale airdrop to the BTC ecosystem.</title>
       <link>https://www.lookonchain.com/feeds/24153</link>
       <description>On August 12th, according to official information, the RGB infrastructure RgbSwap declared the launch of the first RGB-native asset, DogeRGB, and has set off the Claim process, enabling users to participate by connecting their BTC wallet.At the same time, RgbSwap will carry out a large-scale airdrop in the Bitcoin ecosystem, aiming at active users who have interacted with the RGB protocol or hold any of the following assets and have a BTC asset value of more than $10: rgb, labitbu, labumew, ordi, sats, rats, adderrels, early birds, liquid, methane, diesel, alkamist, alkane pandas.It is reported that DogeRGB is based on the RGB 20 standard, with a total supply of 21 billion, 90% allocated for public Claim and 10% for the airdrop.</description>
-      <pubDate>Tue, 12 Aug 2025 04:30:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:30:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24153</guid>
       <category>crypto</category>
@@ -54,7 +91,7 @@
       <title>Polymarket Updates Oracle Mechanism, Introduces Proposal Whitelisting to Improve Market Efficiency</title>
       <link>https://www.lookonchain.com/feeds/24152</link>
       <description>On August 12th, as per official documentation, Polymarket has made an announcement regarding the update of its oracle mechanism. A new MOOV2 contract has been introduced to replace the previous OOV2 contract. This is done to address issues such as premature proposals, the lack of experience leading to frequent disputes, and market delays. The most controversial change in the MOOV2 contract is the establishment of a proposal whitelist.Under the old OOV2 contract, any user was able to submit a proposal. This led to many first-time proposers losing their deposits due to lack of experience, resulting in market settlement delays of up to four days and negatively impacting user experience.The new MOOV2 contract stipulates that only whitelisted addresses can submit proposals. Users are required to convene whitelisted proposers through Discord for submission, while anyone can still raise objections. This move encourages thorough pre-proposal discussions, thereby reducing disputes and delay</description>
-      <pubDate>Tue, 12 Aug 2025 04:24:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:24:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24152</guid>
       <category>crypto</category>
@@ -71,7 +108,7 @@
       <title>Binance Wallet token presale will go live for Bitlayer (BTR)</title>
       <link>https://www.lookonchain.com/feeds/24151</link>
       <description>August 12th. According to official information, the Binance Wallet Token Sale is going to launch Bitlayer (BTR). The tokens acquired through the Token Sale &amp; Booster Event will be subject to a lock-up period determined by the project team.Subscription Time: From 4:00 PM to 6:00 PM on August 13th, 2025 (UTC+8).Subscription Eligibility: Eligible users must participate by using Binance Alpha Points.</description>
-      <pubDate>Tue, 12 Aug 2025 04:08:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:17:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24151</guid>
       <category>crypto</category>
@@ -88,7 +125,7 @@
       <title>Huobi HTX Update August Merkle Tree Proof of Reserves: Publicly disclosed PoR data for 34 consecutive months, with an overall reserve ratio consistently at or above 100%</title>
       <link>https://www.lookonchain.com/feeds/24150</link>
       <description>August 12th. As per the official announcement on Huobi HTX&apos;s website, on August 1st, Huobi HTX put forth its most recent Monthly Merkle Tree Asset Reserve Proof of Reserves (PoR) Audit Report. By August 1st, 2025, the overall reserve ratio of the platform has achieved or exceeded 100%, maintaining adequate asset coverage. As one of the pioneering platforms in the industry to adopt the Merkle Tree verification mechanism, Huobi HTX has publicly disclosed reserve data for 34 consecutive months.The specific updated reserve ratios are as follows: BTC (101%), ETH (100%), TRX (105%), USDT (101%), HTX (102%), XRP (100%), DOGE (100%), SOL (100%). Users are always able to access Huobi HTX&apos;s website&apos;s &quot;Assets - Reserve Proof of Reserves Report&quot; page to view the monthly updated reserve proof reports.In the context of market fluctuations and the intensification of industry regulations, Huobi HTX continues to regularly disclose PoR data on a monthly basis, demonstrating its robust asset manageme</description>
-      <pubDate>Tue, 12 Aug 2025 04:01:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:17:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24150</guid>
       <category>crypto</category>
@@ -105,7 +142,7 @@
       <title>The US Ethereum Spot ETF saw a record net inflow of $10.188 billion yesterday.</title>
       <link>https://www.lookonchain.com/feeds/24149</link>
       <description>On August 12th, according to Farside&apos;s monitoring data, the US Ethereum spot ETF witnessed a record net inflow of $10.188 billion yesterday. In addition, the US Bitcoin spot ETF had a net inflow of $5.886 billion yesterday.</description>
-      <pubDate>Tue, 12 Aug 2025 04:00:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:17:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24149</guid>
       <category>crypto</category>
@@ -125,7 +162,7 @@
       <title>Vitalik Liked the Zora App and Suggested Supporting Ethereum Addresses as an Account Recovery Method</title>
       <link>https://www.lookonchain.com/feeds/24148</link>
       <description>On August 12th, the co-founder of Ethereum, Vitalik Buterin, responded on social media to Jacob, the co-founder of Zora, suggesting to &quot;try downloading the Zora app.&quot; He stated that he had already downloaded and tried the app and found it &quot;pretty good.&quot;Vitalik also put forward a suggestion for improvement. He hoped that the Zora app could, similar to Farcaster, support setting an Ethereum address as an account recovery method in terms of account management. He hoped that his multisig wallet could become the sole recovery base in its entire Web3 ecosystem.</description>
-      <pubDate>Tue, 12 Aug 2025 03:56:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:17:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24148</guid>
       <category>crypto</category>
@@ -141,28 +178,10 @@
 
     </item>
     <item>
-      <title>Uniswap has generated $3.27 million in revenue in the past 24 hours, ranking third on the crypto revenue leaderboard</title>
-      <link>https://www.lookonchain.com/feeds/24145</link>
-      <description>On August 12th, according to data from DefiLlama, Uniswap&apos;s revenue in the past 24 hours reached as high as $3.27 million, ranking third on the crypto revenue list, only behind Tether and Circle.Previously, it was reported that the Uniswap Foundation proposed a &quot;DUNA DAO&quot; structure to pave the way for the fee switch.</description>
-      <pubDate>Tue, 12 Aug 2025 03:53:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24145</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Arthur Hayes joked about appointing Tom Lee as the head of the Ethereum Foundation</title>
       <link>https://www.lookonchain.com/feeds/24147</link>
       <description>On August 12th, Arthur Hayes, the co-founder of BitMEX, playfully proposed on social media, &quot;Why not simply have Tom Lee, the newly appointed Chairman of BitMine, directly serve as the head of the Ethereum Foundation? Who is in favor?&quot;Previously reported, BitMine achieved several significant milestones within five weeks: not only establishing the world&apos;s largest reserve of ETH but also rising to become the third-largest cryptocurrency holder in the world with an astonishing $49.8 billion in encrypted assets, second only to Microstrategy and Mara Blockchain.</description>
-      <pubDate>Tue, 12 Aug 2025 03:53:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 03:17:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24147</guid>
       <category>crypto</category>
@@ -175,26 +194,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Argentinian Ethereum developer Fede&apos;s intern has decided to donate $500,000 for Tornado Cash&apos;s co-founder&apos;s legal defense</title>
-      <link>https://www.lookonchain.com/feeds/24146</link>
-      <description>On August 12th, as per The Block, the Argentine blockchain developer &quot;Fede&apos;s intern&quot; was briefly taken into custody by the police upon entering Turkey. He has now been released and returned to Europe. He indicated that the incident originated from a case brought against him by the Turkish Minister of Interior, alleging that he had assisted others in misusing Ethereum in relation to a certain privacy protocol.The developer mentioned that his trip was to promote a DeFi project and a wine export partnership. He emphasized that his team&apos;s previous research on Tornado Cash only encompassed de-anonymization analysis and they never engaged in any illegal activities.&quot;Fede&apos;s intern&quot; stated that he has made a decision to donate $500,000 to the legal defense of Tornado Cash co-founder Roman Storm.</description>
-      <pubDate>Tue, 12 Aug 2025 03:53:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24146</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
   </channel>
