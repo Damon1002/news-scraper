@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 07:51:26 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 07:51:26 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:16:53 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 08:16:53 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Affected by the listing of the Upbit Korean won trading pair, CYBER experiences a temporary surge of over 178%.</title>
-      <link>https://www.lookonchain.com/feeds/24179</link>
-      <description>On August 12th, according to HTX market data, affected by the listing on Upbit&apos;s Korean Won and USDT trading pairs, CYBER saw a brief surge of over 178% and is now priced at $5.12.</description>
-      <pubDate>Tue, 12 Aug 2025 07:40:34 +0000</pubDate>
+      <title>Binance Alpha Launches World3 (WAI)</title>
+      <link>https://www.lookonchain.com/feeds/24183</link>
+      <description>On August 12th, Binance Alpha launched World3 (WAI).</description>
+      <pubDate>Tue, 12 Aug 2025 08:09:00 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24179</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24183</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +31,71 @@
 
     </item>
     <item>
-      <title>Upbit will list the CYBER/KRW, USDT trading pair.</title>
-      <link>https://www.lookonchain.com/feeds/24177</link>
-      <description>August 12th. According to official information, Upbit has included the CYBER/KRW and CYBER/USDT trading pairs.</description>
-      <pubDate>Tue, 12 Aug 2025 07:32:34 +0000</pubDate>
+      <title>Bitunix Analyst: CPI Bi-directional Risk on the Table, BTC in Range within High-Density Supply Zone — Risk Management and Phased Trading Strategy</title>
+      <link>https://www.lookonchain.com/feeds/24182</link>
+      <description>August 12th: The market generally anticipated that the July CPI would rise by +0.2% month-on-month and by 2.8% year-on-year. The core CPI was expected to increase by +0.3% month-on-month and by 3.0% year-on-year. Regardless of whether the data is &quot;hot&quot; or &quot;cold&quot;, it could trigger a market reaction in different directions but with equally strong volatility, posing a two-way risk to stocks, forex, bonds, and other risk assets in the short term.Bitunix Analyst Suggestion:For BTC, the range of 120k–123k is a zone with significantly high density of supply and concentrated selling pressure above. The levels of 116k and 112k below act as secondary supports. Without a volume breakout above the supply zone, it is likely to encounter rejection and fall back. In the case of colder-than-expected data (favorable to rate cuts), it is necessary to observe the trend of the US dollar and US Treasuries. If BTC witnesses a daily volume surge and breaks through the supply zone, it is expected to open u</description>
+      <pubDate>Tue, 12 Aug 2025 08:01:00 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24177</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24182</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Whale AguilaTrades ETH Long/Short, current position value $33.58M in ETH Long position</title>
+      <link>https://www.lookonchain.com/feeds/24181</link>
+      <description>On August 12th, as monitored by on-chain analyst Yu Jin, contract transaction whale AguilaTrades. After suffering consecutive losses of 3 short ETH positions through stop-loss, with a total loss of $3.65 million, it has now switched from short to long. Starting 20 minutes ago, it took a long position on ETH with 15 times leverage. Currently, it holds 7700 ETH with a value of $33.58 million.</description>
+      <pubDate>Tue, 12 Aug 2025 07:57:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24181</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Analyst: Bitcoin&apos;s upward momentum has started to slow down, cautioning the emergence of a potential double top pattern</title>
+      <link>https://www.lookonchain.com/feeds/24180</link>
+      <description>On August 12th, Coindesk analyst Omkar Godbole stated that the upward momentum of Bitcoin has decelerated, raising the likelihood of a bearish technical pattern called a double top. When looking at the daily chart, the bulls on Monday were unable to maintain a breakthrough above the key Fibonacci level of $122,056. This pattern closely resembles the situation on July 14th. Two instances of failing to hold above a key price point with short pullbacks in between are typical features of a &quot;double top&quot; formation. The neck line of this formation is the lowest point reached during the brief pullback at $111,982, which is a crucial support level to monitor.If the price decisively drops below this neck line level, it will confirm the breakdown of the double top formation, potentially triggering selling pressure down to $100,000. The resistance levels are $120,000, $122,056, and $123,181. The support levels are $114,295, $111,982, and $100,000.As the market enters the period of today&apos;s CPI</description>
+      <pubDate>Tue, 12 Aug 2025 07:57:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24180</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Affected by the listing of the Upbit Korean won trading pair, CYBER experiences a temporary surge of over 178%.</title>
+      <link>https://www.lookonchain.com/feeds/24179</link>
+      <description>On August 12th, according to HTX market data, affected by the listing on Upbit&apos;s Korean Won and USDT trading pairs, CYBER saw a brief surge of over 178% and is now priced at $5.12.</description>
+      <pubDate>Tue, 12 Aug 2025 07:41:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24179</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +110,7 @@
       <title>AguilaTrades has closed its ETH short position, realizing a total loss of $2.81 million.</title>
       <link>https://www.lookonchain.com/feeds/24178</link>
       <description>On August 12th, based on Onchain Lens, the contract transaction whale AguilaTrades has liquidated its 15x ETH short position, resulting in a loss of $683,000. In total, the cumulative loss of ETH short positions over time has reached $2.81 million.</description>
-      <pubDate>Tue, 12 Aug 2025 07:32:34 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:32:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24178</guid>
       <category>crypto</category>
@@ -68,10 +127,27 @@
 
     </item>
     <item>
+      <title>Upbit will list the CYBER/KRW, USDT trading pair.</title>
+      <link>https://www.lookonchain.com/feeds/24177</link>
+      <description>August 12th. According to official information, Upbit has included the CYBER/KRW and CYBER/USDT trading pairs.</description>
+      <pubDate>Tue, 12 Aug 2025 07:32:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24177</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Approximately $21.47 billion worth of ETH is currently queued to exit the Ethereum PoS network, while only around $20.68 million worth of ETH is waiting to join</title>
       <link>https://www.lookonchain.com/feeds/24176</link>
       <description>On August 12th, based on the Validator Queue tracking website &quot;validatorqueue&quot;, as ETH surged beyond $4300, the current exit queue of the Ethereum PoS network has risen to 498,313 ETH, which is approximately worth $21.47 billion, and the exit waiting time is about 8 days and 16 hours.Meanwhile, the ETH queued to join the network has decreased to around 4,801 ETH, approximately worth $20.68 million, which is significantly lower than the recent peak of 435,000 ETH. The expected activation delay is about 2 hours.</description>
-      <pubDate>Tue, 12 Aug 2025 07:24:34 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:25:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24176</guid>
       <category>crypto</category>
@@ -91,7 +167,7 @@
       <title>BTCS CEO: Naked Short Selling Must Be Stopped, Aiming to Increase Market Cap Through Stock Price Appreciation Rather Than Share Dilution</title>
       <link>https://www.lookonchain.com/feeds/24175</link>
       <description>On August 12th, Charles Allen, the CEO of the US-listed company BTCS, stated that naked short selling is a predatory behavior that manipulates the market by artificially increasing market supply, driving down prices, and diluting the legitimate rights of shareholders. This behavior harms true long-term retail investors and must be stopped.Today, we believe that short sellers are betting on a decline in the BTCS stock price, expecting us to irresponsibly sell billions of dollars of stock through an At-The-Market (ATM) offering, allowing them to buy back at a lower price. As I have said before, my goal is to increase market value through stock price appreciation, not reckless share dilution.BTCS Inc. (BTCS) currently holds 70,000 ETH, valued at approximately $299.4 million, with a 30-day holding increase of 379.64%.</description>
-      <pubDate>Tue, 12 Aug 2025 07:16:34 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:17:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24175</guid>
       <category>crypto</category>
@@ -110,7 +186,7 @@
       <title>Hong Kong Stock Concept Stock Collective Surge, Fosun International Surges Over 19%</title>
       <link>https://www.lookonchain.com/feeds/24174</link>
       <description>On August 12th, based on the market data from RockFlow (https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats), the stablecoin concept stocks in the Hong Kong stock market witnessed a collective surge. Fosun International (00656.HK) rose by more than 19%, Duodian Technology (02586.HK) and Guotai Junan International (01788.HK) each rose by more than 8%, Yunfeng Financial Group (00376.HK) rose by more than 5%, and YeePay (09923.HK) rose by more than 4%.Earlier reports indicated that at 2 p.m. on August 12th, Fosun officially submitted an application for a stablecoin license in Hong Kong and had already formed a complete application team for the stablecoin license. On August 6th, Fosun&apos;s founder Guo Guangchang personally led the core team of Fosun&apos;s stablecoin team and some other senior executives to meet with Carrie Lam, the Chief Executive of the Hong Kong Special Administrative Region, and Paul Chan, the Financial Secretary of the Hong Kong Special Administrative Region, withi</description>
-      <pubDate>Tue, 12 Aug 2025 07:08:34 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:16:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24174</guid>
       <category>crypto</category>
@@ -121,77 +197,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Noble Token is expected to launch in the next 2 to 6 months.</title>
-      <link>https://www.lookonchain.com/feeds/24173</link>
-      <description>On August 12th, during an AMA in 2025 (August 12th), the Noble team announced that the Noble token is expected to be launched within the next 2 to 6 months. The timing is set to take place after the launch of the Hyperliquid Treasury (estimated in 4 to 6 weeks). The team stated that they will adopt a cautious approach, giving priority to system readiness and community understanding rather than setting a fixed date. During the transition from the point system to the Noble token, the interests of early supporters will be taken into account while also attracting new users.</description>
-      <pubDate>Tue, 12 Aug 2025 07:08:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24173</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A newly created wallet withdrew 91,891 SOL from Kraken, equivalent to approximately $16.78 million.</title>
-      <link>https://www.lookonchain.com/feeds/24171</link>
-      <description>On August 12th, as per the monitoring of Onchain Lens, a newly established wallet withdrew 91,891 SOL from Kraken, with a value of $16.78 million.</description>
-      <pubDate>Tue, 12 Aug 2025 07:00:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24171</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>1confirmation Founder: The Treasury Company Model Only Works When the Token Has Long-Term Store of Value Properties</title>
-      <link>https://www.lookonchain.com/feeds/24172</link>
-      <description>On August 12th, Nick Tomaino, the founder of the crypto venture capital firm 1confirmation, stated that &quot;Currently, each holder is seeking a custodial company to safeguard their assets. Nevertheless, the custodial model only functions when the market generally believes that cryptocurrencies possess a store of value function. Nobody is willing to enable a group of fraudulent insiders to make profits. This is where the most prominent difference lies between tokens that can serve as a store of value in a trustworthy and neutral manner and so-called &apos;company coins&apos;.&quot;</description>
-      <pubDate>Tue, 12 Aug 2025 07:00:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24172</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Matrixport: Bitcoin Breaking Out of Triangle Pattern, Funds Continuously Flowing into Crypto Market</title>
-      <link>https://www.lookonchain.com/feeds/24170</link>
-      <description>August 12th. Matrixport released today&apos;s market analysis, which stated, &quot;Bitcoin is testing the upper boundary of a triangle consolidation range. During the Asian session, the price briefly surged but encountered selling pressure during the European and American sessions, resulting in a partial pullback of gains. If the price remains above $116,817, the breakout remains valid, and there is still potential for further upside in the short term.&quot;In the context of the current seasonally weak period, the price is likely to rise steadily rather than sharply. If the CPI exceeds expectations, it may temporarily shake market confidence in the Federal Reserve&apos;s two interest rate cuts this year. However, we still maintain that this expectation is in line with the long-term trend.Funds continue to flow into the crypto market through various channels, and long-term investors may enjoy rewards this year.</description>
-      <pubDate>Tue, 12 Aug 2025 06:56:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24170</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
