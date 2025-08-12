@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Aug 2025 13:57:41 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Aug 2025 13:57:41 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 14:28:19 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 14:28:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,76 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>特朗普：考虑允许对美联储主席鲍威尔提起重大诉讼</title>
+      <title>特朗普：关税并未引发通胀或给国家带来其他问题</title>
+      <link>https://www.panewslab.com/zh/articles/bded21d4-9673-4098-a5f3-d1b25f1dc890</link>
+      <description>特朗普：关税并未引发通胀或给国家带来其他问题</description>
+      <pubDate>Tue, 12 Aug 2025 14:28:19 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bded21d4-9673-4098-a5f3-d1b25f1dc890</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼进一步从Binance提取2.1万枚ETH</title>
+      <link>https://www.panewslab.com/zh/articles/5213051a-e3bb-4eef-80ce-035f3020aceb</link>
+      <description>某鲸鱼进一步从Binance提取2.1万枚ETH</description>
+      <pubDate>Tue, 12 Aug 2025 14:26:19 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5213051a-e3bb-4eef-80ce-035f3020aceb</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Cathie Wood：维持比特币五年内目标价逾100万美元</title>
+      <link>https://www.panewslab.com/zh/articles/b8396775-5a5e-4608-ae85-d954a8e9004c</link>
+      <description>Cathie Wood：维持比特币五年内目标价逾100万美元</description>
+      <pubDate>Tue, 12 Aug 2025 14:24:19 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b8396775-5a5e-4608-ae85-d954a8e9004c</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>交易员AguilaTrades做多ETH获利147万美元</title>
+      <link>https://www.panewslab.com/zh/articles/04071b76-76f6-476a-a7b8-5ec0bb5704f1</link>
+      <description>交易员AguilaTrades做多ETH获利147万美元</description>
+      <pubDate>Tue, 12 Aug 2025 14:22:19 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/04071b76-76f6-476a-a7b8-5ec0bb5704f1</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>特朗普：正在考虑允许对鲍威尔提起重大诉讼</title>
       <link>https://www.panewslab.com/zh/articles/a196d843-dd0e-4505-9a2b-39f85981d911</link>
-      <description>特朗普：考虑允许对美联储主席鲍威尔提起重大诉讼</description>
-      <pubDate>Tue, 12 Aug 2025 13:57:41 +0000</pubDate>
+      <description>特朗普：正在考虑允许对鲍威尔提起重大诉讼</description>
+      <pubDate>Tue, 12 Aug 2025 14:20:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a196d843-dd0e-4505-9a2b-39f85981d911</guid>
       <category>crypto</category>
@@ -32,7 +98,7 @@
       <title>SUI Network误发Robinhood上市公告，疑为提前泄露</title>
       <link>https://www.panewslab.com/zh/articles/c6e4fa9b-eda3-4627-a0c1-12d9b6cd5ee0</link>
       <description>SUI Network误发Robinhood上市公告，疑为提前泄露</description>
-      <pubDate>Tue, 12 Aug 2025 13:55:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:18:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c6e4fa9b-eda3-4627-a0c1-12d9b6cd5ee0</guid>
       <category>crypto</category>
@@ -47,7 +113,7 @@
       <title>美股三大股指高开，Circle大涨超10%</title>
       <link>https://www.panewslab.com/zh/articles/b6e26c77-9db6-47ef-8b16-0f67b0b85763</link>
       <description>美股三大股指高开，Circle大涨超10%</description>
-      <pubDate>Tue, 12 Aug 2025 13:53:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:16:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b6e26c77-9db6-47ef-8b16-0f67b0b85763</guid>
       <category>crypto</category>
@@ -62,7 +128,7 @@
       <title>德国30年期国债收益率攀升至3.264%，为2011年以来最高水平</title>
       <link>https://www.panewslab.com/zh/articles/fa887e68-cd45-47f6-acfb-70abf0182b6c</link>
       <description>德国30年期国债收益率攀升至3.264%，为2011年以来最高水平</description>
-      <pubDate>Tue, 12 Aug 2025 13:51:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:14:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fa887e68-cd45-47f6-acfb-70abf0182b6c</guid>
       <category>crypto</category>
@@ -77,7 +143,7 @@
       <title>白宫：特朗普和韩国总统李在明将于8月25日在华盛顿会面</title>
       <link>https://www.panewslab.com/zh/articles/5ef8dfd7-bf57-499b-ba8a-ff0dc9449b95</link>
       <description>白宫：特朗普和韩国总统李在明将于8月25日在华盛顿会面</description>
-      <pubDate>Tue, 12 Aug 2025 13:49:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:12:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5ef8dfd7-bf57-499b-ba8a-ff0dc9449b95</guid>
       <category>crypto</category>
@@ -92,7 +158,7 @@
       <title>Transak完成1600万美元战略融资，IDG资本与Tether领投</title>
       <link>https://www.panewslab.com/zh/articles/544b448d-50a7-406e-9237-24f650137e5d</link>
       <description>Transak完成1600万美元战略融资，IDG资本与Tether领投</description>
-      <pubDate>Tue, 12 Aug 2025 13:47:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:10:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/544b448d-50a7-406e-9237-24f650137e5d</guid>
       <category>crypto</category>
@@ -109,7 +175,7 @@
       <title>Grayscale推出DeepBook与Walrus信托，布局Sui生态关键协议</title>
       <link>https://www.panewslab.com/zh/articles/fa72e82c-c551-4c1c-9b2f-e46902778874</link>
       <description>Grayscale推出DeepBook与Walrus信托，布局Sui生态关键协议</description>
-      <pubDate>Tue, 12 Aug 2025 13:45:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:08:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fa72e82c-c551-4c1c-9b2f-e46902778874</guid>
       <category>crypto</category>
@@ -124,7 +190,7 @@
       <title>布拉德：上周与贝森特交谈过，乐意按照财长贝森特的意愿行事</title>
       <link>https://www.panewslab.com/zh/articles/da302b55-f557-428a-9108-304d441ec890</link>
       <description>布拉德：上周与贝森特交谈过，乐意按照财长贝森特的意愿行事</description>
-      <pubDate>Tue, 12 Aug 2025 13:43:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:06:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/da302b55-f557-428a-9108-304d441ec890</guid>
       <category>crypto</category>
@@ -139,7 +205,7 @@
       <title>美国CPI公布后，美联储9月降息的概率涨至90.1%</title>
       <link>https://www.panewslab.com/zh/articles/1fa18215-2542-4141-b8ae-76712eac597e</link>
       <description>美国CPI公布后，美联储9月降息的概率涨至90.1%</description>
-      <pubDate>Tue, 12 Aug 2025 13:41:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:04:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1fa18215-2542-4141-b8ae-76712eac597e</guid>
       <category>crypto</category>
@@ -154,7 +220,7 @@
       <title>越南将在国际金融中心试点数字资产交易所</title>
       <link>https://www.panewslab.com/zh/articles/c544bb04-cc2b-4b61-b005-9d7dc48e2e17</link>
       <description>越南将在国际金融中心试点数字资产交易所</description>
-      <pubDate>Tue, 12 Aug 2025 13:39:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:02:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c544bb04-cc2b-4b61-b005-9d7dc48e2e17</guid>
       <category>crypto</category>
@@ -169,7 +235,7 @@
       <title>美联储9月将降息25个基点的可能性超80%</title>
       <link>https://www.panewslab.com/zh/articles/d5d078cf-93d8-410e-9ee0-f2c3818bf235</link>
       <description>美联储9月将降息25个基点的可能性超80%</description>
-      <pubDate>Tue, 12 Aug 2025 13:37:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 14:00:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d5d078cf-93d8-410e-9ee0-f2c3818bf235</guid>
       <category>crypto</category>
@@ -184,7 +250,7 @@
       <title>Gate Launchpool 重磅升级，推出全新“双重收益”计划</title>
       <link>https://www.panewslab.com/zh/articles/ffa87ebf-a798-4fe3-b3f2-51c3f8f85b07</link>
       <description>Gate Launchpool 重磅升级，推出全新“双重收益”计划</description>
-      <pubDate>Tue, 12 Aug 2025 13:35:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 13:58:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ffa87ebf-a798-4fe3-b3f2-51c3f8f85b07</guid>
       <category>crypto</category>
@@ -199,7 +265,7 @@
       <title>分析：美国7月消费者价格温和上涨，但数据质量担忧加剧</title>
       <link>https://www.panewslab.com/zh/articles/0b941db5-b948-4d41-a8ef-f9df60e28bde</link>
       <description>分析：美国7月消费者价格温和上涨，但数据质量担忧加剧</description>
-      <pubDate>Tue, 12 Aug 2025 13:33:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 13:56:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0b941db5-b948-4d41-a8ef-f9df60e28bde</guid>
       <category>crypto</category>
@@ -214,7 +280,7 @@
       <title>ETH突破4400美元，日内涨幅 1.63%</title>
       <link>https://www.panewslab.com/zh/articles/l3rly7nv</link>
       <description>ETH突破4400美元，日内涨幅 1.63%</description>
-      <pubDate>Tue, 12 Aug 2025 13:31:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 13:54:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/l3rly7nv</guid>
       <category>crypto</category>
@@ -231,7 +297,7 @@
       <title>美国核心CPI升至五个月高位，高于预期</title>
       <link>https://www.panewslab.com/zh/articles/7962b822-497b-4f74-90bf-a645c4364a38</link>
       <description>美国核心CPI升至五个月高位，高于预期</description>
-      <pubDate>Tue, 12 Aug 2025 13:29:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 13:52:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7962b822-497b-4f74-90bf-a645c4364a38</guid>
       <category>crypto</category>
@@ -246,71 +312,9 @@
       <title>BitMine拟增发200亿美元普通股</title>
       <link>https://www.panewslab.com/zh/articles/6c5d5e0b-3ab9-407a-94c9-92d4f15b9412</link>
       <description>BitMine拟增发200亿美元普通股</description>
-      <pubDate>Tue, 12 Aug 2025 13:27:41 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 13:50:19 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6c5d5e0b-3ab9-407a-94c9-92d4f15b9412</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>ETHZilla披露持有82,186枚ETH，市值约3.49亿美元</title>
-      <link>https://www.panewslab.com/zh/articles/590063b0-987f-4e48-b971-bc21e0fa3001</link>
-      <description>ETHZilla披露持有82,186枚ETH，市值约3.49亿美元</description>
-      <pubDate>Tue, 12 Aug 2025 13:25:41 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/590063b0-987f-4e48-b971-bc21e0fa3001</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>EToro二季度净利润达3020万美元，资产管理规模同比增长54%</title>
-      <link>https://www.panewslab.com/zh/articles/bf928bdf-e7ce-42de-a9d9-96a3e94f1eab</link>
-      <description>EToro二季度净利润达3020万美元，资产管理规模同比增长54%</description>
-      <pubDate>Tue, 12 Aug 2025 13:23:41 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bf928bdf-e7ce-42de-a9d9-96a3e94f1eab</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>1Kosmos完成5700万美元B轮融资，推进生物识别身份安全</title>
-      <link>https://www.panewslab.com/zh/articles/59c8feb8-6816-49a4-8e8a-577a36a09e15</link>
-      <description>1Kosmos完成5700万美元B轮融资，推进生物识别身份安全</description>
-      <pubDate>Tue, 12 Aug 2025 13:21:41 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/59c8feb8-6816-49a4-8e8a-577a36a09e15</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Revolut已正式上线PARTI代币</title>
-      <link>https://www.panewslab.com/zh/articles/a8c7b1cc-a411-4ec7-bf3d-090a237d6434</link>
-      <description>Revolut已正式上线PARTI代币</description>
-      <pubDate>Tue, 12 Aug 2025 13:19:41 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a8c7b1cc-a411-4ec7-bf3d-090a237d6434</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
