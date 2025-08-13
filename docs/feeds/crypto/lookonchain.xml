@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 13:42:58 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 13:42:58 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 13:59:32 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 13:59:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>US Stock Market&apos;s Three Major Indexes Open Higher, Cryptocurrency-related Stocks Experience Broad Gains</title>
-      <link>https://www.lookonchain.com/feeds/24442</link>
-      <description>On August 13th, based on Rockflow market data, at the opening of the U.S. stock market, the Dow increased by 0.4%, the S&amp;P 500 rose by 0.3%, and the Nasdaq Composite went up by 0.38%. U.S. stock market cryptocurrency concept stocks witnessed a general rise, including:· Sharplink Gaming rose by 4.52%;· Bitmine rose by 10.27%;· Strategy rose by 0.61%;· Coinbase rose by 3.01%;· HOOD rose by 0.90%;· BTCS rose by 1.98%.</description>
-      <pubDate>Wed, 13 Aug 2025 13:41:06 +0000</pubDate>
+      <title>LookOnChain: Bitcoin Surges Above $121,000</title>
+      <link>https://www.lookonchain.com/feeds/24444</link>
+      <description>On August 13th, according to HTX market data, Bitcoin saw a rebound and managed to break through $121,000, registering a 24-hour gain of 2.42%.</description>
+      <pubDate>Wed, 13 Aug 2025 13:56:40 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24442</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24444</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,13 +28,54 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Pendle TVL Surpasses $9 Billion, Hits All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/24445</link>
+      <description>On August 13th, Pendle TVL exceeded $9 billion and reached a brand new all-time high. Among this total, $6.4 billion is in PTs.Yesterday, Aave raised the limit of PT-USDe (September 2025) by $600 million, and this entire increase was completely utilized. As a consequence, Pendle&apos;s TVL using PT as collateral rocketed to a brand new all-time high of $4.6 billion.</description>
+      <pubDate>Wed, 13 Aug 2025 13:56:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24445</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Sharplink LSETH Position Unrealized PnL has reached $323 million</title>
+      <link>https://www.lookonchain.com/feeds/24443</link>
+      <description>On August 13th, as reported by Cointelegraph, it was disclosed that the unrealized profit and loss of the LSETH held by Sharplink Gaming amounts to $323 million.BlockBeats Note: LSETH is a kind of Liquid Staking Derivative (LSD), representing a liquidity voucher obtained by staking Ethereum (ETH). Its core function is to enable users to continuously earn ETH staking rewards while maintaining the liquidity of assets. They can further participate in yield stacking or trading through DeFi protocols.</description>
+      <pubDate>Wed, 13 Aug 2025 13:48:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24443</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
 
     </item>
     <item>
       <title>A whale who accumulated Ethereum last November has now taken profit on the entire position, making over $7.5 million.</title>
       <link>https://www.lookonchain.com/feeds/24441</link>
       <description>On August 13th, according to the monitoring of @EmberCN, Whale 0xe42...08A was noticed to have accumulated 6,918 ETH when the price was $3,613 on November 30 of last year. After holding for 9 months, one hour ago, it began to split in three transactions and transferred all the tokens to Binance, finally achieving a profit of $7.52 million.</description>
-      <pubDate>Wed, 13 Aug 2025 13:40:06 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 13:40:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24441</guid>
       <category>crypto</category>
@@ -53,10 +94,27 @@
 
     </item>
     <item>
+      <title>US Stock Market&apos;s Three Major Indexes Open Higher, Cryptocurrency-related Stocks Experience Broad Gains</title>
+      <link>https://www.lookonchain.com/feeds/24442</link>
+      <description>On August 13th, based on Rockflow market data, at the opening of the U.S. stock market, the Dow increased by 0.4%, the S&amp;P 500 rose by 0.3%, and the Nasdaq Composite went up by 0.38%. U.S. stock market cryptocurrency concept stocks witnessed a general rise, including:· Sharplink Gaming rose by 4.52%;· Bitmine rose by 10.27%;· Strategy rose by 0.61%;· Coinbase rose by 3.01%;· HOOD rose by 0.90%;· BTCS rose by 1.98%.</description>
+      <pubDate>Wed, 13 Aug 2025 13:40:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24442</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>North Korean Hackers Attempt to Apply to Binance Daily, Forge Large Number of Resumes</title>
       <link>https://www.lookonchain.com/feeds/24440</link>
       <description>On August 13th, Binance&apos;s Chief Security Officer Jimmy Su stated that the exchange receives a significant number of forged resumes on a daily basis, and he is confident that these resumes are all written by potential North Korean attackers. In his opinion, state-level attackers from North Korea pose the greatest threat faced by companies in the crypto industry at present. Su explained that North Korean attackers have been a problem throughout Binance&apos;s eight-year operating history, but recently, their attack methods have been upgraded in the crypto field.&quot;Currently, the greatest threat to the crypto industry is state-level attackers, especially North Korea&apos;s Lazarus Group,&quot; Su added. &quot;In the past two to three years, they have focused on the crypto field and have been quite successful in their actions.&quot; He also mentioned, &quot;Almost all major North Korean hacker incidents involve someone posing as an employee to assist in the attack.&quot;North Korean state-level attackers have two common a</description>
-      <pubDate>Wed, 13 Aug 2025 13:33:06 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 13:32:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24440</guid>
       <category>crypto</category>
@@ -73,7 +131,7 @@
       <title>AguilaTrades is shorting Ethereum, shorting 5000 ETH with 15x leverage</title>
       <link>https://www.lookonchain.com/feeds/24439</link>
       <description>Update: On August 13th, based on monitoring, the ETH long and BTC short positions of the contract whale trader AguilaTrades this morning only endured for 2 hours. It exited with a profit of $250,000. Subsequently, a shift to an ETH long position led to a loss of $107,000 before being stopped out.Currently, AguilaTrades has opened a 15x leverage ETH short position, entering at $4,684.59 for 5,000 ETH. A limit sell order of 10,000 ETH is still pending in the [4740 - 4840] range.</description>
-      <pubDate>Wed, 13 Aug 2025 13:24:06 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 13:24:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24439</guid>
       <category>crypto</category>
@@ -92,7 +150,7 @@
       <title>A whale has decided to take some profits from their Ethereum accumulation in November last year, depositing a total of 5001 ETH into a CEX.</title>
       <link>https://www.lookonchain.com/feeds/24438</link>
       <description>On August 13th, based on EmberCN&apos;s monitoring, Whale 0xe42...08A accumulated 6918 ETH at a price of $3,613 on November 30 of the previous year. After holding for 9 months, just half an hour ago, the whale partially realized profits by depositing a total of 5001 ETH into Binance (approximately $23.49 million).</description>
-      <pubDate>Wed, 13 Aug 2025 13:09:06 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 13:08:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24438</guid>
       <category>crypto</category>
@@ -110,29 +168,10 @@
 
     </item>
     <item>
-      <title>In the last 24 hours, CEX net inflow was 138.91 BTC</title>
-      <link>https://www.lookonchain.com/feeds/24437</link>
-      <description>August 13th. According to Coinglass data, during the past 24 hours, the total net inflow of BTC on CEX was 138.91 BTC. The top three CEX exchanges in terms of inflow volume are as follows:- Binance: A net inflow of 820.58 BTC.- Bitstamp: A net inflow of 574.31 BTC.- Coinbase Pro: A net inflow of 453.80 BTC.In addition, Bitfinex had a net outflow of 710.24 BTC, ranking first in the outflow list.</description>
-      <pubDate>Wed, 13 Aug 2025 13:09:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24437</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
       <title>Sign Foundation Completes $12 Million SIGN Token Buyback</title>
       <link>https://www.lookonchain.com/feeds/24436</link>
       <description>On August 13th, the Sign Foundation has accomplished a $12 million buyback of SIGN tokens:- $8 million was purchased through the open market, and 117 million SIGN was obtained;- $4 million was settled through private negotiations.The repurchased tokens will be utilized to: support partnerships with publicly listed companies, support new exchange listings, and expand the Orange Dynasty project.</description>
-      <pubDate>Wed, 13 Aug 2025 13:08:06 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 13:08:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24436</guid>
       <category>crypto</category>
@@ -147,46 +186,12 @@
 
     </item>
     <item>
-      <title>If a ceasefire agreement is reached, Ukraine&apos;s European allies are considering easing sanctions on Russia.</title>
-      <link>https://www.lookonchain.com/feeds/24435</link>
-      <description>On August 13th, as per a source close to the President of the European Commission, Ukraine&apos;s allies are contemplating a gradual relaxation of sanctions against Russia provided a comprehensive ceasefire agreement can be reached.The source further stated that in case of a violation of the agreement, sanctions will be reinstated. They aspire to promptly reach a 15-day ceasefire agreement (during which sanctions will remain in force), following which the conflict in Ukraine can be more systematically paused.In addition, a source from the Italian government indicated that they will advocate for European participation in Trump&apos;s discussion with Putin later today through a video call regarding him and the Ukraine issue. An Italian diplomat elucidated, &quot;He has been constantly urging European countries to enhance military spending, thus we must be an integral part of these decisions.&quot; The source added that during the call, Italy will underscore the necessity of definite military, economic, an</description>
-      <pubDate>Wed, 13 Aug 2025 13:00:06 +0000</pubDate>
+      <title>In the last 24 hours, CEX net inflow was 138.91 BTC</title>
+      <link>https://www.lookonchain.com/feeds/24437</link>
+      <description>August 13th. According to Coinglass data, during the past 24 hours, the total net inflow of BTC on CEX was 138.91 BTC. The top three CEX exchanges in terms of inflow volume are as follows:- Binance: A net inflow of 820.58 BTC.- Bitstamp: A net inflow of 574.31 BTC.- Coinbase Pro: A net inflow of 453.80 BTC.In addition, Bitfinex had a net outflow of 710.24 BTC, ranking first in the outflow list.</description>
+      <pubDate>Wed, 13 Aug 2025 13:08:40 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24435</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Standard Chartered: The stablecoin industry is expected to grow by about 8 times by the end of 2028, with stablecoins currently representing 40% of all blockchain transaction fees.</title>
-      <link>https://www.lookonchain.com/feeds/24434</link>
-      <description>On August 13th, Standard Chartered Bank declared that currently stablecoins make up 40% of all blockchain transaction fees. The Ethereum network accounts for more than half of all stablecoins. It is anticipated that by the end of 2028, the stablecoin industry will expand by approximately 8 times. (FX678)</description>
-      <pubDate>Wed, 13 Aug 2025 12:56:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24434</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitdeer&apos;s self-mined Bitcoin production in July reached 282 BTC, representing a month-on-month growth of approximately 39%.</title>
-      <link>https://www.lookonchain.com/feeds/24433</link>
-      <description>On August 13th, the mining firm Bitdeer Technologies Group reported that the self-mined Bitcoin production in July came to 282 coins, showing a month-on-month growth of approximately 39%. This was mainly due to the deployment of SEALMINER miners, which led to a 35% increase in the self-mining hash rate to 22.3 EH/s.Furthermore, the company completed the 100 MW water-cooled conversion in Rockdale, Texas, USA, and added 159 MW of power in Bhutan and Norway. The SEALMINER A3 miner is anticipated to be mass-produced in September, with the next-generation SEAL04 chip aiming for an energy efficiency of 5 J/TH. Bitdeer&apos;s global power capacity has reached 1257 MW, and it is expected to expand further by the end of the year.</description>
-      <pubDate>Wed, 13 Aug 2025 12:49:06 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24433</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24437</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
