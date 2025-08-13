@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 01:39:15 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 01:39:15 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 03:12:15 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 03:12:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,82 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Market News: Sam Altman and OpenAI to Invest $250 Million to Support Brain-Computer Interface Company Merge Labs</title>
-      <link>https://www.lookonchain.com/feeds/24325</link>
-      <description>On August 13th, based on market information, Sam Altman and OpenAI are going to invest 250 million dollars to back the brain-machine interface startup Merge Labs, engaging in a competition with Musk&apos;s Neuralink. (Golden Ten)</description>
-      <pubDate>Wed, 13 Aug 2025 01:32:23 +0000</pubDate>
+      <title>Binance will list BFUSD and launch a BFUSD Zero Fee Promotion.</title>
+      <link>https://www.lookonchain.com/feeds/24343</link>
+      <description>On August 13th, as per official information, Binance is set to launch BFUSD on August 13th, 2025, at 22:00 (GMT + 8) and commence trading for the BFUSD/USDT pair. Furthermore, a zero fee promotion will be applicable for both BFUSD spot and margin trading pairs.</description>
+      <pubDate>Wed, 13 Aug 2025 03:09:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24325</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24343</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will launch PublicAI (PUBLIC) on August 15th. Eligible users can use Alpha Points to claim the airdrop.</title>
+      <link>https://www.lookonchain.com/feeds/24342</link>
+      <description>August 13th. According to official channels, Binance Alpha is set to become the inaugural platform to list PublicAI (PUBLIC) on August 15th. Once Alpha trading commences, eligible users can access the Alpha event page to receive an airdrop by utilizing Alpha Points. Further details will be disclosed at a later time.</description>
+      <pubDate>Wed, 13 Aug 2025 03:09:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24342</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Trader Eugene: ETH Could Hit an All-Time High Within 3 Days</title>
+      <link>https://www.lookonchain.com/feeds/24341</link>
+      <description>August 13th. Trader Eugene Ng Ah Sio posted on his personal channel, &quot;It seems that ETH is likely to break through the $4800 all-time high within 3 days.&quot;</description>
+      <pubDate>Wed, 13 Aug 2025 02:56:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24341</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Shitcoin Season Index Rises to 35</title>
+      <link>https://www.lookonchain.com/feeds/24340</link>
+      <description>On August 13th, according to the data from Coinmarketcap, the Altcoin Season Index has rebounded to 35. It had dropped to 29 on August 11th. This index shows that among the top 100 cryptocurrencies by market capitalization, approximately 35 projects have outperformed Bitcoin in terms of price growth over the past 90 days.Note: The CMC Altcoin Season Index is a real-time indicator utilized to evaluate whether the cryptocurrency market is currently in an altcoin-dominated season. This index is based on the performance of the top 100 altcoins in relation to Bitcoin over the past 90 days.</description>
+      <pubDate>Wed, 13 Aug 2025 02:48:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24340</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Solana-Based Meme Coin WORTHLESS Surpasses $20 Million Market Cap, Hits All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/24339</link>
+      <description>On August 13th, according to GMGN data, the Meme coin WORTHLESS based on Solana surged by more than 48% in the past 24 hours. Its market capitalization exceeded $20 million and reached a historical high of $20.32 million, with a 24-hour trading volume of $2.8 million.The Worthless Coin (WORTHLESS) is named based on its core positioning of &quot;worthlessness&quot;. This token is characterized by &quot;lacking utility and value&quot; and aims to satirize the seriousness and over-commitment of certain projects in the cryptocurrency market.BlockBeats reminds users that Meme coins often lack practical use cases and show high price volatility. Therefore, investment should be approached with caution.</description>
+      <pubDate>Wed, 13 Aug 2025 02:40:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24339</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -32,12 +102,88 @@
 
     </item>
     <item>
-      <title>Analysis: Ethereum faces a key resistance at $4700, while Bitcoin encounters a significant resistance at $127,000</title>
-      <link>https://www.lookonchain.com/feeds/24324</link>
-      <description>August 13th, based on the indicator of the +1 standard deviation level of the realized price (which usually indicates the start of increasing selling pressure), glassnode drew a conclusion about the current Ethereum trend. The $4700 price point has become a key resistance level that needs to be monitored. A decisive breakthrough at this level may indicate the beginning of a more speculative phase, but if the sentiment changes, it will also increase the risk of a sharp reversal.This level holds historical importance. It served as a ceiling during the rebound in March 2024 and has acted as resistance multiple times during the 2020-21 bull market cycle. In the past, when Ethereum broke through this range, it was usually accompanied by high investor enthusiasm and a fragile market structure.For Bitcoin, glassnode uses the Short-Term Holder (STH) cost basis, which represents the average acquisition price of new market participants. This cost basis has historically marked the boundary be</description>
-      <pubDate>Wed, 13 Aug 2025 01:32:23 +0000</pubDate>
+      <title>With Ethereum surpassing $4600, two long whales are each realizing a floating profit of over $24 million</title>
+      <link>https://www.lookonchain.com/feeds/24336</link>
+      <description>On August 13th, as monitored by Onchain Lens, with Ethereum breaking through $4600, two whales reaped significant profits from their long positions.Whale 1: It held a position worth $123 million and had a 25-times leverage. Currently, it is making a profit of $24.5 million.Whale 2: It held a position worth $138 million and had a 10-times leverage. Currently, it is making a profit of $24.3 million.</description>
+      <pubDate>Wed, 13 Aug 2025 02:32:23 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24324</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24336</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Data: Ethereum Reserve Holdings and ETF Holdings Already Exceed 8% of Ethereum Total Supply</title>
+      <link>https://www.lookonchain.com/feeds/24338</link>
+      <description>On August 13th, based on the data from strategicethreserve.xyz, the current Ethereum reserve held by the company and various ETH spot ETFs amounts to 2.95% and 5.13% of the total supply respectively. The total ratio now surpasses 8% of the overall Ethereum supply.</description>
+      <pubDate>Wed, 13 Aug 2025 02:32:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24338</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Binance Will Support Terra Luna Classic (LUNC) Network Upgrade</title>
+      <link>https://www.lookonchain.com/feeds/24337</link>
+      <description>August 13th, according to official information, Binance is anticipated to halt the token deposit and withdrawal services for the Terra Luna Classic (LUNC) network at 22:30 (GMT+8) on August 15, 2025, in order to support its network upgrade.The project team will carry out the network upgrade at block height 24,660,000 (which is expected to be at 23:30 GMT+8 on August 15, 2025).</description>
+      <pubDate>Wed, 13 Aug 2025 02:32:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24337</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Kenyan Web3 Payment Platform HoneyCoin Raises $4.9 Million in Funding, Led by Flourish Ventures</title>
+      <link>https://www.lookonchain.com/feeds/24334</link>
+      <description>On August 13th, according to BitKE, Kenya&apos;s Web3 payment platform HoneyCoin announced the completion of a $4.9 million financing round, with Flourish Ventures taking the lead. The funds will be utilized to expand operations, enhance product lines, and onboard senior executives. David Nandwa, the founder of HoneyCoin, established the company at the age of 19 in 2020. The monthly transaction volume of the platform has now exceeded $1.5 billion, serving 350 corporate clients and hundreds of thousands of users.HoneyCoin achieves instant or same-day settlement through a stablecoin-compatible platform and supports business in 45 countries. It has formed partnerships with institutions such as MoneyGram, UBA Bank, and Stripe. This financing round will assist in further expanding the team and ensuring regulatory compliance.</description>
+      <pubDate>Wed, 13 Aug 2025 02:24:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24334</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Norway&apos;s Sovereign Wealth Fund NBIM Increases Indirect Bitcoin Exposure, Current Exposure Reaches 7,161 BTC</title>
+      <link>https://www.lookonchain.com/feeds/24335</link>
+      <description>On August 13th, based on K33 Research data, Norway&apos;s sovereign wealth fund NBIM, which has a total of $1.7 trillion in assets under management, raised its indirect Bitcoin exposure from 3,821 BTC at the end of 2024 to 7,161 BTC in 2025, representing a 192% increase. (Cointelegraph)</description>
+      <pubDate>Wed, 13 Aug 2025 02:24:23 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24335</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -48,158 +194,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Solana-based AI Concept Coin BUZZ Surges Over 100% in a Short Period, Current Market Cap Reaches $21.1 Million</title>
-      <link>https://www.lookonchain.com/feeds/24322</link>
-      <description>On August 13th, according to the GMGN market data, the Solana-based AI concept token BUZZ surged by more than 100% in a short time, and its current market capitalization is $21.1 million.In April of this year, Jason Hedman, the founder of Hive AI (BUZZ), posted on social media, expressing his sincere gratitude to the community for all the support and enthusiasm shown to him. He announced that he would transfer the ownership of the project to @prismoonprismo (with 3,014 followers on X), who will lead the project&apos;s long-term development. He is looking forward to seeing the new leader&apos;s vision and leadership driving the project forward.BlockBeats reminds users that the prices of related tokens are highly volatile, and users should invest carefully.</description>
-      <pubDate>Wed, 13 Aug 2025 01:24:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24322</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Surpasses Netflix in Market Cap, Rises to 25th in Global Asset Market Cap Ranking</title>
-      <link>https://www.lookonchain.com/feeds/24323</link>
-      <description>On August 13th, based on the data of 8Marketcap, when ETH briefly broke through $4600, the market capitalization of ETH is currently reported to be $556 billion, surpassing Netflix and ranking 25th in the global asset market capitalization.</description>
-      <pubDate>Wed, 13 Aug 2025 01:24:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24323</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>glassnode: Top Altcoin Contract Holdings Reach All-Time High, Increased Leverage Raises Market Vulnerability</title>
-      <link>https://www.lookonchain.com/feeds/24321</link>
-      <description>On August 13th, based on glassnode data, the current holdings of the top altcoin contracts have reached $47 billion, reaching a new all-time high.glassnode&apos;s analysis pointed out that this situation highlights the increase in market leverage, making it more prone to significant price fluctuations. The rising leverage will amplify both upward and downward trends, creating a more fragile market environment.</description>
-      <pubDate>Wed, 13 Aug 2025 01:16:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24321</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Pantera Capital Discloses Over $300 Million Investment in Digital Asset Treasury Company</title>
-      <link>https://www.lookonchain.com/feeds/24320</link>
-      <description>On August 13th, Pantera Capital made its first disclosure that it has cumulatively invested more than $3 billion in Digital Asset Treasury (DAT) companies. These companies hold a significant amount of crypto assets and increase their holdings per token through yield strategies. BitMine Immersion, as a key holding of Pantera, became the world&apos;s third-largest DAT company after launching an Ethereum treasury strategy. It holds 1.15 million ETH with a market value of approximately $4.9 billion.Pantera pointed out that in the first month, the per-token amount of ETH in BitMine grew by about 330%, mainly due to super-value issuance and staking rewards. (The Block)</description>
-      <pubDate>Wed, 13 Aug 2025 01:08:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24320</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid Whale Significantly Reduces Short Position, While Another Whale Suffers Major Losses of Over $10 Million from Shorting XRP and SUI</title>
-      <link>https://www.lookonchain.com/feeds/24319</link>
-      <description>August 13th. Based on the real-time monitoring of HyperInsight, in the past 6 hours, several whales in the Hyperliquid contract market have been frequently engaging in trading. Some of the bearish whales have decided to significantly reduce their short positions while still choosing to &quot;hodl&quot;:The whale with the address starting with 0x7fdafde:The short position of FARTCOIN has increased by $810,000, and the current unrealized profit is $2.8 million with a liquidation price of $2.632.The short position of ETH currently has an unrealized loss of -$5.98 million, and the entry price is $4,037.The whale with the address starting with 0x8af700:The short position of SUI currently has an unrealized loss of -$3.51 million, and the entry price is $2.32.The short position of XRP currently has an unrealized loss of -$7.15 million, and the entry price is $2.11.The whale with the address starting with 0x2ba553: The long position of</description>
-      <pubDate>Wed, 13 Aug 2025 01:08:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24319</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A Whale Shorted ETH 20x, Losing Over $26 Million</title>
-      <link>https://www.lookonchain.com/feeds/24318</link>
-      <description>On August 13th, as monitored by LookOnChain, Whale 0x8c58, who took a short position on ETH with a 20x leverage, has suffered a loss of more than 26 million USD. If he does not add more margin in a timely manner, he will be liquidated when ETH reaches 5002.3 USD.</description>
-      <pubDate>Wed, 13 Aug 2025 01:08:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24318</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>DeFi Development Q2 Financial Data: Holding 1.3 Million SOL, Daily Earnings Approximately $63,000</title>
-      <link>https://www.lookonchain.com/feeds/24316</link>
-      <description>On Tuesday, August 13th, DeFi Development Corp (DDC) issued a shareholder letter. It was disclosed that the company currently possesses more than 1.3 million SOL tokens, with a total value of nearly $250 million. The report indicates that within just the first two weeks of August, the company has increased its SOL holdings by 4,500 tokens.DDC&apos;s second-quarter financial data shows that the quarterly revenue is $1.98 million, with a year-on-year increase of 395%; the net profit reached $15.4 million, compared to a loss of $0.8 million in the same period last year. The company anticipates that its staking and validator business will achieve a 10% annualized return. Based on the current holdings, this would generate approximately $63,000 of SOL-denominated revenue per day. (The Block)</description>
-      <pubDate>Wed, 13 Aug 2025 01:00:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24316</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum is only 5.14% away from its all-time high. If it reaches ATH, the short liquidation pressure will reach 1.23 billion.</title>
-      <link>https://www.lookonchain.com/feeds/24317</link>
-      <description>On August 13th, with Ethereum reaching a price of over $4600 this morning, it is merely 5.14% away from its all-time high of $4868.According to data from Coinglass, if Ethereum breaks through $4868, the cumulative short liquidation intensity on mainstream CEX will amount to $1.23 billion.On the other hand, if Ethereum drops below $4500, the cumulative long liquidation intensity on mainstream CEX will reach $1.252 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what extent the target price will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will have a more intense response due to a surge in liquidity.</description>
-      <pubDate>Wed, 13 Aug 2025 01:00:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24317</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
