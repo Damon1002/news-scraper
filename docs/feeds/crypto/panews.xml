@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 10:01:24 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 10:01:24 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 10:34:46 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 10:34:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,89 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>疑似HashKey Capital地址50分钟前将7300枚ETH转至币安，价值约3386万美元</title>
+      <link>https://www.panewslab.com/zh/articles/a7c36c50-53b7-4aac-98d7-414a0e9ffbf6</link>
+      <description>疑似HashKey Capital地址50分钟前将7300枚ETH转至币安，价值约3386万美元</description>
+      <pubDate>Wed, 13 Aug 2025 10:34:46 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a7c36c50-53b7-4aac-98d7-414a0e9ffbf6</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>FTX债权人信息泄露，警惕钓鱼邮件</title>
+      <link>https://www.panewslab.com/zh/articles/c4bc17a2-2216-46a8-b1e0-a8f820725fee</link>
+      <description>FTX债权人信息泄露，警惕钓鱼邮件</description>
+      <pubDate>Wed, 13 Aug 2025 10:32:46 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c4bc17a2-2216-46a8-b1e0-a8f820725fee</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Gate已上线AIO及OKB永续合约交易</title>
+      <link>https://www.panewslab.com/zh/articles/77f5acd2-54f9-4f8e-9d60-c0447b56f0df</link>
+      <description>Gate已上线AIO及OKB永续合约交易</description>
+      <pubDate>Wed, 13 Aug 2025 10:30:46 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/77f5acd2-54f9-4f8e-9d60-c0447b56f0df</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>黄立成25倍杠杆开空1100枚ETH，价值约516万美元</title>
+      <link>https://www.panewslab.com/zh/articles/afc06805-87ee-406a-bc70-135aa29f9d0e</link>
+      <description>黄立成25倍杠杆开空1100枚ETH，价值约516万美元</description>
+      <pubDate>Wed, 13 Aug 2025 10:28:46 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/afc06805-87ee-406a-bc70-135aa29f9d0e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>币安钱包将于8月14日推出Reveel (REVA)预发行及空投活动</title>
+      <link>https://www.panewslab.com/zh/articles/32758ecc-d457-49d9-af37-edd89a557013</link>
+      <description>币安钱包将于8月14日推出Reveel (REVA)预发行及空投活动</description>
+      <pubDate>Wed, 13 Aug 2025 10:26:46 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/32758ecc-d457-49d9-af37-edd89a557013</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>ETH突破4700美元，日内涨幅 5.09%</title>
       <link>https://www.panewslab.com/zh/articles/22yv37t0</link>
       <description>ETH突破4700美元，日内涨幅 5.09%</description>
-      <pubDate>Wed, 13 Aug 2025 10:01:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:24:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/22yv37t0</guid>
       <category>crypto</category>
@@ -34,7 +113,7 @@
       <title>或受币安合约将上线影响，AIO、XNY短时均上涨超20%</title>
       <link>https://www.panewslab.com/zh/articles/84f665d5-a99b-4877-9010-d3d4d7b22643</link>
       <description>或受币安合约将上线影响，AIO、XNY短时均上涨超20%</description>
-      <pubDate>Wed, 13 Aug 2025 09:59:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:22:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/84f665d5-a99b-4877-9010-d3d4d7b22643</guid>
       <category>crypto</category>
@@ -49,7 +128,7 @@
       <title>币安新增AIOUSDT和XNYUSDT永续合约</title>
       <link>https://www.panewslab.com/zh/articles/9c7176a8-2625-41f2-8a4f-bd7b5a628db8</link>
       <description>币安新增AIOUSDT和XNYUSDT永续合约</description>
-      <pubDate>Wed, 13 Aug 2025 09:57:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:20:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9c7176a8-2625-41f2-8a4f-bd7b5a628db8</guid>
       <category>crypto</category>
@@ -64,7 +143,7 @@
       <title>Lido TVL创历史新高达410亿美元</title>
       <link>https://www.panewslab.com/zh/articles/6ab2c3c6-d89e-45f9-bdba-5cf544e91910</link>
       <description>Lido TVL创历史新高达410亿美元</description>
-      <pubDate>Wed, 13 Aug 2025 09:55:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:18:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6ab2c3c6-d89e-45f9-bdba-5cf544e91910</guid>
       <category>crypto</category>
@@ -79,7 +158,7 @@
       <title>YGG于7月31日完成135 ETH的YGG回购，其资金储备价值3800万美元</title>
       <link>https://www.panewslab.com/zh/articles/02a07d0d-2c56-45a6-9f12-aaa01b845a55</link>
       <description>YGG于7月31日完成135 ETH的YGG回购，其资金储备价值3800万美元</description>
-      <pubDate>Wed, 13 Aug 2025 09:53:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:16:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/02a07d0d-2c56-45a6-9f12-aaa01b845a55</guid>
       <category>crypto</category>
@@ -96,7 +175,7 @@
       <title>DeFi教育基金与a16z呼吁SEC为区块链应用创建监管安全港</title>
       <link>https://www.panewslab.com/zh/articles/d252dcdb-4218-473a-9143-d9a98442d4b1</link>
       <description>DeFi教育基金与a16z呼吁SEC为区块链应用创建监管安全港</description>
-      <pubDate>Wed, 13 Aug 2025 09:51:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:14:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d252dcdb-4218-473a-9143-d9a98442d4b1</guid>
       <category>crypto</category>
@@ -112,7 +191,7 @@
       <title>某未知钱包在Algorand网络新增铸造1亿枚USDC</title>
       <link>https://www.panewslab.com/zh/articles/812df951-55da-4ca3-a75c-75cb0fbfb881</link>
       <description>某未知钱包在Algorand网络新增铸造1亿枚USDC</description>
-      <pubDate>Wed, 13 Aug 2025 09:49:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:12:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/812df951-55da-4ca3-a75c-75cb0fbfb881</guid>
       <category>crypto</category>
@@ -127,7 +206,7 @@
       <title>以太坊Fusaka主网计划于11月5日上线</title>
       <link>https://www.panewslab.com/zh/articles/258c9256-ec4f-41ce-9ba0-92f450a1a4ba</link>
       <description>以太坊Fusaka主网计划于11月5日上线</description>
-      <pubDate>Wed, 13 Aug 2025 09:47:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:10:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/258c9256-ec4f-41ce-9ba0-92f450a1a4ba</guid>
       <category>crypto</category>
@@ -144,7 +223,7 @@
       <title>火币HTX推出USDC赚币特别活动，申购活期产品享15%年化</title>
       <link>https://www.panewslab.com/zh/articles/81f2c181-5b18-4206-9dce-9b8c97a43dde</link>
       <description>火币HTX推出USDC赚币特别活动，申购活期产品享15%年化</description>
-      <pubDate>Wed, 13 Aug 2025 09:45:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:08:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/81f2c181-5b18-4206-9dce-9b8c97a43dde</guid>
       <category>crypto</category>
@@ -159,7 +238,7 @@
       <title>2015年OG自8月2日以来抛售5125枚ETH，4个月内累计抛售超14639枚ETH</title>
       <link>https://www.panewslab.com/zh/articles/d3e3a3a1-c9df-4a93-a1af-db35816366c5</link>
       <description>2015年OG自8月2日以来抛售5125枚ETH，4个月内累计抛售超14639枚ETH</description>
-      <pubDate>Wed, 13 Aug 2025 09:43:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:06:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d3e3a3a1-c9df-4a93-a1af-db35816366c5</guid>
       <category>crypto</category>
@@ -176,7 +255,7 @@
       <title>BTC突破120000美元，日内涨幅 0.09%</title>
       <link>https://www.panewslab.com/zh/articles/54h6d1gc</link>
       <description>BTC突破120000美元，日内涨幅 0.09%</description>
-      <pubDate>Wed, 13 Aug 2025 09:41:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:04:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/54h6d1gc</guid>
       <category>crypto</category>
@@ -193,7 +272,7 @@
       <title>Pumpfun过去4小时内回购了1.753亿枚PUMP，金额约70.5万美元</title>
       <link>https://www.panewslab.com/zh/articles/3cb17a24-9008-4ff3-ab2e-af2f7d2e18b8</link>
       <description>Pumpfun过去4小时内回购了1.753亿枚PUMP，金额约70.5万美元</description>
-      <pubDate>Wed, 13 Aug 2025 09:39:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:02:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3cb17a24-9008-4ff3-ab2e-af2f7d2e18b8</guid>
       <category>crypto</category>
@@ -208,7 +287,7 @@
       <title>Do Kwon面临最高25年监禁，量刑预计于12月公布</title>
       <link>https://www.panewslab.com/zh/articles/e93a2637-7e3d-4467-921f-6225b7dfee64</link>
       <description>Do Kwon面临最高25年监禁，量刑预计于12月公布</description>
-      <pubDate>Wed, 13 Aug 2025 09:37:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:00:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e93a2637-7e3d-4467-921f-6225b7dfee64</guid>
       <category>crypto</category>
@@ -223,7 +302,7 @@
       <title>Bullish通过IPO募资11亿美元，超额认购逾20倍</title>
       <link>https://www.panewslab.com/zh/articles/f6202d45-9e7d-4227-99f3-ed2068f04f8c</link>
       <description>Bullish通过IPO募资11亿美元，超额认购逾20倍</description>
-      <pubDate>Wed, 13 Aug 2025 09:35:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 09:58:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f6202d45-9e7d-4227-99f3-ed2068f04f8c</guid>
       <category>crypto</category>
@@ -238,84 +317,9 @@
       <title>Metaplanet Q2财报显示资产与净利润均大幅增长</title>
       <link>https://www.panewslab.com/zh/articles/fde506b0-08c5-4113-8d56-643f8afdaa90</link>
       <description>Metaplanet Q2财报显示资产与净利润均大幅增长</description>
-      <pubDate>Wed, 13 Aug 2025 09:33:24 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 09:56:46 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fde506b0-08c5-4113-8d56-643f8afdaa90</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Arthur Hayes高位回购部分ENA仓位</title>
-      <link>https://www.panewslab.com/zh/articles/5a0b9a09-2d16-4c67-ad42-77cca149907d</link>
-      <description>Arthur Hayes高位回购部分ENA仓位</description>
-      <pubDate>Wed, 13 Aug 2025 09:31:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5a0b9a09-2d16-4c67-ad42-77cca149907d</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>或受OKB暴涨带动，中心化交易所平台币整体走强</title>
-      <link>https://www.panewslab.com/zh/articles/94e788a8-6f36-43d2-8e37-8addbc1e88a9</link>
-      <description>或受OKB暴涨带动，中心化交易所平台币整体走强</description>
-      <pubDate>Wed, 13 Aug 2025 09:29:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/94e788a8-6f36-43d2-8e37-8addbc1e88a9</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>白宫：英伟达AMD上缴15%在华收入，或扩大至更多公司</title>
-      <link>https://www.panewslab.com/zh/articles/57431b44-f837-43e1-9217-690742419746</link>
-      <description>白宫：英伟达AMD上缴15%在华收入，或扩大至更多公司</description>
-      <pubDate>Wed, 13 Aug 2025 09:27:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/57431b44-f837-43e1-9217-690742419746</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>港股欧科云链涨超26%，新火科技涨超35%</title>
-      <link>https://www.panewslab.com/zh/articles/bac073e9-602c-4bfb-a771-42e4c18ee39c</link>
-      <description>港股欧科云链涨超26%，新火科技涨超35%</description>
-      <pubDate>Wed, 13 Aug 2025 09:25:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bac073e9-602c-4bfb-a771-42e4c18ee39c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>OKX 8月15日销毁超6525万枚OKB后，代币总量将降至2100万枚</title>
-      <link>https://www.panewslab.com/zh/articles/f633e07c-2035-47b5-a8c0-b3c9f2cb7c16</link>
-      <description>OKX 8月15日销毁超6525万枚OKB后，代币总量将降至2100万枚</description>
-      <pubDate>Wed, 13 Aug 2025 09:23:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f633e07c-2035-47b5-a8c0-b3c9f2cb7c16</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>

@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 10:01:24 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 10:01:24 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 10:34:46 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 10:34:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,146 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Crypto Fear \&amp; Greed Index Rises to 73, Market Continues to Show ``Greed&apos;&apos; Sentiment</title>
+      <link>https://www.lookonchain.com/feeds/24409</link>
+      <description>On August 13th, according to alternative data, the Crypto Fear and Greed Index for today is 73 (yesterday it was 68), with a weekly average of 54, suggesting a continued &quot;greed&quot; sentiment in the market.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and encompasses the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends (10%).</description>
+      <pubDate>Wed, 13 Aug 2025 10:32:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24409</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>In the past 1 hour, Ethereum&apos;s Liquidation Volume reached $12.4786 million, while Bitcoin&apos;s Liquidation Volume was only $2.5879 million.</title>
+      <link>https://www.lookonchain.com/feeds/24408</link>
+      <description>August 13th. Based on Coinglass data, the liquidation amount of Ethereum in the past 1 hour reached $12.4786 million. During the same period, the Bitcoin liquidation amount was only $2.5879 million.The total network liquidation in the past 1 hour was $21.8129 million, including $0.8076 million in long liquidations and $21.0314 million in short liquidations.In the past 24 hours, a total of 114,518 people were liquidated globally, with a total liquidation amount of $533 million. The largest single liquidation took place on Binance - DOGEUSDT, amounting to $9.8217 million.</description>
+      <pubDate>Wed, 13 Aug 2025 10:32:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24408</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Withdrawal Acceleration, with a CEX Net Outflow of 182,400 in the past 24 hours</title>
+      <link>https://www.lookonchain.com/feeds/24407</link>
+      <description>On August 13th, with the market continuously surging in both price and popularity, Ethereum has exceeded $4700. In the past 24 hours, a total of 182,400 ETH has flowed out of CEXs. The top three outflow amounts are as follows:· Coinbase Pro, with an outflow of 138,400 ETH;· Kraken, with an outflow of 46,400 ETH;· OKX, with an outflow of 17,900 ETH.Furthermore, Bybit has witnessed an inflow of 27,700 ETH and ranks first in the list of inflows.</description>
+      <pubDate>Wed, 13 Aug 2025 10:24:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24407</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Dominance Drops to 59.12%, Declining Over 7% in the Past Month</title>
+      <link>https://www.lookonchain.com/feeds/24406</link>
+      <description>On August 13th, according to HTX market data, the market dominance of Bitcoin has decreased to 59.12%, reaching a new low since February, with a decline of more than 7% in the past month.</description>
+      <pubDate>Wed, 13 Aug 2025 10:24:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24406</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>If Ethereum Breaks All-Time High, Mainstream CEX Cumulative Short Liquidation Pressure Will Reach $1.199 Billion</title>
+      <link>https://www.lookonchain.com/feeds/24405</link>
+      <description>On August 13th, according to Coinglass data, if Ethereum were to break its all-time high, the total short liquidation intensity on mainstream CEXs would reach $1.199 billion.Conversely, if Ethereum were to drop below $4550, the total long liquidation intensity on mainstream CEXs would reach $2.128 billion.BlockBeats Note: The liquidation chart does not display the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart shows to what degree the target price will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that when the price is reached, there will be a more intense reaction due to a liquidity cascade.</description>
+      <pubDate>Wed, 13 Aug 2025 10:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24405</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>FOMC: Federal Reserve&apos;s September Rate Cut Expectation Boosts Ethereum&apos;s Momentum, Jackson Hole Symposium Next Focus</title>
+      <link>https://www.lookonchain.com/feeds/24404</link>
+      <description>August 13th: QCP issued its daily market observation, indicating that the US July CPI (Consumer Price Index) rose by 2.7% year-on-year, which was lower than the market&apos;s anticipation of 2.8%; the core CPI increased by 3.1% year-on-year, slightly higher than the expected 3.0%. The relatively moderate overall inflation data has reinforced the market&apos;s expectation that the Fed will initiate a rate-cutting cycle in September. Most market participants currently anticipate a 25-basis-point cut. The commodity inflation, which was previously expected to rise due to companies passing on higher costs to consumers, performed lower than anticipated this time.After the data release, the market&apos;s rate-cut expectations for 2025 remained unchanged. The pricing still reflects a rate-cut space of approximately 60 basis points. Despite the softening labor market and the market&apos;s expectation of a more dovish Fed chair in 2026, the terminal rate remains stable. Futures positions suggest that investors be</description>
+      <pubDate>Wed, 13 Aug 2025 10:08:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24404</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Ethereum Surges to $4700 on January 3, 2022, Up 9.53% in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/24403</link>
+      <description>On August 13th, according to HTX market data, Ethereum rose and touched $4700. It is currently trading at $4698, with a 24-hour increase of 9.53%.</description>
+      <pubDate>Wed, 13 Aug 2025 10:00:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24403</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Binance Futures will list OlaXBT (AIO) and Codatta (XNY) on its platform.</title>
       <link>https://www.lookonchain.com/feeds/24402</link>
       <description>August 13th. According to official channels, Binance is set to launch the AIOUSDT perpetual contract at 19:30 Beijing time today; and it will initiate the XNYUSDT perpetual contract at 19:45, with a leverage of up to 50x.</description>
-      <pubDate>Wed, 13 Aug 2025 09:48:32 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 09:48:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24402</guid>
       <category>crypto</category>
@@ -34,7 +170,7 @@
       <title>OKX has transferred 65.25 million OKB to a burn address, reducing the total supply of OKB to 21 million.</title>
       <link>https://www.lookonchain.com/feeds/24401</link>
       <description>On August 13th, as monitored by on-chain data analyst Yujin, the 65,256,712 OKB announced to be burned this time by OKX was all transferred to the burn address 10 minutes ago. Currently, the burn address holds 279 million OKB. This indicates that the total supply of OKB has now been reduced to 21 million.</description>
-      <pubDate>Wed, 13 Aug 2025 09:40:32 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 09:40:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24401</guid>
       <category>crypto</category>
@@ -53,7 +189,7 @@
       <title>US Stock Crypto Stocks See Marginal Pre-market Gain, Only CRCL Down 4.85%</title>
       <link>https://www.lookonchain.com/feeds/24400</link>
       <description>On August 13th, according to rockflow data, the pre-market trading of US cryptocurrency stocks showed slight increases. These included:Coinbase (COIN) with a pre-market increase of +0.75%.Circle (CRCL) with a pre-market decrease of -4.85%.MicroStrategy (MSTR) with a pre-market increase of +0.66%.Bitmine (BMNR) with a pre-market increase of +2.48%.BTCS (BTCS) with a pre-market increase of +1.32%.Bit Digital (BTBT) with a pre-market increase of +1.32%.SharpLink Gaming (SBET) with a pre-market increase of +1.91%.</description>
-      <pubDate>Wed, 13 Aug 2025 09:32:32 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 09:33:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24400</guid>
       <category>crypto</category>
@@ -64,136 +200,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Standard Chartered Bank has raised its end-of-year 2028 ETH price forecast to $25,000.</title>
-      <link>https://www.lookonchain.com/feeds/24399</link>
-      <description>August 13th: Standard Chartered Bank has lifted its year-end 2028 Ethereum price forecast to $25,000, as opposed to the prior forecast of $7,500. (Bloomberg Terminal)</description>
-      <pubDate>Wed, 13 Aug 2025 09:16:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24399</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The OG address holding ETH since 2015 has started taking profits, with an average purchase price of only $1.33.</title>
-      <link>https://www.lookonchain.com/feeds/24398</link>
-      <description>On August 13th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), an OG address that has been holding ETH since 2015 has begun to take profits. Since August 2nd of this year, this address has cumulatively sold 5125 ETH (approximately $20.13 million) through on-chain selling and exchanges&apos; deposits for selling. Over a period of nearly four months, the address has sold a total of 14,639.2 ETH (approximately $34.65 million). Currently, the address still holds 23,941 ETH, which is valued at $1.1 billion.This &quot;Fossil Hand&quot;&apos;s ETH was withdrawn in August 2015 from ShapeShift and Poloniex when the price was as low as $1.33.</description>
-      <pubDate>Wed, 13 Aug 2025 09:16:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24398</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>a16z Proposes Regulatory Safe Harbor for DeFi Project Websites and Apps to the US SEC</title>
-      <link>https://www.lookonchain.com/feeds/24397</link>
-      <description>On August 13th, as reported by Coindesk, the cryptocurrency investment firm a16z and the DeFi Education Fund are submitting a petition to the U.S. Securities and Exchange Commission (SEC) to provide a regulatory safe harbor for websites and applications used to access DeFi projects. The purpose is to offer protection to decentralized finance (DeFi) websites and mobile apps.This joint application submitted with the DeFi Education Fund on Wednesday comes at a time when the White House and SEC Chairman Gary Gensler have shown increased support for DeFi, encouraging the development of this cryptocurrency subsector without heavy regulatory constraints. A recent cryptocurrency report issued by the Trump administration included recommendations to allow &quot;certain DeFi service providers&quot; to be exempt from broker-dealer registration requirements.The proposal states: &quot;The core of the safe harbor guidance principles is that only those applications that do not pose the risks targeted by the brok</description>
-      <pubDate>Wed, 13 Aug 2025 09:08:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24397</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Gate Ventures teams up with Superteam UK and the Cambridge Blockchain Society to launch the Web3 (Open-web) &amp; AI Frontier Program</title>
-      <link>https://www.lookonchain.com/feeds/24396</link>
-      <description>On August 13th, Gate Ventures made an announcement about a joint initiative with the Solana Superteam UK and the Cambridge Blockchain Society. They are set to launch the Web3 (Open-web) &amp; AI Frontier Program. The main objective of this program is to promote academic exploration at the intersection of blockchain and artificial intelligence. It aims to empower and cultivate a new generation of innovative thinkers who look ahead.This program will offer funding support ranging from $100,000 to $1 million to university projects, such as those at Cambridge University. It will also provide industry mentorship and close cooperation with Solana ecosystem resources. With the support of leading industry institutions, this program will speed up the implementation and development of research-driven projects in blockchain infrastructure, decentralized finance (DeFi), and AI applications built on the Solana network.</description>
-      <pubDate>Wed, 13 Aug 2025 09:08:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24396</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>MEXC Win Contract Battle Officially Begins, with a Total Prize Pool of 10 Million USDT</title>
-      <link>https://www.lookonchain.com/feeds/24394</link>
-      <description>On August 13th, as per official channels, the MEXC Win Flame Battle Contract Team Tournament officially commenced. The total prize pool amounts to a maximum of 10 million USDT, and individuals have the potential to win up to 2 BTC.</description>
-      <pubDate>Wed, 13 Aug 2025 09:00:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24394</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Pump.fun Official has conducted a buyback of 175.3 million PUMP tokens from the market in the past 24 hours.</title>
-      <link>https://www.lookonchain.com/feeds/24393</link>
-      <description>On August 13th, as per the monitoring of LookOnChain, Pump.fun officially carried out a buyback of 175.3 million PUMP tokens from the market within the past 24 hours. This is equivalent to approximately $705,000.Up to now, Pump.fun has repurchased a total of 7.66 billion PUMP tokens (about $30.65 million, accounting for 0.766% of the total supply).</description>
-      <pubDate>Wed, 13 Aug 2025 09:00:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24393</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>162nd Ethereum Consensus Layer Core Developer Meeting: Fusaka Mainnet Scheduled to Launch on November 5th</title>
-      <link>https://www.lookonchain.com/feeds/24395</link>
-      <description>On August 13th, according to Etherworld, during the 162nd Ethereum Eth2.0 Core Developers Meeting, the developers set the expected launch date of the Ethereum Fusaka Mainnet as November 5th.</description>
-      <pubDate>Wed, 13 Aug 2025 09:00:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24395</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
