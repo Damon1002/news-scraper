@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 15:33:06 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 15:33:06 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 15:45:12 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 15:45:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,86 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A Whale Deposits $3.36 Million into HyperLiquid to Short BTC, ETH, and SOL</title>
+      <link>https://www.lookonchain.com/feeds/24464</link>
+      <description>On August 13th, as monitored by OnchainLens, a whale address deposited $3.36 million USDC into HyperLiquid and initiated short positions: BTC (with 40x leverage), ETH (with 10x leverage), and SOL (with 20x leverage).</description>
+      <pubDate>Wed, 13 Aug 2025 15:40:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24464</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>BounceBit has repurchased 8.87 million BB tokens from the open market in the past week.</title>
+      <link>https://www.lookonchain.com/feeds/24461</link>
+      <description>On August 13th, BounceBit made an announcement that it had repurchased 8.87 million BB tokens from the open market during the past week. The repurchase will persist, being driven by approximately $16 million in annual protocol revenue.</description>
+      <pubDate>Wed, 13 Aug 2025 15:16:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24461</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Offchain Labs Acquires Smart Contract Account Development Team ZeroDev</title>
+      <link>https://www.lookonchain.com/feeds/24462</link>
+      <description>On August 13th, Offchain Labs made an announcement stating that they have acquired the smart contract account development team, ZeroDev. Currently, ZeroDev supports more than 5 million smart contract accounts across over 30 chains and provides tools for various crypto projects such as ApeCoin, Conduit, Crossmint, and others.This acquisition is intended to meet the continuously growing on-chain infrastructure requirements and drive the on-chain transformation of large institutions and consumer applications. It will collaborate with the previously launched Universal Intent Engine to achieve fast cross-chain transactions and a seamless user experience.</description>
+      <pubDate>Wed, 13 Aug 2025 15:16:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24462</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bullish&apos;s opening price is estimated to be $60-65, with a launch price of $37</title>
+      <link>https://www.lookonchain.com/feeds/24460</link>
+      <description>On August 13th, according to market information, Bullish stock is anticipated to commence trading on the NYSE at a price range of $60 to $65, while its IPO price is $37.</description>
+      <pubDate>Wed, 13 Aug 2025 15:16:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24460</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>zguangsi.eth associated address deposited 5,054.5 ETH to a CEX.</title>
       <link>https://www.lookonchain.com/feeds/24463</link>
       <description>On August 13th, based on the monitoring of OnchainLens, a wallet address linked to zguangsi.eth has transferred 5,054.5 ETH to Binance, with a value of $23.6 million.</description>
-      <pubDate>Wed, 13 Aug 2025 15:17:14 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 15:16:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24463</guid>
       <category>crypto</category>
@@ -33,63 +109,10 @@
 
     </item>
     <item>
-      <title>Offchain Labs Acquires Smart Contract Account Development Team ZeroDev</title>
-      <link>https://www.lookonchain.com/feeds/24462</link>
-      <description>On August 13th, Offchain Labs made an announcement stating that they have acquired the smart contract account development team, ZeroDev. Currently, ZeroDev supports more than 5 million smart contract accounts across over 30 chains and provides tools for various crypto projects such as ApeCoin, Conduit, Crossmint, and others.This acquisition is intended to meet the continuously growing on-chain infrastructure requirements and drive the on-chain transformation of large institutions and consumer applications. It will collaborate with the previously launched Universal Intent Engine to achieve fast cross-chain transactions and a seamless user experience.</description>
-      <pubDate>Wed, 13 Aug 2025 15:17:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24462</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BounceBit has repurchased 8.87 million BB tokens from the open market in the past week.</title>
-      <link>https://www.lookonchain.com/feeds/24461</link>
-      <description>On August 13th, BounceBit made an announcement that it had repurchased 8.87 million BB tokens from the open market during the past week. The repurchase will persist, being driven by approximately $16 million in annual protocol revenue.</description>
-      <pubDate>Wed, 13 Aug 2025 15:16:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24461</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bullish&apos;s opening price is estimated to be $60-65, with a launch price of $37</title>
-      <link>https://www.lookonchain.com/feeds/24460</link>
-      <description>On August 13th, according to market information, Bullish stock is anticipated to commence trading on the NYSE at a price range of $60 to $65, while its IPO price is $37.</description>
-      <pubDate>Wed, 13 Aug 2025 15:16:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24460</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>A Whale Prematurely Sells WLFI, Losing Over $5 Million in Potential Profit</title>
       <link>https://www.lookonchain.com/feeds/24459</link>
       <description>On August 13th, as per the monitoring of lookonchain, the WLFI price in the presale market of the Whales Market has reached $0.37, which is approximately 25 times higher than the initial presale price.Two weeks ago, the whale address 0xe267 sold around $4.4 million worth of WLFI at an average price of around $0.17, thus missing out on potential profits of more than $5 million. In contrast, the whale address 0xebe purchased approximately $628,000 worth of WLFI at an average price of around $0.169. Currently, it has an unrealized profit of about $750,000.</description>
-      <pubDate>Wed, 13 Aug 2025 15:08:14 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 15:08:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24459</guid>
       <category>crypto</category>
@@ -109,7 +132,7 @@
       <title>The price of $WLFI reached $0.37 on the pre-market @WhalesMarket, a ~25x from its first presale price.</title>
       <link>https://www.lookonchain.com/feeds/24458</link>
       <description>The price of $WLFI reached $0.37 on the pre-market @WhalesMarket, a ~25x from its first presale price. Whale 0xe267 sold ~$4.4M worth of $WLFI at an average price of ~$0.17 two weeks ago, missing out on a profit of over $5M. Meanwhile, Whale 0xebe bought ~ $628K worth of $WLFI at an average price of $0.169, giving an unrealised profit of ~$750K.</description>
-      <pubDate>Wed, 13 Aug 2025 15:03:14 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 15:03:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24458</guid>
       <category>crypto</category>
@@ -128,7 +151,7 @@
       <title>「Brother Big Brother」 Huang Licheng Airborne Ethereum, Profits Approximately $91,000</title>
       <link>https://www.lookonchain.com/feeds/24457</link>
       <description>On August 13th, according to on-chain data, &quot;Big Brother Whale&quot; Huang Licheng has closed all his short positions in Ethereum. He has made a profit of approximately $91,000.Earlier today, he opened an ETH short position with a leverage of 25 times and held 1,100 ETH worth $5.16 million.</description>
-      <pubDate>Wed, 13 Aug 2025 15:00:14 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 15:00:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24457</guid>
       <category>crypto</category>
@@ -149,7 +172,7 @@
       <title>European Leaders Urge Trump to Facilitate Putin-Zelensky Meeting</title>
       <link>https://www.lookonchain.com/feeds/24456</link>
       <description>August 13th. On Friday, European leaders implored U.S. President Trump to prompt Putin to reach an agreement on a ceasefire and hold a meeting with Ukrainian President Zelensky during their encounter.After communicating with Trump and other European leaders, French President Macron informed reporters that any determination regarding territorial concessions would necessitate the participation of Ukraine.Macron stated: &quot;Trump made it abundantly clear that the United States aspires to achieve a ceasefire during this meeting in Alaska, and at present, there is no substantial plan for territorial exchange on the agenda.&quot; German Chancellor Merkel reiterated that Ukraine must be involved in any relevant decision-making processes. Merkel said: &quot;We have clearly expressed that as long as there are follow-up meetings, Ukraine will be present at the negotiation table. Trump desires to prioritize the ceasefire.&quot; (FXStreet)</description>
-      <pubDate>Wed, 13 Aug 2025 14:56:14 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:56:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24456</guid>
       <category>crypto</category>
@@ -166,7 +189,7 @@
       <title>LookOnChain: Bitcoin drops below $121,000</title>
       <link>https://www.lookonchain.com/feeds/24455</link>
       <description>On August 13th, according to HTX market data, Bitcoin dropped below $121,000, and its 24-hour gain was narrowed to 1.32%.</description>
-      <pubDate>Wed, 13 Aug 2025 14:56:14 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:56:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24455</guid>
       <category>crypto</category>
@@ -180,23 +203,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitunix is launching HYPE spot trading, supporting the HyperEVM network</title>
-      <link>https://www.lookonchain.com/feeds/24454</link>
-      <description>On August 13th, Bitunix has now commenced HYPE spot trading and provides full support for the HyperEVM network. The platform has simultaneously initiated the HYPE Token Splash event, enabling traders to participate in sharing a luxurious reward pool of 80,000 USDT.</description>
-      <pubDate>Wed, 13 Aug 2025 14:48:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24454</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
