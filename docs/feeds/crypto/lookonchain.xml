@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 14:31:00 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 14:31:00 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 14:51:52 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 14:51:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,82 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitunix is launching HYPE spot trading, supporting the HyperEVM network</title>
+      <link>https://www.lookonchain.com/feeds/24454</link>
+      <description>On August 13th, Bitunix has now commenced HYPE spot trading and provides full support for the HyperEVM network. The platform has simultaneously initiated the HYPE Token Splash event, enabling traders to participate in sharing a luxurious reward pool of 80,000 USDT.</description>
+      <pubDate>Wed, 13 Aug 2025 14:48:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24454</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>H100 Group increased its holdings by 45.8 bitcoins, bringing the total holdings to 809.1 bitcoins.</title>
+      <link>https://www.lookonchain.com/feeds/24453</link>
+      <description>On August 13th, the H100 Group announced in a post that they had augmented their holdings by 45.8 bitcoins, resulting in their total holdings reaching 809.1 bitcoins.</description>
+      <pubDate>Wed, 13 Aug 2025 14:40:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24453</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>GMX Completes V1 Vulnerability Impact Compensation Plan, Involving $44 Million</title>
+      <link>https://www.lookonchain.com/feeds/24452</link>
+      <description>On August 13th, GMX has achieved the successful completion of a distribution plan amounting to approximately $44 million. This plan is intended to compensate the GLP holders on Arbitrum who were impacted by the recently disclosed V1 vulnerability. Eligible wallets are now able to claim the compensation through the GMX dApp.· There is approximately $44 million available for distribution, and all affected GLP holders will receive full compensation.· The compensation is distributed in two forms of GLV tokens, which are sourced from the V2 yield-optimized GMX Treasury.· The composition of the GLV tokens is approximately 25% WBTC, 25% ETH, and 50% stablecoin.· It includes $2 million of DAO Treasury support and $500,000 of hold-to-earn GLV incentive.</description>
+      <pubDate>Wed, 13 Aug 2025 14:33:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24452</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Cryptocurrency Total Market Cap Surpasses $4.2 Trillion, Reaches All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/24451</link>
+      <description>On August 13th, according to Coingecko data, the combined market capitalization of cryptocurrencies has exceeded $4.2 trillion and reached $4.219 trillion, hitting a brand-new all-time high, with a 24-hour growth rate of 3.5%.</description>
+      <pubDate>Wed, 13 Aug 2025 14:32:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24451</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Bitget has launched U-based XNY and AIO perpetual contracts</title>
       <link>https://www.lookonchain.com/feeds/24450</link>
       <description>August 13th. As per an official announcement, Bitget has declared the listing of U-Settled XNY and AIO perpetual contracts, and the contract trading BOT has been launched simultaneously.</description>
-      <pubDate>Wed, 13 Aug 2025 14:25:07 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:25:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24450</guid>
       <category>crypto</category>
@@ -34,7 +106,7 @@
       <title>Hyperliquid Whale Cuts ETH Short Position After $25.4M Loss, BTC Bear Adds to Position Against the Trend with $12.6M Paper Loss</title>
       <link>https://www.lookonchain.com/feeds/24449</link>
       <description>On August 13th, as per the monitoring of HyperInsight, the market continued to rise. The Hyperliquid whales urgently adjusted their positions to avoid liquidation. These adjustments included:The whale with the address starting with 0x20c2d9 reduced its ETH short position by $1.0665 million. Currently, it has an unrealized loss of $25.414 million and a liquidation price of $6,068.533.The whale with the address starting with 0x5d2f446 increased its BTC short position by $1.3576 million. Currently, it has an unrealized loss of $12.6078 million and a liquidation price of $127,734.796.</description>
-      <pubDate>Wed, 13 Aug 2025 14:11:07 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:11:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24449</guid>
       <category>crypto</category>
@@ -57,7 +129,7 @@
       <title>Standard Chartered Bank: Raises Year-End Ethereum Price Outlook to $7500</title>
       <link>https://www.lookonchain.com/feeds/24448</link>
       <description>On Wednesday, August 13th, Standard Chartered Bank raised its year-end price target for Ethereum from $4000 to $7500. This was due to the increased industry participation in recent months and a rise in Ethereum holdings. The new price target represents a nearly 60% increase compared to Ethereum&apos;s over 3.5-year high of $4700 reached on Wednesday.As the second-largest cryptocurrency in the world, Ethereum has become the top choice for investors seeking higher returns. Unlike Bitcoin, which only relies on price appreciation, Ethereum can be used for staking. Holders can lock up tokens to support the Ethereum network and receive rewards. In the past four weeks, driven by the passage of the &quot;Infrastructure Bill&quot;, Ethereum&apos;s price has surged by more than 50%. The bill aims to establish a regulatory framework for USD-backed stablecoins, and the market expects this to increase their adoption and drive up the prices of crypto assets, including Ether.Geoff Kendrick, the Head of Digital Asset</description>
-      <pubDate>Wed, 13 Aug 2025 14:11:07 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:11:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24448</guid>
       <category>crypto</category>
@@ -77,7 +149,7 @@
       <title>LookOnChain: Bitcoin Surges Past $122,000</title>
       <link>https://www.lookonchain.com/feeds/24447</link>
       <description>On August 13th, according to HTX market data, Bitcoin experienced a rebound and exceeded $122,000, registering a 24-hour increase of 2.55%.</description>
-      <pubDate>Wed, 13 Aug 2025 14:11:07 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:11:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24447</guid>
       <category>crypto</category>
@@ -97,7 +169,7 @@
       <title>Tom Lee: Ethereum Will Be the Biggest Macro Trading Opportunity in the Next 10–15 Years</title>
       <link>https://www.lookonchain.com/feeds/24446</link>
       <description>On August 13th, Lee, the newly appointed chairman of BitMine, stated that with AI creating a token economy on the blockchain and Wall Street financializing on the blockchain, Ethereum can be regarded as the biggest macro transaction opportunity in the next 10 to 15 years.</description>
-      <pubDate>Wed, 13 Aug 2025 14:01:07 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 14:01:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24446</guid>
       <category>crypto</category>
@@ -116,7 +188,7 @@
       <title>Pendle TVL Surpasses $9 Billion, Hits All-Time High</title>
       <link>https://www.lookonchain.com/feeds/24445</link>
       <description>On August 13th, Pendle TVL exceeded $9 billion and reached a brand new all-time high. Among this total, $6.4 billion is in PTs.Yesterday, Aave raised the limit of PT-USDe (September 2025) by $600 million, and this entire increase was completely utilized. As a consequence, Pendle&apos;s TVL using PT as collateral rocketed to a brand new all-time high of $4.6 billion.</description>
-      <pubDate>Wed, 13 Aug 2025 13:56:07 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 13:57:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24445</guid>
       <category>crypto</category>
@@ -128,85 +200,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Bitcoin Surges Above $121,000</title>
-      <link>https://www.lookonchain.com/feeds/24444</link>
-      <description>On August 13th, according to HTX market data, Bitcoin saw a rebound and managed to break through $121,000, registering a 24-hour gain of 2.42%.</description>
-      <pubDate>Wed, 13 Aug 2025 13:56:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24444</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Sharplink LSETH Position Unrealized PnL has reached $323 million</title>
-      <link>https://www.lookonchain.com/feeds/24443</link>
-      <description>On August 13th, as reported by Cointelegraph, it was disclosed that the unrealized profit and loss of the LSETH held by Sharplink Gaming amounts to $323 million.BlockBeats Note: LSETH is a kind of Liquid Staking Derivative (LSD), representing a liquidity voucher obtained by staking Ethereum (ETH). Its core function is to enable users to continuously earn ETH staking rewards while maintaining the liquidity of assets. They can further participate in yield stacking or trading through DeFi protocols.</description>
-      <pubDate>Wed, 13 Aug 2025 13:48:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24443</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>US Stock Market&apos;s Three Major Indexes Open Higher, Cryptocurrency-related Stocks Experience Broad Gains</title>
-      <link>https://www.lookonchain.com/feeds/24442</link>
-      <description>On August 13th, based on Rockflow market data, at the opening of the U.S. stock market, the Dow increased by 0.4%, the S&amp;P 500 rose by 0.3%, and the Nasdaq Composite went up by 0.38%. U.S. stock market cryptocurrency concept stocks witnessed a general rise, including:· Sharplink Gaming rose by 4.52%;· Bitmine rose by 10.27%;· Strategy rose by 0.61%;· Coinbase rose by 3.01%;· HOOD rose by 0.90%;· BTCS rose by 1.98%.</description>
-      <pubDate>Wed, 13 Aug 2025 13:41:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24442</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale who accumulated Ethereum last November has now taken profit on the entire position, making over $7.5 million.</title>
-      <link>https://www.lookonchain.com/feeds/24441</link>
-      <description>On August 13th, according to the monitoring of @EmberCN, Whale 0xe42...08A was noticed to have accumulated 6,918 ETH when the price was $3,613 on November 30 of last year. After holding for 9 months, one hour ago, it began to split in three transactions and transferred all the tokens to Binance, finally achieving a profit of $7.52 million.</description>
-      <pubDate>Wed, 13 Aug 2025 13:40:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24441</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
 
     </item>
   </channel>
