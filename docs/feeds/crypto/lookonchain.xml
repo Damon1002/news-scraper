@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 08:59:29 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 08:59:29 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 09:32:28 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 09:32:28 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,85 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The OG address holding ETH since 2015 has started taking profits, with an average purchase price of only $1.33.</title>
+      <link>https://www.lookonchain.com/feeds/24398</link>
+      <description>On August 13th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), an OG address that has been holding ETH since 2015 has begun to take profits. Since August 2nd of this year, this address has cumulatively sold 5125 ETH (approximately $20.13 million) through on-chain selling and exchanges&apos; deposits for selling. Over a period of nearly four months, the address has sold a total of 14,639.2 ETH (approximately $34.65 million). Currently, the address still holds 23,941 ETH, which is valued at $1.1 billion.This &quot;Fossil Hand&quot;&apos;s ETH was withdrawn in August 2015 from ShapeShift and Poloniex when the price was as low as $1.33.</description>
+      <pubDate>Wed, 13 Aug 2025 09:16:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24398</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Standard Chartered Bank has raised its end-of-year 2028 ETH price forecast to $25,000.</title>
+      <link>https://www.lookonchain.com/feeds/24399</link>
+      <description>August 13th: Standard Chartered Bank has lifted its year-end 2028 Ethereum price forecast to $25,000, as opposed to the prior forecast of $7,500. (Bloomberg Terminal)</description>
+      <pubDate>Wed, 13 Aug 2025 09:16:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24399</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>a16z Proposes Regulatory Safe Harbor for DeFi Project Websites and Apps to the US SEC</title>
+      <link>https://www.lookonchain.com/feeds/24397</link>
+      <description>On August 13th, as reported by Coindesk, the cryptocurrency investment firm a16z and the DeFi Education Fund are submitting a petition to the U.S. Securities and Exchange Commission (SEC) to provide a regulatory safe harbor for websites and applications used to access DeFi projects. The purpose is to offer protection to decentralized finance (DeFi) websites and mobile apps.This joint application submitted with the DeFi Education Fund on Wednesday comes at a time when the White House and SEC Chairman Gary Gensler have shown increased support for DeFi, encouraging the development of this cryptocurrency subsector without heavy regulatory constraints. A recent cryptocurrency report issued by the Trump administration included recommendations to allow &quot;certain DeFi service providers&quot; to be exempt from broker-dealer registration requirements.The proposal states: &quot;The core of the safe harbor guidance principles is that only those applications that do not pose the risks targeted by the brok</description>
+      <pubDate>Wed, 13 Aug 2025 09:08:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24397</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Gate Ventures teams up with Superteam UK and the Cambridge Blockchain Society to launch the Web3 (Open-web) &amp; AI Frontier Program</title>
+      <link>https://www.lookonchain.com/feeds/24396</link>
+      <description>On August 13th, Gate Ventures made an announcement about a joint initiative with the Solana Superteam UK and the Cambridge Blockchain Society. They are set to launch the Web3 (Open-web) &amp; AI Frontier Program. The main objective of this program is to promote academic exploration at the intersection of blockchain and artificial intelligence. It aims to empower and cultivate a new generation of innovative thinkers who look ahead.This program will offer funding support ranging from $100,000 to $1 million to university projects, such as those at Cambridge University. It will also provide industry mentorship and close cooperation with Solana ecosystem resources. With the support of leading industry institutions, this program will speed up the implementation and development of research-driven projects in blockchain infrastructure, decentralized finance (DeFi), and AI applications built on the Solana network.</description>
+      <pubDate>Wed, 13 Aug 2025 09:08:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24396</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>162nd Ethereum Consensus Layer Core Developer Meeting: Fusaka Mainnet Scheduled to Launch on November 5th</title>
       <link>https://www.lookonchain.com/feeds/24395</link>
       <description>On August 13th, according to Etherworld, during the 162nd Ethereum Eth2.0 Core Developers Meeting, the developers set the expected launch date of the Ethereum Fusaka Mainnet as November 5th.</description>
-      <pubDate>Wed, 13 Aug 2025 08:56:36 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 08:56:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24395</guid>
       <category>crypto</category>
@@ -33,12 +108,12 @@
 
     </item>
     <item>
-      <title>Pump.fun Official has conducted a buyback of 175.3 million PUMP tokens from the market in the past 24 hours.</title>
-      <link>https://www.lookonchain.com/feeds/24393</link>
-      <description>On August 13th, as per the monitoring of LookOnChain, Pump.fun officially carried out a buyback of 175.3 million PUMP tokens from the market within the past 24 hours. This is equivalent to approximately $705,000.Up to now, Pump.fun has repurchased a total of 7.66 billion PUMP tokens (about $30.65 million, accounting for 0.766% of the total supply).</description>
-      <pubDate>Wed, 13 Aug 2025 08:48:36 +0000</pubDate>
+      <title>MEXC Win Contract Battle Officially Begins, with a Total Prize Pool of 10 Million USDT</title>
+      <link>https://www.lookonchain.com/feeds/24394</link>
+      <description>On August 13th, as per official channels, the MEXC Win Flame Battle Contract Team Tournament officially commenced. The total prize pool amounts to a maximum of 10 million USDT, and individuals have the potential to win up to 2 BTC.</description>
+      <pubDate>Wed, 13 Aug 2025 08:48:35 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24393</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24394</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,12 +126,12 @@
 
     </item>
     <item>
-      <title>MEXC Win Contract Battle Officially Begins, with a Total Prize Pool of 10 Million USDT</title>
-      <link>https://www.lookonchain.com/feeds/24394</link>
-      <description>On August 13th, as per official channels, the MEXC Win Flame Battle Contract Team Tournament officially commenced. The total prize pool amounts to a maximum of 10 million USDT, and individuals have the potential to win up to 2 BTC.</description>
-      <pubDate>Wed, 13 Aug 2025 08:48:36 +0000</pubDate>
+      <title>Pump.fun Official has conducted a buyback of 175.3 million PUMP tokens from the market in the past 24 hours.</title>
+      <link>https://www.lookonchain.com/feeds/24393</link>
+      <description>On August 13th, as per the monitoring of LookOnChain, Pump.fun officially carried out a buyback of 175.3 million PUMP tokens from the market within the past 24 hours. This is equivalent to approximately $705,000.Up to now, Pump.fun has repurchased a total of 7.66 billion PUMP tokens (about $30.65 million, accounting for 0.766% of the total supply).</description>
+      <pubDate>Wed, 13 Aug 2025 08:48:35 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24394</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24393</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -72,7 +147,7 @@
       <title>Metaplanet Q2 Financial Report: Holds 18,113 BTC, Revenue and Gross Profit See Significant QoQ Growth</title>
       <link>https://www.lookonchain.com/feeds/24392</link>
       <description>On August 13th, Metaplanet presented its Q2 financial performance report: The revenue reached 1.239 billion yen (equivalent to 8.4 million USD), showing a 41% increase quarter over quarter; The gross profit was 816 million yen (5.5 million USD), with a 38% increase quarter over quarter; The operating profit was 17.4 billion yen (117.8 million USD), in contrast to -6.9 billion yen in the same period of the previous year; The net profit was 11.1 billion yen (75.1 million USD), compared to -5.0 billion yen in the same period of the previous year; The total assets were 238.2 billion yen (1.61 billion USD), experiencing a 333% increase quarter over quarter. The net assets were 201.0 billion yen (1.36 billion USD), with a 299% increase quarter over quarter. It holds 18,113 BTC.</description>
-      <pubDate>Wed, 13 Aug 2025 08:40:36 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 08:40:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24392</guid>
       <category>crypto</category>
@@ -92,7 +167,7 @@
       <title>Do Kwon Pleads Guilty: Prosecutors Recommend a Sentence of Up to 12 Years in Prison, Sentencing by the Chief Judge Scheduled for December 11</title>
       <link>https://www.lookonchain.com/feeds/24391</link>
       <description>On August 13th, as reported by Reuters, the South Korean cryptocurrency entrepreneur Do Kwon admitted in a New York federal court on Tuesday to two counts of fraud. Do Kwon, who is 33 years old and a co-founder of Terraform Labs, the developer of the TerraUSD and LUNA tokens, saw a collapse in 2022, resulting in approximately $40 billion in losses.During a hearing chaired by Judge Paul Engelmayer in the Southern District of New York, Do Kwon pleaded guilty to charges of conspiracy to commit fraud and telecommunication fraud. In January of this year, he had refused to plead guilty to a nine-count indictment that included securities fraud, wire fraud, commodities fraud, and money laundering.During the trial, Do Kwon apologized in court, stating, &quot;I concealed the truth about the trading firm&apos;s intervention in the peg&apos;s recovery and made false statements. My actions were wrong.&quot;Although the statutory maximum sentence is 25 years, the prosecution has agreed to recommend a prison term</description>
-      <pubDate>Wed, 13 Aug 2025 08:32:36 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 08:32:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24391</guid>
       <category>crypto</category>
@@ -109,7 +184,7 @@
       <title>The CrediX attacker has transferred 50% of the funds to Tornado Cash.</title>
       <link>https://www.lookonchain.com/feeds/24390</link>
       <description>On August 13th, as per the monitoring of CertiK Alert, the CrediX attacker has transferred 50% of the funds to Tornado Cash. Meanwhile, the remaining 630 ETH (approximately $2.8 million) is still retained within the wallet.</description>
-      <pubDate>Wed, 13 Aug 2025 08:16:36 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 08:31:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24390</guid>
       <category>crypto</category>
@@ -121,78 +196,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>transfer</category>
-
-    </item>
-    <item>
-      <title>OKB Burning History: In 2020, 70% of non-circulating tokens were burned, totaling 213 million tokens burned in 28 times over 6 years.</title>
-      <link>https://www.lookonchain.com/feeds/24389</link>
-      <description>August 13, as per the records and organization by BlockBeats:In 2018, the total supply of OKB disclosed publicly at the time of issuance was 1 billion, with an initial issuance of 300 million.On February 10, 2020, OKX (formerly OKEx) announced the launch of the OKChain testnet and burned 700 million non-circulating OKB. At the start of the OKChain testnet, 13,978,364 OKB had been burned, and the circulating supply was 286,021,636 OKB.OKB increased by 36.5% on that day and reached a high of $7.4 within 6 days, with a total increase of approximately 90%.Since May 4, 2019, OKB has been burned a total of 28 times, with a cumulative burn of 213,743,286 OKB.Previously, BlockBeats reported that OKEx announced today that it will burn a total of 65.25 million OKB from historical buybacks and reserves in one go on August 15, fixing the total supply at 21 million OKB.</description>
-      <pubDate>Wed, 13 Aug 2025 08:00:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24389</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Huobi Leveraged Token Anniversary Celebration: Huobi Lending + Trading Dual Leaderboard Event, Join to Share a $30,000 Prize Pool</title>
-      <link>https://www.lookonchain.com/feeds/24388</link>
-      <description>August 13th. According to an official announcement from Huobi HTX, in celebration of the platform&apos;s 12th anniversary, Huobi Futures launched a Leveraged Loan + Trading Dual Leaderboard Special Event from 8:00 PM on August 12th to 8:00 PM on September 12th (UTC+8). The event encompasses seven popular coins: LTC, DOGE, ADA, PEPE, SAND, THETA, TON (all isolated margin), with a total prize pool of up to $30,000.During the event, users who complete registration and participate in leveraged loans for the event coins will share $20,000 in rewards according to the loan amount. Those who participate in leveraged trading for the event coins will share $10,000 in rewards based on the trading volume. Furthermore, users participating in LTC leveraged loans during the event can also enjoy a super low annual interest rate of 0.99%.</description>
-      <pubDate>Wed, 13 Aug 2025 07:58:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24388</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Gate will list Cherry AI (AIBOT) spot trading</title>
-      <link>https://www.lookonchain.com/feeds/24387</link>
-      <description>August 13th. According to an official announcement, Gate is scheduled to list Cherry AI (AIBOT) for spot trading at 18:05 (UTC+8) on August 14th.</description>
-      <pubDate>Wed, 13 Aug 2025 07:58:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24387</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitunix Analyst: ETH Surges to 4600 on Bullish HODLing, Nearing Historical Supply Zone; Watch Out for Resistance at 4650-4900, Risk Management Key for Trading</title>
-      <link>https://www.lookonchain.com/feeds/24386</link>
-      <description>August 13th: Bitmine is formulating a new round of financing with the aim of increasing its holdings of Ethereum by up to 20 billion US dollars. It is targeting a 5% ownership of the circulating supply. The market sentiment continues to rise. ETH has risen to approximately 4600 and is currently testing the historical supply zone that overlaps with the high point in 2021, which is between 4650 and 4900. The previous high liquidity level at 4200 has been broken through and has now transformed into support, with structural support below at 3300.Bitunix Analyst Suggestion:Bitmine&apos;s additional holding plan belongs to &quot;long-term capital commitment,&quot; which has a positive influence on the supply-demand structure. However, this is a medium- to long-term factor and cannot change the short-term market reality of pressure within the historical supply zone. Furthermore, the increase in institutional holdings will lead to an increase in liquidity concentration, amplifying gains in a bull market b</description>
-      <pubDate>Wed, 13 Aug 2025 07:58:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24386</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
