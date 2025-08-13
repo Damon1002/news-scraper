@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 10:34:46 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 10:34:46 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 10:52:47 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 10:52:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Crypto Fear \&amp; Greed Index Rises to 73, Market Continues to Show ``Greed&apos;&apos; Sentiment</title>
-      <link>https://www.lookonchain.com/feeds/24409</link>
-      <description>On August 13th, according to alternative data, the Crypto Fear and Greed Index for today is 73 (yesterday it was 68), with a weekly average of 54, suggesting a continued &quot;greed&quot; sentiment in the market.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and encompasses the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends (10%).</description>
-      <pubDate>Wed, 13 Aug 2025 10:32:52 +0000</pubDate>
+      <title>「Big Brother Whale」 Huang Licheng Shorts Ethereum, Opens 1100 ETH Position with 25x Leverage</title>
+      <link>https://www.lookonchain.com/feeds/24413</link>
+      <description>On August 13th, as monitored by OnchainLens, &quot;Brother Ma&quot; Huang Licheng opened a short position in ETH with a leverage of 25 times, holding 1,100 ETH worth $5.16 million. The liquidation price is $40,256.Earlier on this day, &quot;Brother Ma&quot; Huang Licheng closed his long positions in ETH (with a 25x leverage) and HYPE (with a 5x leverage), achieving a total profit of $33.83 million.</description>
+      <pubDate>Wed, 13 Aug 2025 10:48:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24409</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24413</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,13 +28,75 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Ethereum Network Gas Fee is currently at 1.901 gwei, with on-chain activity remaining relatively calm</title>
+      <link>https://www.lookonchain.com/feeds/24412</link>
+      <description>On August 13th, according to Etherscan data, the current Gas fee on the Ethereum network is 1.901 gwei, and on-chain activities are relatively stable. Although Ethereum&apos;s price has broken above $4700, on-chain activity has not increased as anticipated. During previous bull markets, Ethereum&apos;s Gas fees usually remained above 50 gwei.</description>
+      <pubDate>Wed, 13 Aug 2025 10:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24412</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>ETH/BTC up nearly 8% in the past 24 hours, up over 23% in the last 7 days</title>
+      <link>https://www.lookonchain.com/feeds/24411</link>
+      <description>On August 13th, according to HTX market data, the exchange rate of ETH to BTC has seen a nearly 8% increase in the past 24 hours. It has witnessed a 7-day increase of 23.32% and a 30-day increase of 54.56%. Ethereum has regained a certain amount of lost market share and risen to 13.99%.</description>
+      <pubDate>Wed, 13 Aug 2025 10:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24411</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Suspected HashKey Capital Address Sells Another 7,300 ETH, Previously Sold 31,300 ETH</title>
+      <link>https://www.lookonchain.com/feeds/24410</link>
+      <description>August 13th. According to @EmberCN&apos;s monitoring, an address that was suspected to be under the ownership of HashKey Capital once more transferred 7,300 ETH (approximately $33.86 million) to Binance within a period of 50 minutes.Since July 28th, they have transferred a total of 31,300 ETH (approximately $124 million) to Binance, OKX, and Galaxy Digital. The average price during this period was $3,966.</description>
+      <pubDate>Wed, 13 Aug 2025 10:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24410</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
       <title>In the past 1 hour, Ethereum&apos;s Liquidation Volume reached $12.4786 million, while Bitcoin&apos;s Liquidation Volume was only $2.5879 million.</title>
       <link>https://www.lookonchain.com/feeds/24408</link>
       <description>August 13th. Based on Coinglass data, the liquidation amount of Ethereum in the past 1 hour reached $12.4786 million. During the same period, the Bitcoin liquidation amount was only $2.5879 million.The total network liquidation in the past 1 hour was $21.8129 million, including $0.8076 million in long liquidations and $21.0314 million in short liquidations.In the past 24 hours, a total of 114,518 people were liquidated globally, with a total liquidation amount of $533 million. The largest single liquidation took place on Binance - DOGEUSDT, amounting to $9.8217 million.</description>
-      <pubDate>Wed, 13 Aug 2025 10:32:52 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:32:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24408</guid>
       <category>crypto</category>
@@ -53,10 +115,27 @@
 
     </item>
     <item>
+      <title>Crypto Fear \&amp; Greed Index Rises to 73, Market Continues to Show ``Greed&apos;&apos; Sentiment</title>
+      <link>https://www.lookonchain.com/feeds/24409</link>
+      <description>On August 13th, according to alternative data, the Crypto Fear and Greed Index for today is 73 (yesterday it was 68), with a weekly average of 54, suggesting a continued &quot;greed&quot; sentiment in the market.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and encompasses the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends (10%).</description>
+      <pubDate>Wed, 13 Aug 2025 10:32:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24409</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Ethereum Withdrawal Acceleration, with a CEX Net Outflow of 182,400 in the past 24 hours</title>
       <link>https://www.lookonchain.com/feeds/24407</link>
       <description>On August 13th, with the market continuously surging in both price and popularity, Ethereum has exceeded $4700. In the past 24 hours, a total of 182,400 ETH has flowed out of CEXs. The top three outflow amounts are as follows:· Coinbase Pro, with an outflow of 138,400 ETH;· Kraken, with an outflow of 46,400 ETH;· OKX, with an outflow of 17,900 ETH.Furthermore, Bybit has witnessed an inflow of 27,700 ETH and ranks first in the list of inflows.</description>
-      <pubDate>Wed, 13 Aug 2025 10:24:52 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24407</guid>
       <category>crypto</category>
@@ -75,7 +154,7 @@
       <title>Bitcoin Dominance Drops to 59.12%, Declining Over 7% in the Past Month</title>
       <link>https://www.lookonchain.com/feeds/24406</link>
       <description>On August 13th, according to HTX market data, the market dominance of Bitcoin has decreased to 59.12%, reaching a new low since February, with a decline of more than 7% in the past month.</description>
-      <pubDate>Wed, 13 Aug 2025 10:24:52 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24406</guid>
       <category>crypto</category>
@@ -94,7 +173,7 @@
       <title>If Ethereum Breaks All-Time High, Mainstream CEX Cumulative Short Liquidation Pressure Will Reach $1.199 Billion</title>
       <link>https://www.lookonchain.com/feeds/24405</link>
       <description>On August 13th, according to Coinglass data, if Ethereum were to break its all-time high, the total short liquidation intensity on mainstream CEXs would reach $1.199 billion.Conversely, if Ethereum were to drop below $4550, the total long liquidation intensity on mainstream CEXs would reach $2.128 billion.BlockBeats Note: The liquidation chart does not display the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart shows to what degree the target price will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that when the price is reached, there will be a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Wed, 13 Aug 2025 10:16:52 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:16:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24405</guid>
       <category>crypto</category>
@@ -114,7 +193,7 @@
       <title>FOMC: Federal Reserve&apos;s September Rate Cut Expectation Boosts Ethereum&apos;s Momentum, Jackson Hole Symposium Next Focus</title>
       <link>https://www.lookonchain.com/feeds/24404</link>
       <description>August 13th: QCP issued its daily market observation, indicating that the US July CPI (Consumer Price Index) rose by 2.7% year-on-year, which was lower than the market&apos;s anticipation of 2.8%; the core CPI increased by 3.1% year-on-year, slightly higher than the expected 3.0%. The relatively moderate overall inflation data has reinforced the market&apos;s expectation that the Fed will initiate a rate-cutting cycle in September. Most market participants currently anticipate a 25-basis-point cut. The commodity inflation, which was previously expected to rise due to companies passing on higher costs to consumers, performed lower than anticipated this time.After the data release, the market&apos;s rate-cut expectations for 2025 remained unchanged. The pricing still reflects a rate-cut space of approximately 60 basis points. Despite the softening labor market and the market&apos;s expectation of a more dovish Fed chair in 2026, the terminal rate remains stable. Futures positions suggest that investors be</description>
-      <pubDate>Wed, 13 Aug 2025 10:08:52 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:08:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24404</guid>
       <category>crypto</category>
@@ -127,79 +206,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Ethereum Surges to $4700 on January 3, 2022, Up 9.53% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/24403</link>
-      <description>On August 13th, according to HTX market data, Ethereum rose and touched $4700. It is currently trading at $4698, with a 24-hour increase of 9.53%.</description>
-      <pubDate>Wed, 13 Aug 2025 10:00:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24403</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Futures will list OlaXBT (AIO) and Codatta (XNY) on its platform.</title>
-      <link>https://www.lookonchain.com/feeds/24402</link>
-      <description>August 13th. According to official channels, Binance is set to launch the AIOUSDT perpetual contract at 19:30 Beijing time today; and it will initiate the XNYUSDT perpetual contract at 19:45, with a leverage of up to 50x.</description>
-      <pubDate>Wed, 13 Aug 2025 09:48:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24402</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>OKX has transferred 65.25 million OKB to a burn address, reducing the total supply of OKB to 21 million.</title>
-      <link>https://www.lookonchain.com/feeds/24401</link>
-      <description>On August 13th, as monitored by on-chain data analyst Yujin, the 65,256,712 OKB announced to be burned this time by OKX was all transferred to the burn address 10 minutes ago. Currently, the burn address holds 279 million OKB. This indicates that the total supply of OKB has now been reduced to 21 million.</description>
-      <pubDate>Wed, 13 Aug 2025 09:40:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24401</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>US Stock Crypto Stocks See Marginal Pre-market Gain, Only CRCL Down 4.85%</title>
-      <link>https://www.lookonchain.com/feeds/24400</link>
-      <description>On August 13th, according to rockflow data, the pre-market trading of US cryptocurrency stocks showed slight increases. These included:Coinbase (COIN) with a pre-market increase of +0.75%.Circle (CRCL) with a pre-market decrease of -4.85%.MicroStrategy (MSTR) with a pre-market increase of +0.66%.Bitmine (BMNR) with a pre-market increase of +2.48%.BTCS (BTCS) with a pre-market increase of +1.32%.Bit Digital (BTBT) with a pre-market increase of +1.32%.SharpLink Gaming (SBET) with a pre-market increase of +1.91%.</description>
-      <pubDate>Wed, 13 Aug 2025 09:33:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24400</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
