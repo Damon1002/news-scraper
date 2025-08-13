@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 04:59:03 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 04:59:03 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 05:30:23 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 05:30:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,62 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>「7 Siblings」卖出 19,957 枚 ETH 换成 9044 万 USDC</title>
+      <title>odin.fun联创：公司的资金不足以弥补损失，目前平台上剩余资金安全</title>
+      <link>https://www.techflowpost.com</link>
+      <description>ODIN•FUN平台联创今日发布声明，确认其自动做市商（AMM）系统在最新更新中出现重大安全漏洞。多个恶意团伙利用该漏洞盗取了大量比特币，具体损失金额仍在评估中。平台表示目前公司储备金不足以完全覆盖损失。平台已聘请安全审计团队展开全面代码审查，预计需要一周时间完成。平台方面表示将制定赔偿方案，具体...</description>
+      <pubDate>Wed, 13 Aug 2025 05:29:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Eden Network宣布停止运营，启动代币退出计划</title>
+      <link>https://www.techflowpost.com</link>
+      <description>ETH基础设施服务提供商Eden Network宣布停止运营。该项目将通过代币退出计划向EDEN代币持有者分配2,000个ETH的储备资金。退出计划将持续至2025年9月30日，兑换比率为1 EDEN = 0.00001506 ETH。Eden Network原为Archer DAO，成立于202...</description>
+      <pubDate>Wed, 13 Aug 2025 05:24:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Solana CEO九次规避Pump Fun诉讼文件递送</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据Protos报道，Solana首席执行官Anatoly Yakovenko近期多次避开Pump Fun相关诉讼文件的递送。Burwick Law和Wolf Popper律师事务所针对Solana Labs、Jito Labs及其多位高管提起诉讼，指控其参与欺诈性赌场项目运营。律师事务所表示，在对...</description>
+      <pubDate>Wed, 13 Aug 2025 05:22:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某巨鲸沉寂两年从 Binance 提取了 290,000 枚 LINK ，价值 708 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸沉寂两年从 Binance 提取了 290,000 枚 LINK ，价值 708 万美元。</description>
+      <pubDate>Wed, 13 Aug 2025 05:04:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安 Alpha 将在8月15日上线 TCOM Global (TCOM)</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安 Alpha 将在8月15日上线 TCOM Global (TCOM) 。符合条件的用户可于 Alpha 交易开放后，前往 Alpha 活动页面使用币安 Alpha 积分领取空投。具体详情将另行公布。</description>
+      <pubDate>Wed, 13 Aug 2025 05:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>「7 Siblings」卖出 19,957 枚 ETH 换成 9044 万枚 USDC</title>
       <link>https://www.techflowpost.com</link>
       <description>据分析师余烬监测，在去年 8 月 5 日大跌中以约 2270 美元均价买入 10 万枚 ETH 的实体「7 Siblings」今日开始卖出 ETH。截至目前，他们已卖出 19,957 枚 ETH，换得 9044 万 USDC，出售均价约 4532 美元。该实体目前仍持有约 28 万枚 ETH，价值...</description>
       <pubDate>Wed, 13 Aug 2025 04:57:00 +0000</pubDate>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Pharos Network与去中心化Web3钱包Bitverse达成合作，计划在Pharos网络搭建永续合约去中心化交易平台（PerpDEX）。该平台将采用UTA引擎技术，支持加密货币及美股等资产的永续合约交易。平台将采用低延迟架构，Bitverse作为流动性提供方，负责接入以太坊稳定币资金池，...</description>
       <pubDate>Wed, 13 Aug 2025 02:05:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>卓锐证券获香港证监会批准开展虚拟资产存提币业务</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据aastocks报道，香港证监会批准卓锐证券开展虚拟资产存提币业务。卓锐证券作为香港证监会持牌法团（中央编号：BRE865），已具备第1/2/4/5/9类受规管活动牌照。该平台将通过移动应用程序提供虚拟资产存入、交易及提取的一站式服务。</description>
-      <pubDate>Wed, 13 Aug 2025 02:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>招银国际在Solana推出首个互认基金代币化产品</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Solana官方发文表示，招银国际与数字金融科技公司DigiFT和OnChain合作，成功将其香港-新加坡互认基金（MRF）在Solana区块链上代币化，代币名称为CMBMINT。</description>
-      <pubDate>Wed, 13 Aug 2025 02:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>昨日比特币现货ETF净流入6632万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Trader T监测，昨日比特币现货ETF总净流入6632万美元。其中，BlackRock IBIT净流入1.118亿美元，Ark Invest ARKB净流出2386万美元，Grayscale GBTC净流出2163万美元，其余ETF产品当日净流入为零。</description>
-      <pubDate>Wed, 13 Aug 2025 01:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>纳斯达克上市公司Diginex拟3.05亿美元收购网络安全公司Findings</title>
-      <link>https://www.techflowpost.com</link>
-      <description>纳斯达克上市公司Diginex（股票代码：DGNX）已签署谅解备忘录，计划以3.05亿美元收购网络安全和合规自动化公司Findings全部股权。交易对价包括2.7亿美元的股票支付和最高3500万美元的现金支付。Findings主要提供供应链风险监控和供应商风险自动化解决方案。此次收购将整合Find...</description>
-      <pubDate>Wed, 13 Aug 2025 01:51:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bithumb 将上线 TOWNS 韩元交易对</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Bithumb 将上线 TOWNS 韩元交易对。</description>
-      <pubDate>Wed, 13 Aug 2025 01:42:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 04:59:03 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 04:59:03 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 05:30:23 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 05:30:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>odin.fun Co-founder: Company Funds Insufficient to Cover Loss, Remaining Funds on Platform Safe</title>
+      <link>https://www.lookonchain.com/feeds/24363</link>
+      <description>On August 13th, a co-founder of odin.fun posted on the X Platform in response to the previously stolen funds, stating, &quot;We discovered a significant vulnerability in our latest liquidity AMM (Automated Market Maker) update. Some malicious users (mainly related to criminal gangs in China) took advantage of this vulnerability to steal a large quantity of BTC from the platform. We are still in the process of assessing the specific amount of BTC lost, and the company&apos;s funds are not enough to cover the loss. The remaining funds on the platform are in a safe state. We have identified several groups that benefited from exploiting this vulnerability and will pursue them and file lawsuits (especially considering the amount of evidence we have, including the activities in their wallets).&quot;Earlier reports suggested that the odin.fun platform had a suspected vulnerability, resulting in approximately 58.2 BTC being transferred out.</description>
+      <pubDate>Wed, 13 Aug 2025 05:24:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24363</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Eden Network has announced the cessation of its operations and the distribution of its held 2000 ETH to EDEN holders.</title>
+      <link>https://www.lookonchain.com/feeds/24364</link>
+      <description>On August 13th, the Eden Network put out an announcement saying, &quot;Archer DAO was established in 2020 with the goal of creating a novel revenue source for Ethereum miners by seizing MEV (Miner Extractable Value) profits. In July 2021, the Archer DAO community passed a governance proposal to upgrade the project and rebrand it as the Eden Network. Due to fierce competition in the MEV field and high operating expenses, after careful thought and consultation with community members, the Eden Network has announced the suspension of its operations, with immediate effect on services like Eden RPC, Eden Bundles, Mempool Stream, etc.&quot;The Eden Network currently holds 2,000 ETH, which will be distributed to EDEN token holders at a fixed rate of 0.00001506 ETH per EDEN. The redemption period will be open from today until September 30th at 23:59 (UTC), and it is limited to non-U.S. residents. Token holders who have not staked their tokens are advised to redeem them promptly and unstake, and the rem</description>
+      <pubDate>Wed, 13 Aug 2025 05:24:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24364</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>A whale withdrew 290,000 LINK from Binance 19 minutes ago, equivalent to $7.08 million.</title>
+      <link>https://www.lookonchain.com/feeds/24362</link>
+      <description>On August 13th, as monitored by Onchain Lens, a whale that had been inactive for 2 years transferred 290,000 LINK from Binance 19 minutes ago. The transferred amount is approximately worth $7.08 million.</description>
+      <pubDate>Wed, 13 Aug 2025 05:09:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24362</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will launch TCOM Global (TCOM) on August 15th, and eligible users can claim the airdrop using Alpha Points.</title>
+      <link>https://www.lookonchain.com/feeds/24361</link>
+      <description>On August 13th, according to official channels, Binance Alpha is set to become the first platform to list TCOM Global (TCOM) on August 15th. Once Alpha trading commences, eligible users can access the Alpha event page to claim an airdrop by using Alpha Points. Specific details will be disclosed separately.</description>
+      <pubDate>Wed, 13 Aug 2025 05:09:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24361</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bottom-Fishing Whale &quot;7 Siblings&quot; has currently sold 19,957 ETH and still holds approximately 280,000 ETH.</title>
+      <link>https://www.lookonchain.com/feeds/24360</link>
+      <description>On August 13th, as monitored by on-chain analyst Yu Jin, the entity &quot;7 Siblings&quot; purchased 100,000 ETH for approximately $2,270 during last year&apos;s August 5th flash crash. Today, they sold their ETH. So far today, they have sold a total of 19,957 ETH and exchanged it for 90.44 million USDC with an average selling price of $4,532.Currently, they should still hold about 280,000 ETH ($1.3 billion). And they have bought ETH at the dip in two previous flash crashes:During last year&apos;s August 5th flash crash when ETH dropped by more than 15%, they bought 100,000 ETH at around $2,270;During this year&apos;s April 7th flash crash when ETH dropped by more than 10%, they bought 25,000 ETH at around $1,700.</description>
+      <pubDate>Wed, 13 Aug 2025 05:00:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24360</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
       <title>Solana On-chain Meme Coin nub Surges Over 38% in 24 Hours, Market Cap Now at $48 Million</title>
       <link>https://www.lookonchain.com/feeds/24359</link>
       <description>On August 13th, according to GMGN data, the Solana-based Meme coin nub saw a surge of over 38% in the past 24 hours. It currently has a market cap of $48 million and a 24-hour trading volume of $7 million.nubcat (with the token symbol: nub) is derived from the quirky cat character created by artist Leon Karssen more than thirteen years ago. Karssen is a Dutch artist renowned for his humorous hand-drawn style and illustration work related to skateboarding culture. He participates in daily drawing activities, and the community focuses on a playful atmosphere.BlockBeats reminds users that Meme coins often lack practical use cases and experience high price volatility, and investment should be approached with caution.</description>
-      <pubDate>Wed, 13 Aug 2025 04:57:10 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 04:57:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24359</guid>
       <category>crypto</category>
@@ -32,10 +124,27 @@
 
     </item>
     <item>
+      <title>Solana Ecosystem Meme Coins Experience Bull Run, FWOG Surges 33% in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/24358</link>
+      <description>On August 13th, based on market data, as SOL briefly exceeded $200, various meme coins in the Solana ecosystem generally experienced a price increase. These include:· FWOG rose by 33.4% in the past 24 hours and is now priced at $0.06585.· FARTCOIN increased by 26.1% in the past 24 hours and is now priced at $1.11.· BOME surged by 17.7% in the past 24 hours and is now priced at $0.00217.· WIF rose by 11.8% in the past 24 hours and is now priced at $1.031.· POPCAT went up by 11% in the past 24 hours and is now priced at $0.3437.· MEW increased by 10.9% in the past 24 hours and is now priced at $0.00346.· BONK rose by 8.8% in the past 24 hours and is now priced at $0.000027.</description>
+      <pubDate>Wed, 13 Aug 2025 04:41:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24358</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Wang Feng: Cryptographic Assets Such as Bitcoin and Ethereum Will Become Anchors for Fundraising by Funds and Institutions</title>
       <link>https://www.lookonchain.com/feeds/24357</link>
       <description>On August 13th, Wang Feng, the founder of LightHash, mentioned in a post that cryptocurrency is having a profound impact on the financial industry, encompassing banks, asset management companies, and VCs. It is not merely about retail investors holding assets such as Ethereum; rather, it is about a structural consensus taking shape in the financial market. Bitcoin, Ethereum, Solana, and perhaps even XRP are likely to become the anchor assets for many funds and institutional fundraising. Traditional fund managers and General Partners (GPs) are currently altering their viewpoints, and it is still not too late to actively engage.</description>
-      <pubDate>Wed, 13 Aug 2025 04:41:10 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 04:41:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24357</guid>
       <category>crypto</category>
@@ -53,27 +162,10 @@
 
     </item>
     <item>
-      <title>Solana Ecosystem Meme Coins Experience Bull Run, FWOG Surges 33% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/24358</link>
-      <description>On August 13th, based on market data, as SOL briefly exceeded $200, various meme coins in the Solana ecosystem generally experienced a price increase. These include:· FWOG rose by 33.4% in the past 24 hours and is now priced at $0.06585.· FARTCOIN increased by 26.1% in the past 24 hours and is now priced at $1.11.· BOME surged by 17.7% in the past 24 hours and is now priced at $0.00217.· WIF rose by 11.8% in the past 24 hours and is now priced at $1.031.· POPCAT went up by 11% in the past 24 hours and is now priced at $0.3437.· MEW increased by 10.9% in the past 24 hours and is now priced at $0.00346.· BONK rose by 8.8% in the past 24 hours and is now priced at $0.000027.</description>
-      <pubDate>Wed, 13 Aug 2025 04:41:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24358</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>OKX USDT Easy Earn (Flexible Staking) APR Soars to 39%</title>
       <link>https://www.lookonchain.com/feeds/24356</link>
       <description>On August 13th, according to OKX data, the annual percentage rate (APR) of OKX&apos;s USDT &quot;Earn&quot; (Flexible) product witnessed a surge to 39% within the past hour. Since last night, the rate has been fluctuating significantly within the range of 5% to 46%, and it reached a high of 46% around 5 a.m. today.It is reported that such rapid increases in the APR of OKX&apos;s flexible savings products usually take place during periods of high market volatility. Today, ETH continued to rise and exceeded the $4,600 mark, hitting a new high since 2022.</description>
-      <pubDate>Wed, 13 Aug 2025 04:32:10 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 04:32:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24356</guid>
       <category>crypto</category>
@@ -90,7 +182,7 @@
       <title>SOL Surges Past $200, Up 13.7% in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/24355</link>
       <description>On August 13th, based on HTX market data, SOL has surpassed $200 and is currently trading at $200.02, showing a 24-hour increase of 13.7%.</description>
-      <pubDate>Wed, 13 Aug 2025 04:25:10 +0000</pubDate>
+      <pubDate>Wed, 13 Aug 2025 04:29:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24355</guid>
       <category>crypto</category>
@@ -102,98 +194,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance will delist the ANIME/FDUSD, HYPER/FDUSD, and STO/BNB spot trading pairs.</title>
-      <link>https://www.lookonchain.com/feeds/24354</link>
-      <description>According to official information, Binance will remove the ANIME/FDUSD, HYPER/FDUSD, and STO/BNB spot trading pairs from its platform on August 15, 2025, at 11:00 (UTC+8).</description>
-      <pubDate>Wed, 13 Aug 2025 04:25:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24354</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The cryptocurrency exchange platform Bullish is set to be listed on the NYSE today.</title>
-      <link>https://www.lookonchain.com/feeds/24353</link>
-      <description>On August 13th, the cryptocurrency exchange platform Bullish, which is backed by billionaire Peter Thiel, is set to be listed on the NYSE on the same day under the stock symbol BLSH. According to the regulatory filing submitted by the company on August 4th, it plans to sell 20.3 million shares of stock at a price ranging from $28 to $31 per share, aiming to raise up to $629.3 million. Additionally, the underwriters have a 30-day option starting from the date of the prospectus to purchase an extra 3.045 million shares.On August 11th, Bullish enlarged the size of its initial public offering (IPO). It now aims for a valuation of up to $4.82 billion, which is a notable increase from last week&apos;s target of $4.2 billion. The new plan is to sell 30 million shares at a price between $32 and $33 per share. At the highest price, Bullish could raise approximately $990 million.Bullish was launched by Block.one (the blockchain company behind EOS) in 2020. BlackRock and Cathie Wood&apos;s ARK have alr</description>
-      <pubDate>Wed, 13 Aug 2025 04:25:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24353</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Dominance Drops Below 60%, Altcoin Market Cap Rises by 16.18% in the Past Week</title>
-      <link>https://www.lookonchain.com/feeds/24352</link>
-      <description>On August 13th, based on market data, the dominance of Bitcoin (BTC.D) has decreased by 3.98% over the past week and currently stands at 59.32%.During the same period, the total cryptocurrency market capitalization has increased by 9.08% over the past week. The total market capitalization excluding Bitcoin (TOTAL 2) has risen by 16.18%, and the total market capitalization excluding Bitcoin and Ethereum (TOTAL 3) has increased by 10.52%.</description>
-      <pubDate>Wed, 13 Aug 2025 04:08:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24352</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Yesterday&apos;s net inflow into the US Bitcoin Spot ETF was $65.9 million</title>
-      <link>https://www.lookonchain.com/feeds/24350</link>
-      <description>On August 13th, according to Farside&apos;s monitoring, the net inflow into the US Bitcoin spot ETF yesterday was $65.9 million.</description>
-      <pubDate>Wed, 13 Aug 2025 03:58:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24350</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Santiment: Ethereum Retail Traders Continue to Sell Off During ETH Price Surge</title>
-      <link>https://www.lookonchain.com/feeds/24351</link>
-      <description>On August 13th, the cryptocurrency market analysis firm Santiment declared that &quot;Ethereum is currently merely 6.4% away from its historical high of $4,891 on November 16, 2021. During Ethereum&apos;s upward movement, retail traders have been constantly offloading. &quot;In history, price trends often go against the expectations of retail traders. On June 16, 2025, and July 30, extreme greed sentiment emerged, resulting in price corrections. Nevertheless, as the asset price continuously reaches new highs, traders have exhibited panic (FUD) and doubts.Currently, major stakeholders are accumulating Ethereum chips that retail traders are willing to sell, and the price shows almost no resistance from market sentiment, suggesting that Ethereum is likely to break through soon and set a new all-time high.</description>
-      <pubDate>Wed, 13 Aug 2025 03:58:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24351</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
