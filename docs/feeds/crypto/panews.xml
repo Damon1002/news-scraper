@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 02:57:39 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 02:57:39 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 03:55:33 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 03:55:33 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,109 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>以太坊现货ETF昨日净流入7.29亿美元，为历史第二高</title>
+      <link>https://www.panewslab.com/zh/articles/899edb6c-a329-4d1f-8835-c270ac75580b</link>
+      <description>以太坊现货ETF昨日净流入7.29亿美元，为历史第二高</description>
+      <pubDate>Thu, 14 Aug 2025 03:55:33 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/899edb6c-a329-4d1f-8835-c270ac75580b</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Tom Lee：渣打银行将ETH年底价格预期上调至7500美元可能偏低</title>
+      <link>https://www.panewslab.com/zh/articles/8c580d44-c612-4ada-93e2-477c19a302b7</link>
+      <description>Tom Lee：渣打银行将ETH年底价格预期上调至7500美元可能偏低</description>
+      <pubDate>Thu, 14 Aug 2025 03:53:33 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8c580d44-c612-4ada-93e2-477c19a302b7</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>币安推出 USDC 借币限时优惠，享4% 稳定年化利率</title>
+      <link>https://www.panewslab.com/zh/articles/6256834c-6bda-469c-8b40-f6e424697d31</link>
+      <description>币安推出 USDC 借币限时优惠，享4% 稳定年化利率</description>
+      <pubDate>Thu, 14 Aug 2025 03:51:33 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6256834c-6bda-469c-8b40-f6e424697d31</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>爱沙尼亚银行家Rain Lõhmus丢失的以太坊钱包现价值10亿美元</title>
+      <link>https://www.panewslab.com/zh/articles/2bd45a17-e0ce-44aa-ad36-62a6dbc53ef4</link>
+      <description>爱沙尼亚银行家Rain Lõhmus丢失的以太坊钱包现价值10亿美元</description>
+      <pubDate>Thu, 14 Aug 2025 03:49:33 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2bd45a17-e0ce-44aa-ad36-62a6dbc53ef4</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>分析师：稳定币和DeFi等每年或可解锁近万亿美元的全球经济价值</title>
+      <link>https://www.panewslab.com/zh/articles/915de07e-b256-4588-9370-a5a34125c8ec</link>
+      <description>分析师：稳定币和DeFi等每年或可解锁近万亿美元的全球经济价值</description>
+      <pubDate>Thu, 14 Aug 2025 03:47:33 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/915de07e-b256-4588-9370-a5a34125c8ec</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>defi</category>
+
+    </item>
+    <item>
+      <title>矿企Greenidge第二季度净亏损410万美元，产出110枚BTC</title>
+      <link>https://www.panewslab.com/zh/articles/f9d34c88-6323-4189-98ad-aacf35968b6e</link>
+      <description>矿企Greenidge第二季度净亏损410万美元，产出110枚BTC</description>
+      <pubDate>Thu, 14 Aug 2025 03:45:33 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f9d34c88-6323-4189-98ad-aacf35968b6e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>加密市场持续上攻，BTC突破12.4万美元创历史新高</title>
       <link>https://www.panewslab.com/zh/articles/95137292-f7f3-4b11-9d36-46a199c4307f</link>
       <description>加密市场持续上攻，BTC突破12.4万美元创历史新高</description>
-      <pubDate>Thu, 14 Aug 2025 02:57:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:43:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/95137292-f7f3-4b11-9d36-46a199c4307f</guid>
       <category>crypto</category>
@@ -34,7 +133,7 @@
       <title>某鲸鱼出售部分ETH增加保证金避免清算，目前浮亏1800万美元</title>
       <link>https://www.panewslab.com/zh/articles/a159f0a9-bc57-4aa1-b125-02bacba721b9</link>
       <description>某鲸鱼出售部分ETH增加保证金避免清算，目前浮亏1800万美元</description>
-      <pubDate>Thu, 14 Aug 2025 02:55:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:41:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a159f0a9-bc57-4aa1-b125-02bacba721b9</guid>
       <category>crypto</category>
@@ -51,7 +150,7 @@
       <title>Solayer成员Chaofan Shou开源其Bonkfun迁移狙击手</title>
       <link>https://www.panewslab.com/zh/articles/9383aa70-415e-4874-8dea-15ebaf04bd6a</link>
       <description>Solayer成员Chaofan Shou开源其Bonkfun迁移狙击手</description>
-      <pubDate>Thu, 14 Aug 2025 02:53:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:39:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9383aa70-415e-4874-8dea-15ebaf04bd6a</guid>
       <category>crypto</category>
@@ -66,7 +165,7 @@
       <title>两个新地址过去6小时内从Coinbase提出约867万美元的PEPE</title>
       <link>https://www.panewslab.com/zh/articles/1db64b36-f494-4dbf-8c4d-2976e5138f9d</link>
       <description>两个新地址过去6小时内从Coinbase提出约867万美元的PEPE</description>
-      <pubDate>Thu, 14 Aug 2025 02:51:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:37:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1db64b36-f494-4dbf-8c4d-2976e5138f9d</guid>
       <category>crypto</category>
@@ -81,7 +180,7 @@
       <title>昨夜今晨重要资讯（8月13日-8月14日）</title>
       <link>https://www.panewslab.com/zh/articles/87950520-0cb1-4ea1-9807-c6dfa8880c35</link>
       <description>昨夜今晨重要资讯（8月13日-8月14日）</description>
-      <pubDate>Thu, 14 Aug 2025 02:49:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:35:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/87950520-0cb1-4ea1-9807-c6dfa8880c35</guid>
       <category>crypto</category>
@@ -96,7 +195,7 @@
       <title>韩国公布123项“五年国政计划”，提出要推动虚拟资产市场的发展</title>
       <link>https://www.panewslab.com/zh/articles/e6ff85fd-279e-4d2c-8698-76dfc051a84b</link>
       <description>韩国公布123项“五年国政计划”，提出要推动虚拟资产市场的发展</description>
-      <pubDate>Thu, 14 Aug 2025 02:47:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:33:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e6ff85fd-279e-4d2c-8698-76dfc051a84b</guid>
       <category>crypto</category>
@@ -111,7 +210,7 @@
       <title>AguilaTrades再次做空ETH，目前浮亏41.6万美元</title>
       <link>https://www.panewslab.com/zh/articles/ece8a58e-75dc-42e3-a4af-eefa72a1b18d</link>
       <description>AguilaTrades再次做空ETH，目前浮亏41.6万美元</description>
-      <pubDate>Thu, 14 Aug 2025 02:45:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:31:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ece8a58e-75dc-42e3-a4af-eefa72a1b18d</guid>
       <category>crypto</category>
@@ -128,7 +227,7 @@
       <title>Upbit运营商Dunamu将与MB Bank合作推出越南首个加密交易所</title>
       <link>https://www.panewslab.com/zh/articles/4be98927-211f-4a19-9338-24505fb99487</link>
       <description>Upbit运营商Dunamu将与MB Bank合作推出越南首个加密交易所</description>
-      <pubDate>Thu, 14 Aug 2025 02:43:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:29:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4be98927-211f-4a19-9338-24505fb99487</guid>
       <category>crypto</category>
@@ -143,7 +242,7 @@
       <title>AguilaTrades凌晨对BTC和ETH进行6次操作亏损184.6万美元，目前开启ETH多单</title>
       <link>https://www.panewslab.com/zh/articles/ba9aa2af-4c38-4bfc-945f-5b2349aa1f28</link>
       <description>AguilaTrades凌晨对BTC和ETH进行6次操作亏损184.6万美元，目前开启ETH多单</description>
-      <pubDate>Thu, 14 Aug 2025 02:41:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:27:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ba9aa2af-4c38-4bfc-945f-5b2349aa1f28</guid>
       <category>crypto</category>
@@ -162,7 +261,7 @@
       <title>Justin Sun向彭博社提起诉讼，试图阻止敏感财务信息披露</title>
       <link>https://www.panewslab.com/zh/articles/cbf93b2b-31f5-4645-8ffb-27ca60d3e0ab</link>
       <description>Justin Sun向彭博社提起诉讼，试图阻止敏感财务信息披露</description>
-      <pubDate>Thu, 14 Aug 2025 02:39:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:25:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cbf93b2b-31f5-4645-8ffb-27ca60d3e0ab</guid>
       <category>crypto</category>
@@ -177,7 +276,7 @@
       <title>行情：OKB日内涨幅11.29%，STRK日内跌幅0.93%</title>
       <link>https://www.panewslab.com/zh/articles/svko4ut0</link>
       <description>行情：OKB日内涨幅11.29%，STRK日内跌幅0.93%</description>
-      <pubDate>Thu, 14 Aug 2025 02:37:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:23:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/svko4ut0</guid>
       <category>crypto</category>
@@ -192,7 +291,7 @@
       <title>Dragonfly投资人：降息对Circle而言堪称灾难，收入和利润将大幅下降</title>
       <link>https://www.panewslab.com/zh/articles/5988d910-f25e-494e-89e4-94c7edf2e193</link>
       <description>Dragonfly投资人：降息对Circle而言堪称灾难，收入和利润将大幅下降</description>
-      <pubDate>Thu, 14 Aug 2025 02:35:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:21:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5988d910-f25e-494e-89e4-94c7edf2e193</guid>
       <category>crypto</category>
@@ -207,7 +306,7 @@
       <title>Gavin Wood将于8月底重新担任Parity CEO职务</title>
       <link>https://www.panewslab.com/zh/articles/70a8945b-aac7-4a79-a00a-6db7319e2e11</link>
       <description>Gavin Wood将于8月底重新担任Parity CEO职务</description>
-      <pubDate>Thu, 14 Aug 2025 02:33:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:19:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/70a8945b-aac7-4a79-a00a-6db7319e2e11</guid>
       <category>crypto</category>
@@ -222,7 +321,7 @@
       <title>Ark Invest多支基金合计买入约253万股BLSH，价值约1.72亿美元</title>
       <link>https://www.panewslab.com/zh/articles/5083a49d-6d88-4bfe-95d8-1a36a33242c9</link>
       <description>Ark Invest多支基金合计买入约253万股BLSH，价值约1.72亿美元</description>
-      <pubDate>Thu, 14 Aug 2025 02:31:39 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:17:33 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5083a49d-6d88-4bfe-95d8-1a36a33242c9</guid>
       <category>crypto</category>
@@ -231,101 +330,6 @@
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Radiant Capital黑客在过去1小时里出售了4,326枚ETH</title>
-      <link>https://www.panewslab.com/zh/articles/cfc96f60-8498-49b7-b8e4-002657349fbb</link>
-      <description>Radiant Capital黑客在过去1小时里出售了4,326枚ETH</description>
-      <pubDate>Thu, 14 Aug 2025 02:29:39 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cfc96f60-8498-49b7-b8e4-002657349fbb</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>OKX CEO Star 将受邀出席 TOKEN2049 新加坡峰会</title>
-      <link>https://www.panewslab.com/zh/articles/5e4da3e2-d722-48a2-b4ff-12af0f6b5632</link>
-      <description>OKX CEO Star 将受邀出席 TOKEN2049 新加坡峰会</description>
-      <pubDate>Thu, 14 Aug 2025 02:27:39 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5e4da3e2-d722-48a2-b4ff-12af0f6b5632</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>EF联合执行董事：昨日卖出2794.87枚ETH的地址不属于以太坊基金会</title>
-      <link>https://www.panewslab.com/zh/articles/ae53fec0-2118-4887-8650-3e9eb7031265</link>
-      <description>EF联合执行董事：昨日卖出2794.87枚ETH的地址不属于以太坊基金会</description>
-      <pubDate>Thu, 14 Aug 2025 02:25:39 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ae53fec0-2118-4887-8650-3e9eb7031265</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>“山寨币”（altcoin）谷歌搜索量已达到2021年以来最高水平</title>
-      <link>https://www.panewslab.com/zh/articles/68360814-bf02-4d27-9d8c-dc61b3a9692e</link>
-      <description>“山寨币”（altcoin）谷歌搜索量已达到2021年以来最高水平</description>
-      <pubDate>Thu, 14 Aug 2025 02:23:39 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/68360814-bf02-4d27-9d8c-dc61b3a9692e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>曾在HYPE交易中获利785万美元的某鲸鱼买入16.68万枚HYPE</title>
-      <link>https://www.panewslab.com/zh/articles/9738d0ad-b665-4afd-b2f8-da1e52497733</link>
-      <description>曾在HYPE交易中获利785万美元的某鲸鱼买入16.68万枚HYPE</description>
-      <pubDate>Thu, 14 Aug 2025 02:21:39 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9738d0ad-b665-4afd-b2f8-da1e52497733</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>OKX CEO Star：X Layer将以“一链一币”模式驱动DeFi、支付与RWA发展</title>
-      <link>https://www.panewslab.com/zh/articles/8ac9a953-a203-497b-8227-a86e09a37edf</link>
-      <description>OKX CEO Star：X Layer将以“一链一币”模式驱动DeFi、支付与RWA发展</description>
-      <pubDate>Thu, 14 Aug 2025 02:19:39 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8ac9a953-a203-497b-8227-a86e09a37edf</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>defi</category>
 
     </item>
   </channel>
