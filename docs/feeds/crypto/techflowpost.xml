@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 08:57:35 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 08:57:35 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 09:30:22 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 09:30:22 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,64 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>某新建地址从币安提取价值 505 万美元 LINK</title>
+      <title>Robinhood 正在申请迪拜金融监管牌照，拟进军中东北非市场</title>
       <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，新建地址 0x42B...6bbf6 从币安交易所提取 210,924 枚 LINK，价值约 505 万美元，均价为 23.94 美元。</description>
+      <description>据 Financefeeds 报道，Robinhood 已向迪拜金融服务管理局（DFSA）提交监管牌照申请，计划在阿联酋开展外汇及其他交易服务。该公司已任命金融服务许可和运营经验丰富的高管 Mario Camara 负责迪拜业务。获得 DFSA 许可后，Robinhood 不仅可以为阿联酋用户提供...</description>
+      <pubDate>Thu, 14 Aug 2025 09:22:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Glassnode：99% 的比特币处于盈利状态，市场结构具有韧性</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Glassnode 在社交媒体发文称，目前 99% 的 BTC 供应量处于盈利状态。即使在 7 月份的市场调整期间，该指标仍保持在 95% 的高位。该指标在其 +1 标准差区间获得支撑，表明投资者继续围绕未实现收益进行锚定，反映出市场结构在波动中保持韧性。</description>
+      <pubDate>Thu, 14 Aug 2025 09:12:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安和 bitFlyer 正在质押共计 32 万枚以太坊，总价值约 15.1 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，bitFlyer 和币安两家交易所正在进行总计 32 万枚以太坊的质押操作。其中，bitFlyer 正在质押 24 万枚以太坊（约 11.34 亿美元）。该交易所在两天前宣布推出以太坊质押功能后，已将这些以太坊转入质押执行地址进行存入。币安方面则在半小时前...</description>
+      <pubDate>Thu, 14 Aug 2025 09:07:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Bitget 推出第 4 期交易俱乐部争霸赛，单人最高可得 500 枚 BGB</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Bitget 推出第 4 期现货交易俱乐部争霸赛，总奖池 50,000 枚 BGB。本次活动共有 2 个子奖池，其中- 积分挑战赛奖池：用户每日累计买入金额每达到一个指定档位，即可获得 1 积分，多个档位可累计获得积分，每日积分获取无上限。达到获奖条件的用户将有机会解锁 20,450 枚 BGB ...</description>
+      <pubDate>Thu, 14 Aug 2025 09:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>JustLend DAO 发起 USD1 稳定币市场提案，最高存款 APY 可达 72.9%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，JustLend DAO正式发起治理提案，计划上线World Liberty Financial发行的全额抵押美元稳定币USD1（TRC20）。该提案将在智能合约中新增jUSD1支持，USD1初始抵押系数为0%，储备系数为10%，并引入跳跃式利率模型，当利用率超过 80% 时，利率将跃...</description>
+      <pubDate>Thu, 14 Aug 2025 09:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某新建地址于 6 小时前从币安提取价值 505 万美元的 LINK</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，新建地址 0x42B...6bbf6 于 6 小时前从币安交易所提取 210,924 枚 LINK，价值约 505 万美元，均价为 23.94 美元。</description>
       <pubDate>Thu, 14 Aug 2025 08:56:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -25,9 +80,9 @@
 
     </item>
     <item>
-      <title>华尔街日报：美联储戴利称下个月大幅降息似乎并不合适</title>
+      <title>美联储戴利：下个月似乎没有大幅降息的必要性</title>
       <link>https://www.techflowpost.com</link>
-      <description>据金十数据援引华尔街日报报道，美联储戴利称下个月大幅降息似乎并不合适。</description>
+      <description>据金十数据援引华尔街日报报道，美联储戴利反对在美联储9月会议上一次性降息50个基点的必要性。戴利在周三的一次采访中表示：“对我来说，50个基点听起来就像我们看到了紧急情况——我担心它会发出一个紧急信号，而我并不认为劳动力市场有如此强劲的势头，我没有看到需要‘追赶’的理由。”戴利支持美联储上月维持利...</description>
       <pubDate>Thu, 14 Aug 2025 08:53:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -49,7 +104,7 @@
     <item>
       <title>蓝港互动公布最新加密资产持仓约为 3400 万美元，拟启动 1 亿美元资产管理计划</title>
       <link>https://www.techflowpost.com</link>
-      <description>蓝港互动集团（港交所代码：8267）今日发布公告，由集团加密业务事业部 LK Crypto 统一管理的加密资产持仓（含参股公司）如下：• 193.08 枚比特币（均价约 US$73,015）• 1,707.63 枚以太坊（均价约 US$3,155）• 14,057 枚 Solana（均价约 US$...</description>
+      <description>蓝港互动集团（港交所代码：8267）今日发布公告，由集团加密业务事业部 LK Crypto 统一管理的加密资产持仓（含参股公司）如下：• 193.08 枚比特币（持有均价约 US$73,015）• 1,707.63 枚以太坊（持有均价约 US$3,155）• 14,057 枚 Solana（持有均...</description>
       <pubDate>Thu, 14 Aug 2025 08:48:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，一位自 2025 年 3 月以来连续四次做空 BTC 的巨鲸仍在扛单，两个月时间内其 20 倍杠杆 BTC 空单从浮盈 574 万美元转为浮亏 1281 万美元。不过该巨鲸通过资金费赚取约 433 万美元，加上之前及时止盈获得的超 1496...</description>
       <pubDate>Thu, 14 Aug 2025 07:17:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美SEC确认受理 Invesco Galaxy 现货 Solana ETF 申请</title>
-      <link>https://www.techflowpost.com</link>
-      <description>此前消息，Invesco Galaxy向Cboe递交Solana现货ETF上市申请。</description>
-      <pubDate>Thu, 14 Aug 2025 07:10:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>HashKey Cloud 携手 OneInfinity 推出 Slashing 保险，全方位守护客户质押资产</title>
-      <link>https://www.techflowpost.com</link>
-      <description>HashKey Cloud 正式宣布与亚洲首家持牌数字资产保险公司 OneInfinity by OneDegree 达成战略合作，共同推出链上质押保险解决方案。该合作将为加密投资者、交易所交易基金（ETF）及加密金库等提供专业级 Slashing 保险服务，助力用户安心参与DeFi与质押生态，安...</description>
-      <pubDate>Thu, 14 Aug 2025 07:10:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BNB短时触及865.68美元，创历史新高</title>
-      <link>https://www.techflowpost.com</link>
-      <description>币安行情显示，BNB短时触及865.68美元，现报862.3美元，24小时涨幅为3.35%，创历史新高。</description>
-      <pubDate>Thu, 14 Aug 2025 06:53:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Robinhood 7月运营数据：平台总资产达2980亿美元，环比增长7%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Robinhood Markets, Inc.（纳斯达克股票代码：HOOD）发布2025年7月运营数据。数据显示，平台总资产达2980亿美元，环比增长7%，同比增长106%。月度关键数据：已入账客户数达2670万，环比增加16万净存款64亿美元，年化增长率28%股票交易量2091亿美元，环比增长1...</description>
-      <pubDate>Thu, 14 Aug 2025 06:51:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Kaia（KAIA）上线 Upbit 新加坡新元市场</title>
-      <link>https://www.techflowpost.com</link>
-      <description>根据 Upbit Global 消息，Kaia（KAIA）于 2025 年 8 月 14 日上线 Upbit 新加坡新元市场，用户可以直接使用 $KAIA 兑换 SGD，并通过 PayNow 和 FAST 享受无缝的法币存取功能。Upbit 持有新加坡金融管理局 (MAS) 的牌照，并符合相关法规...</description>
-      <pubDate>Thu, 14 Aug 2025 06:31:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
