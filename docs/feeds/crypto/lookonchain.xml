@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 15:53:24 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 15:53:24 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 16:21:43 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 16:21:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>If Ethereum drops below $4400, the total Long Liquidation on major CEXs will reach $1.191 billion.</title>
+      <link>https://www.lookonchain.com/feeds/24645</link>
+      <description>On August 15th, according to Coinglass data, if Ethereum drops below $4400, the total liquidation strength of mainstream CEXs in terms of long positions will reach $1.191 billion.Conversely, if Ethereum surges above $4700, the total liquidation strength of mainstream CEXs in terms of short positions will reach $928 million.BlockBeats Note: The liquidation chart does not display the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, the strength.Therefore, the liquidation chart shows to what extent the target price will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will have a more intense reaction due to a surge in liquidity when it reaches that level.</description>
+      <pubDate>Thu, 14 Aug 2025 16:16:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24645</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The US Banking Industry Calls for Amendment to the GENIUS Act Signed by Trump, Warning of Potential Financial Risks</title>
+      <link>https://www.lookonchain.com/feeds/24644</link>
+      <description>August 14th. According to The Block, the largest banking association in the US is advising senators to fill what it deems as loopholes in the stablecoin legislation signed by President Trump last month. It is stated that these loopholes may pose a threat to the broader financial system.This week, the American Bankers Association (ABA) along with 52 other banking organizations sent a letter to the leadership of the Senate Banking Committee, suggesting revisions to the American Stablecoin Guidance and Establishment of a National Innovation in U.S. Act (GENIUS). The letter highlighted concerns in aspects such as interest payments, state-level regulations, and the issuance of stablecoins by non-financial companies.The dispute centers around the prohibition in the GENIUS Act on stablecoin issuers paying interest to holders, which is regarded as being too lenient. While these groups support the restrictive measures, they contend that the new legislation can be easily bypassed by e</description>
+      <pubDate>Thu, 14 Aug 2025 15:56:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24644</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Dinari will launch the L1 blockchain Dinari Financial Network</title>
       <link>https://www.lookonchain.com/feeds/24643</link>
       <description>On August 14th, as per CoinDesk, Dinari, a startup that offers blockchain-based U.S. stock trading services, is set to launch the L1 blockchain called Dinari Financial Network. The network is designed to serve as a coordination and settlement layer for securities issued on other networks such as Arbitrum and is custom-built using the Avalanche (AVAX) technology stack. The testnet is currently in operation, with the plan to go live publicly in the upcoming weeks.In June of this year, Dinari obtained a broker-dealer registration from the Financial Industry Regulatory Authority (FINRA) in the United States, enabling it to tokenize securities under the U.S. National Market System (NMS) and providing a compliant solution for issuing tokenized versions of U.S. publicly traded stocks.</description>
-      <pubDate>Thu, 14 Aug 2025 15:48:32 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 15:48:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24643</guid>
       <category>crypto</category>
@@ -31,29 +68,10 @@
 
     </item>
     <item>
-      <title>Lido&apos;s market share in the Ethereum staking market has dropped to 24.4%, hitting an all-time low.</title>
-      <link>https://www.lookonchain.com/feeds/24641</link>
-      <description>On August 14th, as per Coindesk, Lido&apos;s market share within the Ethereum staking market has plummeted to 24.4%, reaching a record low. During the past month, Figment has witnessed the most significant increase in staked ETH, adding approximately 344,000 ETH and currently accounting for 4.5% of all staked ETH. Lido has experienced the largest exodus of stakers, totaling around 285,000 ETH.With the growing competition and the opening up of new avenues in the industry through infrastructure tailored for institutional financing, there has been a shift in the previously dominant platforms, indicating that the staking ecosystem is maturing.</description>
-      <pubDate>Thu, 14 Aug 2025 15:32:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24641</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
       <title>LookOnChain: Ethereum Drops Below $4600</title>
       <link>https://www.lookonchain.com/feeds/24642</link>
       <description>On August 14th, based on HTX market data, Ethereum fell below $4600, experiencing a 24-hour decline of 1.15%.</description>
-      <pubDate>Thu, 14 Aug 2025 15:32:32 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 15:32:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24642</guid>
       <category>crypto</category>
@@ -70,12 +88,12 @@
 
     </item>
     <item>
-      <title>Federal Reserve&apos;s Mester: It&apos;s Too Early to Decide on September Rate Decision</title>
-      <link>https://www.lookonchain.com/feeds/24640</link>
-      <description>August 14th: Mester from the Federal Reserve indicated that it is still too soon to determine whether to cut interest rates during the next month&apos;s meeting. When queried about whether there is a reason to cut rates by 50 basis points next month, Mester remarked that, in his view, this would be &quot;not justified by the current economic conditions and economic outlook.&quot; Mester referred to the fact that, on one hand, &quot;the data is beginning to provide us with certain indications regarding the possibility of sustained inflation.&quot;Meanwhile, he alluded to the &quot;downside risks to the labor market.&quot; Mester stated that the U.S. economic growth is decelerating, along with tariffs exerting pressure on corporate profit margins, which could pose a threat to the robust labor market performance witnessed thus far. He said: &quot;I am weighing these two factors, and when we encounter tensions between the two objectives, we need to adopt a balanced approach.&quot; (FXStreet)</description>
-      <pubDate>Thu, 14 Aug 2025 15:16:32 +0000</pubDate>
+      <title>Lido&apos;s market share in the Ethereum staking market has dropped to 24.4%, hitting an all-time low.</title>
+      <link>https://www.lookonchain.com/feeds/24641</link>
+      <description>On August 14th, as per Coindesk, Lido&apos;s market share within the Ethereum staking market has plummeted to 24.4%, reaching a record low. During the past month, Figment has witnessed the most significant increase in staked ETH, adding approximately 344,000 ETH and currently accounting for 4.5% of all staked ETH. Lido has experienced the largest exodus of stakers, totaling around 285,000 ETH.With the growing competition and the opening up of new avenues in the industry through infrastructure tailored for institutional financing, there has been a shift in the previously dominant platforms, indicating that the staking ecosystem is maturing.</description>
+      <pubDate>Thu, 14 Aug 2025 15:32:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24640</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24641</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -84,13 +102,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
       <title>During the market pullback, the Hyperliquid whale continued to accumulate, with over $25 million in unrealized losses on their ETH short position.</title>
       <link>https://www.lookonchain.com/feeds/24639</link>
       <description>On August 14th, according to the monitoring of HyperInsight, during a short-term market decline, three major whales took the opposite action and increased their short positions, resulting in a continuous increase in unrealized losses:The whale with the address starting with 0x7fdafd added $880,000 to their short position in ETH. Currently, they are facing an unrealized loss of $6,855,500, with a liquidation price of $6,958.909. They also hold a short position in HYPE (entry price $43.56), with an unrealized loss of $2,077,700.The whale with the address starting with 0x5d2f446 added $914,900 to their short position in BTC. They are facing an unrealized loss of $9,350,800, with a liquidation price of $130,124.643.The whale with the address starting with 0x20c2d increased their short position in ETH by 10.62 tokens (approximately $1,086,600). The total unrealized loss is $25,585,700, and the liquidation price is $6,072.300.</description>
-      <pubDate>Thu, 14 Aug 2025 15:08:32 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 15:20:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24639</guid>
       <category>crypto</category>
@@ -108,10 +128,27 @@
 
     </item>
     <item>
+      <title>Federal Reserve&apos;s Mester: It&apos;s Too Early to Decide on September Rate Decision</title>
+      <link>https://www.lookonchain.com/feeds/24640</link>
+      <description>August 14th: Mester from the Federal Reserve indicated that it is still too soon to determine whether to cut interest rates during the next month&apos;s meeting. When queried about whether there is a reason to cut rates by 50 basis points next month, Mester remarked that, in his view, this would be &quot;not justified by the current economic conditions and economic outlook.&quot; Mester referred to the fact that, on one hand, &quot;the data is beginning to provide us with certain indications regarding the possibility of sustained inflation.&quot;Meanwhile, he alluded to the &quot;downside risks to the labor market.&quot; Mester stated that the U.S. economic growth is decelerating, along with tariffs exerting pressure on corporate profit margins, which could pose a threat to the robust labor market performance witnessed thus far. He said: &quot;I am weighing these two factors, and when we encounter tensions between the two objectives, we need to adopt a balanced approach.&quot; (FXStreet)</description>
+      <pubDate>Thu, 14 Aug 2025 15:20:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24640</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Huobi Responds to Fortune Article About Its Approximately 10% Ownership of Binance: Not Accurate</title>
       <link>https://www.lookonchain.com/feeds/24638</link>
       <description>On August 14th, He Yi, a co-founder of Binance, responded to an article in Fortune on social media. He said, &quot;Some details in the article are incorrect, such as the shareholding percentage. It has a very Western perspective, but rarity is not negative.&quot;Before this, Fortune reported that He Yi, a co-founder of Binance, owns approximately 10% of Binance.</description>
-      <pubDate>Thu, 14 Aug 2025 15:00:32 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 15:20:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24638</guid>
       <category>crypto</category>
@@ -128,7 +165,7 @@
       <title>LookOnChain: Ethereum Surges Past $4700</title>
       <link>https://www.lookonchain.com/feeds/24637</link>
       <description>On August 14th, based on HTX market data, Ethereum has seen a rebound and exceeded $4700, with a 24-hour percentage change of 0.75%.</description>
-      <pubDate>Thu, 14 Aug 2025 14:52:32 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 14:20:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24637</guid>
       <category>crypto</category>
@@ -148,7 +185,7 @@
       <title>Federal Reserve&apos;s Mester: A 50 Basis Point Rate Cut Is Not Consistent with Current Economic Conditions or Data</title>
       <link>https://www.lookonchain.com/feeds/24636</link>
       <description>On August 14th, Federal Reserve&apos;s Mester indicated that a 50-basis-point rate cut is not supported by the current economic conditions or data. (Xinhua News Agency)</description>
-      <pubDate>Thu, 14 Aug 2025 14:52:32 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 14:20:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24636</guid>
       <category>crypto</category>
@@ -159,44 +196,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>U.S. Stock Bullish (BLSH) Surges Over 22%, Market Cap Exceeds $12 Billion</title>
-      <link>https://www.lookonchain.com/feeds/24635</link>
-      <description>On August 14th, based on the market data from Rockflow, the US stock cryptocurrency exchange Bullish (BLSH) witnessed a surge of over 22%. It is currently trading at $83.28, and its market capitalization exceeds $12 billion.</description>
-      <pubDate>Thu, 14 Aug 2025 14:52:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24635</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Rebounds Above $119,000</title>
-      <link>https://www.lookonchain.com/feeds/24634</link>
-      <description>On August 14th, according to HTX market data, Bitcoin rebounded and rose above $119,000, with a 24-hour decline of 2.33%.</description>
-      <pubDate>Thu, 14 Aug 2025 14:52:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24634</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
