@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Aug 2025 23:52:07 +0000</lastBuildDate>
-    <pubDate>Wed, 13 Aug 2025 23:52:07 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 01:04:12 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 01:04:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Bitcoin Market Cap Surpasses Google Parent Company Alphabet, Enters Global Top 5</title>
-      <link>https://www.lookonchain.com/feeds/24473</link>
-      <description>On August 14th, based on HTX market data, Bitcoin reached a brand new all-time high of $123,667 after 30 days. As of the time of writing, the price is currently $123,458, indicating a 24-hour increase of 2.69%.Moreover, according to 8Market data, Bitcoin&apos;s market capitalization has exceeded that of Google&apos;s parent company, Alphabet, reaching $2.457 trillion and ranking it fifth in the global mainstream asset ranking.</description>
-      <pubDate>Wed, 13 Aug 2025 23:48:14 +0000</pubDate>
+      <title>Radiant Capital Attacker Sells 2496 ETH at an Average Price of $4741</title>
+      <link>https://www.lookonchain.com/feeds/24488</link>
+      <description>On August 14th, as per the monitoring of Onchain Lens, the exploiters of Radiant Capital sold 2,496 ETH at a price of $4,741, and this was exchanged for DAI worth $11.83 million. The platform was hacked on October 17, 2024, and a loss of $53 million occurred.</description>
+      <pubDate>Thu, 14 Aug 2025 01:00:19 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24473</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24488</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,37 +28,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Surges to $123,330, Hits New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/24472</link>
-      <description>On August 14th, according to HTX market data, Bitcoin surged to $123,330, reaching another record high. Its market capitalization stood at $2.46 trillion, and it witnessed a 24-hour percentage change of 2.83%.</description>
-      <pubDate>Wed, 13 Aug 2025 22:56:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24472</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Bullish IPO Soars Over 176% on First Trading Day, Reaching a Market Cap of Nearly $15 Billion</title>
-      <link>https://www.lookonchain.com/feeds/24471</link>
-      <description>On August 14th, based on the market data from Rockflow, the cryptocurrency exchange platform Bullish (BLSH.US) witnessed a first-day IPO opening surge of more than 176%, reaching $102.44, and its total market value was nearly $15 billion.It has now pulled back to $90.12, with a market value of $13.158 billion.</description>
-      <pubDate>Wed, 13 Aug 2025 17:51:14 +0000</pubDate>
+      <title>MyStonks has issued an announcement regarding cooperation with a regulatory investigation and ensuring the security of funds for regular users.</title>
+      <link>https://www.lookonchain.com/feeds/24487</link>
+      <description>August 14th, The MyStonks platform announced that it has recently received a law enforcement request from a U.S. regulatory agency in relation to a single user, which involves multiple special investigations such as anti-money laundering, fraud syndicates, drug trafficking, sanctions evasion, and suspicious activity reports (SAR). This investigation is specifically targeted at a single user and does not impact the platform&apos;s other users&apos; deposit and withdrawal operations. The platform&apos;s business operation remains normal. As a fully compliant and regulated digital asset platform, MyStonks has obtained the U.S. FinCEN Money Service Business License (MSB) and has completed the SEC Security Token Offering (STO) filing. The platform&apos;s compliance department has reached out to the involved user through secure channels and guided them to complete the relevant compliance information submission. All user information is strictly confidential and is only used and shared within the legal limits.M</description>
+      <pubDate>Thu, 14 Aug 2025 00:57:19 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24471</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24487</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -67,50 +48,35 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain swing trader sold 10,000 ETH at an average price of $3,835 one week ago and bought back at an average price of $4,715 8 hours ago.</title>
+      <link>https://www.lookonchain.com/feeds/24486</link>
+      <description>On August 14th, according to the on-chain data analyst Yujin Monitoring. A week ago (August 7th), an ETH whale address sold 10,256 ETH on the blockchain and exchanged it for 39.336 million USDT, with an average price of $3,835. Eight hours ago, they purchased 10,730 ETH back on the blockchain using 50.596 million USDT, at an average price of $4,715.</description>
+      <pubDate>Thu, 14 Aug 2025 00:56:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24486</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Trump: If &quot;TrumPutin&quot; goes smoothly, a trilateral meeting among the US, Russia, and Ukraine will take place</title>
-      <link>https://www.lookonchain.com/feeds/24470</link>
-      <description>On Wednesday, August 14th, U.S. President Trump stated that if his meeting with Russian President Putin proceeds smoothly, he anticipates the possibility of promptly convening a second meeting involving both Putin and Ukrainian President Zelensky. He said, &quot;If the first one goes well, we&apos;ll have a second one shortly.&quot; Trump further expressed his desire to hold the second meeting immediately. If both Putin and Zelensky desire it, he indicated that a second meeting among Putin, Zelensky, and himself would be arranged very quickly. Trump did not specify a definite timeline for the second meeting. Additionally, Trump stated that if Putin refuses to agree to halt the war, Russia will face certain consequences. He did not elaborate on these consequences, but he had previously warned that in the absence of a breakthrough, strict economic sanctions would be imposed. (FXStreet)</description>
-      <pubDate>Wed, 13 Aug 2025 16:51:14 +0000</pubDate>
+      <title>Ark Invest&apos;s multiple funds bought 2,532,000 shares of BLSH, worth $172 million.</title>
+      <link>https://www.lookonchain.com/feeds/24485</link>
+      <description>On August 14th, based on the daily data of Ark Invest, Cathie Wood&apos;s Ark Invest funds purchased a total of 2,532,693 shares of Bullish (BLSH) yesterday. The calculation was based on a closing price of $68. The current value of their position is $172.2 million. The details are as follows:ARKK purchased 1,714,522 shares of BLSH.ARKW bought 545,416 shares of BLSH.ARKF bought 272,755 shares of BLSH.</description>
+      <pubDate>Thu, 14 Aug 2025 00:49:19 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24470</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: Will Appoint New Fed Chair Soon, Only Three to Four Candidates Left</title>
-      <link>https://www.lookonchain.com/feeds/24469</link>
-      <description>On August 14th, President Trump of the United States stated that he will appoint a new Chairman of the Federal Reserve as soon as possible, and there are only three to four candidates left. When the renovation of the Federal Reserve building is completed, Powell will have &quot;already left office.&quot; (FX168)</description>
-      <pubDate>Wed, 13 Aug 2025 16:51:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24469</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>In the past 24 hours, a total of $545 million has been liquidated across the network, with the majority coming from liquidated short positions.</title>
-      <link>https://www.lookonchain.com/feeds/24468</link>
-      <description>On August 14th, based on Coinglass data, within the past 24 hours, a total of $545 million was liquidated across the entire network. There were $170 million in long liquidations and $375 million in short liquidations. A total of 114,878 people were liquidated globally. The largest single liquidation took place on Bybit - BTCUSD with a value of $10 million.</description>
-      <pubDate>Wed, 13 Aug 2025 15:51:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24468</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24485</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -123,12 +89,12 @@
 
     </item>
     <item>
-      <title>CLIPPY Meme Coin Surges Over 34% in the Past Hour, Market Cap Reaches $22.4 Million</title>
-      <link>https://www.lookonchain.com/feeds/24467</link>
-      <description>August 13th. According to GMGN data, the Solana-based Meme coin CLIPPY (Clippy PFP Cult) witnessed a surge of over 34% in the past hour. It has a market capitalization of $22.4 million and a 24-hour trading volume of $18.2 million.CLIPPY (Clippy PFP Cult) showcases the image of the classic Microsoft Office assistant Clippy. It represents a silent protest against modern tech companies that harm user interests through aggressive advertising, data collection, and complex subscription models. It conveys nostalgia for the pure software era of the past.BlockBeats reminds users that Meme coins often lack practical use cases and experience significant price volatility. Therefore, caution should be exercised when investing.</description>
-      <pubDate>Wed, 13 Aug 2025 15:51:14 +0000</pubDate>
+      <title>A certain mysterious whale address has once again accumulated 33,402 ETH in the past 3 hours.</title>
+      <link>https://www.lookonchain.com/feeds/24484</link>
+      <description>On August 14th, as per the monitoring of LookOnChain, a certain mysterious whale address has once again created 2 new wallets within the past 3 hours, amassing 33,402 ETH (valued at approximately $1.58 billion).Over the past 10 days, they have accumulated 379,317 ETH (approximately $1.8 billion) from FalconX, GalaxyDigital, and BitGo.</description>
+      <pubDate>Thu, 14 Aug 2025 00:49:19 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24467</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24484</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -137,39 +103,57 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A Whale Deposits $3.36 Million into HyperLiquid to Short BTC, ETH, and SOL</title>
-      <link>https://www.lookonchain.com/feeds/24464</link>
-      <description>On August 13th, as monitored by OnchainLens, a whale address deposited $3.36 million USDC into HyperLiquid and initiated short positions: BTC (with 40x leverage), ETH (with 10x leverage), and SOL (with 20x leverage).</description>
-      <pubDate>Wed, 13 Aug 2025 15:51:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24464</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
       <category>whale</category>
+
+    </item>
+    <item>
+      <title>Trader Eugene: Closed most of the ETH long positions, switched to capital preservation mode</title>
+      <link>https://www.lookonchain.com/feeds/24483</link>
+      <description>On August 14th, Trader Eugene Ng Ah Sio posted on his personal channel and said, &quot;I have closed the majority of my ETH positions here in order to significantly reduce the exposure to risks. Even though I cannot predict how crazy the market will become, multiple warning signs are flashing before my eyes.&quot;The strategy of initially going long on ETH at $2500 has been completely realized, capturing both rounds of the upward trend (from $2500 to $4000, and then from $4000 to $4800). If there is a third round of upward movement (if the assumption becomes a reality), at that time, there will be a frenzied scene where traditional financial funds continuously flow into ETH, with a high market consensus. Although this scenario is not impossible, for traders who focus on capital protection, the risk-reward ratio of continuing to hold aggressive long positions is no longer attractive.While I still hold tactical long positions in other small-cap coins, I have fully reduced my position size and</description>
+      <pubDate>Thu, 14 Aug 2025 00:40:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24483</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Breaks $124,000 Mark Briefly, Setting New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/24482</link>
+      <description>On August 14th, according to HTX market data, Bitcoin briefly rose above $124,000 and reached a new all-time high of $124,051. Currently, it is trading at $123,930 with a 24-hour gain of 3.29%.</description>
+      <pubDate>Thu, 14 Aug 2025 00:32:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24482</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Reveel Unveils REVA Tokenomics: 1 Billion Total Supply with 37% Allocated to the Community</title>
-      <link>https://www.lookonchain.com/feeds/24466</link>
-      <description>August 13th, Reveel made the tokenomics of the REVA token public. The total supply of REVA tokens is 1 billion. 37% is allocated to the community, 25% to investors, 22% to the company fund, and 16% to the team and advisors. The initial circulating supply is approximately 150 million. It follows a fixed supply model and plans to have deflation through buybacks supported by dynamic income.The buyback mechanism stipulates that initially 75% of net income will be used for token buybacks. In each subsequent period, there will be a 5% decrease, but the absolute amount must continue to increase, with a minimum buyback ratio of 25%.</description>
-      <pubDate>Wed, 13 Aug 2025 15:51:14 +0000</pubDate>
+      <title>Bullish (BLSH) Surges 83.78% on Listing Day, Reaching a Trading Volume of $5.176 Billion</title>
+      <link>https://www.lookonchain.com/feeds/24481</link>
+      <description>On August 14th, according to data from rockflow (with the URL https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats and targeted at _blank), the cryptocurrency exchange platform Bullish (BLSH) witnessed an 83.78% increase on its first day of trading in the US stock market. The closing price was $68, the market value was $9.94 billion, the trading volume was $5.176 billion, and the turnover rate was 185.45%. In after-hours trading, BLSH rose by another 11.18% and is currently trading at $75.6.</description>
+      <pubDate>Thu, 14 Aug 2025 00:32:19 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24466</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24481</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -178,15 +162,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Canary TRUMP ETF has been registered in the state of Delaware</title>
-      <link>https://www.lookonchain.com/feeds/24465</link>
-      <description>On August 13th, based on market information, the Canary TRUMP COIN ETF has been registered in Delaware, the United States.</description>
-      <pubDate>Wed, 13 Aug 2025 15:51:14 +0000</pubDate>
+      <title>GalaxyDigital&apos;s affiliated address has deposited 125 million U into Hyperliquid over the past 2 days, purchased spot assets, and engaged in a short position hedge.</title>
+      <link>https://www.lookonchain.com/feeds/24480</link>
+      <description>On August 14th, based on LookOnChain&apos;s monitoring, a certain wallet address affiliated with GalaxyDigital (0xcaC1) deposited 125 million USDC into Hyperliquid in the past two days. Subsequently, it purchased ETH, HYPE, BTC, PUMP, and FARTCOIN spot. At the same time, it shorted BTC, ETH, DOGE, PUMP, FARTCOIN, and S for hedging purposes.</description>
+      <pubDate>Thu, 14 Aug 2025 00:24:19 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24465</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24480</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -195,6 +180,26 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Ecosystem Leads Altcoins, ARB Surges Over 18%</title>
+      <link>https://www.lookonchain.com/feeds/24479</link>
+      <description>On August 14th, based on HTX market data, with Bitcoin and the total crypto market cap reaching a new all-time high, Ethereum is now only 2.7% away from its own all-time high. The Ethereum ecosystem has driven a general increase in altcoins, including:- GTC with a 24-hour change of 37.9% and a current price of $0.431.- ARB having a 24-hour change of 18.64% and a current price of $0.5697.- EIGEN with a 24-hour change of 17.47% and a current price of $1.652.- ZK with a 24-hour change of 15.24% and a current price of $0.0697.- ETHFI with a 24-hour change of 12.52% and a current price of $1.376.- OP with a 24-hour change of 9.77% and a current price of $0.865.</description>
+      <pubDate>Thu, 14 Aug 2025 00:24:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24479</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
   </channel>
