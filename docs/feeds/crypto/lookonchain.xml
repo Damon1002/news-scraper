@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 19:00:00 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 19:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 19:23:43 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 19:23:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Fed&apos;s Powell: 4.2% Unemployment Rate Is Not a Bad Number</title>
-      <link>https://www.lookonchain.com/feeds/24655</link>
-      <description>On August 15th, Federal Reserve&apos;s Bostic remarked that a 4.2% unemployment rate is not a negative figure. The unemployment rate has remained very steady, with the deceleration of job growth aligning with the slowdown in labor force growth.The initial employment data is more astonishing compared to the revised data. Businesses have been curbing their hiring, so even in the face of cost pressures, there may not be much scope for layoffs. Given wage growth and employment, the underlying momentum of households still appears to be robust. (FXStreet)</description>
-      <pubDate>Thu, 14 Aug 2025 18:49:08 +0000</pubDate>
+      <title>「Bitcoin Big Brother」 Huang Licheng is bullish on Bitcoin, going long with 40x leverage on 25 BTC.</title>
+      <link>https://www.lookonchain.com/feeds/24656</link>
+      <description>On August 15th, according to on-chain data, &quot;Brother Whale&quot; Huang Licheng took a long position on Bitcoin. He used 40x leverage to go long 25 BTC at an entry price of $118,154.40.The unrealized loss of his Ethereum long position expanded to $2.44 million, and the liquidation price was $2,896.46.</description>
+      <pubDate>Thu, 14 Aug 2025 19:16:51 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24655</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24656</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,30 +28,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Inflation Leading Indicator &quot;Goes Through the Roof,&quot; Fed Rate Cut Prospects Face Uncertainties</title>
-      <link>https://www.lookonchain.com/feeds/24654</link>
-      <description>On Thursday, August 15th, the U.S. Bureau of Labor Statistics (BLS) released a report. It showed that wholesale prices rose significantly more than expected in July, driven by a surge in profit margins. This may indicate that inflation still poses a threat to the U.S. economy. Service inflation was a key factor in the overall increase in the Producer Price Index (PPI). Service prices rose by 1.1% in July, which was also the largest increase since March 2022.The report indicated that although there was weak demand in the first half of this year, businesses are adjusting the pricing of goods and services to help offset the costs associated with U.S. tariff increases. How much of the tariff costs businesses pass on to consumers will be a key factor in shaping future interest rate trends.Due to Trump&apos;s policies, especially the economic uncertainty brought about by tariff policies, businesses have reduced the number of new hires. However, the relatively low initial claims numbers sugges</description>
-      <pubDate>Thu, 14 Aug 2025 18:49:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24654</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
     <item>
       <title>In the past 4 hours, Ethereum liquidations reached $56.9848 million, and Bitcoin liquidations amounted to $19.666 million.</title>
       <link>https://www.lookonchain.com/feeds/24653</link>
       <description>On August 15th, according to Coinglass data, the liquidation volume of Ethereum in the past 4 hours reached $56.9848 million. During the same period, the liquidation volume of Bitcoin was $19.666 million.Within the past 4 hours, the total network liquidation was $121 million. The long liquidations totaled $107 million, and the short liquidations amounted to $13.8016 million.Over the last 24 hours, a total of 221,187 people were liquidated globally, with a total liquidation amount of $1.055 billion. The largest single liquidation took place on OKX - ETH-USDT-SWAP, with a total of $6.2469 million.</description>
-      <pubDate>Thu, 14 Aug 2025 18:48:08 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 18:48:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24653</guid>
       <category>crypto</category>
@@ -70,10 +55,44 @@
 
     </item>
     <item>
+      <title>Inflation Leading Indicator &quot;Goes Through the Roof,&quot; Fed Rate Cut Prospects Face Uncertainties</title>
+      <link>https://www.lookonchain.com/feeds/24654</link>
+      <description>On Thursday, August 15th, the U.S. Bureau of Labor Statistics (BLS) released a report. It showed that wholesale prices rose significantly more than expected in July, driven by a surge in profit margins. This may indicate that inflation still poses a threat to the U.S. economy. Service inflation was a key factor in the overall increase in the Producer Price Index (PPI). Service prices rose by 1.1% in July, which was also the largest increase since March 2022.The report indicated that although there was weak demand in the first half of this year, businesses are adjusting the pricing of goods and services to help offset the costs associated with U.S. tariff increases. How much of the tariff costs businesses pass on to consumers will be a key factor in shaping future interest rate trends.Due to Trump&apos;s policies, especially the economic uncertainty brought about by tariff policies, businesses have reduced the number of new hires. However, the relatively low initial claims numbers sugges</description>
+      <pubDate>Thu, 14 Aug 2025 18:48:51 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24654</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Fed&apos;s Powell: 4.2% Unemployment Rate Is Not a Bad Number</title>
+      <link>https://www.lookonchain.com/feeds/24655</link>
+      <description>On August 15th, Federal Reserve&apos;s Bostic remarked that a 4.2% unemployment rate is not a negative figure. The unemployment rate has remained very steady, with the deceleration of job growth aligning with the slowdown in labor force growth.The initial employment data is more astonishing compared to the revised data. Businesses have been curbing their hiring, so even in the face of cost pressures, there may not be much scope for layoffs. Given wage growth and employment, the underlying momentum of households still appears to be robust. (FXStreet)</description>
+      <pubDate>Thu, 14 Aug 2025 18:48:51 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24655</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Ethereum Briefly Falls Below $4500</title>
       <link>https://www.lookonchain.com/feeds/24652</link>
       <description>On August 15th, according to HTX market data, Ethereum briefly fell below $4,500. It is now rebounding to $4,537, with a 24-hour decrease of 3.81%.</description>
-      <pubDate>Thu, 14 Aug 2025 18:40:08 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 18:40:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24652</guid>
       <category>crypto</category>
@@ -93,26 +112,9 @@
       <title>Placeholder Partner: Market Stabilizes Steadily After Slight Pullback</title>
       <link>https://www.lookonchain.com/feeds/24651</link>
       <description>On August 15th, Chris Burniske, who was formerly the crypto lead at Ark Invest and is currently a partner at Placeholder VC, stated that the market is gradually stabilizing following this slight pullback.</description>
-      <pubDate>Thu, 14 Aug 2025 18:08:08 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 18:22:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24651</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: Inflation has dropped to the perfect level, almost no inflation</title>
-      <link>https://www.lookonchain.com/feeds/24650</link>
-      <description>On August 15th, US President Trump declared that inflation has decreased to a perfect level and there is almost no inflation. (Xinhua News)</description>
-      <pubDate>Thu, 14 Aug 2025 17:59:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24650</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -127,7 +129,7 @@
       <title>Abu Dhabi sovereign wealth fund Mubadala has disclosed holding $534 million worth of the BlackRock Bitcoin Futures ETF as of June 30th.</title>
       <link>https://www.lookonchain.com/feeds/24649</link>
       <description>On August 15th, as per a filing made public by the U.S. SEC today, Abu Dhabi&apos;s sovereign wealth fund Mubadala held 8,726,972 shares of IBIT as of June 30th, and the market value was approximately $534 million. This holding has remained the same since the previous filing in May.Furthermore, in a new filing, Al Warda Investments disclosed that it held 2,411,034 shares of IBIT as of June 30th, with a market value of approximately $147.5 million. The manager of this position is indicated in the filing as the Abu Dhabi Investment Council, which is a sovereign wealth fund under Mubadala.</description>
-      <pubDate>Thu, 14 Aug 2025 16:59:08 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 17:22:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24649</guid>
       <category>crypto</category>
@@ -144,10 +146,27 @@
 
     </item>
     <item>
+      <title>Trump: Inflation has dropped to the perfect level, almost no inflation</title>
+      <link>https://www.lookonchain.com/feeds/24650</link>
+      <description>On August 15th, US President Trump declared that inflation has decreased to a perfect level and there is almost no inflation. (Xinhua News)</description>
+      <pubDate>Thu, 14 Aug 2025 17:22:51 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24650</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>JPMorgan: Ethereum Ecosystem Stablecoin Scale Continues to Grow, Driving Continued ETH Upside</title>
       <link>https://www.lookonchain.com/feeds/24648</link>
       <description>On Thursday, August 15th, JPMorgan Chase pointed out in a report that as Wall Street starts to issue a large number of stablecoins within the Ethereum ecosystem, the recent outperformance of ETH may continue.According to the bank&apos;s analysts, a series of USD-pegged tokens - following last month&apos;s &quot;GENIUS Act&quot; which provided a regulatory framework for stablecoins - are expected to have an impact on the price of Ethereum. Although these assets are issued on layer-two networks rather than directly on the Ethereum main chain.The analysts stated: &quot;We believe that Ethereum is emerging as the pathway to directly access the high-growth opportunity of stablecoins. As the Ethereum network hosts most of these stablecoin assets, whether as L1 directly hosted or via L2 partially hosted.&quot;</description>
-      <pubDate>Thu, 14 Aug 2025 16:59:08 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 17:22:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24648</guid>
       <category>crypto</category>
@@ -166,7 +185,7 @@
       <title>Greeks.Live: Option Market Indicates Optimistic Market Sentiment, Bull Market Likely to Continue</title>
       <link>https://www.lookonchain.com/feeds/24647</link>
       <description>On August 15th, the Greek.Live analyst Adam posted on social media, saying, &quot;While BTC hit a new all-time high again and ETH was about to reach its all-time high, the market experienced a somewhat unanticipated pullback. The main trigger was the higher-than-expected PPI. There weren&apos;t many changes in the options market. The IVs of major expiries showed no significant fluctuations, and the fluctuation of Skew was relatively small.&quot;However, the trading volume indicates the market&apos;s enthusiasm. Today, Deribit traded $10.9 billion in options, setting a new single-day record with a volume of over $10 billion for the first time. The high trading activity indicates that the market remains confident about the future, and the bull market is likely to continue.</description>
-      <pubDate>Thu, 14 Aug 2025 16:59:08 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 16:22:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24647</guid>
       <category>crypto</category>
@@ -177,27 +196,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「Big Brother Whale」 Huang Licheng&apos;s ETH long position has increased to 22,000 ETH, with an unrealized loss of $2.4 million</title>
-      <link>https://www.lookonchain.com/feeds/24646</link>
-      <description>On August 15th, according to the monitoring of HyperInsight accessible through https://app.hyperliquid.xyz/join/NTOD, the &quot;Big Brother Ma Ji&quot; Huang Licheng&apos;s long position in ETH has risen to 22,000 ETH (equivalent to 100 million US dollars), and there is an unrealized loss of 2.4 million US dollars. The opening price was $4,664.57, and the liquidation price was $2,889.27.</description>
-      <pubDate>Thu, 14 Aug 2025 15:59:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24646</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
   </channel>
