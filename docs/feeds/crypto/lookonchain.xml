@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 11:58:58 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 11:58:58 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 13:01:01 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 13:01:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>US Stock TeraWulf (WULF) Surges Over 28% in Pre-market Trading</title>
-      <link>https://www.lookonchain.com/feeds/24580</link>
-      <description>On August 14th, according to the market data of Rockflow (https://rockflow.ai/en/crypto-stocks?utm_campaign=blockBeats), the Bitcoin mining company TeraWulf (WULF) saw a surge of more than 28% in pre-market trading and is currently trading at $6.97.Earlier reports showed that TeraWulf had signed two 10-year AI hosting agreements with the AI cloud platform Fluidstack. The expected initial 10-year contract revenue is about $3.7 billion, and it could reach $8.7 billion if the extension options are exercised. Google will guarantee Fluidstack&apos;s $1.8 billion lease obligation and receive approximately 41 million warrants, accounting for about 8% of the company.</description>
-      <pubDate>Thu, 14 Aug 2025 11:57:05 +0000</pubDate>
+      <title>The U.S. weekly initial jobless claims have decreased, indicating a low level of layoffs.</title>
+      <link>https://www.lookonchain.com/feeds/24605</link>
+      <description>August 14th: In the context of low layoffs in the United States last week, the initial jobless claims witnessed a slight decline. Nevertheless, due to weak domestic demand, companies are reluctant to enhance hiring, which may lead the unemployment rate to reach 4.3% in August. The U.S. Department of Labor announced on Thursday that the number of initial jobless claims for the week ending August 9 decreased by 3,000, reaching a seasonally adjusted 224,000. Currently, the U.S. labor market is showing a divergence with few layoffs and weak recruitment.Over the past three months, the average monthly increase in jobs in the United States has only been 35,000, and domestic demand experienced its slowest growth since the fourth quarter of 2022. Lou Crandall, the Chief Analyst at Wrightson ICAP, stated, &quot;If viewed in isolation, these (initial jobless claims) data would imply that the labor market remains strong. However, we are more concerned about the soft trend in employment data over the</description>
+      <pubDate>Thu, 14 Aug 2025 12:57:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24580</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24605</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +31,12 @@
 
     </item>
     <item>
-      <title>Bitcoin Mining Firm Terawulf Signs AI Hosting Agreement with Fluidstack, First 10-Year Contract Generates $3.7 Billion in Revenue</title>
-      <link>https://www.lookonchain.com/feeds/24582</link>
-      <description>On August 14th, the Bitcoin mining firm TeraWulf (Nasdaq: WULF) has entered into two 10-year Hosted High-Performance Computing (HPC) agreements with the AI cloud platform Fluidstack. Under these agreements, more than 200 MW of crucial IT load will be provided at the New York Lake Mariner data center. The estimated first 10-year contract revenue is approximately $3.7 billion, and it could reach $8.7 billion if the extension option is exercised. Google will ensure Fluidstack&apos;s $1.8 billion lease obligation to facilitate project-related debt financing and will obtain approximately 41 million warrants, which represent approximately 8% of the company.</description>
-      <pubDate>Thu, 14 Aug 2025 11:57:05 +0000</pubDate>
+      <title>U.S. July PPI Growth Reaches Highest Level in Three Years</title>
+      <link>https://www.lookonchain.com/feeds/24604</link>
+      <description>On August 14th, due to the surge in service costs, the U.S. Producer Price Index (PPI) in July reached the highest level in three years. A report issued by the U.S. Bureau of Labor Statistics on Thursday indicated that the PPI rose by 0.9% compared to the previous month, following no change in June. The index increased by 3.3% from a year earlier. The index excluding food, energy, and trade services rose by 0.6% from June and went up by 2.8% from a year earlier. (FX678)</description>
+      <pubDate>Thu, 14 Aug 2025 12:57:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24582</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24604</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -45,18 +45,51 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Analyst: Binance Experiences Brief Discrepancy Between Multiple Trading Pair Orderbook Prices and Mark Prices</title>
+      <link>https://www.lookonchain.com/feeds/24603</link>
+      <description>On August 14th, according to on-chain analyst Ai Auntie (@ai_9684 xtpa), it is conceivable that due to a brief downturn in the cryptocurrency market, there was an excessive amount of orders within a short span of time, resulting in temporary price differences between the order book price and the mark price on several trading pairs on Binance.</description>
+      <pubDate>Thu, 14 Aug 2025 12:57:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24603</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale holding INSP has a position of 109.56 million tokens, representing 10.96% of the total supply.</title>
+      <link>https://www.lookonchain.com/feeds/24602</link>
+      <description>On August 14th, as per the monitoring of LookOnChain, a whale (0x436F and 0x2DDf) persists in accumulating INSP. Currently, it holds 109.56 million INSP (equivalent to 3.98 million US dollars), accounting for 10.96% of the total supply.</description>
+      <pubDate>Thu, 14 Aug 2025 12:56:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24602</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>JiaNan Technology Releases Q2 2025 Financial Report: Total Revenue Reaches $100 Million, Mining Income of $28.1 Million Hits All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/24581</link>
-      <description>On August 14th, Canaan Inc. presented its Q2 2025 financial report. During this quarter, the total revenue amounted to 100 million USD, representing a year-on-year growth of 39.5%. The mining revenue achieved a new high of 28.1 million USD, with a year-on-year increase of 201.6%. A total of 284 Bitcoins were mined in Q2, and the average revenue per Bitcoin was 98,866 USD. The gross profit reached 9.3 million USD, reversing the gross loss of 19.1 million USD in the same period of last year. By the end of the quarter, the company&apos;s Bitcoin holdings had expanded to 1,483.5 Bitcoins.</description>
-      <pubDate>Thu, 14 Aug 2025 11:57:05 +0000</pubDate>
+      <title>Whale (0x436F and 0x2DDf) keeps accumulating $INSP and currently holds $109.56M $INSP($3.98M), 10.96% of the total supply.</title>
+      <link>https://www.lookonchain.com/feeds/24601</link>
+      <description>Whale (0x436F and 0x2DDf) keeps accumulating $INSP and currently holds $109.56M $INSP($3.98M), 10.96% of the total supply.</description>
+      <pubDate>Thu, 14 Aug 2025 12:49:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24581</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24601</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -65,16 +98,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>The Hong Kong Stock Exchange will list the MicroBit Bitcoin and Ethereum Spot ETF on August 21st.</title>
-      <link>https://www.lookonchain.com/feeds/24579</link>
-      <description>August 14th. According to HKEX documents, MicroBit&apos;s MicroBit Bitcoin Spot ETF and MicroBit Ethereum Spot ETF are scheduled to be listed on the Hong Kong Stock Exchange next Thursday (August 21st). The management fee for both ETFs is 0.5% of the net asset value per year, which is lower than that of existing cryptocurrency spot ETFs. BOCI-Prudential Trustee Limited acts as the custodian and administrator. HashKey Exchange is the virtual asset trading platform, and Hash Blockchain Limited is the virtual asset sub-custodian. The participating brokers include CMB International, ED Securities Futures, Future Assets Securities, HPC Capital Securities, Huasheng Capital Securities, and Victory Securities.</description>
-      <pubDate>Thu, 14 Aug 2025 11:41:05 +0000</pubDate>
+      <title>「Brother Bigshot」 Huang Licheng liquidated his HYPE long position 1 hour ago, and his ETH long position is now facing a floating loss of $1,824,000.</title>
+      <link>https://www.lookonchain.com/feeds/24600</link>
+      <description>On August 14th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), &quot;Brother Whale&quot; Huang Licheng liquidated his long position in HYPE an hour ago. However, a brief drop in the ETH price has led to his 25x leveraged long position now incurring a loss of $1.824 million.</description>
+      <pubDate>Thu, 14 Aug 2025 12:48:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24579</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24600</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -83,96 +117,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Around $33 billion worth of ETH is currently queued to exit the Ethereum PoS network, while around $10.3 billion worth of ETH is waiting to join.</title>
-      <link>https://www.lookonchain.com/feeds/24578</link>
-      <description>On August 14th, based on the data from the Validator Queue tracking website ValidatorQueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 702,703 ETH, which is approximately worth 3.3 billion US dollars. The amount of queued ETH has been increasing continuously for 3 days. The recent peak reached 744,000 ETH, and the waiting time for exiting is approximately 12 days and 5 hours.At the same time, about 220,266 ETH are queued to join the network, with a value of approximately 1.03 billion US dollars. The expected activation delay is about 3 days and 20 hours.Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may choose to cash out after Ethereum rebounded by more than 160% from its April low, resulting in a surge in the exit queue. On the other hand, new funds deposited due to regulatory optimism and institutional demand are also driving up the entry queue. Listed companies</description>
-      <pubDate>Thu, 14 Aug 2025 11:32:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24578</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Solana Ecosystem Meme Coin KORI Market Cap briefly surpassed 40 million USD before retracting, with a more than 37% increase in the last 24 hours.</title>
-      <link>https://www.lookonchain.com/feeds/24577</link>
-      <description>On August 14th, according to the market information of GMGN, the market capitalization of the Solana ecosystem meme coin KORI briefly exceeded 40 million US dollars and has now retreated to 27 million US dollars. It has seen a more than 37% increase in the past 24 hours and a 24-hour trading volume of 7.08 million US dollars.BlockBeats reminds users that meme coins have no practical use cases, experience significant price fluctuations, and investment should be made with caution.</description>
-      <pubDate>Thu, 14 Aug 2025 11:24:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24577</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BTCS Releases Q2 2025 Financial Report: Revenue Surges by 394% Year-over-Year to $2.77 Million, ETH Holdings Reach 70,140 ETH as of August 12</title>
-      <link>https://www.lookonchain.com/feeds/24576</link>
-      <description>On August 14th, the publicly traded company BTCS in the US released its second-quarter financial report for 2025. During this quarter, the company achieved a record-breaking revenue of $2.77 million, representing a 394% year-on-year increase and a 64% increase from the previous quarter. This outstanding performance was primarily due to the robust growth of the Ethereum-first Builder+ business, which now accounts for the vast majority of the company&apos;s revenue.As of August 12, 2025, the holdings of ETH have increased to 70,140 coins, with a total value exceeding $321 million. This strategic accumulation of ETH is aimed at driving long-term revenue growth and supporting our scalable blockchain infrastructure.</description>
-      <pubDate>Thu, 14 Aug 2025 11:17:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24576</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>《Fortune》: Sequoia Capital China Holds About 10% Stake in Binance</title>
-      <link>https://www.lookonchain.com/feeds/24575</link>
-      <description>August 14th. According to Fortune magazine, Binance co-founder He Yi holds around 10% of Binance&apos;s shares. During CZ&apos;s imprisonment resulting from a plea bargain, He Yi played a crucial role behind the scenes, assisting Binance in navigating regulatory and financial difficulties. Despite encountering significant obstacles, the company has remained the world&apos;s leading centralized exchange under the leadership of its successors.Looking ahead, He Yi thinks that cryptographic technology will fundamentally reshape the traditional financial system, similar to the internet, and anticipates more integration into mainstream finance through stablecoins and blockchain in the next 5 to 10 years. She emphasized that Binance will continue to focus on customers while promoting a founder culture and innovative development.</description>
-      <pubDate>Thu, 14 Aug 2025 11:16:05 +0000</pubDate>
+      <title>DDC Enterprise increased its BTC holdings by 120 coins, bringing the total holdings to 488 coins.</title>
+      <link>https://www.lookonchain.com/feeds/24599</link>
+      <description>On August 14th, the New York Stock Exchange-listed company DDC Enterprise announced that it has increased its holdings by 120 BTC. The average purchase cost per BTC is $98,737. As of now, the company&apos;s total Bitcoin holdings have reached 488 BTC.</description>
+      <pubDate>Thu, 14 Aug 2025 12:48:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24575</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analyst: BTC Volatility Hits New Two-Year Low, Signaling Potential Imminent Spike</title>
-      <link>https://www.lookonchain.com/feeds/24574</link>
-      <description>On August 14th, CryptoQuant analyst Axel Adler Jr. put forward that, &quot;Based on the 30-day high-low price indicator, the volatility of Bitcoin has been compressed to the lowest level in two years: the range between the highest and lowest prices within the past 30 days has become narrower, and the range formed by the rolling high/low prices has constricted the price within it. This compression typically indicates a balance between supply and demand and low realized volatility. When liquidity is concentrated at local highs (above $120,000) and lows (below $113,000), such a situation emerges. The possibility of the expansion of the price range is on the rise.&quot;</description>
-      <pubDate>Thu, 14 Aug 2025 11:09:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24574</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24599</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -186,12 +142,12 @@
 
     </item>
     <item>
-      <title>In July, Canyacoin&apos;s Bitcoin production increased by 45% compared to the previous month, with deployed hashing power reaching 50 EH/s.</title>
-      <link>https://www.lookonchain.com/feeds/24573</link>
-      <description>On August 14th, as per an official declaration, CanGu (stock code: CANG) is projected to achieve a Bitcoin production of 650.5 coins in July 2025. This compares to 450.0 coins in June, representing a month-on-month increase of 45%.The announcement data indicates that CanGu had deployed an additional 18 EH/s of hashrate by the end of June and into July, bringing its total deployed hashrate to 50 EH/s.CanGu CEO Paul Yu stated that the enhancement in operational efficiency and the expansion of the hashrate scale showcase the team&apos;s exceptional execution in efficiently converting hashrate into the company&apos;s Bitcoin reserve on the balance sheet.</description>
-      <pubDate>Thu, 14 Aug 2025 11:08:05 +0000</pubDate>
+      <title>CertiK: Trading Platform BtcTurk Experiences Over $50 Million Suspicious Withdrawal</title>
+      <link>https://www.lookonchain.com/feeds/24596</link>
+      <description>On August 14th, as per the monitoring of CertiK Alert, a suspicious withdrawal occurred on the BtcTurk exchange. More than $50 million was withdrawn from 3 wallets.</description>
+      <pubDate>Thu, 14 Aug 2025 12:41:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24573</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24596</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -202,6 +158,47 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Ethereum Drops Below $4600</title>
+      <link>https://www.lookonchain.com/feeds/24598</link>
+      <description>On August 14th, according to HTX market data, Ethereum dropped below $4600, experiencing a 24-hour loss of 4.2%.</description>
+      <pubDate>Thu, 14 Aug 2025 12:41:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24598</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Price Falls Below $18,000</title>
+      <link>https://www.lookonchain.com/feeds/24597</link>
+      <description>On August 14th, according to HTX market data, Bitcoin fell below $118,000, with a 24-hour decline of 2.2%.</description>
+      <pubDate>Thu, 14 Aug 2025 12:41:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24597</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
 
     </item>
   </channel>
