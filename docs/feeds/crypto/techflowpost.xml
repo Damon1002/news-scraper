@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 04:55:43 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 04:55:43 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 05:22:47 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 05:22:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>慢雾余弦：MyStonks 平台冻结用户 620 万美元资产大部分源于币安提币</title>
+      <link>https://www.techflowpost.com</link>
+      <description>如果 MyStonks 平台此次配合执法部门的风控请求属实，后续调查重点或将转向该用户在币安平台的资金往来记录。</description>
+      <pubDate>Thu, 14 Aug 2025 05:10:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Coinbase 因与 0x Project 的 swapper 合约交互配置错误而损失 30 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Ark Invest Daily数据，Cathie Wood旗下Ark Invest多支基金于8月13日合计买入2,532,693股Bullish（BLSH），按收盘价68美元计算，持仓价值约1.722亿美元。其中，ARKK买入1,714,522股，ARKW买入545,416股，ARKF买入27...</description>
       <pubDate>Thu, 14 Aug 2025 00:44:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>DeFi 教育基金（DEF）宣布成立 “DeFi 教育基金会”</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据The Block报道，去中心化金融游说组织 DeFi 教育基金（DEF）宣布成立 “DeFi 教育基金会”，旨在为美国立法者提供加密行业政策与法律教育，并为捐赠者提供可抵税的慈善捐赠渠道。该组织正推动参议院在加密监管法案中审慎处理 DeFi，同时呼吁美国证监会（SEC）为特定区块链应用设立 “...</description>
-      <pubDate>Thu, 14 Aug 2025 00:42:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
