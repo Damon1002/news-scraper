@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 10:53:47 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 10:53:47 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 11:15:46 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 11:15:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,87 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>If Ethereum Breaks its All-Time High, Mainstream CEX Cumulative Short Liquidation Pressure Will Reach $2.218 Billion</title>
-      <link>https://www.lookonchain.com/feeds/24569</link>
-      <description>On August 14th, according to Coinglass data, if Ethereum manages to break through the $4868 all-time high, the cumulative short liquidation intensity on mainstream CEXs will reach $2.218 billion.Conversely, if Ethereum drops below $4600, the cumulative long liquidation intensity on mainstream CEXs will reach $3.342 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, a more intense reaction will occur due to a liquidity cascade.</description>
-      <pubDate>Thu, 14 Aug 2025 10:48:53 +0000</pubDate>
+      <title>Analyst: BTC Volatility Hits New Two-Year Low, Signaling Potential Imminent Spike</title>
+      <link>https://www.lookonchain.com/feeds/24574</link>
+      <description>On August 14th, CryptoQuant analyst Axel Adler Jr. put forward that, &quot;Based on the 30-day high-low price indicator, the volatility of Bitcoin has been compressed to the lowest level in two years: the range between the highest and lowest prices within the past 30 days has become narrower, and the range formed by the rolling high/low prices has constricted the price within it. This compression typically indicates a balance between supply and demand and low realized volatility. When liquidity is concentrated at local highs (above $120,000) and lows (below $113,000), such a situation emerges. The possibility of the expansion of the price range is on the rise.&quot;</description>
+      <pubDate>Thu, 14 Aug 2025 11:08:54 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24569</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24574</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>In July, Canyacoin&apos;s Bitcoin production increased by 45% compared to the previous month, with deployed hashing power reaching 50 EH/s.</title>
+      <link>https://www.lookonchain.com/feeds/24573</link>
+      <description>On August 14th, as per an official declaration, CanGu (stock code: CANG) is projected to achieve a Bitcoin production of 650.5 coins in July 2025. This compares to 450.0 coins in June, representing a month-on-month increase of 45%.The announcement data indicates that CanGu had deployed an additional 18 EH/s of hashrate by the end of June and into July, bringing its total deployed hashrate to 50 EH/s.CanGu CEO Paul Yu stated that the enhancement in operational efficiency and the expansion of the hashrate scale showcase the team&apos;s exceptional execution in efficiently converting hashrate into the company&apos;s Bitcoin reserve on the balance sheet.</description>
+      <pubDate>Thu, 14 Aug 2025 11:08:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24573</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>「Brother Godfather」 Huang Licheng Goes Long on HYPE Again with 5x Leverage, Opening Price 46.58 US Dollars</title>
+      <link>https://www.lookonchain.com/feeds/24572</link>
+      <description>August 14th. According to on-chain analyst Ai Yi (@ai_9684xtpa), &quot;Brother Ma Ji&quot; Huang Licheng, who previously achieved a profit of $33.83 million by going long on ETH and HYPE, has once again opened a 5x leveraged long position in HYPE. Currently, his positions are as follows:A 25x leveraged long position in ETH, holding 11,545.532 ETH (approximately $54.23 million), with an average entry price of $4736.93.A 5x leveraged long position in HYPE, holding 10,000 HYPE tokens (approximately $46.7 thousand), with an average entry price of $46.58.</description>
+      <pubDate>Thu, 14 Aug 2025 11:00:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24572</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Dips Below $121,000 Briefly</title>
+      <link>https://www.lookonchain.com/feeds/24571</link>
+      <description>On August 14th, based on HTX market data, Bitcoin briefly fell below $121,000 and is currently trading at $121,122, with a 24-hour price change of 0.48%.</description>
+      <pubDate>Thu, 14 Aug 2025 10:56:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24571</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Temporarily Drops Below $4700</title>
+      <link>https://www.lookonchain.com/feeds/24570</link>
+      <description>On August 14th, based on HTX market data, Ethereum briefly fell below $4,700 and is currently trading at $4,702, showing a 24-hour percentage change of 0.03%.</description>
+      <pubDate>Thu, 14 Aug 2025 10:48:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24570</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,12 +109,12 @@
 
     </item>
     <item>
-      <title>Ethereum Temporarily Drops Below $4700</title>
-      <link>https://www.lookonchain.com/feeds/24570</link>
-      <description>On August 14th, based on HTX market data, Ethereum briefly fell below $4,700 and is currently trading at $4,702, showing a 24-hour percentage change of 0.03%.</description>
-      <pubDate>Thu, 14 Aug 2025 10:48:53 +0000</pubDate>
+      <title>If Ethereum Breaks its All-Time High, Mainstream CEX Cumulative Short Liquidation Pressure Will Reach $2.218 Billion</title>
+      <link>https://www.lookonchain.com/feeds/24569</link>
+      <description>On August 14th, according to Coinglass data, if Ethereum manages to break through the $4868 all-time high, the cumulative short liquidation intensity on mainstream CEXs will reach $2.218 billion.Conversely, if Ethereum drops below $4600, the cumulative long liquidation intensity on mainstream CEXs will reach $3.342 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, a more intense reaction will occur due to a liquidity cascade.</description>
+      <pubDate>Thu, 14 Aug 2025 10:48:54 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24570</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24569</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -57,7 +132,7 @@
       <title>Huobi HTX has launched perpetual contracts for AIO, XNY, and USELESS, and kicked off a contract trading party.</title>
       <link>https://www.lookonchain.com/feeds/24568</link>
       <description>August 14th. According to the official announcement, Huobi HTX launched perpetual contracts for AIO/USDT, XNY/USDT, and USELESS/USDT on August 14th, with a maximum leverage of 20 times. Additionally, Huobi HTX started an AIO, XNY, and USELESS contract trading party from 6:00 PM (UTC + 8) on August 14th to 6:00 PM on August 21st. The total prize pool amounts to up to $20,000.During the event, users who sign up and participate in AIO/USDT, XNY/USDT, and USELESS/USDT contract trading, with a cumulative valid trading volume ≥$10,000 USDT, will be eligible to share the prize pool based on their trading volume ranking. New users trading AIO/USDT, XNY/USDT, and USELESS/USDT contracts will also receive exclusive benefits.</description>
-      <pubDate>Thu, 14 Aug 2025 10:32:53 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:32:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24568</guid>
       <category>crypto</category>
@@ -74,7 +149,7 @@
       <title>Binance Wallet has announced a new TGE REVA participation threshold: a minimum of 224 Alpha Points</title>
       <link>https://www.lookonchain.com/feeds/24567</link>
       <description>August 14th. As per official channels, Binance Wallet made an announcement. Users possessing 224 or more Binance Alpha Points are eligible to participate in the Reveel (REVA) TGE event via the Alpha event page. A deduction of 10 points is required for participation.</description>
-      <pubDate>Thu, 14 Aug 2025 10:32:53 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:32:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24567</guid>
       <category>crypto</category>
@@ -91,7 +166,7 @@
       <title>Coolpad Group: RWA Tokenization Exploration in Preliminary Stage</title>
       <link>https://www.lookonchain.com/feeds/24566</link>
       <description>August 14th: Coolpad Group announced that the company is currently in the preliminary exploration stage of property asset tokenization and has formulated a four-phase strategic plan.In the first phase, which is expected to be completed in the fourth quarter of 2025, the company will engage legal advisors to assess legal matters, establish an asset valuation model, and form an internal technical team to research technical solutions. The second phase is scheduled to commence in the first quarter of 2026 and will involve partner selection and architecture design. The third phase is planned for technical development and internal testing in the second and third quarters of 2026. The fourth phase will focus on regulatory communication and the pilot launch, with the timing to be determined.Coolpad Group will strictly adhere to relevant laws and regulations and will disclose significant progress as it unfolds.</description>
-      <pubDate>Thu, 14 Aug 2025 10:32:53 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:32:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24566</guid>
       <category>crypto</category>
@@ -108,80 +183,9 @@
       <title>UnicornX is hosting a UniCall-themed AMA tonight at 9:00 PM, where the latest UniCall signal will be revealed live.</title>
       <link>https://www.lookonchain.com/feeds/24565</link>
       <description>On August 14th, according to the official announcement, UnicornX will hold a UniCall-themed AMA at 21:00 (UTC+8) on August 14th. The guest speakers are @a_unicornverse, @Trevor_ether, @Jer_NFTWorld, and @BroLeonAus. During the event, the official will release the latest UniCall signal, enabling the community to be the first to see the newest projects joining UniCall. Historical data indicates that UniCall signal projects have an average post-listing increase of +507.3%. Download the UnicornX APP to participate.Furthermore, to celebrate the AMA, follow the tweet for interaction, and the official will award 500 X Points to 10 winners.</description>
-      <pubDate>Thu, 14 Aug 2025 10:24:53 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:24:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24565</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum PoS Network Exit Queue Rises to Around 700,000 ETH, Join Queue Rises to Around 223,000 ETH</title>
-      <link>https://www.lookonchain.com/feeds/24564</link>
-      <description>On August 14th, based on the data from the Validator Queue tracking website ValidatorQueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 700,900 ETH. At the current price, the ETH exiting the PoS network is approximately $3.33 billion, and the withdrawal delay is currently reported as 12 days and 4 hours.Meanwhile, the demand for staking by new validators has shown a rebound. Today, the admission queue has risen to 223,338 ETH, which is worth approximately $1.059 billion. The current waiting time in the admission queue is 3 days and 21 hours.</description>
-      <pubDate>Thu, 14 Aug 2025 10:16:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24564</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha Launches AIBOT, Opening at $0.0378</title>
-      <link>https://www.lookonchain.com/feeds/24563</link>
-      <description>On August 14th, based on official information, Binance Alpha has initiated Cherry AI (AIBOT), and its initial trading price is $0.0378.</description>
-      <pubDate>Thu, 14 Aug 2025 10:16:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24563</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BNB Market Cap Surpasses ConocoPhillips, Rises to 181st in Global Asset Market Cap Ranking</title>
-      <link>https://www.lookonchain.com/feeds/24562</link>
-      <description>On August 14th, based on 8marketcap data, the market capitalization of BNB has exceeded 120 billion US dollars. It has surpassed one of the world&apos;s largest independent upstream oil and gas exploration and production companies, ConocoPhillips, and risen to the 181st position in the global asset market capitalization.</description>
-      <pubDate>Thu, 14 Aug 2025 10:08:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24562</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Futu Securities Announces Launch of Solana (SOL) Retail Trading Service</title>
-      <link>https://www.lookonchain.com/feeds/24561</link>
-      <description>August 14th. According to the official announcement, Futu Securities has announced the initiation of Solana (SOL) retail trading services. Beginning today, eligible retail investors and professional investors in Hong Kong can conduct secure trading of SOL through the Futubull App. Meanwhile, SOL paper trading will also be launched on the platform shortly to assist more cryptocurrency beginners in becoming familiar with the trading process and mastering investment skills.In addition to SOL spot trading services, Futu has previously offered more stock-coin linkage opportunities, such as SOL CME futures and SOL ETF, enabling investors to make one-stop purchases of various assets related to SOL on Futu.</description>
-      <pubDate>Thu, 14 Aug 2025 09:56:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24561</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
