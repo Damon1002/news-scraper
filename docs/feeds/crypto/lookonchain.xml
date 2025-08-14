@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 05:56:05 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 05:56:05 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 06:35:45 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 06:35:45 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,117 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>ADA Short-Term Breaks $1 Mark, 24-Hour Gain Reaches 13.44%</title>
-      <link>https://www.lookonchain.com/feeds/24528</link>
-      <description>On August 14th, according to HTX market data, ADA briefly exceeded $1 and is now trading at $0.9901, with a 24-hour price increase of 13.44%.</description>
-      <pubDate>Thu, 14 Aug 2025 05:40:13 +0000</pubDate>
+      <title>If Bitcoin drops below $120,000, the mainstream CEX long liquidation volume will reach $1.569 billion</title>
+      <link>https://www.lookonchain.com/feeds/24538</link>
+      <description>On August 14th, Bitcoin continued to decline in the afternoon. It is currently priced at $121,625, with a 1.44% drop occurring in nearly 4 hours.According to Coinglass data, if Bitcoin falls below $120,000, the cumulative long liquidation strength of mainstream CEXs will reach $1.569 billion.Conversely, if Bitcoin rises above $123,000, the cumulative short liquidation strength of mainstream CEXs will reach $977 million.BlockBeats Note: The liquidation chart does not display the exact number of contracts to be liquidated or the exact value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, strength.Therefore, the liquidation chart shows the extent to which the underlying price will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will have a more intense reaction due to a surge in liquidity.</description>
+      <pubDate>Thu, 14 Aug 2025 06:32:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24528</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance: Cherry AI (AIBOT) TGE Participation Requirement 224 Points</title>
-      <link>https://www.lookonchain.com/feeds/24529</link>
-      <description>On August 14th, according to official information, Binance Alpha users who have 224 or more points are eligible to participate in the Cherry AI (AIBOT) TGE event through the Alpha event page. Participating in this event will require 15 points.Subscription Time: from 4:00 PM to 6:00 PM on August 14th, 2025 (UTC+8).</description>
-      <pubDate>Thu, 14 Aug 2025 05:40:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24529</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Insider: MetaMask Stablecoin mUSD Set to Launch by End of Month</title>
-      <link>https://www.lookonchain.com/feeds/24527</link>
-      <description>On August 14th, according to sources having knowledge of the matter, the crypto wallet MetaMask is anticipated to disclose details of its proprietary stablecoin mUSD as early as this week. Previously, this project came to light due to a governance proposal that was prematurely released and promptly deleted, with the plan to go live by the end of this month.mUSD was issued with the help of the stablecoin payment service provider Bridge (acquired by the fintech company Stripe earlier this year) and the stablecoin issuance protocol M^0. Its custody and asset management services are provided by the alternative asset management firm Blackstone. (CoinDesk)</description>
-      <pubDate>Thu, 14 Aug 2025 05:34:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24527</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analysis: South Korea&apos;s Korean Won Stablecoin Faces Uncertainty Due to Onshore Policy Restrictions</title>
-      <link>https://www.lookonchain.com/feeds/24526</link>
-      <description>August 14th: The Bank of Korea has given up its central bank digital currency pilot and switched to stablecoins issued by the private sector, which has triggered accelerated efforts by fintech companies and banks. KakaoBank is contemplating entering the issuance and custody business. Meanwhile, Upbit and Naver Pay are collaborating to develop payment-type tokens in order to narrow the local and global crypto price gap. However, due to the long-standing restrictions on &quot;onshore&quot; Korean won transactions, overseas institutions are unable to directly exchange Korean won abroad. Korean won stablecoins can only be used for KYC addresses connected to Korea, thus hindering cross-border settlement.Analysts believe that this token lacks a payment efficiency advantage in the local instant and free transfer system, and its main application is likely to be limited to domestic scenarios. (CoinDesk)</description>
-      <pubDate>Thu, 14 Aug 2025 05:25:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24526</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>pump.fun has captured over 70% of the market share in the last 24 hours, causing Letsbonk to fall to 17.9%.</title>
-      <link>https://www.lookonchain.com/feeds/24525</link>
-      <description>On August 14th, according to Jupiter Data, on the Solana token issuance platform market share leaderboard in the past 24 hours, pump.fun took the lead with 70.6%, Letsbonk ranked second with 17.9%, and BAGS ranked third with 6.33%.</description>
-      <pubDate>Thu, 14 Aug 2025 05:24:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24525</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitget Launches ETH Community-wide Lottery Event, with Individuals Having the Chance to Win up to 30 ETH</title>
-      <link>https://www.lookonchain.com/feeds/24524</link>
-      <description>August 14th. Bitget has initiated an ETH Carnival Lucky Draw event. Both new and existing users are eligible to participate and share the rewards. During the event, users can acquire a lucky draw chance by fulfilling corresponding contract trading volume tasks. New users can have up to 8 draws, while existing users can have up to 7 draws. The greater the number of draw attempts, the higher the likelihood of winning the grand prize, with a maximum individual reward of 30 ETH.This event has a low entry barrier with a 1000 USDT contract trading volume. Once the task is completed, 1 draw qualification will be unlocked, and the winning rate is 100%. The total prize pool includes rewards such as ETH, JD E Cards, USDT, and more. All event rewards will be automatically credited to users&apos; accounts without the need for manual claiming.The detailed rules have been released on the Bitget official platform. Users can click the &quot;Join Now&quot; button to sign up and participate in the event. The event</description>
-      <pubDate>Thu, 14 Aug 2025 05:16:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24524</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Briefly Falls Below $123,000</title>
-      <link>https://www.lookonchain.com/feeds/24523</link>
-      <description>On August 14th, based on HTX market data, Bitcoin briefly fell below $123,000 and is currently trading at $123,084.</description>
-      <pubDate>Thu, 14 Aug 2025 05:08:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24523</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24538</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -139,12 +34,12 @@
 
     </item>
     <item>
-      <title>The WLFI OTC price is currently at $0.3, with a 24-hour trading volume exceeding $1.56 million.</title>
-      <link>https://www.lookonchain.com/feeds/24522</link>
-      <description>On August 14th, based on the market data of Whales Market, the OTC price of WLFI is currently at $0.3. The 24-hour trading volume exceeds $1.56 million, and the total trading volume exceeds $30 million.</description>
-      <pubDate>Thu, 14 Aug 2025 05:00:13 +0000</pubDate>
+      <title>Binance Launches USDC Lending with Limited-Time 4% APY Discount</title>
+      <link>https://www.lookonchain.com/feeds/24537</link>
+      <description>August 14th. According to official channels, Binance has made an announcement regarding a USDC Reward Program. From 16:00 on August 15, 2025 (in UTC time) until 15:59 on September 16 (in UTC+8), users who newly take out a loan or hold USDC loans through Binance Margin or Savings will be able to enjoy a fixed annual percentage yield (APY) of 4%. This event is available to regular users up to VIP 9 and encompasses products such as Savings, VIP Loans, Cross Collateral, Isolated Margin, and Institutional Lending.</description>
+      <pubDate>Thu, 14 Aug 2025 06:24:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24522</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24537</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -153,16 +48,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>A new address withdrew 3606 ETH and 1.41 million WLD, with a total value of approximately $18.56 million</title>
-      <link>https://www.lookonchain.com/feeds/24521</link>
-      <description>On August 14th, based on the monitoring of LookOnChain, a newly established wallet made a withdrawal of 3,606 ETH (approximately $17.06 million) and 1.41 million WLD (approximately $1.55 million) 8 hours ago. The total value of this withdrawal is approximately $18.56 million.</description>
-      <pubDate>Thu, 14 Aug 2025 04:55:13 +0000</pubDate>
+      <title>Placeholder Partner: October Market Cap or Peak, Ethereum sees $6900, SOL sees $420</title>
+      <link>https://www.lookonchain.com/feeds/24536</link>
+      <description>On August 14th, Chris Burniske, who was formerly the lead of Ark Invest&apos;s crypto and is now a partner at Placeholder VC, predicted the following peak prices for major cryptocurrencies in October: Bitcoin: $142,690; Ethereum: $6,900 - $8,000; SOL: $420. Chris Burniske also noted that the crazier the prices in August, September, and October are, the more convinced he is that October will be the top. If the market can experience a sharp correction soon and remain relatively calm, perhaps this bull run could last even longer.</description>
+      <pubDate>Thu, 14 Aug 2025 06:24:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24521</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24536</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -177,12 +71,46 @@
 
     </item>
     <item>
-      <title>A certain Smart Money went 2x long on SOL 1 hour ago, with a position value of over $13.5 million.</title>
-      <link>https://www.lookonchain.com/feeds/24520</link>
-      <description>Update, August 14th: Based on on-chain data, Whale Wallet X initiated a 2x long position on SOL on Hyperliquid more than an hour ago. The position value exceeded $13.5 million, with an entry price of $207.83. This address also holds 3x long positions on SUI and XRP.This address has amassed over $5 million in profits on Hyperliquid.</description>
-      <pubDate>Thu, 14 Aug 2025 04:55:13 +0000</pubDate>
+      <title>Binance Alpha: Overlay Protocol (OVL) Airdrop Threshold 200 Points</title>
+      <link>https://www.lookonchain.com/feeds/24535</link>
+      <description>On August 14th, according to official channels, the trading of Binance Alpha&apos;s new project, Overlay Protocol (OVL), is set to commence on August 14, 2025, at 15:30 (UTC+8). After the trading begins, users who hold at least 200 Alpha points will be eligible to claim a 111 OVL token airdrop. The first come, first served principle applies. If the event has not ended, the point threshold will automatically decrease by 15 points every hour.</description>
+      <pubDate>Thu, 14 Aug 2025 06:16:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24520</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24535</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>HashKey Cloud partners with OneInfinity to launch Slashing Insurance, providing comprehensive protection for customer staked assets</title>
+      <link>https://www.lookonchain.com/feeds/24534</link>
+      <description>August 14th, HashKey Cloud officially declared a strategic partnership with OneInfinity by OneDegree, which is the first licensed digital asset insurance company in Asia. Together, they launched an on-chain staking* insurance solution. This partnership will offer professional Slashing insurance services to crypto investors, Exchange-Traded Funds (ETFs), and crypto custodians. It enables users to participate in the DeFi and staking ecosystem with confidence and explore new opportunities for value growth safely and efficiently.HashKey Cloud is dedicated to providing users with secure and professional staking services. By integrating OneInfinity&apos;s innovative slashing insurance, we effectively address the slashing penalty risk caused by validator nodes. This comprehensively safeguards customer staked assets from accidental losses and provides solid protection to maximize customer returns.Customer asset security is the core commitment of HashKey Cloud. Recognizing the potential losses f</description>
+      <pubDate>Thu, 14 Aug 2025 06:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24534</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Turbos DEX Cumulative Trading Volume Surpasses $7 Billion</title>
+      <link>https://www.lookonchain.com/feeds/24533</link>
+      <description>On August 14th, according to official channels, the flagship project within the Sui ecosystem, Turbos DEX, has officially exceeded a total trading volume of 7 billion USD. The official announcement noted that they will continue to cooperate with builders in the Sui ecosystem to promote DeFi innovation.Furthermore, at present, several liquidity pools on the platform offer attractive yields and provide multiple token incentives. These include an APY of 172.51% for SUI/USDC, an APY of 16.73% for USDT/USDC, and an APY of 24.26% for TURBOS/SUI.</description>
+      <pubDate>Thu, 14 Aug 2025 06:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24533</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -192,6 +120,81 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
+
+    </item>
+    <item>
+      <title>UK June GDP 3-Month Average Monthly Growth Rate 0.3%, Expected 0.1%</title>
+      <link>https://www.lookonchain.com/feeds/24532</link>
+      <description>August 14th: In the UK, for the June 3-Month period, GDP MoM was 0.3%. The expected value was 0.1%, and the previous value was revised from 0.5% to 0.6%. In the UK, for June, Industrial Output MoM was 0.7%. The expected value was 0.2%, and the previous value was revised from -0.9% to -1.3%. (FX168)</description>
+      <pubDate>Thu, 14 Aug 2025 06:09:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24532</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Dips Below $122,000, 24-hour Gain Narrows to 0.65%</title>
+      <link>https://www.lookonchain.com/feeds/24531</link>
+      <description>On August 14th, based on HTX market data, Bitcoin dropped below $122,000 and is currently trading at $121,776, with a 24-hour percentage change narrowing to 0.65%.</description>
+      <pubDate>Thu, 14 Aug 2025 06:09:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24531</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Smart Money with Over $34.1 Million in Cumulative Profit Opens Ethereum Long Position at 25x Leverage in Less Than Half an Hour</title>
+      <link>https://www.lookonchain.com/feeds/24530</link>
+      <description>On August 14th, based on on-chain data, Smart Money that has accumulated a profit of more than $34.1 million opened a 25x long position on Ethereum within less than half an hour. The average entry price was $4740.31, and the position value was $21.3 million.</description>
+      <pubDate>Thu, 14 Aug 2025 06:00:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24530</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Binance: Cherry AI (AIBOT) TGE Participation Requirement 224 Points</title>
+      <link>https://www.lookonchain.com/feeds/24529</link>
+      <description>On August 14th, according to official information, Binance Alpha users who have 224 or more points are eligible to participate in the Cherry AI (AIBOT) TGE event through the Alpha event page. Participating in this event will require 15 points.Subscription Time: from 4:00 PM to 6:00 PM on August 14th, 2025 (UTC+8).</description>
+      <pubDate>Thu, 14 Aug 2025 05:40:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24529</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
   </channel>
