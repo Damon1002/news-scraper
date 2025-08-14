@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 11:33:23 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 11:33:23 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 11:47:21 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 11:47:21 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,51 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The Hong Kong Stock Exchange will list the MicroBit Bitcoin and Ethereum Spot ETF on August 21st.</title>
+      <link>https://www.lookonchain.com/feeds/24579</link>
+      <description>August 14th. According to HKEX documents, MicroBit&apos;s MicroBit Bitcoin Spot ETF and MicroBit Ethereum Spot ETF are scheduled to be listed on the Hong Kong Stock Exchange next Thursday (August 21st). The management fee for both ETFs is 0.5% of the net asset value per year, which is lower than that of existing cryptocurrency spot ETFs. BOCI-Prudential Trustee Limited acts as the custodian and administrator. HashKey Exchange is the virtual asset trading platform, and Hash Blockchain Limited is the virtual asset sub-custodian. The participating brokers include CMB International, ED Securities Futures, Future Assets Securities, HPC Capital Securities, Huasheng Capital Securities, and Victory Securities.</description>
+      <pubDate>Thu, 14 Aug 2025 11:40:28 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24579</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Around $33 billion worth of ETH is currently queued to exit the Ethereum PoS network, while around $10.3 billion worth of ETH is waiting to join.</title>
+      <link>https://www.lookonchain.com/feeds/24578</link>
+      <description>On August 14th, based on the data from the Validator Queue tracking website ValidatorQueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 702,703 ETH, which is approximately worth 3.3 billion US dollars. The amount of queued ETH has been increasing continuously for 3 days. The recent peak reached 744,000 ETH, and the waiting time for exiting is approximately 12 days and 5 hours.At the same time, about 220,266 ETH are queued to join the network, with a value of approximately 1.03 billion US dollars. The expected activation delay is about 3 days and 20 hours.Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may choose to cash out after Ethereum rebounded by more than 160% from its April low, resulting in a surge in the exit queue. On the other hand, new funds deposited due to regulatory optimism and institutional demand are also driving up the entry queue. Listed companies</description>
+      <pubDate>Thu, 14 Aug 2025 11:32:28 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24578</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Solana Ecosystem Meme Coin KORI Market Cap briefly surpassed 40 million USD before retracting, with a more than 37% increase in the last 24 hours.</title>
       <link>https://www.lookonchain.com/feeds/24577</link>
       <description>On August 14th, according to the market information of GMGN, the market capitalization of the Solana ecosystem meme coin KORI briefly exceeded 40 million US dollars and has now retreated to 27 million US dollars. It has seen a more than 37% increase in the past 24 hours and a 24-hour trading volume of 7.08 million US dollars.BlockBeats reminds users that meme coins have no practical use cases, experience significant price fluctuations, and investment should be made with caution.</description>
-      <pubDate>Thu, 14 Aug 2025 11:24:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 11:24:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24577</guid>
       <category>crypto</category>
@@ -32,27 +73,10 @@
 
     </item>
     <item>
-      <title>《Fortune》: Sequoia Capital China Holds About 10% Stake in Binance</title>
-      <link>https://www.lookonchain.com/feeds/24575</link>
-      <description>August 14th. According to Fortune magazine, Binance co-founder He Yi holds around 10% of Binance&apos;s shares. During CZ&apos;s imprisonment resulting from a plea bargain, He Yi played a crucial role behind the scenes, assisting Binance in navigating regulatory and financial difficulties. Despite encountering significant obstacles, the company has remained the world&apos;s leading centralized exchange under the leadership of its successors.Looking ahead, He Yi thinks that cryptographic technology will fundamentally reshape the traditional financial system, similar to the internet, and anticipates more integration into mainstream finance through stablecoins and blockchain in the next 5 to 10 years. She emphasized that Binance will continue to focus on customers while promoting a founder culture and innovative development.</description>
-      <pubDate>Thu, 14 Aug 2025 11:16:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24575</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>BTCS Releases Q2 2025 Financial Report: Revenue Surges by 394% Year-over-Year to $2.77 Million, ETH Holdings Reach 70,140 ETH as of August 12</title>
       <link>https://www.lookonchain.com/feeds/24576</link>
       <description>On August 14th, the publicly traded company BTCS in the US released its second-quarter financial report for 2025. During this quarter, the company achieved a record-breaking revenue of $2.77 million, representing a 394% year-on-year increase and a 64% increase from the previous quarter. This outstanding performance was primarily due to the robust growth of the Ethereum-first Builder+ business, which now accounts for the vast majority of the company&apos;s revenue.As of August 12, 2025, the holdings of ETH have increased to 70,140 coins, with a total value exceeding $321 million. This strategic accumulation of ETH is aimed at driving long-term revenue growth and supporting our scalable blockchain infrastructure.</description>
-      <pubDate>Thu, 14 Aug 2025 11:16:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 11:16:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24576</guid>
       <category>crypto</category>
@@ -71,10 +95,27 @@
 
     </item>
     <item>
+      <title>《Fortune》: Sequoia Capital China Holds About 10% Stake in Binance</title>
+      <link>https://www.lookonchain.com/feeds/24575</link>
+      <description>August 14th. According to Fortune magazine, Binance co-founder He Yi holds around 10% of Binance&apos;s shares. During CZ&apos;s imprisonment resulting from a plea bargain, He Yi played a crucial role behind the scenes, assisting Binance in navigating regulatory and financial difficulties. Despite encountering significant obstacles, the company has remained the world&apos;s leading centralized exchange under the leadership of its successors.Looking ahead, He Yi thinks that cryptographic technology will fundamentally reshape the traditional financial system, similar to the internet, and anticipates more integration into mainstream finance through stablecoins and blockchain in the next 5 to 10 years. She emphasized that Binance will continue to focus on customers while promoting a founder culture and innovative development.</description>
+      <pubDate>Thu, 14 Aug 2025 11:16:28 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24575</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Analyst: BTC Volatility Hits New Two-Year Low, Signaling Potential Imminent Spike</title>
       <link>https://www.lookonchain.com/feeds/24574</link>
       <description>On August 14th, CryptoQuant analyst Axel Adler Jr. put forward that, &quot;Based on the 30-day high-low price indicator, the volatility of Bitcoin has been compressed to the lowest level in two years: the range between the highest and lowest prices within the past 30 days has become narrower, and the range formed by the rolling high/low prices has constricted the price within it. This compression typically indicates a balance between supply and demand and low realized volatility. When liquidity is concentrated at local highs (above $120,000) and lows (below $113,000), such a situation emerges. The possibility of the expansion of the price range is on the rise.&quot;</description>
-      <pubDate>Thu, 14 Aug 2025 11:08:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 11:08:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24574</guid>
       <category>crypto</category>
@@ -93,7 +134,7 @@
       <title>In July, Canyacoin&apos;s Bitcoin production increased by 45% compared to the previous month, with deployed hashing power reaching 50 EH/s.</title>
       <link>https://www.lookonchain.com/feeds/24573</link>
       <description>On August 14th, as per an official declaration, CanGu (stock code: CANG) is projected to achieve a Bitcoin production of 650.5 coins in July 2025. This compares to 450.0 coins in June, representing a month-on-month increase of 45%.The announcement data indicates that CanGu had deployed an additional 18 EH/s of hashrate by the end of June and into July, bringing its total deployed hashrate to 50 EH/s.CanGu CEO Paul Yu stated that the enhancement in operational efficiency and the expansion of the hashrate scale showcase the team&apos;s exceptional execution in efficiently converting hashrate into the company&apos;s Bitcoin reserve on the balance sheet.</description>
-      <pubDate>Thu, 14 Aug 2025 11:08:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 11:08:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24573</guid>
       <category>crypto</category>
@@ -112,7 +153,7 @@
       <title>「Brother Godfather」 Huang Licheng Goes Long on HYPE Again with 5x Leverage, Opening Price 46.58 US Dollars</title>
       <link>https://www.lookonchain.com/feeds/24572</link>
       <description>August 14th. According to on-chain analyst Ai Yi (@ai_9684xtpa), &quot;Brother Ma Ji&quot; Huang Licheng, who previously achieved a profit of $33.83 million by going long on ETH and HYPE, has once again opened a 5x leveraged long position in HYPE. Currently, his positions are as follows:A 25x leveraged long position in ETH, holding 11,545.532 ETH (approximately $54.23 million), with an average entry price of $4736.93.A 5x leveraged long position in HYPE, holding 10,000 HYPE tokens (approximately $46.7 thousand), with an average entry price of $46.58.</description>
-      <pubDate>Thu, 14 Aug 2025 11:00:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 11:00:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24572</guid>
       <category>crypto</category>
@@ -129,7 +170,7 @@
       <title>Bitcoin Dips Below $121,000 Briefly</title>
       <link>https://www.lookonchain.com/feeds/24571</link>
       <description>On August 14th, based on HTX market data, Bitcoin briefly fell below $121,000 and is currently trading at $121,122, with a 24-hour price change of 0.48%.</description>
-      <pubDate>Thu, 14 Aug 2025 10:56:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:56:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24571</guid>
       <category>crypto</category>
@@ -149,7 +190,7 @@
       <title>Ethereum Temporarily Drops Below $4700</title>
       <link>https://www.lookonchain.com/feeds/24570</link>
       <description>On August 14th, based on HTX market data, Ethereum briefly fell below $4,700 and is currently trading at $4,702, showing a 24-hour percentage change of 0.03%.</description>
-      <pubDate>Thu, 14 Aug 2025 10:48:29 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 10:48:28 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24570</guid>
       <category>crypto</category>
@@ -163,43 +204,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>If Ethereum Breaks its All-Time High, Mainstream CEX Cumulative Short Liquidation Pressure Will Reach $2.218 Billion</title>
-      <link>https://www.lookonchain.com/feeds/24569</link>
-      <description>On August 14th, according to Coinglass data, if Ethereum manages to break through the $4868 all-time high, the cumulative short liquidation intensity on mainstream CEXs will reach $2.218 billion.Conversely, if Ethereum drops below $4600, the cumulative long liquidation intensity on mainstream CEXs will reach $3.342 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, a more intense reaction will occur due to a liquidity cascade.</description>
-      <pubDate>Thu, 14 Aug 2025 10:48:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24569</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Huobi HTX has launched perpetual contracts for AIO, XNY, and USELESS, and kicked off a contract trading party.</title>
-      <link>https://www.lookonchain.com/feeds/24568</link>
-      <description>August 14th. According to the official announcement, Huobi HTX launched perpetual contracts for AIO/USDT, XNY/USDT, and USELESS/USDT on August 14th, with a maximum leverage of 20 times. Additionally, Huobi HTX started an AIO, XNY, and USELESS contract trading party from 6:00 PM (UTC + 8) on August 14th to 6:00 PM on August 21st. The total prize pool amounts to up to $20,000.During the event, users who sign up and participate in AIO/USDT, XNY/USDT, and USELESS/USDT contract trading, with a cumulative valid trading volume ≥$10,000 USDT, will be eligible to share the prize pool based on their trading volume ranking. New users trading AIO/USDT, XNY/USDT, and USELESS/USDT contracts will also receive exclusive benefits.</description>
-      <pubDate>Thu, 14 Aug 2025 10:32:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24568</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
