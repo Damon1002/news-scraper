@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 13:01:01 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 13:01:01 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 13:44:05 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 13:44:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,263 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>BTCTurk遭黑客攻击，损失约4900万美元加密资产</title>
+      <link>https://www.panewslab.com/zh/articles/db52020e-1b08-482f-9349-5a4b9767ca12</link>
+      <description>BTCTurk遭黑客攻击，损失约4900万美元加密资产</description>
+      <pubDate>Thu, 14 Aug 2025 13:44:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/db52020e-1b08-482f-9349-5a4b9767ca12</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>以太坊验证者退出队列突破31亿美元，质押撤回加速</title>
+      <link>https://www.panewslab.com/zh/articles/e1ef2401-dd37-494f-a0b3-edafdb6dffa7</link>
+      <description>以太坊验证者退出队列突破31亿美元，质押撤回加速</description>
+      <pubDate>Thu, 14 Aug 2025 13:42:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e1ef2401-dd37-494f-a0b3-edafdb6dffa7</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Coinbase现已支持纽约用户在Base链发送和接收USDC</title>
+      <link>https://www.panewslab.com/zh/articles/f65fa3bb-2b70-4eed-90b1-00d4ccbe50e1</link>
+      <description>Coinbase现已支持纽约用户在Base链发送和接收USDC</description>
+      <pubDate>Thu, 14 Aug 2025 13:40:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f65fa3bb-2b70-4eed-90b1-00d4ccbe50e1</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>美股三大股指低开，嘉楠科技跌7.7%</title>
+      <link>https://www.panewslab.com/zh/articles/210c9ead-f257-4a5c-a508-19673c5c8843</link>
+      <description>美股三大股指低开，嘉楠科技跌7.7%</description>
+      <pubDate>Thu, 14 Aug 2025 13:38:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/210c9ead-f257-4a5c-a508-19673c5c8843</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>过去1小时全网合约爆仓约5.5亿美元，ETH爆仓1.8亿美元</title>
+      <link>https://www.panewslab.com/zh/articles/ab4af70c-2b37-4895-838a-bca827fad617</link>
+      <description>过去1小时全网合约爆仓约5.5亿美元，ETH爆仓1.8亿美元</description>
+      <pubDate>Thu, 14 Aug 2025 13:36:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ab4af70c-2b37-4895-838a-bca827fad617</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>贝森特：并非敦促美联储降息，只是在引用模型结果</title>
+      <link>https://www.panewslab.com/zh/articles/38234bda-b657-4f8a-b264-c86ba5f528ec</link>
+      <description>贝森特：并非敦促美联储降息，只是在引用模型结果</description>
+      <pubDate>Thu, 14 Aug 2025 13:34:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/38234bda-b657-4f8a-b264-c86ba5f528ec</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>BtcTurk：大部分资产存放于安全冷钱包，用户资产不受影响</title>
+      <link>https://www.panewslab.com/zh/articles/5c7b1bf8-7032-4503-895b-568ca447fb8a</link>
+      <description>BtcTurk：大部分资产存放于安全冷钱包，用户资产不受影响</description>
+      <pubDate>Thu, 14 Aug 2025 13:32:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5c7b1bf8-7032-4503-895b-568ca447fb8a</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>DeAgentAI 获 Momentum 战略融资</title>
+      <link>https://www.panewslab.com/zh/articles/545a8592-db0f-4b65-bdef-6b34a9dfd943</link>
+      <description>DeAgentAI 获 Momentum 战略融资</description>
+      <pubDate>Thu, 14 Aug 2025 13:30:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/545a8592-db0f-4b65-bdef-6b34a9dfd943</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>AguilaTrades在Hyperliquid累计亏损达3750万美元</title>
+      <link>https://www.panewslab.com/zh/articles/c1711b87-07e4-4bb2-b81d-db660e236432</link>
+      <description>AguilaTrades在Hyperliquid累计亏损达3750万美元</description>
+      <pubDate>Thu, 14 Aug 2025 13:28:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c1711b87-07e4-4bb2-b81d-db660e236432</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>USDC Treasury在以太坊链上新铸造1亿枚USDC</title>
+      <link>https://www.panewslab.com/zh/articles/46a5ae05-88f6-4b06-a0ee-8e98c1e0f5dd</link>
+      <description>USDC Treasury在以太坊链上新铸造1亿枚USDC</description>
+      <pubDate>Thu, 14 Aug 2025 13:26:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/46a5ae05-88f6-4b06-a0ee-8e98c1e0f5dd</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>稳定币协议USD.AI完成1300万美元A轮融资，Framework Ventures领投</title>
+      <link>https://www.panewslab.com/zh/articles/f01f6e3a-03aa-4192-8835-d284bfa5785d</link>
+      <description>稳定币协议USD.AI完成1300万美元A轮融资，Framework Ventures领投</description>
+      <pubDate>Thu, 14 Aug 2025 13:24:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f01f6e3a-03aa-4192-8835-d284bfa5785d</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Unichain上线200毫秒子区块，提升DeFi交易速度</title>
+      <link>https://www.panewslab.com/zh/articles/f79121ae-b509-4261-8a7f-347cb8ff4b64</link>
+      <description>Unichain上线200毫秒子区块，提升DeFi交易速度</description>
+      <pubDate>Thu, 14 Aug 2025 13:22:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f79121ae-b509-4261-8a7f-347cb8ff4b64</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>defi</category>
+
+    </item>
+    <item>
+      <title>MicroStrategy公司法定名称更名为Strategy</title>
+      <link>https://www.panewslab.com/zh/articles/463279c9-98c9-45ae-9688-9c3d9667a28b</link>
+      <description>MicroStrategy公司法定名称更名为Strategy</description>
+      <pubDate>Thu, 14 Aug 2025 13:20:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/463279c9-98c9-45ae-9688-9c3d9667a28b</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Gemini推出免助记词Web3智能钱包</title>
+      <link>https://www.panewslab.com/zh/articles/576ba0e5-cfce-426b-b186-3c04474fc1f8</link>
+      <description>Gemini推出免助记词Web3智能钱包</description>
+      <pubDate>Thu, 14 Aug 2025 13:18:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/576ba0e5-cfce-426b-b186-3c04474fc1f8</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Dinari将推出基于Avalanche的区块链，定位为“股票代币DTCC”</title>
+      <link>https://www.panewslab.com/zh/articles/6faa9805-b301-45b3-9d4e-99527bf3b9c5</link>
+      <description>Dinari将推出基于Avalanche的区块链，定位为“股票代币DTCC”</description>
+      <pubDate>Thu, 14 Aug 2025 13:16:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6faa9805-b301-45b3-9d4e-99527bf3b9c5</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>ETH跌破4500美元，日内下跌 3.54%</title>
+      <link>https://www.panewslab.com/zh/articles/55q0o6fk</link>
+      <description>ETH跌破4500美元，日内下跌 3.54%</description>
+      <pubDate>Thu, 14 Aug 2025 13:14:05 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/55q0o6fk</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>美国7月PPI增速触及三年以来最高水平</title>
       <link>https://www.panewslab.com/zh/articles/ffbf083a-f73f-4352-b6a4-c582cb091c65</link>
       <description>美国7月PPI增速触及三年以来最高水平</description>
-      <pubDate>Thu, 14 Aug 2025 13:01:01 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 13:12:05 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ffbf083a-f73f-4352-b6a4-c582cb091c65</guid>
       <category>crypto</category>
@@ -32,7 +285,7 @@
       <title>BtcTurk暂停加密货币充值和提现，土耳其里拉交易正常</title>
       <link>https://www.panewslab.com/zh/articles/1751d401-e16f-47d9-a24a-0622e0c4c0c5</link>
       <description>BtcTurk暂停加密货币充值和提现，土耳其里拉交易正常</description>
-      <pubDate>Thu, 14 Aug 2025 12:59:01 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 13:10:05 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1751d401-e16f-47d9-a24a-0622e0c4c0c5</guid>
       <category>crypto</category>
@@ -49,7 +302,7 @@
       <title>BtcTurk疑遭黑客攻击，约4800万美元加密资产异常转移</title>
       <link>https://www.panewslab.com/zh/articles/ac9a4467-dc4f-4223-9739-cce6c3117e91</link>
       <description>BtcTurk疑遭黑客攻击，约4800万美元加密资产异常转移</description>
-      <pubDate>Thu, 14 Aug 2025 12:57:01 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 13:08:05 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ac9a4467-dc4f-4223-9739-cce6c3117e91</guid>
       <category>crypto</category>
@@ -66,7 +319,7 @@
       <title>BTC跌破118000美元，日内下跌 2.73%</title>
       <link>https://www.panewslab.com/zh/articles/1uzbqinh</link>
       <description>BTC跌破118000美元，日内下跌 2.73%</description>
-      <pubDate>Thu, 14 Aug 2025 12:55:01 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 13:06:05 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1uzbqinh</guid>
       <category>crypto</category>
@@ -77,256 +330,6 @@
       <category>chinese-crypto-news</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>BTC跌破119000美元，日内下跌 1.97%</title>
-      <link>https://www.panewslab.com/zh/articles/kqr56zic</link>
-      <description>BTC跌破119000美元，日内下跌 1.97%</description>
-      <pubDate>Thu, 14 Aug 2025 12:53:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/kqr56zic</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>美国7月PPI年率为3.3%，大幅超出市场预期的2.5%</title>
-      <link>https://www.panewslab.com/zh/articles/fe3ce94e-bee1-438c-b11e-469fb979b065</link>
-      <description>美国7月PPI年率为3.3%，大幅超出市场预期的2.5%</description>
-      <pubDate>Thu, 14 Aug 2025 12:51:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fe3ce94e-bee1-438c-b11e-469fb979b065</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>ETH跌破4600美元，日内下跌 1.47%</title>
-      <link>https://www.panewslab.com/zh/articles/0qksgv6k</link>
-      <description>ETH跌破4600美元，日内下跌 1.47%</description>
-      <pubDate>Thu, 14 Aug 2025 12:49:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0qksgv6k</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>BTC跌破120000美元，日内下跌 0.79%</title>
-      <link>https://www.panewslab.com/zh/articles/eve2b1pz</link>
-      <description>BTC跌破120000美元，日内下跌 0.79%</description>
-      <pubDate>Thu, 14 Aug 2025 12:47:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/eve2b1pz</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>贝森特：（就加密货币储备）不会购买，将使用没收的资产</title>
-      <link>https://www.panewslab.com/zh/articles/57c667d0-25ac-4760-94d2-7b9fbf538791</link>
-      <description>贝森特：（就加密货币储备）不会购买，将使用没收的资产</description>
-      <pubDate>Thu, 14 Aug 2025 12:45:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/57c667d0-25ac-4760-94d2-7b9fbf538791</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>数据：ARKK一周资金流入达55亿美元，位居同类基金榜首</title>
-      <link>https://www.panewslab.com/zh/articles/cedc8131-3f5a-4044-afc9-c060cb6552dd</link>
-      <description>数据：ARKK一周资金流入达55亿美元，位居同类基金榜首</description>
-      <pubDate>Thu, 14 Aug 2025 12:43:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cedc8131-3f5a-4044-afc9-c060cb6552dd</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>美国财长贝森特：我们不太可能会重新评估美国黄金储备持仓</title>
-      <link>https://www.panewslab.com/zh/articles/77927745-f6a8-4c52-ad07-b7ab67d629ba</link>
-      <description>美国财长贝森特：我们不太可能会重新评估美国黄金储备持仓</description>
-      <pubDate>Thu, 14 Aug 2025 12:41:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/77927745-f6a8-4c52-ad07-b7ab67d629ba</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>香港证监会与金管局就稳定币相关市场波动发布联合声明</title>
-      <link>https://www.panewslab.com/zh/articles/84c8b2f9-5a6e-43b0-adbb-611edfc2884e</link>
-      <description>香港证监会与金管局就稳定币相关市场波动发布联合声明</description>
-      <pubDate>Thu, 14 Aug 2025 12:39:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/84c8b2f9-5a6e-43b0-adbb-611edfc2884e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Mesh完成超1.3亿美元融资，PayPal Ventures及Coinbase Ventures等参投</title>
-      <link>https://www.panewslab.com/zh/articles/6e5c0293-f73c-44a7-8d72-f8d367bd9d8a</link>
-      <description>Mesh完成超1.3亿美元融资，PayPal Ventures及Coinbase Ventures等参投</description>
-      <pubDate>Thu, 14 Aug 2025 12:37:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6e5c0293-f73c-44a7-8d72-f8d367bd9d8a</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>外媒：何一持有Binance至少10%股份并联合掌管YZi Labs</title>
-      <link>https://www.panewslab.com/zh/articles/42ec283f-06a9-4fca-987d-2ed310becc26</link>
-      <description>外媒：何一持有Binance至少10%股份并联合掌管YZi Labs</description>
-      <pubDate>Thu, 14 Aug 2025 12:35:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/42ec283f-06a9-4fca-987d-2ed310becc26</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>香港财经事务及库务局副局长陈浩濂先生确认出席由新火科技举办的「香港区块链高峰论坛」</title>
-      <link>https://www.panewslab.com/zh/articles/3033783a-9c0d-4dbd-9088-ff757651d302</link>
-      <description>香港财经事务及库务局副局长陈浩濂先生确认出席由新火科技举办的「香港区块链高峰论坛」</description>
-      <pubDate>Thu, 14 Aug 2025 12:33:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3033783a-9c0d-4dbd-9088-ff757651d302</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>嘉楠科技2025年Q2挖矿收入达2810万美元，比特币储备升至1483.5枚</title>
-      <link>https://www.panewslab.com/zh/articles/52ea748e-30bc-4fbf-ba77-5d955b20b31b</link>
-      <description>嘉楠科技2025年Q2挖矿收入达2810万美元，比特币储备升至1483.5枚</description>
-      <pubDate>Thu, 14 Aug 2025 12:31:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/52ea748e-30bc-4fbf-ba77-5d955b20b31b</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>普京与特朗普的会晤将于16日凌晨3时30分开始</title>
-      <link>https://www.panewslab.com/zh/articles/817df658-99bd-4a91-98d6-50d349202908</link>
-      <description>普京与特朗普的会晤将于16日凌晨3时30分开始</description>
-      <pubDate>Thu, 14 Aug 2025 12:29:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/817df658-99bd-4a91-98d6-50d349202908</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>俄罗斯总统普京：有可能与美国达成新的军备协议</title>
-      <link>https://www.panewslab.com/zh/articles/f83e868e-60b3-4687-b096-08945468f65d</link>
-      <description>俄罗斯总统普京：有可能与美国达成新的军备协议</description>
-      <pubDate>Thu, 14 Aug 2025 12:27:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f83e868e-60b3-4687-b096-08945468f65d</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>BTC跌破121000美元，日内涨幅 0.05%</title>
-      <link>https://www.panewslab.com/zh/articles/xvxws7wi</link>
-      <description>BTC跌破121000美元，日内涨幅 0.05%</description>
-      <pubDate>Thu, 14 Aug 2025 12:25:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/xvxws7wi</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>美媒：特普会不再是摸底会议，普京不停火“后果很严重”</title>
-      <link>https://www.panewslab.com/zh/articles/40005346-e9ef-4a6c-b26a-0bf40596fbd5</link>
-      <description>美媒：特普会不再是摸底会议，普京不停火“后果很严重”</description>
-      <pubDate>Thu, 14 Aug 2025 12:23:01 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/40005346-e9ef-4a6c-b26a-0bf40596fbd5</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>

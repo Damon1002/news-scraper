@@ -5,14 +5,80 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 13:01:01 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 13:01:01 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 13:44:05 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 13:44:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>美股三大股指低开，道指跌0.34%，标普500指数跌0.27%，纳指跌0.29%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，美股开盘，三大股指低开，道指跌0.34%，标普500指数跌0.27%，纳指跌0.29%。</description>
+      <pubDate>Thu, 14 Aug 2025 13:32:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Coinbase 宣布已完成对 Deribit 的收购</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，加密货币交易所 Coinbase 已完成对加密期权交易所 Deribit 的收购。据称，此次收购将帮助 Coinbase 构建更全面的交易产品线，包括现货、期货、永续合约和期权交易。此次整合将通过更广泛的市场参与度和更深的流动性来扩大其全球业务规模。此前消息，今年五月初，Coinbas...</description>
+      <pubDate>Thu, 14 Aug 2025 13:26:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>稳定币协议 USD.AI 完成 1300 万美元 A 轮融资，Framework Ventures 领投</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 CoinDesk 报道，由 Permian Labs 开发的 GPU 抵押稳定币协议 USD.AI 完成 1300 万美元 A 轮融资，由 Framework Ventures 领投，Bullish、Dragonfly、Arbitrum 等参投。该协议通过将图形处理器（GPU）硬件作为抵押品，...</description>
+      <pubDate>Thu, 14 Aug 2025 13:13:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Strategy 宣布已正式从 MicroStrategy Incorporated 更名为Strategy Inc</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Strategy 官方宣布，公司法定名称正式从 MicroStrategy Incorporated 更名为 Strategy Inc，自 2025 年 8 月 11 日起生效。</description>
+      <pubDate>Thu, 14 Aug 2025 13:11:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>ETH 跌破 4500 美元，日内跌幅 3.78%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 HTX 行情数据显示，ETH 跌破 4500 美元，现报 4487.389 美元，日内跌幅 3.78%。</description>
+      <pubDate>Thu, 14 Aug 2025 13:05:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>MetalphaPro 约 10 分钟前从 Aave 提取 1.3 万枚以太坊并转入币安，约合 6138 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，MetalphaPro 约 10 分钟前从借贷协议 Aave 提取了 1.3 万枚以太坊（约合 6138 万美元），随后将这些资金转入币安交易所。</description>
+      <pubDate>Thu, 14 Aug 2025 13:04:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>美国7月PPI增速触及三年以来最高水平</title>
       <link>https://www.techflowpost.com</link>
@@ -27,7 +93,7 @@
     <item>
       <title>CertiK：土耳其加密交易平台 BtcTurk 出现可疑提款，数额超 5000 万美元</title>
       <link>https://www.techflowpost.com</link>
-      <description>据 CertiK Alert 监测，土耳其加密货币交易平台 BtcTurk 出现可疑提款，超过 5,000 万美元从 3 个钱包被提走。</description>
+      <description>据 CertiK Alert 监测，土耳其加密货币交易平台 BtcTurk 出现可疑提款，超过 5,000 万美元从 3 个钱包被提走。据 BtcTurk 公告，其于 2025 年 8 月 14 日检测到热钱包异常操作，平台为安全起见已暂时停止加密货币的充值与提现业务，待调查完成后恢复。官方称，大...</description>
       <pubDate>Thu, 14 Aug 2025 12:57:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Whale Alert 监测，约 4 分钟前 USDC Treasury 在以太坊链上销毁了 63,063,064 枚 USDC（约合 6303.8 万美元）。</description>
       <pubDate>Thu, 14 Aug 2025 12:04:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>嘉楠科技发布今年 Q2 财报：营收超 1 亿美元，比特币挖矿收入达 2810 万美元，创历史新高</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Canaan（嘉楠科技）公布 2025 年第二季度财报数据，公司 2025 年第二季度总收入达 1.002 亿美元，同比增长 39.5%。其中，比特币挖矿收入达 2810 万美元，同比增长 201.6%，创下历史新高。财报显示，第二季度公司挖出 284 枚比特币，平均每枚比特币收入为 98,866...</description>
-      <pubDate>Thu, 14 Aug 2025 12:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>比特币矿企 TeraWulf 与 Fluidstack 签署 AI 算力托管协议，总合同收入最高可达 87 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 GlobeNewswire 报道，比特币矿企 TeraWulf 宣布与人工智能云平台 Fluidstack 签署两份为期 10 年的高性能计算托管协议。根据协议，TeraWulf 将在其纽约西部 Lake Mariner 数据中心为 Fluidstack 提供超过 200 MW 的关键 IT ...</description>
-      <pubDate>Thu, 14 Aug 2025 11:53:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>香港将新增两只虚拟资产现货 ETF，下周四正式挂牌</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据东网报道，港交所文件披露，MicroBit 旗下两只虚拟资产现货 ETF 将于 8 月 21 日在港交所挂牌交易。这两只 ETF 分别为 MicroBit 比特币现货 ETF（03430）和 MicroBit 以太币现货 ETF（03425），管理费均为每年资产净值的 0.5%。此次上市后，香港...</description>
-      <pubDate>Thu, 14 Aug 2025 11:40:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 2025 王者杯全球邀请赛 KCGI 收官，全球交易者共享 600 万美元奖池</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 宣布 2025 王者杯全球邀请赛（KCGI）圆满收官。本届赛事设有团队对抗赛、跟单交易挑战、交易机器人挑战、热门币种竞赛以及链上交易等多元赛制，吸引全球 120,197 名交易者参与，组建 1,620 支战队，在多维度交易挑战中角逐，共享 600 万美元奖金池。作为赛事核心的战队赛，...</description>
-      <pubDate>Thu, 14 Aug 2025 11:34:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Fortune：何一拥有 Binance 约 10% 的股份</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Fortune 报道，Binance 联合创始人何一拥有 Binance 约 10% 的股份。何一表示，未来 5-10 年内，加密货币将通过稳定币等区块链技术加速与传统金融系统的融合。</description>
-      <pubDate>Thu, 14 Aug 2025 11:27:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BTCS 发布 Q2 财报：营收达 277 万美元，ETH 持仓量达 70,140 枚</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据美股上市以太坊财库公司 BTCS（纳斯达克：BTCS）披露，该公司在 2025 年第二季度实现创纪录季度营收 277 万美元，同比增长 394%，环比增长 64%。其中，区块构建业务 Builder+ 贡献营收 251 万美元，较去年同期的 7.6 万美元大幅增长。财报显示，截至 2025 年 ...</description>
-      <pubDate>Thu, 14 Aug 2025 11:20:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
