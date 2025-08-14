@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 04:31:58 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 04:31:58 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 04:55:43 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 04:55:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A new address withdrew 3606 ETH and 1.41 million WLD, with a total value of approximately $18.56 million</title>
+      <link>https://www.lookonchain.com/feeds/24521</link>
+      <description>On August 14th, based on the monitoring of LookOnChain, a newly established wallet made a withdrawal of 3,606 ETH (approximately $17.06 million) and 1.41 million WLD (approximately $1.55 million) 8 hours ago. The total value of this withdrawal is approximately $18.56 million.</description>
+      <pubDate>Thu, 14 Aug 2025 04:48:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24521</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A certain Smart Money went 2x long on SOL 1 hour ago, with a position value of over $13.5 million.</title>
+      <link>https://www.lookonchain.com/feeds/24520</link>
+      <description>Update, August 14th: Based on on-chain data, Whale Wallet X initiated a 2x long position on SOL on Hyperliquid more than an hour ago. The position value exceeded $13.5 million, with an entry price of $207.83. This address also holds 3x long positions on SUI and XRP.This address has amassed over $5 million in profits on Hyperliquid.</description>
+      <pubDate>Thu, 14 Aug 2025 04:40:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24520</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale withdrew 210,924 LINK from Binance in just under 2 hours, totaling $5.05 million.</title>
+      <link>https://www.lookonchain.com/feeds/24517</link>
+      <description>On August 14th, as monitored by Onchain Lens, a whale transferred 210,924 LINK from Binance, with a value of $5.05 million.</description>
+      <pubDate>Thu, 14 Aug 2025 04:32:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24517</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Coinbase Suffers ~$300K MEV Exploit Due to Misconfiguration in 0x Swapper Interaction</title>
+      <link>https://www.lookonchain.com/feeds/24519</link>
+      <description>August 14th. As per Venn Network security researcher deeberiroz, Coinbase has disclosed that it suffered a loss of approximately $300,000 in token fees to an MEV bot due to a misconfiguration in its swapper contract with the decentralized exchange protocol 0x. The contract, which was originally designed for transaction execution, was not supposed to receive token approvals. After Coinbase made a mistake and approved it, the bot triggered the contract to transfer the tokens from Coinbase&apos;s fee account.Coinbase&apos;s Chief Security Officer, Philip Martin, confirmed the incident and stated that the problem originated from an adjustment to the enterprise DEX wallet and did not affect customer funds. The team has revoked the approval and transferred the funds to a new enterprise wallet. (The Block)</description>
+      <pubDate>Thu, 14 Aug 2025 04:32:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24519</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Azuki has partnered with the renowned watch brand Henry Mule to launch the co-branded commemorative watch Elements of Time, which is linked to a physical asset-backed token.</title>
+      <link>https://www.lookonchain.com/feeds/24518</link>
+      <description>August 14th. As per official channels, Azuki has made an announcement regarding a collaboration with the Swiss luxury watch brand H. Moser &amp; Cie. This collaboration is to launch a co-branded commemorative watch known as Elements of Time. The information on the official website indicates that the Pioneer Centre Seconds series consists of four styles that represent fire, earth, water, and lightning, with each priced at $25,000. Additionally, the Pioneer Tourbillon is priced at $75,000.It is reported that this watch series is linked to Physical Blockchain Tokens (PBT), merging Swiss watchmaking art with blockchain technology and opening up a novel approach to collection, proving provenance, and experiencing future things.</description>
+      <pubDate>Thu, 14 Aug 2025 04:32:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24518</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Guizhou Provincial Commission for Discipline Inspection in China Debunks Rumor of Female Official &quot;Mining 327 Bitcoins&quot;: It Was AI-Generated by Self-Media</title>
       <link>https://www.lookonchain.com/feeds/24516</link>
       <description>August 14th. An employee from the Publicity Department of the Guizhou Province Discipline Inspection Commission informed &quot;China Newsweek&quot; that the news suggesting that Jing Yaping, the former Director of the Guizhou Provincial Big Data Development Administration, used government servers to mine 327 bitcoins is &quot;a rumor&quot;. According to the source, Jing Yaping&apos;s case has nothing to do with Bitcoin.The above-mentioned employee pointed out that this news was originally fabricated by some self-media using AI (Artificial Intelligence) in an attempt to attract traffic. Later, it was reported by a media outlet, and relevant departments have already been in communication regarding this matter.</description>
-      <pubDate>Thu, 14 Aug 2025 04:25:04 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 04:24:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24516</guid>
       <category>crypto</category>
@@ -36,7 +128,7 @@
       <title>AI Chess Championship: OpenAI o3 Dominates to Win, Musk&apos;s Grok Shut Out in the Final</title>
       <link>https://www.lookonchain.com/feeds/24515</link>
       <description>On August 14th, last week, OpenAI&apos;s o3 model triumphed over xAI&apos;s Grok 4 in an artificial intelligence (AI) chess competition and emerged as the champion. The &quot;AI Chess Exhibition Match,&quot; which was held on Google&apos;s subsidiary Kaggle platform, saw eight AI models engage in a three-day elimination tournament to determine the champion, runner-up, and third-place finishers.In this competition, the AI models were required to play chess without any specific training and were only allowed to gather some chess knowledge from the internet prior to the match. In the final, OpenAI&apos;s o3 defeated Grok 4 with a score of 4-0, claiming the championship. It is notable that o3 won all three matches with a perfect 4-0 score and also swept its sibling o4 mini in the semi-finals.Earlier this year, in another tournament hosted by chess master Levy Rozman, both Grok and ChatGPT lost to the AI system Stockfish, which is specifically designed for chess.</description>
-      <pubDate>Thu, 14 Aug 2025 04:19:04 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 04:19:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24515</guid>
       <category>crypto</category>
@@ -53,7 +145,7 @@
       <title>Eric Trump: Several US Banks Closed Hundreds of His Accounts Without Notification, Prompting Him to Turn to Cryptocurrency</title>
       <link>https://www.lookonchain.com/feeds/24514</link>
       <description>On August 14th, Eric Trump, the son of former President Donald Trump, said in an interview with FOX that several major U.S. banks, such as Capital One, JPMorgan Chase, Bank of America, and First Republic Bank, closed hundreds of his accounts without giving any prior notice. This led him to turn to cryptocurrency.</description>
-      <pubDate>Thu, 14 Aug 2025 04:08:04 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 04:08:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24514</guid>
       <category>crypto</category>
@@ -70,7 +162,7 @@
       <title>A whale deposited 130,000 SOL into a CEX 3 hours ago, worth approximately $26.45 million.</title>
       <link>https://www.lookonchain.com/feeds/24513</link>
       <description>On August 14th, as per the monitoring of LookOnChain, whale CMJiHu made a deposit of 130,000 SOL tokens (valued at approximately $26.45 million) to Binance, OKX, Bybit, and Gate three hours ago.</description>
-      <pubDate>Thu, 14 Aug 2025 04:01:04 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 04:00:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24513</guid>
       <category>crypto</category>
@@ -89,7 +181,7 @@
       <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $729.1 million, while the Bitcoin Spot ETF saw a net inflow of $86.9 million.</title>
       <link>https://www.lookonchain.com/feeds/24512</link>
       <description>August 14th. As reported by Farside Investors, the net inflow into the US Ethereum spot ETF yesterday was $7.291 billion, and BlackRock&apos;s ETHA witnessed a net inflow of more than $5 billion.The net inflow into the Bitcoin spot ETF was $86.9 million. IBIT saw a net flow of 0. FBTC and ARKB had inflows of $26.7 million and $36.6 million respectively.The REX-Osprey SOL spot ETF saw no net inflow or outflow.</description>
-      <pubDate>Thu, 14 Aug 2025 03:58:04 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 03:57:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24512</guid>
       <category>crypto</category>
@@ -104,102 +196,6 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The probability of a 50 basis point Fed rate cut in September on Polymarket has increased to 8%.</title>
-      <link>https://www.lookonchain.com/feeds/24511</link>
-      <description>Update: On August 14th, the probability of a 50-basis-point interest rate cut by the Federal Reserve in September on Polymarket has increased to 8%. The probability of a 25-basis-point cut has gone down to 79%, and the probability of no rate cut is 12%.Furthermore, according to CME&apos;s &quot;FedWatch&quot; data, the probability of a 50-basis-point interest rate cut by the Federal Reserve in September is 4.2%, and the probability of a 25-basis-point cut is 95.8%.</description>
-      <pubDate>Thu, 14 Aug 2025 03:57:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24511</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>One week after &quot;selling the top,&quot; the ETH whale has increased their position by $20 million in ETH.</title>
-      <link>https://www.lookonchain.com/feeds/24510</link>
-      <description>On August 14th, according to Ember Monitor, an ETH Whale purchased an extra 4,201 ETH with 20 million USDT in the past half an hour.A week ago, after selling ETH at a price of $3,835, the whale has now repurchased 14,931 ETH with 70.596 million USDT today. The average price is $4,728.</description>
-      <pubDate>Thu, 14 Aug 2025 03:49:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24510</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Coinbase DEX has first opened up to 1% of users, and will gradually expand coverage in the future</title>
-      <link>https://www.lookonchain.com/feeds/24509</link>
-      <description>On August 14th, the newly appointed listing team leader of Coinbase, shaaa, declared that Coinbase DEX has already been made accessible to 1% of users and will gradually expand to a greater number of users in the future.</description>
-      <pubDate>Thu, 14 Aug 2025 03:42:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24509</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Tom Lee: Standard Chartered&apos;s Ethereum Year-End Target of $7500 is &apos;Lowball&apos;</title>
-      <link>https://www.lookonchain.com/feeds/24508</link>
-      <description>On August 14th, Tom Lee, the newly appointed chairman of BitMine, responded on the X platform regarding &quot;Standard Chartered Bank raising Ethereum&apos;s year-end price expectation to $7500&quot;, stating that this price target might be conservative.Before this news, Tom Lee had stated that based on the fundamental valuation of the Ethereum network, the fair price of ETH is $15,000, while the current price is $3,700.</description>
-      <pubDate>Thu, 14 Aug 2025 03:32:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24508</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Elon Musk&apos;s company SpaceX&apos;s holdings of Bitcoin have surpassed $1 billion in value</title>
-      <link>https://www.lookonchain.com/feeds/24507</link>
-      <description>On August 14th, based on Arkham data, the value of BTC held by Elon Musk&apos;s SpaceX has exceeded $1 billion.The data indicates that SpaceX holds a total of 8,285 BTC. It first acquired BTC on December 31, 2020, and has been holding it since completing its last purchase on June 10, 2022.</description>
-      <pubDate>Thu, 14 Aug 2025 03:31:04 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24507</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>spacex</category>
-      <category>btc</category>
-      <category>bitcoin</category>
       <category>high-value</category>
 
     </item>

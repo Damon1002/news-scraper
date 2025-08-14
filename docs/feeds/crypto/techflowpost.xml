@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 04:31:58 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 04:31:58 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 04:55:43 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 04:55:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Coinbase 因与 0x Project 的 swapper 合约交互配置错误而损失 30 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据The Block报道，Venn Network 安全研究员 deeberiroz 披露，Coinbase 因与去中心化交易协议 0 x 的 swapper 合约存在配置错误，被 MEV 机器人盗取约 30 万美元代币手续费。该合约原用于执行交易，不适合接收代币授权，Coinbase 误向其授权...</description>
+      <pubDate>Thu, 14 Aug 2025 04:46:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某新钱包 在 8 小时前提取了 3,606 枚 ETH 和 141 万枚 WLD</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，某新钱包 在 8 小时前提取了 3,606 枚 ETH ，价值 1706 万美元和 141 万枚 WLD ，价值 155 万美元。</description>
+      <pubDate>Thu, 14 Aug 2025 04:41:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>贵州省纪委辟谣：原大数据局长景亚萍案件不涉比特币挖矿</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据The Block报道，去中心化金融游说组织 DeFi 教育基金（DEF）宣布成立 “DeFi 教育基金会”，旨在为美国立法者提供加密行业政策与法律教育，并为捐赠者提供可抵税的慈善捐赠渠道。该组织正推动参议院在加密监管法案中审慎处理 DeFi，同时呼吁美国证监会（SEC）为特定区块链应用设立 “...</description>
       <pubDate>Thu, 14 Aug 2025 00:42:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸/机构再次增持 50,896 枚 ETH，价值约 2.4172 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸/机构近日再增持 50,896 枚 ETH，价值约 2.4172 亿美元，其总持仓已升至 379,316 枚 ETH，价值约 18 亿美元，分布在来自 FalconX、Galaxy Digital 和 BitGo 的 1...</description>
-      <pubDate>Thu, 14 Aug 2025 00:38:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>今日加密货币恐慌与贪婪指数升至75，市场仍处于「贪婪状态」</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Alternative.me 数据，今日加密货币恐慌与贪婪指数升至 75（昨日该指数为 73），市场仍处于「贪婪状态」。</description>
-      <pubDate>Thu, 14 Aug 2025 00:34:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
