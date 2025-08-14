@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 23:37:38 +0000</lastBuildDate>
-    <pubDate>Thu, 14 Aug 2025 23:37:38 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 23:49:42 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 23:49:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,25 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>美国银行协会等52家组织联合呼吁修改《稳定币法案》（GENIUS Act）</title>
+      <link>https://www.panewslab.com/zh/articles/8438f487-2d3c-4874-8d4c-97c2ae68f50e</link>
+      <description>美国银行协会等52家组织联合呼吁修改《稳定币法案》（GENIUS Act）</description>
+      <pubDate>Thu, 14 Aug 2025 23:49:42 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8438f487-2d3c-4874-8d4c-97c2ae68f50e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>美国对卢布稳定币A7A5和Garantex交易所关联公司和高管实施制裁</title>
       <link>https://www.panewslab.com/zh/articles/bfbe772c-12bb-458f-b48d-98d8c941164f</link>
       <description>美国对卢布稳定币A7A5和Garantex交易所关联公司和高管实施制裁</description>
-      <pubDate>Thu, 14 Aug 2025 23:37:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:47:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bfbe772c-12bb-458f-b48d-98d8c941164f</guid>
       <category>crypto</category>
@@ -32,7 +47,7 @@
       <title>美SEC将Bitwise和21Shares的Solana ETF提案推迟至10月16日决定</title>
       <link>https://www.panewslab.com/zh/articles/59ba25fb-0a12-460d-8a25-d6435cb7545f</link>
       <description>美SEC将Bitwise和21Shares的Solana ETF提案推迟至10月16日决定</description>
-      <pubDate>Thu, 14 Aug 2025 23:35:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:45:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/59ba25fb-0a12-460d-8a25-d6435cb7545f</guid>
       <category>crypto</category>
@@ -47,7 +62,7 @@
       <title>Pump.fun前员工认罪，因盗窃200万美元代币正等待宣判</title>
       <link>https://www.panewslab.com/zh/articles/85387c28-bd0d-4da3-83d6-d987fefbff03</link>
       <description>Pump.fun前员工认罪，因盗窃200万美元代币正等待宣判</description>
-      <pubDate>Thu, 14 Aug 2025 23:33:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:43:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/85387c28-bd0d-4da3-83d6-d987fefbff03</guid>
       <category>crypto</category>
@@ -62,7 +77,7 @@
       <title>花旗集团考虑为稳定币和加密货币ETF提供托管和支付服务</title>
       <link>https://www.panewslab.com/zh/articles/54701cf5-5569-408c-9afb-d2d51ea175bc</link>
       <description>花旗集团考虑为稳定币和加密货币ETF提供托管和支付服务</description>
-      <pubDate>Thu, 14 Aug 2025 23:31:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:41:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/54701cf5-5569-408c-9afb-d2d51ea175bc</guid>
       <category>crypto</category>
@@ -77,7 +92,7 @@
       <title>美股收盘涨跌不一，Circle (CRCL)下跌9.1%，Bullish (BLSH)上涨9.75%</title>
       <link>https://www.panewslab.com/zh/articles/bbc10511-445a-4337-952e-1e41fd4074c8</link>
       <description>美股收盘涨跌不一，Circle (CRCL)下跌9.1%，Bullish (BLSH)上涨9.75%</description>
-      <pubDate>Thu, 14 Aug 2025 23:29:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:39:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bbc10511-445a-4337-952e-1e41fd4074c8</guid>
       <category>crypto</category>
@@ -92,7 +107,7 @@
       <title>Puffer Finance上线UniFi V2测试网，推进以太坊原生基础设施</title>
       <link>https://www.panewslab.com/zh/articles/b2eca0eb-cb5a-4f4f-91a1-a2efd8d30d18</link>
       <description>Puffer Finance上线UniFi V2测试网，推进以太坊原生基础设施</description>
-      <pubDate>Thu, 14 Aug 2025 23:27:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:37:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b2eca0eb-cb5a-4f4f-91a1-a2efd8d30d18</guid>
       <category>crypto</category>
@@ -109,7 +124,7 @@
       <title>过去24小时全网合约爆仓9.98亿美元，主爆空单</title>
       <link>https://www.panewslab.com/zh/articles/mq64n5k0</link>
       <description>过去24小时全网合约爆仓9.98亿美元，主爆空单</description>
-      <pubDate>Thu, 14 Aug 2025 23:25:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:35:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/mq64n5k0</guid>
       <category>crypto</category>
@@ -124,7 +139,7 @@
       <title>DownDetector：用户报告表明美国有16,497名用户在X上遇到问题</title>
       <link>https://www.panewslab.com/zh/articles/46e0bef7-0e2d-422c-b17b-d0c9f1696170</link>
       <description>DownDetector：用户报告表明美国有16,497名用户在X上遇到问题</description>
-      <pubDate>Thu, 14 Aug 2025 23:23:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:33:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/46e0bef7-0e2d-422c-b17b-d0c9f1696170</guid>
       <category>crypto</category>
@@ -139,7 +154,7 @@
       <title>TeraWulf与Fluidstack签署200MW、10年AI托管协议，Google参与项目</title>
       <link>https://www.panewslab.com/zh/articles/f55de08a-dc09-4d31-a44f-633e11350a6a</link>
       <description>TeraWulf与Fluidstack签署200MW、10年AI托管协议，Google参与项目</description>
-      <pubDate>Thu, 14 Aug 2025 23:21:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:31:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f55de08a-dc09-4d31-a44f-633e11350a6a</guid>
       <category>crypto</category>
@@ -154,7 +169,7 @@
       <title>Block发布模块化比特币矿机Proto及开源管理软件</title>
       <link>https://www.panewslab.com/zh/articles/86d6e0d6-433a-4c86-b30a-ecc61c480ff2</link>
       <description>Block发布模块化比特币矿机Proto及开源管理软件</description>
-      <pubDate>Thu, 14 Aug 2025 23:19:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:29:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/86d6e0d6-433a-4c86-b30a-ecc61c480ff2</guid>
       <category>crypto</category>
@@ -171,7 +186,7 @@
       <title>Ark Invest首日买入逾250万Bullish股票</title>
       <link>https://www.panewslab.com/zh/articles/1a9b9051-835f-4584-b77f-adf4535675d0</link>
       <description>Ark Invest首日买入逾250万Bullish股票</description>
-      <pubDate>Thu, 14 Aug 2025 23:17:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:27:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1a9b9051-835f-4584-b77f-adf4535675d0</guid>
       <category>crypto</category>
@@ -186,7 +201,7 @@
       <title>Coinbase将于8月18日进行系统维护</title>
       <link>https://www.panewslab.com/zh/articles/6360bfee-254c-48e8-8573-8c34cb48528a</link>
       <description>Coinbase将于8月18日进行系统维护</description>
-      <pubDate>Thu, 14 Aug 2025 23:15:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:25:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6360bfee-254c-48e8-8573-8c34cb48528a</guid>
       <category>crypto</category>
@@ -201,7 +216,7 @@
       <title>美方将临时豁免部分对俄制裁</title>
       <link>https://www.panewslab.com/zh/articles/5848c728-c556-49e1-bb51-55d3e24a626e</link>
       <description>美方将临时豁免部分对俄制裁</description>
-      <pubDate>Thu, 14 Aug 2025 23:13:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:23:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5848c728-c556-49e1-bb51-55d3e24a626e</guid>
       <category>crypto</category>
@@ -216,7 +231,7 @@
       <title>比特币ETF今日净流入452枚BTC，以太坊ETF净流入154,179枚ETH</title>
       <link>https://www.panewslab.com/zh/articles/b386da3d-196a-457c-95f1-7382a4df3fe4</link>
       <description>比特币ETF今日净流入452枚BTC，以太坊ETF净流入154,179枚ETH</description>
-      <pubDate>Thu, 14 Aug 2025 23:11:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:21:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b386da3d-196a-457c-95f1-7382a4df3fe4</guid>
       <category>crypto</category>
@@ -235,7 +250,7 @@
       <title>Sequans拟于2030年前收购10万枚比特币</title>
       <link>https://www.panewslab.com/zh/articles/aaaaf27d-9b2d-413e-99d8-9ee0e0b725bd</link>
       <description>Sequans拟于2030年前收购10万枚比特币</description>
-      <pubDate>Thu, 14 Aug 2025 23:09:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:19:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/aaaaf27d-9b2d-413e-99d8-9ee0e0b725bd</guid>
       <category>crypto</category>
@@ -252,7 +267,7 @@
       <title>美联储穆萨勒姆：50个基点的降息并不符合当前的经济状况或数据</title>
       <link>https://www.panewslab.com/zh/articles/5d7ab26c-a8d2-4065-a8e1-58330af4547e</link>
       <description>美联储穆萨勒姆：50个基点的降息并不符合当前的经济状况或数据</description>
-      <pubDate>Thu, 14 Aug 2025 23:07:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:17:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5d7ab26c-a8d2-4065-a8e1-58330af4547e</guid>
       <category>crypto</category>
@@ -267,7 +282,7 @@
       <title>Coinbase 29亿美元完成对Deribit的收购，成全球加密衍生品龙头</title>
       <link>https://www.panewslab.com/zh/articles/b5f69abe-a50e-4e38-bf79-8c8144aec07d</link>
       <description>Coinbase 29亿美元完成对Deribit的收购，成全球加密衍生品龙头</description>
-      <pubDate>Thu, 14 Aug 2025 23:05:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:15:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b5f69abe-a50e-4e38-bf79-8c8144aec07d</guid>
       <category>crypto</category>
@@ -282,7 +297,7 @@
       <title>Jeffs’ Brands宣布启动AI加持加密货币金库计划，拟投入7500万美元</title>
       <link>https://www.panewslab.com/zh/articles/96a11235-f387-46fe-a010-121bd82042b6</link>
       <description>Jeffs’ Brands宣布启动AI加持加密货币金库计划，拟投入7500万美元</description>
-      <pubDate>Thu, 14 Aug 2025 23:03:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:13:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/96a11235-f387-46fe-a010-121bd82042b6</guid>
       <category>crypto</category>
@@ -297,7 +312,7 @@
       <title>USDC Treasury在以太坊链上新铸造1亿枚USDC</title>
       <link>https://www.panewslab.com/zh/articles/044cf6d9-757f-42aa-8abb-a4a92af5a267</link>
       <description>USDC Treasury在以太坊链上新铸造1亿枚USDC</description>
-      <pubDate>Thu, 14 Aug 2025 23:01:38 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 23:11:42 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/044cf6d9-757f-42aa-8abb-a4a92af5a267</guid>
       <category>crypto</category>
@@ -308,21 +323,6 @@
       <category>chinese-crypto-news</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Dreamscape上线Base，利用微软AI工具实现免代码智能合约开发</title>
-      <link>https://www.panewslab.com/zh/articles/caf2ab0e-5ae5-46aa-8ae6-24fb47e5344f</link>
-      <description>Dreamscape上线Base，利用微软AI工具实现免代码智能合约开发</description>
-      <pubDate>Thu, 14 Aug 2025 22:59:38 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/caf2ab0e-5ae5-46aa-8ae6-24fb47e5344f</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
