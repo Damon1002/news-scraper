@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 04:18:08 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 04:18:08 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 04:48:15 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 04:48:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,81 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Hong Kong&apos;s Securities and Futures Commission Clarifies Robust Custodial Standards to Safeguard Customer Virtual Assets</title>
+      <link>https://www.lookonchain.com/feeds/24711</link>
+      <description>August 15th. Today, the Hong Kong Securities and Futures Commission issued a circular to all licensed virtual asset trading platforms, making clear its requirements for the secure custody of client virtual assets. This lays a solid foundation for the industry to systematically adopt more advanced custody technology in accordance with the ASPIRe roadmap.In the latest circular, the Commission cited several examples of good practices and minimum standards that virtual asset trading platform operators should meet. These aspects cover the responsibilities of senior management, the infrastructure and operation of client cold wallets, the use of third-party wallets, and real-time threat monitoring, etc. In the future, these standards will also become the core regulatory requirements for virtual asset custodians and help drive the industry to establish an effective virtual asset custody framework. (Golden Finance)</description>
+      <pubDate>Fri, 15 Aug 2025 04:43:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24711</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>OKX is exclusively launching the &quot;Trade Account Auto Earning&quot; feature, balancing yield and trading flexibility</title>
+      <link>https://www.lookonchain.com/feeds/24712</link>
+      <description>On August 15th, according to official data, OKX launched the exclusive &quot;Auto Earn&quot; feature for VIP users on August 15th, 2025. This feature enables users to automatically lend out the assets in their trading accounts (with full collateral) without influencing the assets&apos; use for staking and trading margins, allowing them to obtain rewards. It is known that initially, this feature only supports USDT and is applicable to spot, futures, cross-margin, portfolio margin, and other account models. More assets will be gradually supported in the future. Users only need to enable it once and do not need to subscribe manually. Changes in full collateralized equity will be immediately reflected in the earned assets, and normal orders and trades will not be affected.Furthermore, as stated in the announcement, after users activate this feature, their assets will participate in the interest rate auction together based on the set lending annual percentage yield (APY) and simple earning assets. If th</description>
+      <pubDate>Fri, 15 Aug 2025 04:43:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24712</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Spot Trading Volume Skyrockets by 61.4% in One Month, Reaching $698.3 Billion</title>
+      <link>https://www.lookonchain.com/feeds/24710</link>
+      <description>On August 15th, as per a Coingecko report, in July, with Bitcoin reaching an all-time high, Binance&apos;s spot trading volume increased by 61.4% compared to the previous month and reached $698.3 billion. It far exceeded MEXC (with an 8.6% market share and $150.4 billion) and Gate (with a 7.8% share and $137.2 billion), holding nearly 40% of the global spot trading volume market share.Also in July, Binance&apos;s trading volume exceeded the total of several top ten global exchanges. This advantage is not restricted to a single month. During the second quarter of 2025, Binance accounted for 38.0% of the total trading volume among the top ten CEXs, with a volume of $1.47 trillion (while the total volume of these ten exchanges was $3.8 trillion).</description>
+      <pubDate>Fri, 15 Aug 2025 04:42:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24710</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Opinion: stETH Faces Depegging Risk, Potentially Triggering Liquidation Across Lending Protocols</title>
+      <link>https://www.lookonchain.com/feeds/24709</link>
+      <description>On August 15th, Ben Lilly, a digital analyst at Jlabs, pointed out that currently stETH is being redeemed from Lido. Meanwhile, another lending protocol, Figment, is seizing the market share of Lido, suggesting that Figment may be the staking partner of the ETF. 32% of stETH (wstETH) is being used as collateral for the lending protocol, and the decoupling may indicate a liquidation event for the lending protocol.It is worth noting that currently, 278,000 wstETH is in a &quot;high-risk&quot; state (where high-risk is defined as a health factor between 1-1.1 times).</description>
+      <pubDate>Fri, 15 Aug 2025 04:24:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24709</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>Over 788,000 ETH is currently queued to exit the Ethereum PoS network, setting a new record.</title>
       <link>https://www.lookonchain.com/feeds/24708</link>
       <description>On August 15th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue on the Ethereum PoS network is temporarily reported to be 788,624 ETH, which is approximately worth $36.51 billion, setting a record for the largest exit queue in terms of coin value.At the same time, about 332,846 ETH are queued to join the network.Previously reported, this situation reflects the existence of two opposing forces in the market: on one hand, some stakers may be cashing out after Ethereum rebounded by more than 160% from the April low, resulting in a significant increase in the exit queue; on the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also boosting the entry queue. Listed companies such as SharpLink Gaming and BitMine Immersion are increasing their ETH holdings and engaging in staking.</description>
-      <pubDate>Fri, 15 Aug 2025 04:17:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 04:17:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24708</guid>
       <category>crypto</category>
@@ -36,7 +107,7 @@
       <title>Data: Over the past 30 days, the amount of ETH purchased by Ethereum strategic entities and ETFs is 47 times the network&apos;s net issuance</title>
       <link>https://www.lookonchain.com/feeds/24707</link>
       <description>On August 15th, based on @sassal0x&apos;s data, within the past 30 days:ETH Net Issuance: 74,000 ETH;ETH Purchased by Investment Firms: 1.8 million ETH;ETH Amount Purchased by ETFs: 1.7 million ETH;This indicates that during the past 30 days, the amount of ETH purchased by these entities is 47 times the network&apos;s net issuance.</description>
-      <pubDate>Fri, 15 Aug 2025 04:00:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 04:00:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24707</guid>
       <category>crypto</category>
@@ -55,7 +126,7 @@
       <title>ETHZilla Surpasses BTCS to Enter Ethereum Treasury Company Holdings Top 10, ETH Balance Increases to Around 82,200 Coins</title>
       <link>https://www.lookonchain.com/feeds/24706</link>
       <description>On August 15th, based on the latest figures from Strategicethreserve, the amount of Ethereum held by the Nasdaq-listed company ETHZilla (formerly 180 Life Sciences) has gone up to around 82,200 ETH. This is equivalent to approximately $380.5 million at the current price. Currently, its Ethereum holding has exceeded that of BTCS and ranked 10th among the holdings of Ethereum Treasury Companies.</description>
-      <pubDate>Fri, 15 Aug 2025 03:48:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:48:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24706</guid>
       <category>crypto</category>
@@ -73,47 +144,10 @@
 
     </item>
     <item>
-      <title>U.S. White House: Trump to Hold Bilateral Meeting with Putin at 11 a.m. Alaska Time</title>
-      <link>https://www.lookonchain.com/feeds/24705</link>
-      <description>August 15, at the White House in the USA: 11:00 AM Alaska Time (3:00 AM Beijing Time the next day), Trump is scheduled to hold a bilateral meeting with Russian President Putin in Anchorage, Alaska. (Golden Ten)</description>
-      <pubDate>Fri, 15 Aug 2025 03:40:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24705</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Bounces Back to $119,000, With a 0.61% Increase in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/24704</link>
-      <description>On August 15th, based on HTX market data, Bitcoin witnessed a short-term rally to $119,000 and is currently trading at $118,998, showing a 24-hour increase of 0.61%.</description>
-      <pubDate>Fri, 15 Aug 2025 03:40:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24704</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>The whale that accumulated ETH in January and May this year liquidated its position during this round of price drop, realizing a profit of $19.64 million.</title>
       <link>https://www.lookonchain.com/feeds/24703</link>
       <description>On August 15th, according to Ashes Monitor, a whale offloaded their holdings of 9,109.6 ETH in the early hours of today to take profits, raking in $19.64 million and nearly doubling their investment.They had acquired these ETH in January and May of this year, spending a total of $21.52 million at an average price of $2,363. After the drop last night, they sold their holdings this morning at a price of $4,519, realizing $41.16 million.</description>
-      <pubDate>Fri, 15 Aug 2025 03:32:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:47:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24703</guid>
       <category>crypto</category>
@@ -132,12 +166,12 @@
 
     </item>
     <item>
-      <title>Announcement: SEC Chair to Speak on Project Crypto Tonight at 8:30 PM</title>
-      <link>https://www.lookonchain.com/feeds/24702</link>
-      <description>On August 15th, the Chairman of the US SEC, Paul Atkins, will give a speech on Project Crypto this evening at 8:30 PM Beijing time. On August 1st, the US Securities and Exchange Commission (SEC) announced the launch of the Project Crypto initiative, with the aim of promoting the modernization of securities regulations and enabling the digitization of the US financial markets.</description>
-      <pubDate>Fri, 15 Aug 2025 03:25:15 +0000</pubDate>
+      <title>U.S. White House: Trump to Hold Bilateral Meeting with Putin at 11 a.m. Alaska Time</title>
+      <link>https://www.lookonchain.com/feeds/24705</link>
+      <description>August 15, at the White House in the USA: 11:00 AM Alaska Time (3:00 AM Beijing Time the next day), Trump is scheduled to hold a bilateral meeting with Russian President Putin in Anchorage, Alaska. (Golden Ten)</description>
+      <pubDate>Fri, 15 Aug 2025 03:47:22 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24702</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24705</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -149,12 +183,12 @@
 
     </item>
     <item>
-      <title>Two Whale Addresses Continuously Buy the Dip in Ethereum During the Dip, Accumulating Over $150 Million</title>
-      <link>https://www.lookonchain.com/feeds/24701</link>
-      <description>On August 15th, as per Arkham&apos;s monitoring, two significant cryptocurrency holders (whales) made purchases this morning. 0x1e0 acquired $1.182 billion worth of ETH from FalconX, while 0xa3A purchased $40.5 million worth of ETH from Galaxy Digital OTC.</description>
-      <pubDate>Fri, 15 Aug 2025 03:17:15 +0000</pubDate>
+      <title>Bitcoin Bounces Back to $119,000, With a 0.61% Increase in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/24704</link>
+      <description>On August 15th, based on HTX market data, Bitcoin witnessed a short-term rally to $119,000 and is currently trading at $118,998, showing a 24-hour increase of 0.61%.</description>
+      <pubDate>Fri, 15 Aug 2025 03:47:22 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24701</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24704</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -163,48 +197,9 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
+      <category>btc</category>
+      <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Layer 2 project SKALE sees a nearly 150% surge in two weeks after announcing the launch of FAIR, a blockchain project aiming to eliminate MEV.</title>
-      <link>https://www.lookonchain.com/feeds/24700</link>
-      <description>On August 15th, according to HTX market data, the Ethereum Layer 2 project SKALE has witnessed a nearly 150% surge in the past two weeks and is currently trading at $0.049.Regarding the news front, SKALE announced in June that it will launch the blockchain project FAIR, with the aim of eliminating MEV from the consensus layer. This project is specifically designed for the next generation of DeFi and AI.</description>
-      <pubDate>Fri, 15 Aug 2025 03:17:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24700</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A hacker panic-sold 4958 ETH during a market dip.</title>
-      <link>https://www.lookonchain.com/feeds/24699</link>
-      <description>On August 15th, as per the monitoring of LookOnChain, the hacker &quot;0x17E0&quot; engaged in panic-selling of 4958 ETH ($22.13 million) during the 5-hour market dip that occurred earlier. The selling price was $4463, resulting in a locked-in profit of $9.75 million.</description>
-      <pubDate>Fri, 15 Aug 2025 03:17:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24699</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
