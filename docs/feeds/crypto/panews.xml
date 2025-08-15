@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 08:31:27 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 08:31:27 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 08:54:11 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 08:54:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Greeks.live：3.9万张BTC和28万张ETH期权即将到期，ETH最大痛点为4000美元</title>
+      <link>https://www.panewslab.com/zh/articles/c456de42-88a8-42b7-b594-d36c35bc2fe7</link>
+      <description>Greeks.live：3.9万张BTC和28万张ETH期权即将到期，ETH最大痛点为4000美元</description>
+      <pubDate>Fri, 15 Aug 2025 08:54:11 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c456de42-88a8-42b7-b594-d36c35bc2fe7</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>币安Alpha积分超200可申领600枚TCOM空投奖励</title>
       <link>https://www.panewslab.com/zh/articles/1ed8a4fe-31b5-4de3-9dfb-6f1b514baf60</link>
       <description>币安Alpha积分超200可申领600枚TCOM空投奖励</description>
-      <pubDate>Fri, 15 Aug 2025 08:31:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:52:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1ed8a4fe-31b5-4de3-9dfb-6f1b514baf60</guid>
       <category>crypto</category>
@@ -32,7 +51,7 @@
       <title>某新钱包1小时内从Kraken提取逾17,000枚ETH，价值约1863万美元。</title>
       <link>https://www.panewslab.com/zh/articles/01e9442e-1f35-451f-91da-b297a72b9dd6</link>
       <description>某新钱包1小时内从Kraken提取逾17,000枚ETH，价值约1863万美元。</description>
-      <pubDate>Fri, 15 Aug 2025 08:29:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:50:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/01e9442e-1f35-451f-91da-b297a72b9dd6</guid>
       <category>crypto</category>
@@ -49,7 +68,7 @@
       <title>某波段地址今早抄底买入逾1700枚WETH，成本价为4646.4美元</title>
       <link>https://www.panewslab.com/zh/articles/0bc9dab0-7f83-40d0-8716-8a062d467223</link>
       <description>某波段地址今早抄底买入逾1700枚WETH，成本价为4646.4美元</description>
-      <pubDate>Fri, 15 Aug 2025 08:27:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:48:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0bc9dab0-7f83-40d0-8716-8a062d467223</guid>
       <category>crypto</category>
@@ -66,7 +85,7 @@
       <title>Superform v2 测试网升级新增支持EIP-7702</title>
       <link>https://www.panewslab.com/zh/articles/b9c8b759-842a-4419-8bd4-ee0f8d437dc5</link>
       <description>Superform v2 测试网升级新增支持EIP-7702</description>
-      <pubDate>Fri, 15 Aug 2025 08:25:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:46:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b9c8b759-842a-4419-8bd4-ee0f8d437dc5</guid>
       <category>crypto</category>
@@ -81,7 +100,7 @@
       <title>OKB 销毁后总量已正式降至为 2,100 万枚</title>
       <link>https://www.panewslab.com/zh/articles/ab355a4c-5c52-4ebc-b5ab-dfd0410db226</link>
       <description>OKB 销毁后总量已正式降至为 2,100 万枚</description>
-      <pubDate>Fri, 15 Aug 2025 08:23:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:44:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ab355a4c-5c52-4ebc-b5ab-dfd0410db226</guid>
       <category>crypto</category>
@@ -96,7 +115,7 @@
       <title>CryptoQuant：币安过去数小时录得18.2亿美元稳定币净流入，预示价格可能上涨</title>
       <link>https://www.panewslab.com/zh/articles/e384bf33-1d4c-4f8c-b1e4-3ec66c4314b1</link>
       <description>CryptoQuant：币安过去数小时录得18.2亿美元稳定币净流入，预示价格可能上涨</description>
-      <pubDate>Fri, 15 Aug 2025 08:21:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:42:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e384bf33-1d4c-4f8c-b1e4-3ec66c4314b1</guid>
       <category>crypto</category>
@@ -111,7 +130,7 @@
       <title>Matrixport：多重利好共振推动资产价格上行，行情有望延续至2026年</title>
       <link>https://www.panewslab.com/zh/articles/fb00a04e-3304-4a47-a243-9c4608e06048</link>
       <description>Matrixport：多重利好共振推动资产价格上行，行情有望延续至2026年</description>
-      <pubDate>Fri, 15 Aug 2025 08:19:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:40:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fb00a04e-3304-4a47-a243-9c4608e06048</guid>
       <category>crypto</category>
@@ -126,7 +145,7 @@
       <title>捷克警方对比特币捐赠丑闻的毒贩进行拘留并扣押相关资产</title>
       <link>https://www.panewslab.com/zh/articles/eea61f35-4fa0-4935-918f-367738f03ae6</link>
       <description>捷克警方对比特币捐赠丑闻的毒贩进行拘留并扣押相关资产</description>
-      <pubDate>Fri, 15 Aug 2025 08:17:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:38:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/eea61f35-4fa0-4935-918f-367738f03ae6</guid>
       <category>crypto</category>
@@ -143,7 +162,7 @@
       <title>瑞典上市公司Bitcoin Treasury Capital发行约41.8万美元股份以增持比特币</title>
       <link>https://www.panewslab.com/zh/articles/7765c245-08e5-4945-99ae-b055cbc60eb9</link>
       <description>瑞典上市公司Bitcoin Treasury Capital发行约41.8万美元股份以增持比特币</description>
-      <pubDate>Fri, 15 Aug 2025 08:15:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:36:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7765c245-08e5-4945-99ae-b055cbc60eb9</guid>
       <category>crypto</category>
@@ -160,7 +179,7 @@
       <title>关于Solana实现150ms区块最终确认的共识升级提案已启动治理流程</title>
       <link>https://www.panewslab.com/zh/articles/cf3abb20-9608-412a-a88d-c0abe9bf0ff9</link>
       <description>关于Solana实现150ms区块最终确认的共识升级提案已启动治理流程</description>
-      <pubDate>Fri, 15 Aug 2025 08:13:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:34:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cf3abb20-9608-412a-a88d-c0abe9bf0ff9</guid>
       <category>crypto</category>
@@ -175,7 +194,7 @@
       <title>币安：持有至少240个Alpha积分可申领430个PUBLIC代币空投</title>
       <link>https://www.panewslab.com/zh/articles/d50d3887-979f-495b-855e-8fca39d5c34d</link>
       <description>币安：持有至少240个Alpha积分可申领430个PUBLIC代币空投</description>
-      <pubDate>Fri, 15 Aug 2025 08:11:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:32:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d50d3887-979f-495b-855e-8fca39d5c34d</guid>
       <category>crypto</category>
@@ -190,7 +209,7 @@
       <title>Gate 推出全新 Gate Travel，提供加密支付机票与酒店预订一站式体验</title>
       <link>https://www.panewslab.com/zh/articles/12099caf-9270-4df0-becf-d6daaa0f8227</link>
       <description>Gate 推出全新 Gate Travel，提供加密支付机票与酒店预订一站式体验</description>
-      <pubDate>Fri, 15 Aug 2025 08:09:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:30:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/12099caf-9270-4df0-becf-d6daaa0f8227</guid>
       <category>crypto</category>
@@ -205,7 +224,7 @@
       <title>Arthur Hayes增持HYPE、LDO和ENA</title>
       <link>https://www.panewslab.com/zh/articles/8feb86cb-ffd0-4f29-bd19-fc8205e20045</link>
       <description>Arthur Hayes增持HYPE、LDO和ENA</description>
-      <pubDate>Fri, 15 Aug 2025 08:07:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:28:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8feb86cb-ffd0-4f29-bd19-fc8205e20045</guid>
       <category>crypto</category>
@@ -220,7 +239,7 @@
       <title>FBI：警惕犯罪分子冒充律师和政府雇员对加密货币受骗者进行诈骗</title>
       <link>https://www.panewslab.com/zh/articles/ae8765ab-c4be-4d91-b10b-416ecef30cc0</link>
       <description>FBI：警惕犯罪分子冒充律师和政府雇员对加密货币受骗者进行诈骗</description>
-      <pubDate>Fri, 15 Aug 2025 08:05:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:26:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ae8765ab-c4be-4d91-b10b-416ecef30cc0</guid>
       <category>crypto</category>
@@ -235,7 +254,7 @@
       <title>加密货币和金融科技高管呼吁特朗普禁止银行收取客户数据费用</title>
       <link>https://www.panewslab.com/zh/articles/70c02f75-4d16-49f0-a9ae-63105f7b62c2</link>
       <description>加密货币和金融科技高管呼吁特朗普禁止银行收取客户数据费用</description>
-      <pubDate>Fri, 15 Aug 2025 08:03:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:24:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/70c02f75-4d16-49f0-a9ae-63105f7b62c2</guid>
       <category>crypto</category>
@@ -250,7 +269,7 @@
       <title>香港证监会向虚拟资产交易平台阐明稳健托管标准</title>
       <link>https://www.panewslab.com/zh/articles/ab1b76f8-5cc0-429c-b8aa-7ee73d221989</link>
       <description>香港证监会向虚拟资产交易平台阐明稳健托管标准</description>
-      <pubDate>Fri, 15 Aug 2025 08:01:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:22:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ab1b76f8-5cc0-429c-b8aa-7ee73d221989</guid>
       <category>crypto</category>
@@ -265,7 +284,7 @@
       <title>美SEC主席将于今晚20:30在节目中讨论Project Crypto</title>
       <link>https://www.panewslab.com/zh/articles/0e3fb7b3-272a-44e9-a9c0-ffe27753e52b</link>
       <description>美SEC主席将于今晚20:30在节目中讨论Project Crypto</description>
-      <pubDate>Fri, 15 Aug 2025 07:59:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:20:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0e3fb7b3-272a-44e9-a9c0-ffe27753e52b</guid>
       <category>crypto</category>
@@ -280,7 +299,7 @@
       <title>OKX独家推出“交易账户自动赚币”功能，首期仅支持USDT</title>
       <link>https://www.panewslab.com/zh/articles/efeefe0c-d7b1-40d4-bda8-045c02d07391</link>
       <description>OKX独家推出“交易账户自动赚币”功能，首期仅支持USDT</description>
-      <pubDate>Fri, 15 Aug 2025 07:57:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:18:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/efeefe0c-d7b1-40d4-bda8-045c02d07391</guid>
       <category>crypto</category>
@@ -295,7 +314,7 @@
       <title>以太坊现货ETF昨日净流入6.4亿美元，持续8日净流入</title>
       <link>https://www.panewslab.com/zh/articles/a425d33c-1950-499c-9927-0f5c7891c855</link>
       <description>以太坊现货ETF昨日净流入6.4亿美元，持续8日净流入</description>
-      <pubDate>Fri, 15 Aug 2025 07:55:27 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 08:16:11 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a425d33c-1950-499c-9927-0f5c7891c855</guid>
       <category>crypto</category>
@@ -306,23 +325,6 @@
       <category>chinese-crypto-news</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>比特币现货ETF昨日净流入2.31亿美元，持续7日净流入</title>
-      <link>https://www.panewslab.com/zh/articles/4bf57254-cdb0-4a15-8717-6aeee89a2364</link>
-      <description>比特币现货ETF昨日净流入2.31亿美元，持续7日净流入</description>
-      <pubDate>Fri, 15 Aug 2025 07:53:27 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4bf57254-cdb0-4a15-8717-6aeee89a2364</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
