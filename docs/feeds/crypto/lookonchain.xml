@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 22:52:08 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 22:52:08 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 23:13:47 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 23:13:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>Moonshot has launched ANONCOIN, with a current market cap of $19.7 million.</title>
       <link>https://www.lookonchain.com/feeds/24812</link>
       <description>On August 16th, as per monitoring, Moonshot has been listed on ANONCOIN.According to GMGN market data (accessible via https://t.me/gmgnaibot?start=i_m4TE56o8), the current market capitalization of ANONCOIN is reported to be $19.7 million, with a 24-hour trading volume of $2.7 million and a 24-hour price increase of 241%.</description>
-      <pubDate>Fri, 15 Aug 2025 16:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 17:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24812</guid>
       <category>crypto</category>
@@ -35,7 +35,7 @@
       <title>Top Win has completed a $10 million financing round, intended to be used to invest in Bitcoin or Bitcoin Treasury Reserve Strategic Listed Companies.</title>
       <link>https://www.lookonchain.com/feeds/24811</link>
       <description>On August 16th, as per official information, the U.S. listed company Top Win International (with Nasdaq stock code: SORA) has successfully completed a financing round of $10 million. Wiselink Co., Ltd. (a listed company in Taiwan, China) served as the lead investor, thereby becoming the first Asian listed company from Taiwan, China to make an investment in a Bitcoin treasury company.Top Win intends to primarily utilize the proceeds from this financing round to purchase Bitcoin (BTC). It may also invest in publicly traded companies that adopt a Bitcoin treasury strategy (subject to compliance with applicable regulatory requirements). A portion of the funds will be allocated for working capital. TopWin has no intention of operating as an investment company and does not plan to primarily engage in investment, reinvestment, or securities trading.</description>
-      <pubDate>Fri, 15 Aug 2025 16:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 17:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24811</guid>
       <category>crypto</category>
@@ -52,10 +52,46 @@
 
     </item>
     <item>
+      <title>Arkham is pleased to announce added support for monitoring the BitMine holding address</title>
+      <link>https://www.lookonchain.com/feeds/24813</link>
+      <description>On August 16th, according to official information, Arkham declared that it has included the functionality to monitor the holding address of BitMine. The BitMine address currently holds 1,174,000 ETH, with an approximate value of 5.26 billion US dollars.</description>
+      <pubDate>Fri, 15 Aug 2025 17:12:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24813</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Ethereum PoS Network Exit Queue Rises to around 818,000 ETH, Join Queue Rises to around 362,000 ETH</title>
+      <link>https://www.lookonchain.com/feeds/24814</link>
+      <description>On August 16th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 818,352 ETH. When calculated at the current price, approximately 37.2 billion USD worth of ETH is leaving the PoS network, and the withdrawal delay is currently reported to be 14 days and 5 hours.At the same time, the demand for staking by newly activated validators has shown a rebound. Today, the admission queue has risen to 362,300 ETH, which is approximately worth 16.49 billion USD, and the current queuing time is 6 days and 7 hours.</description>
+      <pubDate>Fri, 15 Aug 2025 17:12:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24814</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>ARK Invest deposited 1268 BTC to Coinbase, worth approximately $148.88 million</title>
       <link>https://www.lookonchain.com/feeds/24810</link>
       <description>On August 16th, as monitored by LookOnChain, 30 minutes ago, ARK Invest transferred 1268 BTC into Coinbase, which is approximately $148.88 million.</description>
-      <pubDate>Fri, 15 Aug 2025 16:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 16:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24810</guid>
       <category>crypto</category>
@@ -75,7 +111,7 @@
       <title>BitMine once again invests $130 million to acquire an additional 28,650 ETH</title>
       <link>https://www.lookonchain.com/feeds/24809</link>
       <description>On August 16th, as monitored by LookOnChain, BitMine has once again increased its holdings by 28,650 ETH (approximately $130 million) within the past hour. Currently, it holds 1.174 million ETH (approximately $5.26 billion).</description>
-      <pubDate>Fri, 15 Aug 2025 16:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 16:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24809</guid>
       <category>crypto</category>
@@ -92,46 +128,10 @@
 
     </item>
     <item>
-      <title>Ethereum PoS Network Exit Queue Rises to around 818,000 ETH, Join Queue Rises to around 362,000 ETH</title>
-      <link>https://www.lookonchain.com/feeds/24814</link>
-      <description>On August 16th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 818,352 ETH. When calculated at the current price, approximately 37.2 billion USD worth of ETH is leaving the PoS network, and the withdrawal delay is currently reported to be 14 days and 5 hours.At the same time, the demand for staking by newly activated validators has shown a rebound. Today, the admission queue has risen to 362,300 ETH, which is approximately worth 16.49 billion USD, and the current queuing time is 6 days and 7 hours.</description>
-      <pubDate>Fri, 15 Aug 2025 16:51:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24814</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Arkham is pleased to announce added support for monitoring the BitMine holding address</title>
-      <link>https://www.lookonchain.com/feeds/24813</link>
-      <description>On August 16th, according to official information, Arkham declared that it has included the functionality to monitor the holding address of BitMine. The BitMine address currently holds 1,174,000 ETH, with an approximate value of 5.26 billion US dollars.</description>
-      <pubDate>Fri, 15 Aug 2025 16:51:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24813</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Longling Capital Associated Address Sells 7,000 ETH, Equivalent to Around $31.82 Million</title>
       <link>https://www.lookonchain.com/feeds/24806</link>
       <description>On August 15th, as per the monitoring of LookOnChain, an address associated with Longling Capital sold 7,000 ETH during a market decline, which is equivalent to approximately $31.82 million.The wallet still retains 79,077 ETH, with a value of around $352 million.</description>
-      <pubDate>Fri, 15 Aug 2025 15:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 16:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24806</guid>
       <category>crypto</category>
@@ -151,7 +151,7 @@
       <title>The Federal Reserve has announced that it will terminate a specific regulatory program targeting banks&apos; cryptocurrency business.</title>
       <link>https://www.lookonchain.com/feeds/24808</link>
       <description>On August 16th, as per an official announcement, the Federal Reserve Board declared on Friday that it is going to terminate the &quot;New Activities&quot; supervisory plan and resume the supervision of banks&apos; new business through regular supervisory procedures.Since the Board launched the supervisory plan for bank-specific cryptocurrency and fintech businesses, the Federal Reserve has enhanced its understanding of these businesses, related risks, and bank risk management practices. Based on this, the Federal Reserve will integrate the relevant knowledge and supervision of these businesses back into its standard supervisory processes and revoke the 2023 supervisory letter that established this plan.</description>
-      <pubDate>Fri, 15 Aug 2025 15:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 16:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24808</guid>
       <category>crypto</category>
@@ -168,7 +168,7 @@
       <title>Ethereum Briefly Drops Below $4400</title>
       <link>https://www.lookonchain.com/feeds/24807</link>
       <description>On August 15th, based on HTX market data, Ethereum briefly fell below $4,400 and is currently trading at $4,413, experiencing a 24-hour decline of 4.3%.</description>
-      <pubDate>Fri, 15 Aug 2025 15:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 16:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24807</guid>
       <category>crypto</category>
@@ -188,7 +188,7 @@
       <title>TASS News Agency: Atmosphere Before Putin and Trump Meeting &quot;On Tenterhooks&quot;</title>
       <link>https://www.lookonchain.com/feeds/24805</link>
       <description>August 15th - As reported by TASS, the Russian envoy characterized the atmosphere prior to the Putin-Trump meeting as &quot;tense.&quot; The discussions will encompass the entire spectrum of Russian-American relations, not merely the Ukraine matter.</description>
-      <pubDate>Fri, 15 Aug 2025 15:51:15 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:12:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24805</guid>
       <category>crypto</category>
