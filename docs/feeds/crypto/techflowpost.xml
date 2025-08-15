@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 04:48:15 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 04:48:15 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 05:02:16 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 05:02:16 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>香港证监会向虚拟资产交易平台阐明稳健托管标准</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，香港证监会今天向所有持牌虚拟资产交易平台发出通函，阐明其对稳健托管客户虚拟资产方面的要求，在ASPIRe路线图下为业界循序采用更先进的托管技术奠定坚实基础。在最新的通函中，证监会列举多项良好作业范例及虚拟资产交易平台营运者应达到的最低标准，涵盖高级管理层的责任、客户冷钱包的基础设施...</description>
+      <pubDate>Fri, 15 Aug 2025 04:55:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>美SEC主席将于今晚20:30在节目中讨论Project Crypto</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Scam Sniffer 监测，一名以太坊用户因交易历史污染攻击损失140个ETH（约合636,559美元）。攻击者通过在目标地址发送微量转账，使其虚假地址出现在受害者的交易历史中。受害者在复制转账地址时误用了攻击者的地址（0xC61756E0...），导致资金被转移至错误地址。</description>
       <pubDate>Fri, 15 Aug 2025 01:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>上市公司LiveOne披露已购买数百万美元的比特币</title>
-      <link>https://www.techflowpost.com</link>
-      <description>数字娱乐公司LiveOne（纳斯达克股票代码：LVO）宣布以平均每枚117,885美元的价格购入比特币，总投资额达数百万美元。公司同时与ARCA建立合作伙伴关系，由后者负责比特币收益策略管理，数字资产托管则由Anchorage Digital提供。公司董事会已批准最高5亿美元的比特币投资额度，作为...</description>
-      <pubDate>Fri, 15 Aug 2025 00:43:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
