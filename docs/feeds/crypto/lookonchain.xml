@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 10:14:59 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 10:14:59 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 10:42:30 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 10:42:30 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Tether Treasury Mints 1 Billion USDT on Ethereum Chain</title>
-      <link>https://www.lookonchain.com/feeds/24761</link>
-      <description>On August 15th, as monitored by Whale Alert, the Tether Treasury minted 1 billion USDT on the Ethereum blockchain approximately 4 minutes ago.</description>
-      <pubDate>Fri, 15 Aug 2025 09:57:07 +0000</pubDate>
+      <title>Galaxy Digital has withdrawn 37,808 ETH from CEX in the past 24 hours, equivalent to around $172 million</title>
+      <link>https://www.lookonchain.com/feeds/24764</link>
+      <description>Update: On August 15th, as per TheDataNerd, within the past 24 hours, Galaxy Digital withdrew a combined total of 37,808 ETH from exchanges. This amount is approximately equivalent to $172 million.</description>
+      <pubDate>Fri, 15 Aug 2025 10:24:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24761</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24764</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,13 +30,51 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Treasury and ETF Total Holdings Surpass 10 Million Coins, Accounting for 8.3% of ETH&apos;s Current Total Supply</title>
+      <link>https://www.lookonchain.com/feeds/24763</link>
+      <description>On August 15th, according to strategicethreserve data, the combined total holdings of Ethereum by treasury companies and ETFs have exceeded 10 million, accounting for approximately 8.3% of the current total supply. The top holders among treasury companies and institutions are as follows:Bitmine Immersion Tech (BMNR) takes the lead and currently holds 1.2 million ETH, with a value of around $5.33 billion;SharpLink Gaming (SBET) comes in second and currently holds 598,800 ETH, valued at around $2.77 billion;The Ether Machine (DYNX) ranks third and currently holds 345,000 ETH, with a value of around $1.6 billion;The Ethereum Foundation ranks fourth and holds 231,600 ETH, valued at around $1.07 billion.</description>
+      <pubDate>Fri, 15 Aug 2025 10:16:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24763</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>China&apos;s Central Bank: Implementing and Detailing a Moderately Loose Monetary Policy</title>
+      <link>https://www.lookonchain.com/feeds/24762</link>
+      <description>August 15: The People&apos;s Bank of China issued the China Monetary Policy Implementation Report for the second quarter of 2025. In the subsequent stage, a moderately loose monetary policy will be implemented and refined. Based on the domestic and international economic and financial situation and the operation of the financial market, we will control the strength and pace of policy implementation, maintain liquidity, ensure that the scale of social financing and the amount of money supply increase in line with economic growth and the expected target of the overall price level, and continuously create a suitable financial environment. Regarding promoting a reasonable rise in prices, it is regarded as an important factor in guiding monetary policy and driving prices to remain at a reasonable level. (FX678)</description>
+      <pubDate>Fri, 15 Aug 2025 10:16:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24762</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
     <item>
       <title>Big Candle Capital experienced a daily drawdown of approximately $24.495 million, regaining $20.675 million in profits.</title>
       <link>https://www.lookonchain.com/feeds/24760</link>
       <description>On August 15th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the data from the Binance platform indicates that the crypto venture capital firm Big Candle Capital witnessed a single-day asset drawdown of approximately $24.495 million yesterday. Prior to this, on the Binance platform, Big Candle Capital had a 30-day profit of $114 million.Based on her analysis, this might be due to holding positions during yesterday&apos;s significant market decline or partially reducing positions. The profit and loss curve for the past 7 days shows that on August 13th, the profit reached a peak of $20.675 million, but yesterday the profit quickly turned into a negative value (-$3.82 million).</description>
-      <pubDate>Fri, 15 Aug 2025 09:56:07 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 09:56:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24760</guid>
       <category>crypto</category>
@@ -52,10 +90,29 @@
 
     </item>
     <item>
+      <title>Tether Treasury Mints 1 Billion USDT on Ethereum Chain</title>
+      <link>https://www.lookonchain.com/feeds/24761</link>
+      <description>On August 15th, as monitored by Whale Alert, the Tether Treasury minted 1 billion USDT on the Ethereum blockchain approximately 4 minutes ago.</description>
+      <pubDate>Fri, 15 Aug 2025 09:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24761</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>BtcTurk&apos;s Suspicious Withdrawals Reach Around $54 Million</title>
       <link>https://www.lookonchain.com/feeds/24759</link>
       <description>On August 15th, as monitored by CertiK Alert, the suspicious withdrawals from the Turkish cryptocurrency exchange BtcTurk have surged to approximately $54 million.Yesterday, BtcTurk issued a statement indicating that abnormal hot wallet operations were detected. As a preventive measure, the platform has temporarily halted cryptocurrency deposits and withdrawals until the investigation is completed. The official announcement mentioned that the majority of assets are stored in secure cold wallets, the company&apos;s finances are in good condition, and user assets are not impacted. The functions of Turkish Lira deposits, withdrawals, and trading are operating normally. The platform has notified the regulatory authorities and implemented all security measures.</description>
-      <pubDate>Fri, 15 Aug 2025 09:49:07 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 09:48:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24759</guid>
       <category>crypto</category>
@@ -72,10 +129,28 @@
 
     </item>
     <item>
+      <title>BIT Mining has released its financial performance for the first half of the year, holding $3.6 million in cryptocurrency assets</title>
+      <link>https://www.lookonchain.com/feeds/24755</link>
+      <description>On August 15th, BIT Mining Limited (BTCM) presented its unaudited financial results for the six-month period ending June 30th. The half-year revenue amounted to $11 million (mainly consisting of $4.6 million from its self-mining operations and $6.4 million from its data center business), representing a 43.3% decline.The company holds a combined total of $3.6 million in cryptocurrency assets, which include 7.3 BTC, 808 ETH, 1.8 million DOGE, 300,000 USDT, and various other cryptocurrency holdings. These assets mainly stem from the company&apos;s cryptocurrency mining business.</description>
+      <pubDate>Fri, 15 Aug 2025 09:41:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24755</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>ALT5 Sigma Appoints Former GSR Executive as Chief Financial Officer</title>
       <link>https://www.lookonchain.com/feeds/24758</link>
       <description>On August 15th, ALT5 Sigma (ALTS), a US-listed company that obtained a $1.5 billion financing to initiate the WLFI Treasury, declared the appointment of Jonathan Hugh as the Chief Financial Officer. Jonathan holds more than 25 years of senior financial and business leadership experience in digital assets, technology, energy, and commodity trading. He has previously held the position of CFO at global market maker GSR International and institutional custody company Zodia Custody.</description>
-      <pubDate>Fri, 15 Aug 2025 09:40:07 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 09:41:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24758</guid>
       <category>crypto</category>
@@ -92,7 +167,7 @@
       <title>Analysis: Strategy Set to Be Included in S&amp;P 500 in September, Bitcoin&apos;s Leap to Blue-Chip Asset Status Is Underway</title>
       <link>https://www.lookonchain.com/feeds/24757</link>
       <description>On August 15th, the asset management company Strive released a market commentary on Strategy. It was stated that Strategy, as the world&apos;s largest Bitcoin treasury company, is one step away from being included in the S&amp;P 500 Index. If this milestone is achieved, it will fundamentally establish Bitcoin&apos;s position in the US financial landscape. The market value of Strategy exceeds $100 billion, already surpassing the market capitalization threshold of the S&amp;P 500. However, the inclusion criteria for the S&amp;P 500 are not only based on market capitalization but also require the company to be registered in the US, listed on a major exchange, and to have been profitable in the past quarter and year. The latter profitability requirement has always been a barrier for Strategy.Recently, Strategy released its second-quarter financial report, and its profitability over the past 12 months has overcome the final hurdle, making it possible to be included in the S&amp;P 500 as early as September. However</description>
-      <pubDate>Fri, 15 Aug 2025 09:33:07 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 09:41:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24757</guid>
       <category>crypto</category>
@@ -108,28 +183,10 @@
 
     </item>
     <item>
-      <title>BIT Mining has released its financial performance for the first half of the year, holding $3.6 million in cryptocurrency assets</title>
-      <link>https://www.lookonchain.com/feeds/24755</link>
-      <description>On August 15th, BIT Mining Limited (BTCM) presented its unaudited financial results for the six-month period ending June 30th. The half-year revenue amounted to $11 million (mainly consisting of $4.6 million from its self-mining operations and $6.4 million from its data center business), representing a 43.3% decline.The company holds a combined total of $3.6 million in cryptocurrency assets, which include 7.3 BTC, 808 ETH, 1.8 million DOGE, 300,000 USDT, and various other cryptocurrency holdings. These assets mainly stem from the company&apos;s cryptocurrency mining business.</description>
-      <pubDate>Fri, 15 Aug 2025 09:25:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24755</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Market Pullback Affects Meme Coins, CLIPPY, SPARK, TROLL Drop Over 30% from Monthly Highs</title>
       <link>https://www.lookonchain.com/feeds/24756</link>
       <description>On August 15th, according to GMGN data, affected by today&apos;s overall downturn in the cryptocurrency market, recently popular meme coins have generally shifted from gains to losses. Among them:The market capitalization of TROLL has fallen from last week&apos;s peak of $240 million to $165 million, a drop of more than 31%, and it is currently priced at $0.164;The market capitalization of SPARK has halved from a high of $66 million to $30 million, and it is currently priced at $0.03;The market capitalization of CLIPPY has shrunk by 43% from a peak of $30 million to $17 million, and it is currently trading at $0.017.BlockBeats reminds users that meme coins often lack practical use cases and experience significant price volatility, and investment should be approached with caution.</description>
-      <pubDate>Fri, 15 Aug 2025 09:25:07 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 09:41:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24756</guid>
       <category>crypto</category>
@@ -140,65 +197,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Solana On-Chain Meme Token AOL Reaches $20 Million Market Cap, Surging 171% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/24754</link>
-      <description>On August 15th, according to GMGN data, the Solana-based Meme token AOL (America Online) has reached a market capitalization of over $20 million. It has seen a 24-hour price increase of 171% and a 24-hour trading volume of $7 million.America Online was once a dial-up Internet services company, symbolizing the narrative of &quot;retro innovation&quot; in technology.BlockBeats reminds users that Meme coins usually lack practical use cases and experience significant price volatility. Therefore, investment should be made with caution.</description>
-      <pubDate>Fri, 15 Aug 2025 09:16:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24754</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>DeFi Technologies Releases Q2 Financial Performance: Total Revenue Reaches $17.4 Million, Holding Approximately $26 Million in Digital Assets</title>
-      <link>https://www.lookonchain.com/feeds/24753</link>
-      <description>On August 15th, according to the report by the Associated Press (AP), the U.S. listed company DeFi Technologies (Nasdaq: DEFT) disclosed its second-quarter financial results. This quarter&apos;s adjusted revenue reached $32.1 million. The adjusted Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) was $21.6 million, which demonstrated the strong profitability of its core business. The total adjusted net income was $17.4 million.As of July 31, 2025, the assets under management (AUM) of the subsidiary Valour were approximately $772.8 million and had increased to $947 million, representing a 23% increase compared to the previous period. The company holds various digital assets with a total value of around $26 million.</description>
-      <pubDate>Fri, 15 Aug 2025 09:14:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24753</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid Whale Update: Continuously reducing ETH holdings, BTC short position floating loss of 9 million yet doubling down against the trend</title>
-      <link>https://www.lookonchain.com/feeds/24752</link>
-      <description>On August 15th, according to the monitoring of HyperInsight (accessible via https://t.me/HyperInsight), during the current market correction, some whales took the opportunity to adjust their positions.The whale whose address starts with 0x7fdaf continuously reduced its short position in ETH, reducing by $1.66 million and $7.79 million in the past 6 hours. It currently has a floating loss of approximately $5.27 million and a liquidation price of $7,304.The whale with an address beginning with 0x5d2f4, on the contrary, increased its short position in BTC, adding $853,000 to its position. It currently has a floating loss of $9.02 million and a liquidation price of $127,873.The whale with an address starting with 0x5648A reduced its long position in ETH, selling 830 ETH (approximately $3.95 million). It is currently experiencing a minor floating loss of $44,600 and a liquidation price of $4,091.</description>
-      <pubDate>Fri, 15 Aug 2025 09:14:07 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24752</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
   </channel>
