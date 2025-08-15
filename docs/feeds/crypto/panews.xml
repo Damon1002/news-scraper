@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 13:49:30 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 13:49:30 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 14:01:01 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 14:01:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,42 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>市场消息：特朗普政府考虑利用芯片法案资金入股英特尔</title>
+      <link>https://www.panewslab.com/zh/articles/7703bf10-4e4c-448d-84c8-7ae8f0337a08</link>
+      <description>市场消息：特朗普政府考虑利用芯片法案资金入股英特尔</description>
+      <pubDate>Fri, 15 Aug 2025 14:01:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7703bf10-4e4c-448d-84c8-7ae8f0337a08</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>USDC Treasury在以太坊链上新铸造逾5000万美元USDC</title>
+      <link>https://www.panewslab.com/zh/articles/5b8ffff7-cba9-49ba-a465-84b030648edd</link>
+      <description>USDC Treasury在以太坊链上新铸造逾5000万美元USDC</description>
+      <pubDate>Fri, 15 Aug 2025 13:59:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5b8ffff7-cba9-49ba-a465-84b030648edd</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>BTC跌破118000美元，日内下跌 0.24%</title>
       <link>https://www.panewslab.com/zh/articles/wu0anmhe</link>
       <description>BTC跌破118000美元，日内下跌 0.24%</description>
-      <pubDate>Fri, 15 Aug 2025 13:49:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:57:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/wu0anmhe</guid>
       <category>crypto</category>
@@ -34,7 +66,7 @@
       <title>SEC主席称可无需国会批准直接制定区块链规则</title>
       <link>https://www.panewslab.com/zh/articles/cdcbcdd7-bb7b-4f17-929f-5bf4bb09044e</link>
       <description>SEC主席称可无需国会批准直接制定区块链规则</description>
-      <pubDate>Fri, 15 Aug 2025 13:47:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:55:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cdcbcdd7-bb7b-4f17-929f-5bf4bb09044e</guid>
       <category>crypto</category>
@@ -49,7 +81,7 @@
       <title>SEC主席披露“Project Crypto”计划，拟推进美国加密监管现代化</title>
       <link>https://www.panewslab.com/zh/articles/e9fcc648-0d44-493b-9302-843841c8d354</link>
       <description>SEC主席披露“Project Crypto”计划，拟推进美国加密监管现代化</description>
-      <pubDate>Fri, 15 Aug 2025 13:45:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:53:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e9fcc648-0d44-493b-9302-843841c8d354</guid>
       <category>crypto</category>
@@ -64,7 +96,7 @@
       <title>Qubic发布51%攻击实验报告：期间导致6个区块被重组、60个区块孤立</title>
       <link>https://www.panewslab.com/zh/articles/a49673c9-8514-4242-af5d-ade8b65396c3</link>
       <description>Qubic发布51%攻击实验报告：期间导致6个区块被重组、60个区块孤立</description>
-      <pubDate>Fri, 15 Aug 2025 13:43:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:51:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a49673c9-8514-4242-af5d-ade8b65396c3</guid>
       <category>crypto</category>
@@ -79,7 +111,7 @@
       <title>Hyperbeat获ether.Fi与Electric Capital 520万美元融资</title>
       <link>https://www.panewslab.com/zh/articles/d07abee0-bf98-4b89-af3f-260b2b9c8885</link>
       <description>Hyperbeat获ether.Fi与Electric Capital 520万美元融资</description>
-      <pubDate>Fri, 15 Aug 2025 13:41:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:49:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d07abee0-bf98-4b89-af3f-260b2b9c8885</guid>
       <category>crypto</category>
@@ -96,7 +128,7 @@
       <title>Binance宣布上线OpenEden（EDEN）空投激励活动</title>
       <link>https://www.panewslab.com/zh/articles/5da26dbd-3922-4a5c-8906-ec2f1926acd9</link>
       <description>Binance宣布上线OpenEden（EDEN）空投激励活动</description>
-      <pubDate>Fri, 15 Aug 2025 13:39:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:47:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5da26dbd-3922-4a5c-8906-ec2f1926acd9</guid>
       <category>crypto</category>
@@ -111,7 +143,7 @@
       <title>OSL集团与中手游达成稳定币生态战略合作</title>
       <link>https://www.panewslab.com/zh/articles/431e2084-0964-45f5-b861-ebe94459e5f0</link>
       <description>OSL集团与中手游达成稳定币生态战略合作</description>
-      <pubDate>Fri, 15 Aug 2025 13:37:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:45:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/431e2084-0964-45f5-b861-ebe94459e5f0</guid>
       <category>crypto</category>
@@ -126,7 +158,7 @@
       <title>OpenAI创始人：未来计划筹集数万亿美元建造数据中心，拟进军脑机接口领域</title>
       <link>https://www.panewslab.com/zh/articles/00450041-4033-4792-af39-6acb5fb3415b</link>
       <description>OpenAI创始人：未来计划筹集数万亿美元建造数据中心，拟进军脑机接口领域</description>
-      <pubDate>Fri, 15 Aug 2025 13:35:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:43:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/00450041-4033-4792-af39-6acb5fb3415b</guid>
       <category>crypto</category>
@@ -141,7 +173,7 @@
       <title>美联储古尔斯比：最新PPI、CPI通胀数据令人不安</title>
       <link>https://www.panewslab.com/zh/articles/b5b944d3-8dd6-47bb-a1a0-953cb2d3df82</link>
       <description>美联储古尔斯比：最新PPI、CPI通胀数据令人不安</description>
-      <pubDate>Fri, 15 Aug 2025 13:33:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:41:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b5b944d3-8dd6-47bb-a1a0-953cb2d3df82</guid>
       <category>crypto</category>
@@ -156,7 +188,7 @@
       <title>交易员削减对美联储降息的押注，仍预计9月会降息</title>
       <link>https://www.panewslab.com/zh/articles/26d6af8b-6677-436f-b660-967feaebcaa8</link>
       <description>交易员削减对美联储降息的押注，仍预计9月会降息</description>
-      <pubDate>Fri, 15 Aug 2025 13:31:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:39:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/26d6af8b-6677-436f-b660-967feaebcaa8</guid>
       <category>crypto</category>
@@ -171,7 +203,7 @@
       <title>GENIUS法案引发监管争议，稳定币利息漏洞受关注</title>
       <link>https://www.panewslab.com/zh/articles/599f18b0-861a-4dbd-93fa-d11b86ce3d5b</link>
       <description>GENIUS法案引发监管争议，稳定币利息漏洞受关注</description>
-      <pubDate>Fri, 15 Aug 2025 13:29:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:37:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/599f18b0-861a-4dbd-93fa-d11b86ce3d5b</guid>
       <category>crypto</category>
@@ -186,7 +218,7 @@
       <title>SharpLink二季度净亏损超1亿美元，ETH持仓达72.88万枚</title>
       <link>https://www.panewslab.com/zh/articles/3e34af98-8b36-4b1c-8b40-2925823ad977</link>
       <description>SharpLink二季度净亏损超1亿美元，ETH持仓达72.88万枚</description>
-      <pubDate>Fri, 15 Aug 2025 13:27:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:35:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3e34af98-8b36-4b1c-8b40-2925823ad977</guid>
       <category>crypto</category>
@@ -203,7 +235,7 @@
       <title>Synthetix团队正推进以太坊主网回归计划，打造高性能永续合约 DEX</title>
       <link>https://www.panewslab.com/zh/articles/744bbfbf-1e7e-4eb5-9fa0-cfcc90275fae</link>
       <description>Synthetix团队正推进以太坊主网回归计划，打造高性能永续合约 DEX</description>
-      <pubDate>Fri, 15 Aug 2025 13:25:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:33:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/744bbfbf-1e7e-4eb5-9fa0-cfcc90275fae</guid>
       <category>crypto</category>
@@ -220,7 +252,7 @@
       <title>Binance Alpha将上线Reservoir（DAM），支持现货及期货交易</title>
       <link>https://www.panewslab.com/zh/articles/2d6159cf-1c82-40a5-b999-772bed8f8924</link>
       <description>Binance Alpha将上线Reservoir（DAM），支持现货及期货交易</description>
-      <pubDate>Fri, 15 Aug 2025 13:23:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:31:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2d6159cf-1c82-40a5-b999-772bed8f8924</guid>
       <category>crypto</category>
@@ -235,7 +267,7 @@
       <title>现货以太坊与比特币ETF单日成交额达115亿美元，接近苹果股票水平</title>
       <link>https://www.panewslab.com/zh/articles/e28be24f-efb0-4d58-8a09-81015bf88efe</link>
       <description>现货以太坊与比特币ETF单日成交额达115亿美元，接近苹果股票水平</description>
-      <pubDate>Fri, 15 Aug 2025 13:21:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:29:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e28be24f-efb0-4d58-8a09-81015bf88efe</guid>
       <category>crypto</category>
@@ -254,7 +286,7 @@
       <title>阿里通义千问：多个产品升级，Qwen-Image图片编辑模型即将上线</title>
       <link>https://www.panewslab.com/zh/articles/6e6a6c3a-7c98-4672-9fe0-f18a31b6a6a3</link>
       <description>阿里通义千问：多个产品升级，Qwen-Image图片编辑模型即将上线</description>
-      <pubDate>Fri, 15 Aug 2025 13:19:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:27:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6e6a6c3a-7c98-4672-9fe0-f18a31b6a6a3</guid>
       <category>crypto</category>
@@ -269,7 +301,7 @@
       <title>Galaxy宣布完成14亿美元项目融资，加速Helios AI数据中心扩建</title>
       <link>https://www.panewslab.com/zh/articles/714e656a-46af-4d90-a040-0dc3e1517da2</link>
       <description>Galaxy宣布完成14亿美元项目融资，加速Helios AI数据中心扩建</description>
-      <pubDate>Fri, 15 Aug 2025 13:17:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:25:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/714e656a-46af-4d90-a040-0dc3e1517da2</guid>
       <category>crypto</category>
@@ -284,41 +316,9 @@
       <title>欧盟拟于10月14日表决聊天控制法案，或将全面扫描私人消息</title>
       <link>https://www.panewslab.com/zh/articles/7665f034-8249-4013-bc0e-702e060cb000</link>
       <description>欧盟拟于10月14日表决聊天控制法案，或将全面扫描私人消息</description>
-      <pubDate>Fri, 15 Aug 2025 13:15:30 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 13:23:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7665f034-8249-4013-bc0e-702e060cb000</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>华检医疗拟在未来36个月内以不超过30亿港元购入加密货币，主要为ETH</title>
-      <link>https://www.panewslab.com/zh/articles/cd728a40-5917-441e-a21d-bdd773f40a60</link>
-      <description>华检医疗拟在未来36个月内以不超过30亿港元购入加密货币，主要为ETH</description>
-      <pubDate>Fri, 15 Aug 2025 13:13:30 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cd728a40-5917-441e-a21d-bdd773f40a60</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>币安将上线USELESSUSDT永续合约</title>
-      <link>https://www.panewslab.com/zh/articles/f319fac6-1663-471d-8320-b77c33bebe28</link>
-      <description>币安将上线USELESSUSDT永续合约</description>
-      <pubDate>Fri, 15 Aug 2025 13:11:30 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f319fac6-1663-471d-8320-b77c33bebe28</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>

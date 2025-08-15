@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 12:53:00 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 12:53:00 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 14:01:01 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 14:01:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,141 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>USDC Treasury 在以太坊链上新增铸造约 5000 万枚 USDC</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Whale Alert 监测，USDC Treasury 约 5 分钟前在以太坊区块链上新铸造了 50,083,900 枚 USDC。</description>
+      <pubDate>Fri, 15 Aug 2025 13:58:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>BTC 短时跌破 118000 美元，日内跌幅 0.17%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 HTX 行情数据显示，BTC 短时跌破 118000 美元，现报 118049.87 美元，日内跌幅 0.17%。</description>
+      <pubDate>Fri, 15 Aug 2025 13:45:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Virtuals宣布联合以太坊基金会推出黑客松活动，团队将在ETH深圳举办创业者闭门交流</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Virtuals Protocol宣布与以太坊基金会联合推出了“Ethereum is for AI”主题黑客松，设置了机器人/depin、隐私、消费者、科研、DeFi AI五大赛道，于今日开始在hack.virtuals.io预注册。Virtuals团队也将在ETH Shenzhen会场举办闭门...</description>
+      <pubDate>Fri, 15 Aug 2025 13:33:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>美股开盘，道指涨0.6%，标普500指数涨0.1%，纳指跌0.01%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，美股开盘，道指涨0.6%，标普500指数涨0.1%，纳指跌0.01%。英特尔(INTC.O)涨4%，报道称特朗普政府欲入股。</description>
+      <pubDate>Fri, 15 Aug 2025 13:32:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Qubic：门罗币51%攻击实验导致6个区块被重组、60个区块成为孤块</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Qubic 宣布在 Monero 网络上实现超过 51% 的哈希率控制，导致 6 个区块被重组、60 个区块成为孤块。初步报告显示，在两小时内，Qubic 挖出了 Monero 总区块的 80%。期间约挖出 750 枚 XMR 和 700 万枚 XTM。上一轮未售出的 Tari 加上 ...</description>
+      <pubDate>Fri, 15 Aug 2025 13:27:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Hyperliquid 生态原生收益层 Hyperbeat 完成 520 万美元种子轮融资，ether.fi Ventures 与 Electric Capital 领投</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 CoinDesk 报道，Hyperliquid 生态原生收益层 Hyperbeat 完成 520 万美元超额认购种子轮融资，ether.fi Ventures 和 Electric Capital 共同领投，Coinbase Ventures、Chapter One、Selini、Maelst...</description>
+      <pubDate>Fri, 15 Aug 2025 13:24:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某新建钱包在过去 4 小时内从币安提取价值约 1020 万美元的 LINK 代币</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，一个新创建的钱包地址（0x4EBD）在过去 4 小时内从币安交易所提取了 455,298 枚 LINK 代币，价值约 1020 万美元。</description>
+      <pubDate>Fri, 15 Aug 2025 13:14:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>外媒：OpenAI计划资助一家脑机接口公司</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据援引 THE VERGE 报道，OpenAI创始人Sam Altman证实，OpenAI计划资助脑机接口公司Neuralink的竞争对手。</description>
+      <pubDate>Fri, 15 Aug 2025 13:12:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安钱包将上线 OpenEden Booster 活动，参与门槛为 61 Alpha 积分</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Binance Wallet 将上线 OpenEden Booster 活动，Alpha 积分大于等于 61 的用户可参加活动，活动开始时间为 8 月 18 日 19:00（UTC+8），总奖励 20,000,000 枚 EDEN。</description>
+      <pubDate>Fri, 15 Aug 2025 13:07:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Manta Network向Wintermute借出750万MANTA代币以提供流动性</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Manta Network 已与做市商 Wintermute 达成流动性协议，借出 750 万枚 MANTA 代币以支持加密货币交易所的流动性，据悉这些代币将被整合到 Wintermute 的交易系统中，为 MANTA 提供稳定的市场流动性。与传统的代币赠款不同，此安排采用贷款的形式，偿还后代币将...</description>
+      <pubDate>Fri, 15 Aug 2025 13:05:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>美 SEC 主席 Paul Atkins：正在采取行动使美国成为加密货币之都</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Bitcoin Magazine 报道，美国证券交易委员会（SEC）主席 Paul Atkins 表示，“我们正在采取行动，致力于将美国打造成为全球加密货币之都。”</description>
+      <pubDate>Fri, 15 Aug 2025 13:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>DeFi Dev Corp 宣布增持 11 万枚 SOL，总持仓量达 142 万枚</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Globe Newswire 报道，纳斯达克上市公司 DeFi Development Corp.（股票代码：DFDV）宣布购入 11 万枚 SOL，总价值约 2200 万美元。此次增持后，该公司 SOL 持仓量增至约 142 万枚（含质押收益），按当前价格计算总价值约 2.73 亿美元。公司...</description>
+      <pubDate>Fri, 15 Aug 2025 12:56:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>外媒：若美国政府迫使谷歌出售Chrome，OpenAI创始人有兴趣收购</title>
       <link>https://www.techflowpost.com</link>
-      <description>据 THE VERGE 报道，如果美国政府迫使谷歌出售 Chrome，OpenAI 创始人 Sam Altman 有兴趣收购。</description>
+      <description>据金十数据援引 THE VERGE 报道，如果美国政府迫使谷歌出售 Chrome，OpenAI 创始人 Sam Altman 有兴趣收购。</description>
       <pubDate>Fri, 15 Aug 2025 12:51:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -36,9 +168,9 @@
 
     </item>
     <item>
-      <title>德克萨斯州执法部门从勒索软件运营者处查封超 280 万美元加密资产</title>
+      <title>德克萨斯州执法部门从勒索软件运营商处查封超 280 万美元加密资产</title>
       <link>https://www.techflowpost.com</link>
-      <description>据 Decrypt 报道，德克萨斯州执法部门已从涉嫌勒索软件运营者 Ianis Aleksandrovich Antropenko 处查封超过 280 万美元加密货币资产，同时缴获了 7 万美元现金和一辆豪车。检方指控 Antropenko 部署 Zeppelin 勒索软件，对全球个人、企业和组织...</description>
+      <description>据 Decrypt 报道，德克萨斯州执法部门已从涉嫌勒索软件运营方 Ianis Aleksandrovich Antropenko 处查封超过 280 万美元加密货币资产，同时缴获了 7 万美元现金和一辆豪车。检方指控 Antropenko 部署 Zeppelin 勒索软件，对全球个人、企业和组织...</description>
       <pubDate>Fri, 15 Aug 2025 12:49:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -150,138 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Twitter 创始人 Jack Dorsey 发推表示，&quot;希望比特币能够成为点对点电子现金和日常货币，这正是它最初被设计的目的。&quot;</description>
       <pubDate>Fri, 15 Aug 2025 11:15:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>路透调查：多数经济学家预计美联储将在9月降息，今年还将再降息一次</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，路透社调查的多数经济学家预计，美联储将在9月进行今年的首次降息，随后可能在年底前再降一次，这是基准预测。目前市场对美国经济健康状况的担忧日益加剧。在110名受访者中，有67人（61%）预计美联储将在9月将基准利率下调25个基点，至4.0% - 4.25%，为今年首次下调，高于7月份...</description>
-      <pubDate>Fri, 15 Aug 2025 11:10:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 与西甲 LALIGA 开启新赛季合作，加密文化与体育融合再升级</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 正式宣布与西班牙足球甲级联赛（LALIGA）再度携手开启新赛季合作。本赛季双方将打造专属活动页面，通过预测挑战赛、交易互动活动及线下沉浸式体验，结合球员领衔的创意广告内容，进一步推动加密文化与体育生态的深度融合。在上一赛季的合作中，Bitget 通过球星 Raphinha 主演的广告...</description>
-      <pubDate>Fri, 15 Aug 2025 11:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>港股上市公司华检医疗拟斥资不超 30 亿港元购买加密货币</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据智通财经报道，华检医疗（01931.HK）发布公告，由于董事会认为购买和持有加密货币是集团夯实以太坊（ETH）储备金库及加速 ivd.xyz 交易所生态构建等业务布局和发展的重要举措，亦是本集团资产配置策略的重要组成部分，经审慎考量后，董事会建议寻求股东事先批准授出购买授权，以授权董事会于股东特...</description>
-      <pubDate>Fri, 15 Aug 2025 10:56:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安合约将上线 USELESS U 本位永续合约</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，币安合约平台将于以下时间上线永续合约：2025年08月15日20:15（东八区时间）：USELESSUSDT永续合约，最高杠杆可达50倍此前，USELESS 已在币安Alpha市场上线。</description>
-      <pubDate>Fri, 15 Aug 2025 10:50:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>三个黑客地址在近期集中抛售 ETH，总价值超 7500 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上数据分析师余烬（@EmberCN）监测，三起重大黑客事件的涉案地址近期通过出售以太坊获得收益。具体来看：攻击了 Radiant Capital 的黑客地址以均价 4,562 美元售出 9,631 枚 ETH，获得 4,393.7 万枚 DAI。攻击了 Infini 协议的黑客地址以均价 3,...</description>
-      <pubDate>Fri, 15 Aug 2025 10:45:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安钱包：将于 8 月 18 日上线 RICE（RiceAI）独家 TGE 活动</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Binance Wallet将于8月18日通过PancakeSwap举办第34期RICE（RiceAI）项目TGE。认购时间：2025年8月18号下午4点到6点 (UTC+8)；认购资格：符合资格的用户须使用币安 Alpha 积分参与；额外 40,000,000 RICE 将用于未来的...</description>
-      <pubDate>Fri, 15 Aug 2025 10:34:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析：BSC 链上某合约出现可疑交易，造成约 1.9 万美元损失</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 BlockSec Phalcon（@Phalcon_xyz）监测，BSC 链上某未知合约出现一笔可疑交易，导致约 19,000 美元资金损失。涉事合约地址为 0xf4a21ac7e51d17a0e1c8b59f7a98bb7a97806f14。建议用户立即撤销对该合约地址的所有授权。</description>
-      <pubDate>Fri, 15 Aug 2025 10:26:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 推出第 10 期 VIP 定期空投计划，本期奖池 42 万枚 PUBLIC</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 推出“尊享 VIP 空投盛典”第 10 期活动，面向 VIP3 及以上用户开放。本期空投项目为 PUBLIC，奖池总量 428,571 枚 PUBLIC，活动开放时间为 8 月 15 日 20:00 至 8 月 18 日 20:00 (UTC+8)。用户仅需完成报名，无需额外任务。活...</description>
-      <pubDate>Fri, 15 Aug 2025 10:20:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Galaxy Digital 近 24 小时内从交易所提出 37,808 枚 ETH，约合 1.72 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上数据分析师 The Data Nerd 监测，在过去 24 小时内，Galaxy Digital 从交易所提取了 37,808 枚 ETH（约 1.72 亿美元）。</description>
-      <pubDate>Fri, 15 Aug 2025 10:17:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>中国央行： 落实落细适度宽松的货币政策</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，中国央行发布2025年第二季度中国货币政策执行报告。下阶段，落实落细适度宽松的货币政策。根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度和节奏，保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配，持续营造适宜的金融环境。把促进物价合理回...</description>
-      <pubDate>Fri, 15 Aug 2025 10:08:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>以太坊财库实体及 ETF 的 ETH 持有总量已突破 1000 万枚，约占当前总供应量的 8.3%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Strategicethreserve.xyz 数据，以太坊财库实体及 ETF 的以太坊持有总量已突破 1000 万枚，创下历史新高，约占当前总供应量（1.2 枚）的 8.3%。</description>
-      <pubDate>Fri, 15 Aug 2025 10:01:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>HTX DAO核心建设者六爷、Helium解读白皮书升级：从理念到实践解锁链上治理新模式</title>
-      <link>https://www.techflowpost.com</link>
-      <description>8月14日，HTX DAO第18期《DAO友请留步》以“HTX DAO白皮书升级背后：制度实验如何演化为现实路径？”为主题，邀请HTX DAO Core Builder六爷、Helium等加密KOL，围绕HTX DAO白皮书核心调整，探讨了链上金融治理的未来和$HTX的发展方向。六爷介绍称，更新白...</description>
-      <pubDate>Fri, 15 Aug 2025 09:54:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
