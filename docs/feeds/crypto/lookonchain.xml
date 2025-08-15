@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 03:38:58 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 03:38:58 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 04:18:08 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 04:18:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,106 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Over 788,000 ETH is currently queued to exit the Ethereum PoS network, setting a new record.</title>
+      <link>https://www.lookonchain.com/feeds/24708</link>
+      <description>On August 15th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue on the Ethereum PoS network is temporarily reported to be 788,624 ETH, which is approximately worth $36.51 billion, setting a record for the largest exit queue in terms of coin value.At the same time, about 332,846 ETH are queued to join the network.Previously reported, this situation reflects the existence of two opposing forces in the market: on one hand, some stakers may be cashing out after Ethereum rebounded by more than 160% from the April low, resulting in a significant increase in the exit queue; on the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also boosting the entry queue. Listed companies such as SharpLink Gaming and BitMine Immersion are increasing their ETH holdings and engaging in staking.</description>
+      <pubDate>Fri, 15 Aug 2025 04:17:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24708</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Data: Over the past 30 days, the amount of ETH purchased by Ethereum strategic entities and ETFs is 47 times the network&apos;s net issuance</title>
+      <link>https://www.lookonchain.com/feeds/24707</link>
+      <description>On August 15th, based on @sassal0x&apos;s data, within the past 30 days:ETH Net Issuance: 74,000 ETH;ETH Purchased by Investment Firms: 1.8 million ETH;ETH Amount Purchased by ETFs: 1.7 million ETH;This indicates that during the past 30 days, the amount of ETH purchased by these entities is 47 times the network&apos;s net issuance.</description>
+      <pubDate>Fri, 15 Aug 2025 04:00:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24707</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>ETHZilla Surpasses BTCS to Enter Ethereum Treasury Company Holdings Top 10, ETH Balance Increases to Around 82,200 Coins</title>
+      <link>https://www.lookonchain.com/feeds/24706</link>
+      <description>On August 15th, based on the latest figures from Strategicethreserve, the amount of Ethereum held by the Nasdaq-listed company ETHZilla (formerly 180 Life Sciences) has gone up to around 82,200 ETH. This is equivalent to approximately $380.5 million at the current price. Currently, its Ethereum holding has exceeded that of BTCS and ranked 10th among the holdings of Ethereum Treasury Companies.</description>
+      <pubDate>Fri, 15 Aug 2025 03:48:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24706</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>U.S. White House: Trump to Hold Bilateral Meeting with Putin at 11 a.m. Alaska Time</title>
+      <link>https://www.lookonchain.com/feeds/24705</link>
+      <description>August 15, at the White House in the USA: 11:00 AM Alaska Time (3:00 AM Beijing Time the next day), Trump is scheduled to hold a bilateral meeting with Russian President Putin in Anchorage, Alaska. (Golden Ten)</description>
+      <pubDate>Fri, 15 Aug 2025 03:40:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24705</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Bounces Back to $119,000, With a 0.61% Increase in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/24704</link>
+      <description>On August 15th, based on HTX market data, Bitcoin witnessed a short-term rally to $119,000 and is currently trading at $118,998, showing a 24-hour increase of 0.61%.</description>
+      <pubDate>Fri, 15 Aug 2025 03:40:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24704</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The whale that accumulated ETH in January and May this year liquidated its position during this round of price drop, realizing a profit of $19.64 million.</title>
       <link>https://www.lookonchain.com/feeds/24703</link>
       <description>On August 15th, according to Ashes Monitor, a whale offloaded their holdings of 9,109.6 ETH in the early hours of today to take profits, raking in $19.64 million and nearly doubling their investment.They had acquired these ETH in January and May of this year, spending a total of $21.52 million at an average price of $2,363. After the drop last night, they sold their holdings this morning at a price of $4,519, realizing $41.16 million.</description>
-      <pubDate>Fri, 15 Aug 2025 03:32:05 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:32:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24703</guid>
       <category>crypto</category>
@@ -39,7 +135,7 @@
       <title>Announcement: SEC Chair to Speak on Project Crypto Tonight at 8:30 PM</title>
       <link>https://www.lookonchain.com/feeds/24702</link>
       <description>On August 15th, the Chairman of the US SEC, Paul Atkins, will give a speech on Project Crypto this evening at 8:30 PM Beijing time. On August 1st, the US Securities and Exchange Commission (SEC) announced the launch of the Project Crypto initiative, with the aim of promoting the modernization of securities regulations and enabling the digitization of the US financial markets.</description>
-      <pubDate>Fri, 15 Aug 2025 03:25:05 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:25:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24702</guid>
       <category>crypto</category>
@@ -56,7 +152,7 @@
       <title>Two Whale Addresses Continuously Buy the Dip in Ethereum During the Dip, Accumulating Over $150 Million</title>
       <link>https://www.lookonchain.com/feeds/24701</link>
       <description>On August 15th, as per Arkham&apos;s monitoring, two significant cryptocurrency holders (whales) made purchases this morning. 0x1e0 acquired $1.182 billion worth of ETH from FalconX, while 0xa3A purchased $40.5 million worth of ETH from Galaxy Digital OTC.</description>
-      <pubDate>Fri, 15 Aug 2025 03:17:05 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:17:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24701</guid>
       <category>crypto</category>
@@ -77,7 +173,7 @@
       <title>Ethereum Layer 2 project SKALE sees a nearly 150% surge in two weeks after announcing the launch of FAIR, a blockchain project aiming to eliminate MEV.</title>
       <link>https://www.lookonchain.com/feeds/24700</link>
       <description>On August 15th, according to HTX market data, the Ethereum Layer 2 project SKALE has witnessed a nearly 150% surge in the past two weeks and is currently trading at $0.049.Regarding the news front, SKALE announced in June that it will launch the blockchain project FAIR, with the aim of eliminating MEV from the consensus layer. This project is specifically designed for the next generation of DeFi and AI.</description>
-      <pubDate>Fri, 15 Aug 2025 03:09:05 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:17:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24700</guid>
       <category>crypto</category>
@@ -96,98 +192,9 @@
       <title>A hacker panic-sold 4958 ETH during a market dip.</title>
       <link>https://www.lookonchain.com/feeds/24699</link>
       <description>On August 15th, as per the monitoring of LookOnChain, the hacker &quot;0x17E0&quot; engaged in panic-selling of 4958 ETH ($22.13 million) during the 5-hour market dip that occurred earlier. The selling price was $4463, resulting in a locked-in profit of $9.75 million.</description>
-      <pubDate>Fri, 15 Aug 2025 03:08:05 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 03:17:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24699</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the PEPE Whale opened a position once again, purchasing $1.21 million worth of PEPE.</title>
-      <link>https://www.lookonchain.com/feeds/24698</link>
-      <description>On August 15th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), yesterday the new address 0x122...002bA, which initially took a position in PEPE, seemed to have increased its position in the early hours.During the past 10 hours, it has once again withdrawn 1.078 billion PEPE from Coinbase, with a value of $1.21 million. Currently, the holder owns a total of 2.186 billion PEPE. Based on the withdrawal price, the average cost is approximately $0.00001173, resulting in an unrealized loss of $140,000.</description>
-      <pubDate>Fri, 15 Aug 2025 03:00:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24698</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Chair to Deliver Speech on the 22nd, Market Focused on Rate Cut Expectations and Succession Plan Issues</title>
-      <link>https://www.lookonchain.com/feeds/24697</link>
-      <description>August 15th. Based on the schedule of the Federal Reserve, Federal Reserve Chairman Powell is scheduled to deliver a speech on the economic outlook and the evaluation of the Federal Reserve&apos;s policy framework at the annual central bank meeting of the Kansas City Fed in Jackson Hole, Wyoming on August 22nd at 10 a.m. Eastern Time (10 p.m. Beijing Time).This speech arrives at a crucial time: recent data indicates that tariff measures have had a certain impact on inflation, while the labor market is showing a slowdown. This complex situation has enhanced the market&apos;s expectation that the Federal Reserve may announce a 25-basis-point rate cut at the next month&apos;s meeting. Meanwhile, U.S. President Trump continues to put pressure for a rate cut and is seeking a replacement. Powell&apos;s term as Federal Reserve Chairman will expire in May next year. (FXStreet)</description>
-      <pubDate>Fri, 15 Aug 2025 02:57:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24697</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid&apos;s yesterday fee and revenue both hit an all-time high.</title>
-      <link>https://www.lookonchain.com/feeds/24696</link>
-      <description>On August 15th, based on DefiLlama data, the fees and revenue of Hyperliquid reached $7.48 million and $6.96 million respectively yesterday, both reaching new all-time highs.Furthermore, according to Hyperliquid News data, the Hyperliquid Rescue Fund repurchased more than $8 million worth of HYPE within the past 24 hours, also setting a new record high.</description>
-      <pubDate>Fri, 15 Aug 2025 02:48:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24696</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Former Goldman Sachs Executive Joins Mysten Labs as Chief Capital Markets Officer</title>
-      <link>https://www.lookonchain.com/feeds/24695</link>
-      <description>August 15th. As per official information, Mysten Labs declared that Mustafa Al Niama, who was formerly the head of the digital assets department at Goldman Sachs Americas, will act as the Capital Markets Lead. He will be responsible for overseeing the expansion of Sui in the institutional market and expediting on-chain financial innovation.</description>
-      <pubDate>Fri, 15 Aug 2025 02:48:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24695</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Four-Time Scalper 100% Win Rate Smart Money bought 2,174.02 WETH in the early hours today</title>
-      <link>https://www.lookonchain.com/feeds/24694</link>
-      <description>August 15th. According to on-chain analyst Ai Auntie (@ai9684xtpa), a shrewd whale that achieved a 100% success rate in a specific four-timeframe ETH pattern purchased 2,174.02 WETH early this morning at a cost of $4,599.77. Meanwhile, they set a limit sell order at $4,655 with the intention of making a profit of $120,000 if the order is executed.</description>
-      <pubDate>Fri, 15 Aug 2025 02:41:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24694</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
