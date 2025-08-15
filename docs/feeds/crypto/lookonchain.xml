@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Aug 2025 15:46:52 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Aug 2025 15:46:52 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 15:59:00 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 15:59:00 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,50 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Ethereum Briefly Drops Below $4400</title>
+      <link>https://www.lookonchain.com/feeds/24807</link>
+      <description>On August 15th, based on HTX market data, Ethereum briefly fell below $4,400 and is currently trading at $4,413, experiencing a 24-hour decline of 4.3%.</description>
+      <pubDate>Fri, 15 Aug 2025 15:56:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24807</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Longling Capital Associated Address Sells 7,000 ETH, Equivalent to Around $31.82 Million</title>
+      <link>https://www.lookonchain.com/feeds/24806</link>
+      <description>On August 15th, as per the monitoring of LookOnChain, an address associated with Longling Capital sold 7,000 ETH during a market decline, which is equivalent to approximately $31.82 million.The wallet still retains 79,077 ETH, with a value of around $352 million.</description>
+      <pubDate>Fri, 15 Aug 2025 15:48:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24806</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>TASS News Agency: Atmosphere Before Putin and Trump Meeting &quot;On Tenterhooks&quot;</title>
       <link>https://www.lookonchain.com/feeds/24805</link>
       <description>August 15th - As reported by TASS, the Russian envoy characterized the atmosphere prior to the Putin-Trump meeting as &quot;tense.&quot; The discussions will encompass the entire spectrum of Russian-American relations, not merely the Ukraine matter.</description>
-      <pubDate>Fri, 15 Aug 2025 15:39:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:40:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24805</guid>
       <category>crypto</category>
@@ -34,7 +74,7 @@
       <title>「Big Brother Whale」 Huang Lizhong&apos;s 25x Leveraged ETH Long Position is now at a Unrealized Loss of over 4 million US dollars</title>
       <link>https://www.lookonchain.com/feeds/24804</link>
       <description>On August 15th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the 25x leveraged long position held by &quot;Big Brother Whale&quot; Huang Licheng, which is 22,298.53 ETH, is currently facing a $4.02 million unrealized loss. The entry price of this position is $4655.3 per ETH.</description>
-      <pubDate>Fri, 15 Aug 2025 15:24:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:24:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24804</guid>
       <category>crypto</category>
@@ -55,7 +95,7 @@
       <title>Within the past 24 hours, there has been a total of $384 million in liquidations across the network, with the majority coming from long positions.</title>
       <link>https://www.lookonchain.com/feeds/24802</link>
       <description>On August 15th, based on Coinglass data, within the past 24 hours, a total of $384 million was liquidated across the entire network. Among them, there were $309 million in long liquidations and $75.72 million in short liquidations.</description>
-      <pubDate>Fri, 15 Aug 2025 15:16:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:17:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24802</guid>
       <category>crypto</category>
@@ -73,7 +113,7 @@
       <title>Bitcoin Price Drops to $117,000</title>
       <link>https://www.lookonchain.com/feeds/24803</link>
       <description>On August 15th, based on HTX market data, Bitcoin declined to reach $117,000. It is currently trading at $117,000 with a 24-hour decrease of 1.26%.</description>
-      <pubDate>Fri, 15 Aug 2025 15:16:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:17:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24803</guid>
       <category>crypto</category>
@@ -93,7 +133,7 @@
       <title>Plasma announces that the mainnet beta will launch on Aave</title>
       <link>https://www.lookonchain.com/feeds/24801</link>
       <description>August 15th. According to official information, the Plasma mainnet test version is set to be launched on Aave. The initial Total Value Locked (TVL) is expected to exceed 1 billion US dollars, which will make it the second largest on-chain USDT liquidity market.</description>
-      <pubDate>Fri, 15 Aug 2025 15:08:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:08:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24801</guid>
       <category>crypto</category>
@@ -110,7 +150,7 @@
       <title>DCG Sues Subsidiary Genesis for Claims Exceeding $1.05 Billion</title>
       <link>https://www.lookonchain.com/feeds/24800</link>
       <description>On August 15th, as reported by The Block, the global investment firm Digital Currency Group (DCG) is taking legal action against its subsidiary Genesis Global Capital LLC. The reason stated is that DCG provided $1.1 billion in collateral to support Genesis during the previous cryptocurrency crash.In the lawsuit filed in the Southern District of New York bankruptcy court, DCG declared that the company had tried to bridge a potential &quot;gap&quot; by means of this $1.1 billion promissory note. This measure was taken in response to the 2022 crypto hedge fund collapse of Three Arrows Capital, which was one of Genesis&apos;s largest borrowers.DCG is seeking an order from the court, requesting Genesis Global Capital to pay it more than $105 million plus interest.</description>
-      <pubDate>Fri, 15 Aug 2025 15:08:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:08:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24800</guid>
       <category>crypto</category>
@@ -128,7 +168,7 @@
       <title>Hedge Fund Brevan Howard Discloses Over $2.32 Billion Belief in BlackRock Bitcoin Spot ETF</title>
       <link>https://www.lookonchain.com/feeds/24799</link>
       <description>On August 15th, as per CoinDesk, the hedge fund Brevan Howard made a disclosure stating that it holds more than $2.32 billion worth of the BlackRock Bitcoin Spot ETF.</description>
-      <pubDate>Fri, 15 Aug 2025 14:59:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 15:00:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24799</guid>
       <category>crypto</category>
@@ -148,7 +188,7 @@
       <title>Cryptocurrency Total Market Cap Drops Below $4.1 Trillion</title>
       <link>https://www.lookonchain.com/feeds/24798</link>
       <description>On August 15th, based on CoinGecko data, the total cryptocurrency market capitalization has dropped below $4.1 trillion and is now at $4.068 trillion, with a 24-hour decrease of 1.3%.</description>
-      <pubDate>Fri, 15 Aug 2025 14:48:59 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 14:58:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24798</guid>
       <category>crypto</category>
@@ -160,42 +200,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale withdrew 25,600 SOL from Binance, worth approximately $4.94 million</title>
-      <link>https://www.lookonchain.com/feeds/24796</link>
-      <description>On August 15th, as monitored by Onchain Lens, a whale withdrew 25,600 SOL from Binance after a month. The amount withdrawn is approximately worth $4.94 million.</description>
-      <pubDate>Fri, 15 Aug 2025 14:45:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24796</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Chair Nominee Samorlian: Supports Fed Cutting Rates by 50 Basis Points Next Month</title>
-      <link>https://www.lookonchain.com/feeds/24797</link>
-      <description>On August 15th, according to Bloomberg, Marc Sumerlin, an economist who is regarded as a potential candidate for the Fed chair, said that policymakers should make a significant cut in interest rates next month. However, he also warned that if long-term U.S. bond yields rise, they will have to stop cutting rates. Sumerlin is an economist at the consulting firm Evenflow Macro.Marc Sumerlin stated that the 4.3% federal funds rate is too high, and there is a 50-basis-point room for rate cuts. Due to the inverted yield curve, he is in favor of a 50-basis-point rate cut.</description>
-      <pubDate>Fri, 15 Aug 2025 14:45:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24797</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
