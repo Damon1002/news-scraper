@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Aug 2025 22:59:56 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Aug 2025 22:59:56 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 23:26:10 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 23:26:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,47 +14,10 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>「Big Brother Whale」 Long Position Unrealized Loss Expanded to $5.1 Million</title>
-      <link>https://www.lookonchain.com/feeds/24888</link>
-      <description>On August 17th, based on on-chain data, the long position total unrealized loss of &quot;Brother Big V&quot; Huang Licheng has reached $5.1 million. Currently, his BTC and HYPE long positions are in the profit zone, while his ETH long position has an unrealized loss of as much as $5.14 million.</description>
-      <pubDate>Sat, 16 Aug 2025 15:59:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24888</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>In the past 24 hours, there has been a total of $175 million in liquidations across the network, with the majority coming from long positions.</title>
-      <link>https://www.lookonchain.com/feeds/24887</link>
-      <description>Update:On August 17th, based on Coinglass data, the total liquidation within the past 24 hours was $175 million. The long liquidations were $107 million and the short liquidations were $68.2499 million.During the past 24 hours, a total of 65,809 people were liquidated globally. The largest single liquidation took place on Binance - ETHUSDT, amounting to $2.9658 million.</description>
-      <pubDate>Sat, 16 Aug 2025 15:59:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24887</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Analysis: Bitcoin Still Poised to Reach $150,000 by 2026</title>
       <link>https://www.lookonchain.com/feeds/24886</link>
       <description>August 16th. This week, Bitcoin reached a new high, with its price surging beyond $123,000 and exceeding the peak in July. Its upward momentum is fueled by institutional buying, corporate treasury allocations, U.S. policy support, and the continuous accumulation of returns at the sovereign nation level. This trend further strengthens the prediction of the global financial advisory giant deVere Group that Bitcoin may reach $150,000 by the end of 2025.As the world&apos;s largest cryptocurrency, Bitcoin has risen by more than 31% since the beginning of the year and is up about 60% from the market low in April. The factors driving this round of gains include:· Unprecedented inflows into a U.S. Bitcoin spot ETF;· Several large publicly traded companies adding Bitcoin to their balance sheets;· Bitcoin-friendly policies of the Trump administration;· Profits from Bitcoin holdings by various governments.deVere Group&apos;s founder and CEO Nigel Green stated that multiple strong forces are current</description>
-      <pubDate>Sat, 16 Aug 2025 15:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 16:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24886</guid>
       <category>crypto</category>
@@ -74,7 +37,7 @@
       <title>Bitcoin Reserve Company BSTR is preparing to merge and go public with CEPO, already holding over 30,000 BTC</title>
       <link>https://www.lookonchain.com/feeds/24885</link>
       <description>On August 16th, Bitcoin Standard Treasury Co. (BSTR) is getting ready to go public by merging with Cantor Equity Partners (CEPO). It currently holds 30,021 bitcoins on its balance sheet and plans to increase its holdings to more than 50,000 bitcoins.This will enable it to surpass MARA Holdings (MARA) and become the second-largest corporate bitcoin holder, with MicroStrategy (MSTR) being the only one ahead. MARA holds over 50,600 bitcoins, while MicroStrategy holds nearly 629,000 bitcoins.Currently, MSTR, MARA, and BSTR together hold approximately 710,000 bitcoins, accounting for about 3.38% of the fixed supply of 21 million bitcoins. This transaction is anticipated to be completed in the fourth quarter, and the company will be listed on Nasdaq under the symbol BSTO. If the full financing is successfully completed, BSTR will set a new record for corporate bitcoin treasuries, presenting a model for other companies to combine sound money with modern market tools.</description>
-      <pubDate>Sat, 16 Aug 2025 15:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 16:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24885</guid>
       <category>crypto</category>
@@ -90,10 +53,47 @@
 
     </item>
     <item>
+      <title>「Big Brother Whale」 Long Position Unrealized Loss Expanded to $5.1 Million</title>
+      <link>https://www.lookonchain.com/feeds/24888</link>
+      <description>On August 17th, based on on-chain data, the long position total unrealized loss of &quot;Brother Big V&quot; Huang Licheng has reached $5.1 million. Currently, his BTC and HYPE long positions are in the profit zone, while his ETH long position has an unrealized loss of as much as $5.14 million.</description>
+      <pubDate>Sat, 16 Aug 2025 16:25:17 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24888</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>In the past 24 hours, there has been a total of $175 million in liquidations across the network, with the majority coming from long positions.</title>
+      <link>https://www.lookonchain.com/feeds/24887</link>
+      <description>Update:On August 17th, based on Coinglass data, the total liquidation within the past 24 hours was $175 million. The long liquidations were $107 million and the short liquidations were $68.2499 million.During the past 24 hours, a total of 65,809 people were liquidated globally. The largest single liquidation took place on Binance - ETHUSDT, amounting to $2.9658 million.</description>
+      <pubDate>Sat, 16 Aug 2025 16:25:17 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24887</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Putin: Russia Respects the United States&apos; Position and Also Seeks a Peaceful Resolution to the Ukraine Conflict</title>
       <link>https://www.lookonchain.com/feeds/24884</link>
       <description>August 16th, Russian President Putin expressed that visiting Alaska was of great significance and occurred at an appropriate time. The dialogue with Trump was genuine and substantial. Russia holds the US position in high regard and desires a peaceful settlement to the Ukraine conflict. (Forexlive)</description>
-      <pubDate>Sat, 16 Aug 2025 15:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 15:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24884</guid>
       <category>crypto</category>
@@ -110,7 +110,7 @@
       <title>Moonbirds surges nearly 20% in a single day, up over 57% in the past 7 days</title>
       <link>https://www.lookonchain.com/feeds/24883</link>
       <description>On August 16th, based on Blur market data, the floor price of the NFT project Moonbirds witnessed a daily growth of 19.50% and is currently at 3.80 ETH. It has seen a 7-day increase of more than 57%, leading the blue-chip NFT market.The daily trading volume reached 613.88 ETH, and the 7-day trading volume reached 2524.61 ETH.</description>
-      <pubDate>Sat, 16 Aug 2025 15:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 15:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24883</guid>
       <category>crypto</category>
@@ -127,7 +127,7 @@
       <title>Ethereum Temporarily Drops Below $4400</title>
       <link>https://www.lookonchain.com/feeds/24882</link>
       <description>On August 16th, according to HTX market data, Ethereum briefly fell below $4400. It is now recovering to $4412, with a 24-hour decrease of 1.05%.</description>
-      <pubDate>Sat, 16 Aug 2025 14:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 15:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24882</guid>
       <category>crypto</category>
@@ -147,7 +147,7 @@
       <title>Standard &amp; Poor&apos;s Dow Jones Indices is in talks to introduce Tokenized Index on the trading platform and DeFi.</title>
       <link>https://www.lookonchain.com/feeds/24881</link>
       <description>On August 16th, as per Stephanie Rowton, the Director of U.S. Equity Business at S&amp;P Dow Jones Indices (S&amp;P DJI), the company is currently engaged in discussions with major exchanges, custodians, and DeFi protocols with the aim of authorizing and listing tokenized versions of its benchmark indices. In an interview, Rowton stated that the index provider is adopting a &quot;strategic approach&quot; to ensure that tokenized S&amp;P products are only launched when certain high standards of transparency, security, and regulatory compliance are met.She mentioned, &quot;By establishing these types of partnerships, we hope to jointly contribute to the construction of a robust infrastructure that can support the trading and accessibility of our index tokenized versions, ultimately enhancing the investor experience.&quot; This move into the blockchain realm occurs as institutional interest in tokenized financial products is on the rise. S&amp;P DJI entered this space earlier this year through a tokenization collaboration</description>
-      <pubDate>Sat, 16 Aug 2025 14:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 15:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24881</guid>
       <category>crypto</category>
@@ -164,7 +164,7 @@
       <title>Trump: No Immediate Tariffs on China for Purchasing Russian Oil</title>
       <link>https://www.lookonchain.com/feeds/24880</link>
       <description>August 16th, Lately, the United States announced an extra tariff on Indian goods, citing that it was a punishment for India&apos;s purchase of Russian oil. The US also threatened to impose secondary tariffs on Chinese goods imported to the US due to their purchase of Russian oil. According to a Reuters report on the 16th, US President Trump stated after meeting with Russian President Putin on the 15th local time that there is currently no plan to impose tariffs on China for purchasing Russian oil.After concluding the meeting with Putin in Alaska, Trump stated in an interview with Fox News reporters that, considering the circumstances of this meeting, he would not consider imposing tariffs on China for purchasing Russian oil at the moment. Trump also said, &quot;I may need to consider this issue in two to three weeks, but for now, we don&apos;t need to think about it.&quot; (FX Street)</description>
-      <pubDate>Sat, 16 Aug 2025 14:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 15:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24880</guid>
       <category>crypto</category>
@@ -181,7 +181,7 @@
       <title>Bitunix Analyst: Putin&apos;s Meeting Failed to Deliver Substantial Positive News, BTC Stuck in Range-Bound Trading, Resistance at $120,600, Limited Upside Potential</title>
       <link>https://www.lookonchain.com/feeds/24879</link>
       <description>August 16th: The &quot;Putin-Biden Summit in Alaska&quot; came to an end. Although it was the longest face-to-face interaction between the two leaders, it ultimately failed to yield specific results. Trump characterized it as &quot;productive but no agreement reached yet,&quot; while Putin emphasized a constructive atmosphere and mentioned &quot;reaching some undisclosed agreements.&quot; However, the market found it difficult to obtain clear signals in such an &quot;upbeat atmosphere with empty content.&quot; This has intensified concerns in Europe and Kyiv, and global markets still maintain a high level of sensitivity to geopolitical risks.The short-term performance of the crypto market has been characterized by fluctuating back and forth. BTC has been oscillating repeatedly within the range of 119,200–116,400, forming a support zone. The concentrated liquidation area above is around 119,600, and there is even greater pressure at 120,000. Order book data shows that the chips have not yet made a significant breakthrough,</description>
-      <pubDate>Sat, 16 Aug 2025 12:59:03 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 13:25:17 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24879</guid>
       <category>crypto</category>
