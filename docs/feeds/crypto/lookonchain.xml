@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Aug 2025 04:51:04 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Aug 2025 04:51:04 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 05:11:39 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 05:11:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>An institution has created 3 new addresses in the past 4 days and withdrawn 92,800 ETH from Kraken.</title>
-      <link>https://www.lookonchain.com/feeds/24836</link>
-      <description>On August 16th, as per the monitoring of LookOnChain, a certain mysterious entity has generated 3 new wallet addresses within the past 4 days. It has withdrawn a total of 92,899 ETH from Kraken, with an approximate value of $4.12 billion.</description>
-      <pubDate>Sat, 16 Aug 2025 04:40:11 +0000</pubDate>
+      <title>A whale address withdrew 124,800 LINK from Binance half an hour ago, with a total holding of over 300,000 LINK.</title>
+      <link>https://www.lookonchain.com/feeds/24837</link>
+      <description>On August 16th, as monitored by Onchain Lens, a whale address withdrew 124,856 LINK from Binance half an hour ago, with a value of $2.73 million.In the past two months, this address has made a total withdrawal of 304,003 LINK, worth $6.63 million. Currently, it holds an unrealized profit of $1.5 million.</description>
+      <pubDate>Sat, 16 Aug 2025 04:56:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24836</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24837</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,17 +28,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+      <category>whale</category>
 
     </item>
     <item>
-      <title>Ethereum Pullback Drives Altcoins Down, Spot ETFs See Net Outflows, Crypto Stocks Experience Synchronized Decline</title>
-      <link>https://www.lookonchain.com/feeds/24835</link>
-      <description>On August 16th, based on market data, as the prices of Bitcoin and Ethereum declined, altcoins generally followed suit. These included:ETH witnessed a 24-hour decline of 4.27% and is currently priced at $4,435.ARB saw a 24-hour decline of 8.15% and is currently priced at $0.48.CRV had a 24-hour decline of 5.57% and is currently priced at $0.8713.EIGEN experienced a 24-hour decline of 5.67% and is currently priced at $1.348.Regarding spot ETF data, yesterday in the US, both Bitcoin and Ethereum spot ETFs saw net outflows. The Bitcoin ETF had a net outflow of $14.01 million, and the Ethereum ETF had a net outflow of $59.30 million. Excluding the net inflow data of the BlackRock ETF, other Bitcoin ETFs had a total net outflow of $128.5 million, and Ethereum ETFs had a total net outflow of $397.4 million.Regarding US stock market-related coins, on Friday, the three major indexes of the US stock market closed with mixed gains and losses. Meanwhile, cryptocurrency stocks generally fe</description>
-      <pubDate>Sat, 16 Aug 2025 04:08:11 +0000</pubDate>
+      <title>An institution has created 3 new addresses in the past 4 days and withdrawn 92,800 ETH from Kraken.</title>
+      <link>https://www.lookonchain.com/feeds/24836</link>
+      <description>On August 16th, as per the monitoring of LookOnChain, a certain mysterious entity has generated 3 new wallet addresses within the past 4 days. It has withdrawn a total of 92,899 ETH from Kraken, with an approximate value of $4.12 billion.</description>
+      <pubDate>Sat, 16 Aug 2025 04:40:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24835</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24836</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -55,7 +54,7 @@
       <title>Yesterday, the US Ethereum Spot ETF experienced a net outflow of $59.3 million</title>
       <link>https://www.lookonchain.com/feeds/24834</link>
       <description>On August 16th, according to the monitoring of Farside Investors, yesterday in the US, the Ethereum spot ETF witnessed a net outflow of $59.3 million. The details are as follows:BlackRock ETHA: +$338.1 millionFidelity FETH: -$272.2 millionBitwise ETHW: -$15.8 million21Shares CETH: -$4.4 millionGrayscale ETHE: -$101.7 millionGrayscale Ethereum Trust: -$3.3 million</description>
-      <pubDate>Sat, 16 Aug 2025 03:56:11 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 04:10:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24834</guid>
       <category>crypto</category>
@@ -75,7 +74,7 @@
       <title>Yesterday the United States Bitcoin spot ETF saw a net outflow of $14.1 million</title>
       <link>https://www.lookonchain.com/feeds/24833</link>
       <description>On August 16th, as monitored by Farside Investors, the net outflow from the US Bitcoin spot ETF yesterday was $14.1 million. This included:- BlackRock IBIT: +$114.4 million- ARK ARKB: -$46.7 million- Grayscale GBTC: -$81.8 million</description>
-      <pubDate>Sat, 16 Aug 2025 03:56:11 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 04:10:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24833</guid>
       <category>crypto</category>
@@ -92,10 +91,29 @@
 
     </item>
     <item>
+      <title>Ethereum Pullback Drives Altcoins Down, Spot ETFs See Net Outflows, Crypto Stocks Experience Synchronized Decline</title>
+      <link>https://www.lookonchain.com/feeds/24835</link>
+      <description>On August 16th, based on market data, as the prices of Bitcoin and Ethereum declined, altcoins generally followed suit. These included:ETH witnessed a 24-hour decline of 4.27% and is currently priced at $4,435.ARB saw a 24-hour decline of 8.15% and is currently priced at $0.48.CRV had a 24-hour decline of 5.57% and is currently priced at $0.8713.EIGEN experienced a 24-hour decline of 5.67% and is currently priced at $1.348.Regarding spot ETF data, yesterday in the US, both Bitcoin and Ethereum spot ETFs saw net outflows. The Bitcoin ETF had a net outflow of $14.01 million, and the Ethereum ETF had a net outflow of $59.30 million. Excluding the net inflow data of the BlackRock ETF, other Bitcoin ETFs had a total net outflow of $128.5 million, and Ethereum ETFs had a total net outflow of $397.4 million.Regarding US stock market-related coins, on Friday, the three major indexes of the US stock market closed with mixed gains and losses. Meanwhile, cryptocurrency stocks generally fe</description>
+      <pubDate>Sat, 16 Aug 2025 04:10:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24835</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>A whale address has deposited 1.59 million U into HyperLiquid to open a high leverage short position for ETH, BTC, and SOL.</title>
       <link>https://www.lookonchain.com/feeds/24831</link>
       <description>On August 16th, as per the monitoring of Onchain lens, a whale address deposited 1.59 million USDC into HyperLiquid and initiated short positions for ETH (25 times), BTC (40 times), and SOL (20 times).</description>
-      <pubDate>Sat, 16 Aug 2025 03:50:11 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 03:10:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24831</guid>
       <category>crypto</category>
@@ -115,29 +133,10 @@
 
     </item>
     <item>
-      <title>The Trump Family Supports Mining Company American Bitcoin&apos;s Plan to Establish Bitcoin Treasury by Acquiring Company in Asia</title>
-      <link>https://www.lookonchain.com/feeds/24832</link>
-      <description>August 16th. As per the Financial Times, a U.S. cryptocurrency mining firm that is backed by the sons of former President Trump, Donald Trump Jr. and Eric Trump, is in the process of seeking acquisition targets in Asia with the aim of building a Bitcoin asset reserve. The company, named American Bitcoin, has commenced discussions with investors regarding potential acquisition deals. It is currently in the process of planning to acquire a publicly listed company in Japan and may concurrently enter the Hong Kong market as well.Three sources with knowledge of the matter have indicated that the company intends to replicate the MicroStrategy model by acquiring a publicly traded company in order to establish a cryptocurrency reserve platform. The Trump family has recently made a notable move into the crypto realm, which has led to a rise in the price of Bitcoin amid a more favorable regulatory environment and has given rise to a wave of &quot;crypto treasury companies&quot; that raise funds t</description>
-      <pubDate>Sat, 16 Aug 2025 03:50:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24832</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
       <title>A whale address bought 49,871 HYPE tokens at an average price of $48.14.</title>
       <link>https://www.lookonchain.com/feeds/24829</link>
       <description>On August 16th, according to on-chain data, a whale address deposited 2.4 million USDC into HyperLiquid and purchased 49,871 HYPE at an average price of $48.14 per token.</description>
-      <pubDate>Sat, 16 Aug 2025 02:50:11 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 03:10:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24829</guid>
       <category>crypto</category>
@@ -153,12 +152,12 @@
 
     </item>
     <item>
-      <title>An address started a 125,000 U principal roll-up long position on ETH in April, with unrealized gains peaking at $43 million.</title>
-      <link>https://www.lookonchain.com/feeds/24828</link>
-      <description>On August 16th, as per on-chain data analyst Yujin Monitoring, a trader began to take a long position in ETH with only 125,000 USDT in April this year. Currently, the asset size has reached 25 million US dollars.In April, he withdrew 125,000 USDC from 2 addresses and started to take a long position in ETH on Hyperliquid through ChangeNOW and Kucoin. The price of the first ETH long position was $1,490, which was the lowest point of the year.After he started taking a long position in ETH, ETH has been on an upward trend all the way. He continuously added to his position through continuous unrealized gains and rolled the position from the initial few hundred ETH to the current 66,000 ETH position, with a position value of 300 million US dollars. The latest additional position was made at 9 a.m. yesterday.Currently, the address has an unrealized gain of 24.78 million US dollars. Two days ago, when ETH reached a high of $4,788, the unrealized gain even reached 43 million US dollars. T</description>
-      <pubDate>Sat, 16 Aug 2025 02:50:11 +0000</pubDate>
+      <title>The Trump Family Supports Mining Company American Bitcoin&apos;s Plan to Establish Bitcoin Treasury by Acquiring Company in Asia</title>
+      <link>https://www.lookonchain.com/feeds/24832</link>
+      <description>August 16th. As per the Financial Times, a U.S. cryptocurrency mining firm that is backed by the sons of former President Trump, Donald Trump Jr. and Eric Trump, is in the process of seeking acquisition targets in Asia with the aim of building a Bitcoin asset reserve. The company, named American Bitcoin, has commenced discussions with investors regarding potential acquisition deals. It is currently in the process of planning to acquire a publicly listed company in Japan and may concurrently enter the Hong Kong market as well.Three sources with knowledge of the matter have indicated that the company intends to replicate the MicroStrategy model by acquiring a publicly traded company in order to establish a cryptocurrency reserve platform. The Trump family has recently made a notable move into the crypto realm, which has led to a rise in the price of Bitcoin amid a more favorable regulatory environment and has given rise to a wave of &quot;crypto treasury companies&quot; that raise funds t</description>
+      <pubDate>Sat, 16 Aug 2025 03:10:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24828</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24832</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -167,16 +166,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
     <item>
       <title>Ethereum PoS Network Exit Queue Rises to Approximately 873,000 ETH, Equivalent to Around $3.84 Billion</title>
       <link>https://www.lookonchain.com/feeds/24830</link>
       <description>On August 16th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 873,682 ETH. With the current price, approximately $38.84 billion worth of ETH is exiting the PoS network. The withdrawal delay is currently reported to be 15 days and 4 hours. The number of active validators has exceeded 1.08 million, and the staked ETH accounts for 29.45% of the total supply, which is approximately 35.4 million ETH.DeFi analyst Ignas stated that the current surge in unbonded ETH mainly comes from three major liquidity staking platforms. Lido leads with 285,000 ETH in the withdrawal queue, followed by EthFi (134,000 ETH) and Coinbase (113,000 ETH). Although the surge in unbonded ETH may indicate large-scale profit-taking, recent Ethereum Treasury corporate and spot ETH ETFs are absorbing most of the selling pressure.Data from strategicethreserve.xyz shows that since May 1st, the total holdings</description>
-      <pubDate>Sat, 16 Aug 2025 02:50:11 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 03:10:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24830</guid>
       <category>crypto</category>
@@ -193,12 +191,12 @@
 
     </item>
     <item>
-      <title>US Stock Crypto Stock Market Down, SBET Drops Over 15%, BLSH Down 6.82%</title>
-      <link>https://www.lookonchain.com/feeds/24827</link>
-      <description>On August 16th, according to rockflow data, the U.S. stock market closed on Friday with mixed performance. The three major indices showed the following:The Dow Jones initially rose by 0.08%. The S&amp;P 500 Index fell by 0.29%, and the Nasdaq dropped by 0.4%. Cryptocurrency stocks generally declined, including:Coinbase (COIN) fell by 2.26%, with a trading volume of $25.14 billion.Circle (CRCL) rose by 7.20%, with a trading volume of $33.79 billion.MicroStrategy (MSTR) fell by 1.78%, with a trading volume of $47.94 billion.Bullish (BLSH) fell by 6.82%, with a trading volume of $6.46 billion.Bitmine (BMNR) fell by 4.37%, with a trading volume of $33.94 billion.BTCS (BTCS) fell by 1.89%, with a trading volume of $19.98 million.Bit Digital (BTBT) fell by 5.64%, with a trading volume of $77.23 million.SharpLink Gaming (SBET) fell by 15.50%, with a trading volume of $12.47 billion.</description>
-      <pubDate>Sat, 16 Aug 2025 02:50:11 +0000</pubDate>
+      <title>An address started a 125,000 U principal roll-up long position on ETH in April, with unrealized gains peaking at $43 million.</title>
+      <link>https://www.lookonchain.com/feeds/24828</link>
+      <description>On August 16th, as per on-chain data analyst Yujin Monitoring, a trader began to take a long position in ETH with only 125,000 USDT in April this year. Currently, the asset size has reached 25 million US dollars.In April, he withdrew 125,000 USDC from 2 addresses and started to take a long position in ETH on Hyperliquid through ChangeNOW and Kucoin. The price of the first ETH long position was $1,490, which was the lowest point of the year.After he started taking a long position in ETH, ETH has been on an upward trend all the way. He continuously added to his position through continuous unrealized gains and rolled the position from the initial few hundred ETH to the current 66,000 ETH position, with a position value of 300 million US dollars. The latest additional position was made at 9 a.m. yesterday.Currently, the address has an unrealized gain of 24.78 million US dollars. Two days ago, when ETH reached a high of $4,788, the unrealized gain even reached 43 million US dollars. T</description>
+      <pubDate>Sat, 16 Aug 2025 02:10:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24827</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24828</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -207,6 +205,9 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
 
     </item>
   </channel>
