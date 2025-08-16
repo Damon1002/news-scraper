@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Aug 2025 09:58:01 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Aug 2025 09:58:01 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 10:27:13 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 10:27:13 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,68 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Over the last 24 hours, CEX net outflow of 1,435.75 BTC</title>
+      <link>https://www.lookonchain.com/feeds/24870</link>
+      <description>On August 16th, based on Coinglass data, in the past 24 hours, CEX has witnessed a total net outflow of 1,435.75 BTC. The top three exchanges with outflows are as follows:· Coinbase Pro, with an outflow of 1,023.19 BTC;· OKX, with an outflow of 585.67 BTC;· Gemini, with an outflow of 482.79 BTC.In addition, Bitfinex saw an inflow of 242.98 BTC and ranked first in the inflow list.</description>
+      <pubDate>Sat, 16 Aug 2025 10:24:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24870</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>After 5 years of inactivity, a whale holding nearly 24,000 BTC has transferred 3,000 BTC to a new address</title>
+      <link>https://www.lookonchain.com/feeds/24869</link>
+      <description>On August 16th, as per lookonchain, an OG whale possessing 23,969 BTC (valued at $2.82 billion) that had been dormant for 5 years transferred 3,000 BTC (worth $353.16 million) to a new wallet 2 hours ago.</description>
+      <pubDate>Sat, 16 Aug 2025 10:08:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24869</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>OKB Price Surges Over 14% in 24 Hours, Market Cap Reaches $2.296 Billion</title>
+      <link>https://www.lookonchain.com/feeds/24868</link>
+      <description>On August 16th, based on market data, OKB saw a surge of over 14% in the past 24 hours. Its market capitalization rebounded to $22.96 billion.</description>
+      <pubDate>Sat, 16 Aug 2025 10:00:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24868</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>X Layer On-Chain Meme Coin XDOG Market Cap Surges Above $13 Million Temporarily</title>
       <link>https://www.lookonchain.com/feeds/24867</link>
       <description>On August 16th, based on the market data from GMGN, the market capitalization of the XDOG meme coin on the X Layer chain briefly reached over 13 million US dollars, experiencing a 24-hour surge of 540%.BlockBeats reminds users that meme coin prices are extremely volatile. It is recommended to be cautious about asset protection and avoid the fear of missing out (FOMO).</description>
-      <pubDate>Sat, 16 Aug 2025 09:48:08 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 09:48:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24867</guid>
       <category>crypto</category>
@@ -35,7 +93,7 @@
       <title>Suspected Entity Withdraws Over 320,000 LINK from CEX After One-Month Dormancy, Worth $7.17 Million</title>
       <link>https://www.lookonchain.com/feeds/24866</link>
       <description>On August 16th, based on the data from lookonchain, two wallets (presumably belonging to the same entity) withdrew 327,465 LINK from Binance after a month of inactivity. Currently, they are holding a total of 590,056 LINK, which is worth $12.92 million.</description>
-      <pubDate>Sat, 16 Aug 2025 09:32:08 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 09:32:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24866</guid>
       <category>crypto</category>
@@ -50,30 +108,10 @@
 
     </item>
     <item>
-      <title>If Ethereum surpasses $4550, the cumulative short liquidation pressure on major CEXs will reach $1.421 billion.</title>
-      <link>https://www.lookonchain.com/feeds/24865</link>
-      <description>On August 16th, based on Coinglass data, if Ethereum breaks through $4550, the total short liquidation strength on mainstream CEXs will reach $1.421 billion.Conversely, if Ethereum drops below $4350, the total long liquidation strength on mainstream CEXs will reach $1.263 billion.BlockBeats Notes: The liquidation chart does not display the exact number of contracts to be liquidated or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent clusters, that is, the strength.Therefore, the liquidation chart shows the extent to which reaching a certain price level will have an impact. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, a stronger reaction will occur due to a liquidity cascade.</description>
-      <pubDate>Sat, 16 Aug 2025 09:24:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24865</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>The address sold 5299.5 ETH at an average price of $4453, realizing a profit of $11.84 million.</title>
       <link>https://www.lookonchain.com/feeds/24864</link>
       <description>August 16th. Based on ai_9684xtpa&apos;s monitoring, the address 0x90C...0a24C sold 5299.5 ETH on the blockchain at an average price of $4453 within the past 20 minutes, with a total value of approximately $23.6 million. The profit from this sale was $11.84 million. The funds originated from three addresses that accumulated 9154 ETH in batches with an average price of $2218.6 during the period of 2025.02-03.</description>
-      <pubDate>Sat, 16 Aug 2025 09:16:08 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 09:26:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24864</guid>
       <category>crypto</category>
@@ -91,10 +129,30 @@
 
     </item>
     <item>
+      <title>If Ethereum surpasses $4550, the cumulative short liquidation pressure on major CEXs will reach $1.421 billion.</title>
+      <link>https://www.lookonchain.com/feeds/24865</link>
+      <description>On August 16th, based on Coinglass data, if Ethereum breaks through $4550, the total short liquidation strength on mainstream CEXs will reach $1.421 billion.Conversely, if Ethereum drops below $4350, the total long liquidation strength on mainstream CEXs will reach $1.263 billion.BlockBeats Notes: The liquidation chart does not display the exact number of contracts to be liquidated or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent clusters, that is, the strength.Therefore, the liquidation chart shows the extent to which reaching a certain price level will have an impact. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, a stronger reaction will occur due to a liquidity cascade.</description>
+      <pubDate>Sat, 16 Aug 2025 09:26:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24865</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Tiger Global Q2 Stake in Circle, Acquires 125,000 Class A Shares</title>
       <link>https://www.lookonchain.com/feeds/24863</link>
       <description>August 16th. As per the disclosure by the U.S. Securities and Exchange Commission (SEC), Tiger Global Management submitted its second-quarter holdings report (13F) as of June 30, 2025. The figures indicate that Tiger Global&apos;s total holdings in the second quarter amounted to $34.1 billion, which is higher than the $26.6 billion in the previous quarter, representing a quarter-on-quarter growth of 28.2%.In the second quarter of 2025, Tiger Global newly purchased 125,000 shares of Class A stock of the stablecoin issuer Circle (CRCL.US). When Circle&apos;s stock went public in June, it performed well, and since then, its market value has almost increased by a factor of five from the initial public offering price.</description>
-      <pubDate>Sat, 16 Aug 2025 09:09:08 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 09:26:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24863</guid>
       <category>crypto</category>
@@ -111,7 +169,7 @@
       <title>If Bitcoin drops below $116,000, the mainstream CEX long liquidation pressure will reach 1.041 billion</title>
       <link>https://www.lookonchain.com/feeds/24862</link>
       <description>On August 16th, based on Coinglass data, if Bitcoin drops below $116,000, the cumulative long liquidation intensity of mainstream CEXs will amount to $1.041 billion.Conversely, if Bitcoin surges above $119,000, the cumulative short liquidation intensity of mainstream CEXs will reach $1.014 billion.**BlockBeats Note**: The liquidation chart does not precisely display the number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to adjacent clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the underlying price will be influenced when it reaches a certain level. Higher &quot;liquidation bars&quot; indicate that the price will undergo a more intense reaction due to a surge in liquidity.</description>
-      <pubDate>Sat, 16 Aug 2025 09:08:08 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 09:26:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24862</guid>
       <category>crypto</category>
@@ -131,7 +189,7 @@
       <title>Trump: Ukrainian President to Visit Oval Office on Monday Afternoon</title>
       <link>https://www.lookonchain.com/feeds/24861</link>
       <description>On August 16th, President Trump of the US stated that President Zelensky of Ukraine will pay a visit to the Oval Office on Monday afternoon.</description>
-      <pubDate>Sat, 16 Aug 2025 08:57:08 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 09:26:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24861</guid>
       <category>crypto</category>
@@ -142,59 +200,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Crypto Fear and Greed Index has dropped to 56, indicating that the market is still experiencing &quot;greed&quot; sentiment</title>
-      <link>https://www.lookonchain.com/feeds/24860</link>
-      <description>On August 16th, based on alternative data, today&apos;s Crypto Fear and Greed Index has decreased to 56 (yesterday it was 60), with the average of last week being 67, suggesting that the market is still in a &quot;Greed&quot; sentiment.Note: The Fear and Greed Index ranges from 0 to 100 and encompasses the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance Ratio (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sat, 16 Aug 2025 08:57:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24860</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: All parties believe that Russia and Ukraine should reach a peace agreement directly, rather than a ceasefire agreement</title>
-      <link>https://www.lookonchain.com/feeds/24859</link>
-      <description>August 16th, The latest social media post by U.S. President Trump: &quot;Had an extremely successful day in Alaska! The meeting with Russian President Putin proceeded very smoothly. And the late-night calls with Ukrainian President Zelensky and several respected European leaders, including the NATO Secretary General, were also highly productive.&quot;It is widely believed that the most effective way to end the tragic war between Russia and Ukraine is to directly reach a peace agreement to bring the war to a complete end rather than just a ceasefire agreement. Ceasefires often do not last long.President Zelensky is scheduled to travel to Washington, D.C. on Monday afternoon to visit the Oval Office. If all goes well, we will then make arrangements for a meeting with President Putin. This has the potential to save millions of lives. (FXStreet)</description>
-      <pubDate>Sat, 16 Aug 2025 08:57:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24859</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 148,700 ETH in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/24858</link>
-      <description>On August 16th, based on Coinglass data, within the past 24 hours, the total net outflow of Ethereum on CEX was 148,700 ETH. The top three exchanges with outflows are as follows:· Coinbase Pro, with an outflow of 127,600 ETH;· Binance, with an outflow of 73,700 ETH;· Bybit, with an outflow of 8,748.98 ETH.In addition, Kraken witnessed an inflow of 45,400 ETH and ranked first on the inflow list.</description>
-      <pubDate>Sat, 16 Aug 2025 08:57:08 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24858</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
