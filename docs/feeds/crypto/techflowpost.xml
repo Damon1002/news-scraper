@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 05:59:29 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 05:59:29 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 06:39:52 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 06:39:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>以太坊 PoS 网络退出队列升至约 88.8 万枚，加入队列降至约 28.6 万枚</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据验证者队列追踪网站 validatorqueue 数据，当前以太坊 PoS 网络退出队列暂报 888,416 枚，按当前价格计算正在退出 PoS 网络的 ETH 约合 39.7 亿美元，提款延迟现报 15 天 10 小时。与此同时，新验证者激活的质押需求减少，今日准入队列降至 286,175 枚...</description>
+      <pubDate>Sun, 17 Aug 2025 06:27:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Solana 新共识协议 Alpenglow 提案 SIMD-0326 已进入社区治理阶段</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Solana 新共识协议 Alpenglow 提案 SIMD-0326 已进入社区治理阶段，Alpenglow 旨在将区块最终确定时间从 12.8s 缩短至近 150ms，提案将在 Epochs 840~420 进入投票阶段（当前为 834，一个 Epoch 约 2 天），投票表决规则为赞成票占比...</description>
+      <pubDate>Sun, 17 Aug 2025 06:19:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>美联储 9 月降息 25 个基点概率小幅降至 92.1%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 CME美联储观察数据，截至发稿，美联储 9 月降息 25 个基点概率小幅下降至 92.1%，维持利率不变概率 7.9%。</description>
+      <pubDate>Sun, 17 Aug 2025 06:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>BTCS CEO：频繁披露加密货币持仓量不太符合上市公司股东的最佳利益</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，两个地址在过去 7 小时内将 1,791.5 枚 $ETH 换仓为 351,834.6 枚 $LINK，总价值约 784 万美元。</description>
       <pubDate>Sun, 17 Aug 2025 01:30:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>过去 7 天 NFT 交易额环比上涨 30%至 1.73 亿美元，买家和卖家数均上涨超 160%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Crypto.news 报道，CryptoSlam 数据显示，过去一周 NFT 市场交易额增长 30%，达到 1.732 亿美元。NFT 买家激增 190.41% 至 214,716 人，NFT 卖家增加 168.71% 至 115,289 人。NFT 交易笔数下降了 10.65%，至 1,5...</description>
-      <pubDate>Sun, 17 Aug 2025 01:04:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>一新地址从Kraken提出13,538.6枚ETH，约6006万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，一新地址过去 17 小时再次囤积 9046.23 ETH，价值 4005 万美元。昨天至今，其已累计从 Kraken 提出 13,538.6 ETH（约 6006 万美元），平均提出价格 4436 美元。</description>
-      <pubDate>Sun, 17 Aug 2025 00:56:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>The ETF Store总裁：加密资产敞口应通过直接持币或现货ETF获取</title>
-      <link>https://www.techflowpost.com</link>
-      <description>The ETF Store 总裁 Nate Geraci 发推表示，“抛开那些噪音，如果你真的相信比特币或以太坊，那就直接买，或者买现货 ETF 。你不需要‘财库公司’之类的金融工程。”</description>
-      <pubDate>Sun, 17 Aug 2025 00:55:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
