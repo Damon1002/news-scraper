@@ -5,14 +5,74 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:59:12 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 14:59:12 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 15:27:12 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 15:27:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Cross-Chain DeFi Protocol MaiaDAO Launches Ethereum Reserve, Current ETH Holdings Reach 169 Coins</title>
+      <link>https://www.lookonchain.com/feeds/24953</link>
+      <description>On August 17th, based on a post by Strategicethreserve on the X platform, MaiaDAO, a cross-chain DeFi protocol that is capable of supporting automated liquidity management and intention/OFT full-chain exchange, declared the launch of an Ethereum reserve. Currently, the holdings of ETH have reached 169 ETH, which positions MaiaDAO at 64th in the Ethereum Reserve Institution Ranking.</description>
+      <pubDate>Sun, 17 Aug 2025 15:24:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24953</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>A Whale/Institution has accumulated $136 million worth of WBTC and ETH over the past 6 days through a flash loan mechanism.</title>
+      <link>https://www.lookonchain.com/feeds/24952</link>
+      <description>On August 17th, according to Ashes Monitor, a whale/institution has accumulated WBTC and ETH worth $136 million through a flash loan scheme on OKX and Bybit in the past 6 days.Firstly, it withdrew a part of WBTC and ETH from OKX and Bybit and deposited them into Aave. Then, it borrowed USDT and transferred it to Bybit. After that, it continued to withdraw WBTC and ETH from OKX and Bybit.Currently, within 6 days, it has accumulated 918.6 WBTC ($108 million, with an average cost of $118,833) and 6,218 ETH ($28.33 million, with an average cost of $4,511). The borrowed amount on Aave is $29 million.</description>
+      <pubDate>Sun, 17 Aug 2025 15:24:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24952</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Base Ecosystem DeFi Execution Platform Definitive (EDGE) has surged 9x in the past month, with a total market capitalization surpassing $800 million.</title>
+      <link>https://www.lookonchain.com/feeds/24951</link>
+      <description>On August 17th, according to the market information from GMGN, the Base ecosystem&apos;s DeFi execution platform, Definitive (EDGE), has seen a 9-fold surge in the past month. Its total market value has exceeded 800 million US dollars and is now reported at 8.062 billion US dollars. The circulating market value is currently reported at 162.9 million US dollars.It is reported that Definitive is an execution platform and API for DeFi, providing non-custodial smart contracts and automation services across multiple DeFi protocols.BlockBeats reminds users that relevant asset prices are highly volatile, and user investments should be made with caution.</description>
+      <pubDate>Sun, 17 Aug 2025 15:00:19 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24951</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
     <item>
       <title>In the last 24 hours, 4 whale addresses withdrew a total of 404,800 LINK from Binance.</title>
       <link>https://www.lookonchain.com/feeds/24950</link>
@@ -70,7 +130,7 @@
       <title>Solana Achieves Historic High with Single Block Max TPS Reaching 107,664 Times</title>
       <link>https://www.lookonchain.com/feeds/24947</link>
       <description>On August 17th, the Solana network reached a single-block peak transaction throughput of 107,664 transactions per second (TPS), establishing a new all-time high for the network. (Solana Floor)</description>
-      <pubDate>Sun, 17 Aug 2025 14:24:19 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:26:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24947</guid>
       <category>crypto</category>
@@ -87,7 +147,7 @@
       <title>CEX Ethereum Reserve Continues to Decline, Now Only 18.39METH</title>
       <link>https://www.lookonchain.com/feeds/24946</link>
       <description>On August 17th, according to on-chain data from CryptoQuant, the reserve of Ethereum on centralized exchanges (CEX) continues to decline. Currently, only 18.39 million ETH remains, which is the lowest level since October 2022.A similar trend is also observed with Bitcoin. The current reserve of Bitcoin on CEX is around 2.52 million BTC, and it is also at the lowest level since October 2022.</description>
-      <pubDate>Sun, 17 Aug 2025 14:16:19 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:26:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24946</guid>
       <category>crypto</category>
@@ -106,7 +166,7 @@
       <title>The majority of investors participating in the US Bank Global Fund Manager Survey still have a &quot;zero&quot; cryptocurrency exposure.</title>
       <link>https://www.lookonchain.com/feeds/24945</link>
       <description>On August 17th, Nate Geraci, the co-founder of The ETF Institute, mentioned in a post on the X Platform that the vast majority of investors taking part in the Global Fund Manager Survey conducted by a US bank still have a &quot;zero&quot; allocation to cryptocurrency. Among the few investors with exposure, the average portfolio allocation is 3.2%.</description>
-      <pubDate>Sun, 17 Aug 2025 14:08:19 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:26:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24945</guid>
       <category>crypto</category>
@@ -123,63 +183,9 @@
       <title>LINK Surges Over 13% in 24 Hours, Potentially Driven by LINK&apos;s Reserve Risk and On-Chain Inflows</title>
       <link>https://www.lookonchain.com/feeds/24944</link>
       <description>On August 17th, based on HTX market information, LINK surged by more than 13% in the past 24 hours and is currently priced at $24.9125.Chainlink launched the &quot;LINK Reserves Plan&quot; at the beginning of August. It proportionally converts on-chain oracle network revenue and off-chain enterprise service earnings into LINK token reserves. The current reserve size has exceeded one million dollars. In the long term, it will form a supply shock through a continuous buyback mechanism, enhancing the token&apos;s value capture ability.Furthermore, in the past 30 days, LINK has seen a net on-chain inflow of 275,002 tokens ($6.65 million), while CEX reserves have dropped to an 18-month low. Whale holdings have increased from 37% in June to 42%, indicating that institutional-grade funds are accelerating their positions.</description>
-      <pubDate>Sun, 17 Aug 2025 13:58:19 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:26:19 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24944</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>U.S. President Trump: Made Significant Progress with Russia, Stay Tuned</title>
-      <link>https://www.lookonchain.com/feeds/24943</link>
-      <description>On August 17th, US President Trump announced a significant breakthrough in the relations with Russia. Please stay tuned.</description>
-      <pubDate>Sun, 17 Aug 2025 13:58:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24943</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A trader went long on ETH through a rolling contract and made $296 million from $125,000 in 4 months.</title>
-      <link>https://www.lookonchain.com/feeds/24942</link>
-      <description>On August 17th, as monitored by LookOnChain, a trader managed to convert $125,000 into $29.6 million within just 4 months by going long on ETH, achieving a return of 236 times.Four months ago, he deposited $125,000 into Hyperliquid and began going long on ETH through 2 accounts. Then, he cleverly compounded his profits by reinvesting every dollar of gain into his ETH long position, thereby building a massive 66,749 ETH position (worth $303 million).The total equity of his 2 accounts has now increased from $125,000 to $29.6 million.</description>
-      <pubDate>Sun, 17 Aug 2025 12:58:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24942</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Dune Testnet Data for Monad is now live</title>
-      <link>https://www.lookonchain.com/feeds/24941</link>
-      <description>On August 17th, as per official information, the Monad testnet data has been initiated on Dune. Since the commencement of the Monad testnet, there have been more than 2.44 billion successful transactions, attaining a peak in early August with 34 million transactions per day. Additionally, approximately 3 million creators have deployed over 34 million contracts.</description>
-      <pubDate>Sun, 17 Aug 2025 12:58:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24941</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>

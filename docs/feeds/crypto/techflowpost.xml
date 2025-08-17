@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:59:12 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 14:59:12 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 15:27:12 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 15:27:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,65 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>价值超 2.36 亿美元的 1999 枚 BTC 在未知钱包间转移</title>
+      <link>https://www.techflowpost.com</link>
+      <description>1999 枚 BTC（价值 236,390,689 美元）从未知钱包转移至另一未知钱包。</description>
+      <pubDate>Sun, 17 Aug 2025 15:25:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某巨鲸/机构近 6 天以循环贷方式囤积价值 1.36 亿美元 WBTC 和 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，一巨鲸/机构在最近 6 天时间里以循环贷方式通过 OKX 跟 Bybit 囤积了价值 1.36 亿美元的 WBTC 和 ETH。他先是从 OKX 和 Bybit 提出一部分 WBTC 及 ETH 存入 Aave，然后借出 USDT 转进 Bybit，再继续...</description>
+      <pubDate>Sun, 17 Aug 2025 15:24:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>跨链 DeFi 协议 MaiaDAO 启动以太坊储备，当前 ETH 持仓触及169 枚</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Strategicethreserve 在 X 平台发文披露，支持自动管理流动性和意图/OFT 全链交换的跨链 DeFi 协议 MaiaDAO 宣布启动以太坊储备，当前 ETH 持仓量触及 169 枚，在以太坊储备机构排名中暂列第 64 位。</description>
+      <pubDate>Sun, 17 Aug 2025 15:21:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>StarkWare CEO：我们的孩子将以去中心化方式进行交易，真正拥有自己的生活和资产</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Cointelegraph 报道，StarkWare CEO Eli Ben-Sasson 在播客节目中表示：&quot;我们的孩子将以去中心化的方式进行交易，真正拥有他们的生活和资产。&quot;</description>
+      <pubDate>Sun, 17 Aug 2025 15:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Base 生态 DeFi 执行平台 Definitive（EDGE）近一个月涨 9 倍，总市值突破 8 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 GMGN 行情信息，Base 生态 DeFi 的执行平台 Definitive（EDGE）近一个月涨 9 倍，总市值突破 8 亿美元，现报 8.062 亿美元，流通市值现报 1.629 亿美元。</description>
+      <pubDate>Sun, 17 Aug 2025 14:59:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>近24小时，4个鲸鱼地址从Binance共提取40.48万枚LINK</title>
       <link>https://www.techflowpost.com</link>
       <description>据 The Data Nerd 监测，在 24 小时内，4 位鲸鱼从 Binance 总共提取了超 40.4 万枚 LINK。</description>
-      <pubDate>Sun, 17 Aug 2025 14:58:14 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:58:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>日本上市公司 Metaplanet 首席执行官 Simon Gerovich 发推表示，「我听到了人们对近期市场回调的失望。这种感觉很正常。但真正让我们充满信心的是正在构建的基础。让我们共同回顾取得的里程碑，因为随着时间的推移，基本面将占据主导地位。</description>
       <pubDate>Sun, 17 Aug 2025 11:18:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>雄安新区落地首笔疏解央企多边央行数字货币桥业务</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据雄安发布公众号报道，在中国人民银行雄安新区分行的指导和支持下，中国工商银行河北雄安分行结合数字货币桥和跨国公司本外币一体化资金池业务功能特点，为首批疏解央企财务公司中化集团财务有限公司成功办理首笔多边央行数字货币桥业务。</description>
-      <pubDate>Sun, 17 Aug 2025 10:15:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>日本金融服务局将批准首个以日元计价的稳定币 JPYC</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十报道，日本金融服务局将于本月批准该国首次发行以日元计价的稳定币JPYC。金融服务局将注册金融科技公司JPYC Inc.作为汇款业务公司，预计注册后数周内即可开始销售。该数字货币将由政府债券等流动性资产支持，以保持其价值稳定在1 JPYC = 1 日元。</description>
-      <pubDate>Sun, 17 Aug 2025 10:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼地址过去2日从Binance提币72.1万枚LINK，价值1744万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，鲸鱼「0x4eb」在过去两天内从 Binance 提现了 721,294 枚 LINK，价值 1744 万美元。 此外，鲸鱼「0xa36」从 Binance 提现了 169,615 枚 LINK，价值 416 万美元。过去一个...</description>
-      <pubDate>Sun, 17 Aug 2025 09:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸从币安提取 172 万枚 USDC 买入 179 万枚 FARTCOIN</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某鲸鱼地址从 Binance 提币 172 万 USDC，在链上买入 179 万枚 FARTCOIN，买入均价 0.96 美元。</description>
-      <pubDate>Sun, 17 Aug 2025 09:19:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>麻吉大哥在 4550-4800 美元区间挂单 1800 枚 ETH</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，麻吉大哥在 4550-4800 美元区间内挂单 1800 枚 ETH，而其多单开仓价为 4635 美元，意味着他同时设置了涨跌两个方向的安全值，避免自己亏损过多或过于贪心。目前仅成交 100 枚 ETH。</description>
-      <pubDate>Sun, 17 Aug 2025 09:02:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
