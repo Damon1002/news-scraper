@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 19:36:18 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 19:36:18 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 19:47:48 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 19:47:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>Bitwise Analyst: Growing ETH Staked in Withdrawal Queue Could Lead to Significant Market Selling Pressure</title>
       <link>https://www.lookonchain.com/feeds/24954</link>
       <description>On August 17th, the validator exit queue on the Ethereum blockchain reached 855,158 ETH on Friday, setting a new record high. Juan Leon, the Senior Investment Strategist at Bitwise, stated that the increasing amount of ETH that is about to be undelegated may be the cause behind the recent pullback of this asset. The queue of undelegated Ethereum typically has a negative influence on the ETH price and may also bring significant selling pressure to the market.Since staking tokens like stETH can be traded at a discount, and this discount can reduce the collateral value, triggering risk reduction, hedging, or even liquidation. Eventually, this leads to the selling of ETH in the spot market. Leveraged &quot;stETH loop&quot; trades conducted through DeFi protocol liquidity pools will no longer be profitable. Traders will offset their loans by closing positions and selling ETH, resulting in simultaneous selling pressure.</description>
-      <pubDate>Sun, 17 Aug 2025 15:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 15:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24954</guid>
       <category>crypto</category>
@@ -36,7 +36,7 @@
       <title>A Whale/Institution has accumulated $136 million worth of WBTC and ETH over the past 6 days through a flash loan mechanism.</title>
       <link>https://www.lookonchain.com/feeds/24952</link>
       <description>On August 17th, according to Ashes Monitor, a whale/institution has accumulated WBTC and ETH worth $136 million through a flash loan scheme on OKX and Bybit in the past 6 days.Firstly, it withdrew a part of WBTC and ETH from OKX and Bybit and deposited them into Aave. Then, it borrowed USDT and transferred it to Bybit. After that, it continued to withdraw WBTC and ETH from OKX and Bybit.Currently, within 6 days, it has accumulated 918.6 WBTC ($108 million, with an average cost of $118,833) and 6,218 ETH ($28.33 million, with an average cost of $4,511). The borrowed amount on Aave is $29 million.</description>
-      <pubDate>Sun, 17 Aug 2025 15:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 15:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24952</guid>
       <category>crypto</category>
@@ -59,7 +59,7 @@
       <title>Cross-Chain DeFi Protocol MaiaDAO Launches Ethereum Reserve, Current ETH Holdings Reach 169 Coins</title>
       <link>https://www.lookonchain.com/feeds/24953</link>
       <description>On August 17th, based on a post by Strategicethreserve on the X platform, MaiaDAO, a cross-chain DeFi protocol that is capable of supporting automated liquidity management and intention/OFT full-chain exchange, declared the launch of an Ethereum reserve. Currently, the holdings of ETH have reached 169 ETH, which positions MaiaDAO at 64th in the Ethereum Reserve Institution Ranking.</description>
-      <pubDate>Sun, 17 Aug 2025 15:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 15:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24953</guid>
       <category>crypto</category>
@@ -75,46 +75,10 @@
 
     </item>
     <item>
-      <title>Base Ecosystem DeFi Execution Platform Definitive (EDGE) has surged 9x in the past month, with a total market capitalization surpassing $800 million.</title>
-      <link>https://www.lookonchain.com/feeds/24951</link>
-      <description>On August 17th, according to the market information from GMGN, the Base ecosystem&apos;s DeFi execution platform, Definitive (EDGE), has seen a 9-fold surge in the past month. Its total market value has exceeded 800 million US dollars and is now reported at 8.062 billion US dollars. The circulating market value is currently reported at 162.9 million US dollars.It is reported that Definitive is an execution platform and API for DeFi, providing non-custodial smart contracts and automation services across multiple DeFi protocols.BlockBeats reminds users that relevant asset prices are highly volatile, and user investments should be made with caution.</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24951</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>In the last 24 hours, 4 whale addresses withdrew a total of 404,800 LINK from Binance.</title>
-      <link>https://www.lookonchain.com/feeds/24950</link>
-      <description>On August 17th, according to The Data Nerd&apos;s monitoring, in the past 24 hours, 4 whales withdrew a total of more than 404,000 LINK from Binance.- 0x99b: Withdrew 102,250 LINK, which is approximately worth $2.47 million. It now holds 273,000 LINK, which is approximately worth $6.6 million.- 0x4a8: Withdrew 43,133 LINK, approximately worth $1.04 million. It holds 312,300 LINK, approximately worth $7.7 million.- 0xa36: Withdrew 169,600 LINK, approximately worth $4.14 million. It holds 275,000 LINK, approximately worth $7.7 million.- 0x4EB: Withdrew 89,900 LINK, approximately worth $2.17 million. It holds 721,300 LINK, approximately worth $17.44 million.</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24950</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
       <title>Analysis: Companies like Circle, Stripe, etc., are creating proprietary blockchains to have their own settlement layer, aiming to enhance the efficiency, compliance, and revenue of digital asset pa...</title>
       <link>https://www.lookonchain.com/feeds/24949</link>
       <description>August 17th. Circle and Stripe are engaged in building their proprietary blockchain, becoming part of an ever-growing number of projects that are aiming to launch stablecoin and asset tokenization chains. Startups Plasma and Stable have recently obtained funds for developing a dedicated chain for USDT. Securitize is collaborating with Ethena to construct Converge. Ondo Finance announced earlier this year about its upcoming native chain. And just a few days ago, Dinari indicated that it will soon launch a layer-1 network powered by Avalanche for the settlement and clearance of tokenized stocks.Cryptocurrency bank Sygnum&apos;s Chief Client Officer Martin Burgherr stated, &quot;Constructing your own L1 is related to control and strategic positioning. The economics of stablecoins are determined by settlement speed, interoperability, and regulatory coordination. Thus, having a foundational layer enables companies to directly embed compliance, integrate forex engines, and ensure predictable fees.&quot;</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24949</guid>
       <category>crypto</category>
@@ -131,7 +95,7 @@
       <title>An address suspected to be associated with cryptocurrency investor Rudy Kadoch has transferred approximately 1,976,000 CRV to Binance.</title>
       <link>https://www.lookonchain.com/feeds/24948</link>
       <description>On August 17th, according to Arkham&apos;s monitoring data, about nine hours ago, an address that is suspected to be related to cryptocurrency investor Rudy Kadoch transferred approximately 1,976,000 CRV to Binance, with a value of approximately $1.72 million.</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24948</guid>
       <category>crypto</category>
@@ -149,7 +113,7 @@
       <title>Solana Achieves Historic High with Single Block Max TPS Reaching 107,664 Times</title>
       <link>https://www.lookonchain.com/feeds/24947</link>
       <description>On August 17th, the Solana network reached a single-block peak transaction throughput of 107,664 transactions per second (TPS), establishing a new all-time high for the network. (Solana Floor)</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 14:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24947</guid>
       <category>crypto</category>
@@ -163,10 +127,46 @@
 
     </item>
     <item>
+      <title>Base Ecosystem DeFi Execution Platform Definitive (EDGE) has surged 9x in the past month, with a total market capitalization surpassing $800 million.</title>
+      <link>https://www.lookonchain.com/feeds/24951</link>
+      <description>On August 17th, according to the market information from GMGN, the Base ecosystem&apos;s DeFi execution platform, Definitive (EDGE), has seen a 9-fold surge in the past month. Its total market value has exceeded 800 million US dollars and is now reported at 8.062 billion US dollars. The circulating market value is currently reported at 162.9 million US dollars.It is reported that Definitive is an execution platform and API for DeFi, providing non-custodial smart contracts and automation services across multiple DeFi protocols.BlockBeats reminds users that relevant asset prices are highly volatile, and user investments should be made with caution.</description>
+      <pubDate>Sun, 17 Aug 2025 14:46:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24951</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>In the last 24 hours, 4 whale addresses withdrew a total of 404,800 LINK from Binance.</title>
+      <link>https://www.lookonchain.com/feeds/24950</link>
+      <description>On August 17th, according to The Data Nerd&apos;s monitoring, in the past 24 hours, 4 whales withdrew a total of more than 404,000 LINK from Binance.- 0x99b: Withdrew 102,250 LINK, which is approximately worth $2.47 million. It now holds 273,000 LINK, which is approximately worth $6.6 million.- 0x4a8: Withdrew 43,133 LINK, approximately worth $1.04 million. It holds 312,300 LINK, approximately worth $7.7 million.- 0xa36: Withdrew 169,600 LINK, approximately worth $4.14 million. It holds 275,000 LINK, approximately worth $7.7 million.- 0x4EB: Withdrew 89,900 LINK, approximately worth $2.17 million. It holds 721,300 LINK, approximately worth $17.44 million.</description>
+      <pubDate>Sun, 17 Aug 2025 14:46:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24950</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+
+    </item>
+    <item>
       <title>CEX Ethereum Reserve Continues to Decline, Now Only 18.39METH</title>
       <link>https://www.lookonchain.com/feeds/24946</link>
       <description>On August 17th, according to on-chain data from CryptoQuant, the reserve of Ethereum on centralized exchanges (CEX) continues to decline. Currently, only 18.39 million ETH remains, which is the lowest level since October 2022.A similar trend is also observed with Bitcoin. The current reserve of Bitcoin on CEX is around 2.52 million BTC, and it is also at the lowest level since October 2022.</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24946</guid>
       <category>crypto</category>
@@ -185,7 +185,7 @@
       <title>The majority of investors participating in the US Bank Global Fund Manager Survey still have a &quot;zero&quot; cryptocurrency exposure.</title>
       <link>https://www.lookonchain.com/feeds/24945</link>
       <description>On August 17th, Nate Geraci, the co-founder of The ETF Institute, mentioned in a post on the X Platform that the vast majority of investors taking part in the Global Fund Manager Survey conducted by a US bank still have a &quot;zero&quot; allocation to cryptocurrency. Among the few investors with exposure, the average portfolio allocation is 3.2%.</description>
-      <pubDate>Sun, 17 Aug 2025 14:35:26 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:46:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24945</guid>
       <category>crypto</category>
