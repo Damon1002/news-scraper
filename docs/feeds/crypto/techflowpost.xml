@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 05:00:08 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 05:00:08 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 05:30:15 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 05:30:15 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>OKB突破125美元，24小时涨超20%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据行情数据，OKB 突破 125 美元，现报 125.07 美元，24 小时涨幅 20.06%。</description>
+      <pubDate>Sun, 17 Aug 2025 05:28:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>今日恐慌与贪婪指数升至 64，仍处于「贪婪状态」</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Alternative.me 数据，今日加密货币恐慌与贪婪指数升至 64（昨日该指数为 56），表明市场仍处于「贪婪状态」。</description>
+      <pubDate>Sun, 17 Aug 2025 05:26:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>DeFi 智能代理平台 Almanak 完成 845 万美元融资</title>
+      <link>https://www.techflowpost.com</link>
+      <description>DeFi 智能代理平台 Almanak 完成 845 万美元融资，Delphi Labs、HashKey Capital、BanklessVC、NEAR 基金会、RockawayX、Matrix Partners、AppWorks、Sparkle VC、Shima Capital 等参投。Alma...</description>
+      <pubDate>Sun, 17 Aug 2025 05:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Story 联合创始人 Jason Zhao 卸任全职职务，转为战略顾问角色</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 HODL15Capital 数据，BlackRock Bitcoin ETF（$IBIT）本周购入 7,493 枚比特币，过去 15 周累计购入超 16 万枚比特币。</description>
       <pubDate>Sun, 17 Aug 2025 00:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼向 HyperLiquid 存入 1938 万 USDC 以购买 HYPE</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某鲸鱼已向 HyperLiquid 存入 1938 万美元 USDC，用于购买 HYPE。目前，该鲸鱼持有 555,608 枚 HYPE（价值 2562 万美元）和 216 万枚 FARTCOIN（价值 202.6 万美元），...</description>
-      <pubDate>Sun, 17 Aug 2025 00:50:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>渣打银行：挪威主权财富基金在第二季度比特币相关资产持仓增加83%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>渣打银行全球数字资产研究主管 Geoffrey Kendrick 表示，挪威银行投资管理公司（Norges Bank Investment Management）在第二季度将其比特币相关资产持仓增加了 83%。该基金在第二季度将其比特币等值敞口从 6,200 BTC 增至 11,400 BTC，增...</description>
-      <pubDate>Sun, 17 Aug 2025 00:40:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼解除质押1万枚ETH，ETH升值与质押利息合计获利2068万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师余烬（@EmberCN）监测，，一个鲸鱼用户把 1 万枚 ETH 流动性质押了一年半，在今天取回并转进交易所。当初质押时价值 2586 万美元，如今价值 4655 万美元。其获利 2068 万美元：ETH 本身升值 1820 万美元+质押利息 248 万美元。 该鲸鱼是在 2024 年...</description>
-      <pubDate>Sun, 17 Aug 2025 00:38:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
