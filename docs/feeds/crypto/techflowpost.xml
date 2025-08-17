@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 23:47:21 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 23:47:21 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 23:59:14 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 23:59:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>CME“美联储观察”数据：美联储9月降息的概率为84.6%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，CME“美联储观察”数据显示：美联储9月维持利率不变的概率为15.4%，降息25个基点的概率为84.6%。美联储10月维持利率不变的概率为6%，累计降息25个基点的概率为42.4%，累计降息50个基点的概率为51.5%。</description>
+      <pubDate>Sun, 17 Aug 2025 23:55:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>今日链上资金流向：Polygon PoS 净流入 370 万美元，以太坊净流出 560 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Sky（原 MakerDAO）联创 Rune Kek 在过去 40 分钟内使用投资获得的 177 万枚 ENA（价值 129 万美元）回购了 1638 万枚 SKY。据悉，该联创在 40 分钟前从 Ethena 归属合约领取了应为投资所得的 177 万枚 ENA，随后转移至其用于回购 SKY 的地...</description>
       <pubDate>Sun, 17 Aug 2025 12:22:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>贵州都匀公安探索涉案虚拟货币保存新模式，采用冷钱包物理隔绝存储</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据中国新闻网报道，贵州省都匀市公安局在处理涉案虚拟货币保存方面探索出新的实践模式。自 2021 年中国严格禁止虚拟货币交易后，各地公安机关在保存处置涉案虚拟货币方面面临技术难题。都匀公安在办案过程中发现，部分犯罪嫌疑人将非法所得赃款转换为虚拟货币。针对此类情况，当地公安机关采用冷钱包技术，将查封的...</description>
-      <pubDate>Sun, 17 Aug 2025 12:14:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
