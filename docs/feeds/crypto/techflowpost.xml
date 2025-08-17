@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:47:40 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 14:47:40 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 14:59:12 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 14:59:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>近24小时，4个鲸鱼地址从Binance共提取40.48万枚LINK</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 The Data Nerd 监测，在 24 小时内，4 位鲸鱼从 Binance 总共提取了超 40.4 万枚 LINK。</description>
+      <pubDate>Sun, 17 Aug 2025 14:58:14 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>全网 BTC 合约未平仓量达 831.08 亿美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，麻吉大哥在 4550-4800 美元区间内挂单 1800 枚 ETH，而其多单开仓价为 4635 美元，意味着他同时设置了涨跌两个方向的安全值，避免自己亏损过多或过于贪心。目前仅成交 100 枚 ETH。</description>
       <pubDate>Sun, 17 Aug 2025 09:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸从 Kraken 提取 7866 枚 ETH，总持有 ETH 价值约 7535 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸从 Kraken 提取 7866 枚 ETH，价值约 3499 万美元。目前，该巨鲸总共持有 16872 枚 ETH，价值约 7535 万美元。</description>
-      <pubDate>Sun, 17 Aug 2025 08:57:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
