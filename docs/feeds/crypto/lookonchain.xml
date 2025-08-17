@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 13:51:21 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 13:51:21 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 14:10:45 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 14:10:45 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The majority of investors participating in the US Bank Global Fund Manager Survey still have a &quot;zero&quot; cryptocurrency exposure.</title>
+      <link>https://www.lookonchain.com/feeds/24945</link>
+      <description>On August 17th, Nate Geraci, the co-founder of The ETF Institute, mentioned in a post on the X Platform that the vast majority of investors taking part in the Global Fund Manager Survey conducted by a US bank still have a &quot;zero&quot; allocation to cryptocurrency. Among the few investors with exposure, the average portfolio allocation is 3.2%.</description>
+      <pubDate>Sun, 17 Aug 2025 14:08:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24945</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>LINK Surges Over 13% in 24 Hours, Potentially Driven by LINK&apos;s Reserve Risk and On-Chain Inflows</title>
       <link>https://www.lookonchain.com/feeds/24944</link>
       <description>On August 17th, based on HTX market information, LINK surged by more than 13% in the past 24 hours and is currently priced at $24.9125.Chainlink launched the &quot;LINK Reserves Plan&quot; at the beginning of August. It proportionally converts on-chain oracle network revenue and off-chain enterprise service earnings into LINK token reserves. The current reserve size has exceeded one million dollars. In the long term, it will form a supply shock through a continuous buyback mechanism, enhancing the token&apos;s value capture ability.Furthermore, in the past 30 days, LINK has seen a net on-chain inflow of 275,002 tokens ($6.65 million), while CEX reserves have dropped to an 18-month low. Whale holdings have increased from 37% in June to 42%, indicating that institutional-grade funds are accelerating their positions.</description>
-      <pubDate>Sun, 17 Aug 2025 13:48:29 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:48:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24944</guid>
       <category>crypto</category>
@@ -34,7 +51,7 @@
       <title>U.S. President Trump: Made Significant Progress with Russia, Stay Tuned</title>
       <link>https://www.lookonchain.com/feeds/24943</link>
       <description>On August 17th, US President Trump announced a significant breakthrough in the relations with Russia. Please stay tuned.</description>
-      <pubDate>Sun, 17 Aug 2025 13:32:29 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:32:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24943</guid>
       <category>crypto</category>
@@ -51,7 +68,7 @@
       <title>A trader went long on ETH through a rolling contract and made $296 million from $125,000 in 4 months.</title>
       <link>https://www.lookonchain.com/feeds/24942</link>
       <description>On August 17th, as monitored by LookOnChain, a trader managed to convert $125,000 into $29.6 million within just 4 months by going long on ETH, achieving a return of 236 times.Four months ago, he deposited $125,000 into Hyperliquid and began going long on ETH through 2 accounts. Then, he cleverly compounded his profits by reinvesting every dollar of gain into his ETH long position, thereby building a massive 66,749 ETH position (worth $303 million).The total equity of his 2 accounts has now increased from $125,000 to $29.6 million.</description>
-      <pubDate>Sun, 17 Aug 2025 13:16:29 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:16:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24942</guid>
       <category>crypto</category>
@@ -68,27 +85,10 @@
 
     </item>
     <item>
-      <title>Dune Testnet Data for Monad is now live</title>
-      <link>https://www.lookonchain.com/feeds/24941</link>
-      <description>On August 17th, as per official information, the Monad testnet data has been initiated on Dune. Since the commencement of the Monad testnet, there have been more than 2.44 billion successful transactions, attaining a peak in early August with 34 million transactions per day. Additionally, approximately 3 million creators have deployed over 34 million contracts.</description>
-      <pubDate>Sun, 17 Aug 2025 13:09:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24941</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>A new address withdrew 450 Bitcoins from Binance, totaling $53.22 million.</title>
       <link>https://www.lookonchain.com/feeds/24940</link>
       <description>August 17th. As per the monitoring of Onchain Lens, a newly established wallet withdrew 450 BTC from Binance, with a value of $53.22 million.</description>
-      <pubDate>Sun, 17 Aug 2025 13:00:29 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:09:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24940</guid>
       <category>crypto</category>
@@ -108,7 +108,7 @@
       <title>A Whale Deposited 3492 ETH to Binance in the Past 24 Hours, Profiting $17.37 Million</title>
       <link>https://www.lookonchain.com/feeds/24939</link>
       <description>On August 17th, as monitored by Onchain Lens, a whale deposited 3492 ETH into Binance within the past 24 hours. The value of this deposit is $15.57 million, and the profit made is $17.37 million.Initially, two years ago, this whale withdrew 5800 ETH from Binance, with a value of $10.25 million. Currently, this whale still holds 2650 ETH, which is worth $12 million.</description>
-      <pubDate>Sun, 17 Aug 2025 12:50:29 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:09:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24939</guid>
       <category>crypto</category>
@@ -127,12 +127,12 @@
 
     </item>
     <item>
-      <title>Sky Founder will sell $1.29 million worth of ENA to buy back an equivalent amount of SKY</title>
-      <link>https://www.lookonchain.com/feeds/24937</link>
-      <description>On August 17th, Sky (formerly known as MakerDAO), one of its co-founders @RuneKek, used investment to purchase 16.38 million SKY with 1.77 million ENA within the past 40 minutes. This 1.77 million ENA was claimed from the Ethena vesting contract that was supposed to be derived from the investment 40 minutes ago. Then, it was transferred to an address used for repurchasing SKY and exchanged for 16 million SKY. Since early June, he has used the proceeds from staking SKY (USDS and SPK) to repurchase 122 million SKY with today&apos;s ENA, with a total value of $10.21 million at an average price of $0.0836.</description>
-      <pubDate>Sun, 17 Aug 2025 12:50:29 +0000</pubDate>
+      <title>Dune Testnet Data for Monad is now live</title>
+      <link>https://www.lookonchain.com/feeds/24941</link>
+      <description>On August 17th, as per official information, the Monad testnet data has been initiated on Dune. Since the commencement of the Monad testnet, there have been more than 2.44 billion successful transactions, attaining a peak in early August with 34 million transactions per day. Additionally, approximately 3 million creators have deployed over 34 million contracts.</description>
+      <pubDate>Sun, 17 Aug 2025 13:09:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24937</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24941</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -141,14 +141,13 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
       <title>Tom Lee Assesses US Crypto Reserve Policy: Bitcoin Strategic Reserve Ensures US Dominance in Future Digital Transformation</title>
       <link>https://www.lookonchain.com/feeds/24938</link>
       <description>On August 17th, Tom Lee, the newly appointed Chairman of the Board of BitMine, retweeted a tweet by U.S. Treasury Secretary Bennett regarding the U.S. Bitcoin Strategic Reserve and replied that establishing a strategic Bitcoin reserve in the U.S. is an important step in ensuring the country&apos;s leadership in future digital transformation.In the retweeted tweet, Bennett said: &quot;Bitcoin ultimately seized by the federal government will form the foundation of the strategic Bitcoin reserve established by President Trump in the March executive order. Additionally, the Treasury Department is committed to exploring budget-neutral ways to acquire more Bitcoin to expand the reserve and fulfill the President&apos;s commitment to make the U.S. a world Bitcoin superpower.&quot;</description>
-      <pubDate>Sun, 17 Aug 2025 12:50:29 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 13:09:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24938</guid>
       <category>crypto</category>
@@ -164,12 +163,12 @@
 
     </item>
     <item>
-      <title>Metaplanet CEO: Target to Increase Bitcoin Holdings to 30,000 Coins This Year Remains Unchanged</title>
-      <link>https://www.lookonchain.com/feeds/24936</link>
-      <description>On August 17th, Simon Gerovich, the CEO of the publicly traded Japanese company Metaplanet, declared, &quot;The objective this year to augment the Bitcoin holdings to 30,000 coins remains unaltered (presently holding 18,113 BTC), and we are slated to own 1% of all Bitcoin by 2027, adhering to a distinct roadmap that guides daily implementation and long-term aims.&quot;Metaplanet is a company that is entirely transparent, offering reserve verification and making performance dashboard data accessible to everyone. With trust established through verification, Metaplanet, in conjunction with Strategy and other enterprises, is motivating hundreds of global firms to incorporate Bitcoin into their balance sheets, thereby fueling growth and facilitating wider adoption.</description>
-      <pubDate>Sun, 17 Aug 2025 12:50:29 +0000</pubDate>
+      <title>Sky Founder will sell $1.29 million worth of ENA to buy back an equivalent amount of SKY</title>
+      <link>https://www.lookonchain.com/feeds/24937</link>
+      <description>On August 17th, Sky (formerly known as MakerDAO), one of its co-founders @RuneKek, used investment to purchase 16.38 million SKY with 1.77 million ENA within the past 40 minutes. This 1.77 million ENA was claimed from the Ethena vesting contract that was supposed to be derived from the investment 40 minutes ago. Then, it was transferred to an address used for repurchasing SKY and exchanged for 16 million SKY. Since early June, he has used the proceeds from staking SKY (USDS and SPK) to repurchase 122 million SKY with today&apos;s ENA, with a total value of $10.21 million at an average price of $0.0836.</description>
+      <pubDate>Sun, 17 Aug 2025 12:09:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24936</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24937</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -178,17 +177,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Michael Saylor has reissued the Bitcoin Tracker information and may disclose hodling data next week</title>
-      <link>https://www.lookonchain.com/feeds/24935</link>
-      <description>On August 17th, Michael Saylor reposted Bitcoin Tracker information on the X platform and may disclose additional holding data next week. He stated, &quot;Orange Coin is too scarce.&quot;</description>
-      <pubDate>Sun, 17 Aug 2025 11:50:29 +0000</pubDate>
+      <title>Metaplanet CEO: Target to Increase Bitcoin Holdings to 30,000 Coins This Year Remains Unchanged</title>
+      <link>https://www.lookonchain.com/feeds/24936</link>
+      <description>On August 17th, Simon Gerovich, the CEO of the publicly traded Japanese company Metaplanet, declared, &quot;The objective this year to augment the Bitcoin holdings to 30,000 coins remains unaltered (presently holding 18,113 BTC), and we are slated to own 1% of all Bitcoin by 2027, adhering to a distinct roadmap that guides daily implementation and long-term aims.&quot;Metaplanet is a company that is entirely transparent, offering reserve verification and making performance dashboard data accessible to everyone. With trust established through verification, Metaplanet, in conjunction with Strategy and other enterprises, is motivating hundreds of global firms to incorporate Bitcoin into their balance sheets, thereby fueling growth and facilitating wider adoption.</description>
+      <pubDate>Sun, 17 Aug 2025 12:09:53 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24935</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24936</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
