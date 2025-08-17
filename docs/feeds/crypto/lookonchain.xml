@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 05:47:46 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 05:47:46 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 05:59:29 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 05:59:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>BTCS CEO: Frequent Public Disclosure of Crypto Holdings Not Necessarily in Shareholders&apos; Best Interests</title>
+      <link>https://www.lookonchain.com/feeds/24910</link>
+      <description>On August 17th, Charles Allen, the CEO of the Ethereum strategic reserve company BTCS, mentioned that although the cryptocurrency field attaches great importance to real-time transparency, U.S. listed companies adhere to a quarterly disclosure rhythm. For major events, they are required to disclose within 4 days, which is the current stipulation.U.S. listed companies are naturally able to choose to disclose information more frequently as long as they refrain from involving GAAP (Generally Accepted Accounting Principles) metrics that demand auditor review.However, more frequent disclosure is not always beneficial to shareholders. The board has a fiduciary duty to safeguard the interests of shareholders. After all, revealing all one&apos;s cards on the table is not the winning approach in the game.</description>
+      <pubDate>Sun, 17 Aug 2025 05:48:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24910</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>OKB Surges Beyond $125, Up Over 20% in 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/24909</link>
       <description>On August 17th, based on market data, OKB has exceeded $125 and is now trading at $125.07, with a 24-hour increase of 20.06%.</description>
-      <pubDate>Sun, 17 Aug 2025 05:32:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 05:32:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24909</guid>
       <category>crypto</category>
@@ -35,7 +54,7 @@
       <title>X Layer&apos;s on-chain transaction volume in the last 24 hours reached $42.87 million, representing a 253% increase compared to the previous period.</title>
       <link>https://www.lookonchain.com/feeds/24908</link>
       <description>On August 17th, based on geckoterminal data, the on-chain transaction volume of X Layer in the past 24 hours reached $42.87 million, which saw a 253% increase compared to the previous period and there were a total of 26.83 thousand transactions.The meme coin XDOG has a market capitalization of $11.85 million and its 24-hour price increased by 102.6%.BlockBeats reminds users that meme coin prices are highly volatile. Please be cautious about asset protection and avoid the fear of missing out (FOMO).</description>
-      <pubDate>Sun, 17 Aug 2025 05:08:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 05:08:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24908</guid>
       <category>crypto</category>
@@ -53,7 +72,7 @@
       <title>DeFi Smart Agent Platform Almanak Completes $8.45M Funding Round, with Participation from Delphi Labs</title>
       <link>https://www.lookonchain.com/feeds/24907</link>
       <description>On August 17th, as per official channels, the DeFi smart agent platform Almanak announced the conclusion of an $8.45 million financing round. Participating in this round were Delphi Labs, HashKey Capital, BanklessVC, the NEAR Foundation, RockawayX, Matrix Partners, AppWorks, Sparkle VC, Shima Capital, and others.According to the introduction, Almanak intends to create and deploy automated financial strategies by means of financial agents. In contrast to traditional DeFi automation that adheres to static rules, Almanak is establishing a framework to analyze market patterns and manage risks through AI-assisted decision-making.</description>
-      <pubDate>Sun, 17 Aug 2025 04:56:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 04:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24907</guid>
       <category>crypto</category>
@@ -71,7 +90,7 @@
       <title>Bitcoin Rebounds, Reaches $118,000</title>
       <link>https://www.lookonchain.com/feeds/24906</link>
       <description>On August 17th, according to HTX market data, Bitcoin saw a rebound and reached $118,000. It is currently trading at $118,000 with a 24-hour change of 0.22%.</description>
-      <pubDate>Sun, 17 Aug 2025 04:56:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 04:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24906</guid>
       <category>crypto</category>
@@ -91,7 +110,7 @@
       <title>Faraday Future launches the first C10 Treasury Program on the US Stock Market and introduces the C10 Index</title>
       <link>https://www.lookonchain.com/feeds/24905</link>
       <description>August 17th. According to official channels, Faraday Future has put forward and launched the &quot;EAI+Crypto&quot; Dual Flywheel &amp; Dual Bridging Eco Strategy. The company intends to bring the EAI EV asset onto the blockchain, establishing an ecosystem encompassing EAI Mobility + Web3 + Blockchain Technology + Crypto Asset Applications.In addition, Faraday Future has officially initiated the C10 Index, which is the first market crypto asset basket index launched by a US-listed company (excluding stablecoins).Faraday Future has also concurrently released the C10 Treasury, a treasury product based on the &quot;C10 Index.&quot; In the first phase, it aims to purchase a total of $5 to $10 billion worth of crypto assets after obtaining the necessary funds. The initial allocation amount is $30 million.</description>
-      <pubDate>Sun, 17 Aug 2025 04:46:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 04:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24905</guid>
       <category>crypto</category>
@@ -108,7 +127,7 @@
       <title>Upbit Trading Volume Continues to Shrink: ETH, XRP, ADA Currently in Top Three</title>
       <link>https://www.lookonchain.com/feeds/24904</link>
       <description>On August 17th, based on CoinGecko data, in the past 24 hours, Upbit&apos;s trading volume has decreased to $14.68 billion. Among them, the ETH/KRW trading pair accounted for 15.14% of the volume and ranked first in the Korean won trading market. The other top five in terms of volume are: XRP, ADA, BTC, PROVE.</description>
-      <pubDate>Sun, 17 Aug 2025 04:46:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 04:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24904</guid>
       <category>crypto</category>
@@ -127,7 +146,7 @@
       <title>A whale has abandoned the queuing process to withdraw their staked assets, opting to sell 4242.4 stETH in exchange for 4231 ETH.</title>
       <link>https://www.lookonchain.com/feeds/24902</link>
       <description>On August 17th, as per the monitoring of LookOnChain, a whale directly conducted a transaction where 4242.4 stETH was exchanged for 4231 ETH (valued at $18.74 million), and this ETH was deposited into Kraken for sale. During this direct exchange, a loss of 11.4 ETH (approximately $50,500) was incurred.</description>
-      <pubDate>Sun, 17 Aug 2025 03:46:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 03:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24902</guid>
       <category>crypto</category>
@@ -147,7 +166,7 @@
       <title>The Shanghai court in China has concluded a digital collectible fraud case, and the main culprit has been sentenced to eight and a half years in prison.</title>
       <link>https://www.lookonchain.com/feeds/24903</link>
       <description>August 17th. According to the official WeChat account of the First Intermediate People&apos;s Court of Shanghai (Shanghai No. 1 Court), the court has recently concluded a second-instance criminal case related to digital collectibles. The defendants, Wang and Liu, under the pretext of operating a digital collectibles platform, issued digital collectibles whose underlying electronic images were generated by AI. They falsely promoted the appreciation prospects of these digital collectibles and promised a &quot;50% off&quot; guaranteed return of principal. The court ruled that Wang and Liu were guilty of fundraising fraud and sentenced them to eight years and six months and seven years and two months of imprisonment respectively.In October to December 2023, Wang and Liu registered a technology company in Shanghai and focused on a digital collectibles platform. During this period, Wang and Liu used the platform and WeChat groups to publicly promote the sale of digital collectibles to the general public.</description>
-      <pubDate>Sun, 17 Aug 2025 03:46:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 03:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24903</guid>
       <category>crypto</category>
@@ -164,7 +183,7 @@
       <title>Canary CEO: Bitcoin Expected to Reach $150,000 This Year, Ethereum&apos;s Ability to Sustain Its Growth Trajectory Remains Uncertain</title>
       <link>https://www.lookonchain.com/feeds/24901</link>
       <description>On August 17th, as per Decrypt, Steven McClurg, the CEO of Canary Capital, stated that Bitcoin might rise to $150,000 by the end of this year; however, it will encounter a new bear market in 2026. Meanwhile, he is doubtful about whether the recent rise of Ethereum can be maintained.This Bitcoin prediction arrives as the cryptocurrency market is approaching its all-time high and institutional investors are pouring into Bitcoin ETFs.He attributes this current rise to the growth of ETF demand and the expansion of the institutional buyer base, which includes sovereign wealth funds, pension funds, and corporate treasuries.</description>
-      <pubDate>Sun, 17 Aug 2025 03:46:54 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 03:58:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24901</guid>
       <category>crypto</category>
@@ -179,24 +198,6 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Base Layer Token Definitive (EDGE) Market Cap Briefly Surpasses $150 Million, Reaching an All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/24900</link>
-      <description>On August 17th, based on GMGN market data, the on-chain transaction execution platform Definitive&apos;s token EDGE briefly reached a market capitalization of over $1.5 billion. Currently, it stands at $1.46 billion and has hit a new all-time high with a 24-hour increase of 24.58%.</description>
-      <pubDate>Sun, 17 Aug 2025 02:46:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24900</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
