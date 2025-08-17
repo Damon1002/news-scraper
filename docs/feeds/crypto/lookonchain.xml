@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 07:50:49 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 07:50:49 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 08:13:44 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 08:13:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>a16z&apos;s On-Chain Profit Exceeds $12M This Week, Leading Investment Firms</title>
-      <link>https://www.lookonchain.com/feeds/24918</link>
-      <description>On August 17th, based on Nansen data, the venture capital firm a16z achieved a profit of $12.06 million this week through 9 wallet addresses, demonstrating the most outstanding performance among investment firms.Master Ventures and Defiance Capital also achieved on-chain profits of $2.59 million and $0.9428 million respectively this week.</description>
-      <pubDate>Sun, 17 Aug 2025 07:40:56 +0000</pubDate>
+      <title>The current mainstream CEX and DEX funding rate displays a continued market divergence, with both bearish and neutral sentiments coexisting.</title>
+      <link>https://www.lookonchain.com/feeds/24920</link>
+      <description>On August 17th, based on Coinglass data, currently, the funding rates of mainstream CEX and DEX in the market continue to show a divergence, with both bearish and neutral sentiments coexisting. The specific funding rates for mainstream coins are as shown in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applied to perpetual contracts and is a fund exchange mechanism between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it indicates a generally bearish market.</description>
+      <pubDate>Sun, 17 Aug 2025 08:08:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24918</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24920</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,15 +28,30 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Solana&apos;s on-chain AMM and Launchpad platform Heaven&apos;s native token LIGHT has surpassed a market capitalization of 1.3 billion USD</title>
+      <link>https://www.lookonchain.com/feeds/24919</link>
+      <description>On August 17th, according to GMGN market data, the native token LIGHT of the Solana-based AMM and Launchpad platform Heaven has exceeded a market value of 1.3 billion US dollars and is now at 1.35 billion US dollars, hitting an all-time high with a 24-hour growth rate of 62.29%.It is reported that LIGHT is the native token of Heaven and the first token issued on the Heaven platform through Heaven&apos;s Genesis ICO to enter the market. 100% of Heaven&apos;s revenue will be used to buy back LIGHT in real-time through a programmatic mechanism and burn it.</description>
+      <pubDate>Sun, 17 Aug 2025 07:57:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24919</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
     <item>
       <title>A Whale Has Increased Its Holdings by $2.17 Million in LINK, Bringing Its Total Position to $16.43 Million in LINK</title>
       <link>https://www.lookonchain.com/feeds/24917</link>
       <description>On August 17th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale withdrew 89,903 LINK ($2.17 million) from Binance five minutes ago. During the past three days, they have accumulated a total of 721,293.9 LINK ($16.43 million) at an average price of $22.78 per LINK. Currently, they are holding an unrealized gain of $1.11 million.</description>
-      <pubDate>Sun, 17 Aug 2025 07:40:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 07:40:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24917</guid>
       <category>crypto</category>
@@ -52,10 +67,29 @@
 
     </item>
     <item>
+      <title>a16z&apos;s On-Chain Profit Exceeds $12M This Week, Leading Investment Firms</title>
+      <link>https://www.lookonchain.com/feeds/24918</link>
+      <description>On August 17th, based on Nansen data, the venture capital firm a16z achieved a profit of $12.06 million this week through 9 wallet addresses, demonstrating the most outstanding performance among investment firms.Master Ventures and Defiance Capital also achieved on-chain profits of $2.59 million and $0.9428 million respectively this week.</description>
+      <pubDate>Sun, 17 Aug 2025 07:40:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24918</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
       <title>A new address has once again increased its ETH holdings by 3333 coins, accumulating a total position of $74.99 million in ETH.</title>
       <link>https://www.lookonchain.com/feeds/24915</link>
       <description>On August 17th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), an address that began to accumulate ETH yesterday added another 3333 ETH 7 minutes ago, with a value of $14.93 million.This address has already withdrawn a total of 16,872 ETH ($74.99 million) from Kraken, at an average price of $4444.76.</description>
-      <pubDate>Sun, 17 Aug 2025 07:16:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 07:16:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24915</guid>
       <category>crypto</category>
@@ -75,7 +109,7 @@
       <title>Crypto Market Greed Sentiment on the Rise, Today&apos;s Fear and Greed Index at 64</title>
       <link>https://www.lookonchain.com/feeds/24916</link>
       <description>On August 17th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 64 (yesterday it was 56), suggesting a &quot;greed&quot; sentiment in the market.Note: The threshold of the Fear Index is 0-100, and it includes indicators such as Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sun, 17 Aug 2025 07:16:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 07:16:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24916</guid>
       <category>crypto</category>
@@ -92,7 +126,7 @@
       <title>El Salvador has accumulated an additional 8 BTC in the past 7 days, increasing its total holdings to 6271.18 BTC.</title>
       <link>https://www.lookonchain.com/feeds/24914</link>
       <description>On August 17th, based on data from the website of the Salvadoran Ministry of Finance, in the past 7 days, El Salvador has accumulated an extra 8 Bitcoins. As a result, its total Bitcoin holdings have reached 6271.18 BTC, which is worth more than $736 million.</description>
-      <pubDate>Sun, 17 Aug 2025 06:49:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 07:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24914</guid>
       <category>crypto</category>
@@ -111,7 +145,7 @@
       <title>Ethereum PoS Network Exit Queue Increases to around 888,000 ETH, Join Queue Decreases to around 286,000 ETH</title>
       <link>https://www.lookonchain.com/feeds/24913</link>
       <description>August 17th. Based on the data from the Validator Queue tracking website &quot;validatorqueue&quot;, the current exit queue of the Ethereum PoS network is temporarily reported to be 888,416 ETH. When calculated at the current price, approximately 39.7 billion US dollars&apos; worth of ETH is exiting the PoS network. The withdrawal delay is currently reported to be 15 days and 10 hours.At the same time, the staking demand for new validator activations has decreased. Today, the admission queue has dropped to 286,175 ETH, which is worth around 12.81 billion US dollars. The current queuing time for admission is 4 days and 23 hours.</description>
-      <pubDate>Sun, 17 Aug 2025 06:49:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 06:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24913</guid>
       <category>crypto</category>
@@ -130,7 +164,7 @@
       <title>Helius is launching a new feature where transactions can earn SOL rewards.</title>
       <link>https://www.lookonchain.com/feeds/24912</link>
       <description>On August 17th, as per official channels, Helius has made an official announcement regarding the launch of a new feature. Under this feature, users will be able to obtain SOL rewards while conducting transactions. The purpose of this mechanism is to assist users in reaping the profits that were previously obtained by arbitrageurs, thereby making transactions more efficient and rewarding.Specifically, when users complete a transaction (such as buying/selling/exchanging), if the transaction triggers an arbitrage opportunity (for instance, a price update on different trading platforms), the user will receive a 50% reward. The entire transaction process will not have an impact on the execution of the transaction itself, and there is no malicious MEV risk. This model is referred to as &quot;productive MEV&quot; because it can facilitate the timely update of prices and enhance market efficiency.This feature is completely optional for participation and will only be activated when users choose to op</description>
-      <pubDate>Sun, 17 Aug 2025 05:49:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 06:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24912</guid>
       <category>crypto</category>
@@ -147,7 +181,7 @@
       <title>The probability of a 25 basis points interest rate cut by the Federal Reserve in September has slightly decreased to 92.1%.</title>
       <link>https://www.lookonchain.com/feeds/24911</link>
       <description>On August 17th, based on CME&apos;s &quot;FedWatch&quot; data, by the time of this writing, the likelihood of a 25-basis-point rate cut by the Fed in September has somewhat decreased to 92.1%, while the probability of maintaining the interest rate unchanged stands at 7.9%.</description>
-      <pubDate>Sun, 17 Aug 2025 05:49:56 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 06:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24911</guid>
       <category>crypto</category>
@@ -158,43 +192,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BTCS CEO: Frequent Public Disclosure of Crypto Holdings Not Necessarily in Shareholders&apos; Best Interests</title>
-      <link>https://www.lookonchain.com/feeds/24910</link>
-      <description>On August 17th, Charles Allen, the CEO of the Ethereum strategic reserve company BTCS, mentioned that although the cryptocurrency field attaches great importance to real-time transparency, U.S. listed companies adhere to a quarterly disclosure rhythm. For major events, they are required to disclose within 4 days, which is the current stipulation.U.S. listed companies are naturally able to choose to disclose information more frequently as long as they refrain from involving GAAP (Generally Accepted Accounting Principles) metrics that demand auditor review.However, more frequent disclosure is not always beneficial to shareholders. The board has a fiduciary duty to safeguard the interests of shareholders. After all, revealing all one&apos;s cards on the table is not the winning approach in the game.</description>
-      <pubDate>Sun, 17 Aug 2025 05:49:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24910</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>OKB Surges Beyond $125, Up Over 20% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/24909</link>
-      <description>On August 17th, based on market data, OKB has exceeded $125 and is now trading at $125.07, with a 24-hour increase of 20.06%.</description>
-      <pubDate>Sun, 17 Aug 2025 05:49:56 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24909</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
