@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 11:52:33 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 11:52:33 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:26:35 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 12:26:35 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Sky Founder will sell $1.29 million worth of ENA to buy back an equivalent amount of SKY</title>
+      <link>https://www.lookonchain.com/feeds/24937</link>
+      <description>On August 17th, Sky (formerly known as MakerDAO), one of its co-founders @RuneKek, used investment to purchase 16.38 million SKY with 1.77 million ENA within the past 40 minutes. This 1.77 million ENA was claimed from the Ethena vesting contract that was supposed to be derived from the investment 40 minutes ago. Then, it was transferred to an address used for repurchasing SKY and exchanged for 16 million SKY. Since early June, he has used the proceeds from staking SKY (USDS and SPK) to repurchase 122 million SKY with today&apos;s ENA, with a total value of $10.21 million at an average price of $0.0836.</description>
+      <pubDate>Sun, 17 Aug 2025 12:25:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24937</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Metaplanet CEO: Target to Increase Bitcoin Holdings to 30,000 Coins This Year Remains Unchanged</title>
+      <link>https://www.lookonchain.com/feeds/24936</link>
+      <description>On August 17th, Simon Gerovich, the CEO of the publicly traded Japanese company Metaplanet, declared, &quot;The objective this year to augment the Bitcoin holdings to 30,000 coins remains unaltered (presently holding 18,113 BTC), and we are slated to own 1% of all Bitcoin by 2027, adhering to a distinct roadmap that guides daily implementation and long-term aims.&quot;Metaplanet is a company that is entirely transparent, offering reserve verification and making performance dashboard data accessible to everyone. With trust established through verification, Metaplanet, in conjunction with Strategy and other enterprises, is motivating hundreds of global firms to incorporate Bitcoin into their balance sheets, thereby fueling growth and facilitating wider adoption.</description>
+      <pubDate>Sun, 17 Aug 2025 12:24:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24936</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Michael Saylor has reissued the Bitcoin Tracker information and may disclose hodling data next week</title>
+      <link>https://www.lookonchain.com/feeds/24935</link>
+      <description>On August 17th, Michael Saylor reposted Bitcoin Tracker information on the X platform and may disclose additional holding data next week. He stated, &quot;Orange Coin is too scarce.&quot;</description>
+      <pubDate>Sun, 17 Aug 2025 12:16:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24935</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha has launched Wilder World (WILD), with an airdrop threshold of 200 Alpha Points.</title>
+      <link>https://www.lookonchain.com/feeds/24934</link>
+      <description>August 17th. As per official channels, users possessing at least 200 Binance Alpha Points are eligible to claim an airdrop of 100 WILD tokens. The first come, first served principle applies. In case the event is still ongoing, the points threshold will automatically decrease by 15 points every hour.Furthermore, Binance will initiate a WILD trading competition with a prize pool of 2,500,000 WILD.</description>
+      <pubDate>Sun, 17 Aug 2025 12:16:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24934</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The city of Duyun in Guizhou, China is exploring a method for handling seized virtual currencies, where the assets are frozen and then confiscated to a cold wallet for physical isolation.</title>
+      <link>https://www.lookonchain.com/feeds/24933</link>
+      <description>After China strictly prohibited cryptocurrency trading in 2021, handling and disposing of relevant cryptocurrencies has become a difficult issue for public security bureaus across the country. Recently, a journalist from China News Service accompanied the &quot;Guardianship in the Sun&quot; rule of law public security thematic publicity event media interview team of the Ministry of Public Security to enter the Joint Custody Center of Involved Property in Duyun City, Qiannan Buyei and Miao Autonomous Prefecture, Guizhou Province, to understand the local public security&apos;s practical approach to preserving involved cryptocurrencies.During their investigations, the public security organs discovered that some criminal suspects had converted their illegally obtained proceeds into cryptocurrencies. In the process of sealing the assets, the Duyun public security authorities froze the involved cryptocurrencies and placed them in a cold wallet physically isolated within the public security authority. The</description>
+      <pubDate>Sun, 17 Aug 2025 12:08:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24933</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>Xiong&apos;an New Area Completes First Transaction of Resettlement Multinational Central Bank Digital Currency Bridge Business</title>
       <link>https://www.lookonchain.com/feeds/24932</link>
       <description>August 17th. According to a report from Xiong&apos;an which was issued on its official WeChat account, with the guidance and support of the Xiong&apos;an Branch of the People&apos;s Bank of China, the Industrial and Commercial Bank of China (ICBC) Xiong&apos;an Branch. By combining the characteristics of a digital currency bridge and the onshore and offshore integrated fund pool business of a multinational corporation, it successfully completed the first transaction of a multi-party central bank digital currency bridge for the financial clearance of the Sinochem Group Financial Limited Company, a finance company of a central enterprise.</description>
-      <pubDate>Sun, 17 Aug 2025 11:48:40 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 11:48:42 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24932</guid>
       <category>crypto</category>
@@ -34,9 +126,26 @@
       <title>Japan to Approve First JPY-Backed Stablecoin JPYC</title>
       <link>https://www.lookonchain.com/feeds/24931</link>
       <description>On August 17th, as per Nikkei News, the Japan Financial Services Agency is set to approve the country&apos;s first issuance of a yen-denominated stablecoin named JPYC this month. The Japan Financial Services Agency will register the fintech company JPYC Inc. as a funds transfer business operator, and sales are anticipated to commence a few weeks after the registration. This digital currency will be underpinned by liquid assets like government bonds to keep its value stable at 1 JPYC equaling 1 yen.</description>
-      <pubDate>Sun, 17 Aug 2025 10:51:40 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 10:25:42 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24931</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Macro News Week Ahead: Fed Meeting Minutes, Latest Jobless Claims to Be Released on Thursday, Powell to Speak at Central Bank Symposium on Friday</title>
+      <link>https://www.lookonchain.com/feeds/24930</link>
+      <description>August 17th, Beijing Time:Next Thursday at 2:00 AM, the Federal Reserve will make public the most recent minutes of its monetary policy meeting. At 3:00 AM, 2027 FOMC voter and the President of the Atlanta Fed, Bostic, will give a speech on the economic outlook.Next Thursday at 8:30 PM, the US Department of Labor will issue the initial jobless claims data for the week ending August 16th.Next Friday at 10:00 PM, the Fed Chair, Powell, will present a speech at the Jackson Hole Global Central Bankers Conference.</description>
+      <pubDate>Sun, 17 Aug 2025 10:25:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24930</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +160,7 @@
       <title>A whale address has withdrawn 721,000 LINK from Binance in the past 2 days, worth $17.44 million.</title>
       <link>https://www.lookonchain.com/feeds/24929</link>
       <description>On August 17th, as monitored by Onchain Lens, Whale &apos;0x4eb&apos; withdrew 721,294 LINK from Binance within the past two days, with a value of $17.44 million.Moreover, Whale &apos;0xa36&apos; withdrew 169,615 LINK from Binance, amounting to $4.16 million. Over the past month, this whale has accumulated a total of 275,002 LINK, valued at $6.65 million.</description>
-      <pubDate>Sun, 17 Aug 2025 09:51:40 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 09:25:42 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24929</guid>
       <category>crypto</category>
@@ -70,7 +179,7 @@
       <title>A whale address bought 1.79 million FARTCOIN at an average price of $0.96.</title>
       <link>https://www.lookonchain.com/feeds/24928</link>
       <description>On August 17th, as monitored by Onchain Lens, a whale address withdrew 1.72 million USDC from Binance. Subsequently, it bought 1.79 million FARTCOIN on the blockchain with an average purchase price of $0.96.</description>
-      <pubDate>Sun, 17 Aug 2025 09:51:40 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 09:25:42 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24928</guid>
       <category>crypto</category>
@@ -83,117 +192,6 @@
       <category>initial-load</category>
       <category>whale</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Macro News Week Ahead: Fed Meeting Minutes, Latest Jobless Claims to Be Released on Thursday, Powell to Speak at Central Bank Symposium on Friday</title>
-      <link>https://www.lookonchain.com/feeds/24930</link>
-      <description>August 17th, Beijing Time:Next Thursday at 2:00 AM, the Federal Reserve will make public the most recent minutes of its monetary policy meeting. At 3:00 AM, 2027 FOMC voter and the President of the Atlanta Fed, Bostic, will give a speech on the economic outlook.Next Thursday at 8:30 PM, the US Department of Labor will issue the initial jobless claims data for the week ending August 16th.Next Friday at 10:00 PM, the Fed Chair, Powell, will present a speech at the Jackson Hole Global Central Bankers Conference.</description>
-      <pubDate>Sun, 17 Aug 2025 09:51:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24930</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale address withdrew 7866 ETH from Kraken again 2 hours ago</title>
-      <link>https://www.lookonchain.com/feeds/24927</link>
-      <description>On August 17th, as monitored by Onchain Lens, a whale address withdrew another 7866 ETH from Kraken 2 hours ago. The value of this withdrawal is approximately $34.99 million. Currently, this whale address holds a total of 16,872 ETH, with a value of $75.35 million.</description>
-      <pubDate>Sun, 17 Aug 2025 08:51:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24927</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Ethereum Surges, Briefly Breaks Above $4550</title>
-      <link>https://www.lookonchain.com/feeds/24926</link>
-      <description>On August 17th, based on HTX market data, Ethereum witnessed a rebound and briefly surpassed $4550. It is currently trading at $4547, with a 24-hour increase of 2.28%.</description>
-      <pubDate>Sun, 17 Aug 2025 08:51:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24926</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「The Big Bro」 placed a sell limit order for 1800 ETH in the $4550 to $4800 range to reduce risk</title>
-      <link>https://www.lookonchain.com/feeds/24925</link>
-      <description>August 17th. According to on-chain analyst Ai Yi (@ai_9684xtpa), when ETH surged above $4500, &quot;Big Brother Ma Ji&quot; Huang Licheng placed a 1800 ETH limit order within the [4550~4800] range. His long position entry price was $4,635, suggesting that &quot;Big Brother Ma Ji&quot; simultaneously established safety values for both upward and downward movements in order to avoid excessive losses or excessive greed. Currently, only 100 ETH have been traded.His 25x leveraged ETH long position is currently experiencing a floating loss of $2.08 million, while his 40x leveraged BTC long position has a floating profit of $78,000, and the overall position is worth $110 million.</description>
-      <pubDate>Sun, 17 Aug 2025 08:51:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24925</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will conduct an airdrop today at 20:00 UTC, with a claiming threshold of 200 points.</title>
-      <link>https://www.lookonchain.com/feeds/24924</link>
-      <description>On August 17th, as per an official announcement, Binance Alpha is scheduled to conduct an airdrop at 20:00 (UTC) today. Users who hold at least 200 Binance Alpha points are eligible to claim the airdropped tokens on a first-come, first-served basis. This process will continue until the airdrop pool is exhausted or the event comes to an end. Additional details will be announced separately.</description>
-      <pubDate>Sun, 17 Aug 2025 08:51:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24924</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Public Blockchain Activity Top 7-Day Rankings: Solana Holds Firm at the Top</title>
-      <link>https://www.lookonchain.com/feeds/24923</link>
-      <description>August 17th. Based on Nansen data, the top five blockchains in terms of the number of active addresses over the past 7 days are as follows: Solana (20.71 million), BNB Chain (10.26 million), Base (7.192 million), Tron (6.317 million), and Sei (5.069 million).</description>
-      <pubDate>Sun, 17 Aug 2025 08:51:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24923</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
