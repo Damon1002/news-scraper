@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Aug 2025 08:56:15 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Aug 2025 08:56:15 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 09:22:48 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 09:22:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,70 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A whale address withdrew 7866 ETH from Kraken again 2 hours ago</title>
+      <link>https://www.lookonchain.com/feeds/24927</link>
+      <description>On August 17th, as monitored by Onchain Lens, a whale address withdrew another 7866 ETH from Kraken 2 hours ago. The value of this withdrawal is approximately $34.99 million. Currently, this whale address holds a total of 16,872 ETH, with a value of $75.35 million.</description>
+      <pubDate>Sun, 17 Aug 2025 09:16:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24927</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>「The Big Bro」 placed a sell limit order for 1800 ETH in the $4550 to $4800 range to reduce risk</title>
+      <link>https://www.lookonchain.com/feeds/24925</link>
+      <description>August 17th. According to on-chain analyst Ai Yi (@ai_9684xtpa), when ETH surged above $4500, &quot;Big Brother Ma Ji&quot; Huang Licheng placed a 1800 ETH limit order within the [4550~4800] range. His long position entry price was $4,635, suggesting that &quot;Big Brother Ma Ji&quot; simultaneously established safety values for both upward and downward movements in order to avoid excessive losses or excessive greed. Currently, only 100 ETH have been traded.His 25x leveraged ETH long position is currently experiencing a floating loss of $2.08 million, while his 40x leveraged BTC long position has a floating profit of $78,000, and the overall position is worth $110 million.</description>
+      <pubDate>Sun, 17 Aug 2025 09:08:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24925</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Surges, Briefly Breaks Above $4550</title>
+      <link>https://www.lookonchain.com/feeds/24926</link>
+      <description>On August 17th, based on HTX market data, Ethereum witnessed a rebound and briefly surpassed $4550. It is currently trading at $4547, with a 24-hour increase of 2.28%.</description>
+      <pubDate>Sun, 17 Aug 2025 09:08:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24926</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Binance Alpha will conduct an airdrop today at 20:00 UTC, with a claiming threshold of 200 points.</title>
       <link>https://www.lookonchain.com/feeds/24924</link>
       <description>On August 17th, as per an official announcement, Binance Alpha is scheduled to conduct an airdrop at 20:00 (UTC) today. Users who hold at least 200 Binance Alpha points are eligible to claim the airdropped tokens on a first-come, first-served basis. This process will continue until the airdrop pool is exhausted or the event comes to an end. Additional details will be announced separately.</description>
-      <pubDate>Sun, 17 Aug 2025 08:32:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 08:32:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24924</guid>
       <category>crypto</category>
@@ -34,7 +94,7 @@
       <title>Public Blockchain Activity Top 7-Day Rankings: Solana Holds Firm at the Top</title>
       <link>https://www.lookonchain.com/feeds/24923</link>
       <description>August 17th. Based on Nansen data, the top five blockchains in terms of the number of active addresses over the past 7 days are as follows: Solana (20.71 million), BNB Chain (10.26 million), Base (7.192 million), Tron (6.317 million), and Sei (5.069 million).</description>
-      <pubDate>Sun, 17 Aug 2025 08:24:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 08:24:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24923</guid>
       <category>crypto</category>
@@ -51,7 +111,7 @@
       <title>Securities and Futures CommissionIntermediaries Division Executive Director: Some companies have stated that they plan to apply for a stablecoin license, causing their stock prices to rise. Investo...</title>
       <link>https://www.lookonchain.com/feeds/24922</link>
       <description>August 17th. According to the report in Ming Pao, Leung Chee-hing, the executive director of the Intermediaries Division of the Hong Kong Securities and Futures Commission (SFC), stated that after the recent implementation of the &quot;Stablecoin Regulation,&quot; some companies have claimed to have applied for a license or intended to do so, which has led to an increase in their stock prices. He pointed out that investors&apos; responses have been very enthusiastic and urged investors to maintain a &quot;line of reason.&quot; The SFC is concerned about the increased risk of fraud.Leung Chee-hing stated that in the first half of this year, there were 265 complaints related to virtual asset trading, mainly involving overseas investors investing abroad and reporting monetary losses. The reasons included falling victim to fraud, assets being stolen due to platform hacking, platforms refusing to acknowledge winnings, or the trading counterparty being accused of money laundering, resulting in sudden fund f</description>
-      <pubDate>Sun, 17 Aug 2025 08:16:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 08:21:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24922</guid>
       <category>crypto</category>
@@ -68,7 +128,7 @@
       <title>Stablecoin Total Market Cap Grows by 2.18% in the Past 7 Days, Surpassing $276.9 Billion</title>
       <link>https://www.lookonchain.com/feeds/24921</link>
       <description>On August 17th, as per the data from DefiLlama, the current total market value of stablecoins across the entire network is reported to be $2769.16 billion. There has been a 2.18% increase in the past 7 days. Among them, USDT accounts for 60.12% of the market share.</description>
-      <pubDate>Sun, 17 Aug 2025 08:16:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 08:21:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24921</guid>
       <category>crypto</category>
@@ -86,7 +146,7 @@
       <title>The current mainstream CEX and DEX funding rate displays a continued market divergence, with both bearish and neutral sentiments coexisting.</title>
       <link>https://www.lookonchain.com/feeds/24920</link>
       <description>On August 17th, based on Coinglass data, currently, the funding rates of mainstream CEX and DEX in the market continue to show a divergence, with both bearish and neutral sentiments coexisting. The specific funding rates for mainstream coins are as shown in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applied to perpetual contracts and is a fund exchange mechanism between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it indicates a generally bearish market.</description>
-      <pubDate>Sun, 17 Aug 2025 08:08:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 08:21:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24920</guid>
       <category>crypto</category>
@@ -103,7 +163,7 @@
       <title>Solana&apos;s on-chain AMM and Launchpad platform Heaven&apos;s native token LIGHT has surpassed a market capitalization of 1.3 billion USD</title>
       <link>https://www.lookonchain.com/feeds/24919</link>
       <description>On August 17th, according to GMGN market data, the native token LIGHT of the Solana-based AMM and Launchpad platform Heaven has exceeded a market value of 1.3 billion US dollars and is now at 1.35 billion US dollars, hitting an all-time high with a 24-hour growth rate of 62.29%.It is reported that LIGHT is the native token of Heaven and the first token issued on the Heaven platform through Heaven&apos;s Genesis ICO to enter the market. 100% of Heaven&apos;s revenue will be used to buy back LIGHT in real-time through a programmatic mechanism and burn it.</description>
-      <pubDate>Sun, 17 Aug 2025 07:57:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 08:21:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24919</guid>
       <category>crypto</category>
@@ -117,29 +177,10 @@
 
     </item>
     <item>
-      <title>A Whale Has Increased Its Holdings by $2.17 Million in LINK, Bringing Its Total Position to $16.43 Million in LINK</title>
-      <link>https://www.lookonchain.com/feeds/24917</link>
-      <description>On August 17th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a whale withdrew 89,903 LINK ($2.17 million) from Binance five minutes ago. During the past three days, they have accumulated a total of 721,293.9 LINK ($16.43 million) at an average price of $22.78 per LINK. Currently, they are holding an unrealized gain of $1.11 million.</description>
-      <pubDate>Sun, 17 Aug 2025 07:55:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24917</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>a16z&apos;s On-Chain Profit Exceeds $12M This Week, Leading Investment Firms</title>
       <link>https://www.lookonchain.com/feeds/24918</link>
       <description>On August 17th, based on Nansen data, the venture capital firm a16z achieved a profit of $12.06 million this week through 9 wallet addresses, demonstrating the most outstanding performance among investment firms.Master Ventures and Defiance Capital also achieved on-chain profits of $2.59 million and $0.9428 million respectively this week.</description>
-      <pubDate>Sun, 17 Aug 2025 07:55:23 +0000</pubDate>
+      <pubDate>Sun, 17 Aug 2025 07:21:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/24918</guid>
       <category>crypto</category>
@@ -152,43 +193,6 @@
       <category>initial-load</category>
       <category>high-value</category>
       <category>profit</category>
-
-    </item>
-    <item>
-      <title>A new address has once again increased its ETH holdings by 3333 coins, accumulating a total position of $74.99 million in ETH.</title>
-      <link>https://www.lookonchain.com/feeds/24915</link>
-      <description>On August 17th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), an address that began to accumulate ETH yesterday added another 3333 ETH 7 minutes ago, with a value of $14.93 million.This address has already withdrawn a total of 16,872 ETH ($74.99 million) from Kraken, at an average price of $4444.76.</description>
-      <pubDate>Sun, 17 Aug 2025 06:55:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24915</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Crypto Market Greed Sentiment on the Rise, Today&apos;s Fear and Greed Index at 64</title>
-      <link>https://www.lookonchain.com/feeds/24916</link>
-      <description>On August 17th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 64 (yesterday it was 56), suggesting a &quot;greed&quot; sentiment in the market.Note: The threshold of the Fear Index is 0-100, and it includes indicators such as Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sun, 17 Aug 2025 06:55:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24916</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
