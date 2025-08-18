@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Aug 2025 15:32:46 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2025 15:32:46 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 15:50:36 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 15:50:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,51 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Injective is launching an on-chain NVIDIA H100 GPU rental fee market</title>
-      <link>https://www.lookonchain.com/feeds/25077</link>
-      <description>On August 18th, according to official channels, Injective has entered into a partnership with the hashing power marketplace development company Squaretower to launch the world&apos;s first on-chain NVIDIA H100 GPU hourly rental rate trading market. By leveraging Squaretower&apos;s custom oracle, this market updates the hourly H100 rental prices provided by top hash power suppliers. This revolutionary innovation converts the real-time rental price of a crucial component of AI infrastructure - NVIDIA&apos;s flagship H100 GPU - into a tradable on-chain asset, thereby opening up a new realm for decentralized finance.</description>
-      <pubDate>Mon, 18 Aug 2025 15:08:53 +0000</pubDate>
+      <title>Within the last 24 hours, the entire network has seen a total of $587 million in liquidations, with the majority coming from long positions.</title>
+      <link>https://www.lookonchain.com/feeds/25080</link>
+      <description>On August 18th, based on Coinglass data, the total value that was liquidated across the entire network within the past 24 hours reached $587 million. A total of 133,228 individuals were liquidated globally. The amount of long liquidations was $504 million, and the amount of short liquidations was $82.32 million.</description>
+      <pubDate>Mon, 18 Aug 2025 15:49:43 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25077</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25080</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>US Stock Ethereum Strategy Stocks saw mixed results, with BTCS rising by 7.48% and BMNR falling by 3.82%.</title>
+      <link>https://www.lookonchain.com/feeds/25079</link>
+      <description>On August 18th, based on market data, US stock Ethereum strategy stocks showed mixed performances during the trading session. These include:- Bitmine (BMNR), down 3.82%.- BTCS (BTCS), up 7.48%.- SharpLink Gaming (SBET), up 4.08%.- GameSquare (GAME), up 3.64%.- ETHZilla (ETHZ), down 5.04%.- Bit Digital (BTBT), down 1.16%.</description>
+      <pubDate>Mon, 18 Aug 2025 15:40:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25079</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Coinbase Launches SOL and XRP Perpetual Contracts</title>
+      <link>https://www.lookonchain.com/feeds/25078</link>
+      <description>On August 18th, Coinbase Futures officially announced on social media that U.S. traders are now able to access SOL and XRP perpetual futures contracts on the Coinbase exchange and obtain 5x leverage in a secure and regulated environment.</description>
+      <pubDate>Mon, 18 Aug 2025 15:40:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25078</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +73,7 @@
       <title>A whale address bought 3.59 million AERO tokens, with an average price of $1.40 each.</title>
       <link>https://www.lookonchain.com/feeds/25076</link>
       <description>On August 18th, as per the monitoring of Onchain Lens, a whale address spent 5.05 million USDC 14 hours ago and purchased 3.59 million AERO at an average price of $1.4.</description>
-      <pubDate>Mon, 18 Aug 2025 15:08:53 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 15:08:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25076</guid>
       <category>crypto</category>
@@ -50,10 +89,27 @@
 
     </item>
     <item>
+      <title>Injective is launching an on-chain NVIDIA H100 GPU rental fee market</title>
+      <link>https://www.lookonchain.com/feeds/25077</link>
+      <description>On August 18th, according to official channels, Injective has entered into a partnership with the hashing power marketplace development company Squaretower to launch the world&apos;s first on-chain NVIDIA H100 GPU hourly rental rate trading market. By leveraging Squaretower&apos;s custom oracle, this market updates the hourly H100 rental prices provided by top hash power suppliers. This revolutionary innovation converts the real-time rental price of a crucial component of AI infrastructure - NVIDIA&apos;s flagship H100 GPU - into a tradable on-chain asset, thereby opening up a new realm for decentralized finance.</description>
+      <pubDate>Mon, 18 Aug 2025 15:08:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25077</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Tom Lee: Historic Opportunity Unfolding in the Ethereum Ecosystem, Poised to Witness Unprecedented Wave of Innovation</title>
       <link>https://www.lookonchain.com/feeds/25075</link>
       <description>On August 18th, Tom Lee, the newly appointed Chairman of the Board of BitMine, stated in a post on Design Media that when the United States abandoned the gold standard in 1971, many people focused on gold. However, the real winner was Wall Street. With the vigorous development of the trading system and financial infrastructure, the modern financial landscape was established.Today, with the progress of the White House&apos;s &quot;GENIUS Act&quot; and the SEC&apos;s &quot;Project Crypto&quot;, a similar historical opportunity is emerging within the Ethereum ecosystem. When this digital financial infrastructure is in place, we will witness an unprecedented wave of innovation.</description>
-      <pubDate>Mon, 18 Aug 2025 14:56:53 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 14:56:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25075</guid>
       <category>crypto</category>
@@ -72,7 +128,7 @@
       <title>A whale address added 111,000 LINK to its position 3 hours ago, bringing the total holdings to 1,040,000 LINK.</title>
       <link>https://www.lookonchain.com/feeds/25073</link>
       <description>On August 18th, as monitored by on-chain analyst Ai Auntie (@ai_9684xtpa), the address 0x4EB...3d5aF is said to have reaccumulated 111,310 LINK tokens 3 hours ago, with a value of $2.76 million.Currently, this address holds a total of 1.044 million LINK tokens (approximately $24.64 million), and the average entry price is $23.6, resulting in an unrealized profit of $1.093 million.</description>
-      <pubDate>Mon, 18 Aug 2025 14:40:53 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 14:49:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25073</guid>
       <category>crypto</category>
@@ -90,7 +146,7 @@
       <title>Sky Protocol spent $1.39 million last week to buy back 17.32 million SKY tokens</title>
       <link>https://www.lookonchain.com/feeds/25072</link>
       <description>August 18th. The team of The Sky Protocol (formerly known as MakerDAO) officially announced on social media that the protocol spent $1.39 million during the previous week to repurchase 17.32 million SKY tokens.</description>
-      <pubDate>Mon, 18 Aug 2025 14:40:53 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 14:49:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25072</guid>
       <category>crypto</category>
@@ -108,7 +164,7 @@
       <title>「BNB Version of MicroStrategy」 BNC Plunges 17.42% Intraday</title>
       <link>https://www.lookonchain.com/feeds/25074</link>
       <description>On August 18th, based on market data, the &quot;BNB Version Microstrategy&quot; in the US stock market, BNB Network Company (BNC), witnessed an intraday decline of 17.42% and is currently trading at $20.53.Previously, before the opening of the US stock market today, BNB Network Company announced that its total holding of BNB has increased to 325,000 coins, with an addition of 125,000 coins to the initial 200,000 coins acquired. With the impetus of this positive news, BNC surged 9.98% at the opening of the US stock market today.</description>
-      <pubDate>Mon, 18 Aug 2025 14:40:53 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 14:49:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25074</guid>
       <category>crypto</category>
@@ -125,7 +181,7 @@
       <title>「$125,000 ETH Long Liquidation」 Whale Long Position Faces Approximately $580,000 Unrealized Loss</title>
       <link>https://www.lookonchain.com/feeds/25071</link>
       <description>On August 18th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), as ETH once again dropped below $4300, the two addresses of the &quot;125K USD Liquidation Long ETH&quot; whale are both in an unrealized loss state, with a total unrealized loss of approximately $580,000. The details are as follows:Address 0xd076...27bb: It holds 23,011 ETH, with an entry price of $4,314.1 and a liquidation price of $4,172.4.Address 0x5f72...da67: It holds 8,752.94 ETH, with an entry price of $4,324.68 and a liquidation price of $4,207.65.</description>
-      <pubDate>Mon, 18 Aug 2025 14:31:53 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 13:49:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25071</guid>
       <category>crypto</category>
@@ -139,63 +195,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「$125k Ethereum Long Position Adding to Position on Margin」 Whale Once Again Takes Profit and Increases Position, Position Size Rises to $137M</title>
-      <link>https://www.lookonchain.com/feeds/25069</link>
-      <description>On August 18th, according to the monitoring of on-chain data analyst Yu Jin, after a slight rebound in ETH, the &quot;Long ETH with $125,000 Liquidation&quot; whale once again utilized unrealized profits to expand their position. The position size increased from $100 million to $137 million. The current entry price is $4,314, and the liquidation price is $4,207.</description>
-      <pubDate>Mon, 18 Aug 2025 13:31:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25069</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Avalanche Teams Up with Polmo to Launch Tokenized Whisky, Purchasing the Premium Edition Grants an Invitation to Meet Ava Labs Founder Emin Gün Sirer</title>
-      <link>https://www.lookonchain.com/feeds/25070</link>
-      <description>August 18th, as per official information, Bowmore, a renowned Scottish distillery, announced today a partnership with the decentralized open-source Layer1 platform Avalanche to launch the very first on-chain whisky NFT series. This series is scheduled to be officially released on September 30, 2025, during the TOKEN2049 conference in Singapore, and pre-sales will commence from today. By leveraging the Avalanche C chain, each uniquely numbered bottle of whisky will give rise to a corresponding NFT, facilitating the seamless amalgamation of physical rare whisky with digital certificates. The inaugural series encompasses:· Collector&apos;s Edition ($5,500): Limited to 8 sets, comprising a 30-year-old Bowmore whisky and custom glassware. Buyers will receive an invitation to meet Ava Labs founder Emin Gün Sirer.· Classic Edition ($180): Limited to 150 bottles of 12-year-old Bowmore, offering an entry-level choice for collectors.Each bottle is equipped with an NFC chip to authenticate its a</description>
-      <pubDate>Mon, 18 Aug 2025 13:31:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25070</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Pendle Hits New All-Time High TVL of $9.2 Billion, Market Adoption and Trust in Pendle Deepen</title>
-      <link>https://www.lookonchain.com/feeds/25068</link>
-      <description>August 18th, TN, the founder of Pendle, posted on social media stating that just three weeks prior, Pendle Finance had completed a $1.5 billion asset maturity settlement. Subsequently, the TVL (Total Value Locked) quickly rebounded to a new historical high of $7 billion.Last week, another $898 million in assets matured and Pendle surged once again, setting a new record with a $9.2 billion TVL. During the week of August 14th, approximately $1 billion had already begun to rotate/migrate. Including this settlement, the total amount reached $1.81 billion, making it the second-largest maturity event in Pendle&apos;s history. Nevertheless, only $260 million (-2.9%) flowed out and it lasted only for 2 days (August 13th - 15th).The focus of this maturity event is Ethena Labs&apos; USDe (maturing in September 2025), which has now become Pendle&apos;s largest pool ever with a TVL of $3.36 billion. This growth was facilitated by:· There being no deposit limit in the market.· Aave raising the deposit limi</description>
-      <pubDate>Mon, 18 Aug 2025 13:31:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25068</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
