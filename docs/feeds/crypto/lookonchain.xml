@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Aug 2025 09:52:31 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2025 09:52:31 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:17:16 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 10:17:16 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,67 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Thailand Introduces Tourist Wallet for Foreign Visitors, Cryptocurrency Functionality Still in Sandbox Phase</title>
+      <link>https://www.lookonchain.com/feeds/25042</link>
+      <description>On August 18th, as reported by CoinDesk, Thailand has initiated the Tourist Wallet for foreign tourists. This wallet is used for QR code payments to convert foreign currency into Thai Baht. However, the cryptocurrency exchange function has been temporarily suspended due to regulatory reviews and is not expected to be available until mid-August.The Bank of Thailand stated that the purpose of launching the Tourist Wallet is to address a practical issue. Currently, cross-border QR code payments are only available in countries such as Singapore, Malaysia, and upcoming partner countries. Tourists from other countries still encounter inconvenience when making payments in Thailand, and the new wallet aims to address this pain point.Tourists can top up the wallet in the following ways: using cash at service provider counters, linking a foreign debit or credit card, or through overseas bank transfers. The spending limits are as follows: a maximum of 500,000 Thai Baht (approximately $13,800)</description>
+      <pubDate>Mon, 18 Aug 2025 10:09:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25042</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Over 650 million USDT and approximately $2.06 billion worth of OKB were transferred to OKEx within 20 minutes.</title>
+      <link>https://www.lookonchain.com/feeds/25041</link>
+      <description>August 18th. Based on Whale Alert&apos;s monitoring, a significant amount of funds was transferred from an unidentified wallet to OKX within the past 20 minutes. This transfer included 652,228,192 USDT and a total of 17,157,570 OKB, which is approximately worth 2.06 billion US dollars.Previously reported, on August 15th, following the destruction of OKB, the total supply officially decreased to 21 million tokens.</description>
+      <pubDate>Mon, 18 Aug 2025 10:09:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25041</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>After liquidating their long position in ETH and suffering a $6.59 million loss, a certain whale has once again gone long on ETH, with a position now totaling $100 million.</title>
+      <link>https://www.lookonchain.com/feeds/25040</link>
+      <description>On August 18th, according to ChainInfo, a whale liquidated a long position in ETH and suffered a loss of $6.59 million. Subsequently, the whale continued to take a long position on ETH. Currently, the whale holds a long position of 23,373 ETH, with a notional value of $100 million.</description>
+      <pubDate>Mon, 18 Aug 2025 09:56:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25040</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Hong Kong SFC&apos;s Thomas Atkinson: Beware of Stablecoin Hype, High Risks of Unlicensed Trading Platforms</title>
       <link>https://www.lookonchain.com/feeds/25039</link>
       <description>August 18th. Terence Yeung, the Executive Director of the Intermediaries Division of the Hong Kong Securities and Futures Commission, stated that recently, some companies have been manipulating stock prices under the guise of applying for a stablecoin license. Investors are advised to remain rational and be vigilant against related scams.He disclosed that the division received 265 complaints related to virtual asset trading in the first half of this year, mainly concerning overseas fraud, platform infringement, or fund freezing. He also cautioned about the risks of trading on unlicensed platforms. (FX678)</description>
-      <pubDate>Mon, 18 Aug 2025 09:48:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:48:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25039</guid>
       <category>crypto</category>
@@ -34,7 +91,7 @@
       <title>PLUME Surges Above $0.1, Up Over 9% in 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/25038</link>
       <description>On August 18th, based on HTX market data, PLUME surged past $0.1 and is currently trading at $0.1077, with a 24-hour increase of 9.53%.</description>
-      <pubDate>Mon, 18 Aug 2025 09:48:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:48:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25038</guid>
       <category>crypto</category>
@@ -52,7 +109,7 @@
       <title>Binance HODLer Airdrop Launches for Plume (PLUME)</title>
       <link>https://www.lookonchain.com/feeds/25037</link>
       <description>August 18th. According to an official announcement, the Binance HODLer Airdrop has now initiated the 32nd project - Plume (PLUME), a blockchain designed for Real World Assets (RWA) and compatible with the EVM. From July 24, 2025, at 08:00 to July 28, 2025, at 07:59 (UTC+8), users who used BNB to subscribe to Yield Farming Coins (fixed-term and/or flexible-term) or on-chain yield farming products will receive an airdrop allocation. The HODLer Airdrop information is expected to become available within 24 hours, and the new tokens will be delivered to users&apos; spot wallets at least 1 hour before trading commences.Binance will list PLUME on August 18, 2025, at 23:00 (UTC+8) and open trading pairs for USDT, USDC, BNB, FDUSD, and TRY in accordance with the Seed Label Trading Rules. The PLUME deposit channel will open on August 18, 2025, at 19:30 (UTC+8).</description>
-      <pubDate>Mon, 18 Aug 2025 09:40:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:40:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25037</guid>
       <category>crypto</category>
@@ -69,7 +126,7 @@
       <title>A whale has added to their position in the past 2 hours, acquiring 79.34 WBTC and 1860 ETH, with a total value of $17.08 million.</title>
       <link>https://www.lookonchain.com/feeds/25036</link>
       <description>On August 18th, as per on-chain analyst Ai Auntie (@ai_9684xtpa), a whale has withdrawn 79.34 WBTC and 1860 ETH from a trading platform during a downtrend in the past 2 hours. The total value of these withdrawals is $17.08 million, and there is suspicion of bottom fishing.Currently, the address holds assets worth $153 million, which includes both BTC and ETH, and both were withdrawn from exchanges in the past week.</description>
-      <pubDate>Mon, 18 Aug 2025 09:24:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:24:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25036</guid>
       <category>crypto</category>
@@ -92,7 +149,7 @@
       <title>Binance C2C &quot;Curated&quot; Zone is officially live, offering zero fees for a limited time and launching an iPhone 17 lucky draw event</title>
       <link>https://www.lookonchain.com/feeds/25035</link>
       <description>On August 18th, as per official channels, Binance announced that the C2C &quot;Strict Selection&quot; zone test has been successfully concluded and was officially launched today.To mark the third anniversary of the Shield Advertisers&apos; launch, the platform also launched a limited-time event with zero transaction fees. Users can conduct secure transactions of digital assets in the &quot;Strict Selection&quot; zone and have the chance to participate in a lucky draw to win an iPhone 17.</description>
-      <pubDate>Mon, 18 Aug 2025 09:16:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:17:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25035</guid>
       <category>crypto</category>
@@ -109,7 +166,7 @@
       <title>Binance Alpha will list DecentralGPT (DGC) and open airdrop claims to eligible users</title>
       <link>https://www.lookonchain.com/feeds/25034</link>
       <description>On August 18th, as per official channels, Binance Alpha is scheduled to list DecentralGPT (DGC) on August 20th. Once trading commences, eligible users will be able to claim the airdrop on the Alpha event page by using Binance Alpha points. Further details will be made public shortly.</description>
-      <pubDate>Mon, 18 Aug 2025 09:08:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:16:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25034</guid>
       <category>crypto</category>
@@ -126,7 +183,7 @@
       <title>Binance HODLer Airdrop Round 3 Featuring Solayer (LAYER) Has Launched</title>
       <link>https://www.lookonchain.com/feeds/25033</link>
       <description>August 18th. According to the official announcement, Binance will now commence the third round of the HODLer airdrop as part of the 18,000,000 LAYER airdrop plan. 6,000,000 LAYER will be distributed during this third round of the HODLer airdrop. The airdrop distribution will be completed within 24 hours following the publication of this announcement.Eligible Users: Users who purchased the Principal-Protected Coin (Fixed and/or Flexible) or on-chain Staking Coin products by using BNB between 08:00 on July 20, 2025 (in UTC+8 time), and 07:59 on July 24, 2025 (in UTC+8 time) will be eligible for the airdrop allocation.</description>
-      <pubDate>Mon, 18 Aug 2025 09:08:39 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 09:16:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25033</guid>
       <category>crypto</category>
@@ -137,64 +194,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>ZachXBT: WhiteRock Engineer Still Active on GitHub, Death Rumors Are False</title>
-      <link>https://www.lookonchain.com/feeds/25032</link>
-      <description>On August 18th, the on-chain detective ZachXBT put up a post stating that the rumored &quot;person who died from a missile attack&quot; WhiteRock Finance engineer is currently still active on GitHub and Trello. He said sarcastically, &quot;Apparently, he has come back to life. What a true miracle.&quot;Previously, it was reported that the founder of WhiteRock Finance, Ildar Ilham, was arrested in the UAE and accused of committing a $30 million fraud through ZKasino.</description>
-      <pubDate>Mon, 18 Aug 2025 08:56:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25032</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>CoinShares: Digital Asset Investment Products See $3.75 Billion in Net Inflows Last Week</title>
-      <link>https://www.lookonchain.com/feeds/25031</link>
-      <description>On August 18th, CoinShares released its latest weekly report indicating that digital asset investment products attracted a record-breaking $3.75 billion in inflows during the past week. This led to the total assets under management (AuM) reaching a historic high of $244 billion.Among them, Ethereum demonstrated the most prominent performance, with $2.87 billion in inflows (accounting for 77% of the total inflows). As a result, the year-to-date inflows for Ethereum reached $11 billion, which proportionally exceeded Bitcoin by a considerable margin.</description>
-      <pubDate>Mon, 18 Aug 2025 08:56:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25031</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>During a market downturn, a certain whale spent $83.96 million to accumulate BTC and ETH in a single move</title>
-      <link>https://www.lookonchain.com/feeds/25030</link>
-      <description>On August 18th, as per the monitoring of LookOnChain, during a market decline, a particular whale took an action by using 83.96 million USDC to purchase 10,000 ETH (approximately $43.43 million) and 350 BTC (approximately $40.53 million).</description>
-      <pubDate>Mon, 18 Aug 2025 08:51:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25030</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
   </channel>
