@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Aug 2025 06:24:03 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2025 06:24:03 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 06:56:31 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 06:56:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,147 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitcoin briefly drops below $115,000</title>
+      <link>https://www.lookonchain.com/feeds/25013</link>
+      <description>On August 18th, based on HTX market data, Bitcoin briefly fell below $115,000 and is now trading at $115,077, with a 24-hour decrease of 2.49%.</description>
+      <pubDate>Mon, 18 Aug 2025 06:48:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25013</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance: RiceAI (RICE) TGE participation threshold is 230 Alpha Points</title>
+      <link>https://www.lookonchain.com/feeds/25012</link>
+      <description>August 18, as per an official announcement, Binance has declared that Binance users possessing 230 points or more of Binance Alpha Points are eligible to participate in the RiceAI (RICE) TGE event via the Alpha event page. Participating in this event will result in a deduction of 15 points.</description>
+      <pubDate>Mon, 18 Aug 2025 06:48:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25012</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>「Brother Big Shot」 Contrarian Increases Position, Floating Loss Expands to $8.8 Million</title>
+      <link>https://www.lookonchain.com/feeds/25011</link>
+      <description>On August 18th, according to on-chain data, the cryptocurrency market maintained its downward trend. &quot;Big Brother Whale&quot; Huang Lizheng continued to accumulate in the face of the market, and the unrealized losses of his long positions have expanded to $8.8 million.Currently, his long positions consist of: 23,400 ETH long, 180 BTC long, 115,000 HYPE long, and 250 million PUMP long. Among them, the Ethereum long position alone has an unrealized loss of nearly $8.2 million.</description>
+      <pubDate>Mon, 18 Aug 2025 06:40:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25011</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「$125,000 Long ETH Liquidation」 Whale Continues to Reduce Position, ETH Longs Drop to 66,000 Coins</title>
+      <link>https://www.lookonchain.com/feeds/25010</link>
+      <description>On August 18th, according to WhaleMap, a &quot;Whale Longing $125k ETH&quot; whale has trimmed their position by 10,745 ETH in the past half an hour. The long position in ETH has decreased from 76,700 ETH to 66,000 ETH, and the current total unrealized gains have shrunk to $8.58 million.</description>
+      <pubDate>Mon, 18 Aug 2025 06:40:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25010</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale unloaded 5000 ETH from a long position to avoid liquidation, reducing unrealized gains to $2.95 million.</title>
+      <link>https://www.lookonchain.com/feeds/25009</link>
+      <description>On August 18th, as monitored by EmberCN, a whale reduced its long position by 5000 ETH in order to avoid liquidation. Currently, it holds a long position of 20,000 ETH with a leverage of 25 times. The entry price was $4,148, the liquidation price is $4,220, and the overall unrealized profit has been narrowed down to $2.95 million.</description>
+      <pubDate>Mon, 18 Aug 2025 06:24:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25009</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Publicly traded company BTC AB will raise up to approximately $21.9 million in funding to purchase more Bitcoin.</title>
+      <link>https://www.lookonchain.com/feeds/25008</link>
+      <description>On August 18th, according to NLNico, the Swedish listed company B Treasury Capital AB (BTC AB) is going to raise up to 209 million Swedish Krona (approximately 21.9 million USD) in order to purchase a greater amount of Bitcoin because its previously issued warrants have been exercised.</description>
+      <pubDate>Mon, 18 Aug 2025 06:24:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25008</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Publicly traded company Capital B has raised $2.6 million to purchase more Bitcoin</title>
+      <link>https://www.lookonchain.com/feeds/25007</link>
+      <description>On August 18th, according to NLNico, the publicly traded French company Capital B has managed to raise 2.2 million euros (equivalent to 2.6 million US dollars). The full subscription came from Blockstream CEO Adam Back, with the intention of purchasing a greater amount of Bitcoin.</description>
+      <pubDate>Mon, 18 Aug 2025 06:24:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25007</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Orama Labs Launches PYTHIA-based LaunchPad and Forms Strategic Partnership with Kingnet Capital HK</title>
       <link>https://www.lookonchain.com/feeds/25006</link>
       <description>August 18th. According to an official statement, Orama Labs is set to launch a LaunchPad based on PYTHIA and has entered into a strategic partnership with Kingnet Capital HK. Orama Labs is dedicated to constructing the next-generation asset tokenization protocol, with the aim of addressing the inefficiencies in traditional research funding and resource allocation. Meanwhile, Kingnet Capital HK will offer core AI technical support to Orama Labs.The platform intends to finance the development of scientific experiments, safeguard intellectual property rights, overcome information silos and community governance issues, establish a closed-loop ecosystem from research to commercial application, and stimulate the innovative development of on-chain research.PYTHIA, as the core governance token of the platform, is utilized to motivate research contributors, fund high-quality research projects, and drive on-chain governance. Orama Labs&apos; first product, LaunchPad, is on the verge of being rele</description>
-      <pubDate>Mon, 18 Aug 2025 06:17:10 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 06:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25006</guid>
       <category>crypto</category>
@@ -34,7 +171,7 @@
       <title>Aergo is rebranding to HPP, and the token will undergo a 1:1 swap.</title>
       <link>https://www.lookonchain.com/feeds/25005</link>
       <description>August 18th. Aergo made an announcement in a post stating that the House Party Protocol Mainnet has officially gone live. It is an evolution of Aergo. This AI-native network integrates more than a decade of enterprise-grade blockchain expertise with AI-native Layer 2 infrastructure. It is designed for the AI era to support real-time autonomous agents, verifiable off-chain reasoning, and a thriving multi-chain economy.The official will exchange users&apos; AERGO tokens for HPP (HPP Mainnet ERC-20) at a 1:1 ratio or swap AQT tokens for HPP at a ratio of 1 AQT = 7.43026 HPP. HPP aims to be listed on all current exchanges that support AERGO.</description>
-      <pubDate>Mon, 18 Aug 2025 06:16:10 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 06:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25005</guid>
       <category>crypto</category>
@@ -51,7 +188,7 @@
       <title>A Whale Liquidated Long Positions of over 21,000 ETH, Losing $6.6 Million and Exiting</title>
       <link>https://www.lookonchain.com/feeds/25004</link>
       <description>On August 18th, as per the monitoring of lookonchain, the whale address 0x89Da liquidated its long position of 21,683 ETH (valued at $93.5 million), incurring a loss of $6.6 million. Subsequently, it withdrew all 9.6 million USDC from Hyperliquid, thereby effectively exiting this &quot;casino.&quot;</description>
-      <pubDate>Mon, 18 Aug 2025 06:08:10 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 06:08:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25004</guid>
       <category>crypto</category>
@@ -65,129 +202,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Viewpoint: Powell&apos;s Stance at Jackson Hole May Be More Cautious</title>
-      <link>https://www.lookonchain.com/feeds/25003</link>
-      <description>On August 18th, the Jackson Hole Symposium was the center of attention this week. Shwetha Sunilkumar, an economist at ANZ Bank, stated that last year, Federal Reserve Chairman Powell was quite clear at the meeting about the reasons for an impending rate cut. However, this year, Powell may not be as explicit.Sunilkumar further added that Powell may suggest a higher probability of implementing further easing measures this year, but he will not commit to a specific time frame. Especially since inflation concerns have intensified following the stronger-than-expected July service and producer price data released last week. She also pointed out that some regional Fed officials have become more cautious about the future easing schedule. The bank&apos;s baseline expectation still holds that the Fed will cut rates at the September meeting. (FX678)</description>
-      <pubDate>Mon, 18 Aug 2025 06:00:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25003</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Cryptocurrency Fear and Greed Index Drops to 60, Market Still in &apos;Greed&apos; Sentiment</title>
-      <link>https://www.lookonchain.com/feeds/25002</link>
-      <description>August 18th. According to alternative data, the Crypto Fear and Greed Index for today has dropped to 60 (it was 64 yesterday), with an average of 70 for last week. This indicates that the market is still in a &quot;Greed&quot; sentiment.Note: The Fear Index threshold ranges from 0 to 100 and includes indicators such as Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Survey (15%) + Bitcoin&apos;s Market Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Mon, 18 Aug 2025 05:40:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25002</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>X Layer Network&apos;s 24-hour trading volume has dropped by 12.86%, falling to $37.348 million.</title>
-      <link>https://www.lookonchain.com/feeds/25000</link>
-      <description>On August 18th, according to data from Geckoterminal, the trading volume of X Layer Network in the past 24 hours has decreased by 12.86% to $37.348 million; the number of transactions is 23,820, which is a decrease from yesterday&apos;s data (26,830).The leading meme coin in the ecosystem, XDOG, currently has a market capitalization of $10 million and a 24-hour decline of 10%.BlockBeats reminds users that meme coin prices are highly volatile. Please be cautious about asset protection and avoid FOMO.</description>
-      <pubDate>Mon, 18 Aug 2025 05:23:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25000</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance: BAS Token Circulation to Start on August 19 at 14:00</title>
-      <link>https://www.lookonchain.com/feeds/25001</link>
-      <description>On August 18th, Binance made an announcement that the circulation of the BAS token will commence at 14:00 on August 19th. Users who participated in the BAS Pre-TGE will be able to trade the BAS token on Binance Alpha. The winners of the 1st and 2nd week BAS Booster activities can claim and trade BAS tokens within 8 hours after the start of the token circulation.</description>
-      <pubDate>Mon, 18 Aug 2025 05:23:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25001</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Renmin Law School to Launch Advanced Seminar on Legal Practices in Handling Crypto Assets in Cases, Stablecoins, and RWA</title>
-      <link>https://www.lookonchain.com/feeds/24999</link>
-      <description>On August 18th, the Law School of Renmin University of China initiated an advanced seminar focusing on the disposal of virtual assets involved in cases, stablecoins, and the frontier legal practices of Real World Asset (RWA). It was stated that in recent years, cryptocurrency, as an emerging asset in the digital age, has attracted extensive attention from the industry and academia. The disposal of cryptocurrencies involved in cases is a crucial issue that encompasses judicial justice, financial regulation, and technological innovation. Stablecoins and virtual currencies based on Real World Asset (RWA) tokenization have also gradually come into being. They have demonstrated significant potential applications in areas such as cross-border payments and decentralized finance (DeFi), bringing new liquidity and investment opportunities.The Law School intends to host the Advanced Seminar on Legal Practices of Disposal of Virtual Assets Involved in Cases, Stablecoins, and RWA at Renmin Unive</description>
-      <pubDate>Mon, 18 Aug 2025 05:23:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24999</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>ChatGPT Spokesperson: GPT-5 still suffers from &quot;hallucination&quot; issues. Users are advised to verify the answers.</title>
-      <link>https://www.lookonchain.com/feeds/24998</link>
-      <description>On August 18th, despite the launch of the new GPT-5 model by ChatGPT, the possibility of errors still exists. A senior executive at OpenAI emphasized this again this week. Nick Tully, the head of ChatGPT, pointed out in an interview, &quot;In terms of reliability, there is a significant discontinuity between reliability and absolute reliability.&quot;He further explained, &quot;Unless we can prove that in all aspects, not just some aspects, ChatGPT is more reliable than human experts, we will continue to recommend that you double-check the answers.&quot; (Jinshi)</description>
-      <pubDate>Mon, 18 Aug 2025 04:23:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24998</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Two Top Ethereum Treasury Companies Still Have Unrealized Gains of Over $1.2 Billion</title>
-      <link>https://www.lookonchain.com/feeds/24997</link>
-      <description>On August 18th, according to crypto KOL AB Kuai.Dong, although Ethereum has retraced by approximately 9% from its weekend high, the holdings of two leading Ethereum reserve companies remain in a profit-taking state. Based on the current Ethereum price of $4,331:BMNR, with a cost basis of $3,827, is realizing a 13.8% profit, and the total holding profit is $679 million;SBET, with a cost basis of $3,571, is achieving a 22% profit, and the total holding profit is $571 million.During this week&apos;s workdays, both companies may disclose more Ethereum accumulation data.</description>
-      <pubDate>Mon, 18 Aug 2025 04:23:10 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/24997</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
