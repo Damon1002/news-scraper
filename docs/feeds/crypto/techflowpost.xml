@@ -5,14 +5,80 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Aug 2025 13:23:55 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2025 13:23:55 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 13:53:49 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 13:53:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>大众集团新加坡引入数字货币支付服务</title>
+      <link>https://www.techflowpost.com</link>
+      <description>大众集团新加坡（VGS）宣布与支付机构FOMO Pay达成合作，将接受数字货币支付车辆及相关服务。根据协议，客户可使用比特币、以太坊以及USDT、USDC等稳定币进行支付。该支付服务将应用于新车部分付款和售后服务，单日交易上限为4500新元，最高限额为13500新元。FOMO Pay将提供支付基础...</description>
+      <pubDate>Mon, 18 Aug 2025 13:48:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Jupiter推出支持二维码的代币发送功能Jupiter Send</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据PRNewswire报道，Solana生态DEXJupiter宣布推出加密货币发送功能“Jupiter Send”，允许用户通过嵌入的“魔法链接（magic links）”或二维码发送任何代币，目前该功能仅限于在Jupiter Mobile应用上使用，并且暂时对发送代币的数量未做限制。</description>
+      <pubDate>Mon, 18 Aug 2025 13:42:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安：PLUME 空投问题已解决，按计划上线交易</title>
+      <link>https://www.techflowpost.com</link>
+      <description>币安发文称，PLUME 的空投问题已得到解决，符合条件的用户现在应已收到 PLUME HODLer 空投。PLUME 的上架将按计划进行。</description>
+      <pubDate>Mon, 18 Aug 2025 13:37:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>美股开盘，加密股普跌</title>
+      <link>https://www.techflowpost.com</link>
+      <description>道琼斯指数8月18日（周一）开盘下跌25.33点，跌幅0.06%，报44920.79点</description>
+      <pubDate>Mon, 18 Aug 2025 13:35:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>今日美国比特币ETF净流入722枚BTC，以太坊ETF净流入25218枚ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，今日10只美国比特币ETF净流入722枚BTC，其中贝莱德流入976枚BTC，目前贝莱德持有749,945枚BTC，价值866.7亿美元；9只以太坊ETF净流入25218枚ETH，其中贝莱德流入76,851枚ETH，目前贝莱德...</description>
+      <pubDate>Mon, 18 Aug 2025 13:31:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>BONK.fun平台添加“Points”标签，疑似将推出积分系统</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据SolanaFloor披露，BONK.fun已在Launchpad平台上添加了“积分（Points）”标签，疑似将推出积分系统，旨在激励创作者和交易者。分析认为，市场竞争导致BONK.fun平台的市场份额近期出现急剧下降，Pump.fun在包括新代币铸造、绑定代币和活跃钱包等关键指标上已占据头部...</description>
+      <pubDate>Mon, 18 Aug 2025 13:27:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>BNC扩充BNB持仓量至32.5万枚</title>
       <link>https://www.techflowpost.com</link>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Onchain Lens（@OnchainLens）监测，不丹皇家政府已将799.69枚比特币（约合9,206万美元）转移至两个新钱包地址。这些资金可能将转入币安交易所。</description>
       <pubDate>Mon, 18 Aug 2025 10:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BlackRock持有349万ETH，占所有以太坊ETF的58.03%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 CryptoQuant 数据，贝莱德集团的以太坊 ETF 产品 ETHA 目前持有 349 万枚 ETH，占所有以太坊 ETF 总量的 58.03%。</description>
-      <pubDate>Mon, 18 Aug 2025 10:19:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>「12.5 万 U 滚仓做多 ETH」交易员平仓两小时后再度做多 ETH，总仓位价值约 1 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据分析师余烬监测，「12.5 万 U 滚仓做多 ETH」交易员在平仓仅两小时后，再次建立了价值约 1 亿美元的以太坊做多仓位。该交易者目前通过两个地址持有 2.35 万枚 ETH 多仓，其中一个仓位为 25 倍杠杆做多 1.8 万枚 ETH，价值约 7,712 万美元，开仓价 4,303 美元，清...</description>
-      <pubDate>Mon, 18 Aug 2025 10:17:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 推出第 36 期链上交易竞赛，交易解锁 20,000 枚 BGB</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 第 36 期链上交易竞赛即将开启，总奖池 20,000 枚 BGB。活动期间，用户交易 CUDIS、SPARK、neet 代币，链上累计交易额达前 835 名的用户可获得 20 至 100 枚不等的 BGB 空投奖励。活动时间为 8 月 18 日 19:00:00 至 8 月 22 ...</description>
-      <pubDate>Mon, 18 Aug 2025 10:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>HashKey Capital 与天图达成战略合作，共同推动虚拟资产投资</title>
-      <link>https://www.techflowpost.com</link>
-      <description>HashKey Capital Limited（“HashKey Capital”）欣然宣布与深圳市天图投资管理股份有限公司（以下简称“天图投资，1973.HK）宣布旗下Tiantu Asset Management Company Limited（Tiantu AM）签署战略合作备忘录。此次合作...</description>
-      <pubDate>Mon, 18 Aug 2025 09:49:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>WEEX 交易所上线 Light(LIGHT) 并推出 $50,000 新人空投活动</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，WEEX 唯客交易所已上线 Light (LIGHT) 现货交易，并推出 LIGHT 新人空投活动，总奖池 50,000 U。活动时间：8/18 19:00 - 8/25 19:00 (UTC+8)。活动期内，新用户净充值≥ 100 U，并首次现货交易 LIGHT 代币，可获得 15 ...</description>
-      <pubDate>Mon, 18 Aug 2025 09:46:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Binance HODLer空投上线Plume (PLUME)</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Binance将于2025年8月18日15:00（UTC）上线Plume (PLUME)，并开放USDT、USDC、BNB、FDUSD及TRY交易对。PLUME是一个专注于现实世界资产（RWAs）的EVM兼容区块链项目。空投奖励总量为1.5亿枚PLUME，占代币总供应量的1.5%。符合...</description>
-      <pubDate>Mon, 18 Aug 2025 09:38:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
