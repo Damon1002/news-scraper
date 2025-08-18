@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Aug 2025 15:50:36 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Aug 2025 15:50:36 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 16:12:49 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 16:12:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,84 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Coinbase International Launches MNT, RSR, SUPER Perpetual Contracts</title>
+      <link>https://www.lookonchain.com/feeds/25084</link>
+      <description>On August 19th, according to official information, Coinbase Pro has declared the listing of MNT, RSR, and SUPER perpetual contracts on its international platform. Trading is set to commence at 9:30 AM on August 21st, 2025 in UTC time.</description>
+      <pubDate>Mon, 18 Aug 2025 16:08:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25084</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The U.S.-based Bitcoin mining firm TeraWulf is planning to raise $400 million to expand its data center business.</title>
+      <link>https://www.lookonchain.com/feeds/25083</link>
+      <description>On August 19th, the U.S.-listed Bitcoin mining firm TeraWulf (with the stock code: WULF) declared its intention to raise $400 million through a private placement of convertible senior notes. This fundraising move took place as its AI cloud service customer, Fluidstack, decided to increase its leasing of 160 megawatts of power capacity at the Lake Mariner campus in New York State.According to a statement issued on Monday, these convertible notes encompass a $60 million over-allotment option granted to the initial buyers, and the funds will be utilized for covered call options trading and the expansion of the non-mining data center business. The notes are unsecured senior notes and will accrue interest semi-annually starting from March 1, 2026, and mature on September 1, 2031. Upon obtaining shareholder approval, TeraWulf has the option to settle conversions in cash, stock, or a combination thereof. This financing represents TeraWulf&apos;s accelerated entry into the high-performance comput</description>
+      <pubDate>Mon, 18 Aug 2025 16:08:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25083</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Circle Acquires High-Performance Consensus Engine Malachite to Support its Arc Network</title>
+      <link>https://www.lookonchain.com/feeds/25082</link>
+      <description>August 18th. Today, Informal Systems made an announcement that its high-performance consensus engine, Malachite, has been acquired by the global financial technology company Circle Internet Group (CRCL). This acquisition is intended to support the launch of the Layer-1 blockchain network Arc, which is specifically designed for stablecoin finance.Circle&apos;s integration of Malachite will boost the performance, reliability, and security of stablecoin payments. It will also contribute to the realization of a low-cost, borderless, and trusted financial infrastructure. The Malachite codebase will remain under the Apache 2.0 open-source license to ensure continuous industry innovation.</description>
+      <pubDate>Mon, 18 Aug 2025 15:57:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25082</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Bitcoin Surges Above $116,000</title>
+      <link>https://www.lookonchain.com/feeds/25081</link>
+      <description>On August 18th, based on HTX market data, Bitcoin experienced a rebound and broke through $116,000. It is now trading at $116,176.</description>
+      <pubDate>Mon, 18 Aug 2025 15:55:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25081</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Within the last 24 hours, the entire network has seen a total of $587 million in liquidations, with the majority coming from long positions.</title>
       <link>https://www.lookonchain.com/feeds/25080</link>
       <description>On August 18th, based on Coinglass data, the total value that was liquidated across the entire network within the past 24 hours reached $587 million. A total of 133,228 individuals were liquidated globally. The amount of long liquidations was $504 million, and the amount of short liquidations was $82.32 million.</description>
-      <pubDate>Mon, 18 Aug 2025 15:49:43 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 15:48:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25080</guid>
       <category>crypto</category>
@@ -32,10 +106,27 @@
 
     </item>
     <item>
+      <title>Coinbase Launches SOL and XRP Perpetual Contracts</title>
+      <link>https://www.lookonchain.com/feeds/25078</link>
+      <description>On August 18th, Coinbase Futures officially announced on social media that U.S. traders are now able to access SOL and XRP perpetual futures contracts on the Coinbase exchange and obtain 5x leverage in a secure and regulated environment.</description>
+      <pubDate>Mon, 18 Aug 2025 15:40:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25078</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>US Stock Ethereum Strategy Stocks saw mixed results, with BTCS rising by 7.48% and BMNR falling by 3.82%.</title>
       <link>https://www.lookonchain.com/feeds/25079</link>
       <description>On August 18th, based on market data, US stock Ethereum strategy stocks showed mixed performances during the trading session. These include:- Bitmine (BMNR), down 3.82%.- BTCS (BTCS), up 7.48%.- SharpLink Gaming (SBET), up 4.08%.- GameSquare (GAME), up 3.64%.- ETHZilla (ETHZ), down 5.04%.- Bit Digital (BTBT), down 1.16%.</description>
-      <pubDate>Mon, 18 Aug 2025 15:40:43 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 15:40:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25079</guid>
       <category>crypto</category>
@@ -53,27 +144,10 @@
 
     </item>
     <item>
-      <title>Coinbase Launches SOL and XRP Perpetual Contracts</title>
-      <link>https://www.lookonchain.com/feeds/25078</link>
-      <description>On August 18th, Coinbase Futures officially announced on social media that U.S. traders are now able to access SOL and XRP perpetual futures contracts on the Coinbase exchange and obtain 5x leverage in a secure and regulated environment.</description>
-      <pubDate>Mon, 18 Aug 2025 15:40:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25078</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>A whale address bought 3.59 million AERO tokens, with an average price of $1.40 each.</title>
       <link>https://www.lookonchain.com/feeds/25076</link>
       <description>On August 18th, as per the monitoring of Onchain Lens, a whale address spent 5.05 million USDC 14 hours ago and purchased 3.59 million AERO at an average price of $1.4.</description>
-      <pubDate>Mon, 18 Aug 2025 15:08:43 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 15:11:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25076</guid>
       <category>crypto</category>
@@ -92,7 +166,7 @@
       <title>Injective is launching an on-chain NVIDIA H100 GPU rental fee market</title>
       <link>https://www.lookonchain.com/feeds/25077</link>
       <description>On August 18th, according to official channels, Injective has entered into a partnership with the hashing power marketplace development company Squaretower to launch the world&apos;s first on-chain NVIDIA H100 GPU hourly rental rate trading market. By leveraging Squaretower&apos;s custom oracle, this market updates the hourly H100 rental prices provided by top hash power suppliers. This revolutionary innovation converts the real-time rental price of a crucial component of AI infrastructure - NVIDIA&apos;s flagship H100 GPU - into a tradable on-chain asset, thereby opening up a new realm for decentralized finance.</description>
-      <pubDate>Mon, 18 Aug 2025 15:08:43 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 15:11:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25077</guid>
       <category>crypto</category>
@@ -109,7 +183,7 @@
       <title>Tom Lee: Historic Opportunity Unfolding in the Ethereum Ecosystem, Poised to Witness Unprecedented Wave of Innovation</title>
       <link>https://www.lookonchain.com/feeds/25075</link>
       <description>On August 18th, Tom Lee, the newly appointed Chairman of the Board of BitMine, stated in a post on Design Media that when the United States abandoned the gold standard in 1971, many people focused on gold. However, the real winner was Wall Street. With the vigorous development of the trading system and financial infrastructure, the modern financial landscape was established.Today, with the progress of the White House&apos;s &quot;GENIUS Act&quot; and the SEC&apos;s &quot;Project Crypto&quot;, a similar historical opportunity is emerging within the Ethereum ecosystem. When this digital financial infrastructure is in place, we will witness an unprecedented wave of innovation.</description>
-      <pubDate>Mon, 18 Aug 2025 14:56:43 +0000</pubDate>
+      <pubDate>Mon, 18 Aug 2025 15:11:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25075</guid>
       <category>crypto</category>
@@ -122,80 +196,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A whale address added 111,000 LINK to its position 3 hours ago, bringing the total holdings to 1,040,000 LINK.</title>
-      <link>https://www.lookonchain.com/feeds/25073</link>
-      <description>On August 18th, as monitored by on-chain analyst Ai Auntie (@ai_9684xtpa), the address 0x4EB...3d5aF is said to have reaccumulated 111,310 LINK tokens 3 hours ago, with a value of $2.76 million.Currently, this address holds a total of 1.044 million LINK tokens (approximately $24.64 million), and the average entry price is $23.6, resulting in an unrealized profit of $1.093 million.</description>
-      <pubDate>Mon, 18 Aug 2025 14:49:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25073</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Sky Protocol spent $1.39 million last week to buy back 17.32 million SKY tokens</title>
-      <link>https://www.lookonchain.com/feeds/25072</link>
-      <description>August 18th. The team of The Sky Protocol (formerly known as MakerDAO) officially announced on social media that the protocol spent $1.39 million during the previous week to repurchase 17.32 million SKY tokens.</description>
-      <pubDate>Mon, 18 Aug 2025 14:49:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25072</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「BNB Version of MicroStrategy」 BNC Plunges 17.42% Intraday</title>
-      <link>https://www.lookonchain.com/feeds/25074</link>
-      <description>On August 18th, based on market data, the &quot;BNB Version Microstrategy&quot; in the US stock market, BNB Network Company (BNC), witnessed an intraday decline of 17.42% and is currently trading at $20.53.Previously, before the opening of the US stock market today, BNB Network Company announced that its total holding of BNB has increased to 325,000 coins, with an addition of 125,000 coins to the initial 200,000 coins acquired. With the impetus of this positive news, BNC surged 9.98% at the opening of the US stock market today.</description>
-      <pubDate>Mon, 18 Aug 2025 14:49:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25074</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「$125,000 ETH Long Liquidation」 Whale Long Position Faces Approximately $580,000 Unrealized Loss</title>
-      <link>https://www.lookonchain.com/feeds/25071</link>
-      <description>On August 18th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), as ETH once again dropped below $4300, the two addresses of the &quot;125K USD Liquidation Long ETH&quot; whale are both in an unrealized loss state, with a total unrealized loss of approximately $580,000. The details are as follows:Address 0xd076...27bb: It holds 23,011 ETH, with an entry price of $4,314.1 and a liquidation price of $4,172.4.Address 0x5f72...da67: It holds 8,752.94 ETH, with an entry price of $4,324.68 and a liquidation price of $4,207.65.</description>
-      <pubDate>Mon, 18 Aug 2025 13:49:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25071</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
   </channel>
