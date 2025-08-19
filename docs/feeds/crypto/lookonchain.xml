@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 17:53:38 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 17:53:38 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:22:11 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 18:22:11 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>CyberKongz Floor Price Surpasses 0.49 ETH, With a 24-Hour Increase of 11.36%</title>
-      <link>https://www.lookonchain.com/feeds/25242</link>
-      <description>On August 20th, according to Blur data, the floor price of CyberKongz has exceeded 0.49 ETH. It has witnessed a 24-hour price increase of 11.36% and a 7-day price increase of 14.49%.</description>
-      <pubDate>Tue, 19 Aug 2025 16:52:45 +0000</pubDate>
+      <title>Federal Reserve Governor: Federal Reserve Staff Should Be Allowed to Hold Small Amounts of Crypto</title>
+      <link>https://www.lookonchain.com/feeds/25244</link>
+      <description>On August 20th, Federal Reserve Governor Bowman expressed that having &quot;very small amounts&quot; of cryptocurrency would enable Federal Reserve staff members to gain a better understanding of crypto assets. Federal Reserve employees should be permitted to hold a small quantity of cryptocurrency. Constraints on the investment activities of Federal Reserve employees may impede the recruitment and retention of specialized examiners.</description>
+      <pubDate>Tue, 19 Aug 2025 18:16:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25242</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25244</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,17 +28,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
     <item>
-      <title>CyberKongz will be launching a new token, KONG, to replace BANANA, with 2% of the total supply being airdropped to the Ethereum NFT community.</title>
-      <link>https://www.lookonchain.com/feeds/25241</link>
-      <description>On August 20th, according to official channels, the Ethereum NFT and gaming project CyberKongz announced the launch of a new token called KONG, which serves as the liquidity layer of its ecosystem and will completely replace the original token BANANA. The token will only be issued on the Ethereum mainnet and has a total supply of 1 billion. BANANA can be converted to KONG at a ratio of 1:25 (opened at TGE).The airdrop plan is to airdrop 2% of the total token supply to the Ethereum NFT community, with details to be announced.CyberKongz stated that KONG will integrate DeFi and NFT, introducing staking mechanisms, reward distribution, deflationary burning, and other functions. Future token distributions will be carried out quarterly through Kongz Hub, specifically targeting Genesis holders, Baby holders, and KONG stakers.</description>
-      <pubDate>Tue, 19 Aug 2025 16:52:45 +0000</pubDate>
+      <title>In the past 24 hours, the entire network has seen $4.44 billion in liquidations, with over 120,000 people being liquidated.</title>
+      <link>https://www.lookonchain.com/feeds/25243</link>
+      <description>On August 20th, according to Coinglass data, the total liquidation in the entire network within the past 24 hours was $444 million. The total long liquidation was $368 million and the total short liquidation was $75.7178 million. A total of 126,743 accounts were liquidated. The largest single liquidation order took place on Binance - BTCUSDT, amounting to $9.6953 million.</description>
+      <pubDate>Tue, 19 Aug 2025 18:16:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25241</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25243</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -47,64 +45,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>SkyBridge will Tokenize $3 Billion Flagship Hedge Fund on Avalanche</title>
-      <link>https://www.lookonchain.com/feeds/25240</link>
-      <description>On August 20th, as per Fortune magazine, Anthony Scaramucci, the Founder and CEO of SkyBridge Capital, announced that the company intends to tokenize $300 million of its flagship hedge fund on the Avalanche blockchain network.</description>
-      <pubDate>Tue, 19 Aug 2025 16:52:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25240</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>SoFi Partners with Lightspark to Enable Bitcoin Lightning Network for Global Remittance Business</title>
-      <link>https://www.lookonchain.com/feeds/25239</link>
-      <description>On August 20th, as per the reports from CoinDesk, SoFi Technologies is scheduled to make remittance payments available on the second-layer network of Bitcoin - the Lightning Network - through a partnership with Lightspark. The aim is to offer its users real-time international transfer services.SoFi declared that it will incorporate Lightspark&apos;s Universal Merchant Address (UMA), which operates on the Bitcoin Lightning Network, to support nearly instantaneous cross-border payments.</description>
-      <pubDate>Tue, 19 Aug 2025 16:52:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25239</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Three new addresses bought a total of 52,475 ETH, equivalent to around 220 million US dollars.</title>
-      <link>https://www.lookonchain.com/feeds/25234</link>
-      <description>August 19th. Based on the monitoring of Onchain Lens, within the past 20 minutes, three newly established wallets received 52,475 ETH from BitGo. The value of these ETH is approximately $220.44 million and they are likely to be related to BitMine.</description>
-      <pubDate>Tue, 19 Aug 2025 15:52:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25234</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
@@ -112,7 +52,7 @@
       <title>Polkadot Establishes Capital Markets Division: Polkadot Capital Group</title>
       <link>https://www.lookonchain.com/feeds/25238</link>
       <description>On August 20th, according to a report by Cointelegraph, Polkadot has set up the Polkadot Capital Group, which is a capital markets division intended to connect traditional finance with its blockchain ecosystem.Its objective is to link traditional finance with the Polkadot infrastructure, assisting institutions in exploring opportunities in asset management, banking, venture capital, trading platforms, and over-the-counter trading.This division will also place emphasis on demonstrating the practical applications of decentralized finance, staking, and the tokenization of rapidly expanding real-world assets (RWA).</description>
-      <pubDate>Tue, 19 Aug 2025 15:52:45 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25238</guid>
       <category>crypto</category>
@@ -129,7 +69,7 @@
       <title>Robinhood is partnering with Kalshi to launch NFL and college football prediction markets.</title>
       <link>https://www.lookonchain.com/feeds/25237</link>
       <description>On August 20th, as per CoinDesk, Robinhood has entered into a partnership with the blockchain prediction market platform Kalshi, which is regulated by the U.S. Commodity Futures Trading Commission (CFTC). This allows users to engage in trading on the outcomes of NFL and college football games. The prediction market will be made available through Robinhood&apos;s Prediction Market Center, and U.S. users will be able to access this service via Kalshi&apos;s trading platform.</description>
-      <pubDate>Tue, 19 Aug 2025 15:52:45 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25237</guid>
       <category>crypto</category>
@@ -146,7 +86,7 @@
       <title>SharpLink: Increased Ethereum Holding Immediately Staked in Full, Resulting in 1388 ETH Rewards</title>
       <link>https://www.lookonchain.com/feeds/25236</link>
       <description>On August 20th, the officials of SharpLink declared that since the implementation of the Ethereum Treasury strategy, they have obtained 1388 ETH (approximately $6 million) in staking rewards. SharpLink purchases ETH nearly every day and promptly stakes all of it.</description>
-      <pubDate>Tue, 19 Aug 2025 15:52:45 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25236</guid>
       <category>crypto</category>
@@ -165,7 +105,7 @@
       <title>Billionaire Chamath Palihapitiya&apos;s SPAC Company AEXA Plans to IPO on the NYSE</title>
       <link>https://www.lookonchain.com/feeds/25235</link>
       <description>On August 19th, as per CoinDesk, the prominent Silicon Valley venture capitalist and billionaire Chamath Palihapitiya launched a Special Purpose Acquisition Company (SPAC) named American Exceptionalism Acquisition Corp (AEXA), with the intention of conducting a $250 million initial public offering (IPO) on the New York Stock Exchange.</description>
-      <pubDate>Tue, 19 Aug 2025 15:52:45 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25235</guid>
       <category>crypto</category>
@@ -179,12 +119,12 @@
 
     </item>
     <item>
-      <title>Coinbase to List USELESS Spot Trading</title>
-      <link>https://www.lookonchain.com/feeds/25233</link>
-      <description>August 19th. As per an official announcement, Coinbase is going to list the spot trading of the &quot;USELESS&quot; (or whatever &quot;USELESS&quot; refers to in this context).</description>
-      <pubDate>Tue, 19 Aug 2025 15:52:45 +0000</pubDate>
+      <title>CyberKongz Floor Price Surpasses 0.49 ETH, With a 24-Hour Increase of 11.36%</title>
+      <link>https://www.lookonchain.com/feeds/25242</link>
+      <description>On August 20th, according to Blur data, the floor price of CyberKongz has exceeded 0.49 ETH. It has witnessed a 24-hour price increase of 11.36% and a 7-day price increase of 14.49%.</description>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25233</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25242</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -193,6 +133,64 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>CyberKongz will be launching a new token, KONG, to replace BANANA, with 2% of the total supply being airdropped to the Ethereum NFT community.</title>
+      <link>https://www.lookonchain.com/feeds/25241</link>
+      <description>On August 20th, according to official channels, the Ethereum NFT and gaming project CyberKongz announced the launch of a new token called KONG, which serves as the liquidity layer of its ecosystem and will completely replace the original token BANANA. The token will only be issued on the Ethereum mainnet and has a total supply of 1 billion. BANANA can be converted to KONG at a ratio of 1:25 (opened at TGE).The airdrop plan is to airdrop 2% of the total token supply to the Ethereum NFT community, with details to be announced.CyberKongz stated that KONG will integrate DeFi and NFT, introducing staking mechanisms, reward distribution, deflationary burning, and other functions. Future token distributions will be carried out quarterly through Kongz Hub, specifically targeting Genesis holders, Baby holders, and KONG stakers.</description>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25241</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>SkyBridge will Tokenize $3 Billion Flagship Hedge Fund on Avalanche</title>
+      <link>https://www.lookonchain.com/feeds/25240</link>
+      <description>On August 20th, as per Fortune magazine, Anthony Scaramucci, the Founder and CEO of SkyBridge Capital, announced that the company intends to tokenize $300 million of its flagship hedge fund on the Avalanche blockchain network.</description>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25240</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>SoFi Partners with Lightspark to Enable Bitcoin Lightning Network for Global Remittance Business</title>
+      <link>https://www.lookonchain.com/feeds/25239</link>
+      <description>On August 20th, as per the reports from CoinDesk, SoFi Technologies is scheduled to make remittance payments available on the second-layer network of Bitcoin - the Lightning Network - through a partnership with Lightspark. The aim is to offer its users real-time international transfer services.SoFi declared that it will incorporate Lightspark&apos;s Universal Merchant Address (UMA), which operates on the Bitcoin Lightning Network, to support nearly instantaneous cross-border payments.</description>
+      <pubDate>Tue, 19 Aug 2025 16:21:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25239</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
   </channel>
