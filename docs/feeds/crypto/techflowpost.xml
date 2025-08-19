@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 15:20:36 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 15:20:36 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 15:40:34 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 15:40:34 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>「麻吉大哥」ETH清算价为3081美元，多头累计浮亏1035万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，麻吉大哥仍有较大安全空间，其 ETH 多头仓位清算价在 3081 美元。他已将止盈止损区间调整为[4242 - 4800]，在本轮下跌中部分 ETH 多头仓位已触发止损。目前他的 BTC/ETH/HYPE/PUMP 多头仓位累计浮亏 103...</description>
+      <pubDate>Tue, 19 Aug 2025 15:30:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>「12.5 万滚仓做多 ETH」巨鲸遭遇部分清算，目前仓位价值 9443 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Glassnode数据显示，比特币期权市场仓位明显上移，12.4万至13万美元执行价区间出现新一轮净看涨期权买入，累计增加4100万美元。与此同时，低于现货价格的看跌期权需求异常清淡，表明交易者普遍看好后市。分析师认为，当前期权仓位结构暗示市场正形成12-13万美元的价格吸引力，而非构建下行风险...</description>
       <pubDate>Tue, 19 Aug 2025 13:21:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Circle推出Gateway服务实现USDC跨链统一访问</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方消息，Circle宣布其Gateway服务已正式上线主网，该服务创建了一个统一的USDC余额系统，允许用户在不同区块链之间即时访问资金，响应时间低于500毫秒。目前已支持Arbitrum、Avalanche、Base、Ethereum、Optimism、Polygon和Unichain等区块...</description>
-      <pubDate>Tue, 19 Aug 2025 13:12:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
