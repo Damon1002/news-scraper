@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 03:36:14 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 03:36:14 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 03:59:08 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 03:59:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>BTC 跌破 115000 美元，日内跌幅 1.08%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 HTX 行情数据显示，BTC 跌破 115000 美元，现报 114877.03 美元，日内跌幅 1.08%。</description>
+      <pubDate>Tue, 19 Aug 2025 03:44:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bithumb 将上线 BIO 韩元交易对</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据彭博社报道，Strategy 放宽此前设定的融资限制，允许在公司股价低于其比特币持仓市值 2.5 倍时发行普通股。此前仅在用于支付债务利息或优先股股息的情形下才允许此类发行。此举意在应对 mNAV 溢价持续压缩，为比特币购入及运营支出提供更大融资灵活性。</description>
       <pubDate>Tue, 19 Aug 2025 00:35:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>英伟达 CEO 在 8 月 14-15 日卖出 15 万股股票，套现 2710 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，英伟达CEO黄仁勋在8月14-15日通过八笔交易卖出15万股股票，对英伟达套现2710万美元。</description>
-      <pubDate>Tue, 19 Aug 2025 00:30:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 03:36:14 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 03:36:14 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 03:59:08 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 03:59:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,89 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>某巨鲸地址在ETH价格触及4200美元关口时被清算907.7枚WETH</title>
+      <link>https://www.panewslab.com/zh/articles/81431e4b-c938-4a74-8159-0f9783f9c788</link>
+      <description>某巨鲸地址在ETH价格触及4200美元关口时被清算907.7枚WETH</description>
+      <pubDate>Tue, 19 Aug 2025 03:59:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/81431e4b-c938-4a74-8159-0f9783f9c788</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Coinbase完成定期维护，服务已全面恢复</title>
+      <link>https://www.panewslab.com/zh/articles/ad5fdea5-1282-49ec-b502-793bfe1439e5</link>
+      <description>Coinbase完成定期维护，服务已全面恢复</description>
+      <pubDate>Tue, 19 Aug 2025 03:57:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ad5fdea5-1282-49ec-b502-793bfe1439e5</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>链游Pirate Nation将于30天后关停，因用户规模不足及成本考量</title>
+      <link>https://www.panewslab.com/zh/articles/bc50437c-991c-429b-8294-9ff3cf2aeed5</link>
+      <description>链游Pirate Nation将于30天后关停，因用户规模不足及成本考量</description>
+      <pubDate>Tue, 19 Aug 2025 03:55:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bc50437c-991c-429b-8294-9ff3cf2aeed5</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>BTC跌破115000美元，日内下跌 1.04%</title>
+      <link>https://www.panewslab.com/zh/articles/7udcq0ws</link>
+      <description>BTC跌破115000美元，日内下跌 1.04%</description>
+      <pubDate>Tue, 19 Aug 2025 03:53:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7udcq0ws</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>标普：预计美国2025年和2026年的平均年实际GDP增长率将分别放缓至1.7%和1.6%</title>
+      <link>https://www.panewslab.com/zh/articles/fa2cb87e-cd6f-4a2d-9bba-6a079601fede</link>
+      <description>标普：预计美国2025年和2026年的平均年实际GDP增长率将分别放缓至1.7%和1.6%</description>
+      <pubDate>Tue, 19 Aug 2025 03:51:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fa2cb87e-cd6f-4a2d-9bba-6a079601fede</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>Bithumb将上线BIO Protocol (BIO)</title>
       <link>https://www.panewslab.com/zh/articles/2b78f9f5-978a-4813-914a-4dc9e8fe20d7</link>
       <description>Bithumb将上线BIO Protocol (BIO)</description>
-      <pubDate>Tue, 19 Aug 2025 03:36:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:49:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2b78f9f5-978a-4813-914a-4dc9e8fe20d7</guid>
       <category>crypto</category>
@@ -32,7 +111,7 @@
       <title>伊利诺伊州签署两项加密监管法案，强化消费者保护</title>
       <link>https://www.panewslab.com/zh/articles/cecb0a11-e266-46ac-afd1-dfb941572507</link>
       <description>伊利诺伊州签署两项加密监管法案，强化消费者保护</description>
-      <pubDate>Tue, 19 Aug 2025 03:34:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:47:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cecb0a11-e266-46ac-afd1-dfb941572507</guid>
       <category>crypto</category>
@@ -47,7 +126,7 @@
       <title>以太坊PoS网络退出队列ETH数量增至超90万枚，等待时长约15天18小时</title>
       <link>https://www.panewslab.com/zh/articles/1d84a689-04b5-4195-b380-307dfefafeb8</link>
       <description>以太坊PoS网络退出队列ETH数量增至超90万枚，等待时长约15天18小时</description>
-      <pubDate>Tue, 19 Aug 2025 03:32:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:45:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1d84a689-04b5-4195-b380-307dfefafeb8</guid>
       <category>crypto</category>
@@ -64,7 +143,7 @@
       <title>王峰：已经连续三天抄底以太坊</title>
       <link>https://www.panewslab.com/zh/articles/58855402-e28b-47cd-af39-8c83606ef51a</link>
       <description>王峰：已经连续三天抄底以太坊</description>
-      <pubDate>Tue, 19 Aug 2025 03:30:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:43:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/58855402-e28b-47cd-af39-8c83606ef51a</guid>
       <category>crypto</category>
@@ -81,7 +160,7 @@
       <title>两大比特币巨鲸持续增持，近月吸纳逾1900枚BTC</title>
       <link>https://www.panewslab.com/zh/articles/2f9411aa-9131-49e4-b6d8-9a19d0fe4832</link>
       <description>两大比特币巨鲸持续增持，近月吸纳逾1900枚BTC</description>
-      <pubDate>Tue, 19 Aug 2025 03:28:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:41:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2f9411aa-9131-49e4-b6d8-9a19d0fe4832</guid>
       <category>crypto</category>
@@ -98,7 +177,7 @@
       <title>稳定币协议Cap上线以太坊主网，推出cUSD与stcUSD两款稳定币产品</title>
       <link>https://www.panewslab.com/zh/articles/692e7abb-3685-4691-bd9d-b51d5f34cc8f</link>
       <description>稳定币协议Cap上线以太坊主网，推出cUSD与stcUSD两款稳定币产品</description>
-      <pubDate>Tue, 19 Aug 2025 03:26:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:39:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/692e7abb-3685-4691-bd9d-b51d5f34cc8f</guid>
       <category>crypto</category>
@@ -115,7 +194,7 @@
       <title>数据：超 90% 处于以太坊 L1 的 OKB 完成换链</title>
       <link>https://www.panewslab.com/zh/articles/de843af2-4cb4-4712-be85-41fd81490947</link>
       <description>数据：超 90% 处于以太坊 L1 的 OKB 完成换链</description>
-      <pubDate>Tue, 19 Aug 2025 03:24:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:37:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/de843af2-4cb4-4712-be85-41fd81490947</guid>
       <category>crypto</category>
@@ -132,7 +211,7 @@
       <title>bitcoin.org域名注册17周年</title>
       <link>https://www.panewslab.com/zh/articles/7c5d8eb9-af54-4d7f-9818-e1c5c65b19a4</link>
       <description>bitcoin.org域名注册17周年</description>
-      <pubDate>Tue, 19 Aug 2025 03:22:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:35:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7c5d8eb9-af54-4d7f-9818-e1c5c65b19a4</guid>
       <category>crypto</category>
@@ -149,7 +228,7 @@
       <title>Apple将在Xcode原生集成Anthropic Claude</title>
       <link>https://www.panewslab.com/zh/articles/0c5415a2-99a3-4c4a-b9e4-ccb3fd5d35e5</link>
       <description>Apple将在Xcode原生集成Anthropic Claude</description>
-      <pubDate>Tue, 19 Aug 2025 03:20:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:33:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0c5415a2-99a3-4c4a-b9e4-ccb3fd5d35e5</guid>
       <category>crypto</category>
@@ -164,7 +243,7 @@
       <title>加密板块持续下跌，仅 PayFi 板块相对坚挺</title>
       <link>https://www.panewslab.com/zh/articles/986b231b-f1a8-4969-8eac-0b0833c7f1f9</link>
       <description>加密板块持续下跌，仅 PayFi 板块相对坚挺</description>
-      <pubDate>Tue, 19 Aug 2025 03:18:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:31:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/986b231b-f1a8-4969-8eac-0b0833c7f1f9</guid>
       <category>crypto</category>
@@ -179,7 +258,7 @@
       <title>昨夜今晨重要资讯（8月18日-8月19日）</title>
       <link>https://www.panewslab.com/zh/articles/8d834062-c06f-4dac-a17e-865687a841d7</link>
       <description>昨夜今晨重要资讯（8月18日-8月19日）</description>
-      <pubDate>Tue, 19 Aug 2025 03:16:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:29:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8d834062-c06f-4dac-a17e-865687a841d7</guid>
       <category>crypto</category>
@@ -194,7 +273,7 @@
       <title>The White Whale在Hyperliquid做多6.32万枚ETH和74.5万枚SOL，总持仓约4.1亿美元</title>
       <link>https://www.panewslab.com/zh/articles/6c67b25c-70c7-4836-8e4f-b92daac45a78</link>
       <description>The White Whale在Hyperliquid做多6.32万枚ETH和74.5万枚SOL，总持仓约4.1亿美元</description>
-      <pubDate>Tue, 19 Aug 2025 03:14:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:27:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6c67b25c-70c7-4836-8e4f-b92daac45a78</guid>
       <category>crypto</category>
@@ -211,7 +290,7 @@
       <title>ETH Strategy宣布与Ether.Fi达成质押合作</title>
       <link>https://www.panewslab.com/zh/articles/25e9272a-0585-43b8-a9b1-7ced81cc3d38</link>
       <description>ETH Strategy宣布与Ether.Fi达成质押合作</description>
-      <pubDate>Tue, 19 Aug 2025 03:12:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:25:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/25e9272a-0585-43b8-a9b1-7ced81cc3d38</guid>
       <category>crypto</category>
@@ -228,7 +307,7 @@
       <title>CoinGecko高层人事调整，任命新CEO、总裁及CTO</title>
       <link>https://www.panewslab.com/zh/articles/bb5aa1c5-bc68-4877-8159-dcc988187b84</link>
       <description>CoinGecko高层人事调整，任命新CEO、总裁及CTO</description>
-      <pubDate>Tue, 19 Aug 2025 03:10:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:23:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bb5aa1c5-bc68-4877-8159-dcc988187b84</guid>
       <category>crypto</category>
@@ -243,7 +322,7 @@
       <title>某滚仓巨鲸三小时前加仓ETH多单，持仓已达1.46亿美元</title>
       <link>https://www.panewslab.com/zh/articles/fe21d5fa-3acf-4e53-8b4f-500e6094a677</link>
       <description>某滚仓巨鲸三小时前加仓ETH多单，持仓已达1.46亿美元</description>
-      <pubDate>Tue, 19 Aug 2025 03:08:14 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 03:21:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fe21d5fa-3acf-4e53-8b4f-500e6094a677</guid>
       <category>crypto</category>
@@ -254,81 +333,6 @@
       <category>chinese-crypto-news</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>行情：CFX日内涨幅4.13%，INJ日内跌幅3.56%</title>
-      <link>https://www.panewslab.com/zh/articles/hbb3z4wo</link>
-      <description>行情：CFX日内涨幅4.13%，INJ日内跌幅3.56%</description>
-      <pubDate>Tue, 19 Aug 2025 03:06:14 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/hbb3z4wo</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Virtuals Protocol完成Genesis机制升级，新增三档认购门槛</title>
-      <link>https://www.panewslab.com/zh/articles/409ca0ff-42a8-4be2-a6d8-b5b2ab901b1e</link>
-      <description>Virtuals Protocol完成Genesis机制升级，新增三档认购门槛</description>
-      <pubDate>Tue, 19 Aug 2025 03:04:14 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/409ca0ff-42a8-4be2-a6d8-b5b2ab901b1e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Ark Invest昨日增持逾12万股Robinhood，价值约1414万美元</title>
-      <link>https://www.panewslab.com/zh/articles/81d861b7-2876-469d-9afc-80bfae611108</link>
-      <description>Ark Invest昨日增持逾12万股Robinhood，价值约1414万美元</description>
-      <pubDate>Tue, 19 Aug 2025 03:02:14 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/81d861b7-2876-469d-9afc-80bfae611108</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>OpenAI在印度推出ChatGPT Go订阅服务</title>
-      <link>https://www.panewslab.com/zh/articles/7d01fb3b-2977-4732-a782-41ebdfd7be28</link>
-      <description>OpenAI在印度推出ChatGPT Go订阅服务</description>
-      <pubDate>Tue, 19 Aug 2025 03:00:14 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7d01fb3b-2977-4732-a782-41ebdfd7be28</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>标普维持美国AA+/A-1+主权评级；前景展望维持稳定</title>
-      <link>https://www.panewslab.com/zh/articles/441c2767-7330-49e7-836a-7f1c5e581a78</link>
-      <description>标普维持美国AA+/A-1+主权评级；前景展望维持稳定</description>
-      <pubDate>Tue, 19 Aug 2025 02:58:14 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/441c2767-7330-49e7-836a-7f1c5e581a78</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
