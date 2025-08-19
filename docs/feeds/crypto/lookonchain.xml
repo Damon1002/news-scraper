@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 11:50:31 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 11:50:31 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 12:17:49 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 12:17:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,84 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>SharpLink has invested over $667 million to increase its holdings of 143,593 ETH.</title>
+      <link>https://www.lookonchain.com/feeds/25204</link>
+      <description>On August 19th, according to official information, SharpLink announced the acquisition of 143,593 Ethereum (ETH) at a price of around $4,648 per coin. As a result, its total Ethereum holdings reached 740,760 coins.</description>
+      <pubDate>Tue, 19 Aug 2025 12:16:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25204</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance VIP Introduces Institution Switching Package for Whale Traders</title>
+      <link>https://www.lookonchain.com/feeds/25203</link>
+      <description>On August 19th, as per an official announcement, Binance VIP has declared the launch of the &quot;Institutional Switch Package,&quot; which is specifically tailored for high-frequency traders who are migrating from other cryptocurrency exchanges to Binance. The application for the &quot;Institutional Switch Package&quot; is now available, with a deadline set for December 31, 2025. Through this plan, high-frequency traders will be entitled to the following benefits:1. VIP 5 Identity Experience for 30 Days: Be eligible to enjoy a maximum 75% trading fee discount in spot, futures, and margin trading during the initial 30 days.2. Deposit Reward: Deposit a minimum of $1 million in eligible assets within the first 30 days and receive a 0.5% BNB trading fee rebate voucher reward (with a maximum of $5,000). This rebate voucher can be utilized to offset trading fees across all Binance products.3. Zero-Interest Institutional Loan Trial: Have the opportunity to enjoy a Binance institutional loan with a maximum</description>
+      <pubDate>Tue, 19 Aug 2025 12:08:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25203</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Treasury Company KindlyMD Announces Purchase of 5744 BTC</title>
+      <link>https://www.lookonchain.com/feeds/25202</link>
+      <description>On August 19th, based on market information, the Bitcoin treasury company KindlyMD (Nasdaq: KDLY) declared that it had acquired 5744 BTC.</description>
+      <pubDate>Tue, 19 Aug 2025 12:08:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25202</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Robinhood Launches SUI Spot Trading</title>
+      <link>https://www.lookonchain.com/feeds/25201</link>
+      <description>On August 19th, according to an official statement, Robinhood has initiated SUI spot trading.</description>
+      <pubDate>Tue, 19 Aug 2025 12:00:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25201</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>U.S. Treasury Secretary: Will Meet with 11 Federal Reserve Chair Candidates</title>
       <link>https://www.lookonchain.com/feeds/25200</link>
       <description>On August 19, US Treasury Secretary Yellen announced that she is going to meet with 11 candidates for the position of Federal Reserve Chair. (FXStreet)</description>
-      <pubDate>Tue, 19 Aug 2025 11:49:39 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25200</guid>
       <category>crypto</category>
@@ -34,7 +108,7 @@
       <title>A whale deposited 2.34 million USDC into Hyperliquid for leveraged longing on BTC, ETH, and PUMP.</title>
       <link>https://www.lookonchain.com/feeds/25198</link>
       <description>On August 19th, as per the monitoring of Onchain Lens, a whale once more deposited 2.34 million USDC into Hyperliquid in order to further go long on BTC, ETH, and PUMP. They still have outstanding orders and are ready to further expand these long positions.</description>
-      <pubDate>Tue, 19 Aug 2025 11:32:39 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:32:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25198</guid>
       <category>crypto</category>
@@ -57,7 +131,7 @@
       <title>Trump will be interviewed by Fox News today at 8:00 PM</title>
       <link>https://www.lookonchain.com/feeds/25199</link>
       <description>On August 19, US President Trump posted on social media and stated, &quot;I will be giving an interview on FOX&amp;FRIENDS at 8 a.m. (8 p.m. Beijing time).&quot;</description>
-      <pubDate>Tue, 19 Aug 2025 11:32:39 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:32:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25199</guid>
       <category>crypto</category>
@@ -74,7 +148,7 @@
       <title>Viewpoint: Bitcoin Options Premium Indicates Market Inclination Towards Entering Volatility Contraction Phase</title>
       <link>https://www.lookonchain.com/feeds/25197</link>
       <description>On August 19th, Glassnode announced that the Bitcoin options premium last Friday reached a new record high of approximately $226 million (with about 69% being call options), suggesting that both bulls and bears were repricing risks. By Monday, the premium sharply dropped to about $18 million. Put options dominated the market while call options remained relatively stable, indicating a weakening of hedging demand; the market tends to believe that it will enter a phase of consolidation/volatility contraction.</description>
-      <pubDate>Tue, 19 Aug 2025 11:24:39 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:24:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25197</guid>
       <category>crypto</category>
@@ -93,7 +167,7 @@
       <title>Wyoming Issues America&apos;s First State-level Stablecoin, FRNT</title>
       <link>https://www.lookonchain.com/feeds/25196</link>
       <description>On August 19, FOX Business reporter Eleanor Terrett announced that Wyoming has officially initiated the Frontier Stable Token (FRNT), making it the first state in the United States to issue its own stablecoin.FRNT is supported by the US dollar and short-term treasuries and is currently accessible on seven blockchains: Ethereum, Solana, Arbitrum, Avalanche, Polygon, Optimism, and Base.Nevertheless, due to the continuous regulatory obstacles, the token is not yet available to the public.</description>
-      <pubDate>Tue, 19 Aug 2025 11:24:39 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:24:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25196</guid>
       <category>crypto</category>
@@ -110,7 +184,7 @@
       <title>Publicly traded company Everything Blockchain to Launch Diversified Cryptocurrency Treasury</title>
       <link>https://www.lookonchain.com/feeds/25195</link>
       <description>August 19th, In the off-exchange trading market, the listed company Everything Blockchain announced that it will launch a diversified cryptocurrency treasury. This treasury will consist of three types of cryptocurrency assets. One type is blue-chip cryptocurrencies that provide long-term stability support (such as BTC, ETH, SOL, XRP, etc.). Another type is tokens related to blockchain infrastructure. The third type is speculative assets (like Meme coins, AI-related tokens, and game / metaverse project tokens).</description>
-      <pubDate>Tue, 19 Aug 2025 11:00:39 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:16:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25195</guid>
       <category>crypto</category>
@@ -121,80 +195,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A Whale Accumulates 2318 ETH Again After Six Months, Worth $9.94 Million</title>
-      <link>https://www.lookonchain.com/feeds/25194</link>
-      <description>On August 19th, as per the monitoring of Onchain Lens, within the past 20 hours, a whale withdrew 2318 ETH from Wintermute and Kraken after a period of 6 months. The value of this withdrawal is $9.94 million.The whale currently holds 5191 ETH, with a value of $22.31 million. It has achieved current profits of $4.45 million.</description>
-      <pubDate>Tue, 19 Aug 2025 10:49:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25194</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Trump Jr: Crypto Will Be the Future of Finance, It Will Be a Trillion-Dollar Industry</title>
-      <link>https://www.lookonchain.com/feeds/25193</link>
-      <description>On August 19th, Donald Trump Jr., the son of former President Donald Trump, said in an interview with Bloomberg that their participation in the cryptocurrency field was not because of a deep understanding of crypto but out of necessity. (The Trump family) was being &quot;debanked&quot; by the traditional financial system. &quot;A few years ago, in this city, with just one phone call, almost no one would refuse to lend to my real estate project. But after we were labeled as &apos;political,&apos; overnight we became &apos;unwelcome individuals&apos;.&quot;&quot;Consequently, cryptocurrency represents the future of finance; we must make laws to establish the necessary &apos;guardrails&apos; for this industry to remain here. This will be a trillion-dollar industry that should be based in the United States. The US should benefit from the tax revenue, innovation, and growth it brings and should also have that strategic vision.&quot;&quot;So, I am extremely excited about that bill because it will ensure that the United States becomes the home of futur</description>
-      <pubDate>Tue, 19 Aug 2025 10:49:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25193</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will launch AriaAI (ARIA) on August 21.</title>
-      <link>https://www.lookonchain.com/feeds/25192</link>
-      <description>August 19th. According to official information, Binance Alpha is set to list AriaAI (ARIA) on August 21st. Once trading commences, eligible users will be able to utilize Alpha Points to claim the airdrop on the Alpha Activity Page. Further details will be made public shortly.</description>
-      <pubDate>Tue, 19 Aug 2025 10:49:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25192</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Market Update: Tether Appoints Former White House Crypto Council Executive Director Bo Hines as Chief of Digital Assets and US Strategic Advisor</title>
-      <link>https://www.lookonchain.com/feeds/25191</link>
-      <description>August 19: According to market intelligence, the issuer of USDT, Tether, has appointed Bo Hines, who was previously the Executive Director of the White House Crypto Council, as the Digital Assets and US Strategy Advisor.August 10: Bo Hines, the Executive Director of the White House Crypto Council, resigned and returned to the private sector.</description>
-      <pubDate>Tue, 19 Aug 2025 10:49:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25191</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
