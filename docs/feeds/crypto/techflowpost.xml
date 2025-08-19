@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 15:52:36 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 15:52:36 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 16:17:47 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 16:17:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,40 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>知名币圈爆料KOL币圈百科@crypt_pedia X 账号因违反规则被封禁</title>
+      <title>今日加密货币市值前100代币涨跌：MNT 涨 4.63%，PUMP 跌 11.62%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Coinmarketcap 数据，今日加密货币市值前 100 代币表现如下：涨幅前五Mantle (MNT)，涨4.63%，现价1.35美元Morpho (MORPHO)，涨3.40%，现价2.05美元OKB (OKB)，涨3.13%，现价123.15美元Monero (XMR)，涨1.45%...</description>
+      <pubDate>Tue, 19 Aug 2025 16:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>疑似与Bitmine关联的三个地址从 BitGo 获取 52,475 枚 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，疑似与Bitmine关联的三个地址从 BitGo 获取 52,475 枚 ETH，价值 2.2044 亿美元。</description>
+      <pubDate>Tue, 19 Aug 2025 15:59:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Coinbase将上线Useless Coin (USELESS)</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Coinbase官方宣布将于2025年8月20日上午9点(PT)或之后上线Solana网络上的Useless Coin (USELESS) SPL代币，前提是满足流动性条件。交易将分阶段启动USELESS-USD交易对。</description>
+      <pubDate>Tue, 19 Aug 2025 15:51:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币圈爆料 KOL 币圈百科 X 账号遭封禁</title>
       <link>https://www.techflowpost.com</link>
       <description>X页面显示，知名币圈爆料KOL币圈百科@crypt_pedia X 账号因违反规则被封禁。</description>
       <pubDate>Tue, 19 Aug 2025 15:49:00 +0000</pubDate>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Globenewswire报道，纳斯达克上市数字金融科技公司Mercurity Fintech Holding宣布通过一项证券购买协议出售其普通股共募集约600万美元资金，该笔资金将进一步推进该公司的数字资产财库战略以增强其资产负债表并提供额外的财务灵活性，目前该公司暂未披露将购买数字资产的种类...</description>
       <pubDate>Tue, 19 Aug 2025 13:34:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美股开盘，加密股涨跌不一</title>
-      <link>https://www.techflowpost.com</link>
-      <description>美股开盘，道指涨0.09%，标普500指数跌0.04%，纳指跌0.12%。</description>
-      <pubDate>Tue, 19 Aug 2025 13:33:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Green Mint Technologies获1.5亿美元投资用于开发可再生能源比特币挖矿</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Green Minting Technologies（简称&quot;Mint&quot;）今日宣布与GEM Digital Limited达成战略合作，通过代币认购协议获得高达1.5亿美元的投资承诺，用于开发600兆瓦离网可再生能源比特币挖矿和AI数据中心项目。</description>
-      <pubDate>Tue, 19 Aug 2025 13:29:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>MetaMask将原生集成TRON</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据The Block报道，TRON DAO与Consensys旗下MetaMask今日宣布达成战略合作，MetaMask将原生集成TRON区块链，使全球用户能够通过这一领先的自托管加密钱包直接与TRON生态系统交互。</description>
-      <pubDate>Tue, 19 Aug 2025 13:25:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
