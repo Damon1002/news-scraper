@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 06:57:52 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 06:57:52 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 07:25:32 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 07:25:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>BTFS 社区发布 BTIP-104 提案，推出文件存储续期新功能</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方消息，波场TRON旗下分布式存储网络BTFS正式推出BTIP-104提案，提案创新性地引入文件存储自动续期与手动续期功能。BTIP-104提案允许用户通过上传参数设置实现自动续期，或使用CLI命令手动延长文件存储期限，无需重复上传操作。此项升级将显著提升用户体验，有效降低网络带宽消耗，并为长...</description>
+      <pubDate>Tue, 19 Aug 2025 07:21:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某巨鲸/机构在过去一日内增持 277.5 枚 WBTC 和 2493 枚 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，某巨鲸地址在过去 24 小时内增持了 277.5 枚 WBTC 和 2493 枚 ETH，总价值约 4271 万美元。该地址目前持有 1196.2 枚 WBTC 和 8711 枚 ETH，总持仓价值约 1.8 亿美元，其中 WBTC 持仓价值 1.41 亿...</description>
+      <pubDate>Tue, 19 Aug 2025 07:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Matrixport：以太坊能否延续涨势，取决于财库需求以及能否稳守 4,180 美元支撑</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Matrixport 发布今日图表称，“以太坊 ETF 的资金流入，主要得益于“国库类公司”的设立与扩张。未来行情能否延续上涨，关键在于这些机构的持续加码，尤其在链上活跃度依旧低迷的情况下。稳定币发行虽更多集中在以太坊，且未来增量空间被市场普遍看好，但这一优势主要体现为中譫芴伛长期潜力，短期对收入...</description>
+      <pubDate>Tue, 19 Aug 2025 06:57:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>宁波破获涉虚拟货币“闪送茅台”诈骗案，被告人判处有期徒刑一年六个月</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析平台 Lookonchain 监测，在当前市场下跌行情下，麻吉大哥黄立成持有的 ETH、BTC、HYPE 和 PUMP 多头仓位总计浮亏接近 1000 万美元。</description>
       <pubDate>Tue, 19 Aug 2025 04:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>德州法官支持网红 Logan Paul 驳回其 NFT 项目 CryptoZoo 遭受的集体诉讼</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Cointelegraph 报道，德克萨斯州地方法院法官建议支持网红 Logan Paul 驳回其 NFT 项目 CryptoZoo 遭受的集体诉讼请求。法官 Ronald Griffin 表示，原告未能充分证明 Paul 与其资金损失之间的关联。Griffin 法官建议允许原告修改除商品池欺...</description>
-      <pubDate>Tue, 19 Aug 2025 04:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BTC 跌破 115000 美元，日内跌幅 1.08%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 HTX 行情数据显示，BTC 跌破 115000 美元，现报 114877.03 美元，日内跌幅 1.08%。</description>
-      <pubDate>Tue, 19 Aug 2025 03:44:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bithumb 将上线 BIO 韩元交易对</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Bithumb 将上线 BIO 韩元交易对。</description>
-      <pubDate>Tue, 19 Aug 2025 03:30:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
