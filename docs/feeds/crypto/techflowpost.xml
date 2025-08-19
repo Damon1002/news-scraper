@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 09:30:21 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 09:30:21 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 09:47:05 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 09:47:05 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>ETH反弹突破4300美元，24小时涨幅为1.35%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX行情显示，ETH反弹突破4300美元，现报4295美元，24小时涨幅为1.35%。</description>
+      <pubDate>Tue, 19 Aug 2025 09:33:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>高盛：五年期美债是降息前最佳交易选择，预计美联储9月降息25个基点</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>BlockSec Phalcon 在社交媒体发文表示，监测到以太坊网络上有一笔与 WEPE 关联合约（0x9a15bb）相关的可疑交易，造成约 1 万美元损失。由于该合约代码未开源，BlockSec Phalcon 初步判断可能涉及现货价格依赖性漏洞利用。</description>
       <pubDate>Tue, 19 Aug 2025 06:42:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼向 Hyperliquid 存入 100 万枚 USDC 并开启多个杠杆多头仓位</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，一鲸鱼地址向 Hyperliquid 存入价值 100 万美元的 USDC，并开启了多个杠杆多头仓位，包括以太坊（25 倍杠杆）、比特币（40 倍杠杆）以及 PUMP（5 倍杠杆）。</description>
-      <pubDate>Tue, 19 Aug 2025 06:31:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
