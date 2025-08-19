@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 14:54:31 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 14:54:31 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 15:20:36 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 15:20:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,107 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Suspected FBG Capital Address Transfers 16,524 ETH to Binance, Unrealized Gain of $7.98 Million</title>
+      <link>https://www.lookonchain.com/feeds/25227</link>
+      <description>On August 19th, according to Chain.info, a particular whale/institution (with an Arkham Tag suspected to be FBG Capital) transferred 16,524 ETH (approximately $70.6 million) to Binance within the past 30 minutes. If sold, it could potentially make a profit of $7.98 million.</description>
+      <pubDate>Tue, 19 Aug 2025 15:08:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25227</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Three Whale Addresses Triggered Panic Selling of Over 34,400 ETH, Approximately $148 Million</title>
+      <link>https://www.lookonchain.com/feeds/25228</link>
+      <description>On August 19th, based on the monitoring of LookOnChain, with the market plummeting, multiple whale addresses are in a state of panic and selling ETH.An hour ago, the address starting with 0x1D8d deposited 17,972 ETH into Coinbase (approximately $77.4 million);In the past 12 minutes, the address starting with 0x5A8E deposited 13,521 ETH into Binance (approximately $57.72 million);20 minutes ago, the address starting with 0x3684 deposited 3,003 ETH into Binance (approximately $12.89 million).</description>
+      <pubDate>Tue, 19 Aug 2025 15:08:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25228</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「$125,000 Leveraged Long on ETH Liquidated」 - Whale Long on ETH Currently Facing Unrealized Loss of Over $3,350,000</title>
+      <link>https://www.lookonchain.com/feeds/25226</link>
+      <description>On August 19th, according to on-chain data, the &quot;whale with a $125,000 long position in ETH liquidation&quot; is currently experiencing a loss of $2.675 million on a 15-times leveraged long ETH position and a loss of $678,000 on a 25-times leveraged long ETH position, with a total loss of $3.353 million.</description>
+      <pubDate>Tue, 19 Aug 2025 15:00:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25226</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>SEC Chair: Will Participate in Project Crypt Furnace Fireside Chat at SALT Wyoming Blockchain Event</title>
+      <link>https://www.lookonchain.com/feeds/25225</link>
+      <description>On August 19th, Paul Atkins, who is the Chairman of the U.S. Securities and Exchange Commission (SEC), declared that he is going to take part in a fireside chat regarding Project Crypto at the SALT Wyoming Blockchain Seminar today.Note: SALT is a global investment platform that establishes a connection between institutional asset owners and asset managers as well as technology entrepreneurs.</description>
+      <pubDate>Tue, 19 Aug 2025 14:56:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25225</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The US stock market continues to decline, with the Nasdaq index falling by 1%.</title>
+      <link>https://www.lookonchain.com/feeds/25224</link>
+      <description>On August 19th, based on market data, the US stock market continued to decline. The Nasdaq index dropped by 1.00%.</description>
+      <pubDate>Tue, 19 Aug 2025 14:56:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25224</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>o1.exchange has completed a $4.2 million funding round, with Coinbase Ventures and AllianceDAO co-leading the investment.</title>
       <link>https://www.lookonchain.com/feeds/25221</link>
       <description>On August 19th, as per official information, o1.exchange declared the successful completion of a $4.2 million financing round, with Coinbase Ventures and AllianceDAO taking the lead.According to the announcement, o1.exchange is constructing the first comprehensive trading terminal specifically designed for the Base chain. Additionally, it is launching a cashback incentive program with the aim of improving user trading experiences and platform liquidity.</description>
-      <pubDate>Tue, 19 Aug 2025 14:48:38 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 14:48:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25221</guid>
       <category>crypto</category>
@@ -32,10 +129,27 @@
 
     </item>
     <item>
+      <title>Trump&apos;s son, through his holding company Thumzup, is seeking to acquire the mining firm Dogehash.</title>
+      <link>https://www.lookonchain.com/feeds/25223</link>
+      <description>August 19th: As per The Block, Thumzup (Nasdaq: TZUP) is set to acquire Dogehash Technologies in an all-stock transaction. This acquisition seems to be one of Thumzup&apos;s initiatives towards a novel direction in cryptocurrency mining.Dogehash is an industrial-scale blockchain mining firm that concentrates on the Scrypt algorithm employed by Dogecoin and Litecoin. According to the terms of the agreement, Dogehash shareholders will exchange all their held shares for 30.7 million shares of Thumzup stock. The company will be rebranded as &quot;Dogehash Technologies Holdings, Inc.&quot; and will be traded on Nasdaq under the new ticker symbol &quot;XDOG.&quot; The deal is anticipated to be completed by the end of this year.Note: Donald Trump Jr., the son of former President Trump, disclosed in July 2025 that he had purchased 350,000 shares of Thumzup upon the recommendation of an investment advisor, with a value ranging approximately from $3.3 million to $4.3 million. He does not hold any operational or advi</description>
+      <pubDate>Tue, 19 Aug 2025 14:48:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25223</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>LookOnChain: Bitcoin Drops Below $114,000</title>
       <link>https://www.lookonchain.com/feeds/25222</link>
       <description>On August 19th, according to HTX market data, Bitcoin fell below $114,000 and is currently trading at $113,979, with a 24-hour decrease of 1.13%.</description>
-      <pubDate>Tue, 19 Aug 2025 14:48:38 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 14:48:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25222</guid>
       <category>crypto</category>
@@ -52,27 +166,10 @@
 
     </item>
     <item>
-      <title>Trump&apos;s son, through his holding company Thumzup, is seeking to acquire the mining firm Dogehash.</title>
-      <link>https://www.lookonchain.com/feeds/25223</link>
-      <description>August 19th: As per The Block, Thumzup (Nasdaq: TZUP) is set to acquire Dogehash Technologies in an all-stock transaction. This acquisition seems to be one of Thumzup&apos;s initiatives towards a novel direction in cryptocurrency mining.Dogehash is an industrial-scale blockchain mining firm that concentrates on the Scrypt algorithm employed by Dogecoin and Litecoin. According to the terms of the agreement, Dogehash shareholders will exchange all their held shares for 30.7 million shares of Thumzup stock. The company will be rebranded as &quot;Dogehash Technologies Holdings, Inc.&quot; and will be traded on Nasdaq under the new ticker symbol &quot;XDOG.&quot; The deal is anticipated to be completed by the end of this year.Note: Donald Trump Jr., the son of former President Trump, disclosed in July 2025 that he had purchased 350,000 shares of Thumzup upon the recommendation of an investment advisor, with a value ranging approximately from $3.3 million to $4.3 million. He does not hold any operational or advi</description>
-      <pubDate>Tue, 19 Aug 2025 14:48:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25223</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Ethereum Temporarily Falls Below $4200</title>
       <link>https://www.lookonchain.com/feeds/25220</link>
       <description>On August 19th, according to HTX market data, Ethereum briefly dipped below $4,200 and is currently trading at $4,222, with a 24-hour decrease of 2.16%.</description>
-      <pubDate>Tue, 19 Aug 2025 14:40:38 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 14:40:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25220</guid>
       <category>crypto</category>
@@ -92,101 +189,9 @@
       <title>If Bitcoin drops below $113,000, the mainstream CEX&apos;s cumulative long liquidation strength will reach $1.292 billion</title>
       <link>https://www.lookonchain.com/feeds/25219</link>
       <description>On August 19th, based on Coinglass data, if Bitcoin drops below $113,000, the cumulative intensity of long liquidation on mainstream CEXs will reach $1.292 billion.Conversely, if Bitcoin surges above $117,000, the cumulative intensity of short liquidation on mainstream CEXs will reach $868 million.**BlockBeats Note**: The liquidation chart does not disclose the exact number of contracts awaiting liquidation or the precise value of liquidated contracts. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart indicates to what extent the price of the underlying asset will be influenced when it reaches a specific level. A higher &quot;liquidation bar&quot; suggests that the price will undergo a more intense reaction due to a liquidity avalanche when it reaches that level.</description>
-      <pubDate>Tue, 19 Aug 2025 14:24:38 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 14:24:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25219</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Valantis Acquires HyperEVM On-Chain Liquidity Staking Platform StakedHYPE</title>
-      <link>https://www.lookonchain.com/feeds/25218</link>
-      <description>On August 19th, as per The Block, the modular DEX protocol Valantis announced that it has acquired HyperEVM, which is the second-largest staking liquidity platform on the blockchain, StakedHYPE. The financial details of the transaction remain undisclosed.Valantis stated that the operations, development, and expansion of StakedHYPE will be managed by Valantis Labs. As part of the transaction, Addison Spiegel, the founder of Thunderhead (the entity behind StakedHYPE), will join Valantis as an advisor.StakedHYPE is the second-largest staking liquidity platform in the Hyperliquid ecosystem following Kinetiq, with a total value locked (TVL) of more than $200 million.</description>
-      <pubDate>Tue, 19 Aug 2025 14:16:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25218</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>1inch Introduces Native Cross-Chain Trades, Enabling Solana-EVM Asset Swaps</title>
-      <link>https://www.lookonchain.com/feeds/25217</link>
-      <description>August 19th. As per official information, the decentralized exchange aggregator 1inch has declared the commencement of its native cross-chain exchange functionality. It now supports asset swaps between Solana and more than a dozen Ethereum EVM networks. This novel feature does not depend on a cross-chain bridge and can be utilized within the 1inch dApp, wallets, and the Fusion+ API.</description>
-      <pubDate>Tue, 19 Aug 2025 14:08:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25217</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin briefly drops below $115,000</title>
-      <link>https://www.lookonchain.com/feeds/25216</link>
-      <description>On August 19th, according to HTX market data, Bitcoin briefly fell below $115,000 and is currently trading at $115,051, with a 24-hour loss of 0.52%.</description>
-      <pubDate>Tue, 19 Aug 2025 13:56:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25216</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A trader has spent 4207.9 SOL on betting on the Kanye Meme Coin YZY concept, currently facing an unrealized loss of $231,000.</title>
-      <link>https://www.lookonchain.com/feeds/25215</link>
-      <description>On August 19th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a trader spent 4207.9 SOL (approximately $767,000) in a single buy order 18 minutes ago. With this purchase, the trader bought 27.7 million YZY (Kanye West concept Meme coin) at an average cost of $0.02767 per coin. Currently, the trader is facing an unrealized loss of $231,000.</description>
-      <pubDate>Tue, 19 Aug 2025 13:56:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25215</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>SkyBridge Founder: Maintaining Bitcoin End-of-Year Target Price of $180,000 to $200,000</title>
-      <link>https://www.lookonchain.com/feeds/25214</link>
-      <description>On August 19th, Anthony Scaramucci, the founder of SkyBridge Capital, stated in an interview with CNBC that he maintains his year-end price target for Bitcoin to be between $180,000 and $200,000. He also touched upon this week&apos;s Wyoming Blockchain Summit, the potential next Fed chair, the current status of Bitcoin, and his perspectives on stablecoins.</description>
-      <pubDate>Tue, 19 Aug 2025 13:53:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25214</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>

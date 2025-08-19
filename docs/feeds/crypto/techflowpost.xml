@@ -5,14 +5,80 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 14:54:31 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 14:54:31 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 15:20:36 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 15:20:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>「12.5 万滚仓做多 ETH」巨鲸遭遇部分清算，目前仓位价值 9443 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据分析师余烬监测，「12.5 万滚仓做多 ETH」巨鲸遭随着ETH价格跌破4177美元的清算线，其两个钱包地址均遭遇清算。该投资者早间持有的1.46亿美元ETH多头仓位已缩水至9443万美元，下一清算价位为4159美元。</description>
+      <pubDate>Tue, 19 Aug 2025 15:17:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>过去 24 小时全网爆仓 3.78 亿美元，主爆多单</title>
+      <link>https://www.techflowpost.com</link>
+      <description>其中，过去一小时全网爆仓超1.03亿，其中多单爆仓1亿美元。</description>
+      <pubDate>Tue, 19 Aug 2025 15:12:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>两关联钱包 25 分钟前买入 9,044 枚 ETH，价值约 3800 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，尽管市场下行，机构仍在持续购买 ETH。两个与机构相关联的钱包地址 0x50A5 和 0x9bdB 约 25 分钟前从 FalconX 接收了 9,044 枚 ETH，价值约 3800 万美元。</description>
+      <pubDate>Tue, 19 Aug 2025 15:09:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>疑似 FBG Capital 过去 30 分钟里把 16,524 枚 ETH 转进币安</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据分析师余烬监测，疑似 FBG Capital 过去 30 分钟里把 16,524 枚 ETH 转进币安，价值约7060万美元，获利798 万美元。</description>
+      <pubDate>Tue, 19 Aug 2025 15:05:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>多位巨鲸在市场下跌期间共恐慌抛售超3万枚ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，在市场下跌的情况下，巨鲸地址正在抛售 ETH。0x1D8d 开头地址于一小时前向 Coinbase 存入 17,972 枚 ETH，价值约 7,740 万美元；0x5A8E 开头地址在过去 12 分钟内向币安存入 13,521...</description>
+      <pubDate>Tue, 19 Aug 2025 15:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Base生态交易平台o1.exchange完成420万美元融资，Coinbase Ventures和AllianceDAO领投</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，Base生态交易平台o1.exchange完成420万美元融资，Coinbase Ventures和AllianceDAO领投。</description>
+      <pubDate>Tue, 19 Aug 2025 14:55:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>BTC跌破114000美元，24小时跌幅为1.08%</title>
       <link>https://www.techflowpost.com</link>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方消息，Circle宣布其Gateway服务已正式上线主网，该服务创建了一个统一的USDC余额系统，允许用户在不同区块链之间即时访问资金，响应时间低于500毫秒。目前已支持Arbitrum、Avalanche、Base、Ethereum、Optimism、Polygon和Unichain等区块...</description>
       <pubDate>Tue, 19 Aug 2025 13:12:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>VCI Global宣布20亿美元比特币合作，推动主权级加密基础设施建设</title>
-      <link>https://www.techflowpost.com</link>
-      <description>VCI Global Limited（纳斯达克股票代码：VCIG）今日宣布与领先数字资产持有者达成里程碑式合作，建立由18,000枚比特币（价值约21.6亿美元）支持的主权级基础设施合资企业。VCI Global将持有70%股权并负责商业化运营，合作伙伴保留BTC储备完全托管权。</description>
-      <pubDate>Tue, 19 Aug 2025 13:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Virtuals Protocol 升级 Genesis 启动模型，引入分层质押系统让用户在更好的估值参与顶级 AI 项目</title>
-      <link>https://www.techflowpost.com</link>
-      <description>近日，Virtuals Protocol 在 X 平台上宣布升级其 Genesis 启动模型，旨在通过引入三层质押系统（21K、42K、100K $VIRTUAL）平衡需求与公平性，让用户在合适的估值参与顶级 AI 项目。新模型的社区分配为 7% 的代币供应量，同时将 6% 用于流动性池，2% 空...</description>
-      <pubDate>Tue, 19 Aug 2025 12:55:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bullish：IPO收益11.5亿美元以稳定币形式结算</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Bullish（NYSE: BLSH）今日宣布，其近期完成的首次公开募股（IPO）中，共有11.5亿美元的收益以稳定币形式结算，创下美国IPO市场历史性里程碑。这些稳定币主要在Solana网络上铸造，由Jefferies作为代理协调整个铸造、转换和交付流程。所有稳定币收益由Coinba...</description>
-      <pubDate>Tue, 19 Aug 2025 12:46:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>交易员 The White Whale 6 地址持有价值 3 亿美元仓位，浮盈近 2000 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，交易员 The White Whale 的六个地址当前仍在 Hyperliquid 持有价值约 3 亿美元的仓位，包括 530,925.04 枚 SOL 多单和 55,358.87 枚 ETH 多单，共计浮盈 1,989.5 万美元。值得注...</description>
-      <pubDate>Tue, 19 Aug 2025 12:39:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>WEEX交易所上线RICE AI(RICE)并推出$50,000新人空投活动</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，WEEX 唯客交易所已上线 RICE AI (RICE) 现货交易，并推出 RICE 新人空投活动，总奖池 50,000 U。活动时间：8/19 18:00 - 8/26 18:00 (UTC+8)。活动期内，新用户净充值≥ 100 U，并首次现货交易 RICE，可获得 15 USDT...</description>
-      <pubDate>Tue, 19 Aug 2025 12:37:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>WEEX交易所开启「疯狂星期二」：交易5 U即可抽奖</title>
-      <link>https://www.techflowpost.com</link>
-      <description>WEEX 唯客交易所公告，「疯狂星期二」第 2 期活动即将开启，交易量达到 5 U 即可参与抽奖。活动时间：8/19 19:00 - 8/26 19:00 (UTC+8)活动期间，报名用户参与 ETH 交易，最低交易 5 U，即可抽取 ETH、USDT、WXT 空投及合约体验金奖励，总奖池价值 1...</description>
-      <pubDate>Tue, 19 Aug 2025 12:36:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
