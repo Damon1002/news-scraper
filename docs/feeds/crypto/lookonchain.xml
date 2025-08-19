@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 18:47:28 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 18:47:28 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:59:26 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 18:59:26 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,70 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>BOXABL Increases Bitcoin Holdings to 10 BTC at an Average Price of $107,800</title>
-      <link>https://www.lookonchain.com/feeds/25247</link>
-      <description>On August 20th, according to NLNico, the modular home builder BOXABL adopted Bitcoin as corporate reserves in May. It has now disclosed in its Q2 filing that it holds 10 bitcoins with an average purchase price of $107,800.</description>
-      <pubDate>Tue, 19 Aug 2025 18:40:34 +0000</pubDate>
+      <title>James Wynn Ethereum Long Liquidation Event</title>
+      <link>https://www.lookonchain.com/feeds/25251</link>
+      <description>On August 20th, as monitored by lookonchain, James Wynn&apos;s long position in Ethereum experienced partial liquidation, and it took only 10 hours. Now only 71.6 ETH in long position remains (approximately $300,000).Previously, after receiving a 19,206.72 USDC referral reward, he opened a 25x leveraged long position on ETH. The opening price was $4,239.5, and the liquidation price was $4,143.8.</description>
+      <pubDate>Tue, 19 Aug 2025 18:56:33 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25247</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25251</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Ethereum Withdrawal Momentum Rebounds, with a CEX Net Outflow of 9457.52 ETH in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/25250</link>
+      <description>On August 20th, based on Coinglass data, within the past 24 hours, CEX has witnessed a total net outflow of 9,457.52 ETH. The top three CEX with outflows are as follows:· Bybit, with an outflow of 26,300 ETH;· Coinbase Pro, with an outflow of 18,800 ETH;· Kraken, with an outflow of 3,303.03 ETH.In addition, OKX saw an inflow of 18,700 ETH and ranked first on the inflow list.</description>
+      <pubDate>Tue, 19 Aug 2025 18:48:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25250</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>If Ethereum falls below $4,000, the mainstream CEX cumulative long liquidation intensity will reach $1.223 billion</title>
+      <link>https://www.lookonchain.com/feeds/25249</link>
+      <description>On August 20th, based on Coinglass data, if Ethereum drops below $4000, the cumulative intensity of long liquidation on mainstream CEX will reach 1.223 billion.Conversely, if Ethereum rebounds above $4300, the cumulative intensity of short liquidation on mainstream CEX will reach 1.336 billion.BlockBeats Note: The liquidation chart does not precisely display the number of contracts to be liquidated or the exact value of the contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what extent the price of the underlying asset will be influenced when it reaches a certain position. A higher &quot;liquidation bar&quot; indicates that the price will have a more intense response due to a liquidity cascade once it reaches that level.</description>
+      <pubDate>Tue, 19 Aug 2025 18:48:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25249</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Bitcoin Falls Below $113,000</title>
+      <link>https://www.lookonchain.com/feeds/25248</link>
+      <description>On August 20th, based on HTX market data, Bitcoin dropped below $113,000, experiencing a 24-hour decline of 2.99%.</description>
+      <pubDate>Tue, 19 Aug 2025 18:48:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25248</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -37,7 +95,7 @@
       <title>「Big Brother Margin Trader」&apos;s long position&apos;s floating loss has increased to $11 million, with the Ethereum long position liquidation price at $3,092.1.</title>
       <link>https://www.lookonchain.com/feeds/25246</link>
       <description>On August 20th, based on on-chain data, the &quot;Big Brother Whale&quot; Huang Licheng&apos;s current long positions in BTC, ETH, HYPE, and PUMP have accumulated a floating loss of $11 million, reaching $11.87 million. The principal remaining in his address is $28.44 million. There is a daily floating loss of more than $4 million and a weekly floating loss of more than $10 million.His 25x long position of 24,100 ETH has a liquidation price of $3,092.1, and the single trade&apos;s floating loss has reached as high as $10 million.</description>
-      <pubDate>Tue, 19 Aug 2025 18:40:34 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 18:40:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25246</guid>
       <category>crypto</category>
@@ -54,10 +112,30 @@
 
     </item>
     <item>
+      <title>BOXABL Increases Bitcoin Holdings to 10 BTC at an Average Price of $107,800</title>
+      <link>https://www.lookonchain.com/feeds/25247</link>
+      <description>On August 20th, according to NLNico, the modular home builder BOXABL adopted Bitcoin as corporate reserves in May. It has now disclosed in its Q2 filing that it holds 10 bitcoins with an average purchase price of $107,800.</description>
+      <pubDate>Tue, 19 Aug 2025 18:40:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25247</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>「$125,000 ETH Long Liquidation」 Whale&apos;s Capital Drops Below $2 Million</title>
       <link>https://www.lookonchain.com/feeds/25245</link>
       <description>On August 20th, according to on-chain data. Due to a [liquidation of a 125,000 USD long position in ETH to 6.99 million USD], the whale&apos;s two addresses have been continuously undergoing liquidation, and their principal now is less than 2 million USD. Currently, the remaining long positions in their two addresses are as follows:· A 25x long position of 2,458.57 ETH, with an entry price of 4,334.10 USD and a liquidation price of 4,173.50 USD, having a floating loss of more than 400,000 USD;· A 15x long position of 11,516.70 ETH, with an entry price of 4,315.19 USD and a liquidation price of 4,170.00 USD, having a floating loss of more than 1.66 million USD.</description>
-      <pubDate>Tue, 19 Aug 2025 18:24:34 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 18:24:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25245</guid>
       <category>crypto</category>
@@ -78,7 +156,7 @@
       <title>Federal Reserve Governor: Federal Reserve Staff Should Be Allowed to Hold Small Amounts of Crypto</title>
       <link>https://www.lookonchain.com/feeds/25244</link>
       <description>On August 20th, Federal Reserve Governor Bowman expressed that having &quot;very small amounts&quot; of cryptocurrency would enable Federal Reserve staff members to gain a better understanding of crypto assets. Federal Reserve employees should be permitted to hold a small quantity of cryptocurrency. Constraints on the investment activities of Federal Reserve employees may impede the recruitment and retention of specialized examiners.</description>
-      <pubDate>Tue, 19 Aug 2025 18:16:34 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 18:16:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25244</guid>
       <category>crypto</category>
@@ -95,7 +173,7 @@
       <title>In the past 24 hours, the entire network has seen $4.44 billion in liquidations, with over 120,000 people being liquidated.</title>
       <link>https://www.lookonchain.com/feeds/25243</link>
       <description>On August 20th, according to Coinglass data, the total liquidation in the entire network within the past 24 hours was $444 million. The total long liquidation was $368 million and the total short liquidation was $75.7178 million. A total of 126,743 accounts were liquidated. The largest single liquidation order took place on Binance - BTCUSDT, amounting to $9.6953 million.</description>
-      <pubDate>Tue, 19 Aug 2025 18:16:34 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 18:16:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25243</guid>
       <category>crypto</category>
@@ -113,7 +191,7 @@
       <title>CyberKongz Floor Price Surpasses 0.49 ETH, With a 24-Hour Increase of 11.36%</title>
       <link>https://www.lookonchain.com/feeds/25242</link>
       <description>On August 20th, according to Blur data, the floor price of CyberKongz has exceeded 0.49 ETH. It has witnessed a 24-hour price increase of 11.36% and a 7-day price increase of 14.49%.</description>
-      <pubDate>Tue, 19 Aug 2025 16:46:34 +0000</pubDate>
+      <pubDate>Tue, 19 Aug 2025 16:58:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25242</guid>
       <category>crypto</category>
@@ -126,79 +204,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>CyberKongz will be launching a new token, KONG, to replace BANANA, with 2% of the total supply being airdropped to the Ethereum NFT community.</title>
-      <link>https://www.lookonchain.com/feeds/25241</link>
-      <description>On August 20th, according to official channels, the Ethereum NFT and gaming project CyberKongz announced the launch of a new token called KONG, which serves as the liquidity layer of its ecosystem and will completely replace the original token BANANA. The token will only be issued on the Ethereum mainnet and has a total supply of 1 billion. BANANA can be converted to KONG at a ratio of 1:25 (opened at TGE).The airdrop plan is to airdrop 2% of the total token supply to the Ethereum NFT community, with details to be announced.CyberKongz stated that KONG will integrate DeFi and NFT, introducing staking mechanisms, reward distribution, deflationary burning, and other functions. Future token distributions will be carried out quarterly through Kongz Hub, specifically targeting Genesis holders, Baby holders, and KONG stakers.</description>
-      <pubDate>Tue, 19 Aug 2025 16:46:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25241</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>SkyBridge will Tokenize $3 Billion Flagship Hedge Fund on Avalanche</title>
-      <link>https://www.lookonchain.com/feeds/25240</link>
-      <description>On August 20th, as per Fortune magazine, Anthony Scaramucci, the Founder and CEO of SkyBridge Capital, announced that the company intends to tokenize $300 million of its flagship hedge fund on the Avalanche blockchain network.</description>
-      <pubDate>Tue, 19 Aug 2025 16:46:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25240</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>SoFi Partners with Lightspark to Enable Bitcoin Lightning Network for Global Remittance Business</title>
-      <link>https://www.lookonchain.com/feeds/25239</link>
-      <description>On August 20th, as per the reports from CoinDesk, SoFi Technologies is scheduled to make remittance payments available on the second-layer network of Bitcoin - the Lightning Network - through a partnership with Lightspark. The aim is to offer its users real-time international transfer services.SoFi declared that it will incorporate Lightspark&apos;s Universal Merchant Address (UMA), which operates on the Bitcoin Lightning Network, to support nearly instantaneous cross-border payments.</description>
-      <pubDate>Tue, 19 Aug 2025 16:46:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25239</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Polkadot Establishes Capital Markets Division: Polkadot Capital Group</title>
-      <link>https://www.lookonchain.com/feeds/25238</link>
-      <description>On August 20th, according to a report by Cointelegraph, Polkadot has set up the Polkadot Capital Group, which is a capital markets division intended to connect traditional finance with its blockchain ecosystem.Its objective is to link traditional finance with the Polkadot infrastructure, assisting institutions in exploring opportunities in asset management, banking, venture capital, trading platforms, and over-the-counter trading.This division will also place emphasis on demonstrating the practical applications of decentralized finance, staking, and the tokenization of rapidly expanding real-world assets (RWA).</description>
-      <pubDate>Tue, 19 Aug 2025 15:46:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25238</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
