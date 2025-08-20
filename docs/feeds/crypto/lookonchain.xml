@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 02:05:27 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 02:05:27 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 03:15:44 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 03:15:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,48 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Bitget adopts the Chainlink Proof of Reserve scheme to enhance BGBTC asset transparency</title>
-      <link>https://www.lookonchain.com/feeds/25286</link>
-      <description>On August 20th, Bitget announced the implementation of a Chainlink-backed Proof of Reserve solution, offering real-time transparency and verifiable reserve guarantees for its Bitcoin-pegged asset BGBTC.According to reports, the Chainlink Proof of Reserve solution independently validates the reserve balance behind tokenized assets via a decentralized oracle network, bringing real-world asset reserve data onto the blockchain. This guarantees that the reserve backing BGBTC does not rely on manual disclosure and can be subject to independent audits at any time. This mechanism will also further support the use of BGBTC in BitVault Finance&apos;s DeFi yield strategies and lending products, enabling retail and institutional users to confirm that the reserve behind the asset is under continuous monitoring.Bitget CEO Gracy Chen stated: &quot;Transparency is of great importance in the digital asset industry. By adopting Chainlink&apos;s Proof of Reserve solution, we have provided greater trust assurances t</description>
-      <pubDate>Wed, 20 Aug 2025 01:57:34 +0000</pubDate>
+      <title>An institution sold 4,000 ETH at an average price of $4,164, and has already sold over 12,500 ETH to date.</title>
+      <link>https://www.lookonchain.com/feeds/25297</link>
+      <description>On August 20th, according to the monitoring of on-chain analyst AI Auntie ai_9684xtpa, an institution has once again sold 4,000 ETH within the past 12 hours. The value of these sold ETH is $16.65 million, with an average price of $4,164.From 08.18 to the present date, this address has sold a total of 12,575 ETH. The total value of these sales amounts to up to $53.68 million. Currently, it still holds 6,210 ETH.</description>
+      <pubDate>Wed, 20 Aug 2025 03:00:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25286</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Source: InsiderInsider sources: U.S. CFTC nominee Brian Quintenz&apos;s nomination is stalled, with multiple cryptocurrency industry organizations jointly supporting him.</title>
-      <link>https://www.lookonchain.com/feeds/25285</link>
-      <description>On August 20th. According to crypto reporter Eleanor Terrett, Brian Quintenz, the nominee for the U.S. Commodity Futures Trading Commission (CFTC), has recently taken the initiative to get in touch with members of the crypto industry to hold a meeting after his nomination was stalled for three weeks. Since the Senate Judiciary Committee postponed his confirmation hearing three weeks ago, the White House has remained silent without making any comments.Meanwhile, several industry organizations such as the Digital Chamber, Blockchain Association, Crypto Council, and Fund DeFi are preparing a joint letter of support, which is anticipated to be submitted to President Trump as early as tomorrow regarding his nomination.</description>
-      <pubDate>Wed, 20 Aug 2025 01:57:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25285</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Data: Ethereum Staking Amount has decreased by a net of 43,873 ETH in the past week, equivalent to approximately $178 million.</title>
-      <link>https://www.lookonchain.com/feeds/25287</link>
-      <description>On August 20th, based on the data from the Validator Queue tracking website validatorqueue, the staking amount of Ethereum has decreased from 35.651 million ETH to 35.607 million ETH within the past week. This represents a net decrease of 43,873 ETH, which is approximately worth $1.78 billion.Furthermore, as of the moment of writing, the current exit queue of the Ethereum PoS network is temporarily reported to be 916,647 ETH, and it remains at a historical high.</description>
-      <pubDate>Wed, 20 Aug 2025 01:57:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25287</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25297</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -70,12 +34,64 @@
 
     </item>
     <item>
-      <title>Estimated Ethereum Staking Costs for BMNR and SBET: $3730 and $3478 respectively</title>
-      <link>https://www.lookonchain.com/feeds/25284</link>
-      <description>August 20th. On-chain analyst Yu Jin calculated the Ethereum buying costs of BitMine and SharpLink. Based on the announced purchases since the beginning of ETH reserves by BitMine and SharpLink, the calculations are as follows:BitMine (BMNR) began buying ETH on 7/9. As of 8/17, it held 1,523,373 ETH with an average cost of $3,730.SharpLink (SBET) started buying ETH on 6/13. By 8/17, it held 740,760 ETH and had an average cost of $3,478.</description>
-      <pubDate>Wed, 20 Aug 2025 01:48:34 +0000</pubDate>
+      <title>Celsius will conduct its third distribution to lenders, with a total amount of $220.6 million</title>
+      <link>https://www.lookonchain.com/feeds/25296</link>
+      <description>On August 20th, as per Cointelegraph, Celsius is set to commence its third distribution to eligible creditors, amounting to $2.206 billion. This will bring the cumulative recovery rate to approximately 64.9% of the claim value.BlockBeats had previously reported that on May 9th, Celsius founder Alex Mashinsky was sentenced to 12 years in prison for crypto fraud. The two charges against him resulted in sentences of 120 months and 144 months (to be served concurrently for 144 months). Alex Mashinsky agreed to forfeit $48 million and several properties. Prior to Celsius&apos; collapse in 2022, Alex Mashinsky repeatedly deceived investors regarding the security of customer deposits. The prosecution pointed out that he falsely claimed that the platform had regulatory approval, insisted that they never issued unsecured loans (while in fact they did), and manipulated the price of the CEL token for personal gain - the illicit gains related to CEL alone exceeded $48 million.</description>
+      <pubDate>Wed, 20 Aug 2025 02:56:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25284</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25296</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Puffer&apos;s official website and social media channels have been attacked. Please do not engage with this protocol.</title>
+      <link>https://www.lookonchain.com/feeds/25295</link>
+      <description>On August 20th, as monitored by PeckShield, the official website and social media channels of the rebase protocol Puffer Finance have been hacked. It is advised that you do not interact with any Puffer applications and refrain from visiting official social media channels.</description>
+      <pubDate>Wed, 20 Aug 2025 02:48:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25295</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>U.S. Treasury Secretary: U.S. and China had a &quot;very productive discussion&quot; on economic and trade issues</title>
+      <link>https://www.lookonchain.com/feeds/25294</link>
+      <description>August 20th. As per Reuters, on August 19th local time, U.S. Treasury Secretary Yellen stated in an interview that the U.S. and China had engaged in a &quot;very good dialogue&quot; regarding economic and trade matters. Yellen said, &quot;We had a highly productive dialogue with the Chinese side, and I anticipate that we will hold another meeting prior to November. I believe that the ongoing work is progressing in an extremely smooth manner.&quot;</description>
+      <pubDate>Wed, 20 Aug 2025 02:48:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25294</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>「Radiant Capital Flashbot」 conducted a sandwich attack in the past 1 hour, sniping 2109.5 ETH at an average price of $4096</title>
+      <link>https://www.lookonchain.com/feeds/25293</link>
+      <description>On August 20th, according to Ashes Monitor, the Radiant Capital hacker has once again purchased 2,109.5 ETH with 8.64 million DAI at a price of $4,096 within the past hour. A week ago, they sold 9,631 ETH at an average price of $4,562 and exchanged it for 43.937 million DAI.Now, the Radiant Capital hacker holds 14,436 ETH + 35.29 million DAI, which is worth $94.63 million. Compared to the $53 million of funds they stole last year, the value has increased by $41.63 million.</description>
+      <pubDate>Wed, 20 Aug 2025 02:32:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25293</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -90,12 +106,46 @@
 
     </item>
     <item>
-      <title>「Yeezy Coin」 Trader Liquidates Position, Loses $704,000 in 3 Hours</title>
-      <link>https://www.lookonchain.com/feeds/25283</link>
-      <description>August 20th. According to on-chain analyst Ai Yi (@ai_9684xtpa), the &quot;Betting on Kanye Concept Meme Coin YZY&quot; trader transferred all 27.72 million tokens to the address 51mwU...bw5DG 7 hours ago. Subsequently, they sold all the tokens in 48 transactions with an average price of $0.002103 (cost basis $0.02767), resulting in a loss of $704,000 within 3 hours.</description>
-      <pubDate>Wed, 20 Aug 2025 01:40:34 +0000</pubDate>
+      <title>Powell to Deliver Speech on Friday Evening, Some Traders Lower Rate Cut Expectations</title>
+      <link>https://www.lookonchain.com/feeds/25292</link>
+      <description>August 20th: Chairman Powell of the Federal Reserve is slated to give a crucial speech at this year&apos;s gathering in Wyoming on Friday evening according to Beijing time. Meanwhile, the recent release of inflation data that is higher than expected has led some traders to reduce their expectations of interest rate cuts while still maintaining the judgment of a rate cut next month.Ian Lyngen, the head of U.S. Rate Strategy at BMO Capital Markets, stated in a research report that &quot;as the market gets ready for Powell&apos;s speech at Jackson Hole, the greatest risk facing the Treasury market is that the Fed Chair may pour cold water on the market&apos;s widespread expectation of a rate cut in September.&quot;Currently, there are approximately 325,000 options positions (costing about $10 million) that are likely to make a profit of up to $100 million if they accurately predict a 50-basis-point rate cut by the Fed at the September policy meeting. In addition, the current market pricing indicates that ther</description>
+      <pubDate>Wed, 20 Aug 2025 02:24:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25283</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25292</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Santiment: Retail Investor Sentiment Shifts to Extreme Bearish, Potentially Signaling Market Reversal</title>
+      <link>https://www.lookonchain.com/feeds/25291</link>
+      <description>On August 20th, according to Santiment data, once Bitcoin dropped below $113,000 and was unable to maintain a rebound, the sentiment of retail traders experienced a sharp decline within the past 24 hours, reaching the lowest level since the sell-off triggered by the geopolitical conflict on June 22nd.Santiment stated that historically, extremely bearish sentiment often presents patient investors with opportunities to buy at a lower price or accumulate. Moreover, market trends usually develop contrary to popular expectations.</description>
+      <pubDate>Wed, 20 Aug 2025 02:24:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25291</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The DEA Seized $19 Million in Drug Money During an Undercover Operation, Some of Which Flowed into Cryptocurrency</title>
+      <link>https://www.lookonchain.com/feeds/25289</link>
+      <description>On August 20th, the Drug Enforcement Administration (DEA) of the United States managed to infiltrate and gain control of a Colombian drug trafficking group&apos;s money laundering network through an undercover operation that spanned more than a decade. A total of approximately $19 million was handled, with some of it being transferred to a cryptocurrency account. As a result of this operation, two individuals involved in heroin trafficking were indicted.Relevant documents indicate that in 2018, DEA undercover agents transferred $150,000 to a Coinbase account and converted it into over 13 bitcoins. Benefiting from the significant price increase, this part of the assets is currently valued at more than $1.5 million. The Department of Justice is striving to recover the relevant funds. (Forbes)</description>
+      <pubDate>Wed, 20 Aug 2025 02:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25289</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -108,29 +158,12 @@
 
     </item>
     <item>
-      <title>Insider: Musk Pauses Formation of New Political Party, Continues to Seek Connection with Vance</title>
-      <link>https://www.lookonchain.com/feeds/25282</link>
-      <description>On August 20th, as reported by The Wall Street Journal, Elon Musk has decelerated his plans to establish the &quot;America Party&quot; as a third political party. Those with knowledge of the matter stated that Musk is currently inclined to concentrate on the operation of his companies and is cautious about forming a party because he is reluctant to divert votes from the Republican Party. The sources indicated that Musk has been attempting to maintain communication with American Vice President Pence.Previously, Musk had declared that the new party aimed to restore voter &quot;freedom,&quot; but recently informed his allies that he is not currently proceeding with related actions.</description>
-      <pubDate>Wed, 20 Aug 2025 01:32:34 +0000</pubDate>
+      <title>Bitcoin-Related Domain Names Bundle of 280 Up for Auction, Lloyds Accepts Cryptocurrency Payments</title>
+      <link>https://www.lookonchain.com/feeds/25290</link>
+      <description>On August 20th, according to Decrypt, the Australian auction house Lloyds announced that it will auction off more than 280 Bitcoin-related domain names as a single lot. These domain names include BitcoinWallets.com, BitcoinExchanges.com, JapanBitcoin.com, etc., and some of the domains were originally registered as early as 2010.Previously, Lloyds sold XBT.com for $3 million. This auction requires pre-approval of qualifications and supports payment in cryptocurrencies such as Bitcoin and Ethereum, etc. Lloyds did not disclose a specific valuation and stated that this batch of domain names represents the &quot;Bitcoin digital economic language.&quot;</description>
+      <pubDate>Wed, 20 Aug 2025 02:16:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25282</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analysis: Bitcoin 30-Day Option Delta Skew Skyrockets, Indicating Market is in Extreme Fear</title>
-      <link>https://www.lookonchain.com/feeds/25281</link>
-      <description>On August 20th, according to Deribit data, the Bitcoin 30-day option Delta skew (put-call) skyrocketed to 12%, attaining its highest level in more than four months. In a neutral situation, this indicator typically fluctuates between -6% and +6%, which reflects the balanced pricing of call (buy) and put (sell) options. When the level is above 10%, it indicates extreme market fear, but such situations seldom last.Previously, this indicator soared to 13% on April 7th, when Bitcoin fell below $74,500 for the first time in five months. Subsequently, risk-taking investors reaped a 40% return in the following month, with Bitcoin rising to $104,150 on May 8th.Cointelegraph&apos;s analysis suggests that there is no evidence indicating the end of Bitcoin&apos;s bull market. Traders&apos; fear often exceeds rational expectations. In fact, this cryptocurrency may even benefit from potential outflows from the stock market, suggesting that the current turmoil will not counteract the market&apos;s long-term bullish</description>
-      <pubDate>Wed, 20 Aug 2025 01:32:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25281</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25290</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -144,12 +177,12 @@
 
     </item>
     <item>
-      <title>At the end of July, a whale bought $20.08 million worth of ETH at an average price of $3958 and swapped it for WBTC.</title>
-      <link>https://www.lookonchain.com/feeds/25280</link>
-      <description>On August 20th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), at the end of July, a whale accumulated $20.8 million worth of ETH with an average price of $3958 and then repositioned into WBTC.During yesterday&apos;s price drop, the whale directly sold 1200 ETH ($4.97 million) at $4,147.86, realizing a profit of $228,000. The remaining 3900 ETH was swapped for 143.26 WBTC two hours ago. At that time, ETH was selling at $4169 and WBTC was buying at $113,493.</description>
-      <pubDate>Wed, 20 Aug 2025 01:24:34 +0000</pubDate>
+      <title>Viewpoint: Ethereum&apos;s recent drop is just a &quot;healthy pullback after a 245% rally.&quot;</title>
+      <link>https://www.lookonchain.com/feeds/25288</link>
+      <description>On August 20th, the cryptocurrency analyst @IamCryptoWolf commented on Ethereum&apos;s recent decline, saying, &quot;This is merely a retracement following a 245% surge (Ethereum began to rise from a year-to-date low of $1385 on April 9th and reached a year-to-date high of $4788 last week). It has broken through the long-standing $4000 resistance level. A healthy pullback, perhaps just a retest of the breakout area.&quot;@IamCryptoWolf shared his analysis on the Tradingview platform in 2014 and has 111,000 followers on the platform.</description>
+      <pubDate>Wed, 20 Aug 2025 02:14:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25280</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25288</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -158,46 +191,8 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Trump Urges Powell to Cut Rates Again: &quot;Too Late to Be Mr. Hawk&quot;</title>
-      <link>https://www.lookonchain.com/feeds/25279</link>
-      <description>On August 20th, President Trump once again posted on his Truth platform, urging Powell to cut interest rates. He said, &quot;Could someone kindly inform Jerome *Too Late* Powell that his actions are causing great harm to the real estate industry? People are unable to obtain mortgages due to him. However, all indications suggest that there was no inflation before, and a significant rate cut is needed. &apos;Too Late&apos; is a disaster!&quot;</description>
-      <pubDate>Wed, 20 Aug 2025 01:16:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25279</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Early Leader Coin Market-wide Downturn, ZORA Plunges Over 19% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/25278</link>
-      <description>On August 20th, according to market data, previously strong coins witnessed a general decline today. These include: ZORA, which saw a daily decline of 19.3% and is now trading at $0.08834; SKALE, with a daily decrease of 11% and currently trading at $0.03063; XNY, experiencing a daily decrease of 26.9% and now trading at $0.01078; and MYX, which had a daily decrease of 24.9% and is now trading at $1.08.</description>
-      <pubDate>Wed, 20 Aug 2025 01:08:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25278</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
