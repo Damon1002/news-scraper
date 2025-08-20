@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 08:31:18 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 08:31:18 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 08:51:03 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 08:51:03 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,84 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The current mainstream CEX and DEX funding rate display indicates that the market is almost entirely bearish.</title>
+      <link>https://www.lookonchain.com/feeds/25344</link>
+      <description>On August 20th, based on Coinglass data, the current mainstream CEX and DEX funding rates suggest that the market is almost entirely in a bearish trend.**BlockBeats Note**: The Funding Rate is a rate set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The exchange does not collect this fee but uses it to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the Funding Rate is 0.01%, it represents the baseline rate. When the Funding Rate is above 0.01%, it indicates a generally bullish market. When the Funding Rate is below 0.005%, it indicates a generally bearish market.</description>
+      <pubDate>Wed, 20 Aug 2025 08:48:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25344</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Wallet will launch AKEDO (AKE) Exclusive TGE Event</title>
+      <link>https://www.lookonchain.com/feeds/25343</link>
+      <description>August 20th. As per official channels, Binance Wallet is set to launch the AKEDO (AKE) exclusive TGE event on August 21st, 2025, from 8:00 AM to 10:00 AM (UTC). Qualified users will be required to utilize Binance Alpha Points to take part.</description>
+      <pubDate>Wed, 20 Aug 2025 08:33:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25343</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Glassnode: Major Tokens Such as BTC, ETH, and SOL Hit All-Time Highs in Daily Profit</title>
+      <link>https://www.lookonchain.com/feeds/25342</link>
+      <description>On August 20th, Glassnode shared data on social media suggesting a market contraction. This was mainly due to large-scale profit-taking by investors who had held their assets for more than 1 month (non-day traders), including the following:· On July 18th: Bitcoin holders with a holding period of over 1 month realized profits exceeding $1.5 billion, marking the largest single-day profit peak since December 2024.· On August 16th: Ethereum witnessed profits of $575 million, which was the largest profit-taking wave so far in this cycle, indicating that long-term holders were risk-averse.· On August 17th: SOL holders with a holding period of over 1 month realized profits exceeding $105 million, marking the largest single-day profit event since the early 2025 surge.</description>
+      <pubDate>Wed, 20 Aug 2025 08:32:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25342</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>BAS Surges Over 120% in 24 Hours, Market Cap Exceeds $40 Million</title>
+      <link>https://www.lookonchain.com/feeds/25341</link>
+      <description>On August 20th, based on market data, the Binance Alpha Zone token BAS has witnessed a 132% increase in price within the past 24 hours. Its market capitalization has exceeded $40 million, and the 24-hour trading volume is $46.43 million.</description>
+      <pubDate>Wed, 20 Aug 2025 08:16:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25341</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Radiant Capital Hackers Once Again Spend 10 Million DAI to Leverage ETH</title>
       <link>https://www.lookonchain.com/feeds/25340</link>
       <description>On August 20th, as monitored by on-chain data analyst Yu Jin, the hacker of Radiant Capital continued to purchase 10 million DAI worth of ETH in the past hour. Today, this address has spent a total of 18.64 million DAI to buy 4487.8 ETH at an average price of $4154.</description>
-      <pubDate>Wed, 20 Aug 2025 08:16:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 08:16:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25340</guid>
       <category>crypto</category>
@@ -34,12 +108,12 @@
 
     </item>
     <item>
-      <title>BAS Surges Over 120% in 24 Hours, Market Cap Exceeds $40 Million</title>
-      <link>https://www.lookonchain.com/feeds/25341</link>
-      <description>On August 20th, based on market data, the Binance Alpha Zone token BAS has witnessed a 132% increase in price within the past 24 hours. Its market capitalization has exceeded $40 million, and the 24-hour trading volume is $46.43 million.</description>
-      <pubDate>Wed, 20 Aug 2025 08:16:26 +0000</pubDate>
+      <title>Binance: Users with a minimum of 200 points can claim a 200 SAPIEN airdrop.</title>
+      <link>https://www.lookonchain.com/feeds/25339</link>
+      <description>On August 20th, Binance officials declared that following the commencement of trading for Sapien (SAPIEN), users possessing at least 200 Binance Alpha Points will be eligible to receive a 200 SAPIEN token airdrop on a first-come, first-served basis until the airdrop pool is completely distributed or the airdrop event concludes.It should be noted that claiming the airdrop will consume 15 Alpha Points. Users are required to confirm their receipt on the Alpha Events page within 24 hours; otherwise, it will be deemed that the user has waived the airdrop.</description>
+      <pubDate>Wed, 20 Aug 2025 08:09:09 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25341</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25339</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -48,14 +122,13 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
     <item>
       <title>A whale address has unbonded 98,000 SOL and transferred all to Binance</title>
       <link>https://www.lookonchain.com/feeds/25338</link>
       <description>On August 20th, as per the monitoring of LookOnChain, a whale address commencing with 91GShr un-staked 98,291 SOL (approximately $17.83 million) 30 minutes ago and subsequently transferred the entire amount to Binance.</description>
-      <pubDate>Wed, 20 Aug 2025 08:08:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 08:08:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25338</guid>
       <category>crypto</category>
@@ -71,27 +144,10 @@
 
     </item>
     <item>
-      <title>Binance: Users with a minimum of 200 points can claim a 200 SAPIEN airdrop.</title>
-      <link>https://www.lookonchain.com/feeds/25339</link>
-      <description>On August 20th, Binance officials declared that following the commencement of trading for Sapien (SAPIEN), users possessing at least 200 Binance Alpha Points will be eligible to receive a 200 SAPIEN token airdrop on a first-come, first-served basis until the airdrop pool is completely distributed or the airdrop event concludes.It should be noted that claiming the airdrop will consume 15 Alpha Points. Users are required to confirm their receipt on the Alpha Events page within 24 hours; otherwise, it will be deemed that the user has waived the airdrop.</description>
-      <pubDate>Wed, 20 Aug 2025 08:08:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25339</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Tom Lee: Powell&apos;s Friday Speech May Be Understood by the Market as &quot;Dovish,&quot; While the Stock Market Will Rise After the Speech</title>
       <link>https://www.lookonchain.com/feeds/25337</link>
       <description>On August 20th, Tom Lee, the newly appointed Chairman of the Board of BitMine, posted on social media, indicating that during discussions with institutional investors, a greater number of people anticipate that Federal Reserve Chairman Powell will incline towards a &quot;hawkish&quot; stance in his speech this Friday. This is because he does not wish to be cornered into the situation of cutting interest rates. However, this is merely the &quot;baseline scenario,&quot; and the probability leans towards his statement being regarded as &quot;dovish,&quot; which implies that the stock market may rise after the Jackson Hole event.Federal Reserve Chairman Powell is scheduled to deliver a speech on the economic outlook and the evaluation of the Federal Reserve&apos;s policy framework at the annual central bank symposium of the Federal Reserve Bank of Kansas City in Jackson Hole, Wyoming, at 10 a.m. Eastern Time (10 p.m. Beijing Time) on August 22nd.</description>
-      <pubDate>Wed, 20 Aug 2025 07:56:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 07:56:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25337</guid>
       <category>crypto</category>
@@ -108,7 +164,7 @@
       <title>ARK Invest&apos;s ARKK increased its position by 356,000 shares of Bullish (BLSH) yesterday, equivalent to approximately $21.2 million.</title>
       <link>https://www.lookonchain.com/feeds/25336</link>
       <description>On August 20th, based on Tuesday&apos;s trading notifications, ARK Invest&apos;s leading ARK Innovation ETF (ARKK) bought 356,346 shares of Bullish stock, which was approximately worth $21.2 million. Additionally, it purchased 150,908 shares of Robinhood Markets stock yesterday, with a value of $16.2 million.Last week, ARK Invest made a substantial investment in Bullish. It acquired 2.53 million shares of the cryptocurrency exchange platform through three ETFs after the platform made its debut on the New York Stock Exchange, with a value of $172 million.</description>
-      <pubDate>Wed, 20 Aug 2025 07:48:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 07:50:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25336</guid>
       <category>crypto</category>
@@ -126,64 +182,9 @@
       <title>SEC Chair: Only a tiny number of tokens meet the definition of a security, ushering in a new era for the crypto industry</title>
       <link>https://www.lookonchain.com/feeds/25335</link>
       <description>On August 20th, SEC Chairman Paul Atkins recently restated his favorable stance towards cryptocurrency. He emphasized that &quot;a very small number&quot; of tokens fall into the securities category. This statement represents a significant change from the regulatory attitude of the previous administration.While attending a blockchain symposium in Wyoming on Tuesday, Paul Atkins clearly stated: &quot;The SEC will actively promote the new idea that tokens themselves may not necessarily and likely do not constitute securities. In my view, very few tokens truly meet the definition of securities, with the key depending on their ecosystem and method of sale.&quot;This statement comes as the latest policy signal from the SEC following the launch of &quot;Project Crypto&quot; last month. The project has been described by the chairman as a key part of securities law &quot;modernization&quot; reform, aiming to drive the U.S. financial markets towards on-chain transformation.Paul Atkins emphasized, &quot;Especially for the crypto indu</description>
-      <pubDate>Wed, 20 Aug 2025 07:41:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 07:50:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25335</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Hyperliquid team expects a per capita annual revenue of $1.043 billion, making it the company with the highest per capita revenue worldwide.</title>
-      <link>https://www.lookonchain.com/feeds/25334</link>
-      <description>On August 20th, according to data from DeFiLlama, the Hyperliquid protocol has generated a revenue of $95.63 million in the past 30 days, with an estimated annual revenue of $1.147 billion.In a recent interview, the founder of the company, Jeff, stated that the company&apos;s team consists of only 11 people. With an expected annual revenue of $1.147 billion, the per capita annual revenue is calculated to be $104.3 million, making it the company with the highest per capita revenue in the world.</description>
-      <pubDate>Wed, 20 Aug 2025 07:32:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25334</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Surges, Briefly Breaks $4,200</title>
-      <link>https://www.lookonchain.com/feeds/25333</link>
-      <description>On August 20th, based on HTX market data, Ethereum witnessed a rebound and briefly exceeded $4,200. It is currently trading at $4,197.</description>
-      <pubDate>Wed, 20 Aug 2025 07:30:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25333</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Analyst: Data shows that options traders continue to remain optimistic, with the majority believing that the trend is not over yet</title>
-      <link>https://www.lookonchain.com/feeds/25332</link>
-      <description>August 20th. On-chain data analyst Murphy posted on social media, indicating that based on the &quot;Option Strike Heatmap&quot; data, on August 19th, there was a large-scale call option activity in the price range of $123,708 to $129,685. The total option premium size was approximately $43.32 million. At the same time, there was no net buying below the spot price, suggesting that traders were more inclined to bet on BTC rising to this range and there was little demand for put options, with almost no one actively purchasing downside protection.On the other hand, relatively larger-scale put options were sold in the price range of $97,709 to $102,430, and the total option premium size was approximately $13.14 million. This indicates that option sellers think it is unlikely for the price to drop to this level and choose to sell volatility.Therefore, the sentiment among option market traders remains optimistic. Most still believe that BTC&apos;s trend is not over and are betting that it can return to</description>
-      <pubDate>Wed, 20 Aug 2025 07:30:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25332</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
