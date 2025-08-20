@@ -5,14 +5,52 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 05:18:40 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 05:18:40 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 05:39:42 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 05:39:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>If the whale sets 10 large goals, the Ethereum long positions will be uncovered, resulting in a maximum potential loss of $7.5 million.</title>
+      <link>https://www.lookonchain.com/feeds/25317</link>
+      <description>On August 20th, the long position of the Ethereum whale &quot;First Set 10 Big Goals&quot; remains open. It holds more than 31,000 ETH with a leverage of over 5 times. Potentially, it is facing an unrealized loss of $7.5 million with the position unchanged. The initial margin is $27.26 million, the entry price is $4399.13, and the liquidation price is $2655.41.BlockBeats previously reported that on August 16th. According to a position screenshot shared by the whale &quot;First Set 10 Big Goals&quot; at 20:24 on that day, the whale had a long position of more than 31,000 ETH with an entry price of $4399.13 and a leverage of over 5 times. The liquidation price was $2655.41, and the current unrealized loss was more than $640,000.</description>
+      <pubDate>Wed, 20 Aug 2025 05:32:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25317</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The Strategy stock price has dropped to a near four-month low, with Saylor stating that the company will loosen restrictions on issuing more shares.</title>
+      <link>https://www.lookonchain.com/feeds/25316</link>
+      <description>On August 20th, the stock price of Michael Saylor-led Strategy (MSTR) dropped to a nearly four-month low. This was due to an overall decline in cryptocurrency treasury companies, a pullback in Bitcoin&apos;s price, and Saylor&apos;s statement that the company would relax restrictions on issuing more stock.Since Monday, MSTR&apos;s stock price has fallen by 8%. Meanwhile, Bitcoin, which hit a historic high of $124,128 last Thursday, has dropped by 8.6% to $113,631. Saylor posted on social media on Monday: &quot;Strategy has announced today an update to the MSTR stock ATM (additional issuance) policy to provide greater flexibility in the execution of our capital allocation strategy.&quot; He also attached a chart showing the company&apos;s ability to issue stock at levels below the previous restrictions.The updated policy states that when MSTR&apos;s trading price is less than 2.5 times the net asset value (mNAV), the company can &quot;strategically issue MSTR&quot; to pay debt interest, fund preferred stock dividends, or opera</description>
+      <pubDate>Wed, 20 Aug 2025 05:24:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25316</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
     <item>
       <title>Bitcoin Withdrawal Slowdown, 24h Net Inflow of 2,364.99 BTC to CEX</title>
       <link>https://www.lookonchain.com/feeds/25315</link>
@@ -92,30 +130,10 @@
 
     </item>
     <item>
-      <title>If Ethereum breaks $4300, the total short liquidation on mainstream CEX will reach $2.411 billion.</title>
-      <link>https://www.lookonchain.com/feeds/25311</link>
-      <description>On August 20th, based on Coinglass data, if Ethereum breaks through $4300, the cumulative short liquidation intensity on major CEXs will amount to $2.411 billion.Conversely, if Ethereum drops below $4000, the cumulative long liquidation intensity on major CEXs will reach $1.314 billion.BlockBeats Note: The liquidation chart does not disclose the exact number of contracts awaiting liquidation or the precise value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart shows to what degree the target price will be influenced when it reaches a specific level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, it will undergo a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Wed, 20 Aug 2025 04:32:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25311</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>A whale converted 3,900 ETH to 143.26 WBTC, at a rate of 0.03673</title>
       <link>https://www.lookonchain.com/feeds/25309</link>
       <description>On August 20th, as per the monitoring of lookIntoChain, with the decrease in the ETH/BTC ratio, Whale Address 0x6e17 exchanged 3,900 ETH (approximately $16.26 million) for 143.26 WBTC at an exchange rate of 0.03673.</description>
-      <pubDate>Wed, 20 Aug 2025 04:24:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 04:38:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25309</guid>
       <category>crypto</category>
@@ -134,10 +152,30 @@
 
     </item>
     <item>
+      <title>If Ethereum breaks $4300, the total short liquidation on mainstream CEX will reach $2.411 billion.</title>
+      <link>https://www.lookonchain.com/feeds/25311</link>
+      <description>On August 20th, based on Coinglass data, if Ethereum breaks through $4300, the cumulative short liquidation intensity on major CEXs will amount to $2.411 billion.Conversely, if Ethereum drops below $4000, the cumulative long liquidation intensity on major CEXs will reach $1.314 billion.BlockBeats Note: The liquidation chart does not disclose the exact number of contracts awaiting liquidation or the precise value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring clusters, that is, intensity.Therefore, the liquidation chart shows to what degree the target price will be influenced when it reaches a specific level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, it will undergo a more intense reaction due to a liquidity cascade.</description>
+      <pubDate>Wed, 20 Aug 2025 04:38:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25311</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>US Treasury Secretary Bets on Stablecoins as Key Buyers of US Debt, Driving Cryptocurrency Integration into the Financial Mainstream</title>
       <link>https://www.lookonchain.com/feeds/25310</link>
       <description>On August 20th, as per the Financial Times, US Treasury Secretary Yellen is wagering that the cryptocurrency industry will serve as a key purchaser of US debt in the forthcoming years given that the US government aims to meet the substantial demand for new bonds.Those with knowledge of the matter stated that Yellen has solicited information from major stablecoin issuers like Tether and Circle, and these discussions are influencing the Treasury Department&apos;s plans to enhance the sales of short-term Treasury bills in the upcoming quarters.The US Treasury Department hopes that stablecoins will emerge as a crucial source of demand for US government bonds, signifying the latest indication of the White House&apos;s endeavor to incorporate cryptocurrency into the core of the US financial system. Jay Barry, the global head of rates strategy at JPMorgan, one of the largest bond market traders, said, &quot;Secretary Yellen and the Treasury undoubtedly view stablecoins as a genuine source of new demand</description>
-      <pubDate>Wed, 20 Aug 2025 04:24:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 04:38:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25310</guid>
       <category>crypto</category>
@@ -151,50 +189,12 @@
 
     </item>
     <item>
-      <title>Former $100M Liquidation Whale James Wynn Returns to the Derivatives Market Low-Key, Testing the Waters with an ETH Long Position</title>
-      <link>https://www.lookonchain.com/feeds/25307</link>
-      <description>On August 20th, as per the monitoring of HyperInsight, James Wynn, a trader who once gained fame for amassing a large amount of PEPE and getting rich, has returned to the contract trading arena after more than two months of silence. Yesterday, he initiated a small long position on ETH at a price of $4239, with a position size of approximately $151,700 and a liquidation price of $4053.52.In March of this year, James Wynn entered the contract market and attracted extensive attention due to his high-frequency and large-scale contract trades on Hyperliquid. However, due to a misjudgment of the market direction, his high-leverage BTC long position was liquidated on May 30th, instantly wiping out his $100 million position. His position opening yesterday was his first public position operation in more than 2 months.</description>
-      <pubDate>Wed, 20 Aug 2025 04:17:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25307</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Monad Testnet Weekly Transaction Volume Plunges by 44.4%, Weekly Active Address Count Surges by 47.16%</title>
       <link>https://www.lookonchain.com/feeds/25308</link>
       <description>On August 20th, according to Dune Data, the weekly transaction count on the Monad testnet sharply dropped to 66.16 million, which is a 44.4% decrease. Meanwhile, the weekly active addresses witnessed a significant 47.16% increase and reached 3.28 million.The total address count on the testnet has now reached 309 million, and 97,063 new addresses were added in the past 24 hours.</description>
-      <pubDate>Wed, 20 Aug 2025 04:17:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 04:38:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25308</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Mitosis Genesis Airdrop registration will open on August 20, with claiming expected to be available until September 10.</title>
-      <link>https://www.lookonchain.com/feeds/25306</link>
-      <description>On August 20th, Mitosis officially announced that the registration for the Genesis Airdrop will commence on August 20th and the registration window will remain open until August 26th. The airdrop lookup website is now active, and claiming is expected to open prior to September 10th with a one-week claiming period. During the airdrop claiming process, users have the option to claim directly or stake for 180 days to receive additional airdrop allocations.Previously, on August 17th, the Mitosis Foundation unveiled the MITO tokenomics. The total supply of tokens is 1 billion, allocated as follows: 45.5% to the ecosystem, 15% to the team, 8.76% to investors, 10% to the foundation, 10% to the Genesis Airdrop, 2% to builder rewards, 3.5% to exchange platform marketing, 4% to initial liquidity, and 1.24% to research and development.</description>
-      <pubDate>Wed, 20 Aug 2025 04:17:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25306</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
