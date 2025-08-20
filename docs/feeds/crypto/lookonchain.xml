@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 03:15:44 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 03:15:44 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 03:50:41 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 03:50:41 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,80 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Monad is issuing Monad Cards to Crypto Twitter users, with approximately 5,000 accounts qualifying to claim them.</title>
+      <link>https://www.lookonchain.com/feeds/25301</link>
+      <description>August 20th. According to official channels, Monad is set to release Monad Cards targeted at crypto Twitter users. In the initial phase, around 5,000 active crypto Twitter accounts are qualified to receive the cards. In the subsequent phase, each account can nominate 3 friends. There are a total of 10,000 nomination slots available on a first-come, first-served basis.Some members within the crypto community hypothesize that holders of these Monad Cards may be eligible to receive a token airdrop reward once the Monad mainnet becomes operational.</description>
+      <pubDate>Wed, 20 Aug 2025 03:48:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25301</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>「Big Brother Whale」, AguilaTrades, and other contract whales have lost over 55 million USD in the past week</title>
+      <link>https://www.lookonchain.com/feeds/25300</link>
+      <description>August 20th. Based on on-chain data, with the recent continuous downturn in the cryptocurrency market, several well-known whale positions in contract trading have endured significant losses. The specific data is as follows:· &quot;Brother Ma&quot; Huang Licheng suffered a loss of more than $12.7 million in the past week.· James Wynn suffered a loss of $13,000 in the past week.· There was a loss of more than $6.87 million in the past week.· The two addresses of the &quot;125K USD Liquidation Long ETH to 6.99M USD&quot; whale suffered losses of $11.5 million and $24.5 million respectively in the past week.· The &quot;Insider Whale&quot; @qwatio did not trade in the past week, and the assets in the address are now zero, with a loss of $2.8 million in the past month.</description>
+      <pubDate>Wed, 20 Aug 2025 03:40:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25300</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha and Futures will list Sapien (SAPIEN)</title>
+      <link>https://www.lookonchain.com/feeds/25299</link>
+      <description>On August 20th, Binance Alpha and Binance Futures made an announcement regarding the listing of Sapien (SAPIEN).</description>
+      <pubDate>Wed, 20 Aug 2025 03:24:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25299</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Launchpad Platform Heaven&apos;s Market Share Surges, Token Circulating Supply Second Only to pump.fun</title>
+      <link>https://www.lookonchain.com/feeds/25298</link>
+      <description>On August 20th, based on DUNE data, Solana&apos;s ecosystem AMM and Launchpad platform Heaven experienced a notable increase in market share. The token issuance in the past 5 days ranked second only to pump.fun, significantly outperforming platforms such as Bags, Moonshot, LetsBonk, and others.Heaven&apos;s native token LIGHT saw a surge of over 290% in the past 5 days, exceeding a market capitalization of 2 billion US dollars.</description>
+      <pubDate>Wed, 20 Aug 2025 03:16:47 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25298</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>An institution sold 4,000 ETH at an average price of $4,164, and has already sold over 12,500 ETH to date.</title>
       <link>https://www.lookonchain.com/feeds/25297</link>
       <description>On August 20th, according to the monitoring of on-chain analyst AI Auntie ai_9684xtpa, an institution has once again sold 4,000 ETH within the past 12 hours. The value of these sold ETH is $16.65 million, with an average price of $4,164.From 08.18 to the present date, this address has sold a total of 12,575 ETH. The total value of these sales amounts to up to $53.68 million. Currently, it still holds 6,210 ETH.</description>
-      <pubDate>Wed, 20 Aug 2025 03:00:52 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 03:00:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25297</guid>
       <category>crypto</category>
@@ -37,7 +107,7 @@
       <title>Celsius will conduct its third distribution to lenders, with a total amount of $220.6 million</title>
       <link>https://www.lookonchain.com/feeds/25296</link>
       <description>On August 20th, as per Cointelegraph, Celsius is set to commence its third distribution to eligible creditors, amounting to $2.206 billion. This will bring the cumulative recovery rate to approximately 64.9% of the claim value.BlockBeats had previously reported that on May 9th, Celsius founder Alex Mashinsky was sentenced to 12 years in prison for crypto fraud. The two charges against him resulted in sentences of 120 months and 144 months (to be served concurrently for 144 months). Alex Mashinsky agreed to forfeit $48 million and several properties. Prior to Celsius&apos; collapse in 2022, Alex Mashinsky repeatedly deceived investors regarding the security of customer deposits. The prosecution pointed out that he falsely claimed that the platform had regulatory approval, insisted that they never issued unsecured loans (while in fact they did), and manipulated the price of the CEL token for personal gain - the illicit gains related to CEL alone exceeded $48 million.</description>
-      <pubDate>Wed, 20 Aug 2025 02:56:52 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 02:56:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25296</guid>
       <category>crypto</category>
@@ -55,7 +125,7 @@
       <title>Puffer&apos;s official website and social media channels have been attacked. Please do not engage with this protocol.</title>
       <link>https://www.lookonchain.com/feeds/25295</link>
       <description>On August 20th, as monitored by PeckShield, the official website and social media channels of the rebase protocol Puffer Finance have been hacked. It is advised that you do not interact with any Puffer applications and refrain from visiting official social media channels.</description>
-      <pubDate>Wed, 20 Aug 2025 02:48:52 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 02:49:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25295</guid>
       <category>crypto</category>
@@ -72,7 +142,7 @@
       <title>U.S. Treasury Secretary: U.S. and China had a &quot;very productive discussion&quot; on economic and trade issues</title>
       <link>https://www.lookonchain.com/feeds/25294</link>
       <description>August 20th. As per Reuters, on August 19th local time, U.S. Treasury Secretary Yellen stated in an interview that the U.S. and China had engaged in a &quot;very good dialogue&quot; regarding economic and trade matters. Yellen said, &quot;We had a highly productive dialogue with the Chinese side, and I anticipate that we will hold another meeting prior to November. I believe that the ongoing work is progressing in an extremely smooth manner.&quot;</description>
-      <pubDate>Wed, 20 Aug 2025 02:48:52 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 02:49:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25294</guid>
       <category>crypto</category>
@@ -89,7 +159,7 @@
       <title>「Radiant Capital Flashbot」 conducted a sandwich attack in the past 1 hour, sniping 2109.5 ETH at an average price of $4096</title>
       <link>https://www.lookonchain.com/feeds/25293</link>
       <description>On August 20th, according to Ashes Monitor, the Radiant Capital hacker has once again purchased 2,109.5 ETH with 8.64 million DAI at a price of $4,096 within the past hour. A week ago, they sold 9,631 ETH at an average price of $4,562 and exchanged it for 43.937 million DAI.Now, the Radiant Capital hacker holds 14,436 ETH + 35.29 million DAI, which is worth $94.63 million. Compared to the $53 million of funds they stole last year, the value has increased by $41.63 million.</description>
-      <pubDate>Wed, 20 Aug 2025 02:32:52 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 02:49:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25293</guid>
       <category>crypto</category>
@@ -109,7 +179,7 @@
       <title>Powell to Deliver Speech on Friday Evening, Some Traders Lower Rate Cut Expectations</title>
       <link>https://www.lookonchain.com/feeds/25292</link>
       <description>August 20th: Chairman Powell of the Federal Reserve is slated to give a crucial speech at this year&apos;s gathering in Wyoming on Friday evening according to Beijing time. Meanwhile, the recent release of inflation data that is higher than expected has led some traders to reduce their expectations of interest rate cuts while still maintaining the judgment of a rate cut next month.Ian Lyngen, the head of U.S. Rate Strategy at BMO Capital Markets, stated in a research report that &quot;as the market gets ready for Powell&apos;s speech at Jackson Hole, the greatest risk facing the Treasury market is that the Fed Chair may pour cold water on the market&apos;s widespread expectation of a rate cut in September.&quot;Currently, there are approximately 325,000 options positions (costing about $10 million) that are likely to make a profit of up to $100 million if they accurately predict a 50-basis-point rate cut by the Fed at the September policy meeting. In addition, the current market pricing indicates that ther</description>
-      <pubDate>Wed, 20 Aug 2025 02:24:52 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 02:49:47 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25292</guid>
       <category>crypto</category>
@@ -120,79 +190,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Santiment: Retail Investor Sentiment Shifts to Extreme Bearish, Potentially Signaling Market Reversal</title>
-      <link>https://www.lookonchain.com/feeds/25291</link>
-      <description>On August 20th, according to Santiment data, once Bitcoin dropped below $113,000 and was unable to maintain a rebound, the sentiment of retail traders experienced a sharp decline within the past 24 hours, reaching the lowest level since the sell-off triggered by the geopolitical conflict on June 22nd.Santiment stated that historically, extremely bearish sentiment often presents patient investors with opportunities to buy at a lower price or accumulate. Moreover, market trends usually develop contrary to popular expectations.</description>
-      <pubDate>Wed, 20 Aug 2025 02:24:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25291</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The DEA Seized $19 Million in Drug Money During an Undercover Operation, Some of Which Flowed into Cryptocurrency</title>
-      <link>https://www.lookonchain.com/feeds/25289</link>
-      <description>On August 20th, the Drug Enforcement Administration (DEA) of the United States managed to infiltrate and gain control of a Colombian drug trafficking group&apos;s money laundering network through an undercover operation that spanned more than a decade. A total of approximately $19 million was handled, with some of it being transferred to a cryptocurrency account. As a result of this operation, two individuals involved in heroin trafficking were indicted.Relevant documents indicate that in 2018, DEA undercover agents transferred $150,000 to a Coinbase account and converted it into over 13 bitcoins. Benefiting from the significant price increase, this part of the assets is currently valued at more than $1.5 million. The Department of Justice is striving to recover the relevant funds. (Forbes)</description>
-      <pubDate>Wed, 20 Aug 2025 02:16:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25289</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin-Related Domain Names Bundle of 280 Up for Auction, Lloyds Accepts Cryptocurrency Payments</title>
-      <link>https://www.lookonchain.com/feeds/25290</link>
-      <description>On August 20th, according to Decrypt, the Australian auction house Lloyds announced that it will auction off more than 280 Bitcoin-related domain names as a single lot. These domain names include BitcoinWallets.com, BitcoinExchanges.com, JapanBitcoin.com, etc., and some of the domains were originally registered as early as 2010.Previously, Lloyds sold XBT.com for $3 million. This auction requires pre-approval of qualifications and supports payment in cryptocurrencies such as Bitcoin and Ethereum, etc. Lloyds did not disclose a specific valuation and stated that this batch of domain names represents the &quot;Bitcoin digital economic language.&quot;</description>
-      <pubDate>Wed, 20 Aug 2025 02:16:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25290</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Viewpoint: Ethereum&apos;s recent drop is just a &quot;healthy pullback after a 245% rally.&quot;</title>
-      <link>https://www.lookonchain.com/feeds/25288</link>
-      <description>On August 20th, the cryptocurrency analyst @IamCryptoWolf commented on Ethereum&apos;s recent decline, saying, &quot;This is merely a retracement following a 245% surge (Ethereum began to rise from a year-to-date low of $1385 on April 9th and reached a year-to-date high of $4788 last week). It has broken through the long-standing $4000 resistance level. A healthy pullback, perhaps just a retest of the breakout area.&quot;@IamCryptoWolf shared his analysis on the Tradingview platform in 2014 and has 111,000 followers on the platform.</description>
-      <pubDate>Wed, 20 Aug 2025 02:14:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25288</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
