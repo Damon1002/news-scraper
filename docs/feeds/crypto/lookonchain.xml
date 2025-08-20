@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 06:17:28 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 06:17:28 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 06:48:50 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 06:48:50 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,65 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Analyst: Bitcoin Support Located in $109,600 to $106,800 High Demand Zone</title>
+      <link>https://www.lookonchain.com/feeds/25327</link>
+      <description>On August 20th, CryptoQuant analyst Axel posted on social media, indicating that this pullback is relatively gentle. Bitcoin has only dropped by 8% from its local peak. The mid-term support is at the 111-day moving average ($109,600), and the short-term holder realized price is ($106,800). This area forms a dense area of demand, and it is anticipated that there will be attempts at stabilization and a rebound in this zone.</description>
+      <pubDate>Wed, 20 Aug 2025 06:40:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25327</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Analysis: The U.S. Treasury is set to withdraw $500-600 billion in cash from the market over the next two months, potentially leading to increased market illiquidity.</title>
+      <link>https://www.lookonchain.com/feeds/25326</link>
+      <description>August 20th. The Delphi Digital Market Research Institute put out an article indicating that in the forthcoming weeks, the US Treasury Department will commence replenishing its General Account (TGA). This process will withdraw $500–600 billion in cash from the market over approximately two months. On the surface, this might seem ordinary. However, the current period is evolving into one of the most fragile liquidity environments of the past decade.In 2023, the $550 billion TGA replenishment was cushioned by more than $2 trillion of Fed reverse repo tools, healthy bank reserves, and strong overseas bond demand. Now, these cushions have disappeared. The Fed is still consuming liquidity through Quantitative Tightening (QT). Reverse repos are almost depleted. Banks are restricted by losses and capital rules. Overseas buyers from China to Japan have also withdrawn. As a result, every dollar raised by the Treasury Department this fall will be directly drawn from active market liquidity.H</description>
+      <pubDate>Wed, 20 Aug 2025 06:32:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25326</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Turbos DEX has launched Alkimi Exchange (ALKIMI)</title>
+      <link>https://www.lookonchain.com/feeds/25325</link>
+      <description>August 20th. According to official channels, a first-class Sui ecosystem project, Turbos Finance, declared that the native token ALKIMI of Alkimi Exchange would be officially launched at 19:00 (GMT+8) on August 19th.Alkimi Exchange is constructed on Sui&apos;s decentralized advertising platform, aiming to transfer the digital advertising industry onto the blockchain, establishing a transparent, fair, and low-cost advertising ecosystem.Currently, within less than a day after its launch, the trading volume of the ALKIMI-SUI liquidity pool exceeded $1 million and reached $1.267 million, with an annualized yield of up to 5778.24%. Users providing liquidity during the limited time period can obtain ALKIMI mining rewards.</description>
+      <pubDate>Wed, 20 Aug 2025 06:24:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25325</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Institution: Powell to Open Door to September Rate Cut at Jackson Hole</title>
       <link>https://www.lookonchain.com/feeds/25324</link>
       <description>On August 20th, MainSky Asset Management Company declared that Federal Reserve Chairman Powell is likely to open the door to a rate cut in September during the upcoming Jackson Hole Symposium. The chairman of the MainSky Board, Eckhard Schulte, stated that, in contrast to last year&apos;s meeting when Powell prepared the market for a 50-basis-point rate cut, this time the cut is anticipated to be only 25 basis points. He pointed out: &quot;Unlike last year, the current monetary policy is closer to the &apos;neutral rate,&apos; thus there is no requirement for a rapid and significant rate hike to achieve normalization.&quot; MainSky anticipates that there will be at least one more rate cut in the fourth quarter of this year. (FXStreet)</description>
-      <pubDate>Wed, 20 Aug 2025 06:08:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 06:08:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25324</guid>
       <category>crypto</category>
@@ -34,7 +89,7 @@
       <title>Three New Addresses Accumulate Over 52,000 ETH, Potentially Linked to Bitmine</title>
       <link>https://www.lookonchain.com/feeds/25323</link>
       <description>On August 20th, according to on-chain data, 3 newly created wallet addresses received 52,475 ETH from BitGo 14 hours ago. The value of these ETH is approximately 220.44 million US dollars. These wallet addresses are likely to be associated with Bitmine. The addresses are as follows:· 0xec9a7e7d864bd598d0f0f00d8d397e83171c52de· 0x728e79933070e44273Eb23bD0aB937565f41777d· 0x7aeb5fBc26C9a739F417e1eA06d502886AedBa03</description>
-      <pubDate>Wed, 20 Aug 2025 06:00:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 06:00:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25323</guid>
       <category>crypto</category>
@@ -53,7 +108,7 @@
       <title>If Bitcoin surpasses $115,000, the mainstream CEX cumulative short liquidation pressure will reach $1.122 billion.</title>
       <link>https://www.lookonchain.com/feeds/25322</link>
       <description>On August 20th, based on Coinglass data, if Bitcoin manages to break through $115,000, the cumulative short liquidation intensity on mainstream CEXs will reach $1.122 billion.On the other hand, if Bitcoin drops below $112,000, the cumulative long liquidation intensity on mainstream CEXs will reach $882 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what extent the underlying price will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will experience a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Wed, 20 Aug 2025 06:00:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 06:00:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25322</guid>
       <category>crypto</category>
@@ -73,7 +128,7 @@
       <title>Analysis: The main force behind this round of Ethereum short selling is suspected to be a hedge fund</title>
       <link>https://www.lookonchain.com/feeds/25321</link>
       <description>On August 20th, Ethereum recently experienced a significant surge and reached nearly $5,000, which triggered a bullish rally. Nevertheless, this crucial level was not successfully broken through as sellers once again took the upper hand and forced the price to decline. A considerable amount of the downward pressure seems to originate from large hedge funds that continue to have heavy short positions in the second-largest cryptocurrency.When the Ethereum price exceeded $4,000, the number of short positions also started to rise. Many market participants expected the upward momentum to weaken. A large number of these short positions were led by major hedge funds, further intensifying the downward pressure on Ethereum. This is not an isolated incident as hedge funds have been trying to suppress the ETH price in an attempt to reduce their own losses.According to The Block&apos;s &quot;CME Ether Futures Net Position&quot; dashboard, these short positions have reached a historic high. Only hedge funds s</description>
-      <pubDate>Wed, 20 Aug 2025 05:48:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 05:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25321</guid>
       <category>crypto</category>
@@ -92,7 +147,7 @@
       <title>Bank of America: Stablecoin&apos;s Disruptive Application in Cross-Border P2P Payments Could Generate Up to $75 Billion in Annualized or Trigger High Demand</title>
       <link>https://www.lookonchain.com/feeds/25320</link>
       <description>On August 20th, according to ChainNews, a recent research report from Bank of America conducted a detailed analysis of the potential transformative influence of stablecoins in the financial system. It was pointed out that this digital asset, although facing regulatory disputes, has already shown unique advantages in areas such as cross-border transactions and retail settlements. The report clearly stated that peer-to-peer (P2P) cross-border payments are the most disruptive application scenario for stablecoins. Compared to the traditional banking system, its settlement efficiency and cost advantages are significant, making it a key channel for fund flows in emerging markets.It is worth noting that Shopify&apos;s move to allow merchants to accept USDC stablecoin has been regarded as a landmark event for retail penetration. More recently, the on-chain completion of USTs tokenized bond repurchase transactions has further highlighted institutional investors&apos; recognition of the stablecoin&apos;s set</description>
-      <pubDate>Wed, 20 Aug 2025 05:48:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 05:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25320</guid>
       <category>crypto</category>
@@ -110,7 +165,7 @@
       <title>SOL Short-Term Breaks Below $180</title>
       <link>https://www.lookonchain.com/feeds/25319</link>
       <description>On August 20th, according to HTX market data, SOL briefly fell below $180 and is now trading at $180.31, with the 24-hour gain narrowed to 0.28%.</description>
-      <pubDate>Wed, 20 Aug 2025 05:40:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 05:47:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25319</guid>
       <category>crypto</category>
@@ -128,7 +183,7 @@
       <title>Coinbase to Provide Tiered USDC Subsidy for Unfilled Futures Positions</title>
       <link>https://www.lookonchain.com/feeds/25318</link>
       <description>On August 20th, according to the community host Super Jun of BlockBeats, Coinbase&apos;s derivatives product updated a new feature today. It provides a staggered USDC subsidy based on users&apos; open contract positions.Super Jun stated, &quot;This subsidy is directly comparable to funding rate products like BFUSD and USDE. For instance, if a user has a $1 million USDC collateral and opens a contract worth $2 million, then the user&apos;s $1 million USDC collateral will naturally obtain an annualized return of 8%. If a user has $10 million USDC collateral and opens a $20 million contract, then the user&apos;s $10 million USDC will receive an annualized return of 12%.&quot;</description>
-      <pubDate>Wed, 20 Aug 2025 05:40:36 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 05:47:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25318</guid>
       <category>crypto</category>
@@ -139,63 +194,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>If the whale sets 10 large goals, the Ethereum long positions will be uncovered, resulting in a maximum potential loss of $7.5 million.</title>
-      <link>https://www.lookonchain.com/feeds/25317</link>
-      <description>On August 20th, the long position of the Ethereum whale &quot;First Set 10 Big Goals&quot; remains open. It holds more than 31,000 ETH with a leverage of over 5 times. Potentially, it is facing an unrealized loss of $7.5 million with the position unchanged. The initial margin is $27.26 million, the entry price is $4399.13, and the liquidation price is $2655.41.BlockBeats previously reported that on August 16th. According to a position screenshot shared by the whale &quot;First Set 10 Big Goals&quot; at 20:24 on that day, the whale had a long position of more than 31,000 ETH with an entry price of $4399.13 and a leverage of over 5 times. The liquidation price was $2655.41, and the current unrealized loss was more than $640,000.</description>
-      <pubDate>Wed, 20 Aug 2025 05:32:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25317</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The Strategy stock price has dropped to a near four-month low, with Saylor stating that the company will loosen restrictions on issuing more shares.</title>
-      <link>https://www.lookonchain.com/feeds/25316</link>
-      <description>On August 20th, the stock price of Michael Saylor-led Strategy (MSTR) dropped to a nearly four-month low. This was due to an overall decline in cryptocurrency treasury companies, a pullback in Bitcoin&apos;s price, and Saylor&apos;s statement that the company would relax restrictions on issuing more stock.Since Monday, MSTR&apos;s stock price has fallen by 8%. Meanwhile, Bitcoin, which hit a historic high of $124,128 last Thursday, has dropped by 8.6% to $113,631. Saylor posted on social media on Monday: &quot;Strategy has announced today an update to the MSTR stock ATM (additional issuance) policy to provide greater flexibility in the execution of our capital allocation strategy.&quot; He also attached a chart showing the company&apos;s ability to issue stock at levels below the previous restrictions.The updated policy states that when MSTR&apos;s trading price is less than 2.5 times the net asset value (mNAV), the company can &quot;strategically issue MSTR&quot; to pay debt interest, fund preferred stock dividends, or opera</description>
-      <pubDate>Wed, 20 Aug 2025 05:25:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25316</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Withdrawal Slowdown, 24h Net Inflow of 2,364.99 BTC to CEX</title>
-      <link>https://www.lookonchain.com/feeds/25315</link>
-      <description>On August 20th, according to Coinglass data, within the past 24 hours, the total net inflow of BTC in CEX was 2,364.99 coins. The top three CEXs in terms of inflow volume are as follows:· Binance with a net inflow of 1,945.80 BTC;· Bitfinex with a net inflow of 1,586.08 BTC;· Kraken with a net inflow of 1,272.34 BTC.In addition, Coinbase Pro witnessed a net outflow of 2,364.99 BTC and ranked first in terms of outflow.BlockBeats previously reported that the withdrawal momentum of Ethereum paused, with a net inflow of 73,000 ETH in the past 24 hours on CEX.</description>
-      <pubDate>Wed, 20 Aug 2025 05:16:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25315</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
