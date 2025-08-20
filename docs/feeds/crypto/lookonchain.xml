@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 10:32:11 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 10:32:11 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 10:49:12 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 10:49:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Blockchain Stock Trading Platform StableStock Completes Seed Round Funding with Investment from YZi Labs</title>
-      <link>https://www.lookonchain.com/feeds/25359</link>
-      <description>On August 20th, as per official channels, the on-chain stock trading platform StableStock announced the completion of its seed round of financing. Participating in this round were YZi Labs, MPCi, and Vertex Ventures.StableStock is a trading-focused decentralized finance (TraDeFi) platform that is constructed around the on-chain stock ecosystem. Currently, StableStock is open to users for public testing.</description>
-      <pubDate>Wed, 20 Aug 2025 10:24:17 +0000</pubDate>
+      <title>HashKey Capital has transferred 5,412,000 MNT to Bybit</title>
+      <link>https://www.lookonchain.com/feeds/25360</link>
+      <description>On August 20th, according to on-chain data analyst Yu Jin, HashKey Capital transferred 5.412 million MNT to Bybit 15 minutes ago, with an approximate value of $7.42 million.It is reported that HashKey Capital withdrew these MNT from Bybit to an on-chain address 8 months ago. And now, within the past 15 minutes, it has been transferred back to Bybit. When withdrawn 8 months ago, the value of the MNT was $6.33 million, and now it is worth $7.42 million, indicating an increase in value of $1.09 million.</description>
+      <pubDate>Wed, 20 Aug 2025 10:32:20 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25359</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25360</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,15 +28,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>transfer</category>
 
     </item>
     <item>
-      <title>Binance Alpha will list XPIN Network (XPIN)</title>
-      <link>https://www.lookonchain.com/feeds/25357</link>
-      <description>On August 20th, as per official channels, Binance Alpha is set to list XPIN Network (XPIN) on August 22nd. Once trading commences, eligible users will be able to claim an airdrop by utilizing Binance Alpha points on the Alpha activity page. Further details will be made public shortly.</description>
-      <pubDate>Wed, 20 Aug 2025 10:08:17 +0000</pubDate>
+      <title>Blockchain Stock Trading Platform StableStock Completes Seed Round Funding with Investment from YZi Labs</title>
+      <link>https://www.lookonchain.com/feeds/25359</link>
+      <description>On August 20th, as per official channels, the on-chain stock trading platform StableStock announced the completion of its seed round of financing. Participating in this round were YZi Labs, MPCi, and Vertex Ventures.StableStock is a trading-focused decentralized finance (TraDeFi) platform that is constructed around the on-chain stock ecosystem. Currently, StableStock is open to users for public testing.</description>
+      <pubDate>Wed, 20 Aug 2025 10:24:20 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25357</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25359</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,9 +52,26 @@
       <title>Bitget Launches RWA Index Perpetual Contract, with AAPL, NVDA, CRCL as the First Batch</title>
       <link>https://www.lookonchain.com/feeds/25358</link>
       <description>On August 20th, as per official channels, Bitget has officially launched RWA Index Perpetual Contracts. The initial assets to be listed are AAPL/USDT (RWA), NVDA/USDT (RWA), and CRCL/USDT (RWA). The underlying assets of the RWA contract are composed of stock-tokenized RWA index assets circulating in the market. Each index incorporates multiple RWA tokens to track prices from different third-party issuers. Its pricing mechanism is based on the encryption perpetual contract model. It dynamically adjusts index sources according to factors such as market activity, trading volume, liquidity, and regularly discloses weights to ensure pricing flexibility and fairness. In terms of trading rules, the RWA Index Perpetual Contract adopts a 5x24-hour trading system. There are price freezes during weekends and stock market holidays to avoid liquidation. It supports order cancellation but pauses new order submissions. Fund cost settlements resume with the resumption of trading. The product continues</description>
-      <pubDate>Wed, 20 Aug 2025 10:08:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 10:08:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25358</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will list XPIN Network (XPIN)</title>
+      <link>https://www.lookonchain.com/feeds/25357</link>
+      <description>On August 20th, as per official channels, Binance Alpha is set to list XPIN Network (XPIN) on August 22nd. Once trading commences, eligible users will be able to claim an airdrop by utilizing Binance Alpha points on the Alpha activity page. Further details will be made public shortly.</description>
+      <pubDate>Wed, 20 Aug 2025 10:08:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25357</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -68,7 +86,7 @@
       <title>BiyaPay Analyst: Bitcoin Breaks Below $113,000, Cryptocurrency Stocks Tumble 6.45%</title>
       <link>https://www.lookonchain.com/feeds/25356</link>
       <description>August 20th. In the evening, Bitcoin failed to break through the $116,000 mark and then witnessed a significant weakening of bullish momentum, resulting in a rapid price decline. It has now dropped below the $113,000 support level and briefly touched $112,000 intra-day. If the downward trend persists, it may test the key psychological level of $100,000. Ethereum is also under pressure and has fallen below $4,100.Affected by the weak cryptocurrency market, related stocks have also declined simultaneously. On August 19th, this sector as a whole fell by 6.45%, and on the 20th night session, most continued the downward trend: Bitmine Immersion Technologies dropped by nearly 4%, Bullish by more than 3%, Robinhood by 2%, and Coinbase by around 1%. This indicates that market risk appetite is decreasing, and investors need to remain cautious in the short term.In the context of intensified market volatility, investors need more flexible and secure trading tools. BiyaPay offers users over 20</description>
-      <pubDate>Wed, 20 Aug 2025 10:00:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 10:00:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25356</guid>
       <category>crypto</category>
@@ -88,7 +106,7 @@
       <title>Binance will list CUDIS Coin-margined Perpetual Contracts</title>
       <link>https://www.lookonchain.com/feeds/25355</link>
       <description>On August 20th, according to official information, Binance is going to list the CUDIS U Perpetual Contract.</description>
-      <pubDate>Wed, 20 Aug 2025 09:56:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 09:56:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25355</guid>
       <category>crypto</category>
@@ -105,7 +123,7 @@
       <title>Affected by the Binance Futures listing, CUDIS experienced a short-term 28% price increase.</title>
       <link>https://www.lookonchain.com/feeds/25354</link>
       <description>On August 20th, based on market data, due to the listing on Binance Futures, CUDIS experienced a temporary 28% increase and is currently trading at $0.127.</description>
-      <pubDate>Wed, 20 Aug 2025 09:56:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 09:56:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25354</guid>
       <category>crypto</category>
@@ -122,7 +140,7 @@
       <title>The game asset trading platform OVERTAKE has completed a $7 million strategic financing round, with participation from Sui and others.</title>
       <link>https://www.lookonchain.com/feeds/25353</link>
       <description>On August 20th, as per official channels, the game asset trading platform OVERTAKE declared the completion of a $7 million strategic financing round. Sui, ItemMania, ItemBay, JB Investment, Green Whale Ventures, and Immutable took part in the investment.OVERTAKE is a peer-to-peer game asset trading market established on the Sui Network, allowing for secure transactions by means of smart contract escrow.</description>
-      <pubDate>Wed, 20 Aug 2025 09:40:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 09:48:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25353</guid>
       <category>crypto</category>
@@ -140,7 +158,7 @@
       <title>Bitunix Analyst: US Expands &quot;Stocks for Boosters&quot; to TSMC or Samsung; ETH Key Support at 4100 to 4150 for Rebound</title>
       <link>https://www.lookonchain.com/feeds/25352</link>
       <description>August 20th: According to insiders, the U.S. Commerce Secretary Raimondo is advocating for a government stake in exchange for subsidies under the &quot;Chip Act&quot;. The scope may potentially expand from Intel to Micron, TSMC, and Samsung. The White House has confirmed that it is collaborating with Intel on a 10% government stake deal, and some existing subsidies may be renegotiated. This move is likely to enhance the U.S.&apos;s discourse power in the AI supply chain but has also triggered governance and fiscal controversies. In the crypto market, there is a notable buying interest around 4100 - 4150 for ETH, with secondary support at 3900 - 4000.Bitunix analyst&apos;s recommendation:If the &quot;Stock-for-Subsidy&quot; plan is put into practice, it is expected that AI capital expenditures and risk appetite will rise; conversely, if policy progress is hindered, volatility will increase. It is recommended that investors focus on policy developments and the technological stock funding landscape, and avoid chas</description>
-      <pubDate>Wed, 20 Aug 2025 09:33:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 09:48:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25352</guid>
       <category>crypto</category>
@@ -159,26 +177,9 @@
       <title>South Korea&apos;s third largest exchange, Coinone, has launched the PARTI/KRW trading pair.</title>
       <link>https://www.lookonchain.com/feeds/25351</link>
       <description>August 20th. As per an official announcement, on August 21st in local time, South Korea&apos;s third-largest exchange, Coinone, is set to open the PARTI/KRW trading pair at 12:00 (Thursday). Previously, the Particle Network announced a narrative upgrade to an RWA and stablecoin universal trading layer and landed on South Korea&apos;s second-largest exchange, Bithumb, as well as Europe&apos;s largest financial technology company, Revolut.</description>
-      <pubDate>Wed, 20 Aug 2025 09:32:17 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 09:48:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25351</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump&apos;s Son to Acquire Mining Firm Dogehash, Whose Technology Partner is Miner Manufacturer ElphaPex</title>
-      <link>https://www.lookonchain.com/feeds/25350</link>
-      <description>On August 20th, the holding company of Donald Trump&apos;s son, Thumzup (with the Nasdaq stock code: TZUP), is going to acquire Dogehash Technologies through an all-stock transaction. The company will be rebranded as &quot;Dogehash Technologies Holdings, Inc.&quot; and will be listed on Nasdaq under the new stock code &quot;XDOG.&quot; It is expected that the transaction will be completed by the end of this year.As the world&apos;s first industrial-level mining company dedicated to Dogecoin, the technology partner behind Dogehash is the mining machine manufacturer ElphaPex. The two parties have also reached a strategic partnership. Currently, DogeHash Technologies operates more than 2,500 ElphaPex DG1+ mining machines, which are mainly powered by renewable energy sources.</description>
-      <pubDate>Wed, 20 Aug 2025 09:31:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25350</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
