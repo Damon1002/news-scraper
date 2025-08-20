@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 17:23:41 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 17:23:41 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 17:41:13 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 17:41:13 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A certain whale has dumped over 340,000 HYPE tokens to short the market, holding a short position of over $70 million.</title>
+      <link>https://www.lookonchain.com/feeds/25425</link>
+      <description>On August 21st, based on on-chain data, the early Hyperliquid whale Inga_no has been selling a significant amount of HYPE tokens in the past two days. The purpose is to replenish his short position margin and short the market. Currently, he holds a total nominal value of $70 million in shorts, which are distributed across ETH ($56 million), XRP ($5 million), SOL ($5 million), and BTC ($5 million).In the past 24 hours, he has sold a total of 342,000 HYPE tokens, with an approximate value of $144 million.</description>
+      <pubDate>Wed, 20 Aug 2025 17:32:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25425</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Senator Cynthia Lummis is pushing to advance a crypto bill by the end of the year</title>
+      <link>https://www.lookonchain.com/feeds/25424</link>
+      <description>On August 21st, U.S. Senator Cynthia Lummis, who is favorable to cryptocurrency and the drafter of the Bitcoin Bill, intends to push through a cryptocurrency market structure bill by the end of the year. She elaborated on this plan at the Wyoming Blockchain Seminar on Wednesday. Lummis said, &quot;We will deliver the market structure bill to the President&apos;s desk before the end of the year. I hope to achieve this before Thanksgiving, and that is our goal.&quot;Previously, Lummis, Bill Hagerty, Bernie Moreno, and Senate Banking Committee Chairman Tim Scott released a more extensive discussion draft of the cryptocurrency market structure bill last month and set a self-imposed deadline of September 30th to make progress within the committee. Meanwhile, the House passed a market structure bill last month called the Digital Asset Market Clarity Act, which is different from the version of the Senate Banking Committee.On Wednesday, Lummis stated that the Senate&apos;s processes are &quot;very chaotic.&quot;&quot;We b</description>
+      <pubDate>Wed, 20 Aug 2025 17:24:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25424</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>A certain ancient whale dumped Bitcoin on Hyperliquid and opened a 23,000 ETH long position.</title>
       <link>https://www.lookonchain.com/feeds/25423</link>
       <description>August 21st. Based on the monitoring of @mlmabc, a wallet that withdrew 15,000 BTC from HTX and Binance seven years ago (which was valued at $95 million at that time) is now beginning to sell these BTC on Hyperliquid. In the past 8 hours, it has deposited approximately 550 BTC into Hyperliquid (worth $62 million) and is currently in the process of selling.This has led to a sudden 200-basis-point drop in BTC on Hyperliquid. Currently, it is trading at a 30-basis-point discount compared to other exchanges. Subsequently, the seller opened a long position of 23,000 ETH (approximately $99 million) by using the proceeds from selling BTC.</description>
-      <pubDate>Wed, 20 Aug 2025 17:16:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 17:16:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25423</guid>
       <category>crypto</category>
@@ -39,7 +75,7 @@
       <title>Binance Alpha&apos;s latest SAPIEN airdrop generated approximately $38 in rewards per eligible account.</title>
       <link>https://www.lookonchain.com/feeds/25422</link>
       <description>On August 21st, based on market data, Sapien (SAPIEN) has been listed on Binance Alpha. Its current market capitalization is $47 million. Each eligible user can obtain 200 SAPIEN tokens through an airdrop. At the current price, the estimated single airdrop yield is approximately $38.</description>
-      <pubDate>Wed, 20 Aug 2025 17:08:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 17:08:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25422</guid>
       <category>crypto</category>
@@ -57,7 +93,7 @@
       <title>Bio Protocol is pleased to announce the launch of the first BioAgent Launch project, Aubrai.</title>
       <link>https://www.lookonchain.com/feeds/25421</link>
       <description>On August 21st, the DeSci protocol Bio Protocol announced the commencement of its first BioAgent Launch project, Aubrai, with sales lasting for 24 hours. During this time period, users are able to stake BioXP and participate by contributing BIO tokens. The AUBRAI token will be made available for market trading immediately after the sale concludes, and the project&apos;s launch time will be announced separately.According to HTX market information, likely influenced by the recent increase in use cases, BIO briefly exceeded $0.17 today and is currently priced at $0.1421, with a 9% increase in the past 24 hours.</description>
-      <pubDate>Wed, 20 Aug 2025 17:00:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 17:00:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25421</guid>
       <category>crypto</category>
@@ -74,7 +110,7 @@
       <title>Overall OKB 24h Contract Trading Volume is $76.44 million, up by 101%.</title>
       <link>https://www.lookonchain.com/feeds/25420</link>
       <description>On August 21st, based on Coinglass data, the current total open interest of OKB futures is $8.8577 million, showing a 24-hour increase of 105%. The futures trading volume is $76.44 million, with a 24-hour increase of 101%. The 24-hour aggregated long/short ratio is 0.8546.</description>
-      <pubDate>Wed, 20 Aug 2025 16:56:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 16:56:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25420</guid>
       <category>crypto</category>
@@ -92,7 +128,7 @@
       <title>OKB Continues to Surge, Breaking Through $175 to Hit New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/25419</link>
       <description>On August 21st, based on HTX market data, OKB continues to surge and breaks through $175. Its 24-hour gain expands to 42%, reaching a new all-time high.On August 13th, OKX announced a one-time burn of the historical buyback and the reserved 65,256,712.097 OKB. It then switched to using a smart contract to automatically burn all OKB transferred to the black hole address, with the total supply of OKB fixed at 21 million.</description>
-      <pubDate>Wed, 20 Aug 2025 16:48:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 16:48:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25419</guid>
       <category>crypto</category>
@@ -110,7 +146,7 @@
       <title>Wormhole Foundation Engages in Competition with LayerZero to Acquire Stargate Cross-Chain Bridge, Planning to Submit a Tender Offer Exceeding $110 Million</title>
       <link>https://www.lookonchain.com/feeds/25418</link>
       <description>On August 21st, the Wormhole Foundation made a statement, indicating that the LayerZero Foundation had previously proposed to acquire the Stargate cross-chain bridge and its STG token for $110 million. The Wormhole Foundation thought that the offer was too low and failed to recognize the strong growth of Stargate. The Wormhole Foundation is preparing to submit a higher bid and has asked for a pause of the ongoing snapshot vote for 5 working days.Previously, on August 11th, the LayerZero Foundation proposed to acquire the Stargate cross-chain bridge and its STG token for $110 million. According to the terms of the proposal, the STG token will be phased out, and STG holders can swap their tokens for LayerZero&apos;s native token ZRO at an exchange rate of 1 STG to 0.08634 ZRO, which is equivalent to a value of $0.1675 per STG and $1.94 per ZRO.</description>
-      <pubDate>Wed, 20 Aug 2025 16:40:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 16:40:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25418</guid>
       <category>crypto</category>
@@ -128,7 +164,7 @@
       <title>OKB Surges Past $160 to Hit All-Time High, 24-hour Gain Expands to 30%</title>
       <link>https://www.lookonchain.com/feeds/25417</link>
       <description>August 21st. Based on HTX market data, OKB has exceeded $160, witnessing a 30% increase within the past 24 hours and breaking through last week&apos;s all-time high of $142.85.On August 13th, OKX announced that it would conduct a one-time burn of 65,256,712.097 OKB from historical buybacks and reserves. This would be achieved through a smart contract, which automatically burns all transferred OKB to a black hole address. The total supply of OKB remains fixed at 21 million tokens.</description>
-      <pubDate>Wed, 20 Aug 2025 16:40:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 16:40:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25417</guid>
       <category>crypto</category>
@@ -146,46 +182,9 @@
       <title>Rekt Drinks collaborates with Base to launch a limited edition &quot;Based Lime&quot; flavored sparkling water, which sold out within 1 minute.</title>
       <link>https://www.lookonchain.com/feeds/25416</link>
       <description>August 21st. Rekt Drinks&apos; limited edition &quot;Based Lime&quot; flavored sparkling water, which was launched in collaboration with Base, started its pre-sale at 12:00 a.m. tonight and was sold out in just 1 minute. A total of 833 cases were sold worldwide, with each case containing 24 cans. Cryptocurrency payment was accepted, and each case was priced at $69.69 plus shipping.Rekt Drinks is an innovative brand project that integrates Web3 technology with physical consumer goods. It originated from the Rektguy NFT project on the Ethereum blockchain. In 2023, the Rekt team introduced Rekt Drinks, a non-alcoholic and caffeine-free flavored sparkling water. Their flagship product, &quot;Liquidated Lime,&quot; has sold more than 600,000 cans worldwide and is available in 32 countries. In June 2025, Rekt Drinks entered some 7-Eleven stores in Southern California, marking its first move from online to offline retail.</description>
-      <pubDate>Wed, 20 Aug 2025 16:24:48 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 16:40:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25416</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Gemini Co-founder Donates $21 Million Worth of Bitcoin to Support U.S. Crypto Legislation Drive</title>
-      <link>https://www.lookonchain.com/feeds/25415</link>
-      <description>On August 21st, the Winklevoss brothers, who are the co-founders of the U.S. cryptocurrency exchange Gemini, announced that they have donated Bitcoin worth $21 million, approximately 188.4547 BTC, to the Digital Freedom Fund Political Action Committee (PAC). The Winklevoss brothers stated that since Trump took office, not only has he fulfilled the promises made during the election but has also exceeded expectations. They hope that this unprecedented progress and momentum can continue to support President Trump and his administration in leading the United States into a golden age.The Digital Freedom Fund will focus on the following:Winning the midterm elections by identifying and supporting candidates in the primaries and midterm elections who advocate for President Trump&apos;s cryptocurrency agenda;Advocating for well-thought-out market structure legislation that enhances the freedom for the cryptocurrency industry to thrive and avoids excessive regulation and cumbersome licensing re</description>
-      <pubDate>Wed, 20 Aug 2025 16:22:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25415</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The SEC has opened an account on the social media platform Truth Social</title>
-      <link>https://www.lookonchain.com/feeds/25414</link>
-      <description>On August 21st, the Chairman of the U.S. Securities and Exchange Commission (SEC), Paul Atkins, stated that the SEC has established an account on Truth Social, a social media platform founded by former President Donald Trump.Trump announced the establishment of the social platform Truth Social in October 2021. It was developed by the Trump Media &amp; Technology Group in an attempt to challenge mainstream social media platforms like Facebook and Twitter, which had banned Trump.</description>
-      <pubDate>Wed, 20 Aug 2025 16:22:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25414</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
