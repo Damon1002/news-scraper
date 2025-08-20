@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 17:52:47 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 17:52:47 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 18:21:09 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 18:21:09 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,51 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>If Ethereum breaks $4500, the mainstream CEX total short liquidation value will reach $424 million.</title>
-      <link>https://www.lookonchain.com/feeds/25426</link>
-      <description>On August 21st, according to Coinglass data, if Ethereum manages to break through $4500, the cumulative short liquidation intensity on mainstream CEXs will reach 424 million.Conversely, if Ethereum drops below $4200, the cumulative long liquidation intensity on mainstream CEXs will reach 1.285 billion.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which reaching a certain price level will be impacted. A higher &quot;liquidation bar&quot; indicates that the price reaching that level will trigger a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Wed, 20 Aug 2025 17:48:55 +0000</pubDate>
+      <title>Federal Reserve Meeting Minutes: Tariffs on Goods Prices Pose Upward Inflationary Pressure</title>
+      <link>https://www.lookonchain.com/feeds/25438</link>
+      <description>August 21st: The Federal Reserve disclosed the minutes of the July meeting. It was noted that the actual GDP growth in the first half of the year was moderate. The unemployment rate has been continuously low, and consumer price inflation remains relatively high. The slowdown in inflation appears to have come to a halt, with tariffs exerting upward pressure on goods price inflation.After net exports significantly pulled down GDP growth in the first quarter, their contribution turned significantly positive in the second quarter. The actual import of goods and services decreased substantially. This may be due to a large amount of early imports in response to the anticipated tariff increase in the first quarter. In contrast, the decline in goods exports was relatively mild, while service exports continued to increase. (FX168)</description>
+      <pubDate>Wed, 20 Aug 2025 18:17:16 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25426</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A certain whale has dumped over 340,000 HYPE tokens to short the market, holding a short position of over $70 million.</title>
-      <link>https://www.lookonchain.com/feeds/25425</link>
-      <description>On August 21st, based on on-chain data, the early Hyperliquid whale Inga_no has been selling a significant amount of HYPE tokens in the past two days. The purpose is to replenish his short position margin and short the market. Currently, he holds a total nominal value of $70 million in shorts, which are distributed across ETH ($56 million), XRP ($5 million), SOL ($5 million), and BTC ($5 million).In the past 24 hours, he has sold a total of 342,000 HYPE tokens, with an approximate value of $144 million.</description>
-      <pubDate>Wed, 20 Aug 2025 17:32:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25425</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Senator Cynthia Lummis is pushing to advance a crypto bill by the end of the year</title>
-      <link>https://www.lookonchain.com/feeds/25424</link>
-      <description>On August 21st, U.S. Senator Cynthia Lummis, who is favorable to cryptocurrency and the drafter of the Bitcoin Bill, intends to push through a cryptocurrency market structure bill by the end of the year. She elaborated on this plan at the Wyoming Blockchain Seminar on Wednesday. Lummis said, &quot;We will deliver the market structure bill to the President&apos;s desk before the end of the year. I hope to achieve this before Thanksgiving, and that is our goal.&quot;Previously, Lummis, Bill Hagerty, Bernie Moreno, and Senate Banking Committee Chairman Tim Scott released a more extensive discussion draft of the cryptocurrency market structure bill last month and set a self-imposed deadline of September 30th to make progress within the committee. Meanwhile, the House passed a market structure bill last month called the Digital Asset Market Clarity Act, which is different from the version of the Senate Banking Committee.On Wednesday, Lummis stated that the Senate&apos;s processes are &quot;very chaotic.&quot;&quot;We b</description>
-      <pubDate>Wed, 20 Aug 2025 17:24:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25424</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25438</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -70,12 +31,12 @@
 
     </item>
     <item>
-      <title>A certain ancient whale dumped Bitcoin on Hyperliquid and opened a 23,000 ETH long position.</title>
-      <link>https://www.lookonchain.com/feeds/25423</link>
-      <description>August 21st. Based on the monitoring of @mlmabc, a wallet that withdrew 15,000 BTC from HTX and Binance seven years ago (which was valued at $95 million at that time) is now beginning to sell these BTC on Hyperliquid. In the past 8 hours, it has deposited approximately 550 BTC into Hyperliquid (worth $62 million) and is currently in the process of selling.This has led to a sudden 200-basis-point drop in BTC on Hyperliquid. Currently, it is trading at a 30-basis-point discount compared to other exchanges. Subsequently, the seller opened a long position of 23,000 ETH (approximately $99 million) by using the proceeds from selling BTC.</description>
-      <pubDate>Wed, 20 Aug 2025 17:16:55 +0000</pubDate>
+      <title>Ming Cheng Group to Invest $483 Million to Acquire 4,250 Bitcoins</title>
+      <link>https://www.lookonchain.com/feeds/25435</link>
+      <description>On August 21st, the Hong Kong-based construction service provider, BuildKing Group, announced that it had signed a Bitcoin purchase agreement to invest $483 million in purchasing 4,250 Bitcoins. (Golden Ten)</description>
+      <pubDate>Wed, 20 Aug 2025 18:16:16 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25423</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25435</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -86,36 +47,123 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Federal Reserve Meeting Minutes: Officials closely monitoring Stablecoin growth and its related risks post GENIUS Act passage</title>
+      <link>https://www.lookonchain.com/feeds/25437</link>
+      <description>August 21st, Federal Reserve Meeting Minutes: The officials are keeping a close eye on the growth of stablecoins and the associated risks after the passage of the GENIUS Act. (Associated Press)</description>
+      <pubDate>Wed, 20 Aug 2025 18:16:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25437</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Federal Reserve Meeting Minutes: Majority of Committee Members Believe Inflation Risk Outweighs Employment Risk</title>
+      <link>https://www.lookonchain.com/feeds/25436</link>
+      <description>On August 21st, the minutes of the Federal Reserve Meeting showed that the majority of committee members considered that the risk of inflation is greater than the risk of employment. (In terms of foreign exchange.)</description>
+      <pubDate>Wed, 20 Aug 2025 18:16:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25436</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>After the Federal Reserve meeting minutes were released, the crypto market experienced a downturn, with Bitcoin dropping below $114,000.</title>
+      <link>https://www.lookonchain.com/feeds/25434</link>
+      <description>August 21st: Following the release of the Federal Reserve meeting minutes at 2:00, the crypto market witnessed a downturn. Bitcoin fell below $114,000, experiencing a short-term decline of 0.41%. Ethereum also dropped below $4,300, with a short-term decline of 1.35%.</description>
+      <pubDate>Wed, 20 Aug 2025 18:16:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25434</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Fed Meeting Minutes: Market Believes U.S. Economy Still Resilient</title>
+      <link>https://www.lookonchain.com/feeds/25433</link>
+      <description>August 21st: The minutes of the Federal Reserve&apos;s July meeting were released. It was mentioned that the recent stock price hikes and the narrowing of credit spreads suggest that the market believes the overall U.S. economy remains strong. Nevertheless, the financial markets seem to have begun to distinguish among firms based on the scale and quality of their earnings.The valuation of the S&amp;P 500 index remains above its long-term average level mainly because the market is optimistically expecting that large technology companies may gain potential benefits from the further application of artificial intelligence (AI). However, although the valuation of the small-cap stock index has increased during the intermeeting period, it is still below the historical average level. (FXStreet)</description>
+      <pubDate>Wed, 20 Aug 2025 18:09:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25433</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Fed Meeting Minutes: Fed Staff Lowered Inflation Outlook for June Meeting</title>
+      <link>https://www.lookonchain.com/feeds/25432</link>
+      <description>August 21: Minutes from the Federal Reserve Meeting: Certain participants pointed out that it is neither feasible nor appropriate to wait until the impact of tariffs on inflation becomes fully evident before adjusting monetary policy.Most officials held the view that the Federal Reserve&apos;s policy was already in a favorable stance. Participants also noted that it would require time to obtain a more clear understanding of the magnitude and persistence of the impact of high tariffs on inflation.The Federal Reserve staff reduced their inflation expectations compared to the June meeting, yet they still anticipate that tariffs will lead to a rise in prices. (FXStreet)</description>
+      <pubDate>Wed, 20 Aug 2025 18:09:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25432</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Ethereum Reserve Concept Stocks Rebound, SBET and BMNR Both Rise Nearly 5%</title>
+      <link>https://www.lookonchain.com/feeds/25431</link>
+      <description>On August 21st, based on market data, the Ethereum Reserve concept stocks in the US stock market showed a rebound. These include:- SharpLink Gaming (SBET.US), which rose by 4.90%;- Bitmine Immersion Technologies (BMNR.US), with an increase of 4.92%;- BTCS (BTCS.US), increasing by 6.15%;- GameSquare (GAME.US), which went up by 1.04%;- Bit Digital (BTBT.US), with a rise of 1.10%.</description>
+      <pubDate>Wed, 20 Aug 2025 18:08:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25431</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
 
     </item>
     <item>
-      <title>Binance Alpha&apos;s latest SAPIEN airdrop generated approximately $38 in rewards per eligible account.</title>
-      <link>https://www.lookonchain.com/feeds/25422</link>
-      <description>On August 21st, based on market data, Sapien (SAPIEN) has been listed on Binance Alpha. Its current market capitalization is $47 million. Each eligible user can obtain 200 SAPIEN tokens through an airdrop. At the current price, the estimated single airdrop yield is approximately $38.</description>
-      <pubDate>Wed, 20 Aug 2025 17:08:55 +0000</pubDate>
+      <title>Fed Meeting Minutes: Several participants noted that the current federal funds rate target range may already be close to the neutral level</title>
+      <link>https://www.lookonchain.com/feeds/25430</link>
+      <description>On August 21st, Minutes of the Federal Reserve Meeting: Several participants suggested that the current target range for the federal funds rate might not be far from the neutral level. The officials&apos; projections for real GDP from 2025 to 2027 are similar to those prepared for the June meeting.In the Fed&apos;s July meeting, almost all participants believed that maintaining the benchmark interest rate within the range of 4.25% to 4.50% was appropriate. (FXStreet)</description>
+      <pubDate>Wed, 20 Aug 2025 18:08:16 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25422</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bio Protocol is pleased to announce the launch of the first BioAgent Launch project, Aubrai.</title>
-      <link>https://www.lookonchain.com/feeds/25421</link>
-      <description>On August 21st, the DeSci protocol Bio Protocol announced the commencement of its first BioAgent Launch project, Aubrai, with sales lasting for 24 hours. During this time period, users are able to stake BioXP and participate by contributing BIO tokens. The AUBRAI token will be made available for market trading immediately after the sale concludes, and the project&apos;s launch time will be announced separately.According to HTX market information, likely influenced by the recent increase in use cases, BIO briefly exceeded $0.17 today and is currently priced at $0.1421, with a 9% increase in the past 24 hours.</description>
-      <pubDate>Wed, 20 Aug 2025 17:00:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25421</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25430</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -127,12 +175,12 @@
 
     </item>
     <item>
-      <title>Overall OKB 24h Contract Trading Volume is $76.44 million, up by 101%.</title>
-      <link>https://www.lookonchain.com/feeds/25420</link>
-      <description>On August 21st, based on Coinglass data, the current total open interest of OKB futures is $8.8577 million, showing a 24-hour increase of 105%. The futures trading volume is $76.44 million, with a 24-hour increase of 101%. The 24-hour aggregated long/short ratio is 0.8546.</description>
-      <pubDate>Wed, 20 Aug 2025 16:56:55 +0000</pubDate>
+      <title>Fed Meeting Minutes: Tariffs&apos; Impact More Evident in Goods Prices</title>
+      <link>https://www.lookonchain.com/feeds/25429</link>
+      <description>August 21st. In the minutes of the Federal Reserve meeting, participants pointed out that the impact of tariffs had become more evident in commodity prices. However, the overall effect of tariffs on the economy and inflation still remained to be observed. (The Golden Ten)</description>
+      <pubDate>Wed, 20 Aug 2025 18:08:16 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25420</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25429</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -141,61 +189,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Wormhole Foundation Engages in Competition with LayerZero to Acquire Stargate Cross-Chain Bridge, Planning to Submit a Tender Offer Exceeding $110 Million</title>
-      <link>https://www.lookonchain.com/feeds/25418</link>
-      <description>On August 21st, the Wormhole Foundation made a statement, indicating that the LayerZero Foundation had previously proposed to acquire the Stargate cross-chain bridge and its STG token for $110 million. The Wormhole Foundation thought that the offer was too low and failed to recognize the strong growth of Stargate. The Wormhole Foundation is preparing to submit a higher bid and has asked for a pause of the ongoing snapshot vote for 5 working days.Previously, on August 11th, the LayerZero Foundation proposed to acquire the Stargate cross-chain bridge and its STG token for $110 million. According to the terms of the proposal, the STG token will be phased out, and STG holders can swap their tokens for LayerZero&apos;s native token ZRO at an exchange rate of 1 STG to 0.08634 ZRO, which is equivalent to a value of $0.1675 per STG and $1.94 per ZRO.</description>
-      <pubDate>Wed, 20 Aug 2025 16:51:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25418</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>OKB Continues to Surge, Breaking Through $175 to Hit New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/25419</link>
-      <description>On August 21st, based on HTX market data, OKB continues to surge and breaks through $175. Its 24-hour gain expands to 42%, reaching a new all-time high.On August 13th, OKX announced a one-time burn of the historical buyback and the reserved 65,256,712.097 OKB. It then switched to using a smart contract to automatically burn all OKB transferred to the black hole address, with the total supply of OKB fixed at 21 million.</description>
-      <pubDate>Wed, 20 Aug 2025 16:51:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25419</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>OKB Surges Past $160 to Hit All-Time High, 24-hour Gain Expands to 30%</title>
-      <link>https://www.lookonchain.com/feeds/25417</link>
-      <description>August 21st. Based on HTX market data, OKB has exceeded $160, witnessing a 30% increase within the past 24 hours and breaking through last week&apos;s all-time high of $142.85.On August 13th, OKX announced that it would conduct a one-time burn of 65,256,712.097 OKB from historical buybacks and reserves. This would be achieved through a smart contract, which automatically burns all transferred OKB to a black hole address. The total supply of OKB remains fixed at 21 million tokens.</description>
-      <pubDate>Wed, 20 Aug 2025 16:51:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25417</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
