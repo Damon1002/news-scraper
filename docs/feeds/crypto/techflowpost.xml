@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 07:28:41 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 07:28:41 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 07:44:41 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 07:44:41 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,40 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>分析师：鲍威尔可能会制造不确定性，绝不能让美联储被锁死在9月必须降息的立场上</title>
+      <title>美 SEC 主席：只有极少数加密货币属于证券</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Theblock 报道，美国证券交易委员会（SEC）主席 Paul Atkins 在怀俄明州区块链研讨会上表示，极少数加密代币属于证券，这一立场与前任主席的态度形成鲜明对比。Atkins 强调，代币本身不一定是证券，其性质取决于相关包装和销售方式。SEC 此前启动了&quot;Project Crypt...</description>
+      <pubDate>Wed, 20 Aug 2025 07:43:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>美股上市公司 AMTD 拟推出加密货币换股计划，接受 5 种加密货币兑换新发行股票</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Decrypt 报道，纽交所上市的 AMTD 集团旗下三家关联公司提出加密货币换股计划。该计划将允许持有者用比特币、以太坊、USDT、BNB 和 USDC 兑换其新发行的股票。参与该计划的三家公司分别为 AMTD IDEA（AMTD）、AMTD Digital（HKD）和 The Genera...</description>
+      <pubDate>Wed, 20 Aug 2025 07:39:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>BTFS SCAN v4.0.1全新升级上线</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方消息，波场TRON旗下分布式存储网络BTFS正式发布SCANv4.0.1版本，重磅推出两大功能革新：首页新增“网络可用性评分”系统，可对网络健康状态进行实时可视化监测，同时在存储提供者列表页全新集成“延迟”与“在线率”两项核心指标，为用户提供更透明和精准的节点性能评估体系。此次升级显著增强了...</description>
+      <pubDate>Wed, 20 Aug 2025 07:31:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>分析师：鲍威尔或在杰克逊霍尔年会上制造降息不确定性</title>
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，Madison Investments 固收主管迈克·桑德斯表示，美联储主席鲍威尔可能会在本周五的杰克逊霍尔全球央行年会上试图为市场的降息预期注入一些“不确定性”。货币市场目前押注美联储9月降息的概率高达84%，但鲍威尔“应该希望给这种信心降降温，以防后续数据不如预期”。他指出，如...</description>
       <pubDate>Wed, 20 Aug 2025 07:24:00 +0000</pubDate>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，币安Alpha将于2025年08月21日01:00（东八区时间）上线和开放Sapien (SAPIEN) 的交易。此外，币安合约平台将于2025年08月21日01:30（东八区时间）上线SAPIENUSDT永续合约，最高杠杆可达50倍。币安是首个公告开放Sapien (SAPIEN) ...</description>
       <pubDate>Wed, 20 Aug 2025 03:19:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安将下架 MOVE/FDUSD、NIL/FDUSD 和 SXT/BNB 现货交易对</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，币安将移除以下现货交易对并停止交易：2025年08月22日11:00（东八区时间）：MOVE/FDUSD、NIL/FDUSD 和SXT/BNB</description>
-      <pubDate>Wed, 20 Aug 2025 03:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Celsius 将启动第三轮 2.206 亿美元资产分配，累计偿还比例将达 64.9%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Cointelegraph 报道，破产加密货币借贷平台 Celsius Network 将向债权人开展第三轮资产分配，金额达 2.206 亿美元。此次分配完成后，债权人累计获得的资产偿还比例将达到约 64.9%。</description>
-      <pubDate>Wed, 20 Aug 2025 03:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>高盛：稳定币颠覆传统金融言之尚早，相比Circle更看好Robinhood</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Investopedia报道，高盛分析师Will Nance和James Yaro在最新报告中指出，与法定货币挂钩的稳定币是否会增长至数万亿美元规模并逐步侵蚀传统金融服务产业，仍有待观察。稳定币对支付服务(包括消费者信用卡生态系统)构成的“威胁有限”，当前整体表现不佳反而创造了买入机会，Visa...</description>
-      <pubDate>Wed, 20 Aug 2025 02:57:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
