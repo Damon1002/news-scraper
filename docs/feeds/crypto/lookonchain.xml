@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Aug 2025 23:59:54 +0000</lastBuildDate>
-    <pubDate>Tue, 19 Aug 2025 23:59:54 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 02:05:27 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 02:05:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,52 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>In the past 24 hours, there has been a total of $532 million in liquidations across the entire network, with Ethereum being the most liquidated asset.</title>
-      <link>https://www.lookonchain.com/feeds/25262</link>
-      <description>On August 20th, according to Coinglass data, the total value of liquidations across the entire network in the past 24 hours was $532 million. Ethereum accounted for $199 million of these liquidations, making it the most liquidated currency.Long positions with a value of $460 million were liquidated. A total of 148,745 people were liquidated globally. The largest single liquidation took place on Binance - BTCUSDT, with a value of $9.695 million.</description>
-      <pubDate>Tue, 19 Aug 2025 23:57:02 +0000</pubDate>
+      <title>Bitget adopts the Chainlink Proof of Reserve scheme to enhance BGBTC asset transparency</title>
+      <link>https://www.lookonchain.com/feeds/25286</link>
+      <description>On August 20th, Bitget announced the implementation of a Chainlink-backed Proof of Reserve solution, offering real-time transparency and verifiable reserve guarantees for its Bitcoin-pegged asset BGBTC.According to reports, the Chainlink Proof of Reserve solution independently validates the reserve balance behind tokenized assets via a decentralized oracle network, bringing real-world asset reserve data onto the blockchain. This guarantees that the reserve backing BGBTC does not rely on manual disclosure and can be subject to independent audits at any time. This mechanism will also further support the use of BGBTC in BitVault Finance&apos;s DeFi yield strategies and lending products, enabling retail and institutional users to confirm that the reserve behind the asset is under continuous monitoring.Bitget CEO Gracy Chen stated: &quot;Transparency is of great importance in the digital asset industry. By adopting Chainlink&apos;s Proof of Reserve solution, we have provided greater trust assurances t</description>
+      <pubDate>Wed, 20 Aug 2025 01:57:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25262</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Ethereum Falls Below $4100</title>
-      <link>https://www.lookonchain.com/feeds/25261</link>
-      <description>On August 20th, according to HTX market data, Ethereum fell below $4,100 and is currently trading at $4,089.7, indicating a 24-hour decrease of 2.36%.</description>
-      <pubDate>Tue, 19 Aug 2025 23:49:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25261</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Franklin Templeton CEO: Crypto Investment Should Focus on Infrastructure Rather Than Bitcoin</title>
-      <link>https://www.lookonchain.com/feeds/25260</link>
-      <description>On August 20th, Jenny Johnson, the CEO of Franklin Templeton with $1.6 trillion in assets under management, stated at the SALT Conference held in Jackson Hole, Wyoming, that Bitcoin is a &quot;Fear Currency.&quot; In her opinion, Bitcoin has diverted people&apos;s attention away from the genuine potential of blockchain.She holds the view that the most promising investment direction within the crypto space is blockchain infrastructure, encompassing blockchain networks, consumer applications, and node validators. Johnson anticipates that in the future, mutual funds and ETFs will gradually operate on the blockchain. However, regulatory risk still poses the greatest obstacle to this transformation. She emphasized that for active investment managers, the transparency brought by validators could bring about a &quot;game-changing&quot; impact. (CoinDesk)</description>
-      <pubDate>Tue, 19 Aug 2025 23:49:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25260</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25286</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -73,12 +33,12 @@
 
     </item>
     <item>
-      <title>The US banking regulatory agency will proceed to address state-specific stablecoin regulatory frameworks</title>
-      <link>https://www.lookonchain.com/feeds/25259</link>
-      <description>August 20: The U.S. Stablecoin Certification Review Board will make a determination regarding whether each state&apos;s framework is &quot;substantially similar&quot; to the federal stablecoin issuance system. Under the leadership of the Secretary of the Treasury, the board&apos;s members comprise the Federal Reserve Chair and the Chair of the Federal Deposit Insurance Corporation (FDIC). These members must reach a consensus in order to enable state jurisdictions to obtain federal approval for stablecoin regulation. The &quot;GENIUS Act&quot; is intended to simplify state-level regulation. Gavin Meyers, the Financial Services Regulation Partner at Pierson Ferdinand LLP, stated that this act is anticipated to reduce the regulatory fragmentation among states. (Bloomberg)</description>
-      <pubDate>Tue, 19 Aug 2025 23:49:02 +0000</pubDate>
+      <title>Source: InsiderInsider sources: U.S. CFTC nominee Brian Quintenz&apos;s nomination is stalled, with multiple cryptocurrency industry organizations jointly supporting him.</title>
+      <link>https://www.lookonchain.com/feeds/25285</link>
+      <description>On August 20th. According to crypto reporter Eleanor Terrett, Brian Quintenz, the nominee for the U.S. Commodity Futures Trading Commission (CFTC), has recently taken the initiative to get in touch with members of the crypto industry to hold a meeting after his nomination was stalled for three weeks. Since the Senate Judiciary Committee postponed his confirmation hearing three weeks ago, the White House has remained silent without making any comments.Meanwhile, several industry organizations such as the Digital Chamber, Blockchain Association, Crypto Council, and Fund DeFi are preparing a joint letter of support, which is anticipated to be submitted to President Trump as early as tomorrow regarding his nomination.</description>
+      <pubDate>Wed, 20 Aug 2025 01:57:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25259</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25285</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -90,12 +50,106 @@
 
     </item>
     <item>
-      <title>The crypto market continues to experience a bearish trend this morning, with Ethereum struggling to hold above $4,100 and Bitcoin dropping below $113,000.</title>
-      <link>https://www.lookonchain.com/feeds/25258</link>
-      <description>On August 20th, based on HTX market data, from last night to this morning, the crypto market continued to show a bearish trend. Specifically, Ethereum dropped to approximately $4100 and is currently priced at $4107.89, with a 24-hour decline of 2.02%. Bitcoin fell below $113,000 and is currently priced at $112,895.92, with a 24-hour decline of 0.78%. On the news front, the main bearish factors may stem from the decline in the US stock market and international macroeconomic uncertainties: the US stock market closed on Tuesday, with the Dow showing a slight increase, the S&amp;P 500 down by 0.58%, and the Nasdaq down by 1.46%. The Russia-Ukraine conflict escalated once again, and the market anticipates that Powell&apos;s speech may potentially shatter the expectations of a 50 basis point rate cut.</description>
-      <pubDate>Tue, 19 Aug 2025 23:41:02 +0000</pubDate>
+      <title>Data: Ethereum Staking Amount has decreased by a net of 43,873 ETH in the past week, equivalent to approximately $178 million.</title>
+      <link>https://www.lookonchain.com/feeds/25287</link>
+      <description>On August 20th, based on the data from the Validator Queue tracking website validatorqueue, the staking amount of Ethereum has decreased from 35.651 million ETH to 35.607 million ETH within the past week. This represents a net decrease of 43,873 ETH, which is approximately worth $1.78 billion.Furthermore, as of the moment of writing, the current exit queue of the Ethereum PoS network is temporarily reported to be 916,647 ETH, and it remains at a historical high.</description>
+      <pubDate>Wed, 20 Aug 2025 01:57:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25258</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25287</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Estimated Ethereum Staking Costs for BMNR and SBET: $3730 and $3478 respectively</title>
+      <link>https://www.lookonchain.com/feeds/25284</link>
+      <description>August 20th. On-chain analyst Yu Jin calculated the Ethereum buying costs of BitMine and SharpLink. Based on the announced purchases since the beginning of ETH reserves by BitMine and SharpLink, the calculations are as follows:BitMine (BMNR) began buying ETH on 7/9. As of 8/17, it held 1,523,373 ETH with an average cost of $3,730.SharpLink (SBET) started buying ETH on 6/13. By 8/17, it held 740,760 ETH and had an average cost of $3,478.</description>
+      <pubDate>Wed, 20 Aug 2025 01:48:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25284</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>「Yeezy Coin」 Trader Liquidates Position, Loses $704,000 in 3 Hours</title>
+      <link>https://www.lookonchain.com/feeds/25283</link>
+      <description>August 20th. According to on-chain analyst Ai Yi (@ai_9684xtpa), the &quot;Betting on Kanye Concept Meme Coin YZY&quot; trader transferred all 27.72 million tokens to the address 51mwU...bw5DG 7 hours ago. Subsequently, they sold all the tokens in 48 transactions with an average price of $0.002103 (cost basis $0.02767), resulting in a loss of $704,000 within 3 hours.</description>
+      <pubDate>Wed, 20 Aug 2025 01:40:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25283</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Insider: Musk Pauses Formation of New Political Party, Continues to Seek Connection with Vance</title>
+      <link>https://www.lookonchain.com/feeds/25282</link>
+      <description>On August 20th, as reported by The Wall Street Journal, Elon Musk has decelerated his plans to establish the &quot;America Party&quot; as a third political party. Those with knowledge of the matter stated that Musk is currently inclined to concentrate on the operation of his companies and is cautious about forming a party because he is reluctant to divert votes from the Republican Party. The sources indicated that Musk has been attempting to maintain communication with American Vice President Pence.Previously, Musk had declared that the new party aimed to restore voter &quot;freedom,&quot; but recently informed his allies that he is not currently proceeding with related actions.</description>
+      <pubDate>Wed, 20 Aug 2025 01:32:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25282</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Analysis: Bitcoin 30-Day Option Delta Skew Skyrockets, Indicating Market is in Extreme Fear</title>
+      <link>https://www.lookonchain.com/feeds/25281</link>
+      <description>On August 20th, according to Deribit data, the Bitcoin 30-day option Delta skew (put-call) skyrocketed to 12%, attaining its highest level in more than four months. In a neutral situation, this indicator typically fluctuates between -6% and +6%, which reflects the balanced pricing of call (buy) and put (sell) options. When the level is above 10%, it indicates extreme market fear, but such situations seldom last.Previously, this indicator soared to 13% on April 7th, when Bitcoin fell below $74,500 for the first time in five months. Subsequently, risk-taking investors reaped a 40% return in the following month, with Bitcoin rising to $104,150 on May 8th.Cointelegraph&apos;s analysis suggests that there is no evidence indicating the end of Bitcoin&apos;s bull market. Traders&apos; fear often exceeds rational expectations. In fact, this cryptocurrency may even benefit from potential outflows from the stock market, suggesting that the current turmoil will not counteract the market&apos;s long-term bullish</description>
+      <pubDate>Wed, 20 Aug 2025 01:32:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25281</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>At the end of July, a whale bought $20.08 million worth of ETH at an average price of $3958 and swapped it for WBTC.</title>
+      <link>https://www.lookonchain.com/feeds/25280</link>
+      <description>On August 20th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), at the end of July, a whale accumulated $20.8 million worth of ETH with an average price of $3958 and then repositioned into WBTC.During yesterday&apos;s price drop, the whale directly sold 1200 ETH ($4.97 million) at $4,147.86, realizing a profit of $228,000. The remaining 3900 ETH was swapped for 143.26 WBTC two hours ago. At that time, ETH was selling at $4169 and WBTC was buying at $113,493.</description>
+      <pubDate>Wed, 20 Aug 2025 01:24:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25280</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -108,53 +162,17 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>In the last 1 hour, the total liquidation across the network was $61.9545 million, with only short positions liquidated totaling $0.7009 million.</title>
-      <link>https://www.lookonchain.com/feeds/25257</link>
-      <description>On August 20th, according to Coinglass data, within the past 1 hour, the total liquidation across the network was $61.9545 million. The total long liquidations were $61.2536 million, and the short liquidations were $0.7009 million.The liquidations of Bitcoin amounted to $13.9272 million, while the liquidations of Ethereum reached $18.9156 million.</description>
-      <pubDate>Tue, 19 Aug 2025 18:59:02 +0000</pubDate>
+      <title>Trump Urges Powell to Cut Rates Again: &quot;Too Late to Be Mr. Hawk&quot;</title>
+      <link>https://www.lookonchain.com/feeds/25279</link>
+      <description>On August 20th, President Trump once again posted on his Truth platform, urging Powell to cut interest rates. He said, &quot;Could someone kindly inform Jerome *Too Late* Powell that his actions are causing great harm to the real estate industry? People are unable to obtain mortgages due to him. However, all indications suggest that there was no inflation before, and a significant rate cut is needed. &apos;Too Late&apos; is a disaster!&quot;</description>
+      <pubDate>Wed, 20 Aug 2025 01:16:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25257</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Reserve Asset Stocks Experience Broad Decline, SBET and BMNR Both Drop Over 9%</title>
-      <link>https://www.lookonchain.com/feeds/25256</link>
-      <description>On August 20th, based on market data, the Ethereum Reserve concept stocks in the US stock market witnessed a general decline. These included:- SharpLink Gaming (SBET.US), which dropped by 9.42%;- Bitmine Immersion Technologies (BMNR.US), with a decrease of 9.97%;- BTCS (BTCS.US), down by 13.45%;- GameSquare (GAME.US), falling by 10.53%;- Bit Digital (BTBT.US), declining by 8.16%.</description>
-      <pubDate>Tue, 19 Aug 2025 18:59:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25256</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Governor: Fed&apos;s Views on AI and Cryptocurrency &apos;About to Change&apos;</title>
-      <link>https://www.lookonchain.com/feeds/25255</link>
-      <description>On August 20th, Federal Reserve Board Governor Bowman expressed that banks and regulatory agencies must embrace the advantages of new technologies like artificial intelligence and cryptocurrency. Otherwise, their role in the economy could be weakened.In her speech, she stated, &quot;Change is approaching.&quot; She proposed that ideally, regulatory agencies would enable new use cases to &quot;soar in a manner that benefits the banking system.&quot; She further added, &quot;If we do not adopt this approach, we may run the risk of the banking system&apos;s relevance to consumers, businesses, and the overall economy decreasing.&quot;Bowman called on the industry to assist regulatory agencies in better understanding blockchain and digital assets, as well as the potential of new technologies to address issues such as fraud. She also indicated that she would strive to reduce regulatory oversight related to reputational risk, suggesting the possibility of new rulemaking. (FXStreet)</description>
-      <pubDate>Tue, 19 Aug 2025 18:59:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25255</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25279</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -166,29 +184,12 @@
 
     </item>
     <item>
-      <title>The U.S. Includes 407 Steel and Aluminum Derivative Products in Tariff List</title>
-      <link>https://www.lookonchain.com/feeds/25254</link>
-      <description>August 20th: On August 19th in the local time zone, the U.S. Department of Commerce announced that 407 product categories have been included in the steel and aluminum tariff list, and the tariff rate is 50%.The Department of Commerce declared that the new list encompasses a wide variety of products, such as wind turbines and their components, mobile cranes, railway vehicles, furniture, compressors, pumps, and hundreds of other products. (CCTV)</description>
-      <pubDate>Tue, 19 Aug 2025 18:59:02 +0000</pubDate>
+      <title>Early Leader Coin Market-wide Downturn, ZORA Plunges Over 19% in 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/25278</link>
+      <description>On August 20th, according to market data, previously strong coins witnessed a general decline today. These include: ZORA, which saw a daily decline of 19.3% and is now trading at $0.08834; SKALE, with a daily decrease of 11% and currently trading at $0.03063; XNY, experiencing a daily decrease of 26.9% and now trading at $0.01078; and MYX, which had a daily decrease of 24.9% and is now trading at $1.08.</description>
+      <pubDate>Wed, 20 Aug 2025 01:08:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25254</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>White House: The Presidents of Russia and Ukraine have expressed their willingness to sit down for negotiations</title>
-      <link>https://www.lookonchain.com/feeds/25253</link>
-      <description>August 20th: On August 19th in the local time, the White House Press Secretary Levi declared that the U.S. military will not be deployed within Ukraine but can offer assistance through coordination and security. Trump has given instructions to the National Security Council to collaborate with Europe.Levi stated that Trump has put forward a solution for NATO to purchase American weapons. Levi also mentioned that Russian President Putin and Ukrainian President Zelensky have shown a willingness to have negotiations. Trump hopes for direct diplomatic talks between Russia and Ukraine. Currently, arrangements are being made for Zelensky to meet with Putin. (FXStreet)</description>
-      <pubDate>Tue, 19 Aug 2025 18:59:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25253</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25278</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
