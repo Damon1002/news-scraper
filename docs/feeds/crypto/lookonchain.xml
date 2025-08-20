@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 14:42:20 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 14:42:20 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 14:55:08 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 14:55:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Cryptoquant: Strategy Accumulation Not Necessarily a Sign of Bottoming Out, but Aligns with Market Momentum and Boosts Sentiment</title>
+      <link>https://www.lookonchain.com/feeds/25400</link>
+      <description>On August 20th, Cryptoquant issued a market analysis indicating that the buy orders of Strategy do not always match the local bottoms and boost the price of BTC. Generally, they purchase OTC and settle on-chain in batches. Sometimes this practice is in line with market momentum, boosting market sentiment, but the market depth far exceeds any single transaction.The best way to interpret the buy orders of Strategy is to regard their purchases as part of the demand background and then confirm through ETF flows, spot CVD, and the Coinbase premium on the US trading platform.</description>
+      <pubDate>Wed, 20 Aug 2025 14:48:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25400</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>A certain new address withdrew approximately 234,000 UNI and 485.77 ETH from Binance</title>
       <link>https://www.lookonchain.com/feeds/25399</link>
       <description>On August 20th, as per the monitoring of OnchainLens, a newly established address withdrew 234,083 UNI from Binance, which was valued at $2.35 million; in addition, it also withdrew 485.77 ETH, with a value of $2 million.</description>
-      <pubDate>Wed, 20 Aug 2025 14:41:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:40:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25399</guid>
       <category>crypto</category>
@@ -33,10 +50,27 @@
 
     </item>
     <item>
+      <title>Capital Economics: Market Overestimating Fed Rate Cut Prospects, US Short-Term Rates Face Upside Risk</title>
+      <link>https://www.lookonchain.com/feeds/25398</link>
+      <description>On August 20th, Kevin Thozet, a member of the TCW Group Macro Investment Committee, stated in a report that there are upward risks to the US short-term interest rate, and the market is overly confident about the prospects of the Fed&apos;s interest rate cuts. The US money market has already priced in at least two interest rate cuts this year, which reflects the market&apos;s expectation that signs of a further slowdown in the US economy and inflation will emerge. Thozet said: &quot;Considering the resilience of the US economy, policy uncertainty, and the persistence of inflation pressure, we believe this expectation is too high.&quot; The trend of long-term US Treasury bond yields is more balanced. The current 10-year US Treasury bond yield at 4.300% is expected to fluctuate within a range of approximately 50 basis points above and below the current level. (FXStreet)</description>
+      <pubDate>Wed, 20 Aug 2025 14:32:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25398</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>If Ethereum drops below $4,000, the cumulative long liquidation pressure from major CEXs will reach $1.841 billion</title>
       <link>https://www.lookonchain.com/feeds/25397</link>
       <description>On August 20th, based on Coinglass data, if Ethereum drops below $4000, the cumulative liquidation intensity of mainstream CEX in terms of long positions will reach $1.841 billion.On the other hand, if Ethereum rebounds above $4300, the cumulative liquidation intensity of mainstream CEX in terms of short positions will reach $1.88 billion.BlockBeats Note: The liquidation chart does not display the exact number of contracts to be liquidated or the precise value of the contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity. Therefore, the liquidation chart shows to what extent the price of the underlying asset will be impacted when it reaches a certain position. Higher &quot;liquidation bars&quot; indicate that the price will have a more pronounced reaction due to a liquidity cascade when it reaches that point.</description>
-      <pubDate>Wed, 20 Aug 2025 14:32:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:32:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25397</guid>
       <category>crypto</category>
@@ -53,27 +87,10 @@
 
     </item>
     <item>
-      <title>Capital Economics: Market Overestimating Fed Rate Cut Prospects, US Short-Term Rates Face Upside Risk</title>
-      <link>https://www.lookonchain.com/feeds/25398</link>
-      <description>On August 20th, Kevin Thozet, a member of the TCW Group Macro Investment Committee, stated in a report that there are upward risks to the US short-term interest rate, and the market is overly confident about the prospects of the Fed&apos;s interest rate cuts. The US money market has already priced in at least two interest rate cuts this year, which reflects the market&apos;s expectation that signs of a further slowdown in the US economy and inflation will emerge. Thozet said: &quot;Considering the resilience of the US economy, policy uncertainty, and the persistence of inflation pressure, we believe this expectation is too high.&quot; The trend of long-term US Treasury bond yields is more balanced. The current 10-year US Treasury bond yield at 4.300% is expected to fluctuate within a range of approximately 50 basis points above and below the current level. (FXStreet)</description>
-      <pubDate>Wed, 20 Aug 2025 14:32:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25398</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Analyst: Powell Speech to Focus on Labor Market and Policy Path</title>
       <link>https://www.lookonchain.com/feeds/25396</link>
       <description>August 20th: Mabrouk Chetouane, the Global Market Strategist at La Fran?aise Investment Solutions, stated in a report that during the Jackson Hole symposium, Federal Reserve Chairman Powell&apos;s speech may center around the labor market and its influence on monetary policy. This year&apos;s symposium theme is &quot;The Labor Market in Transition: Population Structure, Productivity, and Macroeconomic Policy.&quot; The main focus of the meeting will be on Powell&apos;s remarks regarding the monetary policy trajectory for the rest of the year. Despite a certain rebound in inflationary pressures, Powell may need to clarify why the policy emphasis is shifting towards the employment target while giving inflation a secondary position. (FX678)Federal Reserve Chairman Powell is scheduled to deliver a crucial speech at the Jackson Hole symposium this Friday night in Beijing time. Meanwhile, the latest inflation data, which is higher than expected, has led some traders to lower their rate cut expectations but they st</description>
-      <pubDate>Wed, 20 Aug 2025 14:24:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:24:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25396</guid>
       <category>crypto</category>
@@ -90,7 +107,7 @@
       <title>U.S. Department of Justice: Takes Seriously Criminal Investigation Referral Related to Federal Reserve Board Member Powell</title>
       <link>https://www.lookonchain.com/feeds/25395</link>
       <description>On August 20th, a U.S. Department of Justice official declared that the department had received a criminal investigation referral concerning Federal Reserve Board Governor Cook and was treating it with great seriousness. (IG)This evening, Trump took to Truth Social and stated, &quot;Federal Reserve Board Governor Cook must resign immediately!!!&quot; Trump&apos;s staunch ally, Federal Housing Finance Agency Director Bill Pulte, sent a letter to Department of Justice officials, suggesting that Federal Reserve Board Governor Cook might have committed criminal acts. According to a copy of the letter disclosed by Bloomberg, the letter alleges that Cook &quot;falsified bank documents and asset records in order to obtain more favorable loan terms, potentially violating criminal laws constituting mortgage fraud.&quot;</description>
-      <pubDate>Wed, 20 Aug 2025 14:16:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:16:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25395</guid>
       <category>crypto</category>
@@ -104,10 +121,30 @@
 
     </item>
     <item>
+      <title>LM Funding America has completed a $23 million financing round to increase its Bitcoin holdings.</title>
+      <link>https://www.lookonchain.com/feeds/25392</link>
+      <description>On August 20th, LM Funding America, Inc. (Nasdaq: LMFA), which focuses on Bitcoin asset management and mining, announced the successful completion of a $12.6 million registered offering and a $10.4 million private placement, raising a total of approximately $23 million. The net proceeds from this offering will primarily be allocated to purchasing a greater amount of Bitcoin for the company&apos;s asset management division.</description>
+      <pubDate>Wed, 20 Aug 2025 14:08:16 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25392</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Block Earner has announced the completion of an $8 million funding round to develop a Bitcoin-backed mortgage product</title>
       <link>https://www.lookonchain.com/feeds/25394</link>
       <description>On August 20th, the Australian fintech company Block Earner announced the accomplishment of an $8 million financing round for the development of a Bitcoin-backed home loan product. This enables users to utilize Bitcoin as collateral to obtain funds for home purchase or renovation.Block Earner declared that the volatility of the cryptocurrency market is gradually becoming stable. Pilot projects are currently in progress, and it is anticipated that users will successfully use cryptocurrency as collateral to purchase homes within this year.</description>
-      <pubDate>Wed, 20 Aug 2025 14:08:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:08:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25394</guid>
       <category>crypto</category>
@@ -127,7 +164,7 @@
       <title>A whale withdrew 2,200 ETH from Binance, worth $9.15 million</title>
       <link>https://www.lookonchain.com/feeds/25393</link>
       <description>On August 20th, as monitored by OnchainLens, a whale transferred 2,200 ETH from Binance. The value of this withdrawal was $9.15 million, and it was sent to Aave V3 for lending.</description>
-      <pubDate>Wed, 20 Aug 2025 14:08:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:08:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25393</guid>
       <category>crypto</category>
@@ -145,30 +182,10 @@
 
     </item>
     <item>
-      <title>LM Funding America has completed a $23 million financing round to increase its Bitcoin holdings.</title>
-      <link>https://www.lookonchain.com/feeds/25392</link>
-      <description>On August 20th, LM Funding America, Inc. (Nasdaq: LMFA), which focuses on Bitcoin asset management and mining, announced the successful completion of a $12.6 million registered offering and a $10.4 million private placement, raising a total of approximately $23 million. The net proceeds from this offering will primarily be allocated to purchasing a greater amount of Bitcoin for the company&apos;s asset management division.</description>
-      <pubDate>Wed, 20 Aug 2025 14:08:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25392</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>U.S. Stock Market Hours: Cryptocurrency Stocks Experience Widespread Decline, ETHZilla Plunges 14%</title>
       <link>https://www.lookonchain.com/feeds/25391</link>
       <description>On August 20th, based on market data, the U.S. stock market witnessed an expanded decline during intraday trading. The S&amp;P 500 index dropped by 0.6%, and the Nasdaq saw an extended decline of 1.3%. U.S. stock cryptocurrency shares generally turned downward, including:- Circle (CRCL) with a decline of 4.2%;- Coinbase (COIN) down by 3.2%;- MicroStrategy (MSTR) falling by 2.8%;- SharpLink Gaming (SBET) with a decrease of 0.1%;- Bitmine Immersion (BMNR) down by 1.6%;- CEA Industries (BNC) dropping by 7.8%;- ETHZilla (formerly 180 Life Sciences) plunging by 14%.</description>
-      <pubDate>Wed, 20 Aug 2025 14:00:26 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 14:00:16 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25391</guid>
       <category>crypto</category>
@@ -181,26 +198,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Drops Below $113,000, 24-hour Decrease of 1.86%</title>
-      <link>https://www.lookonchain.com/feeds/25390</link>
-      <description>On August 20th, according to HTX market data, Bitcoin fell below $113,000, with a 24-hour decline of 1.86%.</description>
-      <pubDate>Wed, 20 Aug 2025 13:56:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25390</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
