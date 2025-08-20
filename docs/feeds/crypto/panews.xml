@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Aug 2025 13:39:22 +0000</lastBuildDate>
-    <pubDate>Wed, 20 Aug 2025 13:39:22 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 13:54:44 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 13:54:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>BTC跌破113000美元，日内下跌 0.71%</title>
+      <link>https://www.panewslab.com/zh/articles/ax0bvd24</link>
+      <description>BTC跌破113000美元，日内下跌 0.71%</description>
+      <pubDate>Wed, 20 Aug 2025 13:54:44 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ax0bvd24</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>某新钱包从币安提取229万美元ONDO和ENA</title>
       <link>https://www.panewslab.com/zh/articles/50ce2b71-ed5e-478c-af72-4ee3947c53a4</link>
       <description>某新钱包从币安提取229万美元ONDO和ENA</description>
-      <pubDate>Wed, 20 Aug 2025 13:39:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:52:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/50ce2b71-ed5e-478c-af72-4ee3947c53a4</guid>
       <category>crypto</category>
@@ -32,7 +49,7 @@
       <title>Kraken收购无代码交易公司Capitalise.ai，提升Pro平台交易自动化能力</title>
       <link>https://www.panewslab.com/zh/articles/fbb1ee01-8da8-431d-be31-0b0db2d61bd1</link>
       <description>Kraken收购无代码交易公司Capitalise.ai，提升Pro平台交易自动化能力</description>
-      <pubDate>Wed, 20 Aug 2025 13:37:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:50:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fbb1ee01-8da8-431d-be31-0b0db2d61bd1</guid>
       <category>crypto</category>
@@ -47,7 +64,7 @@
       <title>Block Earner完成800万美元融资，推动比特币抵押房贷产品</title>
       <link>https://www.panewslab.com/zh/articles/b08c9089-f73e-4423-aaf1-c13b78f0a334</link>
       <description>Block Earner完成800万美元融资，推动比特币抵押房贷产品</description>
-      <pubDate>Wed, 20 Aug 2025 13:35:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:48:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b08c9089-f73e-4423-aaf1-c13b78f0a334</guid>
       <category>crypto</category>
@@ -64,7 +81,7 @@
       <title>Plasma USDT锁仓产品首批2.5亿USDT额度已满</title>
       <link>https://www.panewslab.com/zh/articles/3117a1ee-1d47-4cbe-88cb-1934ade7fe69</link>
       <description>Plasma USDT锁仓产品首批2.5亿USDT额度已满</description>
-      <pubDate>Wed, 20 Aug 2025 13:33:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:46:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3117a1ee-1d47-4cbe-88cb-1934ade7fe69</guid>
       <category>crypto</category>
@@ -79,7 +96,7 @@
       <title>USDC Treasury在Solana网络销毁超74400万USDC</title>
       <link>https://www.panewslab.com/zh/articles/722775f6-358e-4119-9f13-330645cfb8dd</link>
       <description>USDC Treasury在Solana网络销毁超74400万USDC</description>
-      <pubDate>Wed, 20 Aug 2025 13:31:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:44:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/722775f6-358e-4119-9f13-330645cfb8dd</guid>
       <category>crypto</category>
@@ -94,7 +111,7 @@
       <title>BNB Chain启动第十一季MVB计划，十周驻地支持Web3创业者</title>
       <link>https://www.panewslab.com/zh/articles/25f5e767-44bd-4a49-aafe-0d0ba6fedda0</link>
       <description>BNB Chain启动第十一季MVB计划，十周驻地支持Web3创业者</description>
-      <pubDate>Wed, 20 Aug 2025 13:29:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:42:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/25f5e767-44bd-4a49-aafe-0d0ba6fedda0</guid>
       <category>crypto</category>
@@ -109,7 +126,7 @@
       <title>Kaito发布H1更新及未来增长计划：启动Kaito Venture、利用战略储备的600万KAITO激励生态发展等</title>
       <link>https://www.panewslab.com/zh/articles/4ef3b44f-4c9b-4576-9148-61abc83c75ca</link>
       <description>Kaito发布H1更新及未来增长计划：启动Kaito Venture、利用战略储备的600万KAITO激励生态发展等</description>
-      <pubDate>Wed, 20 Aug 2025 13:27:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:40:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4ef3b44f-4c9b-4576-9148-61abc83c75ca</guid>
       <category>crypto</category>
@@ -124,7 +141,7 @@
       <title>以太坊现货 ETF 昨日总净流出 4.30 亿美元，为历史第二高</title>
       <link>https://www.panewslab.com/zh/articles/18b36a97-b99a-4593-a297-e7d277cdd269</link>
       <description>以太坊现货 ETF 昨日总净流出 4.30 亿美元，为历史第二高</description>
-      <pubDate>Wed, 20 Aug 2025 13:25:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:38:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/18b36a97-b99a-4593-a297-e7d277cdd269</guid>
       <category>crypto</category>
@@ -141,7 +158,7 @@
       <title>比特币现货 ETF 昨日总净流出 5.23 亿美元，持续 3 日净流出</title>
       <link>https://www.panewslab.com/zh/articles/eb537d90-7e48-4885-9982-801d2b03b693</link>
       <description>比特币现货 ETF 昨日总净流出 5.23 亿美元，持续 3 日净流出</description>
-      <pubDate>Wed, 20 Aug 2025 13:23:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:36:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/eb537d90-7e48-4885-9982-801d2b03b693</guid>
       <category>crypto</category>
@@ -158,7 +175,7 @@
       <title>币安理财推出Plasma USDT定期产品，总申购限额为2.5亿USDT</title>
       <link>https://www.panewslab.com/zh/articles/55c232f6-5bf9-4206-9618-1e0b1f227d18</link>
       <description>币安理财推出Plasma USDT定期产品，总申购限额为2.5亿USDT</description>
-      <pubDate>Wed, 20 Aug 2025 13:21:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:34:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/55c232f6-5bf9-4206-9618-1e0b1f227d18</guid>
       <category>crypto</category>
@@ -173,7 +190,7 @@
       <title>币安成为Beacon Network创始成员，共建实时加密犯罪响应网络</title>
       <link>https://www.panewslab.com/zh/articles/1ac9d713-f844-464c-8750-bbe5e4a841ff</link>
       <description>币安成为Beacon Network创始成员，共建实时加密犯罪响应网络</description>
-      <pubDate>Wed, 20 Aug 2025 13:19:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:32:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1ac9d713-f844-464c-8750-bbe5e4a841ff</guid>
       <category>crypto</category>
@@ -188,7 +205,7 @@
       <title>区块链初创公司Legion完成500万美元种子轮融资，VanEck和Brevan Howard Digital领投</title>
       <link>https://www.panewslab.com/zh/articles/e96c4a99-9b49-4832-a293-6ca9e25a1ad0</link>
       <description>区块链初创公司Legion完成500万美元种子轮融资，VanEck和Brevan Howard Digital领投</description>
-      <pubDate>Wed, 20 Aug 2025 13:17:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:30:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e96c4a99-9b49-4832-a293-6ca9e25a1ad0</guid>
       <category>crypto</category>
@@ -203,7 +220,7 @@
       <title>MANTRA提议废除ERC20 OM，旨在调整代币通胀率至8%</title>
       <link>https://www.panewslab.com/zh/articles/4f84f08e-95a3-4bd3-8848-0f73347e6904</link>
       <description>MANTRA提议废除ERC20 OM，旨在调整代币通胀率至8%</description>
-      <pubDate>Wed, 20 Aug 2025 13:15:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:28:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4f84f08e-95a3-4bd3-8848-0f73347e6904</guid>
       <category>crypto</category>
@@ -218,7 +235,7 @@
       <title>Gate亮相巴厘岛Coinfest Asia，开放式Panel舞台与快闪视频成焦点</title>
       <link>https://www.panewslab.com/zh/articles/e614ff1c-75d1-4346-bb60-d8fe6ae1e3e3</link>
       <description>Gate亮相巴厘岛Coinfest Asia，开放式Panel舞台与快闪视频成焦点</description>
-      <pubDate>Wed, 20 Aug 2025 13:13:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:26:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e614ff1c-75d1-4346-bb60-d8fe6ae1e3e3</guid>
       <category>crypto</category>
@@ -233,7 +250,7 @@
       <title>Tether Treasury在以太坊新增铸造10亿USDT</title>
       <link>https://www.panewslab.com/zh/articles/624c9a80-c423-4caf-9e5c-b57ae48fbe7e</link>
       <description>Tether Treasury在以太坊新增铸造10亿USDT</description>
-      <pubDate>Wed, 20 Aug 2025 13:11:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:24:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/624c9a80-c423-4caf-9e5c-b57ae48fbe7e</guid>
       <category>crypto</category>
@@ -250,7 +267,7 @@
       <title>MultiBank Group宣布$MBG回购销毁计划，H1收入达2.09亿美元</title>
       <link>https://www.panewslab.com/zh/articles/291254c6-4dcb-4660-b663-20be8068c47c</link>
       <description>MultiBank Group宣布$MBG回购销毁计划，H1收入达2.09亿美元</description>
-      <pubDate>Wed, 20 Aug 2025 13:09:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:22:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/291254c6-4dcb-4660-b663-20be8068c47c</guid>
       <category>crypto</category>
@@ -265,7 +282,7 @@
       <title>Arthur Hayes疑似建仓766万枚BIO，累计购入以太坊生态代币1437万美元</title>
       <link>https://www.panewslab.com/zh/articles/8423d93f-a3a8-4763-b9c3-63b44089bbb2</link>
       <description>Arthur Hayes疑似建仓766万枚BIO，累计购入以太坊生态代币1437万美元</description>
-      <pubDate>Wed, 20 Aug 2025 13:07:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:20:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8423d93f-a3a8-4763-b9c3-63b44089bbb2</guid>
       <category>crypto</category>
@@ -282,7 +299,7 @@
       <title>BIT Mining拟更名为SOLAI，专注Solana生态与AI驱动金融基础设施</title>
       <link>https://www.panewslab.com/zh/articles/a297f4df-c6e0-4ec5-bd5c-4a1ee00c2122</link>
       <description>BIT Mining拟更名为SOLAI，专注Solana生态与AI驱动金融基础设施</description>
-      <pubDate>Wed, 20 Aug 2025 13:05:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:18:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a297f4df-c6e0-4ec5-bd5c-4a1ee00c2122</guid>
       <category>crypto</category>
@@ -297,7 +314,7 @@
       <title>高盛预测稳定币市场将迎万亿级增长，未来几年有望实现40%的年均复合增长率</title>
       <link>https://www.panewslab.com/zh/articles/67906c0d-163c-47ab-9cfa-11e1bb810a94</link>
       <description>高盛预测稳定币市场将迎万亿级增长，未来几年有望实现40%的年均复合增长率</description>
-      <pubDate>Wed, 20 Aug 2025 13:03:22 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 13:16:44 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/67906c0d-163c-47ab-9cfa-11e1bb810a94</guid>
       <category>crypto</category>
@@ -306,23 +323,6 @@
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>某聪明钱以4087.9美元均价开ETH 25倍多仓，目前浮盈28.3万美元</title>
-      <link>https://www.panewslab.com/zh/articles/209a1e2d-767f-4c03-ac22-a0150bd2b70e</link>
-      <description>某聪明钱以4087.9美元均价开ETH 25倍多仓，目前浮盈28.3万美元</description>
-      <pubDate>Wed, 20 Aug 2025 13:01:22 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/209a1e2d-767f-4c03-ac22-a0150bd2b70e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
