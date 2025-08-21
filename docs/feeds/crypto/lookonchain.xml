@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 17:43:19 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 17:43:19 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:54:38 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 17:54:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,28 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>LookOnChain: SOL Drops Below $180</title>
+      <link>https://www.lookonchain.com/feeds/25639</link>
+      <description>On August 22nd, according to HTX market data, SOL dropped below $180, experiencing a 24-hour decline of 2.55%.</description>
+      <pubDate>Thu, 21 Aug 2025 17:16:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25639</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>BTCS is partnering with EST to launch the Bividend blockchain dividend platform with ETH payment.</title>
       <link>https://www.lookonchain.com/feeds/25640</link>
       <description>On August 22nd, the US stock Ethereum strategic reserve company BTCS Inc. collaborated with Equity Stock Transfer (EST) to launch the blockchain dividend platform Bividend, which will be paid in ETH.Previously reported, BTCS stated that it will distribute a one-time blockchain dividend to shareholders in the form of Ethereum (ETH), at a rate of $0.05 per share. Furthermore, for shareholders who convert their holdings into book entry form and continue to hold them until January 26, 2026, an additional $0.35 per share Ethereum loyalty reward will be distributed. Eligible shareholders in total can receive a $0.40 per share ETH dividend (including the dividend and loyalty reward).</description>
-      <pubDate>Thu, 21 Aug 2025 17:16:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 17:16:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25640</guid>
       <category>crypto</category>
@@ -35,28 +53,10 @@
 
     </item>
     <item>
-      <title>LookOnChain: SOL Drops Below $180</title>
-      <link>https://www.lookonchain.com/feeds/25639</link>
-      <description>On August 22nd, according to HTX market data, SOL dropped below $180, experiencing a 24-hour decline of 2.55%.</description>
-      <pubDate>Thu, 21 Aug 2025 17:16:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25639</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>「Brother Big T」 Huang Licheng currently holds a long position with a value of $140 million in BTC, ETH, and other tokens, with a current unrealized loss of $9.81 million.</title>
       <link>https://www.lookonchain.com/feeds/25638</link>
       <description>On August 22nd, according to the monitoring of HyperInsight (accessible via https://app.hyperliquid.xyz/join/NTOD), &quot;Brother Ma Ji&quot; Huang Licheng currently holds a long position worth $140 million in BTC, ETH, HYPE, PUMP, and YZY. The current floating loss amounts to $9.81 million.Among them, the ETH long position has a holding value of $99.64 million. The opening price is $4,555.17, the liquidation price is $3,142.20, and the floating loss is $7.80 million.</description>
-      <pubDate>Thu, 21 Aug 2025 17:08:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 17:08:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25638</guid>
       <category>crypto</category>
@@ -78,7 +78,7 @@
       <title>LookOnChain: Coinbase Lists USD1</title>
       <link>https://www.lookonchain.com/feeds/25637</link>
       <description>On August 22nd, according to official information, Coinbase is going to provide support for World Liberty Financial USD (USD1) on the Ethereum network. Provided that liquidity conditions are fulfilled, trading will commence later on this day.</description>
-      <pubDate>Thu, 21 Aug 2025 16:56:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:56:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25637</guid>
       <category>crypto</category>
@@ -95,7 +95,7 @@
       <title>Definitive Launches Cross-Chain Transaction Feature</title>
       <link>https://www.lookonchain.com/feeds/25636</link>
       <description>On August 22nd, the on-chain transaction execution platform Definitive launched cross-chain transaction functionality. It supports cross-chain gasless transactions and enables the management of multi-chain investment portfolios within one interface. Currently, it already supports chains such as Base, Solana, Avalanche, Hyperliquid, BNB Chain, and more. In addition, DEFINITIVE offers aggregated and optimized transaction routing functionality.</description>
-      <pubDate>Thu, 21 Aug 2025 16:56:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:56:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25636</guid>
       <category>crypto</category>
@@ -112,7 +112,7 @@
       <title>Republic Launches Wallet and Launchpad Support for Injective</title>
       <link>https://www.lookonchain.com/feeds/25635</link>
       <description>On August 22nd, as per official information, the investment platform Republic declared an integration with Injective. This led to the launch of the Republic Wallet and a specific Launchpad that supports Injective. The purpose of this integration is to achieve direct interoperability between the Injective Layer 1 blockchain and the Republic tokenized investment ecosystem.</description>
-      <pubDate>Thu, 21 Aug 2025 16:48:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:53:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25635</guid>
       <category>crypto</category>
@@ -126,29 +126,10 @@
 
     </item>
     <item>
-      <title>Analyst: Bitcoin Bull Market Sentiment Index Shifts from &apos;Bullish Froth&apos; to &apos;Neutral&apos;</title>
-      <link>https://www.lookonchain.com/feeds/25631</link>
-      <description>On August 22nd, Julio Moreno, the Research Director of CryptoQuant, stated that the Bitcoin Bull Market Index has shifted from the &quot;Bullish Chill&quot; phase to the &quot;Neutral&quot; phase, and the index has decreased from 70 to 50. For the purpose of risk management, if this index weakens further, it indicates that the Bitcoin price may continue to decline.</description>
-      <pubDate>Thu, 21 Aug 2025 16:42:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25631</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
       <title>YZY Money: In the coming days, a new feature will be released for YZY users</title>
       <link>https://www.lookonchain.com/feeds/25634</link>
       <description>On August 22nd, Kanye West initiated YZY MONEY and sent out a tweet stating, &quot;In the forthcoming days, novel features will be implemented for YZY users. Engaging in innovative projects in the short term while concentrating on long-term sustainable growth.&quot;</description>
-      <pubDate>Thu, 21 Aug 2025 16:42:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:53:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25634</guid>
       <category>crypto</category>
@@ -165,7 +146,7 @@
       <title>Navarro: Powell&apos;s Anti-Trump Stance is Alarming</title>
       <link>https://www.lookonchain.com/feeds/25633</link>
       <description>On August 22nd, the White House trade adviser Navarro stated that Powell&apos;s anti-Trump stance is causing unease. (FX168)</description>
-      <pubDate>Thu, 21 Aug 2025 16:42:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:53:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25633</guid>
       <category>crypto</category>
@@ -182,7 +163,7 @@
       <title>The probability of a Fed rate cut in September has decreased to 71.5%.</title>
       <link>https://www.lookonchain.com/feeds/25632</link>
       <description>On August 22nd, based on CME&apos;s &quot;FedWatch&quot; tool, the likelihood of the Fed keeping interest rates unchanged in September is 28.5%, while the probability of a 25-basis-point interest rate cut is 71.5%.Previously, it was reported that the initial jobless claims in the US for the week ending August 16 were 235,000. The expected value was 225,000, and the previous value was 224,000.</description>
-      <pubDate>Thu, 21 Aug 2025 16:42:26 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:53:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25632</guid>
       <category>crypto</category>
@@ -193,6 +174,25 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Analyst: Bitcoin Bull Market Sentiment Index Shifts from &apos;Bullish Froth&apos; to &apos;Neutral&apos;</title>
+      <link>https://www.lookonchain.com/feeds/25631</link>
+      <description>On August 22nd, Julio Moreno, the Research Director of CryptoQuant, stated that the Bitcoin Bull Market Index has shifted from the &quot;Bullish Chill&quot; phase to the &quot;Neutral&quot; phase, and the index has decreased from 70 to 50. For the purpose of risk management, if this index weakens further, it indicates that the Bitcoin price may continue to decline.</description>
+      <pubDate>Thu, 21 Aug 2025 16:53:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25631</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
   </channel>
