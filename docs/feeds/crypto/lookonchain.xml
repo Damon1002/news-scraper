@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 10:49:16 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 10:49:16 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 11:00:49 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 11:00:49 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Starknet has announced the upcoming launch of Bitcoin Staking functionality.</title>
+      <link>https://www.lookonchain.com/feeds/25563</link>
+      <description>On August 21st, as per official channels, Starknet has declared that the SNIP-31 proposal has been officially approved and the Bitcoin staking feature is about to become operational. According to the proposal, the BTC staking weight is set at 0.25, enabling BTC to hold a maximum stake of 25% in the consensus power, with the remaining weight being allocated to STRK.Meanwhile, WBTC, LBTC, tBTC, and SolvBTC have been approved for staking on Starknet, and the governance rules for the approval of new BTC wrapped tokens have also been officially established. The official intention is to launch this feature in the upcoming weeks.</description>
+      <pubDate>Thu, 21 Aug 2025 10:56:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25563</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Reuters: Asia&apos;s Wealthy Families Look to Boost Crypto Allocations in Portfolios</title>
+      <link>https://www.lookonchain.com/feeds/25562</link>
+      <description>On August 21st, as reported by Reuters, Asian wealthy families and family offices are boosting their cryptocurrency investments. This is driven by optimistic expectations for digital assets, enhanced mainstream acceptance, and favorable regulatory developments in key markets.Wealth managers state that they have witnessed a notable increase in inquiries. There has been a surge in cryptocurrency exchange volumes and strong demand for cryptocurrency funds as high-net-worth Asian investors seek greater market exposure.&quot;Within just a few months, we have raised over $100 million, and the feedback from our limited partners has been extremely positive,&quot; said Jason Huang, the Founder of NextGen Digital Venture. Here, the limited partners are mainly high-net-worth individuals.The Swiss investment bank UBS mentioned that some overseas Chinese family offices plan to raise their cryptocurrency exposure to approximately 5% of their portfolios.</description>
+      <pubDate>Thu, 21 Aug 2025 10:56:56 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25562</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>OKX will delist margin trading pairs such as CATI/USDT, NMR/USDT.</title>
       <link>https://www.lookonchain.com/feeds/25561</link>
       <description>August 21st. According to an official announcement, OKX has declared the removal of leverage trading and spot margin trading services for CATI/USDT, NMR/USDT, ICX/USDT, DGB/USDT, MEME/USDT, JST/USDT, and RVN/USDT.</description>
-      <pubDate>Thu, 21 Aug 2025 10:40:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:40:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25561</guid>
       <category>crypto</category>
@@ -34,7 +70,7 @@
       <title>A new address sold $1.5 million worth of ETH and then went long on ETH with 20x leverage.</title>
       <link>https://www.lookonchain.com/feeds/25560</link>
       <description>On August 21st. Based on the monitoring of Onchain Lens, a newly established wallet address sold 355.97 ETH and exchanged it for 1.5 million USDC. Then, this user went long on an ETH position with a leverage of 20x and deposited the obtained funds into Hyperliquid.</description>
-      <pubDate>Thu, 21 Aug 2025 10:32:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:32:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25560</guid>
       <category>crypto</category>
@@ -54,7 +90,7 @@
       <title>S&amp;P 500 Index Futures Extend Losses, Hit New Intraday Low</title>
       <link>https://www.lookonchain.com/feeds/25559</link>
       <description>On August 21st, based on market data, S&amp;P 500 Index futures saw their losses expand and hit a new intraday low. (Golden Finance)</description>
-      <pubDate>Thu, 21 Aug 2025 10:32:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:32:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25559</guid>
       <category>crypto</category>
@@ -71,7 +107,7 @@
       <title>Gemini Obtains MiCA License in Malta</title>
       <link>https://www.lookonchain.com/feeds/25558</link>
       <description>On August 21st, as per Cointelegraph, the cryptocurrency exchange Gemini has secured Malta&apos;s Crypto-Asset Market Integrity (MiCA) license to facilitate the company&apos;s ongoing expansion within Europe.</description>
-      <pubDate>Thu, 21 Aug 2025 10:32:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:32:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25558</guid>
       <category>crypto</category>
@@ -88,7 +124,7 @@
       <title>30 million YZY tokens will be injected into the main liquidity pool, and will be gradually sold in the price range of $3.1716 to $4.4929.</title>
       <link>https://www.lookonchain.com/feeds/25557</link>
       <description>August 21st. Based on LookOnChain&apos;s monitoring, the Kanye West Meme Coin YZY project added 30 million YZY to the liquidity pool (approximately $34 million), with a price range of $3.1716 to $4.4929.This indicates that once the price goes beyond $3.1716, the project team will begin to earn fees and gradually sell YZY for USDC.If the price rises to above $4.4929, all 30 million YZY will be sold.</description>
-      <pubDate>Thu, 21 Aug 2025 10:24:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:24:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25557</guid>
       <category>crypto</category>
@@ -106,7 +142,7 @@
       <title>Upbit Trading Volume Shrinks Again: ETH, XRP, API3 Currently Top Three</title>
       <link>https://www.lookonchain.com/feeds/25556</link>
       <description>On August 21st, based on CoinGecko data, in the past 24 hours, Upbit&apos;s trading volume decreased to $2.345 billion. The ETH/KRW trading pair accounted for 17.98% of the volume and ranked first in the South Korean won market. The remaining top five in terms of trading volume are: XRP, API3, BTC, LINK.</description>
-      <pubDate>Thu, 21 Aug 2025 10:17:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:16:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25556</guid>
       <category>crypto</category>
@@ -125,7 +161,7 @@
       <title>Huobi HTX has launched YZY perpetual contract trading and initiated the Contract Trading Party.</title>
       <link>https://www.lookonchain.com/feeds/25555</link>
       <description>August 21st. According to an official announcement, Huobi HTX launched the YZY/USDT perpetual contract trading pair with up to 20x leverage on August 21st. In addition, Huobi HTX started the YZY contract trading party from 18:00 on August 21st to 18:00 on August 28th (UTC+8), with a total prize pool of up to $10,000.During the event, users who sign up and participate in YZY/USDT contract trading with a cumulative effective trading volume ≥$10,000 USDT will share the prize pool based on their trading volume ranking. New users trading the YZY/USDT contract will also receive exclusive benefits.</description>
-      <pubDate>Thu, 21 Aug 2025 10:00:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:00:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25555</guid>
       <category>crypto</category>
@@ -142,46 +178,9 @@
       <title>Bitget has launched the U-based YZY perpetual contract, with leverage ranging from 1 to 20x.</title>
       <link>https://www.lookonchain.com/feeds/25554</link>
       <description>On August 21, as per an official announcement, Bitget has declared the launch of the U-based YZY perpetual contract. The leverage offered ranges from 1 to 20x. Additionally, the contract trading BOT will be made available simultaneously.</description>
-      <pubDate>Thu, 21 Aug 2025 10:00:24 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 10:00:56 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25554</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BiyaPay Analyst: Hedge Fund Short Position Increases to $4.19 Billion, Ethereum Price May Continue to Face Downward Pressure</title>
-      <link>https://www.lookonchain.com/feeds/25553</link>
-      <description>On August 21st, a BiyaPay analyst pointed out that the recent Ethereum price failed to break through a crucial resistance level, resulting in another round of market downturn. The bearish pressure in this round of the market is mainly driven by large hedge funds. These funds have been increasing their Ethereum short positions and attempting to trigger stop-losses by pushing down the ETH price. According to The Block&apos;s &quot;CME Ether Futures Net Position&quot; data, the current number of Ethereum shorts has reached an unprecedented level, indicating a strong market expectation for a further decline in the Ethereum price.Especially in August, hedge funds&apos; Ethereum short positions nearly doubled, rising from $2.3 billion on August 5th to $4.19 billion. This change indicates that institutional investors continue to bet on the Ethereum price maintaining a downward trend. In the current market environment, the increase in short positions is one of the main factors putting pressure on the Ethereum p</description>
-      <pubDate>Thu, 21 Aug 2025 10:00:24 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25553</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Justin Sun: Tron will adjust network transaction fees based on the market to stay competitive</title>
-      <link>https://www.lookonchain.com/feeds/25552</link>
-      <description>On August 21st, Justin Sun announced on social media that Tron super representatives are fully cognizant that as the price of TRX surges during a bull market, the network transaction fees are continuously on the rise. The Tron community will adjust the network fees in accordance with the actual situation to ensure the competitiveness of the Tron network.</description>
-      <pubDate>Thu, 21 Aug 2025 09:56:24 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25552</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
