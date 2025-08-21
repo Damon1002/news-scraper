@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 18:49:53 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 18:49:53 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 19:01:25 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 19:01:25 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,52 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>If Ethereum breaks above $4400, the mainstream CEX cumulative short liquidation pressure will reach $2.072 billion.</title>
+      <link>https://www.lookonchain.com/feeds/25649</link>
+      <description>On August 22nd, according to data from Coinglass, if Ethereum manages to break through $4400, the total intensity of short liquidation on mainstream CEX will reach $2.072 billion.Conversely, if Ethereum drops below $4000, the total intensity of long liquidation on mainstream CEX will reach $1.202 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to nearby liquidation clusters, that is, intensity.Therefore, the liquidation chart shows the extent to which the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, it will experience a more intense reaction due to a liquidity cascade.</description>
+      <pubDate>Thu, 21 Aug 2025 18:56:32 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25649</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Sell-off BTC to go long on ETH Ancient Whale&apos;s initial funding source was BitForex, a CEX that was repeatedly criticized by ZachXBT</title>
+      <link>https://www.lookonchain.com/feeds/25650</link>
+      <description>On August 22nd, according to the monitoring of @mlmabc, a whale from ancient times sold a large quantity of BTC today and took a long position on ETH. The initial funds of this whale came from BitForex, a trading platform that has been repeatedly criticized by on-chain detective ZachXBT.This ancient whale sold 2,970 BTC (approximately $334 million) within the past 24 hours and purchased 50,470 ETH spot (approximately $215 million). At the same time, it also took a long position of 135,263 ETH on Hyperliquid (approximately $575 million).BlockBeats previously reported that on February 26, 2024, the hot wallet of BitForex recorded a fund outflow of about $56 million on February 23. Shortly after this fund outflow occurred, user withdrawal requests encountered processing delays, and the trading platform has not yet issued any official announcements.On July 20, 2024, BitForex stated that after being shut down for five months due to an investigation, withdrawal services would be resume</description>
+      <pubDate>Thu, 21 Aug 2025 18:56:32 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25650</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
       <title>A certain ancient whale has once again thrown 2970 BTC and gone long on ETH, with their ETH long position now exceeding 185,000 coins.</title>
       <link>https://www.lookonchain.com/feeds/25648</link>
       <description>On August 22nd, according to on-chain data, a wallet that transferred 15,000 BTC from HTX and Binance seven years ago (valued at $95 million at that time) has sold an additional 2,970 BTC (approximately $334 million) within the past 24 hours and purchased 50,470 ETH spot (about $215 million). Meanwhile, they took a long position on 135,263 ETH on Hyperliquid (about $575 million). As a consequence, their total nominal exposure to ETH has reached 185,733 ETH (about $790 million).</description>
-      <pubDate>Thu, 21 Aug 2025 18:48:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:48:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25648</guid>
       <category>crypto</category>
@@ -39,7 +81,7 @@
       <title>A user was robbed of 783 Bitcoins due to a social engineering attack, resulting in a loss of over 90 million dollars.</title>
       <link>https://www.lookonchain.com/feeds/25647</link>
       <description>August 22nd. On-chain detective ZachXBT disclosed on his personal channel that on August 19, 2025, a victim was deceived by a social engineering attack and lost 783 bitcoins (approximately $91.4 million). In this case, the attacker posed as customer support from a trading platform and a hardware wallet.The stolen funds started to be gradually dispersed. The attacker made multiple deposits to Wasabi. Coincidentally, this theft took place on the one-year anniversary of the Genesis 243 million USD hack.Stolen Transaction Hash: da598f2a941ee3c249a3c11e5e171e186a08900012f6aad26e6d11b8e8816457Stolen Address: bc1qyxyk4qgyrkx4rjwsuevug04wahdk6uf95mqlej</description>
-      <pubDate>Thu, 21 Aug 2025 18:40:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:40:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25647</guid>
       <category>crypto</category>
@@ -59,7 +101,7 @@
       <title>YZY briefly dropped below $0.9, with a market capitalization currently at $923 million.</title>
       <link>https://www.lookonchain.com/feeds/25645</link>
       <description>On August 22nd, based on GMGN market data, YZY briefly fell below $0.9 and is now rebounding to $0.923, with a market capitalization of $9.23 billion.The 24-hour trading volume has reached $6.68 billion, and there are 34,900 hodlers.</description>
-      <pubDate>Thu, 21 Aug 2025 18:32:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:32:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25645</guid>
       <category>crypto</category>
@@ -77,7 +119,7 @@
       <title>Israeli Prime Minister: Has Instructed to Initiate Ceasefire Negotiations</title>
       <link>https://www.lookonchain.com/feeds/25646</link>
       <description>August 22: Benjamin Netanyahu, the Israeli prime minister, released a video statement. He stated that he had instructed to commence negotiations immediately to release all Israeli detainees held in the Gaza Strip and bring an end to the war under &quot;conditions acceptable to Israel.&quot; Furthermore, he announced that he had approved the military&apos;s plan to take control of Gaza City. (Golden Finance)</description>
-      <pubDate>Thu, 21 Aug 2025 18:32:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:32:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25646</guid>
       <category>crypto</category>
@@ -94,7 +136,7 @@
       <title>Insider: Claude&apos;s parent company is currently in talks to raise up to $10 billion in new funding</title>
       <link>https://www.lookonchain.com/feeds/25644</link>
       <description>On August 22nd, as per those with knowledge of the matter, the parent company of Claude, Anthropic, is slated to complete a new round of fundraising amounting to up to $10 billion. This figure is higher than anticipated and represents one of the largest such rounds for an AI startup to date.Sources indicated that negotiations are still in progress and the final sum may vary. Earlier reports had suggested that Anthropic was engaged in in-depth discussions with the aim of raising $5 billion in this round, with the company being valued at $170 billion. According to sources, this amount has witnessed a significant increase due to strong investor demand.It is reported that investment firm Iconiq Capital will take the lead in this funding round. Sources disclosed that other anticipated participants include TPG Inc., Lightspeed Venture Partners, Spark Capital, and Menlo Ventures. Anthropic has also held discussions regarding joining this round of negotiations with the Qatar Investment Aut</description>
-      <pubDate>Thu, 21 Aug 2025 18:32:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:32:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25644</guid>
       <category>crypto</category>
@@ -112,7 +154,7 @@
       <title>Ethereum Withdrawal Momentum Paused, with CEX Net Inflow of 115.2K ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/25643</link>
       <description>On August 22nd, according to Coinglass data, during the past 24 hours, the total net inflow of ETH on CEX was 115,200. The top three CEX inflows are as follows:· Binance, with an inflow of 217,800 ETH;· Bybit, with an inflow of 16,100 ETH;· Kraken, with an inflow of 5,466.09 ETH.In addition, Coinbase Pro experienced an outflow of 102,500 ETH and ranked first in outflows.</description>
-      <pubDate>Thu, 21 Aug 2025 18:24:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:24:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25643</guid>
       <category>crypto</category>
@@ -131,7 +173,7 @@
       <title>Canadian Prime Minister: Had a &quot;Productive&quot; Conversation with Trump</title>
       <link>https://www.lookonchain.com/feeds/25642</link>
       <description>On August 22nd, Canadian Prime Minister Trudeau stated that he had a &quot;productive&quot; chat with U.S. President Trump.Previously, according to market reports, Canadian Prime Minister Trudeau had a conversation with U.S. President Trump on Thursday. During this conversation, they discussed trade challenges and opportunities. (FXStreet)</description>
-      <pubDate>Thu, 21 Aug 2025 18:24:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:24:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25642</guid>
       <category>crypto</category>
@@ -148,48 +190,9 @@
       <title>In the past 4 hours, there has been a total of $76.124 million in liquidations across the network, primarily from long positions.</title>
       <link>https://www.lookonchain.com/feeds/25641</link>
       <description>On August 22nd, according to Coinglass data, within the past 4 hours, the total liquidation across the entire network reached $76.124 million. The long liquidations totaled $65.2609 million, and the short liquidations totaled $10.8631 million.In the past 24 hours, a total of 79,007 people worldwide have been liquidated, with a total liquidation amount of $225 million. The largest single liquidation took place on Bybit - BTCUSDT, amounting to $4.8965 million.</description>
-      <pubDate>Thu, 21 Aug 2025 18:16:59 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 18:16:32 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25641</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BTCS is partnering with EST to launch the Bividend blockchain dividend platform with ETH payment.</title>
-      <link>https://www.lookonchain.com/feeds/25640</link>
-      <description>On August 22nd, the US stock Ethereum strategic reserve company BTCS Inc. collaborated with Equity Stock Transfer (EST) to launch the blockchain dividend platform Bividend, which will be paid in ETH.Previously reported, BTCS stated that it will distribute a one-time blockchain dividend to shareholders in the form of Ethereum (ETH), at a rate of $0.05 per share. Furthermore, for shareholders who convert their holdings into book entry form and continue to hold them until January 26, 2026, an additional $0.35 per share Ethereum loyalty reward will be distributed. Eligible shareholders in total can receive a $0.40 per share ETH dividend (including the dividend and loyalty reward).</description>
-      <pubDate>Thu, 21 Aug 2025 16:48:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25640</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: SOL Drops Below $180</title>
-      <link>https://www.lookonchain.com/feeds/25639</link>
-      <description>On August 22nd, according to HTX market data, SOL dropped below $180, experiencing a 24-hour decline of 2.55%.</description>
-      <pubDate>Thu, 21 Aug 2025 16:48:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25639</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
