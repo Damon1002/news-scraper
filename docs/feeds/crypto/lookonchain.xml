@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 15:40:08 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 15:40:08 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 16:02:53 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 16:02:53 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,100 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>CryptoQuant Analyst: Bitcoin Whales are Buying the Dip, Accumulating Over 16,000 BTC in the Past 7 Days</title>
+      <link>https://www.lookonchain.com/feeds/25628</link>
+      <description>On August 21st, CryptoQuant analyst Cauê Oliveira stated, &quot;During the past seven days, Bitcoin whale wallets have accumulated more than 16,000 BTC, suggesting that whales are purchasing on dips when the Bitcoin price declines.&quot;</description>
+      <pubDate>Thu, 21 Aug 2025 15:57:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25628</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>DaoBank becomes the first third-party custodian to launch services on the J.P. Morgan Digital Asset Platform</title>
+      <link>https://www.lookonchain.com/feeds/25627</link>
+      <description>On August 21st, State Street became the first third-party custodian to initiate services on JPMorgan&apos;s digital debt servicing platform, thereby offering institutional clients blockchain-based debt security custody services. (Sohu Finance)</description>
+      <pubDate>Thu, 21 Aug 2025 15:57:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25627</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Total OKB 24h Contract Trading Volume across the Network: $398 million, a 726.98% increase</title>
+      <link>https://www.lookonchain.com/feeds/25626</link>
+      <description>On August 21st, based on Coinglass data, the current total open interest of OKB futures is $22.0646 million, with a 24-hour increase of 244.74%. The futures trading volume is $398 million, with a 24-hour increase of 726.98%. The 24-hour aggregated long/short ratio is 1.0412.</description>
+      <pubDate>Thu, 21 Aug 2025 15:49:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25626</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Coinbase Research Director: Predicts Stablecoin Market Size Could Reach $1.2 Trillion by 2028</title>
+      <link>https://www.lookonchain.com/feeds/25625</link>
+      <description>On August 21st, David Duong, the Research Director of Coinbase, wrote that Coinbase Research employed a random model and the Monte Carlo simulation method to predict that the stablecoin market could reach $1.2 trillion by 2028. Future growth projections generally rely on assumptions regarding the share of the global money supply that stablecoins could ultimately hold. The model captures the potential growth range of the market through an autoregressive model AR(1), commencing from the most recent observed level and month-on-month growth, and simulates 20,000 Monte Carlo paths on a monthly basis in accordance with a simple AR(1) process. The predicted outcomes indicate that by December 2028, the stablecoin market could reach $1.2 trillion.</description>
+      <pubDate>Thu, 21 Aug 2025 15:48:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25625</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The trading volume on Polymarket for betting on LeBron James to be elected President of the United States in 2028 has exceeded the combined total for Musk and others.</title>
+      <link>https://www.lookonchain.com/feeds/25624</link>
+      <description>On August 21st, the trading volume on Polymarket for placing bets on NBA star LeBron James being elected President of the United States in 2028 has reached $1.9 million. This has exceeded the total amounts for US Vice President Harris, California Governor Gavin Newsom, and US Congresswoman Alexandria Ocasio-Cortez.However, according to Polymarket data, James&apos; current election probability is merely 0.3%. The $1.9 million trading volume may be due to some users engaging in wash trading in the hope of potentially receiving future airdrops.</description>
+      <pubDate>Thu, 21 Aug 2025 15:41:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25624</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>US Justice Department Official Urges Powell to Replace Director Cook</title>
       <link>https://www.lookonchain.com/feeds/25623</link>
       <description>On August 21, officials from the US Department of Justice urged Chair Powell of the Fed to replace Governor Quarles. (Xinhua News)</description>
-      <pubDate>Thu, 21 Aug 2025 15:32:14 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 15:32:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25623</guid>
       <category>crypto</category>
@@ -34,7 +124,7 @@
       <title>Verb Technology Reveals Holdings of $7.13 Billion in TON and $67 Million in Cash</title>
       <link>https://www.lookonchain.com/feeds/25622</link>
       <description>On August 21st, Verb Technology Company, Inc. (listed on NASDAQ as VERB and to be renamed Ton Strategy Company) announced today that the company&apos;s treasury assets have exceeded $780 million. This includes $713 million in Toncoin (TON) and $67 million in cash.Previously, on August 8th, Verb Technology completed a $558 million private placement. It was participated in by over 110 institutional and crypto-native investors. The company will use most of the funds raised in this private placement to purchase TON as its primary treasury reserve asset. The aim is to accumulate more than 5% of TON&apos;s circulating supply.</description>
-      <pubDate>Thu, 21 Aug 2025 15:24:14 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 15:25:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25622</guid>
       <category>crypto</category>
@@ -52,7 +142,7 @@
       <title>A certain whale/institution has sold 2,070 BTC in the past 24 hours and bought 30,367 ETH, opening long positions for 78,000 ETH in contracts.</title>
       <link>https://www.lookonchain.com/feeds/25621</link>
       <description>On August 21st, as monitored by on-chain analyst Wu Ji, a whale/institution that had been holding 10,606 BTC for 7 years achieved a profit of $1.12 billion. In the past 24 hours, it sold 2,070 BTC ($235 million).A portion of the proceeds from the BTC sale was used to purchase 30,367 ETH ($131 million) in the spot market; part of it was used to open a long position of 78,000 ETH through contracts (with a position value of $336 million). It still holds 8,437 BTC ($960 million) and may continue to shift to ETH.</description>
-      <pubDate>Thu, 21 Aug 2025 15:16:14 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 15:17:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25621</guid>
       <category>crypto</category>
@@ -74,7 +164,7 @@
       <title>Federal Reserve Harker: Based on the current data, there will be no rate cut in September</title>
       <link>https://www.lookonchain.com/feeds/25620</link>
       <description>On August 21st, Harker of the Federal Reserve stated that according to the current data, there will be no rate cut in September. (CNBC)</description>
-      <pubDate>Thu, 21 Aug 2025 15:16:14 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 15:16:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25620</guid>
       <category>crypto</category>
@@ -91,102 +181,9 @@
       <title>AI startup EliseAI has completed a $250 million Series E funding round, led by A16z</title>
       <link>https://www.lookonchain.com/feeds/25619</link>
       <description>On August 21st, the vertical AI startup EliseAI successfully completed a Series E funding round of $250 million. This round was led by A16z, and Bessemer Venture Partners, Sapphire Ventures, and Navitas Capital also participated. As a result, the company&apos;s valuation doubled to more than $2.2 billion.EliseAI was founded in 2017 by Minna Song (CEO) and Tony Stoyanov (CTO). It has been committed to building domain-specific AI systems that can be used in call centers, manage patient appointments, handle apartment rental requests, etc., without the need for repetitive tasks that usually drain employees and frustrate customers.</description>
-      <pubDate>Thu, 21 Aug 2025 15:08:14 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 15:09:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25619</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Zora Launches Short Video Feature Vidz</title>
-      <link>https://www.lookonchain.com/feeds/25618</link>
-      <description>On August 21st, Zora initiated the short video feature Vidz, enabling users to engage in trading and discover creators&apos; videos directly within the application.</description>
-      <pubDate>Thu, 21 Aug 2025 15:08:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25618</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A certain Bitcoin whale deposited 20 million USDC into HyperLiquid and went long on ETH with 6x leverage</title>
-      <link>https://www.lookonchain.com/feeds/25617</link>
-      <description>On August 21st, as monitored by Onchain Lens, a particular Bitcoin OG whale deposited 20 million USDC into HyperLiquid. Subsequently, it opened a 6x leveraged long position in ETH within a new wallet.</description>
-      <pubDate>Thu, 21 Aug 2025 15:00:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25617</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bank of America: Rate Cut and High Inflation Will Weigh on Dollar</title>
-      <link>https://www.lookonchain.com/feeds/25616</link>
-      <description>On August 21st, Alex Cohen of Bank of America stated in a report that since the Federal Reserve seems ready to resume rate cuts while inflation remains at a high level, the US dollar may further decline. He indicated that the worse-than-expected July nonfarm payroll data and concerns about the Fed&apos;s independence have led market expectations for a quicker and larger rate cut. Despite inflation still showing stubborn signs, &quot;implementing potential rate cuts as inflation rises has created a favorable environment for the depreciation of the dollar.&quot; Bank of America anticipates that the euro to dollar (EUR/USD) will rise from the current 1.1620 to 1.20 by the end of the year and will further increase to 1.25 by the end of 2026. (FXStreet)</description>
-      <pubDate>Thu, 21 Aug 2025 14:57:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25616</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump&apos;s $4.64 Billion Civil Fraud Fine Rejected by New York State Appeals Court</title>
-      <link>https://www.lookonchain.com/feeds/25615</link>
-      <description>August 21st. As per market intelligence, the New York State Appeals Court has turned down the $464 million civil fraud fine that was imposed on US President Trump. (Foreign exchange)</description>
-      <pubDate>Thu, 21 Aug 2025 14:56:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25615</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「Brother Big V」 Huang Licheng once again added to his YZY long position, now facing a unrealized loss of $193,000.</title>
-      <link>https://www.lookonchain.com/feeds/25614</link>
-      <description>On August 21, according to on-chain analyst Ai Auntie (@ai_9684xtpa), 1 hour ago, &quot;Brother Whale&quot; Huang Licheng once again multiplied his position in YZY by more than 3 times. Currently, he holds a total of 1.22 million tokens ($1.16 million), with an average opening price of $1.11. He is currently at an unrealized loss of $193,000.</description>
-      <pubDate>Thu, 21 Aug 2025 14:56:14 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25614</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
