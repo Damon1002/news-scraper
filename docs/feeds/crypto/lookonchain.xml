@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 14:41:56 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 14:41:56 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 14:54:46 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 14:54:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,45 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>OKB Falls Below $200, 24-hour Gain Narrows to 44.3%</title>
+      <link>https://www.lookonchain.com/feeds/25613</link>
+      <description>On August 21st, based on market data, OKB briefly rose above $240 and then retreated to $197. The 24-hour price change narrowed to 44.3%.</description>
+      <pubDate>Thu, 21 Aug 2025 14:48:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25613</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Greeks.live: As the Federal Reserve&apos;s Jackson Hole meeting approaches, Option Market Views Diverge Clearly</title>
+      <link>https://www.lookonchain.com/feeds/25612</link>
+      <description>On August 21st, Adam, a macro researcher from Greeks.live, tweeted that as the Federal Reserve&apos;s Jackson Hole meeting was approaching, there was a clear divergence in the views of the options market. Today, the trading volume of call options and put options reached $1.61 billion and $1.14 billion respectively, accounting for two-thirds of the total daily volume. The trades were mainly concentrated on out-of-the-money options expiring this week and this month. Meanwhile, short-term implied volatility had decreased, indicating that institutional investors were not optimistic about the significant volatility expected from this meeting.</description>
+      <pubDate>Thu, 21 Aug 2025 14:40:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25612</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>OKB achieves over 1.2 billion US dollars in 24-hour spot trading volume on the OKX platform, surpassing Ethereum to rank first</title>
       <link>https://www.lookonchain.com/feeds/25611</link>
       <description>On August 21st, the 24-hour spot trading volume of OKB on the OKX platform reached $12.06 billion, outperforming Ethereum ($8.62 billion) and Bitcoin ($6.54 billion) to rank first. After a brief breakthrough above $240, OKB experienced a pullback and is currently trading at $210.61, with a 24-hour price increase of 54.23%.</description>
-      <pubDate>Thu, 21 Aug 2025 14:41:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:40:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25611</guid>
       <category>crypto</category>
@@ -33,44 +68,10 @@
 
     </item>
     <item>
-      <title>Greeks.live: As the Federal Reserve&apos;s Jackson Hole meeting approaches, Option Market Views Diverge Clearly</title>
-      <link>https://www.lookonchain.com/feeds/25612</link>
-      <description>On August 21st, Adam, a macro researcher from Greeks.live, tweeted that as the Federal Reserve&apos;s Jackson Hole meeting was approaching, there was a clear divergence in the views of the options market. Today, the trading volume of call options and put options reached $1.61 billion and $1.14 billion respectively, accounting for two-thirds of the total daily volume. The trades were mainly concentrated on out-of-the-money options expiring this week and this month. Meanwhile, short-term implied volatility had decreased, indicating that institutional investors were not optimistic about the significant volatility expected from this meeting.</description>
-      <pubDate>Thu, 21 Aug 2025 14:41:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25612</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analysis: OKB&apos;s on-chain price surge is attributed to low liquidity, strong hodling, and lack of cross-chain support</title>
-      <link>https://www.lookonchain.com/feeds/25610</link>
-      <description>August 21st. The on-chain analyst Ai Auntie (@ai_9684xtpa) tweeted that the on-chain price of OKB reached a peak of $342. The on-chain liquidity of OKB on the Ethereum mainnet was merely $253,000. Either the official team burned a large portion of the tokens or migrated them to the X Layer. Moreover, there is no cross-chain support between the two networks. As a result, 6 addresses purchased 138.44 OKB between 20:46 and 21:08, successfully driving up the price.Currently, there are a total of 856,000 OKB tokens on the Ethereum mainnet, which accounts for 4% of the total supply. The top 5 holding addresses own 68% of the tokens, and the top 4 addresses belong to the OKEx exchange platform.</description>
-      <pubDate>Thu, 21 Aug 2025 14:33:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25610</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Raydium: Over $13 Million in $RAY Rewards Distributed Since LaunchLab and LetsBonk Launch</title>
       <link>https://www.lookonchain.com/feeds/25609</link>
       <description>On August 21st, Raydium tweeted that since the commencement of LaunchLab and LetsBonk, Raydium has allocated more than $13 million (approximately 4.1 million RAY) in rewards to traders and creators.</description>
-      <pubDate>Thu, 21 Aug 2025 14:32:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:32:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25609</guid>
       <category>crypto</category>
@@ -85,10 +86,27 @@
 
     </item>
     <item>
+      <title>Analysis: OKB&apos;s on-chain price surge is attributed to low liquidity, strong hodling, and lack of cross-chain support</title>
+      <link>https://www.lookonchain.com/feeds/25610</link>
+      <description>August 21st. The on-chain analyst Ai Auntie (@ai_9684xtpa) tweeted that the on-chain price of OKB reached a peak of $342. The on-chain liquidity of OKB on the Ethereum mainnet was merely $253,000. Either the official team burned a large portion of the tokens or migrated them to the X Layer. Moreover, there is no cross-chain support between the two networks. As a result, 6 addresses purchased 138.44 OKB between 20:46 and 21:08, successfully driving up the price.Currently, there are a total of 856,000 OKB tokens on the Ethereum mainnet, which accounts for 4% of the total supply. The top 5 holding addresses own 68% of the tokens, and the top 4 addresses belong to the OKEx exchange platform.</description>
+      <pubDate>Thu, 21 Aug 2025 14:32:53 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25610</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>BlackRock deposited 1885 BTC and 59606 ETH to Coinbase Prime 4 hours ago</title>
       <link>https://www.lookonchain.com/feeds/25608</link>
       <description>On August 21st, based on LookOnChain&apos;s monitoring, BlackRock transferred 1,885 BTC (approximately $111.66 million) and 59,606 ETH (approximately $254.43 million) to Coinbase Prime four hours ago.</description>
-      <pubDate>Thu, 21 Aug 2025 14:17:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:16:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25608</guid>
       <category>crypto</category>
@@ -109,7 +127,7 @@
       <title>USV transferred $31.09M worth of UNI to Coinbase Prime 15 minutes ago</title>
       <link>https://www.lookonchain.com/feeds/25607</link>
       <description>On August 21, as monitored by on-chain analyst Emberian, 15 minutes ago, USV transferred 2.981 million UNI ($31.09 million) to Coinbase Prime once again. Additionally, they hold 6.694 million UNI ($69.82 million).</description>
-      <pubDate>Thu, 21 Aug 2025 14:17:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:16:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25607</guid>
       <category>crypto</category>
@@ -128,7 +146,7 @@
       <title>OKB experiences a short-term drop of over 10%, with OKX stating earlier that OKB has recently seen significant volatility and advising rational investment.</title>
       <link>https://www.lookonchain.com/feeds/25606</link>
       <description>On August 21st, based on market data, OKB witnessed a short-term decline of more than 10% and is currently trading at $213. Previous reports showed that OKEx tweeted, saying, &quot;OKB has witnessed significant volatility recently. Please stay calm and rational, avoid blindly chasing prices. Consider controlling your position size, manage your funds properly, prioritize risk management, and operate prudently.&quot;</description>
-      <pubDate>Thu, 21 Aug 2025 14:09:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:08:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25606</guid>
       <category>crypto</category>
@@ -145,7 +163,7 @@
       <title>Loop Crypto has completed a strategic funding round, with VanEck and Fabric Ventures co-leading the investment.</title>
       <link>https://www.lookonchain.com/feeds/25605</link>
       <description>On August 21st, the stablecoin payment processor Loop Crypto announced the completion of a strategic funding round. VanEck and Fabric Ventures jointly led this round. The specific amount has not been made public yet. However, the company only indicated that the total funding up to now has reached $6 million. The new funds are planned to be used to support the development of features like collecting subscription fees using stablecoins.</description>
-      <pubDate>Thu, 21 Aug 2025 14:09:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:08:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25605</guid>
       <category>crypto</category>
@@ -162,26 +180,9 @@
       <title>OKX CEO Star: The value of X Layer lies in long-term development rather than short-term speculation on OKB, avoiding blindly following hot trends</title>
       <link>https://www.lookonchain.com/feeds/25604</link>
       <description>August 21st, OKX CEO Star took to social media and stated, &quot;The value of X Layer is centered around long-term development and the prosperity of the ecosystem. It is not about short-term speculation of OKB. OKX will persist in investing in X Layer technology and ecosystem development and looks forward to more partners joining hands to build together. Additionally, a reminder: Trading involves risks. Investment requires prudence. Avoid blindly following trends.&quot;</description>
-      <pubDate>Thu, 21 Aug 2025 14:01:03 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 14:00:53 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25604</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trader Cuts Back on Bets on Two Fed Rate Cuts This Year</title>
-      <link>https://www.lookonchain.com/feeds/25603</link>
-      <description>August 21st: Traders lower their wagers on there being two rate cuts by the Fed this year.</description>
-      <pubDate>Thu, 21 Aug 2025 14:00:03 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25603</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
