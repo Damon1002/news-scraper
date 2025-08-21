@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 07:03:10 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 07:03:10 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 07:30:41 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 07:30:41 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,40 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>AKEDO公布$AKE代币申领规则</title>
+      <link>https://www.panewslab.com/zh/articles/cdb52ff5-40a3-4c11-b921-4da1ee80ea34</link>
+      <description>AKEDO公布$AKE代币申领规则</description>
+      <pubDate>Thu, 21 Aug 2025 07:30:41 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cdb52ff5-40a3-4c11-b921-4da1ee80ea34</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>马斯克披露SpaceX与NASA合作细节：合同均为竞标所得，无特权补贴</title>
+      <link>https://www.panewslab.com/zh/articles/955eb8da-219b-4896-891b-775eb1224a39</link>
+      <description>马斯克披露SpaceX与NASA合作细节：合同均为竞标所得，无特权补贴</description>
+      <pubDate>Thu, 21 Aug 2025 07:28:41 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/955eb8da-219b-4896-891b-775eb1224a39</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>币安成为Beacon Network创始成员，助力实时打击加密犯罪</title>
       <link>https://www.panewslab.com/zh/articles/8e22f278-3b82-4e06-9718-db7286def275</link>
       <description>币安成为Beacon Network创始成员，助力实时打击加密犯罪</description>
-      <pubDate>Thu, 21 Aug 2025 07:03:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:26:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8e22f278-3b82-4e06-9718-db7286def275</guid>
       <category>crypto</category>
@@ -32,7 +62,7 @@
       <title>DeepSeek发布V3.1模型，升级混合推理架构与 Agent 能力</title>
       <link>https://www.panewslab.com/zh/articles/4d6112f4-1ba8-4de9-827d-2567e56ba027</link>
       <description>DeepSeek发布V3.1模型，升级混合推理架构与 Agent 能力</description>
-      <pubDate>Thu, 21 Aug 2025 07:01:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:24:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4d6112f4-1ba8-4de9-827d-2567e56ba027</guid>
       <category>crypto</category>
@@ -47,7 +77,7 @@
       <title>丰田发布基于Avalanche的MON区块链框架，推动车辆资产代币化</title>
       <link>https://www.panewslab.com/zh/articles/8694cd3d-a05e-4735-b459-52f8e3521cc4</link>
       <description>丰田发布基于Avalanche的MON区块链框架，推动车辆资产代币化</description>
-      <pubDate>Thu, 21 Aug 2025 06:59:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:22:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8694cd3d-a05e-4735-b459-52f8e3521cc4</guid>
       <category>crypto</category>
@@ -62,7 +92,7 @@
       <title>币安 Alpha 现已上线 YZY</title>
       <link>https://www.panewslab.com/zh/articles/7e74f191-5b36-48fc-8d50-aa26cc35ece2</link>
       <description>币安 Alpha 现已上线 YZY</description>
-      <pubDate>Thu, 21 Aug 2025 06:57:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:20:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7e74f191-5b36-48fc-8d50-aa26cc35ece2</guid>
       <category>crypto</category>
@@ -77,7 +107,7 @@
       <title>Binance新币上市交易量2025年达1330亿美元，市场份额居首</title>
       <link>https://www.panewslab.com/zh/articles/c7f7c994-d0a2-4b14-9c15-392851c2c61d</link>
       <description>Binance新币上市交易量2025年达1330亿美元，市场份额居首</description>
-      <pubDate>Thu, 21 Aug 2025 06:55:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:18:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c7f7c994-d0a2-4b14-9c15-392851c2c61d</guid>
       <category>crypto</category>
@@ -92,7 +122,7 @@
       <title>币安将于明日暂停AVAX-C的USDC提现业务以进行钱包维护</title>
       <link>https://www.panewslab.com/zh/articles/2fc17eec-d84a-4948-9e9c-cb663cb01978</link>
       <description>币安将于明日暂停AVAX-C的USDC提现业务以进行钱包维护</description>
-      <pubDate>Thu, 21 Aug 2025 06:53:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:16:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2fc17eec-d84a-4948-9e9c-cb663cb01978</guid>
       <category>crypto</category>
@@ -107,7 +137,7 @@
       <title>数据：69家机构金库共持有超过410万枚ETH，总价值约176亿美元</title>
       <link>https://www.panewslab.com/zh/articles/85275984-5b77-45a9-b4f0-f916e402c84a</link>
       <description>数据：69家机构金库共持有超过410万枚ETH，总价值约176亿美元</description>
-      <pubDate>Thu, 21 Aug 2025 06:51:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:14:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/85275984-5b77-45a9-b4f0-f916e402c84a</guid>
       <category>crypto</category>
@@ -124,7 +154,7 @@
       <title>Odin.fun联创：平台今日购入170万美元比特币用于资金补充，最快将在48小时内恢复交易</title>
       <link>https://www.panewslab.com/zh/articles/d80ea30c-b5a3-4748-b849-bd38e8f535fb</link>
       <description>Odin.fun联创：平台今日购入170万美元比特币用于资金补充，最快将在48小时内恢复交易</description>
-      <pubDate>Thu, 21 Aug 2025 06:49:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:12:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d80ea30c-b5a3-4748-b849-bd38e8f535fb</guid>
       <category>crypto</category>
@@ -141,7 +171,7 @@
       <title>一比特币OG再次卖出400枚BTC换购ETH，并跨链转回以太坊</title>
       <link>https://www.panewslab.com/zh/articles/7aca2876-7b2b-45ca-a4fa-fd9651d1435b</link>
       <description>一比特币OG再次卖出400枚BTC换购ETH，并跨链转回以太坊</description>
-      <pubDate>Thu, 21 Aug 2025 06:47:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:10:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7aca2876-7b2b-45ca-a4fa-fd9651d1435b</guid>
       <category>crypto</category>
@@ -160,7 +190,7 @@
       <title>Binance：持有238个及以上Alpha积分的用户可参与Akedo（AKE） TGE活动</title>
       <link>https://www.panewslab.com/zh/articles/367c8940-69f1-4496-9711-17c18c1817c2</link>
       <description>Binance：持有238个及以上Alpha积分的用户可参与Akedo（AKE） TGE活动</description>
-      <pubDate>Thu, 21 Aug 2025 06:45:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:08:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/367c8940-69f1-4496-9711-17c18c1817c2</guid>
       <category>crypto</category>
@@ -175,7 +205,7 @@
       <title>YZY团队数小时收取逾900万美元手续费</title>
       <link>https://www.panewslab.com/zh/articles/587f8b75-ef24-47f0-a8b5-13135e31df9f</link>
       <description>YZY团队数小时收取逾900万美元手续费</description>
-      <pubDate>Thu, 21 Aug 2025 06:43:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:06:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/587f8b75-ef24-47f0-a8b5-13135e31df9f</guid>
       <category>crypto</category>
@@ -190,7 +220,7 @@
       <title>某鲸鱼“割肉”卖出105万美元的YZY，不到2小时亏损50万美元</title>
       <link>https://www.panewslab.com/zh/articles/74d2f0d1-7962-47cd-ad5d-09eb5a0378cc</link>
       <description>某鲸鱼“割肉”卖出105万美元的YZY，不到2小时亏损50万美元</description>
-      <pubDate>Thu, 21 Aug 2025 06:41:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:04:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/74d2f0d1-7962-47cd-ad5d-09eb5a0378cc</guid>
       <category>crypto</category>
@@ -205,7 +235,7 @@
       <title>随着$YZY跌破1美元，某交易员3倍杠杆做空$YZY浮盈20.2万美元</title>
       <link>https://www.panewslab.com/zh/articles/4e83599d-3190-4eb6-9877-98766b88169b</link>
       <description>随着$YZY跌破1美元，某交易员3倍杠杆做空$YZY浮盈20.2万美元</description>
-      <pubDate>Thu, 21 Aug 2025 06:39:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:02:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4e83599d-3190-4eb6-9877-98766b88169b</guid>
       <category>crypto</category>
@@ -220,7 +250,7 @@
       <title>工人日报：异常交易虚拟货币或涉嫌犯罪</title>
       <link>https://www.panewslab.com/zh/articles/71f38ef6-3a68-47b0-ae3b-e873100efe72</link>
       <description>工人日报：异常交易虚拟货币或涉嫌犯罪</description>
-      <pubDate>Thu, 21 Aug 2025 06:37:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 07:00:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/71f38ef6-3a68-47b0-ae3b-e873100efe72</guid>
       <category>crypto</category>
@@ -235,7 +265,7 @@
       <title>YZY价格跌至1美元附近，相较最高点已跌去三分之二</title>
       <link>https://www.panewslab.com/zh/articles/4cf901f3-4ddf-4bd5-91d2-6ef44df61fc8</link>
       <description>YZY价格跌至1美元附近，相较最高点已跌去三分之二</description>
-      <pubDate>Thu, 21 Aug 2025 06:35:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 06:58:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4cf901f3-4ddf-4bd5-91d2-6ef44df61fc8</guid>
       <category>crypto</category>
@@ -250,7 +280,7 @@
       <title>KuCoin Spotlight第31期AKE申购已结束，超募80倍</title>
       <link>https://www.panewslab.com/zh/articles/57291ce6-56d4-4f93-9753-a97a52599b25</link>
       <description>KuCoin Spotlight第31期AKE申购已结束，超募80倍</description>
-      <pubDate>Thu, 21 Aug 2025 06:33:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 06:56:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/57291ce6-56d4-4f93-9753-a97a52599b25</guid>
       <category>crypto</category>
@@ -265,7 +295,7 @@
       <title>Gate 已上线 YZY MONEY (YZY) 现货交易</title>
       <link>https://www.panewslab.com/zh/articles/2dbb3eee-cd35-4caa-b3e3-b75e81e7bd33</link>
       <description>Gate 已上线 YZY MONEY (YZY) 现货交易</description>
-      <pubDate>Thu, 21 Aug 2025 06:31:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 06:54:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2dbb3eee-cd35-4caa-b3e3-b75e81e7bd33</guid>
       <category>crypto</category>
@@ -280,39 +310,9 @@
       <title>某交易员再度以3倍杠杆开启$YZY多单，此前建仓两笔多单亏损15.96万美元</title>
       <link>https://www.panewslab.com/zh/articles/a7045a5a-aae7-41a0-9e84-2b17ae9d497e</link>
       <description>某交易员再度以3倍杠杆开启$YZY多单，此前建仓两笔多单亏损15.96万美元</description>
-      <pubDate>Thu, 21 Aug 2025 06:29:10 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 06:52:41 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a7045a5a-aae7-41a0-9e84-2b17ae9d497e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Solana网络真实TPS在$YZY发布期间达到2300，创下历史新高</title>
-      <link>https://www.panewslab.com/zh/articles/b265c5be-c364-4ea0-8bfa-e40efec3762c</link>
-      <description>Solana网络真实TPS在$YZY发布期间达到2300，创下历史新高</description>
-      <pubDate>Thu, 21 Aug 2025 06:27:10 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b265c5be-c364-4ea0-8bfa-e40efec3762c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>纽约议员提议对加密交易征收0.2%税，稳定币不予豁免</title>
-      <link>https://www.panewslab.com/zh/articles/15b3b340-1706-4a50-b0dc-a8e9351d15d1</link>
-      <description>纽约议员提议对加密交易征收0.2%税，稳定币不予豁免</description>
-      <pubDate>Thu, 21 Aug 2025 06:25:10 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/15b3b340-1706-4a50-b0dc-a8e9351d15d1</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
