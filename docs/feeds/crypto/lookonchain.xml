@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Aug 2025 04:24:50 +0000</lastBuildDate>
-    <pubDate>Thu, 21 Aug 2025 04:24:50 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 04:45:32 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 04:45:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,97 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>LookOnChain: YZY Falls Below $1.2</title>
+      <link>https://www.lookonchain.com/feeds/25505</link>
+      <description>On August 21st, according to GMGN market data, YZY fell below $1.2 and is currently trading at $1.15. The total trading volume since its launch is $3.972 billion.</description>
+      <pubDate>Thu, 21 Aug 2025 04:40:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25505</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A certain trader is 3x short on YZY, currently with an unrealized gain of $168,000</title>
+      <link>https://www.lookonchain.com/feeds/25504</link>
+      <description>On August 21st, as monitored by Onchain Lens, a trader initiated a short position in YZY with a 3x leverage. Currently, they are holding a floating profit of $168,000.</description>
+      <pubDate>Thu, 21 Aug 2025 04:40:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25504</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>MyStonks Risk Management Incident Participant Caroline: Previously published information regarding MyStonks was inaccurate and has now been removed</title>
+      <link>https://www.lookonchain.com/feeds/25503</link>
+      <description>On August 21st, User X Caroline (@thcaroline2233) declared that the information previously provided by this account about the MyStonks platform was false and has now been removed.In a previous communication, Caroline mentioned that she was unable to withdraw $6.2 million from the on-chain security platform MyStocks due to a risk control activation. MyStonks responded in a post, indicating that they had received a regulatory enforcement request regarding a particular user. MyStonks emphasized that the security of user assets and the stable operation of the business are of the utmost importance. The platform will continuously optimize compliance measures to protect the legitimate rights and interests of all users and their funds. As a compliant platform, MyStonks will actively cooperate with any regulatory actions requested by sovereign countries.</description>
+      <pubDate>Thu, 21 Aug 2025 04:40:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25503</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Solana Network Achieves a Real TPS of 2300 During YZY Token Launch, Setting a New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/25502</link>
+      <description>On August 21st, during the YZY token launch, the actual TPS (non-voting transactions) of the Solana Network reached 2300, hitting a new all-time high. (Solana Floor)</description>
+      <pubDate>Thu, 21 Aug 2025 04:40:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25502</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>James Wynn: Bought YZY, Retail FOMO Rally on the Horizon</title>
+      <link>https://www.lookonchain.com/feeds/25501</link>
+      <description>On August 21st, James Wynn made a post stating that he had purchased YZY and said, &quot;This might actually set off a bull market in the retail sector. Let&apos;s wait and observe.&quot;</description>
+      <pubDate>Thu, 21 Aug 2025 04:24:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25501</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>A trader goes long on YZY with 3x leverage for the third time, having lost nearly $1.6 million in the previous two attempts.</title>
       <link>https://www.lookonchain.com/feeds/25500</link>
       <description>August 21th. Based on the monitoring of LookOnChain, trader 0x68c0 has once again initiated a 3x long position on YZY. In the past hour, he has carried out 2 long trades on $YZY. Both trades ended in losses, with a total loss of $1.596 million.</description>
-      <pubDate>Thu, 21 Aug 2025 04:16:58 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 04:16:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25500</guid>
       <category>crypto</category>
@@ -35,7 +122,7 @@
       <title>After the release of the Federal Reserve&apos;s July meeting minutes, the market reduced its expectations of a rate cut in September.</title>
       <link>https://www.lookonchain.com/feeds/25499</link>
       <description>August 21: This morning, the Federal Reserve made public the minutes of its July meeting. It was noted that trade tensions have introduced significant uncertainties. Moreover, the downward revision of non-farm payroll numbers has aggravated concerns regarding economic slowdown.According to Polymarket data, at present, the market anticipates that the probability of a 25-basis-point rate cut in September will decrease to 68%, and the probability of a 50-basis-point rate cut will drop to 2%.</description>
-      <pubDate>Thu, 21 Aug 2025 04:15:58 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 04:16:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25499</guid>
       <category>crypto</category>
@@ -52,7 +139,7 @@
       <title>Visa is hiring a Blockchain Data Analyst, with an annual salary of up to $166,000</title>
       <link>https://www.lookonchain.com/feeds/25498</link>
       <description>On August 21st, based on the job posting on SmartRecruiters, global payment technology giant Visa is in the process of recruiting a On-chain Data Analyst to become a part of Visa&apos;s cryptocurrency product team. This position demands that applicants possess knowledge in both the blockchain and payment domains. They should be proficient in SQL/Python and data visualization tools. Additionally, having experience in using on-chain data analysis tools such as Dune, Allium, Artemis, etc. is required.The job location is in Foster City, California, and it follows a hybrid office model. The annual salary range for this position is between $117,600 and $166,150. In addition to the base salary, there are bonuses and equity incentives available. The main responsibility of this role is to analyze VisaNet and public blockchain data and provide the team with blockchain-related analysis reports and research briefs.</description>
-      <pubDate>Thu, 21 Aug 2025 04:08:58 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 04:08:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25498</guid>
       <category>crypto</category>
@@ -70,7 +157,7 @@
       <title>Gate has launched YZY perpetual contract trading.</title>
       <link>https://www.lookonchain.com/feeds/25497</link>
       <description>On August 21st, as per official information, Gate has initiated YZY perpetual contract trading (settled in USDT), with support for 1-20x leverage.</description>
-      <pubDate>Thu, 21 Aug 2025 04:08:58 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 04:08:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25497</guid>
       <category>crypto</category>
@@ -87,7 +174,7 @@
       <title>The U.S. judge lifts the $57.6 million freeze on funds for the Libra founder, and 5 hours later YZY is released.</title>
       <link>https://www.lookonchain.com/feeds/25496</link>
       <description>On August 21st, as per Decrypt, on Tuesday, a federal judge in Manhattan thawed the assets associated with the notorious Libra token. The Libra token was launched in February of this year and was heavily promoted by Argentine President Javier Milei. However, it almost plummeted to zero within 24 hours.Previously, in June, U.S. District Judge Jennifer L. Rochon froze $57.6 million worth of USDC as part of a case where the plaintiff was claiming more than $100 million. The frozen assets were held in two wallets controlled by Hayden Davis, the CEO of the defendant venture capital firm Kelsier Labs LLC, and Ben Chow, the founder of DEX Meteora.On Tuesday, Judge Rochon stated that since both individuals had complied with legal procedures so far, their actions did not amount to &quot;acts of evading responsibility.&quot; Consequently, she decided to lift the freeze request on the $57.6 million worth of USDC.In response, cryptocurrency KOL scooter (@imperooterxbt), who was involved in exposing th</description>
-      <pubDate>Thu, 21 Aug 2025 04:00:58 +0000</pubDate>
+      <pubDate>Thu, 21 Aug 2025 04:00:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25496</guid>
       <category>crypto</category>
@@ -99,97 +186,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the US Ethereum spot ETF saw a net outflow of $240 million, while the Bitcoin spot ETF saw a net outflow of $316 million.</title>
-      <link>https://www.lookonchain.com/feeds/25495</link>
-      <description>On August 21st, based on the monitoring of Farside Investors, yesterday in the US, the Ethereum spot ETF witnessed a net outflow of $240 million, indicating the 4th consecutive day of outflows. Among them, the BlackRock ETHA had a net outflow of $2.578 billion.Yesterday, in the US, the Bitcoin spot ETF saw a net outflow of $315.9 million. Among them, the BlackRock IBIT had a net outflow of $220 million.</description>
-      <pubDate>Thu, 21 Aug 2025 03:56:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25495</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid has launched the YZY perpetual contract trading pair, with current trading volume exceeding 12 million USD.</title>
-      <link>https://www.lookonchain.com/feeds/25494</link>
-      <description>August 21st, Hyperliquid launched the YZY perpetual contract trading pair, providing up to 3 times leverage. The token was announced by the renowned American musician and designer Kanye West through his personal social media platform. Currently, on Hyperliquid, YZY has a trading volume of more than $12.6 million and an open interest of $6,565,487.39.</description>
-      <pubDate>Thu, 21 Aug 2025 03:56:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25494</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Polymarket Launches YZY Zone, Where Only 2% of Participating Funds Believe in &quot;Ye&apos;s Twitter Hack&quot;</title>
-      <link>https://www.lookonchain.com/feeds/25493</link>
-      <description>On August 21st, based on the information on the relevant page, Polymarket has initiated the YZY Zone. The topics involve &quot;Has Kanye West&apos;s Official Twitter Account Been Hacked?&quot;, &quot;Will Hayden Davis Go to Jail This Year?&quot;, &quot;Can YZY&apos;s Fully Diluted Valuation Reach $10 Billion by Friday?&quot;, etc.As of the time of this writing, 13% of the participating funds hold the belief that &quot;Hayden Davis will go to jail this year,&quot; and 2% of the participating funds believe that &quot;Kanye West&apos;s official Twitter account was hacked.&quot;</description>
-      <pubDate>Thu, 21 Aug 2025 03:48:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25493</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Jito Governance Forum releases JIP-25 and JIP-XX proposals</title>
-      <link>https://www.lookonchain.com/feeds/25492</link>
-      <description>August 21st. The Jito Governance Forum announced the JIP-25 and JIP-XX proposals. JIP-25 suggests increasing the number of validators from 200 to 400, getting rid of super-optimization for voting power, and ranking validators based on commission, MEV commission, validator age, and the reverse order of voting power.On the other hand, JIP-XX enables JitoSOL stakers to express delegation preferences to multiple eligible validators. JitoSOL in DeFi applications is allocated to compliant DeFi validators, and the remaining stake is distributed according to the JIP-25 proposal. It is expected that these two proposals will enhance the liquidity of JitoSOL and the scale of DeFi applications.</description>
-      <pubDate>Thu, 21 Aug 2025 03:40:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25492</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Crypto KOL: Almost certainly Hayden Davis was involved in the release of YZY token, with a pattern highly similar</title>
-      <link>https://www.lookonchain.com/feeds/25491</link>
-      <description>On August 21st, the cryptocurrency KOL scooter (@imperooterxbt), who had previously disclosed insider information about the LIBRA token, claimed that he is 99% certain that Hayden Davis was involved in launching the YZY token because the YZY pattern is very similar to that of LIBRA from a few months ago.</description>
-      <pubDate>Thu, 21 Aug 2025 03:40:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25491</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
