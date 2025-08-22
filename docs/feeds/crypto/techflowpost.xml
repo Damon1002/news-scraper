@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 08:36:08 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 08:36:08 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 08:54:14 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 08:54:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某巨鲸卖出 2217 枚 ETH，获得 400 万美元利润</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，0x7C10 开头巨鲸卖出 2217 枚 ETH（价值约 950 万美元），这些 ETH 是三个月前在低价时购买的，此次卖出锁定了 400 万美元的利润。</description>
+      <pubDate>Fri, 22 Aug 2025 08:44:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>APT 上线 Backpack 交易所</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Aptos 原生代币 APT 已正式上线 Backpack 交易所。Backpack 是一家获得迪拜虚拟资产监管局（VARA）许可的合规加密货币交易平台。随着 APT 上线，用户现可在 Backpack 参与 APT 现货交易，并通过跨链功能实现 USDC 的便捷入金与跨链桥接。此外，APT 持有...</description>
+      <pubDate>Fri, 22 Aug 2025 08:40:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>币安将上线XPLUSDT永续合约盘前交易</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，币安 Alpha 是首个上线 XPIN Network (XPIN) 的平台，Alpha 交易将于 2025 年 8 月 22 日 17:00（UTC+8）开始。交易开始后，持有至少 200 个币安 Alpha 积分的用户可申领 80,000 个 XPIN 代币空投。先到先得。若活动未...</description>
       <pubDate>Fri, 22 Aug 2025 06:05:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>OneKey 创始人：苹果旧版系统出现高危漏洞，建议尽快升级</title>
-      <link>https://www.techflowpost.com</link>
-      <description>漏洞原理是发你一张特制的图片，就能越界读写内存，顺下去就是直接远程代码执行（Remote Code Execution）</description>
-      <pubDate>Fri, 22 Aug 2025 06:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 推出 RWA 指数合约交易活动，总奖池 5 万 USDT</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 推出 RWA 指数合约交易活动，新老用户均可参与。活动期间，用户完成对应 RWA 合约交易量任务即可获得 USDT 奖励，总奖池 50,000 USDT。奖励采取先到先得的模式，赠完即止，活动时间为 8 月 22 日 14:00 至 8 月 29 日 10:00 (UTC+8)。</description>
-      <pubDate>Fri, 22 Aug 2025 06:02:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
