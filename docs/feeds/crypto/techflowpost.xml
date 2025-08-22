@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 05:45:18 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 05:45:18 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 05:57:10 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 05:57:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>澳大利亚 ASIC 两年内已下架约 3,015 个加密货币诈骗网站</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Decrypt 报道，澳大利亚证券投资委员会（ASIC）披露，过去两年内共下架超过 14,000 个诈骗和钓鱼网站，其中约 20% 为加密货币诈骗网站，约 3,015 个。ASIC 表示将扩大打击范围，从网站下架扩展到社交媒体广告，以助力保护澳大利亚消费者免受诈骗侵害。</description>
+      <pubDate>Fri, 22 Aug 2025 05:55:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Dynadot 推出支持 BTC 等加密货币交易的域名市场平台 NameClub</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Bitget Wallet 宣布与 Base 生态展开深度合作，并原生集成 Base 生态头部去中心化交易所 Aerodrome。用户可直接在钱包内完成代币交易、参与流动性池并赚取收益。作为 Base 的流动性枢纽，Aerodrome 采用 ve(3,3) 模式驱动可持续增长，在 cbBTC、cb...</description>
       <pubDate>Fri, 22 Aug 2025 02:30:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>昨日美国比特币现货 ETF 净流出 1.9590 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据加密分析师 Trader T 监测，昨日美国比特币现货 ETF 净流出 1.9590 亿美元。IBIT（BlackRock）：净流出 1.2907 亿美元FBTC（Fidelity）：净流出 3177 万美元ARKB（Ark Invest）：净流出 4328 万美元EZBC（Franklin）：...</description>
-      <pubDate>Fri, 22 Aug 2025 02:28:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
