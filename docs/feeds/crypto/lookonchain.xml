@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 09:51:09 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 09:51:09 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 10:12:09 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 10:12:09 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,63 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance Wallet will launch Hemi&apos;s exclusive Pre-TGE, with an Alpha Point threshold of 240 points.</title>
+      <link>https://www.lookonchain.com/feeds/25746</link>
+      <description>On August 22nd, the Binance Wallet will hold an exclusive Hemi Pre-TGE event. Users whose Binance Alpha points are greater than or equal to 240 can participate in this Pre-TGE event through the Alpha event page, and participating in this event will consume 10 points.Event time: August 22nd, 2025, 20:00 - 22:00 (UTC+8).</description>
+      <pubDate>Fri, 22 Aug 2025 10:09:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25746</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Ethena has announced the establishment of a new Qualified Asset Framework to approve collateral assets</title>
+      <link>https://www.lookonchain.com/feeds/25745</link>
+      <description>On August 22nd, Ethena Labs made an official announcement. A new Qualified Asset Framework has been established to approve collateral assets, with a specific focus on the USDe-backed perpetual futures section. Within this new framework, BNB has been approved as the first asset to support USDe. BNB is the first newly approved asset. Meanwhile, XRP and HYPE also meet all the criteria stipulated by the framework and are expected to be listed as candidate assets shortly. The Risk Committee of Ethena Labs will regularly update the list of approved collateral assets. It should be noted that approval does not necessarily imply immediate listing.</description>
+      <pubDate>Fri, 22 Aug 2025 10:00:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25745</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Stablecoin Project Plasma Overview and Tokenomics Summary</title>
+      <link>https://www.lookonchain.com/feeds/25744</link>
+      <description>August 22nd. Presently, the $250 million quota for the second round of Binance Plasma USDT fixed-term product was snapped up within just 3 minutes, which has attracted significant attention in the market. On June 9th, an address spent 39.15 ETH (valued at approximately $100,000) on extremely high Gas fees and became the first address to make a Plasma deposit, successfully staking 10.17 million USDC.The Plasma backer lineup is quite powerful. It is a Layer 1 blockchain designed specifically for stablecoins, aiming to optimize stablecoin payments and settlements and provide an efficient, low-cost, and secure transaction experience. Previously, it was backed by Peter Thiel&apos;s Founders Fund. In February of this year, it announced a $24 million funding round ($20 million Series A funding and $4 million seed funding), led by Framework Ventures, with the participation of cryptocurrency exchange Bitfinex, venture capitalist Peter Thiel, and Tether CEO Paolo Ardoino.On July 17th, Plasma anno</description>
+      <pubDate>Fri, 22 Aug 2025 09:57:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25744</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Kraken Completes Deployment of Distributed Validator Technology, Enhancing Its Ethereum Staking Service</title>
       <link>https://www.lookonchain.com/feeds/25743</link>
       <description>On August 22nd, according to TheBlock, the U.S.-based cryptocurrency exchange Kraken announced that it has successfully completed the implementation of Distributed Validator Technology (DVT) by leveraging the SSV Network. This move is aimed at optimizing its Ethereum staking service and improving system stability. The SSV Network, which serves as a dedicated protocol for DVT, enhances the operational efficiency of validators by achieving geographical and client diversification.</description>
-      <pubDate>Fri, 22 Aug 2025 09:48:16 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 09:49:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25743</guid>
       <category>crypto</category>
@@ -36,7 +89,7 @@
       <title>Bybit to Launch XPL Perpetual Contract</title>
       <link>https://www.lookonchain.com/feeds/25742</link>
       <description>August 22nd. Bybit will list the XPL USDT perpetual contract on the Pre-Market at 18:45 on August 22nd.</description>
-      <pubDate>Fri, 22 Aug 2025 09:48:16 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 09:49:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25742</guid>
       <category>crypto</category>
@@ -53,7 +106,7 @@
       <title>XPL (Plasma) pre-market trading price on Binance is currently at $0.3862.</title>
       <link>https://www.lookonchain.com/feeds/25741</link>
       <description>On August 22nd, Binance launched U-indexed XPL (Plasma) perpetual contract trading. The pre-market price of XPL is currently at $0.3862.Hyperliquid has initiated XPL pre-market perpetual contract trading. The current pre-market trading price of XPL on Hyperliquid is $0.399.</description>
-      <pubDate>Fri, 22 Aug 2025 09:40:16 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 09:41:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25741</guid>
       <category>crypto</category>
@@ -71,9 +124,26 @@
       <title>UnicornX Announces New Season of Unicall ZKWASM &quot;Diamond Hands Reward&quot; Rules</title>
       <link>https://www.lookonchain.com/feeds/25740</link>
       <description>August 22nd. As per the official announcement, UnicornX has disclosed the details of the new round of Unicall ZKWASM &quot;Diamond Hand Reward&quot;, which encompass the following:· Eligibility Requirements: Users who made purchases but did not sell on UnicornX between 21:29:20 on August 21st and 12:00:00 on August 22nd (in UTC+8 time zone) are eligible. The reference price is determined based on the market price at 17:30 on August 22nd.· Reward Mechanism: If the weighted average purchase price is higher than the reference price, the platform will issue additional tokens to bring the average purchase cost down to the reference price.· Airdrop Timeline: Starting from 17:30 on August 22nd (in UTC+8 time zone), the rewards will be distributed within 72 hours and will be directly credited to the trading wallet address.UnicornX stated that this mechanism is designed to reward long-term holders and community supporters, demonstrating a long-term perspective and a commitment to transparency.</description>
-      <pubDate>Fri, 22 Aug 2025 09:40:16 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 09:41:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25740</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Hyperliquid has launched XPL Perpetual Swap Contract Trading.</title>
+      <link>https://www.lookonchain.com/feeds/25739</link>
+      <description>On August 22nd, as per the official website, Hyperliquid has initiated XPL perpetual futures contracts, capable of supporting up to 3 times leverage. The current pre-market trading price of XPL is $0.37506.</description>
+      <pubDate>Fri, 22 Aug 2025 09:24:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25739</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -88,7 +158,7 @@
       <title>Arthur Hayes sold ETH twice and was forced to buy back at a higher price</title>
       <link>https://www.lookonchain.com/feeds/25738</link>
       <description>On August 22nd, as per the monitoring of LookOnChain, since Arthur Hayes&apos;s &quot;ETH = 5,000&quot; post on December 22nd, 2023, his public wallet address has been involved in ETH swing trading. Intriguingly, Arthur Hayes has sold ETH twice. On both occasions, the price of ETH has continuously risen, compelling him to repurchase at a higher price.</description>
-      <pubDate>Fri, 22 Aug 2025 09:24:16 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 09:24:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25738</guid>
       <category>crypto</category>
@@ -104,27 +174,10 @@
 
     </item>
     <item>
-      <title>Hyperliquid has launched XPL Perpetual Swap Contract Trading.</title>
-      <link>https://www.lookonchain.com/feeds/25739</link>
-      <description>On August 22nd, as per the official website, Hyperliquid has initiated XPL perpetual futures contracts, capable of supporting up to 3 times leverage. The current pre-market trading price of XPL is $0.37506.</description>
-      <pubDate>Fri, 22 Aug 2025 09:24:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25739</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Binance Plasma USDT Fixed Savings Round 2 with a $250 million allocation was sold out within 5 minutes</title>
       <link>https://www.lookonchain.com/feeds/25737</link>
       <description>August 22nd. According to the official announcement, the coin-minting product of Binance Launchpool, the Plasma USDT fixed-term product (with limited time and quantity), had its second round of 250 million USDT quota sold out within 5 minutes.Earlier today, Binance announced an increase in the total subscription limit for the Plasma fixed-term product to 1 billion USDT. The second batch of quota (250 million USDT) was officially opened for subscription starting at 17:00 on August 22, 2025 (UTC+8).</description>
-      <pubDate>Fri, 22 Aug 2025 09:16:16 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 09:16:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25737</guid>
       <category>crypto</category>
@@ -136,58 +189,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha&apos;s latest XPIN airdrop yielded approximately $39 per eligible user.</title>
-      <link>https://www.lookonchain.com/feeds/25736</link>
-      <description>On August 22nd, based on market data, XPIN Network (XPIN) has been listed on Binance Alpha, and its current market capitalization is $2.85 million. Each eligible user can receive an airdrop of 80,000 XPIN tokens. The estimated single airdrop reward at the current price is approximately $39.</description>
-      <pubDate>Fri, 22 Aug 2025 09:09:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25736</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Tonight, prior to Powell&apos;s speech, the probability of a 25 basis point rate cut by the Fed in September decreased to 71.3%.</title>
-      <link>https://www.lookonchain.com/feeds/25735</link>
-      <description>On August 22nd, based on CME&apos;s &quot;FedWatch&quot; data, prior to Powell&apos;s speech at the Jackson Hole Symposium tonight, the likelihood of a 25-basis-point rate cut by the Fed in September has decreased to 71.3%, while the probability of rates remaining unchanged is 28.7%.The probability of the Fed keeping rates unchanged until October is 14.6%, the probability of a cumulative 25-basis-point rate cut is 50.4%, and the probability of a cumulative 50-basis-point rate cut is 35.1%.The dates of the next two FOMC meetings by the Fed are September 17th and October 29th.</description>
-      <pubDate>Fri, 22 Aug 2025 08:56:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25735</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>APT Launches Backpack Trading Platform</title>
-      <link>https://www.lookonchain.com/feeds/25734</link>
-      <description>On August 22nd, the native token APT of Aptos was officially launched on the Backpack exchange platform.Backpack is a compliant cryptocurrency exchange that holds a license from the Dubai Virtual Asset Regulatory Authority (VARA). Now that APT is available, users can engage in APT spot trading on Backpack and take advantage of convenient fiat onramp using USDC through cross-chain functionality.Moreover, APT holders can utilize APT as collateral on Backpack to participate in perpetual contracts and earn rewards, thereby further enhancing the flexibility and efficiency of capital utilization.Given the high-performance and low-latency advantages of the Aptos Network, users can experience a fast, secure, and professional trading environment on Backpack. The listing of APT on Backpack not only enriches the financial infrastructure of the Aptos ecosystem but also showcases its great potential in professional trading and DeFi applications.</description>
-      <pubDate>Fri, 22 Aug 2025 08:50:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25734</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
