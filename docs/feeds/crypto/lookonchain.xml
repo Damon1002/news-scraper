@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 02:46:50 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 02:46:50 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 03:34:12 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 03:34:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,157 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>SBI Holdings Launches On-Chain Tokenized Stock Trading Platform, Integrates DeFi Protocol</title>
+      <link>https://www.lookonchain.com/feeds/25688</link>
+      <description>August 22: The Japanese financial group SBI Holdings announced today that it is going to form a strategic joint venture with the crypto infrastructure company Startale Group. They will launch an on-chain trading platform for tokenized stocks and real-world assets (RWA). This platform will make use of SBI&apos;s financial ecosystem and Startale&apos;s blockchain infrastructure to deal with the &quot;key market gap&quot; in traditional tokenized stock products.The upcoming platform is predicted to offer 24/7 trading of tokenized stocks, faster cross-border settlements, and fractionalized ownership to meet the requirements of global customers. The platform will integrate tokenized stocks with DeFi protocols. Other features include:· Advanced account abstraction technology.· Institutional-grade custody.· Real-time international compliance monitoring.This business alliance will establish and operate two joint ventures: one concentrating on core technology development and the other being responsible f</description>
+      <pubDate>Fri, 22 Aug 2025 03:33:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25688</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A trader added $1.7 million in margin to their ENA long position, with the current unrealized loss being close to $1.7 million.</title>
+      <link>https://www.lookonchain.com/feeds/25687</link>
+      <description>On August 22nd, as monitored by LookOnChain, trader 0x2611 suffered a liquidation loss of $1.68 million on his long position in ENA. In order to avoid liquidation, he deposited an additional 1.7 million USDC to Hyperliquid 4 hours ago. Currently, his liquidation price is $0.3714.</description>
+      <pubDate>Fri, 22 Aug 2025 03:33:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25687</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Hemi Reveals Tokenomics: Total Supply of 10 Billion, Over 30% to be Allocated to the Community</title>
+      <link>https://www.lookonchain.com/feeds/25686</link>
+      <description>On August 22nd, Hemi, a modular blockchain network, announced its tokenomics. The total supply of tokens is 10 billion:· Community &amp; Ecosystem: 32%· Investors &amp; Strategic Partners: 28%· Team &amp; Core Contributors: 25%· Hemisphere Foundation: 15%The usage scenarios of tokens include: network transaction fees, incentivizing Bitcoin security inheritance, cross-chain secure aggregated payments, staking, supporting early ecosystem applications, and facilitating adoption.</description>
+      <pubDate>Fri, 22 Aug 2025 03:25:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25686</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bio Protocol is launching a Token Launchpad, where the allocation amount is based on the staked BioXP amount.</title>
+      <link>https://www.lookonchain.com/feeds/25685</link>
+      <description>On August 22nd, the DeSci protocol Bio Protocol recently launched its token launch platform. The first project is Aubrai. Users can obtain an issuance allocation by staking BioXP. They can invest BIO to receive tokens, and the final allocation depends on the staked BioXP share.The ways to acquire BioXP include staking Bio or Bio ecosystem assets; social participation (&quot;Yapping&quot;); DeSci Score (buying ecosystem asset tokens, participating in past and upcoming sales of Bio&apos;s token launch platform, etc.); retroactive rewards (participating in Bio auctions to receive BIOXP); planning projects in Bio Protocol V1, and more.The first BioAgent Launch project Aubrai&apos;s sale will last for 24 hours, and the opening time will be notified separately. The AUBRAI token will be listed immediately after the sale ends.According to market data, BIO has a 24-hour gain of 25% and its market value has risen to $3.45 billion.</description>
+      <pubDate>Fri, 22 Aug 2025 03:17:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25685</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>HashKey Cloud Empowers MicroBit to Launch Hong Kong&apos;s First Ethereum Spot ETF with Staking Function</title>
+      <link>https://www.lookonchain.com/feeds/25684</link>
+      <description>August 22nd. HashKey Cloud, the world-leading Web3 infrastructure service provider under HashKey Group,凭借其专业、安全且运营透明的质押技术解决方案，助力 MicroBit Capital Management Company Limited（MicroBit）在香港行业成功推出了具有质押功能的首只以太坊现货 ETF（03425）。该 ETF 于 2025 年 8 月 21 日在香港证券交易所（HKEX：00388）正式上市，成为 HashKey Cloud 提供质押服务的第二只 ETF。此 ETF 的核心亮点在于其创新的内置质押特性。HashKey Group 的持牌虚拟资产交易平台 HashKey Exchange 将为该 ETF 提供合规且安全的质押服务。凭借其行业领先的区块链技术能力，HashKey Cloud 为该 ETF 定制了高效、透明且可扩展的质押技术解决方案，确保了技术层面的稳定性和可靠性。此外，HashKey Cloud 提供的削减保险将为该 ETF 提供全面的风险保护，进一步增强了投资者的信心。此次合作充分整合了 HashKey Cloud 的技术专长和 MicroBit 的资产管理优势，为投资者提供了安全、透明且高效的投资选择。未来，HashKey Cloud 将继续与行业合作伙伴合作，深入挖掘 Web3 技术与金融创新的融合，探索更多创新产品和服务，丰富香港虚拟资产市场的生态多样性，并为香港乃至全球虚拟资产市场的持续繁荣注入新的活力。</description>
+      <pubDate>Fri, 22 Aug 2025 03:16:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25684</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>An Ethereum Whaleshark Engages in Profit-taking by Liquidating Positions, Accumulating Over $2.8 Million in Profits</title>
+      <link>https://www.lookonchain.com/feeds/25683</link>
+      <description>On August 22nd, according to the monitoring of on-chain analyst AI Auntie ai_9684xtpa, the whale address 0xC77...CbA28 liquidated its 1-month holding of ETH for profit-taking 10 hours ago, once again reaping a profit of $1.41 million. The total profit from the two recent liquidations exceeded $2.8 million.It had previously purchased 2417 ETH at an average price of $3,672.4 on July 28th and sold all of them 10 hours ago at $4,257 each (approximately $10.29 million).</description>
+      <pubDate>Fri, 22 Aug 2025 02:57:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25683</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Yesterday ARKB saw a net outflow of $43.3 million, while FBTC saw a net outflow of $31.8 million.</title>
+      <link>https://www.lookonchain.com/feeds/25682</link>
+      <description>On August 22nd, as per Farside&apos;s monitoring, yesterday ARKB witnessed a net outflow of $43.3 million. FBTC had a net outflow of $31.8 million. EZBC had a net inflow of $3.2 million. And Grayscale BTC had a net inflow of $5.2 million.</description>
+      <pubDate>Fri, 22 Aug 2025 02:56:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25682</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Gravitex became the first on-chain trading platform to offer retail investors liquidity mining fee rebates.</title>
+      <link>https://www.lookonchain.com/feeds/25681</link>
+      <description>On August 22nd, Grvt announced the launch of the -0.01% Maker Rebate Mechanism, becoming the first on-chain trading platform to directly offer &quot;negative maker fees&quot; to retail users. It is reported that in the traditional stock and futures markets, negative maker fees have long been the exclusive privilege of institutional market makers. Grvt&apos;s move enables retail users to also receive rebates by placing orders, further enhancing market depth and liquidity.Grvt&apos;s Co-Founder and CEO, Hong Yea, stated: &quot;By extending the institutional incentive mechanism to retail users, we can not only increase market depth but also attract more institutions, thereby building a more balanced and efficient trading environment.&quot;It is reported that the advantages of this mechanism are: retail users can reduce their implicit costs and continuously accumulate rebates through strategies such as dollar-cost averaging and grid trading; high-frequency and large-volume traders can improve spread capture and fun</description>
+      <pubDate>Fri, 22 Aug 2025 02:56:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25681</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Bitget Wallet integrates the Base ecosystem&apos;s decentralized exchange platform, Aerodrome, into its services.</title>
       <link>https://www.lookonchain.com/feeds/25680</link>
       <description>August 22nd. Bitget Wallet declared a profound partnership with the Base ecosystem. It integrated the Base ecosystem&apos;s flagship decentralized exchange, Aerodrome, natively. Users are capable of directly finishing token transactions, getting involved in liquidity pools, and reaping rewards within the wallet.As the liquidity center of Base, Aerodrome adopts the ve(3,3) model to stimulate sustainable development. It offers the optimal liquidity and trading routes on core assets like cbBTC and cbETH. This integration enables users to trade and stake Base native assets conveniently in the Bitget Wallet App. At the same time, they can make gas payments through the GetGas feature without holding ETH.In addition, Bitget Wallet is going to launch a Base ecosystem zone on the &quot;Discovery&quot; page. This zone will cover the top applications of Base, including DeFi, gaming, and infrastructure. It will provide real-time market data, one-click trading, and beginner guides. Bitget Wallet also intends</description>
-      <pubDate>Fri, 22 Aug 2025 02:40:58 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 02:40:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25680</guid>
       <category>crypto</category>
@@ -34,7 +181,7 @@
       <title>Ethereum PoS Network Exit Queue Decreased to Approximately 841,000 ETH, Entry Queue Increased to Approximately 214,000 ETH</title>
       <link>https://www.lookonchain.com/feeds/25679</link>
       <description>On August 22nd, based on the data from the Validator Queue tracking website &quot;validatorqueue&quot;, it is reported that the current exit queue of the Ethereum PoS network is 841,457 ETH. The ETH exiting the PoS network is estimated to be approximately $36.18 billion at the current price. The withdrawal delay is currently reported to be 14 days and 15 hours.At the same time, there has been an increase in staking demand from new validators being activated. Today, the admission queue has risen to 214,150 ETH, which is worth around $9.2 billion. The current queue waiting time for admission is 3 days and 17 hours.</description>
-      <pubDate>Fri, 22 Aug 2025 02:32:58 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 02:33:20 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25679</guid>
       <category>crypto</category>
@@ -47,149 +194,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>The SEC Appoints Judge Margaret Ryan as Director of Enforcement</title>
-      <link>https://www.lookonchain.com/feeds/25678</link>
-      <description>On August 22nd, according to official information, the U.S. Securities and Exchange Commission (SEC) made an announcement. It stated that Judge Margaret &quot;Meg&quot; Ryan has been appointed as the Director of the Enforcement Division, and this appointment will come into effect starting from September 2, 2025.The Acting Director of the SEC&apos;s Enforcement Division, Sam Waldon, will return to his previous position as the Chief Legal Advisor of the division.</description>
-      <pubDate>Fri, 22 Aug 2025 02:32:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25678</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Cryptocurrency Fear and Greed Index remains unchanged from yesterday, indicating that the market is still in a &quot;Neutral&quot; state.</title>
-      <link>https://www.lookonchain.com/feeds/25677</link>
-      <description>On August 22nd, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 50 (yesterday it was also 50), suggesting a &quot;Neutral&quot; market sentiment.Note: The Fear and Greed Index has a range from 0 to 100 and encompasses the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Survey (15%) + Bitcoin&apos;s Dominance in the Market (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Fri, 22 Aug 2025 02:24:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25677</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Pennsylvania Legislators Propose Banning Public Officials from Trading Cryptocurrency</title>
-      <link>https://www.lookonchain.com/feeds/25676</link>
-      <description>August 22nd. As per Cointelegraph, the Pennsylvania House Democratic Representative Ben Waxman presented legislation intended to &quot;bar officials from reaping profits from cryptocurrency during their tenure in office.&quot;Waxman submitted the HB1812 bill on Wednesday and obtained support from eight Democratic co-sponsors. This is his reaction to what he deems as the &quot;corrupt&quot; conduct carried out by US President Donald Trump at the federal level.The Pennsylvania lawmaker alleges that Trump has been profiting from projects like his meme coin TRUMP and has been advocating for looser federal regulations on the cryptocurrency market in order to &quot;shield these schemes from examination.&quot;</description>
-      <pubDate>Fri, 22 Aug 2025 02:24:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25676</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The US Office of the Comptroller of the Currency Lifts 2022 Anti-Money Laundering Enforcement Action Against Anchorage Digital</title>
-      <link>https://www.lookonchain.com/feeds/25675</link>
-      <description>On August 22nd, the Office of the Comptroller of the Currency (OCC) in the United States announced that it has issued an order to end the consent order that was issued to the crypto custodian bank Anchorage Digital in 2022.The OCC stated that the revocation of this order is to &quot;ensure the safety and soundness of Anchorage.&quot; The order issued by the regulatory agency in April 2022 was due to Anchorage&apos;s &quot;failure to establish and implement a compliance program based on anti-money laundering (AML) standards.&quot; However, the OCC indicated that the bank &quot;complies with legal requirements and there is no need to continue the order.&quot;</description>
-      <pubDate>Fri, 22 Aug 2025 02:24:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25675</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>If Bitcoin breaks $115,000, the mainstream CEX aggregate short liquidation volume will reach $1.734 billion.</title>
-      <link>https://www.lookonchain.com/feeds/25674</link>
-      <description>On August 22nd, based on Coinglass data, if Bitcoin manages to break through $115,000, the cumulative short liquidation intensity on mainstream CEXs will amount to $1.734 billion.Conversely, if Bitcoin drops below $111,000, the cumulative long liquidation intensity on mainstream CEXs will reach $1.183 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what degree the price of the underlying asset will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that once the price reaches that level, it will experience a stronger reaction due to a liquidity cascade.</description>
-      <pubDate>Fri, 22 Aug 2025 02:16:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25674</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Rebounds to Reach $113,000</title>
-      <link>https://www.lookonchain.com/feeds/25673</link>
-      <description>On August 22nd, based on HTX market data, Bitcoin rebounded and touched $113,000. It is currently trading at $113,000, and the 24-hour loss has narrowed to 1.45%.</description>
-      <pubDate>Fri, 22 Aug 2025 02:15:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25673</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>China Union Development Holdings Soared Over 60%, Company Plans to Acquire 20% Equity Stake in RWA Company NVTH for 100 Million Hong Kong Dollars</title>
-      <link>https://www.lookonchain.com/feeds/25671</link>
-      <description>On August 22nd, based on market data, Regal World Group (00264.HK) witnessed a surge of more than 60%. The company intends to acquire a 20% equity stake in NVTH Limited, a company engaged in RWA tokenization-related business, at a cost of 100 million Hong Kong dollars. (Jinse)</description>
-      <pubDate>Fri, 22 Aug 2025 02:08:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25671</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will list FreeStyle Classic (FST) and open airdrop claiming to eligible users</title>
-      <link>https://www.lookonchain.com/feeds/25672</link>
-      <description>On August 22, according to official information, Binance Alpha is scheduled to list FreeStyle Classic (FST) on August 24. After the Alpha trading commences, eligible users can access the Alpha event page to claim the airdrop by using Binance Alpha points. Further details will be made public at a later time.</description>
-      <pubDate>Fri, 22 Aug 2025 02:08:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25672</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
