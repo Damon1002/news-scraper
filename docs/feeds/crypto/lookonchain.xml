@@ -5,14 +5,126 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 15:32:51 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 15:32:51 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 15:45:50 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 15:45:50 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Federal Reserve&apos;s Harker: Fed Should Stick to Moderately Constrained Monetary Policy</title>
+      <link>https://www.lookonchain.com/feeds/25814</link>
+      <description>On August 22nd, Federal Reserve&apos;s Harker expressed that the Fed has not yet attained its inflation target completely and should adhere to a moderately restrained monetary policy. It is necessary to exercise caution before taking any rate-cutting measures. It is anticipated that the inflation and unemployment rates in the United States will rise.</description>
+      <pubDate>Fri, 22 Aug 2025 15:40:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25814</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Interpol&apos;s &quot;Operation Sunbird 2.0&quot; Dismantles Major Cryptocurrency Crime Network, Arrests 1,209 People</title>
+      <link>https://www.lookonchain.com/feeds/25813</link>
+      <description>On August 22nd, as per The Block report, INTERPOL announced on Friday that its coordinated &quot;Operation HAEVEN 2.0&quot; has managed to apprehend 1,209 suspected cybercriminals. These criminals have collectively targeted nearly 88,000 victims. It is reported that this operation involved investigators from 18 African countries and the UK.The operation commenced in June this year and has thus far retrieved $97.4 million in funds and dismantled 11,432 pieces of malicious infrastructure. During the course of the operation, the Zambian authorities disrupted a large-scale online investment fraud scheme that promised high returns through advertising campaigns. As a result, approximately 65,000 victims invested in cryptocurrency, with the estimated fraud amounting to $300 million.In Angola, investigators have dismantled 25 cryptocurrency mining facilities. They have also arrested 60 Chinese citizens who were illegally validating blockchain transactions and seized mining and IT equipment worth ove</description>
+      <pubDate>Fri, 22 Aug 2025 15:40:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25813</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Ancient Whale Deposits 300 Bitcoins Again, or Will Continue to Swap for ETH</title>
+      <link>https://www.lookonchain.com/feeds/25809</link>
+      <description>On August 22nd, as monitored by LookOnChain, the Bitcoin ancient whale has just deposited an additional 300 BTC (valued at $34.78 million) into Hyperliquid. There is a possibility that it may be swapped for ETH.In just 3 days, it has achieved an unrealized gain of $84 million:It holds 135,265 ETH ($581 million) in long positions with an average entry price of $4,295, realizing a profit of $49 million.It purchased 100,979 ETH ($435 million) in the spot market at an average price of $4,309, realizing a profit of $35 million.</description>
+      <pubDate>Fri, 22 Aug 2025 15:32:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25809</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Ethereum Announces Protocol Upgrade 002, Aiming to Significantly Improve Ethereum L2 System Data Availability</title>
+      <link>https://www.lookonchain.com/feeds/25812</link>
+      <description>On August 22nd, the Ethereum Foundation released Protocol Update 002, which detailed the Blob Data Extension Roadmap. The plan is intended to substantially enhance the data availability of the Ethereum L2 system, providing support for real-time payments, DeFi, social media, AI applications, and other scenarios.The key updates are as follows:1. The upcoming Fusaka upgrade will introduce the PeerDAS architecture, increasing the number of Blobs in a block from the current 6 to 48.2. Progressive mainnet capacity growth will be achieved through the Blob Parameter Hard Fork (BPO), theoretically resulting in an 8x improvement in throughput.3. Bandwidth optimization technologies such as &quot;Unit-Level Message Passing&quot; will be used to reduce network redundant communication.4. The Glamsterdam upgrade (expected in mid-2026) will introduce PeerDAS v2, further expanding data availability.5. Ongoing research on Blob Pool Extension and FullDAS technology will be carried out to ensure Ethereum&apos;s c</description>
+      <pubDate>Fri, 22 Aug 2025 15:32:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25812</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>WLFI increased its ETH holdings by 1076 coins at an average price of $4670</title>
+      <link>https://www.lookonchain.com/feeds/25811</link>
+      <description>On August 22nd, as per the monitoring of LookOnChain, WLFI has just made an additional purchase of 1076 ETH, with an average price of $4670.</description>
+      <pubDate>Fri, 22 Aug 2025 15:32:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25811</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Jito: S-1 Filed for VanEck JitoSOL ETF</title>
+      <link>https://www.lookonchain.com/feeds/25810</link>
+      <description>August 22nd. According to official channels, Jito has made an announcement that it has submitted the S-1 filing for the VanEck JitoSOL ETF. This filing is the outcome of several months&apos; worth of policy advocacy efforts carried out with the U.S. Securities and Exchange Commission and other regulatory bodies. It is also a result of the continuous business expansion and educational undertakings by several ecosystem contributors.</description>
+      <pubDate>Fri, 22 Aug 2025 15:32:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25810</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
     <item>
       <title>Federal Reserve Board Governor Powell Responds to Trump&apos;s Firing Threat: No Intention to Resign, Will Not Yield to External Pressure</title>
       <link>https://www.lookonchain.com/feeds/25808</link>
@@ -72,119 +184,6 @@
       <pubDate>Fri, 22 Aug 2025 14:59:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25805</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「Big Brother Buddy」 Huang Licheng has now realized a gain of $1.52 million, while PUMP and YZY are still in an unrealized loss position.</title>
-      <link>https://www.lookonchain.com/feeds/25803</link>
-      <description>On August 22nd, according to on-chain analyst Ai Yi (@ai_9684xtpa), this morning, &quot;Brother Ma Ge&quot; Huang Licheng&apos;s five long positions still had a high floating loss of up to $9.17 million. However, now they have a total floating profit of $1.52 million. Among them, the ETH long position has a floating profit of $1.645 million, and currently only PUMP and YZY are still in a floating loss.</description>
-      <pubDate>Fri, 22 Aug 2025 14:57:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25803</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The Federal Reserve&apos;s September interest rate meeting is scheduled for September 18, with the probability of a rate cut rising to 91.2%.</title>
-      <link>https://www.lookonchain.com/feeds/25804</link>
-      <description>August 22nd. Based on CME&apos;s &quot;FedWatch&quot; data, following Powell&apos;s speech, the likelihood of a Fed rate cut in September has risen to 91.2%.As planned, the Fed&apos;s September interest rate meeting will take place at 2:00 AM Beijing time on September 18th. There are currently 26 days and 3 hours remaining until the meeting.</description>
-      <pubDate>Fri, 22 Aug 2025 14:57:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25804</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>In the past hour, the total amount of liquidated positions across the whole network has expanded to $236 million, with the primary position being a short.</title>
-      <link>https://www.lookonchain.com/feeds/25802</link>
-      <description>On August 22nd, according to Coinglass data, the network-wide liquidation within nearly 1 hour expanded to $236 million, and the short liquidations totaled $195 million.</description>
-      <pubDate>Fri, 22 Aug 2025 14:48:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25802</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin briefly surpassed $116,000, with a nearly 3.15% price increase in the past hour.</title>
-      <link>https://www.lookonchain.com/feeds/25801</link>
-      <description>On August 22nd, according to HTX market data, Bitcoin briefly exceeded $116,000 and is currently trading at $116,008, with a 1-hour price increase of 3.15%.</description>
-      <pubDate>Fri, 22 Aug 2025 14:48:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25801</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin OG Whale&apos;s Long ETH Position Unrealized Gain Tops $40 Million</title>
-      <link>https://www.lookonchain.com/feeds/25800</link>
-      <description>On August 22nd, based on LookOnChain&apos;s monitoring, with the ETH price breaking through $4600, the unrealized gains of a Bitcoin OG whale from taking a long position in ETH have exceeded $40 million. It is reported that the whale holds a position of up to 135,265 ETH, which is valued at $5.77 billion.</description>
-      <pubDate>Fri, 22 Aug 2025 14:40:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25800</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Analysis: Powell&apos;s Speech Suggests High Likelihood of Continuous Rate Cuts Starting in September</title>
-      <link>https://www.lookonchain.com/feeds/25799</link>
-      <description>On August 22nd, Market strategist Art Hogan stated that Powell&apos;s capability to discuss the shifting balance of risks indicates that policy might need to make corresponding adjustments. This serves as a clear indication that he is inclined to support future rate cuts and may take action in September, October, and December. In other words, the impetus clearly stems from the softness of the labor market rather than the core commodity price increases resulting from tariffs... The distinct message conveyed to the market is: A September rate cut is now highly likely. (Xinhua Finance)</description>
-      <pubDate>Fri, 22 Aug 2025 14:40:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25799</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
