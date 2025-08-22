@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 06:36:37 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 06:36:37 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 06:56:36 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 06:56:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>The X Layer testnet is now officially live, with OKB serving as the native Gas token.</title>
-      <link>https://www.lookonchain.com/feeds/25709</link>
-      <description>On August 22nd, according to official channels, the X Layer testnet has officially commenced. OKB serves as the native Gas token. Users can obtain testnet tokens through the faucet and achieve seamless cross-chain operations on Sepolia.</description>
-      <pubDate>Fri, 22 Aug 2025 06:34:43 +0000</pubDate>
+      <title>SBI Holdings Announces Acquisition of Over 50% Stake in Web3 Media Company CoinPost</title>
+      <link>https://www.lookonchain.com/feeds/25713</link>
+      <description>On August 22nd, Japan&apos;s financial group SBI Holdings announced that an agreement on the transfer of stocks has been signed with some existing shareholders of the Web3 media company CoinPost. Under this agreement, SBI Holdings will acquire a majority stake in CoinPost and turn it into a wholly-owned subsidiary. The transaction is expected to be completed on October 1, 2025.CoinPost is one of Japan&apos;s largest cryptocurrency and Web3 professional media outlets and also operates the Asian Web3 conference &quot;WebX.&quot; After the acquisition, the two parties will collaborate in three areas: expanding media functions, providing support for the expansion of digital asset investment, and jointly hosting industry events. SBI Holdings stated that this move will accelerate the social implementation of Web3 through cooperation with group companies and help establish a new financial digital industry foundation in Japan.</description>
+      <pubDate>Fri, 22 Aug 2025 06:49:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25709</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25713</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +31,49 @@
 
     </item>
     <item>
+      <title>Powell is set to deliver a speech tonight at 10 p.m. at the Jackson Hole Symposium, with the market focusing on rate cut expectations and successor selection.</title>
+      <link>https://www.lookonchain.com/feeds/25712</link>
+      <description>August 22: The Federal Reserve Chair, Powell, is slated to deliver a speech on the economic outlook and the evaluation of the Fed&apos;s policy framework at the annual central bank symposium of the Kansas City Fed in Jackson Hole, Wyoming. The speech is scheduled to take place at 10 a.m. ET (10 p.m. Beijing time) today. Substantial market volatility is anticipated.This speech arrives at a crucial time. Recent data indicates that tariff measures have exerted a certain impact on inflation, while the labor market is decelerating. This intricate situation reinforces the market&apos;s expectation that the Fed may announce a 25-basis-point rate cut at the upcoming month&apos;s meeting. Meanwhile, U.S. President Trump continues to exert pressure on Powell to cut rates and is seeking a replacement. Powell&apos;s term as the Fed chair will come to an end in May of next year.</description>
+      <pubDate>Fri, 22 Aug 2025 06:48:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25712</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>$38.2 Billion Worth of BTC and $9.5 Billion Worth of ETH Options Expiring Today, with Max Pain at $11.8k and $4250</title>
+      <link>https://www.lookonchain.com/feeds/25711</link>
+      <description>On August 22nd, the analyst Adam of Greek.Live released today&apos;s options expiry data: 34,000 BTC options expired. The Put Call Ratio was 1.3, with a maximum pain point of $118,000 and a notional value of $3.82 billion. 220,000 ETH options expired. The Put Call Ratio was 0.82, with a maximum pain point of $4250 and a notional value of $9.5 billion. Analyst Adam stated that the theme of this week is price retracement. However, both BTC and ETH are hovering near their all-time highs, and market sentiment remains relatively optimistic. Nearly $5 billion in options expiry took place this week, accounting for 8% of the current total open interest. In terms of historical records, this is a relatively low weekly proportion, which is in sharp contrast to the current daily trading volume of nearly $5 billion. Looking at the key options data, there has been a significant rebound in implied volatility. BTC&apos;s mid-term IV has fully rebounded to above 35%, and ETH&apos;s major term IV is close to 70%, whil</description>
+      <pubDate>Fri, 22 Aug 2025 06:40:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25711</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>MEXC Exchange Coin MX has surged by 17.8% in the last 24 hours, currently trading at $3.13.</title>
       <link>https://www.lookonchain.com/feeds/25710</link>
       <description>On August 22nd, based on market data, the price of the native exchange token MX of the crypto trading platform MEXC has witnessed a surge of 17.8% within the past 24 hours and reached $3.13. At present, its total market capitalization has reached $285 million.</description>
-      <pubDate>Fri, 22 Aug 2025 06:34:43 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 06:34:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25710</guid>
       <category>crypto</category>
@@ -49,10 +88,27 @@
 
     </item>
     <item>
+      <title>The X Layer testnet is now officially live, with OKB serving as the native Gas token.</title>
+      <link>https://www.lookonchain.com/feeds/25709</link>
+      <description>On August 22nd, according to official channels, the X Layer testnet has officially commenced. OKB serves as the native Gas token. Users can obtain testnet tokens through the faucet and achieve seamless cross-chain operations on Sepolia.</description>
+      <pubDate>Fri, 22 Aug 2025 06:33:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25709</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Security Alert: Please upgrade iOS, iPadOS, and macOS to the latest version as soon as possible to prevent vulnerability attacks</title>
       <link>https://www.lookonchain.com/feeds/25708</link>
       <description>On August 22nd, Apple released a security update on August 20, 2025. This update addresses the CVE-2025-43300 vulnerability that affects iOS, iPadOS, and macOS systems. CVE-2025-43300 is a buffer overflow vulnerability discovered in Apple&apos;s ImageIO framework. An attacker could take advantage of this vulnerability by tampering with a malicious image file, leading to memory corruption and potentially enabling the execution of remote code. Apple has resolved this issue by strengthening boundary checks. It has been reported that this vulnerability has been exploited in highly sophisticated attacks aimed at specific victims.BlockBeats strongly advises all Apple users to update their devices in a timely manner to reduce potential risks. Keeping devices updated is a crucial measure to prevent cyber attacks and protect personal information security.</description>
-      <pubDate>Fri, 22 Aug 2025 06:33:43 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 06:33:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25708</guid>
       <category>crypto</category>
@@ -69,7 +125,7 @@
       <title>ANAP Holdings increased its holdings by 6.26 BTC, bringing the total holdings to 1,006.31 BTC.</title>
       <link>https://www.lookonchain.com/feeds/25707</link>
       <description>On August 22nd, according to NLNico&apos;s monitoring, the Japanese fashion brand ANAP Holdings purchased 6.26 BTC. Currently, the total holdings amount to 1,006.31 BTC.</description>
-      <pubDate>Fri, 22 Aug 2025 06:16:43 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 06:16:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25707</guid>
       <category>crypto</category>
@@ -88,7 +144,7 @@
       <title>Binance Alpha New Airdrop XPIN Threshold: Minimum 200 Points</title>
       <link>https://www.lookonchain.com/feeds/25706</link>
       <description>On August 22nd, Binance Alpha will serve as the first platform to list the XPIN Network (XPIN), and Alpha trading will officially kick off on August 22, 2025, at 09:00 (UTC). After the trading begins, users who hold at least 200 Binance Alpha Points can obtain 80,000 XPIN airdrop rewards on a first-come, first-served basis. In case the reward pool is not fully claimed, the points threshold will automatically decrease by 15 points every hour. It is important to note that claiming the airdrop will consume 15 Binance Alpha Points. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a waiver of the airdrop.</description>
-      <pubDate>Fri, 22 Aug 2025 06:08:43 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 06:08:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25706</guid>
       <category>crypto</category>
@@ -105,7 +161,7 @@
       <title>Recently, several Bitcoin ancient whales have significantly increased their ETH holdings, with one address holding as much as 83,000 BTC.</title>
       <link>https://www.lookonchain.com/feeds/25705</link>
       <description>On August 22nd, as monitored by lookonchain, a Bitcoin ancient whale received 100,784 BTC seven years ago (valued at $642 million), and recently it ended its dormancy. It sold BTC and simultaneously bought 62,914 ETH spot (worth $267 million) at the same time, and opened a long position of up to 135,265 ETH (worth $577 million).Meanwhile, lookonchain just discovered another Bitcoin ancient whale that also deposited BTC into Hyperliquid to sell and buy ETH. On-chain tracking shows that this veteran player received 85,947 BTC seven years ago (worth $547 million), and it is likely that the two are the same entity.Currently, it has been confirmed that their six wallets still hold 83,585 BTC (worth $9.42 billion).</description>
-      <pubDate>Fri, 22 Aug 2025 06:02:43 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 06:02:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25705</guid>
       <category>crypto</category>
@@ -127,7 +183,7 @@
       <title>If Ethereum breaks $4400, the mainstream CEX cumulative short liquidation volume will reach $1.703 billion</title>
       <link>https://www.lookonchain.com/feeds/25704</link>
       <description>On August 22nd, according to Coinglass data, if Ethereum manages to break through $4400, the total short liquidation strength on mainstream CEXs will reach $1.703 billion.Conversely, if Ethereum drops below $4100, the total long liquidation strength on mainstream CEXs will reach $2.001 billion.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the exact value of contracts to be liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster in relation to neighboring clusters, that is, strength.Therefore, the liquidation chart shows the extent to which the asset price reaching a certain level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, there will be a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Fri, 22 Aug 2025 05:49:43 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 05:55:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25704</guid>
       <category>crypto</category>
@@ -141,61 +197,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Cryptocurrency Fear and Greed Index currently stands at 50, indicating a neutral market sentiment.</title>
-      <link>https://www.lookonchain.com/feeds/25703</link>
-      <description>On August 22nd, according to Alternative Data, the current Crypto Fear and Greed Index for today is 50 (it was 50 yesterday), with a weekly average of 60. Market sentiment remains neutral.Note: The Fear Index ranges from 0 to 100 and incorporates the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Fri, 22 Aug 2025 05:48:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25703</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Upbit Trading Volume Continues to Shrink: XRP, ETH, API3 Currently in Top Three</title>
-      <link>https://www.lookonchain.com/feeds/25702</link>
-      <description>On August 22nd, based on CoinGecko data, in the past 24 hours, Upbit&apos;s trading volume declined to $1.708 billion, experiencing a decrease of 31.1%. Among them, the XRP/KRW trading pair accounted for 14.64% of the volume and ranked first in the Korean won market. The rest of the top five were: ETH, API3, BTC, and SOL.</description>
-      <pubDate>Fri, 22 Aug 2025 05:48:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25702</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Ethereum Deposit Trend Eases, with CEX Inflow Narrowed to 46,000 ETH in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/25701</link>
-      <description>On August 22nd, according to Coinglass data, within the past 24 hours, the total net inflow of ETH on CEX was 46,000 ETH. The top three CEXs in terms of inflow volume are as follows:· Binance, with an inflow of 67,900 ETH;· Kraken, with an inflow of 7,142.29 ETH;· Coinbase Pro, with an inflow of 3,131.98 ETH.In addition, Bitfinex witnessed an outflow of 17,100 ETH and ranked first in the outflow list.</description>
-      <pubDate>Fri, 22 Aug 2025 05:35:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25701</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
