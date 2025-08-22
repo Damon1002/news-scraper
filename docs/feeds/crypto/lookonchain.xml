@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 03:34:12 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 03:34:12 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 03:57:38 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 03:57:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>SBI Holdings Launches On-Chain Tokenized Stock Trading Platform, Integrates DeFi Protocol</title>
-      <link>https://www.lookonchain.com/feeds/25688</link>
-      <description>August 22: The Japanese financial group SBI Holdings announced today that it is going to form a strategic joint venture with the crypto infrastructure company Startale Group. They will launch an on-chain trading platform for tokenized stocks and real-world assets (RWA). This platform will make use of SBI&apos;s financial ecosystem and Startale&apos;s blockchain infrastructure to deal with the &quot;key market gap&quot; in traditional tokenized stock products.The upcoming platform is predicted to offer 24/7 trading of tokenized stocks, faster cross-border settlements, and fractionalized ownership to meet the requirements of global customers. The platform will integrate tokenized stocks with DeFi protocols. Other features include:· Advanced account abstraction technology.· Institutional-grade custody.· Real-time international compliance monitoring.This business alliance will establish and operate two joint ventures: one concentrating on core technology development and the other being responsible f</description>
-      <pubDate>Fri, 22 Aug 2025 03:33:20 +0000</pubDate>
+      <title>Ripple Partners with SBI Holdings to Promote Ripple USD (RLUSD) in Japan</title>
+      <link>https://www.lookonchain.com/feeds/25689</link>
+      <description>August 22nd. Ripple announced today a fresh Memorandum of Understanding (MOU) with the Japanese financial group SBI Holdings and its subsidiary SBI VC Trade Co., Ltd. (a licensed electronic payment instrument trading service provider; hereinafter referred to as the &quot;SBI Group&quot;). The plan is to distribute Ripple USD (RLUSD) in Japan via SBI VC Trade.RLUSD is a reliable enterprise-grade stablecoin that places great emphasis on compliance and transparency. RLUSD undergoes monthly audits by a third-party accounting firm.</description>
+      <pubDate>Fri, 22 Aug 2025 03:48:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25688</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25689</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +31,29 @@
 
     </item>
     <item>
+      <title>Bitcoin Withdrawal Trend Reversal, with a Net Outflow of 1,858.51 BTC from Centralized Exchanges (CEX) in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/25690</link>
+      <description>On August 22nd, according to Coinglass data, within the past 24 hours, CEX has witnessed a total net outflow of 1,858.51 BTC. The top three exchanges with the largest outflows are as follows:· Kraken, with an outflow of 3,735.95 BTC;· Binance, with an outflow of 383.19 BTC;· Coinone, with an outflow of 137.40 BTC.In addition, Bitfinex had an inflow of 792.23 BTC, ranking first on the inflow list.</description>
+      <pubDate>Fri, 22 Aug 2025 03:48:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25690</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>A trader added $1.7 million in margin to their ENA long position, with the current unrealized loss being close to $1.7 million.</title>
       <link>https://www.lookonchain.com/feeds/25687</link>
       <description>On August 22nd, as monitored by LookOnChain, trader 0x2611 suffered a liquidation loss of $1.68 million on his long position in ENA. In order to avoid liquidation, he deposited an additional 1.7 million USDC to Hyperliquid 4 hours ago. Currently, his liquidation price is $0.3714.</description>
-      <pubDate>Fri, 22 Aug 2025 03:33:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 03:32:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25687</guid>
       <category>crypto</category>
@@ -49,10 +68,27 @@
 
     </item>
     <item>
+      <title>SBI Holdings Launches On-Chain Tokenized Stock Trading Platform, Integrates DeFi Protocol</title>
+      <link>https://www.lookonchain.com/feeds/25688</link>
+      <description>August 22: The Japanese financial group SBI Holdings announced today that it is going to form a strategic joint venture with the crypto infrastructure company Startale Group. They will launch an on-chain trading platform for tokenized stocks and real-world assets (RWA). This platform will make use of SBI&apos;s financial ecosystem and Startale&apos;s blockchain infrastructure to deal with the &quot;key market gap&quot; in traditional tokenized stock products.The upcoming platform is predicted to offer 24/7 trading of tokenized stocks, faster cross-border settlements, and fractionalized ownership to meet the requirements of global customers. The platform will integrate tokenized stocks with DeFi protocols. Other features include:· Advanced account abstraction technology.· Institutional-grade custody.· Real-time international compliance monitoring.This business alliance will establish and operate two joint ventures: one concentrating on core technology development and the other being responsible f</description>
+      <pubDate>Fri, 22 Aug 2025 03:32:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25688</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Hemi Reveals Tokenomics: Total Supply of 10 Billion, Over 30% to be Allocated to the Community</title>
       <link>https://www.lookonchain.com/feeds/25686</link>
       <description>On August 22nd, Hemi, a modular blockchain network, announced its tokenomics. The total supply of tokens is 10 billion:· Community &amp; Ecosystem: 32%· Investors &amp; Strategic Partners: 28%· Team &amp; Core Contributors: 25%· Hemisphere Foundation: 15%The usage scenarios of tokens include: network transaction fees, incentivizing Bitcoin security inheritance, cross-chain secure aggregated payments, staking, supporting early ecosystem applications, and facilitating adoption.</description>
-      <pubDate>Fri, 22 Aug 2025 03:25:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 03:24:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25686</guid>
       <category>crypto</category>
@@ -69,7 +105,7 @@
       <title>Bio Protocol is launching a Token Launchpad, where the allocation amount is based on the staked BioXP amount.</title>
       <link>https://www.lookonchain.com/feeds/25685</link>
       <description>On August 22nd, the DeSci protocol Bio Protocol recently launched its token launch platform. The first project is Aubrai. Users can obtain an issuance allocation by staking BioXP. They can invest BIO to receive tokens, and the final allocation depends on the staked BioXP share.The ways to acquire BioXP include staking Bio or Bio ecosystem assets; social participation (&quot;Yapping&quot;); DeSci Score (buying ecosystem asset tokens, participating in past and upcoming sales of Bio&apos;s token launch platform, etc.); retroactive rewards (participating in Bio auctions to receive BIOXP); planning projects in Bio Protocol V1, and more.The first BioAgent Launch project Aubrai&apos;s sale will last for 24 hours, and the opening time will be notified separately. The AUBRAI token will be listed immediately after the sale ends.According to market data, BIO has a 24-hour gain of 25% and its market value has risen to $3.45 billion.</description>
-      <pubDate>Fri, 22 Aug 2025 03:17:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 03:16:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25685</guid>
       <category>crypto</category>
@@ -86,7 +122,7 @@
       <title>HashKey Cloud Empowers MicroBit to Launch Hong Kong&apos;s First Ethereum Spot ETF with Staking Function</title>
       <link>https://www.lookonchain.com/feeds/25684</link>
       <description>August 22nd. HashKey Cloud, the world-leading Web3 infrastructure service provider under HashKey Group,凭借其专业、安全且运营透明的质押技术解决方案，助力 MicroBit Capital Management Company Limited（MicroBit）在香港行业成功推出了具有质押功能的首只以太坊现货 ETF（03425）。该 ETF 于 2025 年 8 月 21 日在香港证券交易所（HKEX：00388）正式上市，成为 HashKey Cloud 提供质押服务的第二只 ETF。此 ETF 的核心亮点在于其创新的内置质押特性。HashKey Group 的持牌虚拟资产交易平台 HashKey Exchange 将为该 ETF 提供合规且安全的质押服务。凭借其行业领先的区块链技术能力，HashKey Cloud 为该 ETF 定制了高效、透明且可扩展的质押技术解决方案，确保了技术层面的稳定性和可靠性。此外，HashKey Cloud 提供的削减保险将为该 ETF 提供全面的风险保护，进一步增强了投资者的信心。此次合作充分整合了 HashKey Cloud 的技术专长和 MicroBit 的资产管理优势，为投资者提供了安全、透明且高效的投资选择。未来，HashKey Cloud 将继续与行业合作伙伴合作，深入挖掘 Web3 技术与金融创新的融合，探索更多创新产品和服务，丰富香港虚拟资产市场的生态多样性，并为香港乃至全球虚拟资产市场的持续繁荣注入新的活力。</description>
-      <pubDate>Fri, 22 Aug 2025 03:16:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 03:16:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25684</guid>
       <category>crypto</category>
@@ -105,7 +141,7 @@
       <title>An Ethereum Whaleshark Engages in Profit-taking by Liquidating Positions, Accumulating Over $2.8 Million in Profits</title>
       <link>https://www.lookonchain.com/feeds/25683</link>
       <description>On August 22nd, according to the monitoring of on-chain analyst AI Auntie ai_9684xtpa, the whale address 0xC77...CbA28 liquidated its 1-month holding of ETH for profit-taking 10 hours ago, once again reaping a profit of $1.41 million. The total profit from the two recent liquidations exceeded $2.8 million.It had previously purchased 2417 ETH at an average price of $3,672.4 on July 28th and sold all of them 10 hours ago at $4,257 each (approximately $10.29 million).</description>
-      <pubDate>Fri, 22 Aug 2025 02:57:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 02:56:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25683</guid>
       <category>crypto</category>
@@ -127,7 +163,7 @@
       <title>Yesterday ARKB saw a net outflow of $43.3 million, while FBTC saw a net outflow of $31.8 million.</title>
       <link>https://www.lookonchain.com/feeds/25682</link>
       <description>On August 22nd, as per Farside&apos;s monitoring, yesterday ARKB witnessed a net outflow of $43.3 million. FBTC had a net outflow of $31.8 million. EZBC had a net inflow of $3.2 million. And Grayscale BTC had a net inflow of $5.2 million.</description>
-      <pubDate>Fri, 22 Aug 2025 02:56:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 02:56:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25682</guid>
       <category>crypto</category>
@@ -147,7 +183,7 @@
       <title>Gravitex became the first on-chain trading platform to offer retail investors liquidity mining fee rebates.</title>
       <link>https://www.lookonchain.com/feeds/25681</link>
       <description>On August 22nd, Grvt announced the launch of the -0.01% Maker Rebate Mechanism, becoming the first on-chain trading platform to directly offer &quot;negative maker fees&quot; to retail users. It is reported that in the traditional stock and futures markets, negative maker fees have long been the exclusive privilege of institutional market makers. Grvt&apos;s move enables retail users to also receive rebates by placing orders, further enhancing market depth and liquidity.Grvt&apos;s Co-Founder and CEO, Hong Yea, stated: &quot;By extending the institutional incentive mechanism to retail users, we can not only increase market depth but also attract more institutions, thereby building a more balanced and efficient trading environment.&quot;It is reported that the advantages of this mechanism are: retail users can reduce their implicit costs and continuously accumulate rebates through strategies such as dollar-cost averaging and grid trading; high-frequency and large-volume traders can improve spread capture and fun</description>
-      <pubDate>Fri, 22 Aug 2025 02:56:20 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 02:56:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25681</guid>
       <category>crypto</category>
@@ -158,42 +194,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitget Wallet integrates the Base ecosystem&apos;s decentralized exchange platform, Aerodrome, into its services.</title>
-      <link>https://www.lookonchain.com/feeds/25680</link>
-      <description>August 22nd. Bitget Wallet declared a profound partnership with the Base ecosystem. It integrated the Base ecosystem&apos;s flagship decentralized exchange, Aerodrome, natively. Users are capable of directly finishing token transactions, getting involved in liquidity pools, and reaping rewards within the wallet.As the liquidity center of Base, Aerodrome adopts the ve(3,3) model to stimulate sustainable development. It offers the optimal liquidity and trading routes on core assets like cbBTC and cbETH. This integration enables users to trade and stake Base native assets conveniently in the Bitget Wallet App. At the same time, they can make gas payments through the GetGas feature without holding ETH.In addition, Bitget Wallet is going to launch a Base ecosystem zone on the &quot;Discovery&quot; page. This zone will cover the top applications of Base, including DeFi, gaming, and infrastructure. It will provide real-time market data, one-click trading, and beginner guides. Bitget Wallet also intends</description>
-      <pubDate>Fri, 22 Aug 2025 02:40:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25680</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum PoS Network Exit Queue Decreased to Approximately 841,000 ETH, Entry Queue Increased to Approximately 214,000 ETH</title>
-      <link>https://www.lookonchain.com/feeds/25679</link>
-      <description>On August 22nd, based on the data from the Validator Queue tracking website &quot;validatorqueue&quot;, it is reported that the current exit queue of the Ethereum PoS network is 841,457 ETH. The ETH exiting the PoS network is estimated to be approximately $36.18 billion at the current price. The withdrawal delay is currently reported to be 14 days and 15 hours.At the same time, there has been an increase in staking demand from new validators being activated. Today, the admission queue has risen to 214,150 ETH, which is worth around $9.2 billion. The current queue waiting time for admission is 3 days and 17 hours.</description>
-      <pubDate>Fri, 22 Aug 2025 02:33:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25679</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
