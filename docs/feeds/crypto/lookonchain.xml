@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 05:28:32 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 05:28:32 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 05:45:18 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 05:45:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,50 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $4.528 billion, with BlackRock&apos;s ETHA experiencing a net inflow of $4.4 billion.</title>
-      <link>https://www.lookonchain.com/feeds/21916</link>
-      <description>On July 26th, based on the monitoring of Farside Investors, the net inflow into the US Ethereum spot ETF yesterday was $452.8 million. This includes:- BlackRock ETHA: +$440.1 million- Fidelity FETH: +$7.3 million- Bitwise ETHW: +$10 million- Grayscale ETHE: -$23.5 million- Grayscale Ethereum Trust: +$18.9 million</description>
-      <pubDate>Sat, 26 Jul 2025 03:56:31 +0000</pubDate>
+      <title>Ethereum Deposit Trend Eases, with CEX Inflow Narrowed to 46,000 ETH in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/25701</link>
+      <description>On August 22nd, according to Coinglass data, within the past 24 hours, the total net inflow of ETH on CEX was 46,000 ETH. The top three CEXs in terms of inflow volume are as follows:· Binance, with an inflow of 67,900 ETH;· Kraken, with an inflow of 7,142.29 ETH;· Coinbase Pro, with an inflow of 3,131.98 ETH.In addition, Bitfinex witnessed an outflow of 17,100 ETH and ranked first in the outflow list.</description>
+      <pubDate>Fri, 22 Aug 2025 05:16:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21916</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25701</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>EU officials are considering issuing a digital Euro on public blockchains such as Ethereum or Solana.</title>
+      <link>https://www.lookonchain.com/feeds/25700</link>
+      <description>August 22nd. As per the Financial Times, sources disclosed that the latest stablecoin legislation in the US has given rise to concerns regarding the competitive stance of the European digital currency. European Union officials are expediting the planning of the digital euro. Last month, the US Congress passed a landmark Genius Act to regulate the $288 billion market dominated by the US dollar in the stablecoin market. A person involved in the discussions indicated that since the enactment of this legislation, EU officials have been &quot;reconsidering the plans for the digital euro.&quot;The sources further added that due to privacy concerns, officials are currently contemplating running the digital euro on public blockchains like Ethereum or Solana instead of the previously anticipated private blockchain.</description>
+      <pubDate>Fri, 22 Aug 2025 05:08:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25700</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>A certain new address has added 11,950 ETH to its holdings, worth over $51 million.</title>
+      <link>https://www.lookonchain.com/feeds/25699</link>
+      <description>On August 22nd, as monitored by lookonchain, a newly established wallet address 0x2607 has just made a withdrawal of 11,950 ETH from Binance. The value of this withdrawal is $51.32 million.</description>
+      <pubDate>Fri, 22 Aug 2025 04:56:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25699</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,12 +72,12 @@
 
     </item>
     <item>
-      <title>Yesterday, the US Bitcoin Spot ETF saw a net inflow of $130 million</title>
-      <link>https://www.lookonchain.com/feeds/21917</link>
-      <description>July 26th. Based on Farside Investors&apos; data, the net inflow into US Bitcoin spot ETF yesterday was $130.8 million. This includes:BlackRock IBIT: + $92.8 millionFidelity FBTC: + $10.2 millionBitwise BITB: + $21.0 millionARK ARKB: + $30.3 millionVanEck HODL: + $18.2 millionGrayscale GBTC: - $50.5 millionGrayscale BTC Mini: + $8.8 million</description>
-      <pubDate>Sat, 26 Jul 2025 03:56:31 +0000</pubDate>
+      <title>A certain new address has added 1,046 BTC to its holdings, worth nearly $120 million.</title>
+      <link>https://www.lookonchain.com/feeds/25698</link>
+      <description>On August 22nd, as monitored by OnchainLens, a newly established wallet address received 1,046 BTC from Binance approximately 20 minutes ago. The value of this amount is approximately $118.22 million.Address: bc1qcn6y873qtmjquh5x6zl0r2lcqgufpn9d9nae0q.</description>
+      <pubDate>Fri, 22 Aug 2025 04:56:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21917</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25698</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -54,12 +92,12 @@
 
     </item>
     <item>
-      <title>US-listed company Bit Digital plans to increase its authorized share capital to buy more ETH</title>
-      <link>https://www.lookonchain.com/feeds/21915</link>
-      <description>July 26th. According to SEC filings, the publicly traded company Bit Digital (BTBT) in the U.S. disclosed that a significant shareholder meeting is scheduled to be held on September 10, 2025, at 9:00 AM at the company&apos;s main office address (11th floor, 31 Hudson Yards, New York, New York, USA), with the option of online streaming available. Shareholders can attend the meeting in person or participate through online streaming to exercise their voting rights and submit questions during the meeting. The meeting will deliberate on approving an increase in the company&apos;s authorized capital from $3.5 million (comprising 340 million common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share) to $10.1 million (consisting of 1 billion common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share).Bit Digital stated that the company intends to raise a significant amount of additi</description>
-      <pubDate>Sat, 26 Jul 2025 03:32:31 +0000</pubDate>
+      <title>Million-Follower KOL Andrew Tate Shorts YZY for a Floating Profit of $12,600</title>
+      <link>https://www.lookonchain.com/feeds/25695</link>
+      <description>On August 22, with YZY continuing to decline and falling below $0.8, the multimillion-follower Key Opinion Leader (KOL) Andrew Tate opened a 3x short position in YZY on Hyperliquid this morning at 3:16. Currently, it is showing an unrealized profit of $12,600. His opening price was $0.8523, and the initial position size was $175,000.</description>
+      <pubDate>Fri, 22 Aug 2025 04:44:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21915</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25695</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -68,17 +106,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+      <category>high-value</category>
+      <category>profit</category>
 
     </item>
     <item>
-      <title>Two addresses suspected to belong to the same whale have sold a total of 3810.76 ETH in the last 10 hours.</title>
-      <link>https://www.lookonchain.com/feeds/21912</link>
-      <description>On July 26th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), two addresses that are suspected to belong to the same entity have sold 3810.76 ETH within the past 10 hours. The total value of these sales is $13.92 million. If these ETH were sold, the entity would make a profit of $2.693 million.It is reported that both addresses accumulated ETH between October 2024 and June 2025. The average cost of one address is $2940, and the average cost of the other address is $2977. They started selling in batches yesterday. So far, a total of 5540.76 ETH has been transferred to exchanges, with an approximate value of $20.09 million.</description>
-      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
+      <title>A whale has increased its holdings by 537.66 BTC over the past two weeks, worth over $60 million.</title>
+      <link>https://www.lookonchain.com/feeds/25694</link>
+      <description>Update, August 22nd: Based on the monitoring of OnchainLens, a whale received an additional 71 BTC from FalconX today, which is approximately worth $8.05 million. This whale has accumulated a total of 537.66 BTC in the past two weeks, with a total value of around $60.85 million.Address: bc1qgz8daweegcsqgkp7cc36jlkprt0n55cuqh7sgsr09st9fpnhvfxqccgtlw.</description>
+      <pubDate>Fri, 22 Aug 2025 04:44:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21912</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25694</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -87,35 +125,19 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+      <category>btc</category>
+      <category>bitcoin</category>
       <category>whale</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>US Stock Market closed on Friday with most Crypto Stocks falling, SBET down by 5.70%</title>
-      <link>https://www.lookonchain.com/feeds/21914</link>
-      <description>On July 26th, according to the market data of rockflow, the US stock market closed on Friday. The Dow rose by 208 points, the S&amp;P 500 rose by 0.4%, and the Nasdaq rose by 0.24%. Cryptocurrency stocks generally declined, including:Coinbase (COIN) decreased by 1.27%, with a trading volume of $3.388 billion.MicroStrategy (MSTR) decreased by 2.18%, with a trading volume of $3.404 billion.BTCS (BTCS) decreased by 5.58%, with a trading volume of $30.985 million.Bit Digital (BTBT) decreased by 2.48%, with a trading volume of $64.216 million.SharpLink Gaming (SBET) decreased by 5.70%, with a trading volume of $1.078 billion.Bitmine Immersion (BMNR) decreased by 4.67%, with a trading volume of $1.181 billion.</description>
-      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
+      <title>OKAY has dropped nearly 30% in the last 4 hours, bringing its market cap down to $9.57 million.</title>
+      <link>https://www.lookonchain.com/feeds/25693</link>
+      <description>On August 22nd, within a period of 4 hours, the X Layer ecosystem meme coin OKAY experienced a sharp decline of nearly 30%. Its market value dropped to $9.57 million, and the 24-hour trading volume reached $7.9 million.BlockBeats hereby reminds users: Meme coins are highly volatile. Please pay attention to asset protection.</description>
+      <pubDate>Fri, 22 Aug 2025 04:44:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21914</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Solana Ecosystem Meme Coin MEMECOIN briefly surged above $0.05 today, marking a 5325% gain in the last 7 days.</title>
-      <link>https://www.lookonchain.com/feeds/21913</link>
-      <description>On July 26th, according to GMGN market data, Solana&apos;s ecosystem Meme coin just memecoin (MEMECOIN) broke through $0.05 in the early hours of today. It is currently trading at $0.04917, with a 23.8% increase in the past 24 hours and a 5325% increase in the past 7 days. The market capitalization is currently $49.15 million, and the 24-hour trading volume is $17.07 million.BlockBeats Note: Meme coins often experience significant price volatility, which is usually driven by market sentiment and hype and lacks real value or use cases. Investors should be cautious of the risks involved.</description>
-      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21913</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25693</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -128,12 +150,12 @@
 
     </item>
     <item>
-      <title>The SharpLink address has transferred 145 million USDC to Galaxy, either for ETH accumulation or other purposes.</title>
-      <link>https://www.lookonchain.com/feeds/21910</link>
-      <description>On July 26th, as monitored by on-chain data analyst Yu Jin, the SharpLink address transferred the 145 million USDC received earlier today from the Circle address to the Galaxy Digital wallet. Previously, SharpLink Gaming mainly purchased ETH through Galaxy Digital, and this 145 million USDC may still be used to increase its ETH holdings.</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <title>Yesterday&apos;s US Ethereum Spot ETF Net Inflow: $2.876 billion</title>
+      <link>https://www.lookonchain.com/feeds/25697</link>
+      <description>On August 22nd, according to Farside data, yesterday the net inflow of the US Ethereum spot ETF was $287.6 million, bringing an end to a four-day net outflow trend. The specific details are as follows:The net inflow of ETHA was $233.6 million, the net inflow of FETH was $28.5 million, the net inflow of ETHW was $7 million, the net inflow of ETHV was $6.2 million, the net inflow of ETHE was $5.9 million, and the net inflow of Grayscale ETH was $6.4 million.</description>
+      <pubDate>Fri, 22 Aug 2025 04:44:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21910</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25697</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -145,16 +167,15 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>high-value</category>
-      <category>transfer</category>
 
     </item>
     <item>
-      <title>8 new addresses have amassed a total of 583,000 ETH since July 9.</title>
-      <link>https://www.lookonchain.com/feeds/21911</link>
-      <description>On July 26th, based on the monitoring of LookOnChain, 8 new addresses have witnessed an increase in their holdings by 42,788 ETH ($159 million) on this day. From July 9th onwards, these 8 new addresses have accumulated a total of 583,248 ETH (approximately $2.17 billion).</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <title>Yesterday, the US Spot Bitcoin ETF saw a net outflow of $1.944 billion</title>
+      <link>https://www.lookonchain.com/feeds/25696</link>
+      <description>On August 22nd, as per Farside&apos;s monitoring, yesterday the net outflow of the US spot Bitcoin ETF was $194.4 million, indicating the fifth consecutive day of net outflows. Here is the breakdown:The net outflow of IBIT was $127.5 million. The net outflow of ARKB was $43.3 million. The net outflow of FBTC was $31.8 million. The net inflow of EZBC was $3.2 million. And the net inflow of Grayscale BTC was $5.2 million.</description>
+      <pubDate>Fri, 22 Aug 2025 04:44:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21911</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25696</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -163,17 +184,18 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Crypto Fear &amp; Greed Index Slightly Rises to 72</title>
-      <link>https://www.lookonchain.com/feeds/21909</link>
-      <description>On July 26th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 72 (yesterday it was 70), and the &quot;greed&quot; sentiment in the market has rebounded slightly.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and incorporates the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <title>Solana ecosystem privacy protocol Vanish has completed a $1 million Pre-Seed round of funding, with Colosseum leading the investment.</title>
+      <link>https://www.lookonchain.com/feeds/25692</link>
+      <description>On August 22nd, the privacy protocol Vanish within the Solana ecosystem announced the completion of a $1 million Pre-Seed financing round. This financing round was led by Colosseum, and it saw the participation of Solana Ventures, Pivot Global, as well as multiple industry-leading angel investors including Solana co-founder toly.In Solana, every transaction requires a trade-off between privacy, compliance, and execution. Vanish enables instantaneous private execution, avoiding the risk of traders being exposed to front-runners or back-runners, thereby reducing the value of their strategies.</description>
+      <pubDate>Fri, 22 Aug 2025 03:44:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21909</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25692</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -182,25 +204,7 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The new address received an additional 13,696.8 ETH from Galaxy, pushing its total holdings to over 100,000 ETH.</title>
-      <link>https://www.lookonchain.com/feeds/21908</link>
-      <description>On July 26th, as per the monitoring of Onchain Lens, a fresh address once more received 13,696.8 ETH from Galaxy. This amount is valued at $49.97 million. Presently, the wallet holds 100,972 ETH, with a worth of $375.74 million.</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21908</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+      <category>high-value</category>
 
     </item>
   </channel>
