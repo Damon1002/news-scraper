@@ -5,14 +5,69 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 Aug 2025 03:58:43 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Aug 2025 03:58:43 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 04:30:55 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 04:30:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>复星财富控股成为星展银行代币化结构性票据分销商</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十报道，复星财富控股宣布已成为新加坡最大银行——星展银行的代币化结构性票据的分销商之一。据介绍，本次分销的代币化结构性票据产品为与加密货币挂钩的参与票据。当数字资产价格上涨时以现金支付收益，同时限制下行风险。</description>
+      <pubDate>Sat, 23 Aug 2025 04:20:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>以太坊基金会发布 Protocol 更新 002</title>
+      <link>https://www.techflowpost.com</link>
+      <description>以太坊基金会发布 Protocol 更新 002，介绍了数据可用性抽样（DAS）的研究进展，以及其对于安全可扩展的数据可用性（DA）扩展的重要性。内容更新包括：Fusaka 推出了 PeerDAS ，这是一种新的数据架构，允许 blob 扩展超越当今的吞吐量水平，从 6 个 blob/ 块到 48...</description>
+      <pubDate>Sat, 23 Aug 2025 04:15:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Radiant Capital 黑客再次卖出 3,931 枚 ETH，获利约 220 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上数据分析师余烬监测，Radiant Capital 黑客在过去两个小时里以 4,726 美元的价格卖出 3,931 枚 ETH 换成 1857 万 DAI。其数次波段操作如下：去年盗取 5300 万美元资金后，以 2,420 美元的价格买入 2.19 万枚 ETH 存储；8 月 14 日，以...</description>
+      <pubDate>Sat, 23 Aug 2025 04:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>昨日美国以太坊现货 ETF 净流入 3.37 亿美元，富达 FETH 净流入 1.179 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Farside Investors 监测，昨日美国以太坊现货 ETF 净流入 3.37 亿美元，其中：贝莱德 ETHA: + 1.094 亿美元富达 FETH: + 1.179 亿美元 Bitwise ETHW: + 3630 万美元富兰克林 EZET: + 550 万美元灰度 ETHE: +...</description>
+      <pubDate>Sat, 23 Aug 2025 03:59:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>昨日美国比特币现货 ETF 净流出 2320 万美元，贝莱德 IBIT 净流出 1.988 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Farside Investors 监测，昨日美国比特币现货 ETF 净流出 2320 万美元，其中：贝莱德 IBIT: - 1.988 亿美元富达 FBTC: + 5090 万美元 Bitwise BITB: + 1270 万美元 ARK ARKB: + 6570 万美元富兰克林 EZBC:...</description>
+      <pubDate>Sat, 23 Aug 2025 03:58:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>孙宇晨荣获 2025 年 Asia FinTech Awards 年度创新者大奖</title>
       <link>https://www.techflowpost.com</link>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 The Block 报道，资产管理公司 Grayscale、Bitwise、Canary、CoinShares、Franklin、21Shares 和 WisdomTree 提交了 XRP 现货 ETF 的 S-1 修订文件。更新后的文件改变了部分基金的结构，允许 XRP 或现金的创建以及现金...</description>
       <pubDate>Sat, 23 Aug 2025 00:58:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>以太坊 PoS 网络退出队列升至约 85.5 万枚，加入队列降至约 19.8 万枚</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据验证者队列追踪网站 validatorqueue 数据，当前以太坊 PoS 网络退出队列暂报 855,534 枚，按当前价格计算正在退出 PoS 网络的 ETH 约合 41.16 亿美元，提款延迟现报 14 天 20 小时。与此同时，新验证者激活的质押需求稍有减少，今日准入队列升至 198,20...</description>
-      <pubDate>Sat, 23 Aug 2025 00:51:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美国政府购入英特尔 10% 股份，总投资额约 89 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>美国商务部长卢特尼克发文称：“美国现已持有英特尔 10%的股份，英特尔是美国顶尖科技公司之一。这项具有历史意义的协议将巩固美国在半导体领域的领先地位，这不仅能推动经济增长，还有助于确保美国的技术优势。感谢英特尔首席执行官陈立武达成这项对英特尔和美国民众均公平合理的协议。”英特尔方面表示，美国政府以...</description>
-      <pubDate>Sat, 23 Aug 2025 00:47:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Jump Crypto 提出双流批量拍卖（DFBA）机制，旨在解决传统 CLOBs 在区块链上的挑战</title>
-      <link>https://www.techflowpost.com</link>
-      <description>做市商 Jump Crypto 研究团队发文提出一种新的交易机制 Dual Flow Batch Auction（DFBA，双流批量拍卖），旨在解决传统连续限价订单簿（CLOBs）在区块链上的挑战。据悉，CLOBs 依赖连续匹配和时间优先机制，导致延迟套利、MEV（矿工可提取价值）问题以及不利交易...</description>
-      <pubDate>Sat, 23 Aug 2025 00:39:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美联储穆萨勒姆：若就业市场风险加剧，政策利率或需调整</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十报道，美联储穆萨勒姆表示，应着眼于整个利率路径，而不仅仅是某次会议的利率决定。通胀已高于目标水平，且存在持续风险。下一份就业报告可能足以证明需要降息，也可能不足以，这取决于报告的具体内容。美联储政策适度收紧。需更多数据，并将一直调整利率路径展望，直至 9 月会议。就业市场风险正在上升，但尚未...</description>
-      <pubDate>Sat, 23 Aug 2025 00:32:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某地址滚仓做多 ETH，目前仓位价值 1.2 亿美元，浮盈 550 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上数据分析师余烬监测，随着 ETH 突破新高，某地址通过 ETH 滚仓做多将 $74 万变成了 $616 万，浮盈 $550 万。 经过他不断的用浮盈加仓，持仓 ETH 从昨天早上刚开仓时的 4,000 枚滚到 2.51 万枚，仓位价值 $1.2 亿。 过程：$12.5 万滚仓做多 ETH 做...</description>
-      <pubDate>Sat, 23 Aug 2025 00:30:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
