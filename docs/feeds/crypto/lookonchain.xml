@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Aug 2025 23:51:44 +0000</lastBuildDate>
-    <pubDate>Fri, 22 Aug 2025 23:51:44 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 00:50:51 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 00:50:51 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,86 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Ethereum PoS Network Exit Queue Rises to around 855,000 ETH, Join Queue Drops to around 198,000 ETH</title>
+      <link>https://www.lookonchain.com/feeds/25867</link>
+      <description>Update: On August 23rd. Based on the data from the Validator Queue tracking website, validatorqueue, it is reported that the current exit queue of the Ethereum PoS network is 855,534 ETH. At the current price, the ETH exiting the PoS network is approximately $41.16 billion, and the withdrawal delay is currently 14 days and 20 hours.Meanwhile, the staking demand for new validators has witnessed a slight decrease. The admission queue for today has increased to 198,202 ETH, which is worth around $9.53 billion, and the current queuing time is 3 days and 11 hours.</description>
+      <pubDate>Sat, 23 Aug 2025 00:48:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25867</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>In the last 12 hours, the total network saw $526 million in liquidations, with Ethereum accounting for $315 million.</title>
+      <link>https://www.lookonchain.com/feeds/25866</link>
+      <description>On August 23rd, based on Coinglass data, within the past 12 hours, the total position liquidation across the network reached $526 million. The long liquidations amounted to $96.9 million, while the short liquidations totaled $429 million. Ethereum witnessed $315 million in liquidations, which was more than four times the amount of Bitcoin liquidations ($74.01 million) during the same period.</description>
+      <pubDate>Sat, 23 Aug 2025 00:40:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25866</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Ecosystem Sees Across-the-Board Rally, Staking Leading the Way</title>
+      <link>https://www.lookonchain.com/feeds/25865</link>
+      <description>On August 23rd, according to HTX market data, Ethereum reached a brand new all-time high, leading the entire Ethereum ecosystem to experience a significant surge:Staking Track: SSV increased by 25% in the past 24 hours, and LDO rose by 21% in the past 24 hours.Mainstream Ecosystem: ENA went up by 18% in the past 24 hours, and AAVE increased by 14% in the past 24 hours.Layer 2 Track: ARB rose by 17% in the past 24 hours.</description>
+      <pubDate>Sat, 23 Aug 2025 00:16:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25865</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Cryptocurrency Total Market Cap Reaches $4.1 Trillion Again, Up 6.1% in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/25864</link>
+      <description>August 23rd: According to market data, the total market capitalization of the crypto industry has witnessed a 6.1% increase in the past 24 hours and has returned to $4.1 trillion.</description>
+      <pubDate>Sat, 23 Aug 2025 00:07:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25864</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The Trump Family project WLFI will launch on Ethereum on September 1st, with the first two rounds of fundraising unlocking 20% for investors.</title>
       <link>https://www.lookonchain.com/feeds/25863</link>
       <description>On August 23rd, the Trump family&apos;s project World Liberty Finance (WLFI) is planned to be launched on Ethereum on September 1st and will be open for claiming and trading.The early supporters (in the 0.015 and 0.05 USD rounds) will have 20% unlocked, and the remaining 80% will be determined by community vote. Tokens for the founding team, advisors, and partners will not be unlocked.Trading will start at 8 p.m. Beijing time on September 1st and will initiate the claim for 20% of the allocation. It is a two-step claim process that users need to complete on the official website:Step 1 (before September 1st): Activate the locking contract on the official website (this action will transfer WLFI to the unlocking contract);Step 2 (8 p.m. on September 1st and later): Claim 20% of the unlocked tokens.</description>
-      <pubDate>Fri, 22 Aug 2025 23:08:52 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 22:49:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25863</guid>
       <category>crypto</category>
@@ -36,7 +112,7 @@
       <title>Ethereum Hits $4887, Reaches New All-Time High After 44 Months</title>
       <link>https://www.lookonchain.com/feeds/25862</link>
       <description>On August 23rd, Ethereum reached $4,887, experiencing a 14% increase within 24 hours and hitting a new all-time high. This price level was last observed 44 months ago. With a market capitalization surpassing $586 billion, Ethereum now stands at the 25th position in the total market capitalization of global technology companies, outranking well-known companies like Mastercard and Netflix.</description>
-      <pubDate>Fri, 22 Aug 2025 21:50:52 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 21:49:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25862</guid>
       <category>crypto</category>
@@ -56,7 +132,7 @@
       <title>U.S. Stock Market Close: Three Major Indexes Close Higher, SBET Up 15.69%</title>
       <link>https://www.lookonchain.com/feeds/25861</link>
       <description>On August 23rd, the U.S. stock market closed on Friday. The Dow initially rose by 1.89%, the S&amp;P 500 rose by 1.52%, and the Nasdaq Composite rose by 1.88%. Google (GOOG.O) increased by 3.17% and Intel (INTC.O) rose by 5.53%. Regarding cryptocurrency-related stocks, MSTR went up by 6.09%, SBET rose by 15.69%, BMNR rose by 11.86%, and COIN increased by 6.52%.</description>
-      <pubDate>Fri, 22 Aug 2025 19:50:52 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 19:49:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25861</guid>
       <category>crypto</category>
@@ -73,7 +149,7 @@
       <title>Fitch: Affirms U.S. &apos;AA+&apos; Rating, Outlook Stable</title>
       <link>https://www.lookonchain.com/feeds/25860</link>
       <description>On August 23rd, Fitch Ratings has recently affirmed the United States&apos; rating as &quot;AA+&quot; with a stable outlook. Fitch pointed out that the U.S. sovereign rating benefits from its large economic scale, high per capita income, vibrant business environment, and the special financing flexibility brought by the U.S. dollar serving as the global primary reserve currency.Nevertheless, this rating is restricted by high fiscal deficits, a heavy interest burden, and a high and ascending government debt level. The United States has not yet taken significant actions to address its large fiscal imbalances, the growing debt burden, and the imminent expenditure growth related to an aging population.Fitch forecasts that driven by a substantial increase in revenue, the government deficit as a percentage of GDP is anticipated to decline from 7.7% in 2024 to 6.9% in 2025, then rise to 7.8% of GDP in 2026, and further increase to 7.9% of GDP in 2027. (FX678)</description>
-      <pubDate>Fri, 22 Aug 2025 19:50:52 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 19:49:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25860</guid>
       <category>crypto</category>
@@ -90,7 +166,7 @@
       <title>If the whale &quot;sets 10 large targets&quot; and the Ethereum longs remain unchanged, the unrealized gain will amount to $12.45 million.</title>
       <link>https://www.lookonchain.com/feeds/25859</link>
       <description>On August 23rd, if the &quot;Top 10 Goals First&quot; long position of Whale in Ethereum remains unchanged, its over 31,000 ETH long position in Ethereum opened with 5x leverage may achieve a profit of $12.45 million. Its initial margin is $27.26 million, and the entry price is $4,399.13, with the liquidation price being $2,655.41.Previously reported by BlockBeats, on August 16th, according to the &quot;Top 10 Goals First&quot; of Whale. A position screenshot shared today at 20:24 showed that at an entry price of $4,399.13, Whale opened a long position of over 31,000 ETH with 5x leverage, and the liquidation price is $2,655.41, currently facing a loss of more than $640,000.</description>
-      <pubDate>Fri, 22 Aug 2025 18:50:52 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 18:49:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25859</guid>
       <category>crypto</category>
@@ -108,83 +184,12 @@
 
     </item>
     <item>
-      <title>「Big Brother Whale」 Liquidates YZY Longs, Losing $529,000</title>
-      <link>https://www.lookonchain.com/feeds/25857</link>
-      <description>On August 23rd, based on on-chain data, &quot;Brother Ma&quot; Huang Licheng has liquidated his YZY long position, incurring a loss of $529,000. Currently, he only holds ETH and HYPE long positions, with an overall unrealized profit of more than $3.6 million.His PUMP long position was closed with a loss of $52,000, and his BTC long position was closed with a loss of $29,000.</description>
-      <pubDate>Fri, 22 Aug 2025 18:50:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25857</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>BAND Surges Over 47% in 24 Hours, Market Cap Reaches $167 Million</title>
-      <link>https://www.lookonchain.com/feeds/25856</link>
-      <description>On August 23rd, based on HTX market data, BAND saw a surge of more than 47% in the past 24 hours. It is currently trading at $1.219 and has a market capitalization of $167 million.</description>
-      <pubDate>Fri, 22 Aug 2025 18:50:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25856</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Powell&apos;s &quot;Dovish&quot; Tone Loud and Clear, Probability of Fed Rate Cut in September Rises to 85.2%</title>
       <link>https://www.lookonchain.com/feeds/25858</link>
       <description>On August 23rd, Federal Reserve Chairman Powell said that the continuously &quot;evolving&quot; economic risks have given the Fed a more compelling reason to cut interest rates. This statement shows that Powell has joined the &quot;dovish&quot; camp within the Federal Open Market Committee responsible for setting rates, and it also implies that he may signal his support for a 25-basis-point rate cut at the Fed&apos;s next meeting in September.According to CME FedWatch, the likelihood of a 25-basis-point rate cut by the Fed in September has increased to 85.2% (from around 75% before Powell&apos;s speech), while the probability of rates remaining unchanged is 14.8%.</description>
-      <pubDate>Fri, 22 Aug 2025 18:50:52 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2025 18:49:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25858</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The SEC Crypto Enforcement Group is currently conducting a roadshow, organizing a roundtable discussion, and listening to perspectives from representatives in the crypto space.</title>
-      <link>https://www.lookonchain.com/feeds/25855</link>
-      <description>On August 23rd, as per official information, the Cryptocurrency Special Task Force of the U.S. Securities and Exchange Commission (SEC) is carrying out a national roadshow and hosting a series of roundtable discussions. The Cryptocurrency Special Task Force desires to listen to those who were unable to attend the roundtable meetings held in Washington, D.C. in the past, as well as the voices that may have been historically underrepresented in other policy-making processes. The task force is fully aware that any regulatory framework will have extensive implications, and thus it aims to ensure that communication and engagement are as comprehensive as possible. The schedule for the Cryptocurrency Task Force&apos;s roadshow is as follows:August 4th: Berkeley, CaliforniaAugust 19th: BostonSeptember 4th: DallasSeptember 15th: ChicagoSeptember 25th: New York CityOctober 2nd: Los AngelesOctober 24th: ClevelandOctober 29th: Scottsdale, ArizonaNovember 12th: New York CityDecember 5th: Ann</description>
-      <pubDate>Fri, 22 Aug 2025 18:50:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25855</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Barclays: The Fed is expected to begin cutting interest rates in September, previously anticipated in December</title>
-      <link>https://www.lookonchain.com/feeds/25854</link>
-      <description>August 23rd - The cross-border financial services provider Barclays announced that it anticipates the Fed to commence cutting interest rates in September. This is earlier than the previous anticipation of December. (FXStreet)</description>
-      <pubDate>Fri, 22 Aug 2025 18:50:52 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25854</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
