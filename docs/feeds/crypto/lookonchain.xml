@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 Aug 2025 03:15:19 +0000</lastBuildDate>
-    <pubDate>Sat, 23 Aug 2025 03:15:19 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 03:46:59 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 03:46:59 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,96 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>After 3 years of dormancy, a certain whale address transferred 3500 BTC, realizing a profit of $305 million.</title>
+      <link>https://www.lookonchain.com/feeds/25893</link>
+      <description>On August 23rd, as per the monitoring of LookOnChain, a whale address that had been dormant for 3 years transferred 3,500 BTC (approximately $408 million) to a new address 10 hours ago.Three years ago, this address withdrew 3,500 BTC from Gemini. At that time, the value was approximately $103 million, with an average withdrawal price of $29,620. As a result, it achieved a profit of $305 million (+294%).</description>
+      <pubDate>Sat, 23 Aug 2025 03:40:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25893</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>transfer</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>「Bitcoin Ancient Whale」 sold another 300 BTC to increase their ETH position 1 hour ago</title>
+      <link>https://www.lookonchain.com/feeds/25892</link>
+      <description>August 23rd. As per the monitoring of LookOnChain, a whale or institution that has held 10,606 BTC for 7 years has achieved a profit of $1.12 billion. One hour ago, they once again transferred 300 BTC (approximately $34.86 million) to sell on Hyperliquid with the intention of switching to ETH.Currently, they hold a long position of 135,265 ETH (approximately $581 million), with an average entry price of $4,295, indicating a profit of $58 million. They purchased 122,226 ETH (approximately $535 million) in spot transactions at an average price of $4,377, realizing a profit of $42 million.</description>
+      <pubDate>Sat, 23 Aug 2025 03:24:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25892</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>「$125,000 ETH Long Position Liquidation」 Whale Once on the Verge of Liquidation but Did Not Reduce Position</title>
+      <link>https://www.lookonchain.com/feeds/25891</link>
+      <description>On August 23rd, as monitored by on-chain data analyst Yu Jin, the &quot;125k USD Long ETH Liquidation&quot; whale was on the verge of liquidation during the recent pullback, with a liquidation price of 4666.6 USD. Nevertheless, the lowest price on Hyperliquid during the recent dip was 4667.5 USD. The trader did not reduce their position and is currently sitting on an unrealized profit of 3.02 million USD.</description>
+      <pubDate>Sat, 23 Aug 2025 03:17:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25891</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The US Ethereum Spot ETF&apos;s total assets under management have surpassed $30 billion for the first time, with the holdings representing 5.36% of the circulating supply.</title>
+      <link>https://www.lookonchain.com/feeds/25890</link>
+      <description>On August 23rd, based on the data from strategicethreserve, the total scale of the US Ethereum spot ETF has reached over 30 billion US dollars for the first time. At the time of writing, it has reached 6.48 million ETH (approximately 30.37 billion US dollars), accounting for 5.36% of the total Ethereum circulation.</description>
+      <pubDate>Sat, 23 Aug 2025 03:16:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25890</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Tom Lee: Ethereum Market Cap Has a High Probability of Surpassing Bitcoin</title>
       <link>https://www.lookonchain.com/feeds/25889</link>
       <description>On August 23rd, Tom Lee, the newly appointed Chairman of the Board of BitMine, stated in an interview: &quot;I think there is a very high possibility, perhaps as high as 50%, that Ethereum&apos;s market capitalization will exceed Bitcoin&apos;s.&quot;</description>
-      <pubDate>Sat, 23 Aug 2025 03:08:26 +0000</pubDate>
+      <pubDate>Sat, 23 Aug 2025 03:08:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25889</guid>
       <category>crypto</category>
@@ -38,7 +124,7 @@
       <title>ETH/BTC rose to 0.0418 this morning, marking a 135% cumulative increase from the April 22nd low.</title>
       <link>https://www.lookonchain.com/feeds/25888</link>
       <description>On August 23rd, based on HTX market data, with Ethereum reaching a new all-time high this morning, the ETH/BTC exchange rate also rose to a high of 0.0418, returning to the level it last saw in December of last year. It has surged by 135% from the low on April 22nd and is currently trading at 0.0405.</description>
-      <pubDate>Sat, 23 Aug 2025 02:48:26 +0000</pubDate>
+      <pubDate>Sat, 23 Aug 2025 02:48:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25888</guid>
       <category>crypto</category>
@@ -56,10 +142,28 @@
 
     </item>
     <item>
+      <title>A whale address withdrew 315,000 UNI from Binance 10 minutes ago.</title>
+      <link>https://www.lookonchain.com/feeds/25885</link>
+      <description>On August 23, as per the monitoring of Onchain Lens, a whale address withdrew 315,529 UNI from Binance 10 minutes ago. The value of this withdrawal is $3.55 million. Currently, this address holds a total of 814,724 UNI, with a worth of $9.17 million.</description>
+      <pubDate>Sat, 23 Aug 2025 02:46:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25885</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+
+    </item>
+    <item>
       <title>Due to the upcoming launch of WLFI, WLFI Treasury&apos;s ALTS stock surged another 12% in after-hours trading.</title>
       <link>https://www.lookonchain.com/feeds/25887</link>
       <description>On August 23rd, based on market data, perhaps affected by the news that &quot;World Liberty Finance (WLFI) is going to be launched for claiming and trading on September 1st&quot;, the U.S. stock of the WLFI treasury company ALT5 Sigma (ALTS) surged by another 12% in after-hours trading (it had already increased by 19.13% at the close), and it is now trading at $7.36.</description>
-      <pubDate>Sat, 23 Aug 2025 02:40:26 +0000</pubDate>
+      <pubDate>Sat, 23 Aug 2025 02:46:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25887</guid>
       <category>crypto</category>
@@ -76,7 +180,7 @@
       <title>Bitcoin Retreats Below $116,000</title>
       <link>https://www.lookonchain.com/feeds/25886</link>
       <description>On August 23rd, according to HTX market data, Bitcoin dropped below $116,000 and is currently trading at $115,979, with a 24-hour price change narrowing to 2.17%.</description>
-      <pubDate>Sat, 23 Aug 2025 02:33:26 +0000</pubDate>
+      <pubDate>Sat, 23 Aug 2025 02:46:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25886</guid>
       <category>crypto</category>
@@ -93,28 +197,10 @@
 
     </item>
     <item>
-      <title>A whale address withdrew 315,000 UNI from Binance 10 minutes ago.</title>
-      <link>https://www.lookonchain.com/feeds/25885</link>
-      <description>On August 23, as per the monitoring of Onchain Lens, a whale address withdrew 315,529 UNI from Binance 10 minutes ago. The value of this withdrawal is $3.55 million. Currently, this address holds a total of 814,724 UNI, with a worth of $9.17 million.</description>
-      <pubDate>Sat, 23 Aug 2025 02:32:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25885</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
       <title>US Stock Meme Coin Treasury Company Stocks Surge, BMNR, SBET, BNC, and Others Up Over 10%</title>
       <link>https://www.lookonchain.com/feeds/25884</link>
       <description>On August 23rd, based on market data, the U.S. stock market closed on Friday. The Dow increased by 1.89%, the S&amp;P 500 rose by 1.52%, and the Nasdaq Composite Index went up by 1.88%. Cryptocurrency stocks generally showed an upward trend, with particularly significant gains in meme coin treasury company stocks:Coinbase (COIN) rose by 6.52%, with a trading volume of $4.126 billion.Circle (CRCL) rose by 2.46%, with a trading volume of $1.846 billion.MicroStrategy (MSTR) rose by 6.09%, with a trading volume of $6.142 billion.Bullish (BLSH) rose by 1.46%, with a trading volume of $510 million.Bitmine (BMNR) rose by 12.07%, with a trading volume of $4.407 billion.BTCS (BTCS) rose by 11.83%, with a trading volume of $25.893 million.SharpLink Gaming (SBET) rose by 15.69%, with a trading volume of $1.718 billion.Bit Digital (BTBT) rose by 5.88%, with a trading volume of $58.718 million.BNB Network Company (BNC) rose by 18.73%, with a trading volume of $8.803 million.ALT5 Sigma (ALTS)</description>
-      <pubDate>Sat, 23 Aug 2025 02:32:26 +0000</pubDate>
+      <pubDate>Sat, 23 Aug 2025 02:46:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/25884</guid>
       <category>crypto</category>
@@ -125,76 +211,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>BNB Surges Above $900 This Morning, Setting a New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/25883</link>
-      <description>On August 23rd, based on market data, BNB briefly exceeded $900 this morning, reaching a peak of $900.71 and hitting a new all-time high, with a 24-hour price increase of 4.29%.</description>
-      <pubDate>Sat, 23 Aug 2025 02:16:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25883</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Viewpoint: The Crypto Treasury Company Craze is Fading, Excess Returns Hard to Replicate</title>
-      <link>https://www.lookonchain.com/feeds/25882</link>
-      <description>On August 23rd, Adam Reeds, the co-founder and CEO of Ledn, believes that the recent market trends suggest that the enthusiasm for coin hoarding among digital asset treasury companies is reaching a turning point.Adam Reeds stated that Bitcoin treasury companies were once a revolutionary innovation in the industry, but the ability to achieve a 3x return may be fading. Over the past five years, MicroStrategy has witnessed a 24x increase, while Bitcoin has seen a 10x increase, making it difficult to replicate such excessive returns.Adam Reeds believes that the signs of the past week indicate that the crypto treasury fever, mainly following the Strategy model, is cooling down. The total market value of DAT companies has dropped below $150 billion, and the cumulative market value of the Bitcoin treasury has decreased from $165 billion a month ago to $134 billion (even though Bitcoin&apos;s price has been relatively stable). The stock price of Strategy has also fallen from a high of $455 in J</description>
-      <pubDate>Sat, 23 Aug 2025 02:14:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25882</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ondo Finance to Launch Tokenized Stocks on September 3rd</title>
-      <link>https://www.lookonchain.com/feeds/25881</link>
-      <description>On August 23rd, according to official information, Ondo Finance is scheduled to launch tokenized stocks on September 3rd.</description>
-      <pubDate>Sat, 23 Aug 2025 02:14:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25881</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Pendle TVL Surpasses $10 Billion, Achieves New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/25880</link>
-      <description>On August 23rd, TN Lee, a co-founder of Pendle, announced that the TVL of Pendle has exceeded 10 billion USD, reaching a new record high.TN Lee pointed out that Pendle&apos;s rapid and strong growth from a niche experiment to a cornerstone of DeFi is mainly attributed to the community.The 10 billion USD TVL is not the end of the growth, and Pendle is confident in achieving even greater success.</description>
-      <pubDate>Sat, 23 Aug 2025 02:14:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/25880</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
