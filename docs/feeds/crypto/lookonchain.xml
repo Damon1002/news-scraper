@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 23:29:54 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 23:29:54 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 23:44:00 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 23:44:00 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,28 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>In the past 24 hours, the entire network has seen $628 million in liquidations, with over 130,000 people being liquidated.</title>
+      <link>https://www.lookonchain.com/feeds/26062</link>
+      <description>On August 25th, based on Coinglass data, the total liquidation across the entire network within the past 24 hours was $628 million. The long liquidations totaled $459 million, and the short liquidations totaled $168 million.A total of 139,847 individuals were liquidated. The largest single liquidation took place on OKX - BTC-USDT-SWAP, amounting to $12.4876 million.</description>
+      <pubDate>Sun, 24 Aug 2025 23:40:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26062</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Two Bitcoin Ancient Whales Have Sold Over 18,000 BTC Combined, Now Holding Over 550,000 ETH in Exposure</title>
       <link>https://www.lookonchain.com/feeds/26061</link>
       <description>On August 25th, according to the monitoring of mlm, two Bitcoin ancient whales (possibly the same entity) have sold 18,142 BTC, which is valued at $2.04 billion at the current price.The entity is selling the remaining 5,968 BTC (worth $670 million), and 4,968 BTC (worth $678 million) is still outside of Hyperliquid. So far, the entity has purchased a total of 416,598 ETH (currently valued at $1.98 billion), and it is long 135,263 ETH (worth $642 million) on perpetual contracts. The total ETH exposure is 551,861 ETH, valued at $2.62 billion.Among the 416,598 ETH (valued at $1.98 billion), 275,500 ETH (worth $1.3 billion) has been staked.</description>
-      <pubDate>Sun, 24 Aug 2025 20:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 20:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26061</guid>
       <category>crypto</category>
@@ -39,7 +57,7 @@
       <title>In the past 1 hour, the entire network has seen $299 million in liquidations, with short positions accounting for $18.09 million in liquidations.</title>
       <link>https://www.lookonchain.com/feeds/26058</link>
       <description>On August 25th, according to Coinglass data, within the past 1 hour, the total value of liquidations across the entire network amounted to $299 million. There were $280 million in long liquidations and $18.0926 million in short liquidations. Bitcoin witnessed $202 million in liquidations, while Ethereum saw $45.4531 million in liquidations.</description>
-      <pubDate>Sun, 24 Aug 2025 19:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 19:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26058</guid>
       <category>crypto</category>
@@ -57,7 +75,7 @@
       <title>Bitcoin Experiences Short-Term Dip Below $112,000 With a &quot;Needle Pin&quot; Pattern</title>
       <link>https://www.lookonchain.com/feeds/26060</link>
       <description>On August 25th, based on HTX market data, Bitcoin briefly fell below $112,000 and plunged to a low of $110,680 before rebounding to $112,670, with a 24-hour decline of 2.06%.</description>
-      <pubDate>Sun, 24 Aug 2025 19:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 19:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26060</guid>
       <category>crypto</category>
@@ -77,7 +95,7 @@
       <title>Ethereum Temporarily Drops Below $4750</title>
       <link>https://www.lookonchain.com/feeds/26059</link>
       <description>On August 25th, based on HTX market data, Ethereum briefly fell below $4,750 and is now recovering to $4,804. The 24-hour gain has narrowed to 1.26%.</description>
-      <pubDate>Sun, 24 Aug 2025 19:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 19:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26059</guid>
       <category>crypto</category>
@@ -97,7 +115,7 @@
       <title>A Two-Bitcoin Ancient Whale Stakes 275,500 ETH, Worth $1.3 Billion</title>
       <link>https://www.lookonchain.com/feeds/26056</link>
       <description>On August 25th, based on on-chain data, a two-bitcoin ancient whale has staked all the ETH it obtained from selling BTC in the past four days to increase its holdings. The total stake is 275,500 ETH, which is worth $1.3 billion.</description>
-      <pubDate>Sun, 24 Aug 2025 17:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 17:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26056</guid>
       <category>crypto</category>
@@ -120,7 +138,7 @@
       <title>Ethereum Breaks $4900, Hits New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/26057</link>
       <description>On August 25th, based on HTX market data, Ethereum surpassed $4900 and reached a new all-time high with a 24-hour percentage change of 3.27%.</description>
-      <pubDate>Sun, 24 Aug 2025 17:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 17:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26057</guid>
       <category>crypto</category>
@@ -140,7 +158,7 @@
       <title>Galaxy Digital Founder Reveals Holding HYPE Long Position</title>
       <link>https://www.lookonchain.com/feeds/26055</link>
       <description>On August 25th, Mike Novogratz, the founder and CEO of Galaxy Digital, responded to Ryan Watkins, the co-founder of Syncracy Capital. Watkins tweeted about &quot;the BTC spot trading volume of the Hyperliquid platform in the past 24 hours exceeding the sum of Coinbase and Bybit.&quot; Novogratz said, &quot;Impressive work. For full disclosure, we hold a long position in the HYPE token.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 16:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 16:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26055</guid>
       <category>crypto</category>
@@ -157,7 +175,7 @@
       <title>Analyst: If ETH&apos;s weekly closing price holds above $4600, it may further rise to $5200 to $5500.</title>
       <link>https://www.lookonchain.com/feeds/26054</link>
       <description>On August 25th, as per Cointelegraph, analyst BitBull stated, &quot;ETH is trying to achieve a weekly close above $4,600. If it succeeds, this will be an important confirmation that this is not a bull trap.&quot;He also pointed out: &quot;If ETH can manage to close above $4,600 on a weekly basis, it will set a new all-time high for the weekly closing price. Meanwhile, this will lay the foundation for the next upward phase, with a target price of $5,200 - $5,500 in the next week.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 16:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26054</guid>
       <category>crypto</category>
@@ -177,7 +195,7 @@
       <title>Bitcoin Magazine CEO: There Will Be No More Bitcoin Bear Markets in the Coming Years</title>
       <link>https://www.lookonchain.com/feeds/26053</link>
       <description>On August 24th, David Bailey, the CEO of Bitcoin Magazine, posted on social media, saying, &quot;There will be no more Bitcoin bear markets in the following years. Each sovereign nation, bank, insurance company, corporation, pension fund, and other institutions will eventually hold Bitcoin. This process has officially commenced, and we have not even captured 0.01% of the total market size yet. Bitcoin&apos;s price will continue to rise even higher.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 15:29:01 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:43:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26053</guid>
       <category>crypto</category>
@@ -190,23 +208,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Letsbonk, Meteora DBC in the Top Three</title>
-      <link>https://www.lookonchain.com/feeds/26052</link>
-      <description>On August 24th, according to the Jupiter Data Dashboard, in the past 24 hours within the Solana launchpad market share ranking, pump.fun held the top position with 76.8%, Letsbonk came in second with 8.43%, and Meteora DBC took the third place with 8.2%.</description>
-      <pubDate>Sun, 24 Aug 2025 15:29:01 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26052</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
