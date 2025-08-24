@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 03:57:08 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 03:57:08 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 04:31:27 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 04:31:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某比特币 OG 向 Hyperliquid 存入价值约 1.47 亿美元的比特币，持续换仓为 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，一比特币早期持有者在过去 3 小时内向 Hyperliquid 平台存入了 1,276 个比特币，价值约 1.47 亿美元，用于购买以太坊。目前，该持有者持有 221,600 枚以太坊，总价值约 10.6 亿美元。</description>
+      <pubDate>Sun, 24 Aug 2025 04:22:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>“从Coinbase用户处窃取资金的黑客”过去 1 小时内买入 3.8 万余枚 SOL，均价 208.7 美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，“从 Coinbase 用户处窃取资金的黑客”在过去 1 小时里，把 795.7 万 DAI 换成 USDC 后跨链到 Solana，然后买成了 38,126 枚 SOL，购买价格 208.7 美元。这名黑客：5 月，出售 26,347 枚 ETH 换成 ...</description>
+      <pubDate>Sun, 24 Aug 2025 04:07:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>BTC 短时跌破 115,000 美元，24 小时跌幅 0.69 %</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Liquid Capital 创始人易理华在 X 平台发文表示：“正如我们预计的一样，ETH 突破历史新高后，下一步目标冲 BTC 汇率新高，ETH 的目标就是 1 万以上，降息周期中 ETH 一直跑赢 BTC，同时迎来主流币轮涨行情(分 ETH 生态龙头 ENA，AAVE，Pendle，UN...</description>
       <pubDate>Sat, 23 Aug 2025 14:55:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析师：Aave 将获总供应量 7% 的 WLFI 代币，AAVE 短时突破 385 USDT</title>
-      <link>https://www.techflowpost.com</link>
-      <description>链上分析师 Ai 姨（@ai_9684xtpa）分析称，此前发布的提案显示，Aave 作为 WLFI 借贷生态合作伙伴，WLFI 在该 Aave v3 实例中将采用与主 Aave 实例相同的储备因子机制。AaveDAO 将获得由 WLFI Aave v3 实例所产生的 20% 协议费用，并将获得约...</description>
-      <pubDate>Sat, 23 Aug 2025 14:45:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 现已上线 WLFI 盘前交易与合约交易</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，Bitget 现已上线盘前交易与合约交易，杠杆区间 1-25 倍。</description>
-      <pubDate>Sat, 23 Aug 2025 14:12:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
