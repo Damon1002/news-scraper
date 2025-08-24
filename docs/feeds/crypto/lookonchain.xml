@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 19:58:55 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 19:58:55 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 20:28:50 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 20:28:50 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -17,7 +17,7 @@
       <title>Bitcoin Experiences Short-Term Dip Below $112,000 With a &quot;Needle Pin&quot; Pattern</title>
       <link>https://www.lookonchain.com/feeds/26060</link>
       <description>On August 25th, based on HTX market data, Bitcoin briefly fell below $112,000 and plunged to a low of $110,680 before rebounding to $112,670, with a 24-hour decline of 2.06%.</description>
-      <pubDate>Sun, 24 Aug 2025 19:49:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 19:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26060</guid>
       <category>crypto</category>
@@ -37,7 +37,7 @@
       <title>In the past 1 hour, the entire network has seen $299 million in liquidations, with short positions accounting for $18.09 million in liquidations.</title>
       <link>https://www.lookonchain.com/feeds/26058</link>
       <description>On August 25th, according to Coinglass data, within the past 1 hour, the total value of liquidations across the entire network amounted to $299 million. There were $280 million in long liquidations and $18.0926 million in short liquidations. Bitcoin witnessed $202 million in liquidations, while Ethereum saw $45.4531 million in liquidations.</description>
-      <pubDate>Sun, 24 Aug 2025 19:49:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 19:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26058</guid>
       <category>crypto</category>
@@ -55,29 +55,9 @@
       <title>Ethereum Temporarily Drops Below $4750</title>
       <link>https://www.lookonchain.com/feeds/26059</link>
       <description>On August 25th, based on HTX market data, Ethereum briefly fell below $4,750 and is now recovering to $4,804. The 24-hour gain has narrowed to 1.26%.</description>
-      <pubDate>Sun, 24 Aug 2025 19:49:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 19:48:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26059</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Breaks $4900, Hits New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/26057</link>
-      <description>On August 25th, based on HTX market data, Ethereum surpassed $4900 and reached a new all-time high with a 24-hour percentage change of 3.27%.</description>
-      <pubDate>Sun, 24 Aug 2025 17:58:02 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26057</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -95,7 +75,7 @@
       <title>A Two-Bitcoin Ancient Whale Stakes 275,500 ETH, Worth $1.3 Billion</title>
       <link>https://www.lookonchain.com/feeds/26056</link>
       <description>On August 25th, based on on-chain data, a two-bitcoin ancient whale has staked all the ETH it obtained from selling BTC in the past four days to increase its holdings. The total stake is 275,500 ETH, which is worth $1.3 billion.</description>
-      <pubDate>Sun, 24 Aug 2025 16:58:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 17:27:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26056</guid>
       <category>crypto</category>
@@ -115,10 +95,30 @@
 
     </item>
     <item>
+      <title>Ethereum Breaks $4900, Hits New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/26057</link>
+      <description>On August 25th, based on HTX market data, Ethereum surpassed $4900 and reached a new all-time high with a 24-hour percentage change of 3.27%.</description>
+      <pubDate>Sun, 24 Aug 2025 17:27:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26057</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Galaxy Digital Founder Reveals Holding HYPE Long Position</title>
       <link>https://www.lookonchain.com/feeds/26055</link>
       <description>On August 25th, Mike Novogratz, the founder and CEO of Galaxy Digital, responded to Ryan Watkins, the co-founder of Syncracy Capital. Watkins tweeted about &quot;the BTC spot trading volume of the Hyperliquid platform in the past 24 hours exceeding the sum of Coinbase and Bybit.&quot; Novogratz said, &quot;Impressive work. For full disclosure, we hold a long position in the HYPE token.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 16:58:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 16:27:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26055</guid>
       <category>crypto</category>
@@ -135,7 +135,7 @@
       <title>Analyst: If ETH&apos;s weekly closing price holds above $4600, it may further rise to $5200 to $5500.</title>
       <link>https://www.lookonchain.com/feeds/26054</link>
       <description>On August 25th, as per Cointelegraph, analyst BitBull stated, &quot;ETH is trying to achieve a weekly close above $4,600. If it succeeds, this will be an important confirmation that this is not a bull trap.&quot;He also pointed out: &quot;If ETH can manage to close above $4,600 on a weekly basis, it will set a new all-time high for the weekly closing price. Meanwhile, this will lay the foundation for the next upward phase, with a target price of $5,200 - $5,500 in the next week.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 15:58:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 16:27:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26054</guid>
       <category>crypto</category>
@@ -155,7 +155,7 @@
       <title>Bitcoin Magazine CEO: There Will Be No More Bitcoin Bear Markets in the Coming Years</title>
       <link>https://www.lookonchain.com/feeds/26053</link>
       <description>On August 24th, David Bailey, the CEO of Bitcoin Magazine, posted on social media, saying, &quot;There will be no more Bitcoin bear markets in the following years. Each sovereign nation, bank, insurance company, corporation, pension fund, and other institutions will eventually hold Bitcoin. This process has officially commenced, and we have not even captured 0.01% of the total market size yet. Bitcoin&apos;s price will continue to rise even higher.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 15:58:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:27:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26053</guid>
       <category>crypto</category>
@@ -174,7 +174,7 @@
       <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Letsbonk, Meteora DBC in the Top Three</title>
       <link>https://www.lookonchain.com/feeds/26052</link>
       <description>On August 24th, according to the Jupiter Data Dashboard, in the past 24 hours within the Solana launchpad market share ranking, pump.fun held the top position with 76.8%, Letsbonk came in second with 8.43%, and Meteora DBC took the third place with 8.2%.</description>
-      <pubDate>Sun, 24 Aug 2025 15:58:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:27:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26052</guid>
       <category>crypto</category>
@@ -191,7 +191,7 @@
       <title>If Ethereum surpasses $4900, the mainstream CEX cumulative short liquidation pressure will reach $1.393 billion.</title>
       <link>https://www.lookonchain.com/feeds/26051</link>
       <description>On August 24th, based on Coinglass data, if Ethereum surges above $4900, the total short liquidation intensity of mainstream CEXs will amount to $1.393 billion.Conversely, if Ethereum drops below $4700, the total long liquidation intensity of mainstream CEXs will reach $1.121 billion.BlockBeats Notes: The liquidation chart does not disclose the exact number of contracts to be liquidated or the precise value of contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the strength.Therefore, the liquidation chart shows the extent to which the target price reaching a certain level will be influenced. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, it will experience a more intense reaction due to a liquidity avalanche.</description>
-      <pubDate>Sun, 24 Aug 2025 14:58:02 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:27:57 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26051</guid>
       <category>crypto</category>
