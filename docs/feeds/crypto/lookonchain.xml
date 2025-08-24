@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 15:53:23 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 15:53:23 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 16:18:02 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 16:18:02 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Analyst: If ETH&apos;s weekly closing price holds above $4600, it may further rise to $5200 to $5500.</title>
+      <link>https://www.lookonchain.com/feeds/26054</link>
+      <description>On August 25th, as per Cointelegraph, analyst BitBull stated, &quot;ETH is trying to achieve a weekly close above $4,600. If it succeeds, this will be an important confirmation that this is not a bull trap.&quot;He also pointed out: &quot;If ETH can manage to close above $4,600 on a weekly basis, it will set a new all-time high for the weekly closing price. Meanwhile, this will lay the foundation for the next upward phase, with a target price of $5,200 - $5,500 in the next week.&quot;</description>
+      <pubDate>Sun, 24 Aug 2025 16:08:10 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26054</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Bitcoin Magazine CEO: There Will Be No More Bitcoin Bear Markets in the Coming Years</title>
       <link>https://www.lookonchain.com/feeds/26053</link>
       <description>On August 24th, David Bailey, the CEO of Bitcoin Magazine, posted on social media, saying, &quot;There will be no more Bitcoin bear markets in the following years. Each sovereign nation, bank, insurance company, corporation, pension fund, and other institutions will eventually hold Bitcoin. This process has officially commenced, and we have not even captured 0.01% of the total market size yet. Bitcoin&apos;s price will continue to rise even higher.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 15:48:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:48:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26053</guid>
       <category>crypto</category>
@@ -36,7 +56,7 @@
       <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Letsbonk, Meteora DBC in the Top Three</title>
       <link>https://www.lookonchain.com/feeds/26052</link>
       <description>On August 24th, according to the Jupiter Data Dashboard, in the past 24 hours within the Solana launchpad market share ranking, pump.fun held the top position with 76.8%, Letsbonk came in second with 8.43%, and Meteora DBC took the third place with 8.2%.</description>
-      <pubDate>Sun, 24 Aug 2025 15:40:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:40:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26052</guid>
       <category>crypto</category>
@@ -53,7 +73,7 @@
       <title>If Ethereum surpasses $4900, the mainstream CEX cumulative short liquidation pressure will reach $1.393 billion.</title>
       <link>https://www.lookonchain.com/feeds/26051</link>
       <description>On August 24th, based on Coinglass data, if Ethereum surges above $4900, the total short liquidation intensity of mainstream CEXs will amount to $1.393 billion.Conversely, if Ethereum drops below $4700, the total long liquidation intensity of mainstream CEXs will reach $1.121 billion.BlockBeats Notes: The liquidation chart does not disclose the exact number of contracts to be liquidated or the precise value of contracts to be liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, the strength.Therefore, the liquidation chart shows the extent to which the target price reaching a certain level will be influenced. A higher &quot;liquidation bar&quot; indicates that when the price reaches that level, it will experience a more intense reaction due to a liquidity avalanche.</description>
-      <pubDate>Sun, 24 Aug 2025 15:16:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26051</guid>
       <category>crypto</category>
@@ -73,7 +93,7 @@
       <title>LookOnChain: Ethereum Surges Past $4800</title>
       <link>https://www.lookonchain.com/feeds/26050</link>
       <description>On August 24th, according to HTX market data, Ethereum has surpassed $4800, witnessing a 24-hour increase of 1.62%.</description>
-      <pubDate>Sun, 24 Aug 2025 15:08:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26050</guid>
       <category>crypto</category>
@@ -93,7 +113,7 @@
       <title>Du Jun: Chinese institutions are quickly following the &quot;MicroStrategy model&quot;, with one ETH treasury reaching 300,000 coins</title>
       <link>https://www.lookonchain.com/feeds/26049</link>
       <description>On August 24th, Du Jun, a co-founder of ABCDE, stated in a social media post that &quot;Although Chinese institutions were a bit slow to respond in the &apos;MicroStrategy mode,&apos; they have quickly caught up. Currently, there are 3 ETH and 2 SOL &apos;MicroStrategy&apos; initiatives that have invited me to participate. One of them, an ETH DAT, started with a scale of 300,000 coins.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 15:08:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26049</guid>
       <category>crypto</category>
@@ -112,7 +132,7 @@
       <title>Ethereum Withdrawal Momentum Paused, with a CEX Net Inflow of 4444.18 ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/26048</link>
       <description>On August 24th, based on Coinglass data, during the past 24 hours, the total net inflow of ETH on CEXs was 4444.18 ETH. The top three CEXs in terms of inflow volume are as follows:· Coinbase Pro, with an inflow of 2671.49 ETH;· Binance, with an inflow of 2254.36 ETH;· Bitfinex, with an inflow of 575.63 ETH.In addition, OKX witnessed an outflow of 1016.85 ETH and ranked first in the outflow list.</description>
-      <pubDate>Sun, 24 Aug 2025 14:56:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26048</guid>
       <category>crypto</category>
@@ -128,30 +148,10 @@
 
     </item>
     <item>
-      <title>「Brother Big Brother」 Huang Licheng is long on BTC and YZY, with the overall long position total holding reaching $91.44 million</title>
-      <link>https://www.lookonchain.com/feeds/26044</link>
-      <description>On August 24th, according to the monitoring of HyperInsight (accessible via https://app.hyperliquid.xyz/join/NTOD), &quot;Brother Ma&quot; Huang Licheng took a long position on BTC with a leverage of 40 times, holding 75 coins (approximately $8.58 million), with an average opening price of $114,702.1. He also went long on YZY with a leverage of 3 times, holding 150,000 coins ($100,000), with an average opening price of $0.681.&quot;Brother Ma&quot; Huang Licheng also holds a long position of 16,100 ETH ($76.78 million), with an average opening price of $4,645.32, and currently has an unrealized gain of $2.03 million. He also holds 136,000 HYPE coins (about $5.98 million), with an average opening price of $43.8, and currently has an unrealized gain of $20,000. The total value of his long positions is $91.44 million.</description>
-      <pubDate>Sun, 24 Aug 2025 14:52:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26044</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>「Smart Money Earns $5.16M Shorting BTC during LUNA/UST Crash」 Cleared ETH Position and Reduced WBTC Exposure 1 Hour Ago</title>
       <link>https://www.lookonchain.com/feeds/26047</link>
       <description>On August 24th, as per on-chain analyst Ai Yi (@ai_9684xtpa), the &quot;Smart Money&quot; that shorted BTC during the LUNA/UST collapse and amassed $5.16 million liquidated ETH an hour ago and reduced its WBTC exposure. It sold 1363 ETH and 30 WBTC (approximately $9.79 million), realizing a profit of $1.093 million through this buy-low-sell-high approach.This Smart Money had previously made a profit of $7.293 million by buying the dip with BTC and WBTC and $4.907 million by buying the dip with ETH.</description>
-      <pubDate>Sun, 24 Aug 2025 14:52:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 15:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26047</guid>
       <category>crypto</category>
@@ -173,7 +173,7 @@
       <title>Tom Lee: Morgan Stanley Survey Shows Increasing Percentage of Non-Owners of Cryptocurrency, Cryptocurrency Still in Early Stage</title>
       <link>https://www.lookonchain.com/feeds/26046</link>
       <description>On August 24th, Tom Lee stated in a post on the X Platform, &quot;According to Morgan Stanley&apos;s survey, the percentage of non-owners of crypto assets is 69% in 2024 and 82% in 2025. This percentage actually shows an increase in 2025, suggesting that we are still in the early stage of the crypto cycle.&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 14:52:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 14:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26046</guid>
       <category>crypto</category>
@@ -190,7 +190,7 @@
       <title>Berachain Co-founder: ICO and Public Sale Will Make a Comeback, Large-scale Airdrops Pose More Harm than Good</title>
       <link>https://www.lookonchain.com/feeds/26045</link>
       <description>August 24th. Berachain&apos;s co-founder Smokey stated that &quot;When there is a larger-scale airdrop, there will be a greater number of potential sellers with no cost basis. Many large Asia-Pacific trading teams often specifically short tokens with airdrops. Additionally, airdropped tokens are easily influenced by the market, and most end up in the hands of insiders. ICOs and public sales are likely to make a significant comeback. For most teams in the future, the most prudent approach is to conduct a very small airdrop (1-2%), while also having a public sale (perhaps accounting for 5-10%).&quot;</description>
-      <pubDate>Sun, 24 Aug 2025 14:52:31 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 14:17:10 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26045</guid>
       <category>crypto</category>
