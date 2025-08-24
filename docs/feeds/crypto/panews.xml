@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 01:44:48 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 01:44:48 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 03:12:07 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 03:12:07 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,123 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Santiment：美联储利率讨论激增或对加密市场构成危险信号</title>
+      <link>https://www.panewslab.com/zh/articles/0d748abf-fae2-4399-9c5e-e12500311ae3</link>
+      <description>Santiment：美联储利率讨论激增或对加密市场构成危险信号</description>
+      <pubDate>Sun, 24 Aug 2025 03:12:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0d748abf-fae2-4399-9c5e-e12500311ae3</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>BTC跌破115000美元，日内涨幅 0.15%</title>
+      <link>https://www.panewslab.com/zh/articles/2u434oyv</link>
+      <description>BTC跌破115000美元，日内涨幅 0.15%</description>
+      <pubDate>Sun, 24 Aug 2025 03:10:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2u434oyv</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼向Kraken存入部分1400枚ETH，持仓9年共获利约1.02亿美元</title>
+      <link>https://www.panewslab.com/zh/articles/def866f5-9eb0-4981-9706-63bbb78b86f0</link>
+      <description>某鲸鱼向Kraken存入部分1400枚ETH，持仓9年共获利约1.02亿美元</description>
+      <pubDate>Sun, 24 Aug 2025 03:08:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/def866f5-9eb0-4981-9706-63bbb78b86f0</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>数据：USDe供应量达120亿美元，创历史新高</title>
+      <link>https://www.panewslab.com/zh/articles/8c40a1de-b704-4aa8-b755-e09755f4cdd0</link>
+      <description>数据：USDe供应量达120亿美元，创历史新高</description>
+      <pubDate>Sun, 24 Aug 2025 03:06:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8c40a1de-b704-4aa8-b755-e09755f4cdd0</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>“滚仓哥”ETH多单已浮盈478万美元</title>
+      <link>https://www.panewslab.com/zh/articles/19a626a3-b237-40ba-934e-4d25b949350f</link>
+      <description>“滚仓哥”ETH多单已浮盈478万美元</description>
+      <pubDate>Sun, 24 Aug 2025 03:04:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/19a626a3-b237-40ba-934e-4d25b949350f</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>行情：CRO日内涨幅3.49%，NOT日内跌幅2.70%</title>
+      <link>https://www.panewslab.com/zh/articles/gvdccc75</link>
+      <description>行情：CRO日内涨幅3.49%，NOT日内跌幅2.70%</description>
+      <pubDate>Sun, 24 Aug 2025 03:02:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/gvdccc75</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Aave创始人Stani.eth再次回应：由WLFI团队创建的提案已在Aave DAO投票并通过</title>
+      <link>https://www.panewslab.com/zh/articles/2aa01035-27da-40ab-aaf3-6507143dddc6</link>
+      <description>Aave创始人Stani.eth再次回应：由WLFI团队创建的提案已在Aave DAO投票并通过</description>
+      <pubDate>Sun, 24 Aug 2025 03:00:07 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2aa01035-27da-40ab-aaf3-6507143dddc6</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>韩国五大交易所持有超10亿韩元资产的投资者超1万名，人均约159万美元</title>
       <link>https://www.panewslab.com/zh/articles/9f2a3229-f3bc-4c8f-b9c4-94cd893d596b</link>
       <description>韩国五大交易所持有超10亿韩元资产的投资者超1万名，人均约159万美元</description>
-      <pubDate>Sun, 24 Aug 2025 01:44:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:58:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9f2a3229-f3bc-4c8f-b9c4-94cd893d596b</guid>
       <category>crypto</category>
@@ -32,7 +145,7 @@
       <title>WLFI公募参与者TOP10持有总量的4.63%，TGE解锁20%价值2.64亿美元</title>
       <link>https://www.panewslab.com/zh/articles/1f5809f9-8f89-470c-a744-8697e04eca94</link>
       <description>WLFI公募参与者TOP10持有总量的4.63%，TGE解锁20%价值2.64亿美元</description>
-      <pubDate>Sun, 24 Aug 2025 01:42:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:56:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1f5809f9-8f89-470c-a744-8697e04eca94</guid>
       <category>crypto</category>
@@ -47,7 +160,7 @@
       <title>某用户因签署EIP-7702网络钓鱼批量交易损失154万美元</title>
       <link>https://www.panewslab.com/zh/articles/af6394f0-8c32-4c18-a828-aedc0617440f</link>
       <description>某用户因签署EIP-7702网络钓鱼批量交易损失154万美元</description>
-      <pubDate>Sun, 24 Aug 2025 01:40:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:54:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/af6394f0-8c32-4c18-a828-aedc0617440f</guid>
       <category>crypto</category>
@@ -62,7 +175,7 @@
       <title>某以太坊ICO参与者休眠十年后卖出0.01枚ETH，回报率达15484倍</title>
       <link>https://www.panewslab.com/zh/articles/bff827b9-c0a7-4bb0-8a44-1ebeb3a7a7d0</link>
       <description>某以太坊ICO参与者休眠十年后卖出0.01枚ETH，回报率达15484倍</description>
-      <pubDate>Sun, 24 Aug 2025 01:38:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:52:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bff827b9-c0a7-4bb0-8a44-1ebeb3a7a7d0</guid>
       <category>crypto</category>
@@ -79,7 +192,7 @@
       <title>某交易员3倍做空530万枚WLFI ，浮亏41.2万美元</title>
       <link>https://www.panewslab.com/zh/articles/46e83378-af5d-4cf9-8c37-733e1f609e91</link>
       <description>某交易员3倍做空530万枚WLFI ，浮亏41.2万美元</description>
-      <pubDate>Sun, 24 Aug 2025 01:36:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:50:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/46e83378-af5d-4cf9-8c37-733e1f609e91</guid>
       <category>crypto</category>
@@ -94,7 +207,7 @@
       <title>某巨鲸买入200万美元PEPE</title>
       <link>https://www.panewslab.com/zh/articles/b88c36f6-da27-43c8-a210-03cd1fc4222b</link>
       <description>某巨鲸买入200万美元PEPE</description>
-      <pubDate>Sun, 24 Aug 2025 01:34:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:48:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b88c36f6-da27-43c8-a210-03cd1fc4222b</guid>
       <category>crypto</category>
@@ -109,7 +222,7 @@
       <title>国泰海通：9月美联储或开启降息，预计年内最多降息2次</title>
       <link>https://www.panewslab.com/zh/articles/c77be731-5875-4fa7-9f3c-11788a1b4fb7</link>
       <description>国泰海通：9月美联储或开启降息，预计年内最多降息2次</description>
-      <pubDate>Sun, 24 Aug 2025 01:32:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:46:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c77be731-5875-4fa7-9f3c-11788a1b4fb7</guid>
       <category>crypto</category>
@@ -124,7 +237,7 @@
       <title>本周NFT交易额环比下降25.78%至1.34亿美元，买家和卖家数均涨超25%</title>
       <link>https://www.panewslab.com/zh/articles/9108dc41-0f21-499d-b625-6e6ad6569564</link>
       <description>本周NFT交易额环比下降25.78%至1.34亿美元，买家和卖家数均涨超25%</description>
-      <pubDate>Sun, 24 Aug 2025 01:30:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:44:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9108dc41-0f21-499d-b625-6e6ad6569564</guid>
       <category>crypto</category>
@@ -140,7 +253,7 @@
       <title>某巨鲸2小时前向Hyperliquid存入542万USDC以做空ETH、WLFI和XPL</title>
       <link>https://www.panewslab.com/zh/articles/ec5bbeda-20e5-4b65-828c-4cecbdfb266e</link>
       <description>某巨鲸2小时前向Hyperliquid存入542万USDC以做空ETH、WLFI和XPL</description>
-      <pubDate>Sun, 24 Aug 2025 01:28:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:42:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ec5bbeda-20e5-4b65-828c-4cecbdfb266e</guid>
       <category>crypto</category>
@@ -157,7 +270,7 @@
       <title>5个新钱包过去2天买入19,332枚ETH，价值约9200万美元</title>
       <link>https://www.panewslab.com/zh/articles/a1cb4eef-ff30-4622-b9ce-58df30414502</link>
       <description>5个新钱包过去2天买入19,332枚ETH，价值约9200万美元</description>
-      <pubDate>Sun, 24 Aug 2025 01:26:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:40:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a1cb4eef-ff30-4622-b9ce-58df30414502</guid>
       <category>crypto</category>
@@ -174,7 +287,7 @@
       <title>ETH突破4800美元，日内涨幅 1.15%</title>
       <link>https://www.panewslab.com/zh/articles/3zmquki0</link>
       <description>ETH突破4800美元，日内涨幅 1.15%</description>
-      <pubDate>Sun, 24 Aug 2025 01:24:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:38:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3zmquki0</guid>
       <category>crypto</category>
@@ -191,7 +304,7 @@
       <title>Stargate DAO已批准LayerZero对Stargate (STG) 的收购</title>
       <link>https://www.panewslab.com/zh/articles/18db8e0c-38a1-48c8-a138-417987135e1a</link>
       <description>Stargate DAO已批准LayerZero对Stargate (STG) 的收购</description>
-      <pubDate>Sun, 24 Aug 2025 01:22:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:36:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/18db8e0c-38a1-48c8-a138-417987135e1a</guid>
       <category>crypto</category>
@@ -206,122 +319,9 @@
       <title>Custodia Bank CEO：TradFi因与区块链实时结算不匹配恐出现流动性危机</title>
       <link>https://www.panewslab.com/zh/articles/8f3a8052-ec2d-4fd5-a697-98b23aa1f499</link>
       <description>Custodia Bank CEO：TradFi因与区块链实时结算不匹配恐出现流动性危机</description>
-      <pubDate>Sun, 24 Aug 2025 01:20:48 +0000</pubDate>
+      <pubDate>Sun, 24 Aug 2025 02:34:07 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8f3a8052-ec2d-4fd5-a697-98b23aa1f499</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Bitmine增持约4500万美元ETH，目前共持有约70亿美元ETH</title>
-      <link>https://www.panewslab.com/zh/articles/b0755839-7848-4573-a19f-9d7762add019</link>
-      <description>Bitmine增持约4500万美元ETH，目前共持有约70亿美元ETH</description>
-      <pubDate>Sun, 24 Aug 2025 01:18:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b0755839-7848-4573-a19f-9d7762add019</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>毕马威：投资者对数字资产的兴趣将推动加拿大金融科技下半年强劲增长</title>
-      <link>https://www.panewslab.com/zh/articles/1b413007-397f-46d2-a065-87d3b0124cc2</link>
-      <description>毕马威：投资者对数字资产的兴趣将推动加拿大金融科技下半年强劲增长</description>
-      <pubDate>Sun, 24 Aug 2025 01:16:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1b413007-397f-46d2-a065-87d3b0124cc2</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Aave创始人Stani.eth回应称WLFI提案的相关协议仍然有效</title>
-      <link>https://www.panewslab.com/zh/articles/49be5b69-885c-44ce-ab1a-d7080023b794</link>
-      <description>Aave创始人Stani.eth回应称WLFI提案的相关协议仍然有效</description>
-      <pubDate>Sun, 24 Aug 2025 01:14:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/49be5b69-885c-44ce-ab1a-d7080023b794</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>过去24小时全网合约爆仓4.03亿美元，多空双爆</title>
-      <link>https://www.panewslab.com/zh/articles/0zp53x1m</link>
-      <description>过去24小时全网合约爆仓4.03亿美元，多空双爆</description>
-      <pubDate>Sun, 24 Aug 2025 01:12:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0zp53x1m</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>疑似WLFI Wallet团队成员否认Aave将获得WLFI总量7%代币的提案关联消息</title>
-      <link>https://www.panewslab.com/zh/articles/c5654a55-9e0f-4a83-9390-0b2bdffa3df7</link>
-      <description>疑似WLFI Wallet团队成员否认Aave将获得WLFI总量7%代币的提案关联消息</description>
-      <pubDate>Sun, 24 Aug 2025 01:10:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c5654a55-9e0f-4a83-9390-0b2bdffa3df7</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>易理华：ETH降息周期中一直跑赢BTC，目标突破1万美元</title>
-      <link>https://www.panewslab.com/zh/articles/fa66293f-7a51-4b50-8df6-07ac09088bf4</link>
-      <description>易理华：ETH降息周期中一直跑赢BTC，目标突破1万美元</description>
-      <pubDate>Sun, 24 Aug 2025 01:08:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fa66293f-7a51-4b50-8df6-07ac09088bf4</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Aave将获总供应量7%的WLFI代币并获得WLFI Aave v3所产生的20%协议费用</title>
-      <link>https://www.panewslab.com/zh/articles/f5189ca5-d026-4e35-9b29-c580348907df</link>
-      <description>Aave将获总供应量7%的WLFI代币并获得WLFI Aave v3所产生的20%协议费用</description>
-      <pubDate>Sun, 24 Aug 2025 01:06:48 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f5189ca5-d026-4e35-9b29-c580348907df</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
