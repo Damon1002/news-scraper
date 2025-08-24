@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Aug 2025 15:01:41 +0000</lastBuildDate>
-    <pubDate>Sun, 24 Aug 2025 15:01:41 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 15:26:47 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 15:26:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>以太坊突破 4800 美元，日内涨幅为 1.36%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 HTX 行情信息，以太坊突破 4800 美元，现报 4815.00 美元，日内涨幅为 1.36%。</description>
+      <pubDate>Sun, 24 Aug 2025 15:07:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Du Jun：已收到多个 ETH 和 SOL 财库实体邀请，其中一个起步规模达 30 万枚 ETH</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师余烬（@EmberCN）监测，“从 Coinbase 用户处窃取资金的黑客”在过去 1 小时里，把 795.7 万 DAI 换成 USDC 后跨链到 Solana，然后买成了 38,126 枚 SOL，购买价格 208.7 美元。这名黑客：5 月，出售 26,347 枚 ETH 换成 ...</description>
       <pubDate>Sun, 24 Aug 2025 04:07:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BTC 短时跌破 115,000 美元，24 小时跌幅 0.69 %</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 HTX 行情数据显示，BTC 短时跌破 115,000 美元，现报 115141.00 美元，24 小时跌幅 0.69 %。</description>
-      <pubDate>Sun, 24 Aug 2025 03:04:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
