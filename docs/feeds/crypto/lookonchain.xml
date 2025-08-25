@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 01:43:39 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 01:43:39 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 03:08:27 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 03:08:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,31 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Binance Alpha and Futures will list Bitlayer (BTR)</title>
-      <link>https://www.lookonchain.com/feeds/26086</link>
-      <description>On August 25th, as per official channels, Binance Alpha is set to launch and commence trading for Bitlayer (BTR) on August 27th, 2025, at 18:00 (UTC+8). Furthermore, the Binance Futures platform will initiate the BTRUSDT perpetual contract on August 27th, 2025, at 18:30 (UTC+8), with a maximum leverage of up to 50x.Binance is the inaugural platform to announce the opening of Bitlayer (BTR) contract trading and to present the Bitlayer token on Binance Alpha.All eligible users will be entitled to an exclusive token airdrop. Eligible users are required to utilize Binance Alpha Points to claim the airdrop on the Binance Alpha event page from August 27th, 2025, 18:00 (UTC+8), to August 28th, 2025, 18:00 (UTC+8).</description>
-      <pubDate>Mon, 25 Aug 2025 01:40:46 +0000</pubDate>
+      <title>Ethereum Withdrawal Recovery, CEX Net Outflow of 23,600 ETH in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/26097</link>
+      <description>On August 25th, based on Coinglass data, in the past 24 hours, the total net outflow of ETH from CEX was 23,600. The top three exchanges with outflows are as follows:· Coinbase Pro, with an outflow of 117,000 ETH;· Kraken, with an outflow of 34,300 ETH;· Gemini, with an outflow of 11,000 ETH.In addition, Binance had an inflow of 104,400 ETH and ranked first on the inflow list.</description>
+      <pubDate>Mon, 25 Aug 2025 03:00:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26086</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26097</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>SBI Holdings Enters into Strategic Partnership with Chainlink to Accelerate Institutional Adoption of Digital Assets</title>
+      <link>https://www.lookonchain.com/feeds/26096</link>
+      <description>On August 25th, the Japanese financial group SBI Holdings announced a strategic partnership with Chainlink in order to expedite the institutional adoption of digital assets. This collaboration makes use of Chainlink&apos;s Cross-Chain Interoperability Protocol (CCIP) to enable the cross-chain tokenization of real-world assets like real estate and bonds. The protocol facilitates secure transactions across any blockchain while guaranteeing compliance and privacy.Furthermore, the collaboration will center around using Chainlink CCIP to achieve peer-to-peer (PvP) settlement for foreign exchange and cross-border transactions. Additionally, they will employ Chainlink&apos;s Proof of Reserve to offer transparent on-chain validation of stablecoin reserves.</description>
+      <pubDate>Mon, 25 Aug 2025 02:48:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26096</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +50,106 @@
 
     </item>
     <item>
-      <title>A certain Bitcoin ancient whale has sold 19,663 BTC to switch to 455,672 ETH, and has staked 279,000 ETH from it.</title>
-      <link>https://www.lookonchain.com/feeds/26085</link>
-      <description>On August 25th, as per the monitoring of Onchain Lens, the Unit team announced that a Bitcoin ancient whale has sold 19,663 BTC (approximately $2.22 billion) by means of two entities and exchanged it for 455,672 ETH. Among them, 279,000 ETH (approximately $1.13 billion) has been staked.The Bitcoin ancient whale still possesses BTC on HyperLiquid and intends to sell it in exchange for ETH while holding 176,616 ETH on the blockchain (approximately $832 million).</description>
-      <pubDate>Mon, 25 Aug 2025 01:40:46 +0000</pubDate>
+      <title>「$125,000 Roll Long on ETH」 Whale double-crosses ETH long position again, with a position worth approximately $1.11 billion in ETH longs</title>
+      <link>https://www.lookonchain.com/feeds/26095</link>
+      <description>On August 25th, according to the monitoring of on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;125k USD Long ETH Liquidation&quot; whale once again carried out a double cross of an ETH long position:· Address 0xd07...327bb: Holding 23,108 ETH (approximately 110 million USD), with an opening price of 4,590 USD and a liquidation price of 4,658.8 USD, having an unrealized profit of 4.06 million USD.· Address 0x5f7...eda67: Deposited 69,895 USDC as collateral 6 hours ago and just opened a 254.34 ETH 25x long position, with an opening price of 4,796.23 USD and a liquidation price of 4,678.47 USD.</description>
+      <pubDate>Mon, 25 Aug 2025 02:32:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26085</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26095</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Metaplanet was included in the FTSE Japan Index evaluation in September.</title>
+      <link>https://www.lookonchain.com/feeds/26094</link>
+      <description>On August 25th, Simon Gerovich, the CEO of the Japanese-listed company Metaplanet, tweeted that Metaplanet is going to be included in the FTSE Japan Index during the September review.</description>
+      <pubDate>Mon, 25 Aug 2025 02:25:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26094</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Japanese Finance Minister: Will Create a Suitable Environment for Cryptographic Assets, Which May Serve as Part of a Diversified Investment Portfolio</title>
+      <link>https://www.lookonchain.com/feeds/26093</link>
+      <description>On August 25th, Japanese Finance Minister Taro Aso declared that he would establish a favorable environment for crypto assets, which might be a part of a diversified investment portfolio. (Kinjo)</description>
+      <pubDate>Mon, 25 Aug 2025 02:24:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26093</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A Whale/Institution has liquidated their ETH holdings in the past 13 hours, realizing a total profit of $51.7 million.</title>
+      <link>https://www.lookonchain.com/feeds/26090</link>
+      <description>On August 25th, as monitored by on-chain analyst Yu Jin, a whale/institution sold the remaining 10,425 ETH they had held over the past 13 hours and converted it into 49,737,000 USDT.· Back in June, they transferred 98,330,000 USDT from TRX to ETH through 10 addresses. Then, on July 14th, they went all-in and purchased 33,333 ETH at an average price of $2,950.· After holding ETH for one month, they began to sell. All sales were completed in the early morning of this day, with an average selling price of approximately $4,555.· Through this ETH investment, they achieved a profit of $51.7 million: converting 98,330,000 USDT into 150 million USDT.</description>
+      <pubDate>Mon, 25 Aug 2025 02:16:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26090</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Arthur Hayes: Crypto Bull Market Could Last Until 2028</title>
+      <link>https://www.lookonchain.com/feeds/26092</link>
+      <description>On August 25th, Arthur Hayes, the co-founder of BitMEX, stated at the opening ceremony of the WebX Summit held in Tokyo on August 25th that due to the changes in the US stablecoin policy, the cryptocurrency bull market will persist until 2028. The US intends to redirect the $10 to $13 trillion offshore Eurodollar market towards a government-controlled stablecoin ecosystem in order to achieve fiscal control. DeFi platforms like Ethena and Hyperliquid are anticipated to gain from the inflow of a substantial amount of stablecoin liquidity.</description>
+      <pubDate>Mon, 25 Aug 2025 02:16:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26092</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Placeholder Partner: We expect the SOL/ETH and SOL/BTC exchange rates to strengthen further in the coming weeks.</title>
+      <link>https://www.lookonchain.com/feeds/26091</link>
+      <description>On August 25th, Chris Burniske, who was formerly the lead of Ark Invest&apos;s crypto and is now a partner at Placeholder VC, stated, &quot;The exchange rates between SOL and ETH and between SOL and BTC continue to perform well. Given that SOL has recently been out of favor (due to comments, market sentiment, etc.), I expect this trend to only become stronger in the next few weeks.&quot;</description>
+      <pubDate>Mon, 25 Aug 2025 02:16:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26091</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -49,51 +162,15 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
 
     </item>
     <item>
-      <title>Arthur Hayes: HYPE Expected to Have 126x Potential Upside</title>
-      <link>https://www.lookonchain.com/feeds/26084</link>
-      <description>On August 25th, Arthur Hayes stated during his speech at the WebX Summit that it is expected that the Hyperliquid token (HYPE) will have a 126x potential upside. The project aims to increase its annualized transaction fees to $258 billion by 2028 through a stablecoin expansion strategy.He also predicted that by 2028, the supply of stablecoins would reach $10 trillion, with Hyperliquid accounting for a 26.4% market share. The Average Daily Volume (ADV) is projected to reach $2.636 trillion, which is a significant increase from the current $119 billion. Based on a 0.03% net transaction fee rate, the projected annual income is expected to reach $258 billion.</description>
-      <pubDate>Mon, 25 Aug 2025 01:32:46 +0000</pubDate>
+      <title>The number of ETH in the queue to join the Ethereum PoS network has reached 404,500, while over 840,000 ETH are waiting to exit.</title>
+      <link>https://www.lookonchain.com/feeds/26089</link>
+      <description>On August 25th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 846,142 ETH, which is approximately worth 4 billion US dollars. This is a slight relief compared to the previous all-time high of 916,647 ETH.At the same time, the queued ETH waiting to join the network has risen to 404,500 ETH (compared to 152,625 ETH yesterday).Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may choose to cash out after Ethereum has surged significantly since the April low point, resulting in a sharp increase in the exit queue. On the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also pushing up the entry queue. Listed companies such as SharpLink Gaming and BitMine Immersion have increased their ETH holdings and are staking.</description>
+      <pubDate>Mon, 25 Aug 2025 02:08:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26084</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Story Foundation will launch an $82 million IP buyback program on the open market</title>
-      <link>https://www.lookonchain.com/feeds/26083</link>
-      <description>On August 25th, Story tweeted that Heritage Distilling (CASK), a Nasdaq-listed company, officially completed a PIPE financing on August 15th and established a treasury strategy centered around IP.As promised, the Story Foundation will launch an $82 million IP repurchase program in the open market. The repurchase will be carried out from August 15th to November 16th, which is a total of 90 days. Subsequent progress will be regularly updated to the community.</description>
-      <pubDate>Mon, 25 Aug 2025 01:16:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26083</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>「$125,000 Leveraged Long Position on ETH Liquidated」 Whale Liquidates 2000 ETH, Liquidation Price Adjusted to $4658</title>
-      <link>https://www.lookonchain.com/feeds/26082</link>
-      <description>On August 25th, as monitored by on-chain analyst Yu Jin, during the recent rapid price drop, the &quot;125,000 USD liquidation long position on ETH&quot; whale grew anxious as the price neared its liquidation price of 4,668 USD. Consequently, they closed 2,000 ETH just a few dollars above the liquidation price. This action led to a decrease in the liquidation price by 10 USD, from 4,668 USD to 4,658 USD.Currently, with a margin of 740,000 USD, their position still holds 23,100 ETH, which is valued at 108 million USD. They have an unrealized profit of 2.63 million USD.</description>
-      <pubDate>Mon, 25 Aug 2025 01:08:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26082</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26089</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -104,17 +181,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>China Securities: It is expected that the Federal Reserve will cut interest rates three times this year</title>
-      <link>https://www.lookonchain.com/feeds/26081</link>
-      <description>August 25th. Based on a research report by CITIC Securities, Powell&apos;s speech at the Jackson Hole central bank summit was in line with our prior expectations. It emphasized the downside risks to the labor market. This has continued the view from the July interest rate meeting that &quot;tariff inflation is temporary,&quot; laying the groundwork for a rate cut in September. We maintain our previous view that the Fed is expected to cut rates three times this year, with each cut being 25 basis points. Regarding the adjustment of the monetary policy framework, the Fed has given up the average inflation targeting regime and returned to a flexible inflation targeting regime. It has also modified its language to emphasize the focus on the &quot;two-way&quot; risks in the labor market. (FXStreet)</description>
-      <pubDate>Mon, 25 Aug 2025 01:00:46 +0000</pubDate>
+      <title>A certain new wallet withdrew 80,254 SOL from Binance, worth $16.28 million</title>
+      <link>https://www.lookonchain.com/feeds/26088</link>
+      <description>On August 25th, as per the monitoring of Onchain Lens, a newly established wallet withdrew 80,254 SOL from Binance. The value of this withdrawal was $16.28 million, and it was then staked.</description>
+      <pubDate>Mon, 25 Aug 2025 02:07:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26081</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26088</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -123,81 +198,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>James Wynn&apos;s 10x DOGE Long Position Partially Liquidated</title>
-      <link>https://www.lookonchain.com/feeds/26080</link>
-      <description>On August 25th, as per the monitoring of Onchain Lens, during the period of market volatility, James Wynn&apos;s DOGE 10x leverage long position was partially liquidated. He still retains a long position of DOGE worth $143,000.</description>
-      <pubDate>Mon, 25 Aug 2025 01:00:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26080</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>「Unknown Hacker Who Received Funds on March 28」 Sells 5001 ETH Bought 4 Days Ago, Profits $2.04 Million</title>
-      <link>https://www.lookonchain.com/feeds/26079</link>
-      <description>On August 25th, as monitored by on-chain analyst Wu Ji, the &quot;unknown hacker who received funds on March 28th&quot; sold the 5,001 ETH that he purchased 4 days ago, realizing a profit of $2.04 million.· 4 days ago, he utilized 21.76 million DAI to buy 5,001 ETH at a price of $4,352.· As of today, 4 hours ago, all 5,001 ETH were sold back for 23.8 million DAI at a price of $4,760.· This swing trade led to a $2.04 million profit.· Currently, this hacker holds 46.13 million U (36.54 million DAI + 9.59 million sUSD).</description>
-      <pubDate>Mon, 25 Aug 2025 00:56:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26079</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Raydium has spent a total of $196.3 million to repurchase 71 million RAY tokens, accounting for 26.4% of the circulating supply.</title>
-      <link>https://www.lookonchain.com/feeds/26078</link>
-      <description>On August 25th, based on the data disclosed by Infura, Raydium has expended a total of $196.3 million to repurchase 71 million RAY tokens, which accounts for 26.4% of the circulating supply.</description>
-      <pubDate>Mon, 25 Aug 2025 00:56:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26078</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>If Ethereum drops below $4600, the mainstream CEX long liquidation pressure will reach $726 million</title>
-      <link>https://www.lookonchain.com/feeds/26077</link>
-      <description>On August 25th, according to Coinglass data, if Ethereum falls below $4600, the cumulative strength of long liquidation in mainstream CEXs will reach 726 million.Conversely, if Ethereum breaks through $4800, the cumulative strength of short liquidation in mainstream CEXs will reach 924 million.BlockBeats Note: The liquidation chart does not display the exact number of contracts to be liquidated or the exact value of contracts to be liquidated. The bars on the liquidation chart actually represent the relative significance of each liquidation cluster to the adjacent liquidation cluster, that is, strength. Therefore, the liquidation chart shows to what extent the target price will be influenced when it reaches a certain position. A higher &quot;liquidation bar&quot; indicates that the price will have a more intense response due to a liquidity avalanche when it reaches that level.</description>
-      <pubDate>Mon, 25 Aug 2025 00:48:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26077</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
