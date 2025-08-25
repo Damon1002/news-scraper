@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 14:30:29 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 14:30:29 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 14:48:46 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 14:48:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>LookOnChain: Bitcoin Surges Above $112,000</title>
+      <link>https://www.lookonchain.com/feeds/26190</link>
+      <description>On August 25th, based on HTX market data, Bitcoin has seen a rebound and exceeded $112,000. It is currently trading at $112,148.</description>
+      <pubDate>Mon, 25 Aug 2025 14:32:51 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26190</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Suspected &quot;Sleeping Beauty Seven Years Loudly Swapped ETH for BTC Ancient Whale&quot; staked 269,400 ETH in the past 1 hour</title>
       <link>https://www.lookonchain.com/feeds/26189</link>
       <description>On August 25th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), a suspected &quot;BTC Ancient Whale that has been dormant for seven years and recently made a high-profile switch to ETH&quot; staked 269,485 ETH on the ETH2 Beacon Chain within the past 1 hour. The value of this stake is $1.25 billion.This stake exceeds the holdings of the ETH entity in the TOP4, the Ethereum Foundation (231k ETH). This staking action has directly reduced the difference between Ethereum PoS network exits and entries to the queue to 260k ETH. By comparison, the difference yesterday was 727k ETH, accounting for 66.7% of today&apos;s queue entry increment.</description>
-      <pubDate>Mon, 25 Aug 2025 14:24:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 14:24:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26189</guid>
       <category>crypto</category>
@@ -39,7 +59,7 @@
       <title>A certain whale address sold 5500 ETH in the past 4 hours, engaging in multiple recent loss-making swing trades.</title>
       <link>https://www.lookonchain.com/feeds/26188</link>
       <description>On August 25th, as per the monitoring of LookOnChain, within the past 4 hours, a whale address once again panicked and sold 5,500 ETH, amounting to approximately $25.32 million, with an average selling price of $4,603.It is reported that this address has recently engaged in multiple &quot;buy high, sell low&quot; swing trading operations. It often buys during the FOMO sentiment and sells out during market panic. These include:From July 29th to August 3rd: Sold 38,582 ETH at an average price of $3,548 (approximately $136.9 million).From August 8th to August 15th: Bought back 16,800 ETH at an average of $4,424 (approximately $74.3 million).From August 16th to August 20th: Sold 10,900 ETH at an average price of $4,369 (approximately $47.6 million).On August 23rd: Bought 7,500 ETH at an average price of $4,747 (approximately $35.6 million).</description>
-      <pubDate>Mon, 25 Aug 2025 14:16:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 14:16:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26188</guid>
       <category>crypto</category>
@@ -59,7 +79,7 @@
       <title>Source: InsiderAccording to sources, the AI infrastructure project Gata, supported by YZi Lans, will launch its token next month.</title>
       <link>https://www.lookonchain.com/feeds/26187</link>
       <description>On August 25th, according to AB Kuai.Dong, the AI infrastructure project Gata backed by YZi Lans is set to launch its token next month. This information was disclosed by the team&apos;s relevant investors at today&apos;s conference in Tokyo.Meanwhile, the project completed its last round of fundraising at a valuation of 60 million, and the latest valuation is 93 million US dollars. The approximate timing has been confirmed with the market maker.It is expected that Gata will be circulated on the BNB chain, but this is still subject to change.</description>
-      <pubDate>Mon, 25 Aug 2025 14:16:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 14:16:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26187</guid>
       <category>crypto</category>
@@ -76,7 +96,7 @@
       <title>glassnode: Ethereum Investors Now Hold Over 2.15x Unrealized Gains on Average</title>
       <link>https://www.lookonchain.com/feeds/26186</link>
       <description>On August 25th, glassnode made a post on social media that while Ethereum reached a new all-time high, its MVRV ratio has ascended to 2.15. This implies that, on average, investors currently possess more than 2.15 times their unrealized profits. This level is comparable to the market conditions in March 2024 and December 2020. In both of these periods, there was an increase in volatility and intensified profit-taking.</description>
-      <pubDate>Mon, 25 Aug 2025 14:08:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 14:08:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26186</guid>
       <category>crypto</category>
@@ -95,7 +115,7 @@
       <title>New SOL Treasury Company STSS Surges 55% Intraday, Current Market Cap Stands at $11.67 Million</title>
       <link>https://www.lookonchain.com/feeds/26185</link>
       <description>August 25th. Based on market data, due to the news of &quot;Raising $400 Million to Establish SOL Treasury&quot;, the U.S.-listed new SOL Treasury company Sharps Technology, Inc. (STSS) witnessed its stock price rise by 55% intra-day to $11.4, with a trading volume of $151 million and a turnover rate of 1269.12%. The current market capitalization is reported to be $11.67 million.BlockBeats previously reported that the U.S.-listed company Sharps Technology, Inc. (STSS) announced that it is conducting a $400 million financing round to back the company&apos;s digital asset treasury strategy, whereby the company will adopt a core position in the Solana blockchain&apos;s native asset SOL.</description>
-      <pubDate>Mon, 25 Aug 2025 14:00:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 14:00:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26185</guid>
       <category>crypto</category>
@@ -113,7 +133,7 @@
       <title>US Stock Sharps Technology Plans to Raise $400 Million to Establish World&apos;s Largest SOL Treasury</title>
       <link>https://www.lookonchain.com/feeds/26184</link>
       <description>On August 25th, as per prnewswire, the U.S.-listed company Sharps Technology, Inc. (STSS) announced that it is conducting a $400 million financing. This financing will support the company&apos;s digital asset treasury strategy, which is based on holding SOL, the native asset of the Solana blockchain. The investors include ParaFi, Pantera, Monarq, FalconX, Phoenix Capital, Bastion Trading, RockawayX, Syncracy, Borderless, Republic Digital, Arche Capital, CoinFund, Arrington Capital, Quantstamp, CoinList Alpha, Primitive Ventures, Avenir, Hypersphere, and others.The newly appointed Chief Investment Officer and Director, Alice Zhang, stated: &quot;Solana has set a new standard for digital infrastructure. It provides a high-throughput, low-cost, and real-time settlement layer for various asset classes such as blue-chip stocks, bonds, and private equity assets. With its vision of &apos;building a globally unified tradable asset market&apos; continuously gaining institutional support, the global adoption of t</description>
-      <pubDate>Mon, 25 Aug 2025 13:56:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 13:56:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26184</guid>
       <category>crypto</category>
@@ -131,7 +151,7 @@
       <title>LookOnChain: Bitcoin Falls Below $111,000</title>
       <link>https://www.lookonchain.com/feeds/26183</link>
       <description>On August 25th, based on HTX market data, Bitcoin has fallen below $111,000 and is currently trading at $110,959, with a 24-hour decrease of 3.26%.</description>
-      <pubDate>Mon, 25 Aug 2025 13:48:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 13:48:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26183</guid>
       <category>crypto</category>
@@ -151,7 +171,7 @@
       <title>Ethereum Briefly Drops Below $4600</title>
       <link>https://www.lookonchain.com/feeds/26182</link>
       <description>On August 25th, based on HTX market data, Ethereum briefly fell below $4,600 and is currently trading at $4,606, experiencing a 24-hour loss of 3.3%.</description>
-      <pubDate>Mon, 25 Aug 2025 13:48:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 13:48:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26182</guid>
       <category>crypto</category>
@@ -171,7 +191,7 @@
       <title>US Stock Crypto Stock Market Opens Down, BLSH Down 5.31%, BMNR Down 4.47%</title>
       <link>https://www.lookonchain.com/feeds/26181</link>
       <description>On August 25th, based on market data, at the opening of the U.S. stock market, the Dow dropped by 0.19%, the S&amp;P 500 decreased by 0.15%, and the Nasdaq fell by 0.14%. Cryptocurrency stocks witnessed across-the-board declines, such as:Coinbase (COIN) declined by 2.91%.Circle (CRCL) fell by 2.62%.MicroStrategy (MSTR) dropped by 4.04%.Bullish (BLSH) decreased by 5.31%.Bitmine (BMNR) fell by 4.47%.BTCS (BTCS) declined by 5.91%.SharpLink Gaming (SBET) fell by 5.79%.BNB Network Company (BNC) dropped by 6.00%.ALT5 Sigma (ALTS) fell by 1.52%.</description>
-      <pubDate>Mon, 25 Aug 2025 13:40:36 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 13:47:51 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26181</guid>
       <category>crypto</category>
@@ -182,26 +202,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Surges Above $4650, Rebounding 3% from Daily Low</title>
-      <link>https://www.lookonchain.com/feeds/26180</link>
-      <description>On August 25th, based on HTX market data, Ethereum experienced a rebound and broke through $4650. It is currently priced at $4661, showing a 3% increase from the daily low of $4519.</description>
-      <pubDate>Mon, 25 Aug 2025 13:32:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26180</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
   </channel>
