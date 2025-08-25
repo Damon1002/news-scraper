@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 23:44:51 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 23:44:51 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 23:56:29 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 23:56:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Sequans Announces $200 Million Equity Plan to Accelerate Bitcoin Reserve Strategy</title>
+      <link>https://www.lookonchain.com/feeds/26221</link>
+      <description>On August 26th, the French semiconductor and IoT company Sequans Communications (NYSE: SQNS) announced the formulation of an &quot;At The Market&quot; (ATM) equity offering plan. The company has the ability to issue American Depositary Shares at any time in accordance with market conditions. Each share represents 10 ordinary shares, and the total amount can reach up to $200 million.Sequans indicated that this plan will serve as a means for the first stage of its Bitcoin reserve strategy. The funds raised are expected to be mainly used to continuously purchase Bitcoin in order to support the company&apos;s long-term reserve strategy.</description>
+      <pubDate>Mon, 25 Aug 2025 23:48:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26221</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>In the past 24 hours, there have been liquidations totaling $904 million across the entire network, with over 206,000 accounts being liquidated.</title>
       <link>https://www.lookonchain.com/feeds/26218</link>
       <description>August 26: Based on Coinglass data, the overall value of liquidations within the past 24 hours reached $9.04 billion. Long liquidations accounted for $8.18 billion.Furthermore, during the last 24 hours, a total of 206,571 individuals underwent liquidation. The largest single liquidation order took place in HTX - BTC-USDT, with a value of $39.2448 million.</description>
-      <pubDate>Mon, 25 Aug 2025 23:40:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 23:40:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26218</guid>
       <category>crypto</category>
@@ -32,12 +52,12 @@
 
     </item>
     <item>
-      <title>WLFI: The token will begin unlocking at 8:00 AM Eastern Time on September 1st, and the related functional pages are now online</title>
-      <link>https://www.lookonchain.com/feeds/26220</link>
-      <description>On August 26th, as per an official announcement, the WLFI token unlocking feature page, Lockbox, has been launched. Users who hold the token can transfer WLFI into Lockbox to commence the unlocking process.Start Time: 1st September at 8:00 AM Eastern Time (initial 20% allocation).</description>
-      <pubDate>Mon, 25 Aug 2025 23:40:57 +0000</pubDate>
+      <title>Federal Reserve&apos;s Williams: Policymakers Should Exercise Caution When Using Neutral Interest Rate Estimates</title>
+      <link>https://www.lookonchain.com/feeds/26219</link>
+      <description>August 26th: Williams from the Federal Reserve stated that the data did not exhibit a notable increase in the level of the neutral interest rate. The data suggests that the &quot;low interest rate environment&quot; still persists. Policymakers should be cautious when relying on estimates of the neutral interest rate.At the same time, Williams refrained from commenting on the outlook of the Federal Reserve&apos;s monetary policy. (Cnstock Finance)</description>
+      <pubDate>Mon, 25 Aug 2025 23:40:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26220</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26219</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -49,12 +69,12 @@
 
     </item>
     <item>
-      <title>Federal Reserve&apos;s Williams: Policymakers Should Exercise Caution When Using Neutral Interest Rate Estimates</title>
-      <link>https://www.lookonchain.com/feeds/26219</link>
-      <description>August 26th: Williams from the Federal Reserve stated that the data did not exhibit a notable increase in the level of the neutral interest rate. The data suggests that the &quot;low interest rate environment&quot; still persists. Policymakers should be cautious when relying on estimates of the neutral interest rate.At the same time, Williams refrained from commenting on the outlook of the Federal Reserve&apos;s monetary policy. (Cnstock Finance)</description>
-      <pubDate>Mon, 25 Aug 2025 23:40:57 +0000</pubDate>
+      <title>WLFI: The token will begin unlocking at 8:00 AM Eastern Time on September 1st, and the related functional pages are now online</title>
+      <link>https://www.lookonchain.com/feeds/26220</link>
+      <description>On August 26th, as per an official announcement, the WLFI token unlocking feature page, Lockbox, has been launched. Users who hold the token can transfer WLFI into Lockbox to commence the unlocking process.Start Time: 1st September at 8:00 AM Eastern Time (initial 20% allocation).</description>
+      <pubDate>Mon, 25 Aug 2025 23:40:37 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26219</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26220</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -69,7 +89,7 @@
       <title>The crypto market gives back gains from the &quot;Powell Night,&quot; with Bitcoin falling below the $110,000 mark.</title>
       <link>https://www.lookonchain.com/feeds/26217</link>
       <description>On August 26th, based on HTX market data, last night and this morning, the cryptocurrency market witnessed a substantial pullback. As of the time of this writing:Bitcoin dropped below the $110,000 level and is currently trading at $109,825, with a 24-hour decline of 2.11%. It has gone below the $112,000 level that was observed before Powell&apos;s speech.Ethereum dropped below $4,400 and is currently priced at $4,365, with a 24-hour decline of 5.4%.</description>
-      <pubDate>Mon, 25 Aug 2025 23:32:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 23:32:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26217</guid>
       <category>crypto</category>
@@ -89,7 +109,7 @@
       <title>LookOnChain: SOL Drops Below $190</title>
       <link>https://www.lookonchain.com/feeds/26216</link>
       <description>On August 26th, based on HTX market data, SOL dropped below $190, experiencing a 24-hour decline of 7.16%.</description>
-      <pubDate>Mon, 25 Aug 2025 20:43:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26216</guid>
       <category>crypto</category>
@@ -107,7 +127,7 @@
       <title>The SEC Delays Decision on Canary Spot PENGU ETF and Grayscale Spot Cardano ETF Applications</title>
       <link>https://www.lookonchain.com/feeds/26215</link>
       <description>On August 26th, the US SEC postponed the decision regarding the applications of the Canary spot PENGU ETF and the Grayscale spot Cardano ETF.</description>
-      <pubDate>Mon, 25 Aug 2025 20:43:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26215</guid>
       <category>crypto</category>
@@ -124,7 +144,7 @@
       <title>The Acting Chair of the CFTC may join MoonPay after the confirmation of the official Chair.</title>
       <link>https://www.lookonchain.com/feeds/26214</link>
       <description>On August 26th, Crypto reporter Eleanor Terrett stated that &quot;There are rumors suggesting that after the confirmation of the permanent chairman, Caroline D. Pham, the Acting Chairman of the U.S. Commodity Futures Trading Commission (CFTC), will join the cryptocurrency payment platform MoonPay. MoonPay declined to provide any comments on this matter.A spokesperson for the CFTC did not refute this rumor and informed me, &apos;As she announced in May, Acting Chairman Pham will return to the private sector once the new chairman is confirmed. During this period, she remains dedicated to faithfully implementing the President&apos;s agenda and fulfilling his promise to &apos;achieve success in the crypto space&apos;.&apos;&quot;</description>
-      <pubDate>Mon, 25 Aug 2025 20:43:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26214</guid>
       <category>crypto</category>
@@ -141,7 +161,7 @@
       <title>LookOnChain: Ethereum Drops Below $4400</title>
       <link>https://www.lookonchain.com/feeds/26213</link>
       <description>On August 26th, according to HTX market data, Ethereum dropped below $4,400, experiencing a 24-hour loss of 7.50%.</description>
-      <pubDate>Mon, 25 Aug 2025 20:43:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26213</guid>
       <category>crypto</category>
@@ -161,7 +181,7 @@
       <title>U.S. Stock Market Close: Three Major Indexes Simultaneously Fall, Cryptocurrency-related Stocks Lead the Decline</title>
       <link>https://www.lookonchain.com/feeds/26212</link>
       <description>On August 26th, when the US stock market closed on Monday, the Dow Jones was preliminarily down by 0.76%, the S&amp;P 500 was down by 0.43%, and the Nasdaq was down by 0.2%.Cryptocurrency-related stocks experienced a decline: Coinbase (COIN.O) decreased by 4%, Circle (CRCL.N) dropped by 7%, and MicroStrategy (MSTR) went down by 4.17%.Nvidia (NVDA.O) rose by 1%, and Tesla (TSLA.O) increased by nearly 2%.</description>
-      <pubDate>Mon, 25 Aug 2025 19:43:57 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26212</guid>
       <category>crypto</category>
@@ -172,26 +192,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Price Falls Below $111,000</title>
-      <link>https://www.lookonchain.com/feeds/26211</link>
-      <description>On August 26th, according to HTX market data, Bitcoin dropped below $111,000, showing a 24-hour percentage change of -1.37%.</description>
-      <pubDate>Mon, 25 Aug 2025 19:43:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26211</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
