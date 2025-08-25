@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 04:29:08 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 04:29:08 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 04:51:01 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 04:51:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>麻吉大哥开设BTC和ETH多头仓位，仓位总价值超8000万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，麻吉大哥以40倍杠杆做多比特币，持仓155枚BTC，价值约1750万美元；同时以25倍杠杆做多以太坊，持仓15,300枚ETH，价值约7200万美元。</description>
+      <pubDate>Mon, 25 Aug 2025 04:37:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>分析：比特币的近期前景可能取决于美国经济数据</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Arthur Hayes在WebX峰会演讲时表示，Hyperliquid代币(HYPE)有望实现126倍的增长潜力。该项目计划通过稳定币扩张战略，预计到2028年将年化手续费提升至2580亿美元。并预测2028年稳定币供应量将达到10万亿美元，Hyperliquid将占据26.4%的市场份额，日均...</description>
       <pubDate>Mon, 25 Aug 2025 01:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸向 HyperLiquid 存入 195 万枚 USDC 加仓做空 ETH</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸向 HyperLiquid 存入 195 万枚 USDC，用于增加 ETH 做空仓位，杠杆为 25 倍。目前该巨鲸的 ETH 仓位价值为 7600 万美元，浮盈约 80 万美元。</description>
-      <pubDate>Mon, 25 Aug 2025 00:56:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

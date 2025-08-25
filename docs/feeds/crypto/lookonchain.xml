@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 04:29:08 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 04:29:08 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 04:51:01 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 04:51:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Analyst: Bitcoin&apos;s Near-Term Outlook May Depend on US Economic Data</title>
+      <link>https://www.lookonchain.com/feeds/26106</link>
+      <description>On August 25th, Linh Tran, a market analyst at XS.com, stated that the recent outlook for Bitcoin will mainly depend on the upcoming U.S. economic data, such as preliminary GDP and core personal consumption expenditures inflation. If the data continues to indicate a slowing U.S. economy and easing inflation, the Federal Reserve will have more grounds to initiate a rate-cutting cycle.Tran said, &quot;This situation will create a liquidity-rich environment that is conducive to Bitcoin&apos;s recovery.&quot; However, Tran also added that if the data unexpectedly turns out to be &quot;hot,&quot; investors may adopt a defensive stance and extend the short-term pullback. (FX678)</description>
+      <pubDate>Mon, 25 Aug 2025 04:25:08 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26106</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>LookOnChain: Bitcoin Drops Below $113,000</title>
       <link>https://www.lookonchain.com/feeds/26107</link>
       <description>On August 25th, according to HTX market data, Bitcoin dropped below $113,000, experiencing a 24-hour decline of 2.08%.</description>
-      <pubDate>Mon, 25 Aug 2025 04:25:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 04:25:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26107</guid>
       <category>crypto</category>
@@ -34,29 +53,10 @@
 
     </item>
     <item>
-      <title>Analyst: Bitcoin&apos;s Near-Term Outlook May Depend on US Economic Data</title>
-      <link>https://www.lookonchain.com/feeds/26106</link>
-      <description>On August 25th, Linh Tran, a market analyst at XS.com, stated that the recent outlook for Bitcoin will mainly depend on the upcoming U.S. economic data, such as preliminary GDP and core personal consumption expenditures inflation. If the data continues to indicate a slowing U.S. economy and easing inflation, the Federal Reserve will have more grounds to initiate a rate-cutting cycle.Tran said, &quot;This situation will create a liquidity-rich environment that is conducive to Bitcoin&apos;s recovery.&quot; However, Tran also added that if the data unexpectedly turns out to be &quot;hot,&quot; investors may adopt a defensive stance and extend the short-term pullback. (FX678)</description>
-      <pubDate>Mon, 25 Aug 2025 04:25:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26106</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
       <title>Meme Coin Balaji&apos;s Market Cap Surges Above $20M Briefly, with a 123% 24-Hour Growth</title>
       <link>https://www.lookonchain.com/feeds/26105</link>
       <description>On August 25th, according to GMGN market data, the market capitalization of the Base ecosystem&apos;s Meme coin balajis briefly reached over $20 million and is now back at $19.48 million, with a 24-hour increase of 123%.A screenshot was posted by Coinbase CEO Brian Armstrong on the X platform yesterday at 6:01, showing his purchase of 4,964,005 balajis, which is currently worth about $99,000. Brian Armstrong also retweeted a tweet from Jesse Pollak, the head of the Base ecosystem, stating that users can now directly purchase any Zora creator token in the Coinbase app.balajis is created through the Zora platform and is a Meme concept coin named after former Coinbase CTO and angel investor Balaji Srinivasan.</description>
-      <pubDate>Mon, 25 Aug 2025 04:17:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 04:17:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26105</guid>
       <category>crypto</category>
@@ -74,7 +74,7 @@
       <title>Bybit Makes Solana Debut in Global Trading Competition, Onchain Wave Event Prize Pool Surpasses $1 Million</title>
       <link>https://www.lookonchain.com/feeds/26104</link>
       <description>August 25th. Bybit declared that its annual event WSOT 2025 is going to make its debut on the Solana blockchain for the very first time. It is going to launch the on-chain special event &quot;Onchain Wave&quot; with a total prize pool exceeding $1 million and will run until September 15th. This event is co-hosted by Bybit Web3 and Byreal platforms, enabling CEX and DEX users to compete on the leaderboard together. The awards comprise:- Weekly Leaderboard Rewards: The top 200 traders each week will jointly share up to 250 BBSOL tokens.- Overall Leaderboard Rewards: The top 1000 traders will share 1650 BBSOL tokens.- Warrior Award: Users with a trading volume exceeding $10,000 but not making it to the leaderboard will share 900 BBSOL tokens.- Byreal Exclusive Award: LPs will daily share a prize pool of 650,000 USDC.In addition, a sixth-anniversary special award will be presented to the 6th-ranked users on both the weekly and overall leaderboards.It is reported that the event&apos;s partners inclu</description>
-      <pubDate>Mon, 25 Aug 2025 04:09:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 04:09:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26104</guid>
       <category>crypto</category>
@@ -92,7 +92,7 @@
       <title>DONKEY Meme Coin Market Cap Briefly Surpasses $77 Million, Reaching an All-Time High</title>
       <link>https://www.lookonchain.com/feeds/26103</link>
       <description>On August 25th, according to the market data of GMGN, the market capitalization of the BSC ecosystem Meme coin DONKEY briefly exceeded 77 million USD, reaching a historical high. It has now dropped to 60.9 million USD, with a 24-hour increase of 81%.The 24-hour trading volume reached 19.2 million USD, and the number of hodlers reached 34,360.BlockBeats Note: Meme coins are highly volatile and mostly lack practical use cases. Please be cautious about asset protection and avoid the fear of missing out (FOMO).</description>
-      <pubDate>Mon, 25 Aug 2025 04:09:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 04:09:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26103</guid>
       <category>crypto</category>
@@ -110,7 +110,7 @@
       <title>Paris Bank expects the Federal Reserve to cut interest rates by 25 basis points in September and December.</title>
       <link>https://www.lookonchain.com/feeds/26102</link>
       <description>On August 25th, BNP Paribas anticipates that the Federal Reserve will reduce interest rates by 25 basis points in September and December (formerly predicted that there would be no rate cut until 2025).Previously, Barclays expected that the Federal Reserve would cut interest rates by 25 basis points in both September and December of this year (formerly predicted to cut rates only once in December). (FXStreet)</description>
-      <pubDate>Mon, 25 Aug 2025 04:09:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 04:09:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26102</guid>
       <category>crypto</category>
@@ -127,7 +127,7 @@
       <title>CZ Reminder: Taking a photo with a community member does not equate to endorsement, and engaging with likes and retweets on Twitter does not necessarily indicate approval or support for a project</title>
       <link>https://www.lookonchain.com/feeds/26101</link>
       <description>August 25th. Binance&apos;s founder CZ posted on social media to give a reminder. &quot;In the past few days, I have taken hundreds of selfies with everyone. After a speech, I usually spend some time taking group photos with them. With proper organization, we can take 600 selfies in 30 minutes, which is about 3 seconds per photo.&quot;During this time, some people try to talk to me or sell me something, but that is not the right moment. Smart people leave a business card with a brief sentence introduction. (My favorite is the one with a Signal or WhatsApp QR code.) Besides that, I cannot and will not accept any other papers or gifts.Taking a photo with me does not imply any endorsement. I usually have no idea what projects everyone is working on. When I interact with or like a photo on X, it is just because I like that photo. This also does not imply any endorsement or support for the project.</description>
-      <pubDate>Mon, 25 Aug 2025 04:02:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 04:02:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26101</guid>
       <category>crypto</category>
@@ -144,7 +144,7 @@
       <title>If Bitcoin breaks $115,000, the mainstream CEX cumulative short liquidation intensity will reach $1.049 billion.</title>
       <link>https://www.lookonchain.com/feeds/26100</link>
       <description>On August 25th, according to Coinglass data, if Bitcoin manages to break through $115,000, the cumulative short liquidation intensity on mainstream CEXs will reach $1.049 billion.Conversely, if Bitcoin drops below $112,000, the cumulative long liquidation intensity on mainstream CEXs will reach $209 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to the adjacent liquidation cluster, that is, the intensity.Therefore, the liquidation chart shows to what extent the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will undergo a more intense reaction due to a liquidity cascade when it reaches that level.</description>
-      <pubDate>Mon, 25 Aug 2025 03:40:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 03:50:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26100</guid>
       <category>crypto</category>
@@ -164,7 +164,7 @@
       <title>Metaplanet increased its BTC holdings by 103 coins, bringing the total holdings to 18,991 coins.</title>
       <link>https://www.lookonchain.com/feeds/26099</link>
       <description>On August 25th, according to official channels, the publicly traded Japanese company Metaplanet announced the acquisition of an additional 103 BTC, bringing its total holdings to 18,991 BTC.</description>
-      <pubDate>Mon, 25 Aug 2025 03:28:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 02:50:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26099</guid>
       <category>crypto</category>
@@ -183,7 +183,7 @@
       <title>Metaplanet is up 4.19%, with a market capitalization reaching $40.79 billion</title>
       <link>https://www.lookonchain.com/feeds/26098</link>
       <description>On August 25th, based on market data, the stock price of the Japanese-listed company Metaplanet increased by 4.19%, resulting in its market value reaching $4.079 billion.Metaplanet announced today that it has once again increased its holdings by 103 BTC, bringing its total holdings to 18,991 BTC.</description>
-      <pubDate>Mon, 25 Aug 2025 03:28:13 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 02:50:08 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26098</guid>
       <category>crypto</category>
