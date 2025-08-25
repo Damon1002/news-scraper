@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 03:08:27 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 03:08:27 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 03:55:40 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 03:55:40 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,67 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>If Bitcoin breaks $115,000, the mainstream CEX cumulative short liquidation intensity will reach $1.049 billion.</title>
+      <link>https://www.lookonchain.com/feeds/26100</link>
+      <description>On August 25th, according to Coinglass data, if Bitcoin manages to break through $115,000, the cumulative short liquidation intensity on mainstream CEXs will reach $1.049 billion.Conversely, if Bitcoin drops below $112,000, the cumulative long liquidation intensity on mainstream CEXs will reach $209 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to the adjacent liquidation cluster, that is, the intensity.Therefore, the liquidation chart shows to what extent the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will undergo a more intense reaction due to a liquidity cascade when it reaches that level.</description>
+      <pubDate>Mon, 25 Aug 2025 03:40:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26100</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Metaplanet increased its BTC holdings by 103 coins, bringing the total holdings to 18,991 coins.</title>
+      <link>https://www.lookonchain.com/feeds/26099</link>
+      <description>On August 25th, according to official channels, the publicly traded Japanese company Metaplanet announced the acquisition of an additional 103 BTC, bringing its total holdings to 18,991 BTC.</description>
+      <pubDate>Mon, 25 Aug 2025 03:08:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26099</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Metaplanet is up 4.19%, with a market capitalization reaching $40.79 billion</title>
+      <link>https://www.lookonchain.com/feeds/26098</link>
+      <description>On August 25th, based on market data, the stock price of the Japanese-listed company Metaplanet increased by 4.19%, resulting in its market value reaching $4.079 billion.Metaplanet announced today that it has once again increased its holdings by 103 BTC, bringing its total holdings to 18,991 BTC.</description>
+      <pubDate>Mon, 25 Aug 2025 03:08:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26098</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Ethereum Withdrawal Recovery, CEX Net Outflow of 23,600 ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/26097</link>
       <description>On August 25th, based on Coinglass data, in the past 24 hours, the total net outflow of ETH from CEX was 23,600. The top three exchanges with outflows are as follows:· Coinbase Pro, with an outflow of 117,000 ETH;· Kraken, with an outflow of 34,300 ETH;· Gemini, with an outflow of 11,000 ETH.In addition, Binance had an inflow of 104,400 ETH and ranked first on the inflow list.</description>
-      <pubDate>Mon, 25 Aug 2025 03:00:34 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 03:00:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26097</guid>
       <category>crypto</category>
@@ -33,27 +90,10 @@
 
     </item>
     <item>
-      <title>SBI Holdings Enters into Strategic Partnership with Chainlink to Accelerate Institutional Adoption of Digital Assets</title>
-      <link>https://www.lookonchain.com/feeds/26096</link>
-      <description>On August 25th, the Japanese financial group SBI Holdings announced a strategic partnership with Chainlink in order to expedite the institutional adoption of digital assets. This collaboration makes use of Chainlink&apos;s Cross-Chain Interoperability Protocol (CCIP) to enable the cross-chain tokenization of real-world assets like real estate and bonds. The protocol facilitates secure transactions across any blockchain while guaranteeing compliance and privacy.Furthermore, the collaboration will center around using Chainlink CCIP to achieve peer-to-peer (PvP) settlement for foreign exchange and cross-border transactions. Additionally, they will employ Chainlink&apos;s Proof of Reserve to offer transparent on-chain validation of stablecoin reserves.</description>
-      <pubDate>Mon, 25 Aug 2025 02:48:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26096</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>「$125,000 Roll Long on ETH」 Whale double-crosses ETH long position again, with a position worth approximately $1.11 billion in ETH longs</title>
       <link>https://www.lookonchain.com/feeds/26095</link>
       <description>On August 25th, according to the monitoring of on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;125k USD Long ETH Liquidation&quot; whale once again carried out a double cross of an ETH long position:· Address 0xd07...327bb: Holding 23,108 ETH (approximately 110 million USD), with an opening price of 4,590 USD and a liquidation price of 4,658.8 USD, having an unrealized profit of 4.06 million USD.· Address 0x5f7...eda67: Deposited 69,895 USDC as collateral 6 hours ago and just opened a 254.34 ETH 25x long position, with an opening price of 4,796.23 USD and a liquidation price of 4,678.47 USD.</description>
-      <pubDate>Mon, 25 Aug 2025 02:32:34 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 02:54:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26095</guid>
       <category>crypto</category>
@@ -71,10 +111,27 @@
 
     </item>
     <item>
+      <title>SBI Holdings Enters into Strategic Partnership with Chainlink to Accelerate Institutional Adoption of Digital Assets</title>
+      <link>https://www.lookonchain.com/feeds/26096</link>
+      <description>On August 25th, the Japanese financial group SBI Holdings announced a strategic partnership with Chainlink in order to expedite the institutional adoption of digital assets. This collaboration makes use of Chainlink&apos;s Cross-Chain Interoperability Protocol (CCIP) to enable the cross-chain tokenization of real-world assets like real estate and bonds. The protocol facilitates secure transactions across any blockchain while guaranteeing compliance and privacy.Furthermore, the collaboration will center around using Chainlink CCIP to achieve peer-to-peer (PvP) settlement for foreign exchange and cross-border transactions. Additionally, they will employ Chainlink&apos;s Proof of Reserve to offer transparent on-chain validation of stablecoin reserves.</description>
+      <pubDate>Mon, 25 Aug 2025 02:54:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26096</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Metaplanet was included in the FTSE Japan Index evaluation in September.</title>
       <link>https://www.lookonchain.com/feeds/26094</link>
       <description>On August 25th, Simon Gerovich, the CEO of the Japanese-listed company Metaplanet, tweeted that Metaplanet is going to be included in the FTSE Japan Index during the September review.</description>
-      <pubDate>Mon, 25 Aug 2025 02:25:34 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 02:54:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26094</guid>
       <category>crypto</category>
@@ -91,7 +148,7 @@
       <title>Japanese Finance Minister: Will Create a Suitable Environment for Cryptographic Assets, Which May Serve as Part of a Diversified Investment Portfolio</title>
       <link>https://www.lookonchain.com/feeds/26093</link>
       <description>On August 25th, Japanese Finance Minister Taro Aso declared that he would establish a favorable environment for crypto assets, which might be a part of a diversified investment portfolio. (Kinjo)</description>
-      <pubDate>Mon, 25 Aug 2025 02:24:34 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 01:54:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26093</guid>
       <category>crypto</category>
@@ -105,32 +162,10 @@
 
     </item>
     <item>
-      <title>A Whale/Institution has liquidated their ETH holdings in the past 13 hours, realizing a total profit of $51.7 million.</title>
-      <link>https://www.lookonchain.com/feeds/26090</link>
-      <description>On August 25th, as monitored by on-chain analyst Yu Jin, a whale/institution sold the remaining 10,425 ETH they had held over the past 13 hours and converted it into 49,737,000 USDT.· Back in June, they transferred 98,330,000 USDT from TRX to ETH through 10 addresses. Then, on July 14th, they went all-in and purchased 33,333 ETH at an average price of $2,950.· After holding ETH for one month, they began to sell. All sales were completed in the early morning of this day, with an average selling price of approximately $4,555.· Through this ETH investment, they achieved a profit of $51.7 million: converting 98,330,000 USDT into 150 million USDT.</description>
-      <pubDate>Mon, 25 Aug 2025 02:16:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26090</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
       <title>Arthur Hayes: Crypto Bull Market Could Last Until 2028</title>
       <link>https://www.lookonchain.com/feeds/26092</link>
       <description>On August 25th, Arthur Hayes, the co-founder of BitMEX, stated at the opening ceremony of the WebX Summit held in Tokyo on August 25th that due to the changes in the US stablecoin policy, the cryptocurrency bull market will persist until 2028. The US intends to redirect the $10 to $13 trillion offshore Eurodollar market towards a government-controlled stablecoin ecosystem in order to achieve fiscal control. DeFi platforms like Ethena and Hyperliquid are anticipated to gain from the inflow of a substantial amount of stablecoin liquidity.</description>
-      <pubDate>Mon, 25 Aug 2025 02:16:34 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 01:54:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26092</guid>
       <category>crypto</category>
@@ -147,7 +182,7 @@
       <title>Placeholder Partner: We expect the SOL/ETH and SOL/BTC exchange rates to strengthen further in the coming weeks.</title>
       <link>https://www.lookonchain.com/feeds/26091</link>
       <description>On August 25th, Chris Burniske, who was formerly the lead of Ark Invest&apos;s crypto and is now a partner at Placeholder VC, stated, &quot;The exchange rates between SOL and ETH and between SOL and BTC continue to perform well. Given that SOL has recently been out of favor (due to comments, market sentiment, etc.), I expect this trend to only become stronger in the next few weeks.&quot;</description>
-      <pubDate>Mon, 25 Aug 2025 02:16:34 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 01:54:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26091</guid>
       <category>crypto</category>
@@ -162,43 +197,6 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>The number of ETH in the queue to join the Ethereum PoS network has reached 404,500, while over 840,000 ETH are waiting to exit.</title>
-      <link>https://www.lookonchain.com/feeds/26089</link>
-      <description>On August 25th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 846,142 ETH, which is approximately worth 4 billion US dollars. This is a slight relief compared to the previous all-time high of 916,647 ETH.At the same time, the queued ETH waiting to join the network has risen to 404,500 ETH (compared to 152,625 ETH yesterday).Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may choose to cash out after Ethereum has surged significantly since the April low point, resulting in a sharp increase in the exit queue. On the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also pushing up the entry queue. Listed companies such as SharpLink Gaming and BitMine Immersion have increased their ETH holdings and are staking.</description>
-      <pubDate>Mon, 25 Aug 2025 02:08:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26089</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A certain new wallet withdrew 80,254 SOL from Binance, worth $16.28 million</title>
-      <link>https://www.lookonchain.com/feeds/26088</link>
-      <description>On August 25th, as per the monitoring of Onchain Lens, a newly established wallet withdrew 80,254 SOL from Binance. The value of this withdrawal was $16.28 million, and it was then staked.</description>
-      <pubDate>Mon, 25 Aug 2025 02:07:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26088</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
