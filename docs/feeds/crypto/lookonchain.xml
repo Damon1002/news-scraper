@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 16:53:40 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 16:53:40 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 17:13:32 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 17:13:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>LookOnChain: Ethereum Drops Below $4600</title>
+      <link>https://www.lookonchain.com/feeds/26205</link>
+      <description>On August 26th, according to HTX market data, the price of Ethereum fell below $4600, showing a 24-hour change of -5.00%.</description>
+      <pubDate>Mon, 25 Aug 2025 17:08:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26205</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>On-chain Monitoring Platform: LIBRA Token Key Figure Hayden Davis Nets $12 Million Profit by Sniping YZY Launch</title>
       <link>https://www.lookonchain.com/feeds/26204</link>
       <description>On August 26th, the Blockchain data monitoring platform Bubblemaps released an article indicating that based on the tracked fund flows, Hayden Davis, a key figure in the LIBRA token from Kelsier Labs LLC, made $12 million by snatching the YZY token at its launch.According to GMGN market data, the YZY token reached a market value of $3 billion at the time of launch and then began a one-way downward trend. Currently, the market value has dropped sharply to $550 million, with a 24-hour decline of 19.66%.BlockBeats had previously reported that scooter, a crypto KOL who was involved in leaking information about the LIBRA token, claimed that he could be 99% certain that Hayden Davis was involved in releasing the YZY token as the YZY model closely resembles the LIBRA model from a few months ago.</description>
-      <pubDate>Mon, 25 Aug 2025 16:24:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 16:24:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26204</guid>
       <category>crypto</category>
@@ -36,7 +56,7 @@
       <title>Bitget has launched the U-based SOMI perpetual contract.</title>
       <link>https://www.lookonchain.com/feeds/26203</link>
       <description>August 26th. According to an official statement, Bitget has declared the commencement of a U-based SOMI perpetual contract. The leverage offered ranges from 1 to 5 times. Simultaneously, the contract trading BOT will be activated.</description>
-      <pubDate>Mon, 25 Aug 2025 16:16:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 16:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26203</guid>
       <category>crypto</category>
@@ -53,26 +73,9 @@
       <title>Moonbirds has partnered with Football.Fun, where users holding the NFT can claim a Pro Pack card pack and 2000 Reputation Points.</title>
       <link>https://www.lookonchain.com/feeds/26202</link>
       <description>On August 26th, the official Moonbirds team made an announcement on social media that the project has entered into a partnership with the Base Layer sports prediction app Football.Fun. By linking a wallet holding Moonbirds or delegating to the user&apos;s Football.Fun account, users are eligible to receive a free Pro Pack card pack along with 2000 reputation points. Once the wallet is connected for 48 hours, the card pack and points will be automatically delivered to the user&apos;s account. BlockBeats had previously reported that, according to Dune Analytics, the Base Layer&apos;s reward-based sports prediction app Football.Fun currently has a total of 10,738 active user wallet addresses, a platform total value locked (TVL) of $10.79 million, and cumulative revenue of $1.54 million.</description>
-      <pubDate>Mon, 25 Aug 2025 16:16:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 16:16:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26202</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump: The U.S. Will No Longer Provide Any Funding to Ukraine</title>
-      <link>https://www.lookonchain.com/feeds/26201</link>
-      <description>On August 26, US President Trump said that the US will no longer provide any financial support to Ukraine in the context of the Ukraine conflict. (Forex)</description>
-      <pubDate>Mon, 25 Aug 2025 16:08:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26201</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -87,7 +90,7 @@
       <title>Arkham: Identified BTC Holding Address Worth $740 Million in the UAE, Primarily Acquired Through Mining Firm Citadel&apos;s Rewards</title>
       <link>https://www.lookonchain.com/feeds/26200</link>
       <description>On August 25th, in Arkham, an on-chain data monitoring platform, it was announced on social media that a relevant address in the United Arab Emirates has now been marked on the Arkham platform. The UAE&apos;s Bitcoin holdings worth $700 million have been indicated on the Arkham platform.Arkham stated that the UAE is the fourth-largest government entity holding Bitcoin on the platform, with a total BTC holding value of nearly $7.4 billion. Unlike in the United States and the United Kingdom, the UAE&apos;s Bitcoin holdings do not come from law enforcement asset seizures but rather from mining operations carried out in partnership with Citadel. As of now, they have mined approximately 9,300 BTC and still hold at least around 6,300 BTC.2pointzero holds 85% of Citadel, and the latter is 100% owned by IHC. Approximately 61% of IHC is owned by the UAE Royal Group, which is controlled by Sheikh Tahnoon Bin Zayed Al Nahyan, a member of the Abu Dhabi royal family.Through partnerships with the Phoeni</description>
-      <pubDate>Mon, 25 Aug 2025 15:56:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 16:12:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26200</guid>
       <category>crypto</category>
@@ -104,10 +107,27 @@
 
     </item>
     <item>
+      <title>Trump: The U.S. Will No Longer Provide Any Funding to Ukraine</title>
+      <link>https://www.lookonchain.com/feeds/26201</link>
+      <description>On August 26, US President Trump said that the US will no longer provide any financial support to Ukraine in the context of the Ukraine conflict. (Forex)</description>
+      <pubDate>Mon, 25 Aug 2025 16:12:39 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26201</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Canary Capital Submits Canary American-Made Crypto ETF Application to SEC</title>
       <link>https://www.lookonchain.com/feeds/26199</link>
       <description>On August 25th, as per market intelligence, the digital asset management firm Canary Capital has submitted the application for the Canary American-Made Crypto ETF to the SEC. The intention is to list it on the Cboe BZX exchange under the code MRCA. The fund solely invests in crypto assets that are invented, mined, or led in the United States, thereby being a high-risk speculative product and currently awaiting approval. Canary has also put in applications for the Canary Trump Coin ETF and the Canary Staked Injective ETF.</description>
-      <pubDate>Mon, 25 Aug 2025 15:52:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 16:12:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26199</guid>
       <category>crypto</category>
@@ -124,7 +144,7 @@
       <title>Fundamental Global has increased its holding of 1111 ETH, bringing its total position to 48,545 ETH.</title>
       <link>https://www.lookonchain.com/feeds/26198</link>
       <description>August 25th. According to official channels, by August 25, 2025, Fundamental Global&apos;s current holdings of Ethereum (ETH) have risen to 48,545 coins. It recently purchased 1,111 ETH at an average price of $4,341. Based on Bloomberg data at 5:00 PM on August 24, 2025, Fundamental Global Inc.&apos;s total ETH holdings are valued at around $230 million (assuming an ETH price of $4,737). The company intends to rapidly increase its ETH holdings with the aim of becoming a 10% shareholder of the Ethereum network.</description>
-      <pubDate>Mon, 25 Aug 2025 15:52:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 15:12:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26198</guid>
       <category>crypto</category>
@@ -143,7 +163,7 @@
       <title>CZ: Helen did not participate in YZi Labs&apos; strategic support for Project B.</title>
       <link>https://www.lookonchain.com/feeds/26197</link>
       <description>On August 25th, CZ stated on social media that the cryptocurrency media TheBlock made some unfounded statements in its report on &quot;B Strategy&quot;. It was specifically added that &quot;B Strategy will receive strategic support from YZi Labs led by Binance co-founder CZ and Yi He&quot;, which was considered as &quot;over-interpretation&quot; as Ms. Yi He was not involved in this matter.Previously reported by BlockBeats, B Strategy, an investment company focusing on digital assets, announced plans to launch the BNB Treasury Company for listing on Nasdaq, aiming to raise $1 billion. The unnamed BNB Treasury Company of B Strategy will receive strategic support from YZi Labs. A representative stated that in addition to providing financial support, YZi Labs will also provide ecosystem support by connecting ecosystem partners.</description>
-      <pubDate>Mon, 25 Aug 2025 15:52:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 15:12:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26197</guid>
       <category>crypto</category>
@@ -160,26 +180,9 @@
       <title>Bio Protocol&apos;s first BioAgent Launch project, Aubrai, has been oversubscribed by 6 times.</title>
       <link>https://www.lookonchain.com/feeds/26196</link>
       <description>On August 25th, Bio Protocol officially made an announcement on social media that the first BioAgent Launch project of Bio Protocol, Aubrai, has received 6 times more subscriptions than expected.</description>
-      <pubDate>Mon, 25 Aug 2025 14:52:47 +0000</pubDate>
+      <pubDate>Mon, 25 Aug 2025 15:12:39 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26196</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Crypto-Friendly Bank Xapo Bank Hires Former FalconX Executive as Chief Customer Relationship Officer</title>
-      <link>https://www.lookonchain.com/feeds/26195</link>
-      <description>On August 25th, according to the report of CoinDesk, Xapo Bank, which is known for its crypto-friendly attitude, has appointed Tommy Doyle as its head of relationship management based in London.It is recorded that Doyle used to serve as the head of Europe for the crypto prime broker FalconX and also worked in hedge fund sales at the crypto exchange Coinbase. Before focusing on the crypto field, he had a successful career in traditional finance and worked at Wall Street banks such as Goldman Sachs, Citigroup, and Bank of America (BAC). Xapo Bank, with its headquarters in Gibraltar, is regulated by the Gibraltar Financial Services Commission (GFSC). Earlier this year, the bank started to offer bitcoin-backed loans.</description>
-      <pubDate>Mon, 25 Aug 2025 14:52:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26195</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
