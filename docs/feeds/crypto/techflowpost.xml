@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 07:29:44 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 07:29:44 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 07:44:39 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 07:44:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某波段巨鲸以4710美元单价购入2123.14枚以太坊，目前浮亏17.8万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，某波段巨鲸在沉寂十天后重返市场，斥资1000万USDT以4710美元单价购入2123.14枚以太坊(ETH)。该地址同时设置了4800美元的限价卖单，若成功卖出将获利19.1万美元，但目前仍处于17.8万美元的浮亏状态。</description>
+      <pubDate>Mon, 25 Aug 2025 07:32:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>「12.5万美元滚仓做多ETH」巨鲸多单遭部分清算，浮盈回落至113万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，沪深两市成交额连续第9个交易日突破2万亿元。</description>
       <pubDate>Mon, 25 Aug 2025 03:31:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>数据：上周Hyperliquid花费2400万美元用于回购</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据The block数据面板显示，上周（8月18日至8月25日）代币回购总额为2734万美元，其中Hyperliquid回购2400万美元，pump.fun回购320万美元，Jupiter回购245万美元。</description>
-      <pubDate>Mon, 25 Aug 2025 03:23:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
