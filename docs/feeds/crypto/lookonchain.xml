@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Aug 2025 23:56:29 +0000</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 23:56:29 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 01:48:29 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 01:48:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,81 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Sequans Announces $200 Million Equity Plan to Accelerate Bitcoin Reserve Strategy</title>
-      <link>https://www.lookonchain.com/feeds/26221</link>
-      <description>On August 26th, the French semiconductor and IoT company Sequans Communications (NYSE: SQNS) announced the formulation of an &quot;At The Market&quot; (ATM) equity offering plan. The company has the ability to issue American Depositary Shares at any time in accordance with market conditions. Each share represents 10 ordinary shares, and the total amount can reach up to $200 million.Sequans indicated that this plan will serve as a means for the first stage of its Bitcoin reserve strategy. The funds raised are expected to be mainly used to continuously purchase Bitcoin in order to support the company&apos;s long-term reserve strategy.</description>
-      <pubDate>Mon, 25 Aug 2025 23:48:37 +0000</pubDate>
+      <title>Federal Reserve Governor Waller: &quot;No Need to Worry&quot; About Using Smart Contracts, Tokenization, or Distributed Ledger Technology in Everyday Transactions</title>
+      <link>https://www.lookonchain.com/feeds/26248</link>
+      <description>August 26th. Lately, Lael Brainard, a member of the Federal Reserve Board and a prominent candidate for the next Chair of the Federal Reserve, gave a public speech on &quot;Technological Advancements in Payments&quot; at a blockchain seminar held in Wyoming. She emphasized that the payment system is undergoing a &quot;technology-driven revolution.&quot; Recent advancements in computing power, data processing, and distributed networks are fueling the growth of innovative payment services.Brainard stated that three key things occur in any payment transaction. The same processes also apply to the realm of cryptocurrencies. &quot;When I purchase a meme coin and use a stablecoin as the payment method, the transaction is carried out through a smart contract. Eventually, the transaction is recorded on a distributed ledger. This is not something to be feared as it happens in the world of decentralized finance or DeFi. It is simply a new technology used to transfer assets and record transactions. There is no need to</description>
+      <pubDate>Tue, 26 Aug 2025 01:40:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26221</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26248</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>65.5 billion WLFI tokens have been transferred to the Lockbox contract, representing 6.55% of the total token supply.</title>
+      <link>https://www.lookonchain.com/feeds/26247</link>
+      <description>On August 26th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), 6.55 billion WLFI tokens have been transferred to the Lockbox contract, which makes up 6.55% of the total token supply.The team announced that the Lockbox was opened at 3:57 a.m. today. In just five and a half hours, a large number of tokens were received. At the current contract price, the estimated value is $1.5 billion. Two of the top 10 individual holders have already completed their transfers (TOP1 &amp; TOP8).This morning&apos;s news indicated that the WLFI token will officially start unlocking at 8 a.m. Eastern Time on September 1st. The related feature page (Lockbox) is now live.</description>
+      <pubDate>Tue, 26 Aug 2025 01:40:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26247</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Huma Finance Announces Launch of Season 1 Airdrop</title>
+      <link>https://www.lookonchain.com/feeds/26246</link>
+      <description>August 26th. Huma Finance declared the commencement of Season 1 airdrop in order to reward liquidity providers, HUMA stakers, ecosystem partners, and community users.The official announcement noted that since the Season 0 airdrop, the platform has accumulated approximately $6 billion in PayFi transactions.</description>
+      <pubDate>Tue, 26 Aug 2025 01:32:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26246</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Stargate has announced the termination of the STG staking feature. veSTG holders will share 50% of the protocol revenue, with the remaining 50% allocated to ZRO buyback.</title>
+      <link>https://www.lookonchain.com/feeds/26245</link>
+      <description>August 26th. According to an official announcement made by Stargate, the LayerZero Foundation has officially completed the full acquisition of Stargate (STG), encompassing the protocol, token, and treasury. Following the acquisition, the STG token will be exchangeable for LayerZero&apos;s native token ZRO at a fixed rate (1 STG = 0.08634 ZRO), and the exchange window will remain open without a specific end date.Furthermore, the StargateDAO will be dissolved, and the STG staking function will be terminated. However, previously locked STG will automatically unlock, and users will be able to exchange them for ZRO at any time. Additionally, all veSTG holders who locked their tokens prior to August 10th will share 50% of the Stargate protocol&apos;s revenue over the next six months, with the remaining 50% being used for ZRO buybacks.Previously, the Stargate DAO had approved LayerZero&apos;s acquisition of Stargate (STG).</description>
+      <pubDate>Tue, 26 Aug 2025 01:32:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26245</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A Bitcoin Whale HODLer of 5 Years Moves 2221 BTC, Realizing a Cumulative ROI of 1265x</title>
+      <link>https://www.lookonchain.com/feeds/26243</link>
+      <description>August 26th. As per Chainalysis, following a period of 5 years in dormancy, a dormant BTC whale made a move 5 hours ago by transferring 2,221 BTC ($245 million) to two new wallets.This whale initially amassed 3,109 BTC 12 years ago (in 2013/7) when the price of BTC was $94.5. Eight years ago (in 2017/8), it sold 888 BTC at a price of $4,540 (and transferred them to Gemini), and has been holding the remaining 2,221 BTC ever since.The BTC it accumulated has now achieved a 1265x return on investment.</description>
+      <pubDate>Tue, 26 Aug 2025 01:24:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26243</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,140 +99,16 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>high-value</category>
+      <category>whale</category>
 
     </item>
     <item>
-      <title>In the past 24 hours, there have been liquidations totaling $904 million across the entire network, with over 206,000 accounts being liquidated.</title>
-      <link>https://www.lookonchain.com/feeds/26218</link>
-      <description>August 26: Based on Coinglass data, the overall value of liquidations within the past 24 hours reached $9.04 billion. Long liquidations accounted for $8.18 billion.Furthermore, during the last 24 hours, a total of 206,571 individuals underwent liquidation. The largest single liquidation order took place in HTX - BTC-USDT, with a value of $39.2448 million.</description>
-      <pubDate>Mon, 25 Aug 2025 23:40:37 +0000</pubDate>
+      <title>Tom Lee&apos;s Fund Analyst: Ethereum to Bottom Around $4300, Then Break Above $5100</title>
+      <link>https://www.lookonchain.com/feeds/26244</link>
+      <description>On August 26th, based on a tweet screenshot provided by Tom Lee, analyst Mark Newton, who precisely predicted last week that Ethereum would reach its bottom at $4070, stated that Ethereum has a favorable risk-reward ratio at this price. Unless the bull market trend is disrupted, Ethereum will not fall below $4067 again.&quot;It is ideal that Ethereum bottoms out near $4300, then begins to rebound, sets a new high once again, and breaks through $5100 to rise to approximately $5400 - 5450, which could be of significant importance.&quot;</description>
+      <pubDate>Tue, 26 Aug 2025 01:24:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26218</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve&apos;s Williams: Policymakers Should Exercise Caution When Using Neutral Interest Rate Estimates</title>
-      <link>https://www.lookonchain.com/feeds/26219</link>
-      <description>August 26th: Williams from the Federal Reserve stated that the data did not exhibit a notable increase in the level of the neutral interest rate. The data suggests that the &quot;low interest rate environment&quot; still persists. Policymakers should be cautious when relying on estimates of the neutral interest rate.At the same time, Williams refrained from commenting on the outlook of the Federal Reserve&apos;s monetary policy. (Cnstock Finance)</description>
-      <pubDate>Mon, 25 Aug 2025 23:40:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26219</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>WLFI: The token will begin unlocking at 8:00 AM Eastern Time on September 1st, and the related functional pages are now online</title>
-      <link>https://www.lookonchain.com/feeds/26220</link>
-      <description>On August 26th, as per an official announcement, the WLFI token unlocking feature page, Lockbox, has been launched. Users who hold the token can transfer WLFI into Lockbox to commence the unlocking process.Start Time: 1st September at 8:00 AM Eastern Time (initial 20% allocation).</description>
-      <pubDate>Mon, 25 Aug 2025 23:40:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26220</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The crypto market gives back gains from the &quot;Powell Night,&quot; with Bitcoin falling below the $110,000 mark.</title>
-      <link>https://www.lookonchain.com/feeds/26217</link>
-      <description>On August 26th, based on HTX market data, last night and this morning, the cryptocurrency market witnessed a substantial pullback. As of the time of this writing:Bitcoin dropped below the $110,000 level and is currently trading at $109,825, with a 24-hour decline of 2.11%. It has gone below the $112,000 level that was observed before Powell&apos;s speech.Ethereum dropped below $4,400 and is currently priced at $4,365, with a 24-hour decline of 5.4%.</description>
-      <pubDate>Mon, 25 Aug 2025 23:32:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26217</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: SOL Drops Below $190</title>
-      <link>https://www.lookonchain.com/feeds/26216</link>
-      <description>On August 26th, based on HTX market data, SOL dropped below $190, experiencing a 24-hour decline of 7.16%.</description>
-      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26216</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The SEC Delays Decision on Canary Spot PENGU ETF and Grayscale Spot Cardano ETF Applications</title>
-      <link>https://www.lookonchain.com/feeds/26215</link>
-      <description>On August 26th, the US SEC postponed the decision regarding the applications of the Canary spot PENGU ETF and the Grayscale spot Cardano ETF.</description>
-      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26215</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Acting Chair of the CFTC may join MoonPay after the confirmation of the official Chair.</title>
-      <link>https://www.lookonchain.com/feeds/26214</link>
-      <description>On August 26th, Crypto reporter Eleanor Terrett stated that &quot;There are rumors suggesting that after the confirmation of the permanent chairman, Caroline D. Pham, the Acting Chairman of the U.S. Commodity Futures Trading Commission (CFTC), will join the cryptocurrency payment platform MoonPay. MoonPay declined to provide any comments on this matter.A spokesperson for the CFTC did not refute this rumor and informed me, &apos;As she announced in May, Acting Chairman Pham will return to the private sector once the new chairman is confirmed. During this period, she remains dedicated to faithfully implementing the President&apos;s agenda and fulfilling his promise to &apos;achieve success in the crypto space&apos;.&apos;&quot;</description>
-      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26214</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Ethereum Drops Below $4400</title>
-      <link>https://www.lookonchain.com/feeds/26213</link>
-      <description>On August 26th, according to HTX market data, Ethereum dropped below $4,400, experiencing a 24-hour loss of 7.50%.</description>
-      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26213</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26244</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -178,12 +123,75 @@
 
     </item>
     <item>
-      <title>U.S. Stock Market Close: Three Major Indexes Simultaneously Fall, Cryptocurrency-related Stocks Lead the Decline</title>
-      <link>https://www.lookonchain.com/feeds/26212</link>
-      <description>On August 26th, when the US stock market closed on Monday, the Dow Jones was preliminarily down by 0.76%, the S&amp;P 500 was down by 0.43%, and the Nasdaq was down by 0.2%.Cryptocurrency-related stocks experienced a decline: Coinbase (COIN.O) decreased by 4%, Circle (CRCL.N) dropped by 7%, and MicroStrategy (MSTR) went down by 4.17%.Nvidia (NVDA.O) rose by 1%, and Tesla (TSLA.O) increased by nearly 2%.</description>
-      <pubDate>Mon, 25 Aug 2025 19:55:37 +0000</pubDate>
+      <title>「Big Brother Whale」 Huang Lizhong Holds ETH Long Position of Over $100 Million, with Unrealized Loss of Over $6.65 Million</title>
+      <link>https://www.lookonchain.com/feeds/26242</link>
+      <description>August 26th. Based on the monitoring of HyperInsight (https://t.me/HyperInsight), in the early morning today, &quot;Big Brother Whale&quot; Huang Licheng significantly increased his long positions in multiple coins. Specifically:- ETH: Added 2700 coins, with a total position size of approximately $100.5 million. Currently, it is experiencing a floating loss of about $6.65 million, and the liquidation price is around $3028.- BTC: The position size is around $29 million, with a floating loss of about $868,000.- HYPE: The position size is around $6.85 million, with a floating loss of about $293,000.- YZY: The position size is around $616,000, with a floating loss of about $15,400.- PUMP: The position size is around $53,000, with a floating loss of about $3,260.Overall, Huang Licheng increased his positions in multiple coins this time. However, currently, most positions are still in a floating loss state.</description>
+      <pubDate>Tue, 26 Aug 2025 01:16:36 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26212</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26242</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Whale Trader Engages in Dip Buying During Market Downturn, Spending $99.03 Million to Buy the Dip on 10,000 ETH and 500 BTC</title>
+      <link>https://www.lookonchain.com/feeds/26240</link>
+      <description>On August 26th, as per the monitoring of LookOnChain, during the market decline, 0xd8d0, an OTC trading whale renowned for conducting swing trades, utilized 99.03 million USDC to once more purchase 10,000 ETH (valued at 43.67 million USD) and 500 BTC (valued at 54.99 million USD).</description>
+      <pubDate>Tue, 26 Aug 2025 01:16:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26240</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Tom Lee: ETH Expected to Bottom in the Next Few Hours</title>
+      <link>https://www.lookonchain.com/feeds/26241</link>
+      <description>On August 26th, the board chairman of BitMine, Tom Lee, retweeted the market views of his fund analyst Mark Newton and wrote: &quot;It is expected that ETH will reach its bottom in the next few hours.&quot;Last week, Tom Lee and his analysts accurately predicted a short-term bottom for Ethereum near $4070.</description>
+      <pubDate>Tue, 26 Aug 2025 01:16:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26241</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Viewpoint: The next Federal Reserve FOMC meeting will be a &quot;sell-the-news&quot; moment</title>
+      <link>https://www.lookonchain.com/feeds/26239</link>
+      <description>On August 26th, the crypto analyst @IamCryptoWolf shared a market perspective, indicating that the next Federal Reserve FOMC meeting will be a &quot;sell-the-news&quot; event. Prior to that, the market will experience a steady upward trend.@IamCryptoWolf presented his analysis on the Tradingview platform in 2014 and has 111,000 followers on the X platform.</description>
+      <pubDate>Tue, 26 Aug 2025 01:08:36 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26239</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
