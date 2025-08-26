@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 10:55:08 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 10:55:08 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 11:18:28 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 11:18:28 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>The Nasdaq-100 futures have erased their earlier losses and turned into gains.</title>
-      <link>https://www.lookonchain.com/feeds/26340</link>
-      <description>On August 26th, the Nasdaq 100 Index futures wiped out their earlier declines and moved higher. (Associated Press)  // 这里只是按照一般美国人习惯将“Xinhua News Agency”替换为“Associated Press”，具体使用哪个通讯社可根据实际情况调整。</description>
-      <pubDate>Tue, 26 Aug 2025 10:48:15 +0000</pubDate>
+      <title>Justin Sun: Not Valuing Money and Fame, &quot;Having Enough Money is Enough&quot;</title>
+      <link>https://www.lookonchain.com/feeds/26343</link>
+      <description>On August 26th, during a recent interview, when asked whether he values money or reputation more, Justin Sun expressed that he attaches greater importance to the mission of spreading blockchain. He pointed out that the volatility of both money and reputation is relatively high, which can easily have an impact on the principles one adheres to in the industry.Justin Sun mentioned that he does not have excessive material desires, stating, &quot;I am more detached from money. Having enough is enough.&quot; He also mentioned that he had an early encounter with Tesla and Bitcoin by chance, which helped enhance his awareness. He chose a relatively resource-independent path for development.</description>
+      <pubDate>Tue, 26 Aug 2025 11:16:35 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26340</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26343</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +31,28 @@
 
     </item>
     <item>
+      <title>In the past 12 hours, there has been a total of $176 million in liquidations across the entire network, with long positions liquidated accounting for $119 million.</title>
+      <link>https://www.lookonchain.com/feeds/26342</link>
+      <description>On August 26th, based on Coinglass data, within the past 12 hours, the total liquidation amount across the network was $176 million. The long liquidation totaled $119 million, and the short liquidation totaled $571.699 million.In the past 24 hours, a total of 168,320 people worldwide have been liquidated, with a total liquidation amount of $757 million. The largest single liquidation took place in the HTX-BTC-USDT pair, amounting to $39.2448 million.</description>
+      <pubDate>Tue, 26 Aug 2025 11:00:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26342</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>High-profile ETH Whale Swaps 1000 BTC to Bitcoin Ancient Whale deposits into Hyperliquid or to increase ETH holdings</title>
       <link>https://www.lookonchain.com/feeds/26341</link>
       <description>On August 26th, as per on-chain data, the previously highly visible Bitcoin ancient whale that had been rebalancing into ETH is currently in the process of transferring the remaining 1,968 BTC (approximately $220 million). It was just that they had deposited 1,000 BTC (approximately $110 million) into Hyperliquid, and the deposit is still ongoing. This part of the funds may be used to further enhance their ETH holdings.Previously, the whale had sold a total of 22,142 BTC on Hyperliquid, amounting to $2.48 billion. In addition, four days before starting to shift into ETH, they also sold 3,000 BTC (approximately $336 million) through an over-the-counter (OTC) trading platform. The whale has accumulated a total of 544,977.69 ETH, valued at $2.45 billion (calculated with BTC at $112,000 and ETH at $4,500). As of the time of this writing, the whale has staked the 544,981 ETH they hold.</description>
-      <pubDate>Tue, 26 Aug 2025 10:48:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 10:48:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26341</guid>
       <category>crypto</category>
@@ -53,10 +71,27 @@
 
     </item>
     <item>
+      <title>The Nasdaq-100 futures have erased their earlier losses and turned into gains.</title>
+      <link>https://www.lookonchain.com/feeds/26340</link>
+      <description>On August 26th, the Nasdaq 100 Index futures wiped out their earlier declines and moved higher. (Associated Press)  // 这里只是按照一般美国人习惯将“Xinhua News Agency”替换为“Associated Press”，具体使用哪个通讯社可根据实际情况调整。</description>
+      <pubDate>Tue, 26 Aug 2025 10:48:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26340</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Nano Labs CEO Jianping Kong Increases Holding by 480,000 Shares</title>
       <link>https://www.lookonchain.com/feeds/26339</link>
       <description>On August 26th, Nano Labs Ltd (Nasdaq: NA) announced that Kong Jianping, the company&apos;s Chairman and CEO, increased his holdings by 480,000 shares of Class A common stock through open market transactions in August by using personal funds.Before this, Kong Jianping had made two stock purchases in May and September 2024. This transaction strictly adhered to the company&apos;s insider trading policy and was in full compliance with all applicable laws and regulations.</description>
-      <pubDate>Tue, 26 Aug 2025 10:32:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 10:32:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26339</guid>
       <category>crypto</category>
@@ -73,26 +108,9 @@
       <title>On-chain Data: OKB Long-Term Holder Sells Off and Buys BGB</title>
       <link>https://www.lookonchain.com/feeds/26338</link>
       <description>On August 26th, based on on-chain monitoring data from lookonchain, the address 0xEB8d9d77c6c84c47a7FAA1c8f973a546316bD1F7 recently sold 3,516 OKB tokens, which were worth approximately $658,900. This batch of tokens was purchased a year ago, achieving a profit of about $525,500 and a return on investment of approximately 394%. Subsequently, the same address bought 42,584 BGB tokens with a transaction amount of approximately $199,700.</description>
-      <pubDate>Tue, 26 Aug 2025 10:24:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 10:24:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26338</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitwise Submits Bitwise Chainlink ETF Filing</title>
-      <link>https://www.lookonchain.com/feeds/26337</link>
-      <description>On August 26th, according to market information, Bitwise submitted the S-1 application document for the Bitwise Chainlink ETF to the U.S. Securities and Exchange Commission (SEC).</description>
-      <pubDate>Tue, 26 Aug 2025 10:09:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26337</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -107,7 +125,7 @@
       <title>Binance Earn has announced the final batch of the Plasma USDT locking product, with a limit of 500 million USDT.</title>
       <link>https://www.lookonchain.com/feeds/26336</link>
       <description>August 26th, Binance Earn announced that the final third batch of quota for the Binance On-Chain Yields Plasma USDT lock-up product is now open for subscription. The total quota is 5 billion USDT, and the subscription will commence at 2025-08-26 11:00 (UTC).Before this, after the initial launch of the Plasma USDT lock-up product and the opening of the second batch of quota, due to the enthusiastic response to the subscription, both batches were fully subscribed within minutes. To ensure the sustainability and fairness of the entire subscription pool, please be aware of the following:The subscription limit for each user in the final third batch has been reduced to 10,000 USDT. Binance may gradually adjust the quota based on market demand and other factors. Users who subscribed in previous batches will not be affected. After this third batch, no new batches will be opened, and the total subscription quota will not be increased.</description>
-      <pubDate>Tue, 26 Aug 2025 10:08:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 10:17:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26336</guid>
       <category>crypto</category>
@@ -122,10 +140,27 @@
 
     </item>
     <item>
+      <title>Bitwise Submits Bitwise Chainlink ETF Filing</title>
+      <link>https://www.lookonchain.com/feeds/26337</link>
+      <description>On August 26th, according to market information, Bitwise submitted the S-1 application document for the Bitwise Chainlink ETF to the U.S. Securities and Exchange Commission (SEC).</description>
+      <pubDate>Tue, 26 Aug 2025 10:17:35 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26337</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Bybit will list the Camp Network (CAMP) spot trading pair</title>
       <link>https://www.lookonchain.com/feeds/26335</link>
       <description>On August 26th, Bybit is going to list the Camp Network (CAMP) for spot trading.</description>
-      <pubDate>Tue, 26 Aug 2025 10:08:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 10:17:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26335</guid>
       <category>crypto</category>
@@ -142,7 +177,7 @@
       <title>Ethereum Reserve Concept Stocks Surge in Pre-market Trading, ETHZ Up by 4.07%</title>
       <link>https://www.lookonchain.com/feeds/26334</link>
       <description>On August 26th, Ethereum reserve concept stocks generally rose in pre-market trading on the US stock market. These included:· SharpLink Gaming (SBET.US), which rose by 1.10%;· Bitmine Immersion Technologies (BMNR.US), with a rise of 1.92%;· ETHZilla (ETHZ.US), increasing by 4.07%;· BTCS (BTCS.US), rising by 0.93%;· COIN (Coinbase.US), with a gain of 0.57%;· Bit Digital (BTBT.US), up by 0.36%.</description>
-      <pubDate>Tue, 26 Aug 2025 09:54:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 09:17:35 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26334</guid>
       <category>crypto</category>
@@ -155,40 +190,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Boros Increases Market Cap and Raises Leverage Ratio</title>
-      <link>https://www.lookonchain.com/feeds/26333</link>
-      <description>On August 26, as per an official announcement, Boros announced a modification to the transaction parameters. The open limit in the ETH market has been raised from $40 million to $50 million, and the treasury size has been increased from $160,000 to $200,000.Meanwhile, the maximum leverage ratio for the BTC and ETH markets has been boosted from 1.9 times to 3 times. The maintenance margin ratio has also been adjusted from the previous 50% of the initial margin to 66.7%.The announcement stated that this adjustment is intended to enhance capital efficiency while strengthening risk management. As of three weeks after its launch, the Boros platform has attained a $47 million open interest contract size, with a total notional trading volume of $287 million.</description>
-      <pubDate>Tue, 26 Aug 2025 09:54:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26333</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>CoinGecko Data: Gate&apos;s July Derivatives Trading Volume Surges 44% Month-over-Month, Holding Steady in Global Top Three</title>
-      <link>https://www.lookonchain.com/feeds/26332</link>
-      <description>August 26th. According to the most recent assessment by CoinGecko, Gate has solidly positioned itself among the top three cryptocurrency exchanges globally. This is mainly attributed to the growth in derivatives liquidity and the continuous inflow of institutional funds. In July 2025, Gate witnessed a substantial 44% increase in derivatives trading volume, reaching $763.2 billion, which propelled the platform to the second place in terms of global market share. The exchange platform currently serves more than 36 million users in over 150 countries worldwide, demonstrating its rapid momentum of international expansion.Analysts note that Gate&apos;s expanding ecosystem is a key factor driving its growth. It covers spot and derivatives trading, institutional lending, Web3 integration, and Gate Pay&apos;s fiat-crypto integration services. At the same time, the platform maintains reserves exceeding $12.02 billion, with a total reserve ratio of 123.98%. This showcases its leading transparency throug</description>
-      <pubDate>Tue, 26 Aug 2025 09:54:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26332</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>

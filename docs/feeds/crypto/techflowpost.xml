@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 10:55:08 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 10:55:08 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 11:18:28 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 11:18:28 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,31 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Greeks.live：中文社群存在明显分歧，部分人认为BTC将下探至10.2万-9.8万美元附近</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Greeks.live 宏观研究员 Adam 发布中文社区简报称，“群内对市场方向存在明显分歧，大部分交易员看跌认为比特币将继续下探至108k甚至102k-98k区间，但也有声音认为已跌得差不多可以抄底。关键分歧在于比特币是否会跌破MA120以及108k能否形成有效支撑。”</description>
+      <pubDate>Tue, 26 Aug 2025 11:03:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某钱包抛售 3926 万美元的 HYPE，并以 15 倍杠杆开多 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，某钱包在 10 天前以约 45.5 美元价格买入 90 万枚 HYPE 代币（约 4026 万美元），并于近 24 小时内以约 43.5 美元价格全部出售获得 3926 万 USDT。该地址随后以 15 倍杠杆开多 51,691 枚以太币，总价值约 2.2...</description>
+      <pubDate>Tue, 26 Aug 2025 10:54:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>东京电视台：Monex正考虑在日本发行与日元挂钩的稳定币</title>
       <link>https://www.techflowpost.com</link>
-      <description>据金十数据援引东京电视台消息称：日本金融集团 Monex Group 正考虑在日本发行与日元挂钩的稳定币。</description>
+      <description>据金十数据援引东京电视台消息称：日本金融集团 Monex Group 正考虑在日本发行与日元挂钩的稳定币。Monex董事长Matsumoto表示，公司正在考虑收购一家欧洲加密公司，预计将在“几天内”宣布消息。</description>
       <pubDate>Tue, 26 Aug 2025 10:53:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方消息，Hotcoin热币交易所将于2025年8月26日上线以下交易对：TOWN/USDT（现货）上线时间：2025年8月26日17:20（UTC+8）Alt.town 是一个平台，用户可以通过该平台交易虚拟创作者，并参与其数字资产的价值增长。Alt.town 上每位创作者的价值取决于其内容创...</description>
       <pubDate>Tue, 26 Aug 2025 07:01:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Sui Network：警惕冒用 Sui 基金会名义的 SuiPro 等项目</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Sui Network 发布声明称，近期出现 SuiPro、SuiBank、银河 101、YY 等项目冒用 “Sui 基金会官方支持” 名义在线下及社交平台推广，涉嫌诱导用户投资。Sui Network 强调，这些项目与其无任何关联或授权，提醒社区成员勿轻信所谓 “官方背书”，并通过官网及官方渠道...</description>
-      <pubDate>Tue, 26 Aug 2025 07:00:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Matrixport：比特币ETF或将连续五月净流出，季节性因素限制涨势</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Matrixport发布每日分析表示，比特币ETF预计本月将出现约12亿美元资金净流出，创历史第二高水平，仅次于2月份的35亿美元。夏季机构资金大多撤离市场，虽然以太坊仍吸引资金流入，但比特币ETF或将连续五个月呈现净流出状态。分析师指出，季节性因素虽为短期现象，但资金流向与季节性同样重要。尽管宏...</description>
-      <pubDate>Tue, 26 Aug 2025 06:44:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
