@@ -5,14 +5,33 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 09:39:38 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 09:39:38 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 09:52:36 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 09:52:36 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Ethereum Reserve Concept Stocks Surge in Pre-market Trading, ETHZ Up by 4.07%</title>
+      <link>https://www.lookonchain.com/feeds/26334</link>
+      <description>On August 26th, Ethereum reserve concept stocks generally rose in pre-market trading on the US stock market. These included:· SharpLink Gaming (SBET.US), which rose by 1.10%;· Bitmine Immersion Technologies (BMNR.US), with a rise of 1.92%;· ETHZilla (ETHZ.US), increasing by 4.07%;· BTCS (BTCS.US), rising by 0.93%;· COIN (Coinbase.US), with a gain of 0.57%;· Bit Digital (BTBT.US), up by 0.36%.</description>
+      <pubDate>Tue, 26 Aug 2025 09:40:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26334</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
     <item>
       <title>Boros Increases Market Cap and Raises Leverage Ratio</title>
       <link>https://www.lookonchain.com/feeds/26333</link>
@@ -164,7 +183,7 @@
       <title>Smart Trader 0xEB8d Sold $OKB for a $525.5K(+394%) Profit, then Bought $BGB.</title>
       <link>https://www.lookonchain.com/feeds/26325</link>
       <description>Smart trader 0xEB8d sold 3,516 $OKB($658.9K) bought a year ago, making a profit of $525.5K(+394%). He then bought 42,584 $BGB($199.72K).</description>
-      <pubDate>Tue, 26 Aug 2025 08:49:44 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 08:51:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26325</guid>
       <category>crypto</category>
@@ -177,26 +196,6 @@
       <category>initial-load</category>
       <category>high-value</category>
       <category>profit</category>
-
-    </item>
-    <item>
-      <title>Thai listed company RSXYZ plans to raise $5.8 million to increase its Bitcoin holdings</title>
-      <link>https://www.lookonchain.com/feeds/26324</link>
-      <description>On August 26th, a Thai-listed company named RSXYZ intends to raise $5.8 million by issuing new common stock in order to increase its holdings of Bitcoin. The goal is to accumulate 3,333 BTC within the next three years.</description>
-      <pubDate>Tue, 26 Aug 2025 08:48:44 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26324</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
