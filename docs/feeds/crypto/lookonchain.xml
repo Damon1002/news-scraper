@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 05:35:08 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 05:35:08 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 05:49:04 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 05:49:04 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,48 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Economist: Federal Reserve Subjected to Trump&apos;s &quot;Full-Scale Assault,&quot; Its Independence Is a Key Factor in Maintaining the Safe Haven Status of US Treasury Bonds and the Dollar</title>
+      <link>https://www.lookonchain.com/feeds/26294</link>
+      <description>On August 26th, Saul Eslake, who was formerly the chief economist of Merrill Lynch in Australia, stated that the dismissal of Federal Reserve Governor Lael Brainard signaled a clear intensification of White House intervention following President Trump&apos;s efforts to reshape the US federal government and its institutions. He further added that loyalty appears to be a standard for continuing to hold high public office. The independence of the Federal Reserve is a crucial factor in maintaining the safe haven status of US Treasuries and the US dollar. The Federal Reserve is now facing full-fledged attacks, and this will not lead to any favorable outcomes. (FX678)</description>
+      <pubDate>Tue, 26 Aug 2025 05:35:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26294</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>「$125,000 Worth of ETH Long Position Added to Leveraged Trade」 Whale Whale Whale Once Again Increasing ETH Position, Currently Holding 536.12 ETH Long</title>
+      <link>https://www.lookonchain.com/feeds/26293</link>
+      <description>On August 26th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;125k USD Long Liquidation on ETH&quot; whale has increased their remaining 95k USD collateral. Now, the two addresses hold a total of 536.12 ETH (equivalent to 2.37 million USD), with an unrealized loss of 69k USD.</description>
+      <pubDate>Tue, 26 Aug 2025 05:35:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26293</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>If Ethereum drops below $4300, the mainstream CEX liquidation pressure will reach $922 million.</title>
       <link>https://www.lookonchain.com/feeds/26292</link>
       <description>On August 26th, based on Coinglass data, if Ethereum falls below $4300, the cumulative long liquidation intensity of mainstream CEXs will reach 922 million.Conversely, if Ethereum breaks through $4600, the cumulative short liquidation intensity of mainstream CEXs will reach 1.986 billion.BlockBeats Note: The liquidation chart does not display the exact number of contracts to be liquidated or the precise value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, strength. Therefore, the liquidation chart shows to what degree the price of the underlying asset will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will have a more intense reaction due to a liquidity avalanche when it reaches that level.</description>
-      <pubDate>Tue, 26 Aug 2025 05:24:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 05:24:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26292</guid>
       <category>crypto</category>
@@ -37,7 +75,7 @@
       <title>A whale has deposited $7.49 million into HyperLiquid, shorted ETH and HYPE, and simultaneously bought ETH and HYPE spot.</title>
       <link>https://www.lookonchain.com/feeds/26291</link>
       <description>On August 26th, as monitored by Onchain Lens, within the past 40 minutes, a whale transferred 7.49 million USDC into HyperLiquid. Subsequently, it opened short positions for ETH (with a leverage of 20x) and HYPE (with a leverage of 10x). Additionally, it purchased ETH and HYPE on the spot market.</description>
-      <pubDate>Tue, 26 Aug 2025 05:16:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 05:16:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26291</guid>
       <category>crypto</category>
@@ -58,7 +96,7 @@
       <title>The probability of Powell being removed as Fed Chair this year on Polymarket has decreased to 10%</title>
       <link>https://www.lookonchain.com/feeds/26290</link>
       <description>On August 26th, based on the data from the official website, the probability on Polymarket that &quot;Powell will be removed as the Federal Reserve Chair by 2025&quot; has decreased to 10%.</description>
-      <pubDate>Tue, 26 Aug 2025 05:16:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 05:16:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26290</guid>
       <category>crypto</category>
@@ -75,7 +113,7 @@
       <title>Bio Protocol: AUBRAI TGE Scheduled for August 27</title>
       <link>https://www.lookonchain.com/feeds/26289</link>
       <description>On August 26th, Bio Protocol declared that the first BioAgent Launch project, Aubrai (AUBRAI), will not commence the TGE immediately after the subscription ends. Instead, it will start trading 24 hours later, which is on Wednesday, August 27th. According to the official website, Aubrai has received 11.6 times oversubscription.</description>
-      <pubDate>Tue, 26 Aug 2025 05:08:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 05:08:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26289</guid>
       <category>crypto</category>
@@ -92,7 +130,7 @@
       <title>Top Solana Launchpad Market Share in Last 24 Hours: pump.fun, Letsbonk, Meteora DBC in Top Three</title>
       <link>https://www.lookonchain.com/feeds/26288</link>
       <description>On August 26th, according to the Jupiter Data Dashboard, within the past 24 hours, in the Solana launchpad market share ranking, pump.fun took the first place with 73.3%, Letsbonk came in second with 6.95%, and Meteora DBC ranked third with 5.48%.</description>
-      <pubDate>Tue, 26 Aug 2025 04:56:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 04:56:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26288</guid>
       <category>crypto</category>
@@ -109,7 +147,7 @@
       <title>National Committee of the Chinese People&apos;s Political Consultative Conference (CPPCC) Yao Zhisheng: Hong Kong should strive to become a global stablecoin issuance center</title>
       <link>https://www.lookonchain.com/feeds/26287</link>
       <description>August 26th. According to the Hong Kong Ta Kung Pao, Yao Zhisheng, a member of the National Committee of the Chinese People&apos;s Political Consultative Conference (CPPCC), published an article titled &quot;Focusing on Three Themes to Promote High-Quality Development in Hong Kong.&quot; In this article, it was pointed out that stablecoins pegged to fiat currency possess the characteristics such as openness, transparency, decentralization, and globalization that are endowed by blockchain technology and distributed ledgers. At the same time, they also have the feature of maintaining the value of fiat currency. Hong Kong, as an international financial center and the world&apos;s largest offshore RMB business center, should make good use of the &quot;one country, two systems&quot; advantage, seize the strategic high ground in stablecoin development, strive to become a global hub for stablecoin issuance, and enhance its role as a &quot;digital financial hub.&quot;</description>
-      <pubDate>Tue, 26 Aug 2025 04:56:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 04:56:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26287</guid>
       <category>crypto</category>
@@ -126,7 +164,7 @@
       <title>OKX Wallet has announced the integration of UnicornX.</title>
       <link>https://www.lookonchain.com/feeds/26286</link>
       <description>August 26th, based on official information, OKX Wallet has declared the accomplishment of the integration with UnicornX. Users are now able to conduct trading on UnicornX via OKX Wallet and conveniently and securely explore its ecosystem.</description>
-      <pubDate>Tue, 26 Aug 2025 04:48:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 04:48:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26286</guid>
       <category>crypto</category>
@@ -143,46 +181,9 @@
       <title>Binance: Participants of the Bitlayer Booster special stage and Phase 1 event winners can claim and trade BTR tokens within 8 hours after the token circulation begins</title>
       <link>https://www.lookonchain.com/feeds/26285</link>
       <description>August 26th. According to official channels, Binance Alpha is set to launch and commence trading of Bitlayer (BTR) on August 27th, 2025, at 6:00 PM (GMT+8). Binance Futures trading will open at 6:30 PM (GMT+8) on the same day.Users who participated in the Bitlayer Pre-TGE will be able to trade the BTR token on Binance Alpha and the Futures exchange once trading commences.The winners of Phase 1 and the Special Phase of the Bitlayer Booster activity can claim and trade BTR tokens within 8 hours after the token&apos;s circulation begins.</description>
-      <pubDate>Tue, 26 Aug 2025 04:42:15 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 04:48:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26285</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitwise CEO: Every Dip Is a Buying Opportunity, Predicts BTC Will Reach $200,000 by End of Year</title>
-      <link>https://www.lookonchain.com/feeds/26284</link>
-      <description>On August 26th, Hunter Horsley, the CEO of Bitwise, stated, &quot;Bear in mind that the majority of people do not hold any cryptocurrency. In order to achieve mainstream adoption, there must be a significant influx of new investors entering the market for the first time.Each pullback presents an opportunity for investors to gain exposure at a lower price. Bitwise Research forecasts that Bitcoin (BTC) will reach $200,000 by the end of the year.&quot;</description>
-      <pubDate>Tue, 26 Aug 2025 04:35:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26284</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>YZi Labs Incubation Program EASY Residency Announces First Season Selected Projects</title>
-      <link>https://www.lookonchain.com/feeds/26283</link>
-      <description>On August 26th, the incubation program EASY Residency of YZi Labs announced the list of selected projects for the first season. A total of 16 projects were selected, such as the decentralized AI ecosystem AMMO, the AI-native oracle APRO, the Bitcoin-native lending protocol Bitway, the food delivery agent Byte A.I., the compliance process platform ComplyGen, the universal video agent Freebeat.AI, the on-chain data terminal Hubble AI, and the decentralized data network Robata.</description>
-      <pubDate>Tue, 26 Aug 2025 04:34:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26283</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
