@@ -5,14 +5,88 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 03:48:02 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 03:48:02 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 04:02:02 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 04:02:02 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Bitfinex Analyst: Altseason Kickoff to Hinge on Altcoin ETF Launch</title>
+      <link>https://www.lookonchain.com/feeds/26276</link>
+      <description>On August 26th, as per the report by Cointelegraph, a Bitfinex analyst stated that unless an ETF is launched to enable investors to access higher-risk crypto assets, altcoins may not experience a widespread and exaggerated rebound.With Bitcoin (BTC) losing 6% of its market dominance in the past 30 days, crypto market participants have been looking forward to a rebound in the altcoin market, or the so-called &quot;alt season.&quot; However, in a market report released on Monday, the Bitfinex analyst expressed the expectation that an &quot;alt season&quot; is unlikely to occur before the latter part of this year, only when capital flows into Bitcoin products regain momentum and new investment tools for altcoins are introduced.The Bitfinex analyst stated that the current market shows a &quot;low risk appetite&quot; in this cycle. They added, &quot;Although the inflow of funds remains positive, the mild trend reflects a more cautious investor sentiment, in contrast to the aggressive demand witnessed during previous all-</description>
+      <pubDate>Tue, 26 Aug 2025 04:01:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26276</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Sky Protocol spent 1.4 million USDS to buy back 20.06 million SKY in the past week</title>
+      <link>https://www.lookonchain.com/feeds/26277</link>
+      <description>On August 26th, Sky Protocol (formerly known as MakerDAO) tweeted that they had allocated 1.4 million USDS in the past week and used it to repurchase 20.06 million SKY.</description>
+      <pubDate>Tue, 26 Aug 2025 04:01:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26277</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Yesterday, the United States Ethereum spot ETF saw a net inflow of $4.439 billion, while the Bitcoin spot ETF saw a net inflow of $2.191 billion.</title>
+      <link>https://www.lookonchain.com/feeds/26275</link>
+      <description>August 26: As reported by Farside Investors, the net inflow into the US Ethereum spot ETF yesterday was $443.9 million.There was a net inflow of $219.1 million into the US Bitcoin spot ETF yesterday.</description>
+      <pubDate>Tue, 26 Aug 2025 03:56:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26275</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>REX Financial CEO: ETF Issuers Must Choose Carefully, Most Cryptocurrencies &apos;Quite Unreliable&apos;</title>
+      <link>https://www.lookonchain.com/feeds/26274</link>
+      <description>On August 26th, as per Cointelegraph, Greg King, the CEO of REX Financial, stated that the issuers of cryptocurrency exchange-traded funds (ETFs) should give careful consideration to which cryptocurrencies to include in the exposure of their funds. This is because most cryptocurrencies are &quot;rather unreliable.&quot;Greg King said in an interview with Bloomberg&apos;s ETF IQ on Monday: &quot;Cryptocurrencies outside the top ten are quite unreliable, especially those outside the top twenty. Issuers need to make strict selections when choosing the underlying assets.&quot; He also expressed that he believes that ETF applications for various cryptocurrencies will not witness &quot;explosive growth,&quot; but rather anticipates &quot;many funds for each type of coin.&quot;</description>
+      <pubDate>Tue, 26 Aug 2025 03:48:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26274</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
     <item>
       <title>The ETH Queued for Exiting the Ethereum PoS Network Rises to 914,000, While Over 620,000 ETH is Waiting to Join</title>
       <link>https://www.lookonchain.com/feeds/26273</link>
@@ -121,84 +195,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Governor Powell: Trump Does Not Have the Authority to Fire Me, Will Continue to Fulfill Duties</title>
-      <link>https://www.lookonchain.com/feeds/26267</link>
-      <description>August 26th: Federal Reserve Governor Powell declared that the U.S. President Trump does not possess the authority to dismiss me and that I will persist in fulfilling my responsibilities. (Xinhua News Agency)</description>
-      <pubDate>Tue, 26 Aug 2025 03:17:09 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26267</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Peter Schiff: Bitcoin Could Fall to $75,000, Slightly Below Average Strategy Holding Cost</title>
-      <link>https://www.lookonchain.com/feeds/26266</link>
-      <description>On August 26th, the economist and cryptocurrency critic Peter Schiff tweeted, &quot;Bitcoin has dropped beneath $109,000, with a 13% decline from its peak which was less than two weeks ago. Considering the recent over-hype and institutional purchasing, this weakness is a matter of concern. At the very least, Bitcoin may fall to around $75,000, slightly lower than MicroStrategy&apos;s (MSTR) average holding cost. Sell at present and buy back at the lower level.&quot;</description>
-      <pubDate>Tue, 26 Aug 2025 03:17:09 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26266</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>James Wynn, the &quot;Insider Trader,&quot; AguilaTrades, and the &quot;ETH Long Rollover&quot; Whale, the four whales, made a combined profit of nearly $200 million, but have since lost all their gains and even part ...</title>
-      <link>https://www.lookonchain.com/feeds/26265</link>
-      <description>On August 26th, as per on-chain analyst Embermonitor, four whales - James Wynn, the &quot;Insider Trader&quot; @qwatio, AguilaTrades, and the &quot;ATH Longing ETH&quot; whale - reached a peak profit of $197.7 million. At present, all of them have repatriated their profits and even lost their initial capital.Similar Style: All of them employed the aggressive approach of taking profits through leverage.Similar Process: All of them achieved substantial profits through the act of taking profits.Similar Outcome: All of them transitioned from significant profits to currently repatriating all profits or even incurring losses on their initial capital.</description>
-      <pubDate>Tue, 26 Aug 2025 03:09:09 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26265</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>DDC Enterprise made its fourth Bitcoin purchase in August, doubling its holdings this month.</title>
-      <link>https://www.lookonchain.com/feeds/26264</link>
-      <description>On August 26th, DDC Enterprise Limited (&quot;DDC&quot; or the &quot;Company&quot;) announced today that it has completed its fourth Bitcoin purchase in August and further acquired 200 BTC. With this acquisition, the company&apos;s total holdings have reached 888 BTC, more than doubling from the 368 BTC it held at the beginning of the month.Key Points of the Purchase:- Reserve Growth: Added 200 BTC to the Bitcoin reserve with an average cost of $107,447 per BTC.- Holding Milestone: Achieved more than a 2x growth since August 1st.- Return Increase: Compared to the first purchase in May, the return on investment has increased by 1572%.- Shareholder Value: The latest holdings are equivalent to 0.106853 BTC per 1,000 shares of DDC.Norma Chu, the Founder, Chairwoman, and CEO of DDC, said: &quot;This month&apos;s purchase not only demonstrates our execution capabilities and speed but also reflects our discipline and conviction. In the context of Bitcoin market volatility, doubling our holdings in just a few weeks trul</description>
-      <pubDate>Tue, 26 Aug 2025 03:09:09 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26264</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
