@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 05:49:04 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 05:49:04 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 06:00:56 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 06:00:56 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>摩根士丹利：预计美联储将在9月和12月分别降息25个基点</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，摩根士丹利：预计美联储将在9月和12月分别降息25个基点（此前预测是2025年不会降息）。</description>
+      <pubDate>Tue, 26 Aug 2025 05:50:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>币安：Alttown (TOWN) 空投门槛为 200 分</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Cointelegraph消息，阿联酋政府通过Citadel Mining持有约6300枚比特币，价值约7.4亿美元。这使其成为全球第四大持有比特币的国家。</description>
       <pubDate>Tue, 26 Aug 2025 02:07:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Upbit 24 小时交易量排行：ETH、SOL、XRP 位居前三</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 CoinGecko 数据，过去 24 小时，Upbit交易量达 36.56 亿美元，上涨 21.8%，交易量排行前五的代币分别为：ETH（交易量占比 18.36%，成交额 6.71 亿美元）SOL（交易量占比 9.22%，成交额 3.37 亿美元）XRP（交易量占比 9.07%，成交额 3.3...</description>
-      <pubDate>Tue, 26 Aug 2025 02:04:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
