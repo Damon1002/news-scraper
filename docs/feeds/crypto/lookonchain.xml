@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 09:17:16 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 09:17:16 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 09:39:38 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 09:39:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,103 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Boros Increases Market Cap and Raises Leverage Ratio</title>
+      <link>https://www.lookonchain.com/feeds/26333</link>
+      <description>On August 26, as per an official announcement, Boros announced a modification to the transaction parameters. The open limit in the ETH market has been raised from $40 million to $50 million, and the treasury size has been increased from $160,000 to $200,000.Meanwhile, the maximum leverage ratio for the BTC and ETH markets has been boosted from 1.9 times to 3 times. The maintenance margin ratio has also been adjusted from the previous 50% of the initial margin to 66.7%.The announcement stated that this adjustment is intended to enhance capital efficiency while strengthening risk management. As of three weeks after its launch, the Boros platform has attained a $47 million open interest contract size, with a total notional trading volume of $287 million.</description>
+      <pubDate>Tue, 26 Aug 2025 09:32:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26333</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain HYPE whale went 15x long on 51,600 ETH, currently at a unrealized loss of $10 million</title>
+      <link>https://www.lookonchain.com/feeds/26331</link>
+      <description>On August 26th, based on on-chain data, a particular HYPE whale took a long position in 51,600 ETH with a leverage of 15 times. Currently, it is facing an unrealized loss of $10 million. Their entry price was $4,630.49, and the liquidation price is $4,076.1.During the past 24 hours, this address sold 542,000 HYPE tokens (approximately $23.8 million) to go long on ETH.</description>
+      <pubDate>Tue, 26 Aug 2025 09:24:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26331</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>CoinGecko Data: Gate&apos;s July Derivatives Trading Volume Surges 44% Month-over-Month, Holding Steady in Global Top Three</title>
+      <link>https://www.lookonchain.com/feeds/26332</link>
+      <description>August 26th. According to the most recent assessment by CoinGecko, Gate has solidly positioned itself among the top three cryptocurrency exchanges globally. This is mainly attributed to the growth in derivatives liquidity and the continuous inflow of institutional funds. In July 2025, Gate witnessed a substantial 44% increase in derivatives trading volume, reaching $763.2 billion, which propelled the platform to the second place in terms of global market share. The exchange platform currently serves more than 36 million users in over 150 countries worldwide, demonstrating its rapid momentum of international expansion.Analysts note that Gate&apos;s expanding ecosystem is a key factor driving its growth. It covers spot and derivatives trading, institutional lending, Web3 integration, and Gate Pay&apos;s fiat-crypto integration services. At the same time, the platform maintains reserves exceeding $12.02 billion, with a total reserve ratio of 123.98%. This showcases its leading transparency throug</description>
+      <pubDate>Tue, 26 Aug 2025 09:24:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26332</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>「WallStreetBros」&apos;s total unrealized loss on 5 long positions exceeds $5.8 million, with only the HYPE long position in profit.</title>
+      <link>https://www.lookonchain.com/feeds/26330</link>
+      <description>On August 26th, according to the monitoring of HyperInsight, &quot;Big Brother Whale&quot; Huang Licheng currently holds 5 long positions. The total unrealized loss is more than $5.8 million. These positions include:ETH: The position size is approximately $100.22 million, and the current unrealized loss is approximately $5.23 million.BTC: The position size is approximately $28.63 million, and the unrealized loss is approximately $69,660.HYPE: The position size is approximately $7.25 million, and the unrealized gain is approximately $12,700.YZY: The position size is approximately $600,000, and the unrealized loss is approximately $1,500.PUMP: The position size is approximately $554,000, and the unrealized loss is approximately $800.</description>
+      <pubDate>Tue, 26 Aug 2025 09:16:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26330</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>During the market downturn, there were multiple large TRX purchases on the ETH chain.</title>
+      <link>https://www.lookonchain.com/feeds/26329</link>
+      <description>On August 26th, according to GoPlus on-chain data. After ETH dropped from $4900, during the market downturn from 3:00 AM to 12:00 PM Beijing time on August 25th, the single swap transactions in the Ethereum network with amounts exceeding $300,000 showed the following:TRX: Whales accumulated about $7.41 million in buys and about $2.33 million in sells.ETH (including wrapped ETH): Approximately $261 million in buys and approximately $269 million in sells.BTC (including wrapped BTC): Approximately $28.73 million in buys and approximately $46.61 million in sells.</description>
+      <pubDate>Tue, 26 Aug 2025 09:16:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26329</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>If Bitcoin breaks $112,000, the mainstream CEX combined short liquidation volume will reach $1.291 billion</title>
       <link>https://www.lookonchain.com/feeds/26328</link>
       <description>On August 26th, based on Coinglass data, if Bitcoin surmounts $112,000, the cumulative short liquidation intensity of mainstream CEXs will reach $1.291 billion. In contrast, if Bitcoin descends below $108,000, the cumulative long liquidation intensity of mainstream CEXs will attain $1.048 billion.**BlockBeats Note**: The liquidation chart does not exhibit the precise number of contracts awaiting liquidation or the exact value of contracts that have been liquidated. The bars on the liquidation chart actually signify the significance of each liquidation cluster in relation to adjacent ones, that is, the intensity.Consequently, the liquidation chart demonstrates to what degree the price of the underlying asset will be influenced when it reaches a particular level. A higher &quot;liquidation bar&quot; indicates that the price will undergo a more intense reaction due to a liquidity cascade when it reaches that specific point.</description>
-      <pubDate>Tue, 26 Aug 2025 09:08:23 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 09:08:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26328</guid>
       <category>crypto</category>
@@ -37,7 +130,7 @@
       <title>Bitlayer Announces BTR Token Airdrop Details, Claimable Starting from August 27th, 18:00</title>
       <link>https://www.lookonchain.com/feeds/26327</link>
       <description>August 26th. Bitlayer made an announcement regarding the details of the BTR token airdrop. The BTR airdrop will become available for claiming starting from August 27th at 18:00, and each claiming window will endure for 1 month during each unlock period. According to the official proclamation, this airdrop is designed to give rewards to community contributors and early supporters. 10% of the total allocation is set aside for ecosystem incentives, and 2.66% of the total allocation is designated for the Binance Booster and pre-TGE events.Eligible users comprise holders of Bitlayer Racer Center-recorded BTR, Bitlayer Gems, and Bitlayer Points. It also includes participants in the Super Racer Lottery and official community events. Additionally, users who took part in Bitlayer&apos;s collaborative ecosystem events with Binance, OKX, Bybit, Bitget, imToken, GoPlus, RollX, Momentum Odyssey, Plume, Desyn, and DeAgentAI, etc. To claim the airdrop, it is necessary to connect a wallet to verify eligi</description>
-      <pubDate>Tue, 26 Aug 2025 09:08:23 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 09:08:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26327</guid>
       <category>crypto</category>
@@ -54,7 +147,7 @@
       <title>Orderly Community Proposal to Allocate Up to 60% of Protocol Net Revenue to ORDER Buyback</title>
       <link>https://www.lookonchain.com/feeds/26326</link>
       <description>On August 26th, the Orderly community launched a new proposal. This proposal aims to allocate up to 60% of the protocol&apos;s net fees to the regular buyback of the ORDER token. At the same time, the staking and VALOR mechanism will be optimized.According to the proposal, the buyback will be carried out through TWAP based on the revenue of the previous two weeks. Half of the purchased ORDER will be allocated to stakers (distributed in the form of esORDER with a 3-month linear release), and the other half will go to the community governance wallet. The usage (such as burning, adding to liquidity, providing incentives, etc.) will be determined through a separate governance vote.The proposal also includes stopping the USDC staking rewards, allowing stakers to directly withdraw their existing USDC holdings. VALOR will be linked to esORDER rewards, and existing holders will smoothly transition to the new system in proportion. The voting period is 7 days, with a minimum voter turnout of 30%</description>
-      <pubDate>Tue, 26 Aug 2025 08:56:23 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 08:56:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26326</guid>
       <category>crypto</category>
@@ -71,7 +164,7 @@
       <title>Smart Trader 0xEB8d Sold $OKB for a $525.5K(+394%) Profit, then Bought $BGB.</title>
       <link>https://www.lookonchain.com/feeds/26325</link>
       <description>Smart trader 0xEB8d sold 3,516 $OKB($658.9K) bought a year ago, making a profit of $525.5K(+394%). He then bought 42,584 $BGB($199.72K).</description>
-      <pubDate>Tue, 26 Aug 2025 08:50:23 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 08:49:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26325</guid>
       <category>crypto</category>
@@ -90,7 +183,7 @@
       <title>Thai listed company RSXYZ plans to raise $5.8 million to increase its Bitcoin holdings</title>
       <link>https://www.lookonchain.com/feeds/26324</link>
       <description>On August 26th, a Thai-listed company named RSXYZ intends to raise $5.8 million by issuing new common stock in order to increase its holdings of Bitcoin. The goal is to accumulate 3,333 BTC within the next three years.</description>
-      <pubDate>Tue, 26 Aug 2025 08:48:23 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 08:48:44 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26324</guid>
       <category>crypto</category>
@@ -104,100 +197,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A Whale Reportedly Liquidated over $30 Million Worth of LINK, Suffering a $570,000 Loss</title>
-      <link>https://www.lookonchain.com/feeds/26323</link>
-      <description>On August 26th, based on the monitoring of on-chain analyst AI Auntie @ai_9684xtpa, an address that has been accumulating 1.294 million LINK since August 15th deposited all the tokens into Coinbase five minutes ago, with a value of $30.08 million.This address withdrew LINK from Binance at an average price of $23.69. If sold at the current price, it would result in a loss of $570,000 (recharge price $23.25).</description>
-      <pubDate>Tue, 26 Aug 2025 08:48:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26323</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>James Wynn relied on rebates to go long on PEPE, ETH, and DOGE, and has been liquidated consecutively</title>
-      <link>https://www.lookonchain.com/feeds/26322</link>
-      <description>On August 26th, as per the monitoring of LookOnChain, James Wynn received a referral bonus of $23,117 last week and took a long position in PEPE, ETH, and DOGE.Nevertheless, he suffered liquidation once again. Currently, he only has $5,952 left, resulting in another loss of $17,165.</description>
-      <pubDate>Tue, 26 Aug 2025 08:48:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26322</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>A certain address dumped over 3500 OKB tokens, making a profit of over $500,000, and then bought MNT.</title>
-      <link>https://www.lookonchain.com/feeds/26321</link>
-      <description>On August 26th, as per the monitoring of lookonchain, a trader with the address 0xEB8d sold 3,516 OKB tokens (valued at $658,900) which were purchased a year ago, achieving a profit of $525,500 and a return of +394%. Subsequently, the trader purchased 79,984 MNT tokens (valued at $99,180).</description>
-      <pubDate>Tue, 26 Aug 2025 08:40:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26321</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Trader 0xEB8d Cashes Out $OKB for $525K Gain, Buys $MNT</title>
-      <link>https://www.lookonchain.com/feeds/26320</link>
-      <description>Smart trader 0xEB8d sold 3,516 $OKB($658.9K) bought a year ago, making a profit of $525.5K(+394%). He then bought 79,984 $MNT($99.18K).</description>
-      <pubDate>Tue, 26 Aug 2025 08:38:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26320</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Analysis: The Bitcoin market is experiencing a healthy pullback, with new entrants panic selling.</title>
-      <link>https://www.lookonchain.com/feeds/26319</link>
-      <description>On August 26th, a CryptoQuant analyst noted that a typical market cleansing process is underway. On-chain data indicates that the latest Bitcoin market participants are incurring losses and exiting, while more experienced holders are accumulating these sell-off chips. This is not a sign of systemic weakness but a constructive adjustment that helps to clear speculative leverage, thereby strengthening the market&apos;s foundation.The pain point is almost entirely concentrated among the most recent entrants. Investors who have held for less than a month are currently experiencing an average unrealized loss of -3.5%. Their reaction is very direct: selling. We have observed a significant decrease in the hodling supply of this group in recent weeks. This is a classic example of &quot;panic selling.&quot;In sharp contrast, a broader group of short-term holders (STH) remains stable and profitable, with an overall gain of +4.5%. This indicates that while the shortest-term newbies are forced to exit, holde</description>
-      <pubDate>Tue, 26 Aug 2025 08:32:23 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26319</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>

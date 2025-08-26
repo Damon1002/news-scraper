@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 09:17:16 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 09:17:16 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 09:39:38 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 09:39:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>加密分析师 PlanB：比特币仍在牛市中，没有熊市迹象</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据加密货币分析师 PlanB（@100trillionUSD）监测，比特币当前价格在 11 万美元附近，仍在牛市中，没有熊市迹象。</description>
+      <pubDate>Tue, 26 Aug 2025 09:32:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bitpanda 联创：倾向于在纽约或法兰克福上市，而非伦敦证交所</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，摩根士丹利：预计美联储将在9月和12月分别降息25个基点（此前预测是2025年不会降息）。</description>
       <pubDate>Tue, 26 Aug 2025 05:50:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安：Alttown (TOWN) 空投门槛为 200 分</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，币安 Alpha 将于 2025 年 8 月 26 日 15:00（UTC+8）上线 Alttown (TOWN) 。 交易开始后，持有至少 200 个币安 Alpha 积分的用户可申领 1,600 个 TOWN 代币空投。先到先得。若活动未结束，则分数门槛将每小时自动降低 15 分。...</description>
-      <pubDate>Tue, 26 Aug 2025 05:43:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
