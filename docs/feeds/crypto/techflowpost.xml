@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 12:54:02 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 12:54:02 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 13:31:27 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 13:31:27 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,64 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>某比特币 OG 抛售 1000 枚比特币，转向做多以太坊</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析平台 Lookonchain（@lookonchain）监测，某比特币早期持有者两小时前以平均价格 109,684 美元出售了 1,000 枚比特币，总价值约 1.097 亿美元。随后，该地址开设了一个 96,452 枚以太坊的 5 倍杠杆多头仓位，仓位价值约 4.33 亿美元，清算价位...</description>
+      <pubDate>Tue, 26 Aug 2025 13:29:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Arbitrum多签钱包向 Coinbase Prime 转入 1310.5 万枚 ARB，约合 691 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师余烬（@EmberCN）监测，Arbitrum 相关多签钱包向 Coinbase Prime 转入 1310.5 万枚 ARB（约合 691 万美元）。该多签钱包此前于 10 个月前从 Arbitrum DAO 财库接收 2.5 亿枚 ARB，并在近 3 个月内陆续向 Coinbase...</description>
+      <pubDate>Tue, 26 Aug 2025 13:27:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>侃爷：个人 Instagram 账号被黑，黑客关注了虚假代币项目</title>
+      <link>https://www.techflowpost.com</link>
+      <description>侃爷（Kanye West） 在 X 发文表示，个人 Instagram 账号被黑并关注虚假代币项目。</description>
+      <pubDate>Tue, 26 Aug 2025 13:14:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>YZi Labs 宣布投资稳定币协议 USD.AI</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方消息， YZi Labs 宣布对人工智能基础设施金融协议 USD.AI 进行战略投资。USD.AI 是一个提供硬件支持融资的协议，目前已锁仓总价值（TVL）超过 6200 万美元。该协议推出了一种以实物人工智能硬件 1:1 抵押的贷款模式，将传统 60-90 天的信贷审批周期缩短至 7 天以...</description>
+      <pubDate>Tue, 26 Aug 2025 13:06:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>链上侦探 ZachXBT：Crypto.com曾发生一次重大事件但未进行披露</title>
+      <link>https://www.techflowpost.com</link>
+      <description>链上侦探 ZachXBT 在社交媒体上发文表示，Crypto.com 过去也发生过一次重大事件，但他们选择隐瞒，没有向公众披露，而我现在不被允许泄露具体细节。</description>
+      <pubDate>Tue, 26 Aug 2025 13:03:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
       <title>特朗普媒体平台将集成 Crypto.com 数字钱包与 CRO 代币</title>
       <link>https://www.techflowpost.com</link>
-      <description>据市场消息，特朗普媒体平台将集成 Crypto.com 数字钱包。并将在其 Truth Social 和 Truth+ 平台上整合 CRO 代币。</description>
+      <description>据 DEGEN NEWS 报道，特朗普媒体平台将在TRUTH SOCIAL和TRUTH+平台上推出奖励系统，该系统使用Crypto.com 数字钱包基础设施，并采用CRONOS (CRO)数字货币作为实用代币。</description>
       <pubDate>Tue, 26 Aug 2025 12:42:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -47,9 +102,9 @@
 
     </item>
     <item>
-      <title>彭博社：特朗普媒体集团计划以 64.2 亿美元收购 CRO DIGITAL</title>
+      <title>特朗普媒体集团与 Crypto.com 达成合作，拟成立 64.2 亿美元 CRO 资产储备公司</title>
       <link>https://www.techflowpost.com</link>
-      <description>据彭博社报道，TRUMP MEDIA GROUP 首席营收官计划以 64.2 亿美元收购 CRO DIGITAL。</description>
+      <description>据 Globe Newswire 报道，Trump Media &amp; Technology Group Corp.（纳斯达克、纽约证交所德克萨斯：DJT）与 Crypto.com 及特殊目的收购公司 Yorkville Acquisition Corp.（纳斯达克：YORK）宣布达成最终协议，将成立...</description>
       <pubDate>Tue, 26 Aug 2025 12:34:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师余烬（@EmberCN）监测，某钱包在 10 天前以约 45.5 美元价格买入 90 万枚 HYPE 代币（约 4026 万美元），并于近 24 小时内以约 43.5 美元价格全部出售获得 3926 万 USDT。该地址随后以 15 倍杠杆开多 51,691 枚以太币，总价值约 2.2...</description>
       <pubDate>Tue, 26 Aug 2025 10:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>东京电视台：Monex正考虑在日本发行与日元挂钩的稳定币</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据援引东京电视台消息称：日本金融集团 Monex Group 正考虑在日本发行与日元挂钩的稳定币。Monex董事长Matsumoto表示，公司正在考虑收购一家欧洲加密公司，预计将在“几天内”宣布消息。</description>
-      <pubDate>Tue, 26 Aug 2025 10:53:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Bitget 推出第 41 期链上交易竞赛，交易解锁 20,000 枚 BGB</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Bitget 第 41 期链上交易竞赛即将开启，总奖池 20,000 枚 BGB。活动期间，用户交易 TROLL、USELESS、RION 代币，链上累计交易额达前 770 名的用户可获得 20 至 200 枚不等的 BGB 空投奖励。活动时间为 8 月 26 日 19:00:00 至 8 月 2...</description>
-      <pubDate>Tue, 26 Aug 2025 10:51:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>桥水创始人：BTC 适合作为投资分散工具，稳定币不适合作为投资品</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据先声播客，桥水基金创始人 Ray Dalio 在其首次中文播客专访中表示，他持有少量比特币作为分散投资工具，但相较于比特币，黄金更具吸引力。比特币劣势在于央行不会持有。相比之下，黄金是仅次于美元的第二大央行储备货币。对于稳定币，Dalio 认为其仅适合高通胀国家或完全不考虑利息的用户用于交易用途...</description>
-      <pubDate>Tue, 26 Aug 2025 10:47:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>交易者 0xEB8d 卖出 OKB 获利 394%，转投 BGB</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析平台 Lookonchain（@lookonchain）监测，一位交易者 0xEB8d 售出了一年前购买的 3,516 枚 OKB 代币（价值 65.89 万美元），获利 52.55 万美元，收益率达 394%。随后，该交易者将资金转向购买了 42,584 枚 BGB 代币（价值 19....</description>
-      <pubDate>Tue, 26 Aug 2025 10:09:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>波场Tron生态交易狂欢节第二季 瓜分15,000 USDT豪华奖池</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方推特消息，KuCoin现隆重推出波场Tron生态交易狂欢节第二季！2025年8月26日10:00至2025年9月2日10:00（UTC），用户交易指定波场生态交易对JST/USDT、SUN/USDT、WIN/USDT、WIN/BTC、WIN/TRX即可参与瓜分15,000USDT豪华奖池。</description>
-      <pubDate>Tue, 26 Aug 2025 10:05:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
