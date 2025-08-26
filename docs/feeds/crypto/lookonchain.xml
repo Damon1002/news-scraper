@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 07:55:26 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 07:55:26 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 08:29:19 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 08:29:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,80 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Gemini Mobile App Surpasses Coinbase on the App Store Top Charts</title>
+      <link>https://www.lookonchain.com/feeds/26318</link>
+      <description>On August 26th, as reported by Cointelegraph, after the launch of its XRP Mastercard by Gemini, Gemini has overtaken Coinbase in the top charts of the US App Store. Currently, Gemini holds the 16th position, while Coinbase is ranked 20th.</description>
+      <pubDate>Tue, 26 Aug 2025 08:24:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26318</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Eclipse Lays Off 65% of Staff, Former CEO Steps Down Voluntarily</title>
+      <link>https://www.lookonchain.com/feeds/26317</link>
+      <description>August 26th. The Ethereum Layer2 network Eclipse announced today a restructuring of the team and leadership in order to adapt to the new development direction after TGE. As part of this transition, sydney will assume the role of CEO following Litquidity&apos;s voluntary departure. To align resources with the updated strategy, the team has reduced its staff by 65%. Eclipse&apos;s mission remains to bring Web2-level applications onto the blockchain.As of the time of this publication, Eclipse&apos;s native token ES has a reported market capitalization of $23.83 million. It has experienced a 7.8% decrease in the last 24 hours, a 5.9% decrease in the past 7 days, and a 32.2% decrease in the past 30 days.</description>
+      <pubDate>Tue, 26 Aug 2025 08:16:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26317</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitcoin Withdrawals Slowing Down, CEX Net Inflow of 296.76 BTC in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/26316</link>
+      <description>On August 26th, according to Coinglass data, within the past 24 hours, the total net inflow of BTC on CEXs was 296.76 BTC. The top three CEXs in terms of inflow volume are as follows:· Bitfinex: a net inflow of 1,202.72 BTC;· Kraken: a net inflow of 600.19 BTC;· Bybit: a net inflow of 473.74 BTC.In addition, Binance had a net outflow of 2,344.92 BTC and ranked first on the outflow list.</description>
+      <pubDate>Tue, 26 Aug 2025 08:08:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26316</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Binance CEO: Beware of Fake Binance Customer Service Call Scams Involving Guiding API Changes</title>
+      <link>https://www.lookonchain.com/feeds/26315</link>
+      <description>On August 26th, Richard Teng, the CEO of Binance, posted that the Binance team recently uncovered a scam. In this scam, fake Binance customer service makes calls to users, asking them to modify their API. Scammers use spoofed numbers or VoIP technology to get in touch with users and claim, &quot;Your Binance account may be in danger. We need to adjust your API settings right away to ensure the safety of your funds.&quot; After that, the scammers use the newly obtained permission to start withdrawal operations and directly transfer the cryptocurrency to a wallet under their control.</description>
+      <pubDate>Tue, 26 Aug 2025 08:08:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26315</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Upbit Trading Volume Slightly Retreats: ETH, BTC, XRP Remain Top Three</title>
       <link>https://www.lookonchain.com/feeds/26314</link>
       <description>On August 26th, based on CoinGecko data, in the past 24 hours, Upbit&apos;s trading volume saw a slight decrease to $3.274 billion, with a 4.3% reduction. Among them, the ETH/KRW trading pair led the Korean won market with a 19.78% trading volume share. Subsequently, BTC, XRP, USDT, and SOL ranked in the top five.</description>
-      <pubDate>Tue, 26 Aug 2025 07:40:33 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 07:40:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26314</guid>
       <category>crypto</category>
@@ -38,7 +108,7 @@
       <title>The SharpLink total market value has dropped below its ETH holdings value.</title>
       <link>https://www.lookonchain.com/feeds/26313</link>
       <description>On August 26th, according to crypto KOL AB Kuai.Dong, the current total market value of &quot;Ethereum Micro Strategy&quot; SharpLink is $3.237 billion. Meanwhile, the company&apos;s holdings of ETH amount to a total value of $3.28 billion. This indicates that the NAV is less than 1 (trading at a discount).On the other hand, in the same sector, Bitmine has a total market value of $8.605 billion, and its holdings of ETH are worth $7.59 billion.</description>
-      <pubDate>Tue, 26 Aug 2025 07:24:33 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 07:28:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26313</guid>
       <category>crypto</category>
@@ -57,7 +127,7 @@
       <title>Cyber Crash Token CCC Completes TGE, Surges 70.3% Within 1 Hour of Listing</title>
       <link>https://www.lookonchain.com/feeds/26312</link>
       <description>August 26th. The Cyber Crash Token CCC, incubated by MetaCene, has completed its TGE on Pancake and officially opened the token distribution channel for testing players. During the first hour of trading, the CCC price surged by 70.3% and is now trading at 0.034 USDT.It is reported that Cyber Crash will commence its open beta testing for the mobile game on August 28th. The official will provide a two-week test with a total reward pool of 2 million CCC tokens. On September 2nd, the web-based gameplay Cyber Forge will also become live. Players can now pre-register for the game on the official website and claim their rewards.</description>
-      <pubDate>Tue, 26 Aug 2025 07:24:33 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 07:28:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26312</guid>
       <category>crypto</category>
@@ -74,7 +144,7 @@
       <title>Matrixport: Bitcoin Rally Restrained Due to Funding and Seasonal Factors</title>
       <link>https://www.lookonchain.com/feeds/26311</link>
       <description>On August 26th, Matrixport disclosed its daily chart analysis, indicating that &quot;Most institutional funds have withdrawn from the summer. However, Ethereum still attracts inflows, while Bitcoin ETF may experience net outflows for the fifth consecutive month. This month&apos;s outflow is estimated to be around $1.2 billion, which is the second highest in history, only next to February&apos;s $3.5 billion. Seasonal factors may be temporary, but they serve as a reminder: Fund flows are as important as seasonality.&quot;&quot;After maintaining a bullish attitude in July, we became cautious in August. Although macro and liquidity factors may still provide support for Bitcoin, the current market still needs to remain vigilant.&quot;</description>
-      <pubDate>Tue, 26 Aug 2025 07:16:33 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 07:28:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26311</guid>
       <category>crypto</category>
@@ -93,7 +163,7 @@
       <title>Binance Alpha has now launched TOWN</title>
       <link>https://www.lookonchain.com/feeds/26310</link>
       <description>August 26th. Binance Alpha has now made TOWN (Alt.town) available for listing.</description>
-      <pubDate>Tue, 26 Aug 2025 07:09:33 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 07:28:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26310</guid>
       <category>crypto</category>
@@ -110,7 +180,7 @@
       <title>Bitunix Analyst: Trump Claims to Fire Fed Governor, Impacting Central Bank Independence; BTC Liquidity Shifts Downward, Faces $114,000 Resistance</title>
       <link>https://www.lookonchain.com/feeds/26309</link>
       <description>August 26th: On August 26th, President Trump publicly declared that he had dismissed Federal Reserve Board member Lisa Cook. Cook responded by saying, &quot;I do not possess the authority to be dismissed, and I will not resign.&quot; This unprecedented action has heightened concerns regarding the Fed&apos;s independence and the policy trajectory heading into the September meeting, leading to a weaker dollar and an increased sense of risk aversion.On the crypto front, the BTC heat map indicates a withdrawal of liquidity from the upper limit. There is a concentrated cluster of orders and a potential liquidation zone between 114,000 and 117,000 above, which poses as a significant resistance. The support below is observed around 109,000–108,000, with short-term volatility risks on the rise.Bitunix analyst&apos;s recommendation: This event constitutes a systemic shock to central bank independence, amplifying policy signal noise. The market&apos;s pricing of the &quot;rate cut pace&quot; is likely to be more volatile. It</description>
-      <pubDate>Tue, 26 Aug 2025 07:09:33 +0000</pubDate>
+      <pubDate>Tue, 26 Aug 2025 07:28:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26309</guid>
       <category>crypto</category>
@@ -124,79 +194,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Withdrawal Trend Continues, with a CEX Net Outflow of 74,500 ETH in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/26308</link>
-      <description>On August 26th, based on Coinglass data, in the past 24 hours, the total net outflow of ETH from CEX exchanges was 74,500 ETH. The top three exchanges in terms of outflow volume are as follows:· Binance, with an outflow of 128,500 ETH;· Bybit, with an outflow of 14,200 ETH;· Gemini, with an outflow of 1,942.67 ETH.In addition, Kraken witnessed an inflow of 28,900 ETH and ranked first in the inflow list.</description>
-      <pubDate>Tue, 26 Aug 2025 07:00:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26308</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Crypto Fear &amp; Greed Index currently at 48, signaling a &quot;Neutral&quot; market state</title>
-      <link>https://www.lookonchain.com/feeds/26307</link>
-      <description>On August 26th, according to alternative data, the cryptocurrency Fear and Greed Index for today is 48 (yesterday it was 47), with the average of last week being 56, indicating a &quot;Neutral&quot; market.Note: The threshold for the Fear Index is 0-100, and it includes indicators such as Volatility (25%) + Market Trading Volume (25%) + Social Media Sentiment (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance (10%) + Google Trends Analysis (10%).[Here would be a description of the image if there was one, but since there isn&apos;t, this part is left empty.]</description>
-      <pubDate>Tue, 26 Aug 2025 06:56:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26307</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Analyst: Bitcoin Key Support Level in $100,000 to $107,000 Range</title>
-      <link>https://www.lookonchain.com/feeds/26306</link>
-      <description>On August 26th, CryptoQuant analyst Axel Adler Jr. made a post stating, &quot;The recent strong support zone for Bitcoin is positioned within the range of $100,000 to $107,000. Here, the Short-Term Holder Realized Price (STH Realized Price) intersects with the 200-day Simple Moving Average (SMA 200D). Below this, the support level is approximately $92,000 to $93,000. This is a deeper support level that reflects the cost basis of short-term investors who have been holding for 3 to 6 months. If the market breaks down below the $100,000 to $107,000 range, this will serve as a crucial second line of defense.&quot;</description>
-      <pubDate>Tue, 26 Aug 2025 06:54:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26306</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The Last Play (retire) is now live on the Bybit Web3 Wallet</title>
-      <link>https://www.lookonchain.com/feeds/26305</link>
-      <description>August 26th. As per official channels, Bybit declared that The Last Play (retire) has officially kicked off on the Bybit Web3 wallet. Users are now capable of directly leveraging their Bybit Unified Trading Account (UTA) balance to promptly purchase the retire token, enabling them to relish a swift, secure, and Web3 onboarding experience.</description>
-      <pubDate>Tue, 26 Aug 2025 06:54:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26305</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
