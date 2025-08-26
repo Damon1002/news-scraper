@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Aug 2025 07:00:06 +0000</lastBuildDate>
-    <pubDate>Tue, 26 Aug 2025 07:00:06 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 07:27:45 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 07:27:45 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>BTTC 重磅推出验证者合作伙伴机制</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，BTTC正式上线验证者合作伙伴机制，在原有独立验证模式基础上实现战略性升级。该机制支持多地址协同运营验证节点，提供高度灵活的质押比例配置与智能收益分配方案，通过链上智能合约实现全自动执行，构建透明可信、完全去中心化的奖励分配体系。此次升级标志着BTTC在节点治理领域迈向全新发展阶段，同...</description>
+      <pubDate>Tue, 26 Aug 2025 07:23:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Hotcoin热币交易所将于8月26日上线TOWN现货交易</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方消息，Hotcoin热币交易所将于2025年8月26日上线以下交易对：TOWN/USDT（现货）上线时间：2025年8月26日17:20（UTC+8）Alt.town 是一个平台，用户可以通过该平台交易虚拟创作者，并参与其数字资产的价值增长。Alt.town 上每位创作者的价值取决于其内容创...</description>
+      <pubDate>Tue, 26 Aug 2025 07:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Sui Network：警惕冒用 Sui 基金会名义的 SuiPro 等项目</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Sui Network 发布声明称，近期出现 SuiPro、SuiBank、银河 101、YY 等项目冒用 “Sui 基金会官方支持” 名义在线下及社交平台推广，涉嫌诱导用户投资。Sui Network 强调，这些项目与其无任何关联或授权，提醒社区成员勿轻信所谓 “官方背书”，并通过官网及官方渠道...</description>
+      <pubDate>Tue, 26 Aug 2025 07:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Matrixport：比特币ETF或将连续五月净流出，季节性因素限制涨势</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析平台 Lookonchain（@lookonchain）监测，某巨鲸沉寂4年后于 50 分钟前从 Kraken 提取了 6,334 枚 ETH，价值2808 万美元。</description>
       <pubDate>Tue, 26 Aug 2025 03:27:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸卖出 886,287 枚 HYPE 和 163 万枚 Fartcoin 并转向做多 ETH</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析平台 Lookonchain（@lookonchain）监测，过去12小时内，鲸鱼地址0xa523卖出886,287枚HYPE（价值3966万美元）和163万枚Fartcoin（价值127万美元），总计亏损114万美元，随后转向做多ETH。该地址建立了15倍杠杆的ETH多头头寸，共计51...</description>
-      <pubDate>Tue, 26 Aug 2025 03:23:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>经济学家：比特币可能跌至7.5万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>趣闻：Peter Schiff曾预测比特币永远不会突破10万美元</description>
-      <pubDate>Tue, 26 Aug 2025 03:21:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美联储理事库克：没有理由被解雇，也不会辞职</title>
-      <link>https://www.techflowpost.com</link>
-      <description>此前消息，特朗普宣布罢免美联储理事库克。</description>
-      <pubDate>Tue, 26 Aug 2025 03:02:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
