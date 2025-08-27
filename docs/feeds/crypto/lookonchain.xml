@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 07:55:57 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 07:55:57 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 08:28:35 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 08:28:35 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,87 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A dormant whale address, inactive for 4 years, has transferred 500 BTC to Binance and still holds 3500 BTC</title>
+      <link>https://www.lookonchain.com/feeds/26481</link>
+      <description>On August 27th, as per the monitoring of Onchain Lens, a whale address has just made a transfer of 500 BTC to Binance, with a value of $55.37 million.The wallet initially received 5,000 BTC four years ago (valued at $282 million at that time), and these assets originated from an address dating back 12 years ago when the Bitcoin price was only $322.The whale address still holds 3,500 BTC, with a value of $387 million.</description>
+      <pubDate>Wed, 27 Aug 2025 08:24:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26481</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Trend Research: ETH Institutional Demand Far Outstrips Stake Supply, ETH Market Cap Expected to Surpass BTC Across Next 1-2 Bull-Bear Cycles</title>
+      <link>https://www.lookonchain.com/feeds/26480</link>
+      <description>August 27th. In its most recent report, Trend Research, a secondary investment institution affiliated with LD Capital, stated: &quot;From a supply and demand standpoint, the current institutional consensus-driven demand for ETH significantly exceeds the supply from staking. We believe that the long-term fully loaded staking situation is not viable. Considering the continued implementation of crypto-friendly policies in the future and Wall Street reaching a consensus on the long-term value of ETH, the &apos;buying craze&apos; for ETH has merely begun. With the approaching halving cycle, we are raising our long-term target price for ETH and think that ETH&apos;s market capitalization will surpass BTC&apos;s within 1-2 bull-bear cycles.&quot;</description>
+      <pubDate>Wed, 27 Aug 2025 08:08:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26480</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>XPL on Hyperliquid Surges Again, Reaching $1</title>
+      <link>https://www.lookonchain.com/feeds/26479</link>
+      <description>On August 27th, based on market data, XPL (Perpetual Contract) on Hyperliquid once more rose to reach $1 and is currently trading at $0.73. It still maintains a significant premium compared to trading on mainstream CEXs (priced at $0.57 on Binance).</description>
+      <pubDate>Wed, 27 Aug 2025 08:00:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26479</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Bitlayer: BTR Airdrop Verification Open, Airdrop Claiming Open at 6:00 PM</title>
+      <link>https://www.lookonchain.com/feeds/26478</link>
+      <description>On August 27th, Bitlayer&apos;s official announcement on social media declared that the BTR airdrop would become active today. The official airdrop checker was launched at 3:00 PM in Beijing time, enabling users to log in and check their BTR allocation. Subsequently, the airdrop distribution will be open for claiming at 6:00 PM.</description>
+      <pubDate>Wed, 27 Aug 2025 07:56:43 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26478</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>503 Bitcoins transferred from Binance to the institutional custody platform Ceffu, worth approximately $55.79 million</title>
       <link>https://www.lookonchain.com/feeds/26477</link>
       <description>On August 27th, according to the monitoring of WhaleAlert, 503 Bitcoins were transferred from Binance to the Binance institutional custody platform Ceffu, and the value was approximately $55.79 million.</description>
-      <pubDate>Wed, 27 Aug 2025 07:49:05 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 07:48:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26477</guid>
       <category>crypto</category>
@@ -38,7 +115,7 @@
       <title>MyStonks Platform 24-hour Trading Volume Surpasses $200 Million</title>
       <link>https://www.lookonchain.com/feeds/26476</link>
       <description>On August 27th, according to official information, the 24-hour trading volume on the MyStonks platform reached $2.0911 billion. Currently, the MyStonks platform has listed 179 RWA token assets and has 37,057 users.MyStonks is a decentralized digital asset trading platform that focuses on US stock token assets and contract trading (with a leverage of up to 20x). It realizes efficient and transparent digital asset trading and management through blockchain technology, promoting the digitization of traditional assets and enhancing liquidity.</description>
-      <pubDate>Wed, 27 Aug 2025 07:41:05 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 07:40:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26476</guid>
       <category>crypto</category>
@@ -56,7 +133,7 @@
       <title>Livepeer: Participation Rate Reaches 50.4%, Protocol Inflation to Begin Gradual Slowdown</title>
       <link>https://www.lookonchain.com/feeds/26475</link>
       <description>On August 27th, the decentralized video streaming platform Livepeer officially made an announcement on social media that its participation rate has reached 50.4%. Once it surpasses 50%, protocol inflation will start to gradually decrease. This not only strengthens the tokenomics but also maintains consistent incentive mechanisms. Greater participation will lead to a more robust and secure network.</description>
-      <pubDate>Wed, 27 Aug 2025 07:41:05 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 07:40:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26475</guid>
       <category>crypto</category>
@@ -73,7 +150,7 @@
       <title>The TAKE token has surged over 114% since its listing three days ago, now trading at $0.803.</title>
       <link>https://www.lookonchain.com/feeds/26474</link>
       <description>On August 27th, according to official information, the platform token TAKE of the P2P game asset trading platform OVERTAKE has witnessed a surge of 114% within three days since its launch. It is currently trading at $0.0803, doubling from its low point of $0.04 after its launch and reaching a peak of $0.0869 during the day.The market performance may be driven by multiple factors. These include the platform&apos;s launch event and trading incentives, which have boosted trading volume. There is also a strategic partnership with Circle. During the testing phase, there was approximately $120,000 in cumulative trading volume. Additionally, there is support from the Sui ecosystem.The project team stated that TAKE&apos;s tokenomics has a profit buyback mechanism, which allows up to about 70% of platform and trading profits to be used for buybacks. Currently, the price mainly remains within the range of $0.07 to $0.089.OVERTAKE is a P2P game asset trading platform based on Sui, targeting Web2 game</description>
-      <pubDate>Wed, 27 Aug 2025 07:41:05 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 07:40:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26474</guid>
       <category>crypto</category>
@@ -91,7 +168,7 @@
       <title>Current Mainstream CEX, DEX Funding Rate Display Market Still Leans Bearish on BTC, ETH</title>
       <link>https://www.lookonchain.com/feeds/26473</link>
       <description>On August 27th, based on Coinglass data, the current mainstream CEX and DEX funding rates exhibit a bearish sentiment towards BTC and ETH. The specific funding rates are presented as shown in the following chart.BlockBeats Note: The funding rate is a rate set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a mechanism for the exchange of funds between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it indicates a generally bearish market.</description>
-      <pubDate>Wed, 27 Aug 2025 07:41:05 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 07:40:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26473</guid>
       <category>crypto</category>
@@ -112,7 +189,7 @@
       <title>Zhu Su: Does Not Believe XPL Price Surge Incident Is Related to Hyperliquid System Issue</title>
       <link>https://www.lookonchain.com/feeds/26472</link>
       <description>On August 27th, Zhu Su posted on social media, stating that he had gone through the discussions about XPL on HL (Hyperliquid). Honestly speaking, he doesn&apos;t view this as an exploit (unlike the jellyjelly incident). The problem is not with the Hyperliquid system itself but that some hedgers shorted an asset that was likely to experience a rapid price increase. In fact, they could have increased the collateral to continue shorting. In my opinion, the only possible issue is that some users might not be familiar with the operations of the &quot;cross&quot; and &quot;isolated&quot; margin modes - that is, even with sufficient funds in the account, they were liquidated due to immediate liquidation.</description>
-      <pubDate>Wed, 27 Aug 2025 07:33:05 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 07:32:43 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26472</guid>
       <category>crypto</category>
@@ -123,81 +200,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LPT Surges to $8.79, Up 40% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/26471</link>
-      <description>On August 27th, based on market data, Livepeer (LPT) surged and touched $8.79. It is currently trading at $8.30. There has been a 40% increase in the past 24 hours, and the market capitalization is $373 million.</description>
-      <pubDate>Wed, 27 Aug 2025 07:24:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26471</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Order Book Imbalance Hits New Low Since May 2018, If the Trend Continues, It May Lead to a Significant Market Correction</title>
-      <link>https://www.lookonchain.com/feeds/26470</link>
-      <description>On August 27th, the cryptocurrency market analysis firm CryptoOnchain posted on social media that the 30-day moving average of Bitcoin&apos;s Taker Buy/Sell Ratio has fallen to the lowest level since May 2018, which is even lower than the bear market bottom in November 2021. This shows that with the weakening of the buying momentum, the market is facing significant selling pressure, suggesting a potential short-term price decline. Although Bitcoin&apos;s price has risen, the continuous downward trend of this ratio indicates that the growth is not sustainable. If this trend continues, we may witness a significant market correction or a prolonged downward trend in prices.</description>
-      <pubDate>Wed, 27 Aug 2025 07:17:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26470</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Matrixport: Ethereum&apos;s Price Momentum Weakens, Future Trend Depends on Treasury Buy Pressure and Market Narrative</title>
-      <link>https://www.lookonchain.com/feeds/26469</link>
-      <description>On August 27th, Matrixport issued its latest report on social media, indicating that the current market focus continues to revolve around Ethereum and Ethereum treasury concept companies. Ethereum&apos;s current upward trend remains unbroken and has obtained support at the moving average line. The dip-buying strategy in mid-August has demonstrated its effectiveness.Analyst Markus Thielen stated that Ethereum&apos;s upward momentum is waning; it is anticipated to range between $4,355 and $4,958, with a high possibility of retesting the $4,355 support level. The subsequent trend will mainly depend on the fundraising ability of Ethereum treasury concept companies and the market narrative they convey.This still constitutes the core theme of the crypto market - respecting technical analysis may perhaps be the decisive factor between profit and loss.</description>
-      <pubDate>Wed, 27 Aug 2025 06:58:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26469</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Analyst: Bitcoin Metrics Show Current Stage More Likely a Bull Market Pause Than Cycle End</title>
-      <link>https://www.lookonchain.com/feeds/26468</link>
-      <description>On August 27th, CryptoQuant analyst Axel posted on social media that the current Bitcoin&apos;s annualized adjusted MVRV ratio has entered the 1.0 range. This implies that the short-term average (30 days) is approximately in line with the annual average (365 days). The annualized basis remains positive, and its curve shows a horizontal trend. This is due to the offsetting effects of two factors: after a strong rally, the 30-day metric is cooling in tandem with volatility and the speed of profit-taking. Meanwhile, the significant 365-day average still incorporates the growth momentum of the past few months. As a result, the numerator and denominator move almost in unison, narrowing the difference between the two. The basis line neither descends nor accelerates upward, indicating that the market is largely digesting the earlier gains.This situation is more inclined towards a pause in the bull market structure rather than the end of the cycle. As long as the annualized basis does not show a</description>
-      <pubDate>Wed, 27 Aug 2025 06:55:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26468</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
