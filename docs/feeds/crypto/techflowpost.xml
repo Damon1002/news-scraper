@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 03:32:04 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 03:32:04 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 03:52:58 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 03:52:58 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>SOL重回200美元上方，24小时涨幅为7.4%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX行情显示，SOL重回200美元上方，现报201.21美元，24小时涨幅为7.4%。</description>
+      <pubDate>Wed, 27 Aug 2025 03:50:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Metaplanet大量行使股票认购权并提前赎回部分债券</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Metaplanet Inc.（东证标准3350）今日公告，在2025年8月14日至26日期间，EVO FUND大量行使了第20系列股票认购权，共计27,500,000股，占总发行权的14.86%。同时，公司利用认购权行使所得资金，对第19系列普通债券进行了5,250,000,000日元的部分提前...</description>
+      <pubDate>Wed, 27 Aug 2025 03:38:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>某巨鲸向Hyperliquid存入1000万枚USDC买入HYPE</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，0xFF0 开头地址在过去一小时内从 Coinbase 提取了 1000 万枚 USDC，随后将资金充值至 Hyperliquid 并买入了价值 900 万美元的 HYPE。目前该地址剩余 100 万美元并挂出了 49.306 美元的限价买...</description>
+      <pubDate>Wed, 27 Aug 2025 03:32:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>HYPE短时触及50美元，续创历史新高</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>ABCDE 联创 Du Jun 在社交媒体发文表示，「清完杠杆，这一波 ETH 要上 6000」。</description>
       <pubDate>Wed, 27 Aug 2025 01:16:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸从 Kraken 提取了 10,000 枚 ETH</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸从 Kraken 交易所再次提出了 10,000 枚 ETH，价值约 4440 万美元。目前该巨鲸持有 20,000 枚 ETH，价值约 9187 万美元。</description>
-      <pubDate>Wed, 27 Aug 2025 01:07:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Canary Capita向SEC提交S-1文件，申请推出TRUMP ETF</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 CoinDesk 报道，Canary Capital 向美国证券交易委员会提交 S-1 文件，计划推出 TRUMP ETF。</description>
-      <pubDate>Wed, 27 Aug 2025 01:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某地址在Hyperliquid平台操纵XPL，一分钟获利1600万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，一个钱包地址（0xb9c...6801e）于8月27日5:35开始在Hyperliquid交易平台上大量做多$XPL代币，短时间内扫空整个订单簿，挤压市场上的空单（主要为1x杠杆套保单）。这一操作使$XPL价格在2分钟内暴涨超过200%，最...</description>
-      <pubDate>Wed, 27 Aug 2025 01:00:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

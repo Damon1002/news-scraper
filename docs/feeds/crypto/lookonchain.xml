@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 03:32:04 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 03:32:04 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 03:52:58 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 03:52:58 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>OKX C2C has launched a new &quot;Freeze Compensation&quot; system: up to 100% compensation with a limit of 30,000 USDT.</title>
-      <link>https://www.lookonchain.com/feeds/26429</link>
-      <description>According to an official proclamation, on August 27th, 2025, OKX officially initiated a novel &quot;Frozen Compensation&quot; system. Users engaging in transactions with merchants marked with &quot;Frozen Compensation&quot; will be qualified for a compensation ratio of up to 100% and a maximum single claim limit of 30,000 USDT in the event that their receiving account is frozen due to the counterparty&apos;s payment. At the same time, they will also receive support from the platform&apos;s funds, enhancing security and protection.It is reported that only high-quality merchants that have passed strict audits can obtain the &quot;Frozen Compensation&quot; qualification. These include Bulk Compensation Merchants and Certified Compensation Merchants. Among them, Bulk Compensation Merchants have paid a substantial security deposit, ensuring safety, reliability, and strong compensation capabilities. Certified Compensation Merchants are certified by the platform and provide stable compensation in accordance with the rules. Users</description>
-      <pubDate>Wed, 27 Aug 2025 03:25:11 +0000</pubDate>
+      <title>Data: Trading Volume Increases by 30% After Aerodrome Integrates with Coinbase DEX</title>
+      <link>https://www.lookonchain.com/feeds/26436</link>
+      <description>August 27th: Based on Aerodrome Finance data, since August 8th when it integrated with Coinbase DEX, the trading volume has witnessed a 30% increase. During the two weeks prior to the integration, Aerodrome&apos;s trading volume was $8.7 billion. However, in the two weeks following the integration, the trading volume rose to $11.3 billion.</description>
+      <pubDate>Wed, 27 Aug 2025 03:48:06 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26429</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26436</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +31,84 @@
 
     </item>
     <item>
+      <title>SOL Surges Past $200, with a 24-hour Gain of 4.81%</title>
+      <link>https://www.lookonchain.com/feeds/26435</link>
+      <description>On August 27th, according to HTX market data, SOL has exceeded $200 and is currently trading at $200.1, with a 24-hour percentage change of 4.81%.</description>
+      <pubDate>Wed, 27 Aug 2025 03:48:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26435</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>BlackRock&apos;s Securitize CEO: RWA Tokenization Represents $20 Trillion Market Potential, Ethereum Leads the Space</title>
+      <link>https://www.lookonchain.com/feeds/26434</link>
+      <description>August 27th. The CEO of Securitize, Carlos Domingo, under the Belldex brand, made a post via the Ethereum official X account. He stated that Real World Assets (RWA) represent a market potential exceeding $20 trillion, yet only a small fraction of it is on-chain. In terms of market value, Ethereum is the leading blockchain in the RWA field, but we are still in the early stages. Even a 1% market share could bring an opportunity of over $200 billion.Domingo pointed out that Securitize mints on-chain native assets, with 68% (over $23 billion) on Ethereum. Many issuers believe that Ethereum provides the safest, most composable, and censorship-resistant foundation for tokenized financial products. Tokenized stocks are the next step in bringing real-world financial markets onto the blockchain. Since the global stock market is valued at approximately $100 trillion, it is difficult to overstate the long-term opportunity of anchoring these assets on Ethereum.</description>
+      <pubDate>Wed, 27 Aug 2025 03:41:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26434</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Metaplanet extensively exercised stock options and redeemed a portion of the bonds early</title>
+      <link>https://www.lookonchain.com/feeds/26433</link>
+      <description>August 27th - Metaplanet Inc. made an announcement today. From August 14th to 26th, 2025, EVO FUND substantially exercised its Series 20 stock subscription rights, with a total of 27,500,000 shares, accounting for 14.86% of the total issued shares. Meanwhile, the company used the funds obtained from the exercise of subscription rights to partially redeem ￥5,250,000,000 of the Series 19 common bonds. After multiple redemptions in July and early August, the total redemption amount reached ￥21,000,000,000.After this stock issuance, the company&apos;s total issued shares increased to 739,714,340 shares, and the unexercised subscription rights decreased to 460,000 rights (equivalent to 46,000,000 shares).</description>
+      <pubDate>Wed, 27 Aug 2025 03:41:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26433</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale deposited 10 million USDC into Hyperliquid to buy HYPE.</title>
+      <link>https://www.lookonchain.com/feeds/26432</link>
+      <description>August 27th. Based on on-chain analyst Ai Auntie (@ai_9684xtpa), the address 0xFF0...24FbF withdrew 10 million USDC from Coinbase within the past hour. Subsequently, it was deposited into Hyperliquid to purchase $9 million worth of HYPE. Currently, there remains $1 million with a limit buy order at $49.306.</description>
+      <pubDate>Wed, 27 Aug 2025 03:33:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26432</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The US-based cloud development platform company Vercel&apos;s AI-powered frontend development tool v0 now accepts USDC for purchasing credits.</title>
       <link>https://www.lookonchain.com/feeds/26431</link>
       <description>On August 27th, according to official information, the AI frontend development tool v0 of the U.S.-based cloud development platform company Vercel has announced that users are now able to purchase v0 points by using USDC.</description>
-      <pubDate>Wed, 27 Aug 2025 03:25:11 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 03:25:06 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26431</guid>
       <category>crypto</category>
@@ -51,7 +125,7 @@
       <title>Tom Lee Updates Ethereum Price Target Prediction: Surge to $5,500 in a Few Weeks, Year-End Target of $10,000 to $12,000</title>
       <link>https://www.lookonchain.com/feeds/26430</link>
       <description>On August 27th, Tom Lee, the chairman of BitMine, recently stated in a live interview with amit that he anticipates Ethereum to rise to $5500 within a few weeks, with a year-end target price ranging from $10,000 to $12,000. Generally, in the cryptocurrency market, significant movements often occur in the fourth quarter. &quot;So, if you have already achieved a 35% gain since the beginning of the year and need to end up with a 200% gain for the year, most of that gain is likely to happen in the next few months.&quot;However, Tom Lee also expressed worries about a potential seasonal market correction in September. Nevertheless, he still emphasized that &quot;a dip presents a buying opportunity.&quot;</description>
-      <pubDate>Wed, 27 Aug 2025 03:25:11 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 03:25:06 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26430</guid>
       <category>crypto</category>
@@ -68,10 +142,27 @@
 
     </item>
     <item>
+      <title>OKX C2C has launched a new &quot;Freeze Compensation&quot; system: up to 100% compensation with a limit of 30,000 USDT.</title>
+      <link>https://www.lookonchain.com/feeds/26429</link>
+      <description>According to an official proclamation, on August 27th, 2025, OKX officially initiated a novel &quot;Frozen Compensation&quot; system. Users engaging in transactions with merchants marked with &quot;Frozen Compensation&quot; will be qualified for a compensation ratio of up to 100% and a maximum single claim limit of 30,000 USDT in the event that their receiving account is frozen due to the counterparty&apos;s payment. At the same time, they will also receive support from the platform&apos;s funds, enhancing security and protection.It is reported that only high-quality merchants that have passed strict audits can obtain the &quot;Frozen Compensation&quot; qualification. These include Bulk Compensation Merchants and Certified Compensation Merchants. Among them, Bulk Compensation Merchants have paid a substantial security deposit, ensuring safety, reliability, and strong compensation capabilities. Certified Compensation Merchants are certified by the platform and provide stable compensation in accordance with the rules. Users</description>
+      <pubDate>Wed, 27 Aug 2025 03:25:06 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26429</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>HYPE records a 24-hour price increase of 11.77%, continuing to hit an all-time high</title>
       <link>https://www.lookonchain.com/feeds/26428</link>
       <description>On August 27th, based on market data, HYPE reached a peak of $49.798. Currently, it is trading at $49.37, showing a 24-hour percentage increase of 11.84% and setting a new all-time high.</description>
-      <pubDate>Wed, 27 Aug 2025 03:16:11 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 03:16:06 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26428</guid>
       <category>crypto</category>
@@ -88,7 +179,7 @@
       <title>A certain user insider traded on the news of Taylor Swift&apos;s engagement, accurately purchasing relevant prediction shares on Polymarket</title>
       <link>https://www.lookonchain.com/feeds/26427</link>
       <description>On August 27th, according to the crypto KOL @Domahhhh, a Polymarket user named &quot;romanticpaul&quot; has been vigorously betting on the prediction of Taylor Swift&apos;s engagement since approximately 3:00 PM local time the previous day.The user raised the probability of the event &quot;Taylor Swift will get engaged to Travis Kelce this year&quot; from 25% to 45%. Nevertheless, the total amount of funds involved in this prediction is not considerable (approximately $350,000).In today&apos;s news, the renowned singer Taylor Swift officially announced her engagement to the NFL star Travis Kelce on social media.</description>
-      <pubDate>Wed, 27 Aug 2025 03:08:11 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 03:08:06 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26427</guid>
       <category>crypto</category>
@@ -99,97 +190,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Federal Reserve Responds for the First Time to &quot;Trump Fires Powell&quot;: Implies Court Appearance</title>
-      <link>https://www.lookonchain.com/feeds/26426</link>
-      <description>On August 27th, a spokesperson for the Federal Reserve stated that, in accordance with the Federal Reserve Act, Congress clearly mandated that Federal Reserve Board members should have long and fixed terms and could only be removed by the President for &quot;good cause.&quot; The long-term tenure of Board members and the dismissal protection mechanism are crucial safeguards to ensure that monetary policy decisions are based on data, economic analysis, and the long-term interests of the American people.The Federal Reserve will continue to fulfill its duties in accordance with the law. Board member Cook has stated through her personal attorney that she will immediately challenge this action in court. As always, the Federal Reserve will abide by any court rulings. (Xinhua News)</description>
-      <pubDate>Wed, 27 Aug 2025 02:56:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26426</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>CoinList has launched the private sale portal CoinList Alpha, with the first transaction supporting Solana-based fintech firm Sharp&apos;s PIPE private financing.</title>
-      <link>https://www.lookonchain.com/feeds/26425</link>
-      <description>On August 27th, CoinList made an announcement regarding the launch of the private sale portal, CoinList Alpha. The purpose of this launch is to provide eligible investors with access to curated private sale opportunities that range from seed rounds to strategic corporate private placements.It is reported that the first transaction launched on the website is CoinList&apos;s offering for eligible investors to participate in Solana&apos;s strategic finance company, Sharps Technology (STSS), in its PIPE private funding opportunity.</description>
-      <pubDate>Wed, 27 Aug 2025 02:56:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26425</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Statistics: Suspected Four Major Addresses Colluded to Snipe XPL Hedge Positions, Profiting $46.1 Million</title>
-      <link>https://www.lookonchain.com/feeds/26424</link>
-      <description>On August 27th, according to on-chain analyst Ai Auntie (@ai9684xtpa), four major addresses participated in a sniper attack aimed at the $XPL hedge short position, amassing a total profit of up to $46.1 million. The leading address 0xb9c...6801e has been continuously accumulating long positions since August 24th and made a large purchase in the early morning at 05:35 today, directly sweeping the entire order book and earning a profit of $16 million in just one minute. The other three cooperating addresses started to close their positions for profit when the XPL price reached a short-term high.Analysis reveals that two of the addresses have the same source of funds, and all three major addresses obtained their margin through debridge cross-chain, exhibiting similar operational habits and demonstrating the characteristics of coordinated operation.</description>
-      <pubDate>Wed, 27 Aug 2025 02:49:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26424</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Approaching the WLFI launch, a whale spent approximately $1.12 million to buy Block, a WLFI-related meme coin</title>
-      <link>https://www.lookonchain.com/feeds/26422</link>
-      <description>On August 27th, as monitored by LookOnChain, with the WLFI listing time approaching in 5 days, a whale has established a new wallet &apos;0x8C43&apos; and spent 248 ETH (equivalent to 1.12 million USD) 6 hours ago to purchase 6.95 million units of the WLFI-related meme coin Block.</description>
-      <pubDate>Wed, 27 Aug 2025 02:48:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26422</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Foundation Teams Up with Columbia University to Launch Blockchain-themed Podcast, First Episode to Air Today</title>
-      <link>https://www.lookonchain.com/feeds/26423</link>
-      <description>On August 27th, as per official information, the Office of Academic Affairs of the Ethereum Foundation has entered into a partnership with Columbia University to launch a blockchain-themed podcast named &quot;From Whiteboard to Mainnet.&quot; The first episode, which centers around &quot;Optimal Dynamic Fees for Blockchain Resources,&quot; is set to premiere today.</description>
-      <pubDate>Wed, 27 Aug 2025 02:48:11 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26423</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
