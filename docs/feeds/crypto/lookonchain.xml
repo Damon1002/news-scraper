@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 06:38:23 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 06:38:23 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 06:54:20 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 06:54:20 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Solayer introduces the cross-chain bridge sBridge, supporting the connection of Solana to InfiniSVM and other SVM chains</title>
-      <link>https://www.lookonchain.com/feeds/26465</link>
-      <description>On August 27th, the Solana Virtual Machine (SVM) Solayer declared the initiation of a cross-chain bridge named sBridge featuring a dedicated SVM semantics. Both SOON and Sonic have provided support for sBridge. sBridge directly links Solana to InfiniSVM and other SVM chains, facilitating seamless real-time liquidity and asset transfers without the necessity of going through EVM detours.In contrast to existing multi-chain solutions, sBridge is specifically optimized for the SVM chain, eliminating the conversion layer. This cross-chain bridge offers native PDA proof and hardware-accelerated ED25519 signatures, enabling the transfer of data and value at the actual speed of the SVM.</description>
-      <pubDate>Wed, 27 Aug 2025 06:32:32 +0000</pubDate>
+      <title>Analyst: Bitcoin Metrics Show Current Stage More Likely a Bull Market Pause Than Cycle End</title>
+      <link>https://www.lookonchain.com/feeds/26468</link>
+      <description>On August 27th, CryptoQuant analyst Axel posted on social media that the current Bitcoin&apos;s annualized adjusted MVRV ratio has entered the 1.0 range. This implies that the short-term average (30 days) is approximately in line with the annual average (365 days). The annualized basis remains positive, and its curve shows a horizontal trend. This is due to the offsetting effects of two factors: after a strong rally, the 30-day metric is cooling in tandem with volatility and the speed of profit-taking. Meanwhile, the significant 365-day average still incorporates the growth momentum of the past few months. As a result, the numerator and denominator move almost in unison, narrowing the difference between the two. The basis line neither descends nor accelerates upward, indicating that the market is largely digesting the earlier gains.This situation is more inclined towards a pause in the bull market structure rather than the end of the cycle. As long as the annualized basis does not show a</description>
+      <pubDate>Wed, 27 Aug 2025 06:49:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26465</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26468</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,15 +28,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
     <item>
-      <title>WLFI Lockbox Contract has received a deposit of 13.35 billion tokens, worth 3.5 billion dollars</title>
-      <link>https://www.lookonchain.com/feeds/26464</link>
-      <description>On August 27th, as per on-chain analyst Ai Auntie (@ai_9684xtpa), it has been under surveillance that there are already 13.35 billion tokens within the WLFI Lockbox contract, with a value of 3.5 billion U.S. dollars.Based on the current price of the WLFI contract at $0.2615, the book return rate of the investors in the first public offering round remains 16.43 times, and that of the second round is still 4.23 times.In addition, perhaps due to the influence of the XPL hedge-snipe incident, the Hyperliquid WLFI open interest (OI) has decreased by 49% in the past 24 hours, and even Binance has dropped by 5.75%.</description>
-      <pubDate>Wed, 27 Aug 2025 06:32:32 +0000</pubDate>
+      <title>Binance HODLer Airdrop Round 2 Launches MyShell (SHELL)</title>
+      <link>https://www.lookonchain.com/feeds/26467</link>
+      <description>On August 27th, as per official information, the Binance HODLer Airdrop Round 2 is scheduled to list MyShell (SHELL). An extra 25,000,000 SHELL will be distributed in the second round. From 08:00 on July 24, 2025, up to 07:59 on July 28, 2025, users who purchase the Earn Your Right Coins (fixed-term and/or flexible-term) or on-chain yield products by using BNB will be eligible to receive the airdrop allocation.</description>
+      <pubDate>Wed, 27 Aug 2025 06:40:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26464</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26467</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +53,7 @@
       <title>Stat: XPL Price Manipulation by 4 Whale Addresses Resulted in a Total Profit of $47.67 Million</title>
       <link>https://www.lookonchain.com/feeds/26466</link>
       <description>On August 27th, according to the analysis of Spot On Chain, four whale addresses manipulated the price of the XPL token on the Hyperliquid platform and earned a total profit of $47.67 million. The details are as follows:The 0xb9c (main coordinator) made a profit of +$15.11 million;The 0xe41 made a profit of +$12.97 million;The 0x006 made a profit of +$10.52 million;The 0x894 made a profit of +$9.07 million;The losses of the victims are:The 0xC2Cb suffered a loss of -$4.59 million;The 0x64a4 suffered a loss of -$2.00 million.</description>
-      <pubDate>Wed, 27 Aug 2025 06:32:32 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 06:32:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26466</guid>
       <category>crypto</category>
@@ -68,10 +70,44 @@
 
     </item>
     <item>
+      <title>Solayer introduces the cross-chain bridge sBridge, supporting the connection of Solana to InfiniSVM and other SVM chains</title>
+      <link>https://www.lookonchain.com/feeds/26465</link>
+      <description>On August 27th, the Solana Virtual Machine (SVM) Solayer declared the initiation of a cross-chain bridge named sBridge featuring a dedicated SVM semantics. Both SOON and Sonic have provided support for sBridge. sBridge directly links Solana to InfiniSVM and other SVM chains, facilitating seamless real-time liquidity and asset transfers without the necessity of going through EVM detours.In contrast to existing multi-chain solutions, sBridge is specifically optimized for the SVM chain, eliminating the conversion layer. This cross-chain bridge offers native PDA proof and hardware-accelerated ED25519 signatures, enabling the transfer of data and value at the actual speed of the SVM.</description>
+      <pubDate>Wed, 27 Aug 2025 06:32:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26465</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>WLFI Lockbox Contract has received a deposit of 13.35 billion tokens, worth 3.5 billion dollars</title>
+      <link>https://www.lookonchain.com/feeds/26464</link>
+      <description>On August 27th, as per on-chain analyst Ai Auntie (@ai_9684xtpa), it has been under surveillance that there are already 13.35 billion tokens within the WLFI Lockbox contract, with a value of 3.5 billion U.S. dollars.Based on the current price of the WLFI contract at $0.2615, the book return rate of the investors in the first public offering round remains 16.43 times, and that of the second round is still 4.23 times.In addition, perhaps due to the influence of the XPL hedge-snipe incident, the Hyperliquid WLFI open interest (OI) has decreased by 49% in the past 24 hours, and even Binance has dropped by 5.75%.</description>
+      <pubDate>Wed, 27 Aug 2025 06:32:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26464</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Guotai Junan Securities Response to Ant Group: Acquisition of Equity Stake Rumors for Virtual Asset Trading Platform License Application: Please refer to the official announcement</title>
       <link>https://www.lookonchain.com/feeds/26463</link>
       <description>August 27th. In terms of Ye Mao-lin&apos;s plan, where he is the chairman of the Hong Kong-listed securities firm Bright Smart Securities and intends to sell all 50.55% of the company&apos;s shares to Ant Group. The CEO of the company, Ivan Ko Yak-Pun, responded by stating that the transaction is moving forward as scheduled. The company will disclose the progress on a monthly basis as required. There have been various rumors in the market, but it is emphasized that all information should be based on official announcements.In addition, regarding the market speculation that Ant&apos;s acquisition of Bright Smart is for the purpose of applying for a virtual asset trading platform license, Ivan Ko Yak-Pun further added that the current relationship between the company and Ant is only that of an offeror and an offeree. However, they are closely observing market developments and will conduct further research to consider whether to upgrade the existing license to a virtual asset license. (Oriental Daily N</description>
-      <pubDate>Wed, 27 Aug 2025 06:21:32 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 06:21:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26463</guid>
       <category>crypto</category>
@@ -88,7 +124,7 @@
       <title>Japanese financial firm Monex Group is considering launching a stablecoin pegged to the Japanese Yen.</title>
       <link>https://www.lookonchain.com/feeds/26462</link>
       <description>On August 27th, the Tokyo-listed financial services company Monex Group announced that it is giving consideration to launching a yen-pegged stablecoin. As per Monex Group, this proposed yen-pegged stablecoin will be backed by assets such as Japanese government bonds and will be exchangeable for yen on a 1:1 basis. Its potential areas of application encompass cross-border remittances and corporate settlements.Monex Group, which holds the Japanese cryptocurrency exchange Coincheck and operates a domestic brokerage business, intends to progress the stablecoin project by leveraging these two major business segments.</description>
-      <pubDate>Wed, 27 Aug 2025 06:21:32 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 06:21:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26462</guid>
       <category>crypto</category>
@@ -105,7 +141,7 @@
       <title>Binance Wallet to Launch Mitosis (MITO) TGE</title>
       <link>https://www.lookonchain.com/feeds/26461</link>
       <description>August 27th. According to official information, the Binance Wallet is set to launch the TGE (Initial Token Offering) of the Mitosis (MITO) token from 8:00 PM to 10:00 PM on August 28th, 2025. Users will be required to utilize Alpha points to participate in the subscription. The trading of the token contract will commence at 10:30 PM on the same day. Details of the TGE and the event page will be made available shortly.</description>
-      <pubDate>Wed, 27 Aug 2025 06:12:32 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 06:12:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26461</guid>
       <category>crypto</category>
@@ -122,7 +158,7 @@
       <title>Digital Asset Acquisition Company CSLM Raises $200 Million through IPO, Plans to Pursue Blockchain Merger for Strategic Listing</title>
       <link>https://www.lookonchain.com/feeds/26460</link>
       <description>On August 27th, a newly established special purpose acquisition company named CSLM Digital Asset Acquisition raised $200 million through an initial public offering. The related stocks are anticipated to be traded on the Nasdaq Stock Exchange under the tickers &quot;KOYN&quot; and &quot;KOYNW&quot;.The company declared that it will aim to merge with enterprises that are strategically associated with blockchain and distributed ledger technology. These include infrastructure for constructing wallets, custody solutions, trading platforms, data protocols, and tokenized financial instruments. Additionally, it will merge with companies developing applications such as payments, decentralized finance, and cross-border finance.</description>
-      <pubDate>Wed, 27 Aug 2025 06:00:32 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 06:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26460</guid>
       <category>crypto</category>
@@ -140,7 +176,7 @@
       <title>Ethereum PoS Network&apos;s ETH Staking Queue Surpasses 1 Million, Setting a New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/26459</link>
       <description>On August 27th, based on the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network has risen to 1,012,296 ETH, which is approximately worth $46.66 billion. The withdrawal delay has been extended to 17 days and 14 hours.Meanwhile, around 581,233 ETH are queued to join the network.Previously reported, this situation reflects two opposing forces in the market. On one hand, some stakers may have decided to cash out after Ethereum&apos;s significant increase since the April low, resulting in a surge in the exit queue. On the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also raising the entry queue. Listed companies such as SharpLink Gaming and BitMine Immersion have increased their ETH holdings and are engaging in staking.</description>
-      <pubDate>Wed, 27 Aug 2025 06:00:32 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 06:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26459</guid>
       <category>crypto</category>
@@ -153,43 +189,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale address is slowly accumulating the Bonk ecosystem&apos;s Governance and Propaganda (GP) token, amassing over $480,000 worth of GP in less than a month.</title>
-      <link>https://www.lookonchain.com/feeds/26458</link>
-      <description>On August 27th, as per the on-chain analytics platform Stalkchain, a wallet received a fund inflow of $249,000 22 days ago and has been continuously purchasing the Bonk ecosystem development protocol GP token. A few days later, within 16 days, this wallet withdrew $843,000 from Binance. During this period, it has been gradually accumulating GP. Currently, the wallet has accumulated tokens worth approximately $481,200.</description>
-      <pubDate>Wed, 27 Aug 2025 05:48:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26458</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A certain new address deposited 2.59 million USDC and went long on XPL with 1x leverage.</title>
-      <link>https://www.lookonchain.com/feeds/26457</link>
-      <description>On August 27th, as per the monitoring of Onchain Lens, a newly established wallet deposited 2.59 million USDC into HyperLiquid and initiated a 1x leverage XPL long position.</description>
-      <pubDate>Wed, 27 Aug 2025 05:40:32 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26457</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
