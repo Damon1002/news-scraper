@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 09:01:43 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 09:01:43 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 09:29:53 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 09:29:53 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,104 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>WLFI pin price on Hyperliquid touches $0.39, representing approximately a 25% premium compared to CEX.</title>
+      <link>https://www.lookonchain.com/feeds/26490</link>
+      <description>On August 27th, based on market data, the WLFI price on Hyperliquid reached $0.39. Currently, it is trading at $0.34. And the pre-market contract price on Binance is currently $0.269.</description>
+      <pubDate>Wed, 27 Aug 2025 09:25:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26490</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A whale has shorted XPL and WLFI on Hyperliquid, with an unrealized loss of $1.4 million.</title>
+      <link>https://www.lookonchain.com/feeds/26489</link>
+      <description>On August 27th, as monitored by lookonchain, a whale address beginning with 0x54d7 took short positions on XPL with 2x leverage and WLFI with 3x leverage on Hyperliquid. This led to a loss of more than $1.4 million. The liquidation prices are as follows: XPL: $2.2866; WLFI: $1.1172.</description>
+      <pubDate>Wed, 27 Aug 2025 09:25:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26489</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>An BTC Whale Deposits 750 BTC into Binance After Holding for 12 Years, Achieving a 907x Return on Investment</title>
+      <link>https://www.lookonchain.com/feeds/26488</link>
+      <description>On August 27th, as monitored by The Data Nerd, a BTC whale deposited 750 BTC into Binance after holding it for 12 years. This is equivalent to approximately $83.11 million. 12 years ago, their entry price was only around $122. The realized profit on these 750 BTC is $83 million, resulting in an investment return of 907 times.</description>
+      <pubDate>Wed, 27 Aug 2025 09:17:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26488</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Metaplanet plans to raise $881 million to accumulate more Bitcoin in October and September.</title>
+      <link>https://www.lookonchain.com/feeds/26487</link>
+      <description>August 27th: The publicly traded Japanese company Metaplanet announced that it intends to raise funds through an international stock offering. The expected net proceeds from the international offering are approximately 130.334 billion Japanese yen (about 881 million USD), which are intended for:· Purchasing Bitcoin: 123.818 billion Japanese yen (837 million USD)· Bitcoin financial operations: 6.516 billion Japanese yen (44 million USD)Metaplanet stated that due to Japan&apos;s current severe economic situation, including high national debt, long-term real negative interest rates, and the continuous depreciation of the yen. As disclosed in the May 13, 2024 publication &quot;Metaplanet&apos;s Strategic Financial Transformation and Bitcoin Adoption&quot;, the company has adjusted its financial management policy by strategically positioning Bitcoin (BTC) as its primary reserve asset. This decision aims to hedge against the asset risks caused by yen depreciation and leverage Bitcoin&apos;s long-term appreciatio</description>
+      <pubDate>Wed, 27 Aug 2025 09:09:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26487</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will list Dexlab (XLAB) on August 29th.</title>
+      <link>https://www.lookonchain.com/feeds/26486</link>
+      <description>August 27th: As per official channels, Binance Alpha is set to list Dexlab (XLAB) on August 29th.Qualified users can access the Alpha event page once Alpha trading commences and receive an airdrop by using Alpha Points. Further details will be disclosed at a later time.</description>
+      <pubDate>Wed, 27 Aug 2025 09:08:01 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26486</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Hyperliquid Platform XPL Contract 24-hour Trading Volume Surpasses $158 Million, Funding Rate Reaches 0.15%</title>
       <link>https://www.lookonchain.com/feeds/26485</link>
       <description>On August 27th, on the Hyperliquid platform, the perpetual contract XPL is currently priced at $0.84. The 24-hour trading volume exceeds $158 million, the open interest is approximately $50.5 million, and the funding rate is about 0.15%.In earlier news, there was a large-scale sniper attack on XPL in the market: four major addresses coordinated an attack on short hedges, with a total profit of around $46.1 million. The leading address 0xb9c…6801e accumulated multiple long positions since August 24th and made a large buy order to clear the order book at 05:35 this morning. It realized a profit of about $16 million within a minute. The other three addresses closed their positions successively after the price surged. Currently, the leading address still holds approximately $11.43 million worth of XPL in a 1x long position, with an unrealized profit of around $3.35 million.</description>
-      <pubDate>Wed, 27 Aug 2025 09:00:50 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:01:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26485</guid>
       <category>crypto</category>
@@ -35,7 +129,7 @@
       <title>Swedish company H100 Group has increased its position by 46.22 BTC, bringing the total holdings to 957.5 BTC</title>
       <link>https://www.lookonchain.com/feeds/26484</link>
       <description>On August 27th, the Swedish company H100 Group announced that it had increased its holdings of Bitcoin by purchasing 46.22 BTC and now owned a total of 957.5 BTC.</description>
-      <pubDate>Wed, 27 Aug 2025 08:48:50 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 08:49:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26484</guid>
       <category>crypto</category>
@@ -54,7 +148,7 @@
       <title>Hyperliquid Sniper XPL Hedge Whale Address Floating P&amp;L Reaches $2.63 Million Again</title>
       <link>https://www.lookonchain.com/feeds/26482</link>
       <description>August 27th. According to on-chain analyst Ai Auntie (@ai_9684xtpa), as Hyperliquid&apos;s XPL witnessed a short-term upward surge once again. This morning, the main operation address 0xb9c...6801e, which the sniper hedged and earned more than 16 million US dollars. Its unrealized gains reached 2.63 million US dollars.Currently, the address still holds a 10.7 million US dollar 1x long position (with 13.68 million XPL held), and the entry price is $0.5901. When XPL just touched $0.99 earlier, the unrealized gains of this address once reached as high as 5.47 million US dollars.</description>
-      <pubDate>Wed, 27 Aug 2025 08:32:50 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 08:33:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26482</guid>
       <category>crypto</category>
@@ -73,7 +167,7 @@
       <title>Hyperliquid Response to XPL Price Surge: The platform has not experienced any technical issues or defaults. Users are advised to be aware of the risks themselves.</title>
       <link>https://www.lookonchain.com/feeds/26483</link>
       <description>On August 27th, Hyperliquid&apos;s official announcement on the Discord channel stated that today, the XPL market witnessed significant volatility. The token price surged by approximately 2.5 times within a few minutes. During this period, the Hyperliquid blockchain operated normally as designed and there were no technical issues. Firstly, it carried out liquidations based on the order book, and then triggered the automatic deleveraging (ADL) mechanism in accordance with the public protocol. Hyperp adopts a fully isolated margin system where the PnL of all users is isolated from other asset positions. This liquidation and ADL only affected XPL positions, and the protocol did not incur any bad debts.The pre-market itself is unpredictable. The robust mark price formula used by Hyperp effectively prevents instantaneous price spikes. It requires the order book price to maintain a high level for several minutes before triggering liquidation.Hyperliquid is a permissionless multi-market protoc</description>
-      <pubDate>Wed, 27 Aug 2025 08:32:50 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 08:33:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26483</guid>
       <category>crypto</category>
@@ -90,7 +184,7 @@
       <title>A dormant whale address, inactive for 4 years, has transferred 500 BTC to Binance and still holds 3500 BTC</title>
       <link>https://www.lookonchain.com/feeds/26481</link>
       <description>On August 27th, as per the monitoring of Onchain Lens, a whale address has just made a transfer of 500 BTC to Binance, with a value of $55.37 million.The wallet initially received 5,000 BTC four years ago (valued at $282 million at that time), and these assets originated from an address dating back 12 years ago when the Bitcoin price was only $322.The whale address still holds 3,500 BTC, with a value of $387 million.</description>
-      <pubDate>Wed, 27 Aug 2025 08:24:50 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 08:29:01 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26481</guid>
       <category>crypto</category>
@@ -105,101 +199,6 @@
       <category>bitcoin</category>
       <category>whale</category>
       <category>transfer</category>
-
-    </item>
-    <item>
-      <title>Trend Research: ETH Institutional Demand Far Outstrips Stake Supply, ETH Market Cap Expected to Surpass BTC Across Next 1-2 Bull-Bear Cycles</title>
-      <link>https://www.lookonchain.com/feeds/26480</link>
-      <description>August 27th. In its most recent report, Trend Research, a secondary investment institution affiliated with LD Capital, stated: &quot;From a supply and demand standpoint, the current institutional consensus-driven demand for ETH significantly exceeds the supply from staking. We believe that the long-term fully loaded staking situation is not viable. Considering the continued implementation of crypto-friendly policies in the future and Wall Street reaching a consensus on the long-term value of ETH, the &apos;buying craze&apos; for ETH has merely begun. With the approaching halving cycle, we are raising our long-term target price for ETH and think that ETH&apos;s market capitalization will surpass BTC&apos;s within 1-2 bull-bear cycles.&quot;</description>
-      <pubDate>Wed, 27 Aug 2025 08:08:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26480</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>503 Bitcoins transferred from Binance to the institutional custody platform Ceffu, worth approximately $55.79 million</title>
-      <link>https://www.lookonchain.com/feeds/26477</link>
-      <description>On August 27th, according to the monitoring of WhaleAlert, 503 Bitcoins were transferred from Binance to the Binance institutional custody platform Ceffu, and the value was approximately $55.79 million.</description>
-      <pubDate>Wed, 27 Aug 2025 08:00:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26477</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>MyStonks Platform 24-hour Trading Volume Surpasses $200 Million</title>
-      <link>https://www.lookonchain.com/feeds/26476</link>
-      <description>On August 27th, according to official information, the 24-hour trading volume on the MyStonks platform reached $2.0911 billion. Currently, the MyStonks platform has listed 179 RWA token assets and has 37,057 users.MyStonks is a decentralized digital asset trading platform that focuses on US stock token assets and contract trading (with a leverage of up to 20x). It realizes efficient and transparent digital asset trading and management through blockchain technology, promoting the digitization of traditional assets and enhancing liquidity.</description>
-      <pubDate>Wed, 27 Aug 2025 08:00:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26476</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>XPL on Hyperliquid Surges Again, Reaching $1</title>
-      <link>https://www.lookonchain.com/feeds/26479</link>
-      <description>On August 27th, based on market data, XPL (Perpetual Contract) on Hyperliquid once more rose to reach $1 and is currently trading at $0.73. It still maintains a significant premium compared to trading on mainstream CEXs (priced at $0.57 on Binance).</description>
-      <pubDate>Wed, 27 Aug 2025 08:00:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26479</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitlayer: BTR Airdrop Verification Open, Airdrop Claiming Open at 6:00 PM</title>
-      <link>https://www.lookonchain.com/feeds/26478</link>
-      <description>On August 27th, Bitlayer&apos;s official announcement on social media declared that the BTR airdrop would become active today. The official airdrop checker was launched at 3:00 PM in Beijing time, enabling users to log in and check their BTR allocation. Subsequently, the airdrop distribution will be open for claiming at 6:00 PM.</description>
-      <pubDate>Wed, 27 Aug 2025 08:00:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26478</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
