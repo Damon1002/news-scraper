@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 15:11:18 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 15:11:18 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 15:33:24 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 15:33:24 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Stablecoins USDT0 and XAUt0 Launched on the Polygon Network</title>
-      <link>https://www.lookonchain.com/feeds/26550</link>
-      <description>On August 27th, as reported by Cointelegraph, the operator of USDT0, Everdawn Labs, announced that the cross-chain liquidity USD stablecoin USDT0 and the gold stablecoin XAUt0, which are supported by LayerZero&apos;s Omnichain Fungible Token (OFT), will be launched on the Polygon blockchain.</description>
-      <pubDate>Wed, 27 Aug 2025 15:08:24 +0000</pubDate>
+      <title>The U.S. CFTC is planning to expand cryptocurrency regulation using a Nasdaq surveillance system.</title>
+      <link>https://www.lookonchain.com/feeds/26552</link>
+      <description>On August 27th, as reported by TheBlock, the U.S. Commodity Futures Trading Commission (CFTC) issued a statement today. It stated that the CFTC will expand cryptocurrency regulation by adopting Nasdaq&apos;s surveillance system in order to protect the market from fraud, abuse, and manipulation. If Congress passes the legislation currently under consideration in both houses, the CFTC&apos;s role in cryptocurrency regulation could be significantly enhanced.CFTC Acting Chairman Caroline Pham said that the new surveillance system will provide the agency with automatic alerts and &quot;cross-market analysis&quot; capabilities. This includes access to comprehensive order book data to support real-time analysis and decision-making for preventing and detecting abuse in both traditional and crypto asset markets. The CFTC is also getting ready for the growth of the cryptocurrency market. Earlier this month, the CFTC launched the &quot;CryptoSprint&quot; initiative, focusing on cryptocurrency futures trading and the recomme</description>
+      <pubDate>Wed, 27 Aug 2025 15:24:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26550</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26552</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Avail announces the acquisition of the Chain Abstract Protocol Arcana, where the XAR token will be exchanged for AVAIL at a 4:1 ratio.</title>
+      <link>https://www.lookonchain.com/feeds/26551</link>
+      <description>On August 27th, Avail made an announcement regarding the acquisition of the chain abstraction protocol Arcana. All XAR tokens will be exchanged for AVAIL at a ratio of 4:1. The tools of Arcana will be integrated into the Avail stack, and a significant portion of its team members will also join Avail. The AVAIL unlocked from the exchange will be vested over a period of 6 to 12 months, while the tokens of the Arcana team will be vested over a period of 3 years.Avail is a modular blockchain infrastructure project that is supported by Peter Thiel&apos;s Founders Fund and other prominent investors.</description>
+      <pubDate>Wed, 27 Aug 2025 15:16:31 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26551</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +51,7 @@
       <title>After the launch on the Base network, Aubrai&apos;s market capitalization is now at $9 million, with a 3-hour trading volume of $6.4 million.</title>
       <link>https://www.lookonchain.com/feeds/26549</link>
       <description>On August 27th, according to GMGN data, after Bio Protocol&apos;s first BioAgent Launch project Aubrai was launched on the Base network, it briefly exceeded a market capitalization of $20 million. However, it has now retreated to $9 million, and the trading volume in the first 3 hours of trading was $6.4 million. BlockBeats reminds users that token prices are highly volatile, so investment should be made with caution.</description>
-      <pubDate>Wed, 27 Aug 2025 15:08:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 15:08:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26549</guid>
       <category>crypto</category>
@@ -49,10 +66,27 @@
 
     </item>
     <item>
+      <title>Stablecoins USDT0 and XAUt0 Launched on the Polygon Network</title>
+      <link>https://www.lookonchain.com/feeds/26550</link>
+      <description>On August 27th, as reported by Cointelegraph, the operator of USDT0, Everdawn Labs, announced that the cross-chain liquidity USD stablecoin USDT0 and the gold stablecoin XAUt0, which are supported by LayerZero&apos;s Omnichain Fungible Token (OFT), will be launched on the Polygon blockchain.</description>
+      <pubDate>Wed, 27 Aug 2025 15:08:31 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26550</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The USDC Treasury has minted an additional 51.5 million USDC on the Ethereum blockchain.</title>
       <link>https://www.lookonchain.com/feeds/26548</link>
       <description>Update: On August 27th, as per Whale Alert, the USDC Treasury minted an extra 51.5 million USDC on the Ethereum blockchain just 1 minute ago.</description>
-      <pubDate>Wed, 27 Aug 2025 15:00:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 15:00:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26548</guid>
       <category>crypto</category>
@@ -72,7 +106,7 @@
       <title>Monero Suffers 51% Attack Incident as Qubic Claims Story Is Not Over, DOGE Listed as Next Target</title>
       <link>https://www.lookonchain.com/feeds/26547</link>
       <description>August 27th: After the 51% attack incident on Monero, the perpetrator named Qubic stated in a post that the story is not yet over. According to a community vote conducted by Qubic this week, Dogecoin (DOGE), with a market capitalization exceeding 35 billion USD, has been identified as their next target for attack.On August 12th, Qubic carried out a 51% attack on Monero (XMR) by using an economic incentive game and leveraging 75 million USD to disrupt 5 billion USD in reality. Through the &quot;useful Proof-of-Work (uPoW)&quot; mechanism, they quickly accumulated a large amount of Monero (XMR) hash rate and temporarily controlled 52.72% of the Monero network&apos;s hash rate, resulting in the reorganization of 6 blocks and the orphaning of 60 blocks. Initial reports show that within two hours, Qubic mined 80% of Monero&apos;s total blocks. For more details on the incident, please refer to &quot;75 Million Attacking 5 Billion Giant, What Are T</description>
-      <pubDate>Wed, 27 Aug 2025 14:56:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 14:56:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26547</guid>
       <category>crypto</category>
@@ -89,7 +123,7 @@
       <title>The Hong Kong Digital Asset Listing Association was established today, with 49 institutional members becoming founding members.</title>
       <link>https://www.lookonchain.com/feeds/26546</link>
       <description>On August 27th, the Hong Kong Virtual Asset Listing Association (HKVALA) held its first conference today at West Kowloon, Hong Kong. Government officials and Legislative Council members from Hong Kong attended and delivered speeches. Jing North, representing a FinTech company in the A-share market, attended and was appointed as the vice chairman unit. Kong Jianping, the founder of Nano Labs, was appointed as the honorary chairman.The establishment of the Hong Kong Virtual Asset Listing Association is in response to the &quot;Hong Kong Virtual Asset Development Policy Manifesto 2.0&quot; and the effective &quot;Stablecoin Regulations&quot; recently released by Hong Kong. The association aims to bring together listed companies in the digital asset field, licensed financial institutions, blockchain technology providers, etc., to jointly promote industry consensus, deepen government-enterprise cooperation, and strive to build a stablecoin regulatory innovation practice hub and an institutional-level digital</description>
-      <pubDate>Wed, 27 Aug 2025 14:40:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 14:40:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26546</guid>
       <category>crypto</category>
@@ -106,7 +140,7 @@
       <title>All three major U.S. stock indices turned positive, with the Dow rising 0.27%.</title>
       <link>https://www.lookonchain.com/feeds/26545</link>
       <description>On August 27th, based on market data, all three major US stock indexes showed an upward trend. The Dow increased by 0.27%, the S&amp;P 500 rose by 0.17%, and the Nasdaq gained 0.11%.</description>
-      <pubDate>Wed, 27 Aug 2025 14:32:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 14:32:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26545</guid>
       <category>crypto</category>
@@ -123,7 +157,7 @@
       <title>White House Economic Advisor Pressures Fed Governor Cook, Saying He Should Recuse Himself During the Lawsuit</title>
       <link>https://www.lookonchain.com/feeds/26544</link>
       <description>August 27th - Presently, Brian Hassett, who is the Director of the White House National Economic Council, declared that Lisa Cook ought to take a leave of absence during the litigation concerning her stance on the Federal Reserve Board. Hassett informed reporters, &quot;If I were in her position, I would immediately take a leave of absence. It is the honorable course of action.&quot; Hassett expressed his conviction that the President has the entitlement to dismiss a Federal Reserve Board member like Cook, stating, &quot;The President undoubtedly has the right to dismiss a Federal Reserve Board member on valid grounds, and I believe these allegations hold significant weight.&quot;Yesterday, the U.S. President Trump signed a document removing the Federal Reserve Board member Cook from her post, with the effect taking place immediately. Additionally, Trump had previously openly contemplated nominating Hassett as the subsequent Chair of the Federal Reserve.</description>
-      <pubDate>Wed, 27 Aug 2025 14:32:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 14:32:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26544</guid>
       <category>crypto</category>
@@ -140,7 +174,7 @@
       <title>Bitcoin Breaks $112,000, 24-hour Gain of 1.48%</title>
       <link>https://www.lookonchain.com/feeds/26543</link>
       <description>On August 27th, according to HTX market data, Bitcoin exceeded $112,000, showing a 24-hour percentage change of 1.48%.</description>
-      <pubDate>Wed, 27 Aug 2025 14:32:24 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 14:32:31 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26543</guid>
       <category>crypto</category>
@@ -153,44 +187,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>ByteDance values TikTok at $330 billion</title>
-      <link>https://www.lookonchain.com/feeds/26542</link>
-      <description>On August 27th, according to Reuters, TikTok is valued by ByteDance at $330 billion, yet it has not yet achieved profitability in the US market.</description>
-      <pubDate>Wed, 27 Aug 2025 14:32:24 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26542</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Suspected Bitmine-Related Address Accumulated 30,422 ETH in the Last 17 Hours, Worth $140 Million</title>
-      <link>https://www.lookonchain.com/feeds/26541</link>
-      <description>On August 27th, as monitored by OnchainLens, within the past 17 hours, 4 newly established wallets have accumulated 30,422 ETH from FalconX, which is worth $140 million. These wallets may be related to Bitmine.Addresses:- 0x82Da2afC4281e1B32963b1B1a9A9BA195edcaa76- 0x11508abcb40bcb7E849b0c8Ec3aA178B03bA4801- 0xAf4Cb42584c5Dc74BAFE9bea67d19076538F4B26- 0x566bd75621Db03B4d046e80F87F0A2B489c39Dd3</description>
-      <pubDate>Wed, 27 Aug 2025 14:24:24 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26541</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
