@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 04:40:29 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 04:40:29 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 04:52:52 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 04:52:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,85 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A Whale Accumulated 262.5 WBTC with Leverage, with an Average Price of $110,286</title>
+      <link>https://www.lookonchain.com/feeds/26448</link>
+      <description>August 27th. According to Chainalysis, a significant investor used leverage to purchase WBTC. 11 hours ago, this investor withdrew 145 WBTC from Binance to an on-chain address and then deposited it into Aave as collateral. Subsequently, the investor borrowed 13 million USDT and used it to continue purchasing an additional 117.5 WBTC.Currently, they hold 262.5 WBTC ($28.95 million), with a cost basis of $110,286 per WBTC.</description>
+      <pubDate>Wed, 27 Aug 2025 04:49:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26448</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Alibaba Cloud Provides AI Encoding Assistant to Sui Move Developers</title>
+      <link>https://www.lookonchain.com/feeds/26447</link>
+      <description>August 27th. According to official information, Alibaba Cloud declared a partnership with Sui. It is going to provide its AI coding assistant to Sui Move developers, offering comprehensive support including English, Chinese, and Korean. Developers can generate Move code by using natural language. They can obtain intelligent auto-completion and real-time security checks. Documentation can be automatically generated, and ready-made templates can be used.</description>
+      <pubDate>Wed, 27 Aug 2025 04:49:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26447</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale sold KTA at approximately $1, locking in a $1.49 million profit.</title>
+      <link>https://www.lookonchain.com/feeds/26446</link>
+      <description>On August 27th, as monitored by Onchain Lens, a whale sold 1.51 million KTA at a price of $1.002, realizing a total profit of $1.49 million.The whale initially acquired 2.12 million KTA at a price of $13,700 and then gradually sold off to secure profits.</description>
+      <pubDate>Wed, 27 Aug 2025 04:41:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26446</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>James Wynn Shills Meme Coin Goatcoin (GOAT), Which Surges Over 200% in Response</title>
+      <link>https://www.lookonchain.com/feeds/26445</link>
+      <description>On August 27th, James Wynn made a post on the X platform, promoting the meme coin Goatcoin (GOAT) and stating that &quot;its market cap is expected to reach tens of billions of dollars.&quot;Perhaps due to this news, GOAT surged by more than 200%, and its market cap is currently reported to be $10.02 million. Additionally, as of the time of this writing, GOAT has been listed for 6 hours with a total trading volume of over $10 million.BlockBeats reminds users that the prices of related tokens are highly volatile, and users should invest with caution.</description>
+      <pubDate>Wed, 27 Aug 2025 04:41:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26445</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Aave Treasury Net Worth Hits All-Time High, with a Year-over-Year Growth Rate of 130%</title>
       <link>https://www.lookonchain.com/feeds/26444</link>
       <description>On August 27th, according to the crypto analytics firm TokenLogic, the Treasury Net Worth of Aave (excluding AAVE) has reached a new all-time high and currently stands at $1.327 billion, indicating a year-over-year increase of 130%. If AAVE is included, the Treasury balance is approximately $3.29 billion.The current breakdown of Aave&apos;s net Treasury is as follows:?? 44.6% ETH and related tokens;?? 39.5% Stablecoins;?? 10.8% DeFi tokens;?? 4.9% BTC-related tokens.</description>
-      <pubDate>Wed, 27 Aug 2025 04:32:36 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 04:33:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26444</guid>
       <category>crypto</category>
@@ -34,7 +109,7 @@
       <title>Another XPL Short Whale Liquidated, Loses $2 Million in Minutes</title>
       <link>https://www.lookonchain.com/feeds/26443</link>
       <description>On August 27th, as per the monitoring of LookOnChain, due to the whale&apos;s manipulation of the XPL price on Hyperliquid, another victim with the address 0x64a4 experienced a series of liquidations on their XPL short positions, resulting in a loss of $2 million within just a few minutes.</description>
-      <pubDate>Wed, 27 Aug 2025 04:32:36 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 04:32:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26443</guid>
       <category>crypto</category>
@@ -53,7 +128,7 @@
       <title>Opinion: Bitcoin Drops Over 10% While Ethereum Shows Strength, First Time Since 2021, Signaling a Bearish Outlook Ahead</title>
       <link>https://www.lookonchain.com/feeds/26442</link>
       <description>On August 27th, according to VanEck analyst @matthew_sigel, BTC has recently seen a cumulative decline of more than 10%, while ETH has not. This is the first time this market trend has occurred since 2021. It is reported that since 2020, this scenario has only happened 52 times.Based on historical data, after this situation takes place:? BTC: The median drop in the next 7 days is 2.8%, and the median drop in the next 30 days is 15.6%;? ETH: There is a +6.4% increase in 7 days and a -8.4% drop in 30 days.@matthew_sigel thereby indicated that this is a bearish signal for the overall cryptocurrency market. ETH provides short-term support, but both show a trend of reversal.</description>
-      <pubDate>Wed, 27 Aug 2025 04:16:36 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 04:17:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26442</guid>
       <category>crypto</category>
@@ -74,7 +149,7 @@
       <title>Affected by Whale Manipulation, Trader X&apos;s XPL Short Position Was Completely Liquidated, Resulting in a $4.59 Million Loss</title>
       <link>https://www.lookonchain.com/feeds/26440</link>
       <description>On August 27th, based on the monitoring of LookOnChain, due to the whale&apos;s manipulation on Hyperliquid, the price of XPL plummeted sharply. As a result, victim 0xC2Cb&apos;s XPL short position was fully liquidated, leading to a loss of $4.59 million.</description>
-      <pubDate>Wed, 27 Aug 2025 04:00:36 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 04:01:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26440</guid>
       <category>crypto</category>
@@ -93,7 +168,7 @@
       <title>Nasdaq-listed company KindlyMD plans to issue $5 billion in shares to expand its Bitcoin treasury business</title>
       <link>https://www.lookonchain.com/feeds/26441</link>
       <description>On August 27th, as reported by The Block, the Nasdaq-listed healthcare company KindlyMD announced on Tuesday that it has submitted a shelf registration statement and intends to issue up to $5 billion worth of stock on the market. The company indicated that it plans to utilize the net proceeds to support general corporate purposes, such as expanding its Bitcoin treasury.The company&apos;s press release further stated that this plan enables the company to issue and sell up to $5 billion worth of common stock through various sales agents, including D.A. Davidson, Cantor Fitzgerald, and B. Riley Securities.</description>
-      <pubDate>Wed, 27 Aug 2025 04:00:36 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 04:01:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26441</guid>
       <category>crypto</category>
@@ -113,7 +188,7 @@
       <title>Viewpoint: Hyperliquid Revenue Misaligned with HYPE Market Cap, HYPE Price Undervalued</title>
       <link>https://www.lookonchain.com/feeds/26439</link>
       <description>On August 27th, based on the analysis of @infinitybanyan, Hyperliquid accounts for 36% of the total revenue of all cryptocurrencies. Meanwhile, the market capitalization of the HYPE only makes up 1.2% of the total cryptocurrency market capitalization ($3.76 trillion).</description>
-      <pubDate>Wed, 27 Aug 2025 04:00:36 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 04:01:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26439</guid>
       <category>crypto</category>
@@ -124,80 +199,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the US Ethereum spot ETF saw a net inflow of $455 million, while the Bitcoin spot ETF saw a net inflow of $88.1 million.</title>
-      <link>https://www.lookonchain.com/feeds/26438</link>
-      <description>On August 27th, as monitored by Farside Investors, yesterday the net inflow of the US Bitcoin spot ETF was $88.1 million. IBIT had a net inflow of $45.3 million and FBTC had a net inflow of $14.5 million.In addition, the net inflow of the Ethereum spot ETF was $455 million. The main ETF with net inflow was BlackRock ETHA, which had a net inflow of $323.1 million.</description>
-      <pubDate>Wed, 27 Aug 2025 03:56:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26438</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Following the news of a commitment from JPMorgan Chase, Numerai (NMR) continued to surge, with a 123% price increase in the last 24 hours.</title>
-      <link>https://www.lookonchain.com/feeds/26437</link>
-      <description>On August 27th, based on market data, Numerai (NMR) keeps surging. It has a 24-hour gain of 123% and is currently priced at $17.91.Previously reported, Numerai received a commitment of up to $500 million in investment from JPMorgan Chase.</description>
-      <pubDate>Wed, 27 Aug 2025 03:56:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26437</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Data: Trading Volume Increases by 30% After Aerodrome Integrates with Coinbase DEX</title>
-      <link>https://www.lookonchain.com/feeds/26436</link>
-      <description>August 27th: Based on Aerodrome Finance data, since August 8th when it integrated with Coinbase DEX, the trading volume has witnessed a 30% increase. During the two weeks prior to the integration, Aerodrome&apos;s trading volume was $8.7 billion. However, in the two weeks following the integration, the trading volume rose to $11.3 billion.</description>
-      <pubDate>Wed, 27 Aug 2025 03:48:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26436</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>SOL Surges Past $200, with a 24-hour Gain of 4.81%</title>
-      <link>https://www.lookonchain.com/feeds/26435</link>
-      <description>On August 27th, according to HTX market data, SOL has exceeded $200 and is currently trading at $200.1, with a 24-hour percentage change of 4.81%.</description>
-      <pubDate>Wed, 27 Aug 2025 03:48:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26435</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
