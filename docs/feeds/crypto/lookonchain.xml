@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 10:42:20 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 10:42:20 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 10:53:59 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 10:53:59 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance HODLer Airdrop Launches Dolomite (DOLO)</title>
+      <link>https://www.lookonchain.com/feeds/26498</link>
+      <description>August 27th. According to official channels, Binance announced the commencement of the 33rd HODLer airdrop project - Dolomite (DOLO). Users who subscribed to BNB from 00:00 on August 3, 2025 (UTC) up to 23:59 on August 6 (UTC) for Simple Earn (Flexible / Locked) and/or on-chain savings products will be eligible for the airdrop distribution. The HODLer airdrop details are anticipated to become visible within 24 hours, and the new token will be delivered to users&apos; spot accounts at least 1 hour prior to the start of trading.</description>
+      <pubDate>Wed, 27 Aug 2025 10:48:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26498</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>BTC and ETH Options with a notional value of $14.5 billion are set to expire this Friday, with BTC&apos;s max pain at $116,000 and ETH&apos;s max pain at $3,800.</title>
       <link>https://www.lookonchain.com/feeds/26497</link>
       <description>On August 27th, based on Deribit data, at 4:00 PM Beijing time this Friday, the options expiration will occur. There are 102,000 BTC options expiring, with a Put Call Ratio of 0.79. The maximum pain is $116,000, and the notional value is $11.34 billion.For Ethereum options, the maximum pain is $3800. The notional value is $3.19 billion, and the put/call ratio is 0.76.</description>
-      <pubDate>Wed, 27 Aug 2025 10:32:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:32:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26497</guid>
       <category>crypto</category>
@@ -39,7 +56,7 @@
       <title>A whale address has once again withdrawn 274,000 LINK from Binance, with a total holding of 938,000 LINK.</title>
       <link>https://www.lookonchain.com/feeds/26496</link>
       <description>On August 27th, as monitored by Onchain Lens, a whale address once more withdrew 274,528 LINK from Binance, which is worth $6.7 million. Currently, this whale address holds 938,108 LINK, with a value of $22.94 million.</description>
-      <pubDate>Wed, 27 Aug 2025 10:16:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:16:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26496</guid>
       <category>crypto</category>
@@ -57,7 +74,7 @@
       <title>Two XPL short addresses collectively deposited 73 million USDC into Hyperliquid to avoid liquidation</title>
       <link>https://www.lookonchain.com/feeds/26495</link>
       <description>On August 27th, as monitored by LookOnChain, XPL short sellers are depositing a large amount of USDC into Hyperliquid to avoid liquidation. These include:The address starting with 0x142a deposited $44 million, tripling its short position in XPL and raising the liquidation price to $4.025.The address starting with 0x0Aa9 deposited $29 million, also tripling its short position in XPL and raising the liquidation price to $10.73.</description>
-      <pubDate>Wed, 27 Aug 2025 10:08:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:09:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26495</guid>
       <category>crypto</category>
@@ -75,7 +92,7 @@
       <title>Gate Launches SOMI Perpetual Contract Pre-trading</title>
       <link>https://www.lookonchain.com/feeds/26494</link>
       <description>On August 27th, according to official information, Gate has initiated the pre-market trading of SOMI perpetual contract (settled in USDT), with support for leverage ranging from 1 to 10 times.</description>
-      <pubDate>Wed, 27 Aug 2025 10:08:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:08:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26494</guid>
       <category>crypto</category>
@@ -92,7 +109,7 @@
       <title>A whale address borrowed and purchased 132 WBTC in the last 20 minutes, accumulating 500 BTC within the day.</title>
       <link>https://www.lookonchain.com/feeds/26493</link>
       <description>On August 27th, as monitored by on-chain data analyst Yu Jin, a whale that purchased WBTC through leverage lending borrowed an additional 14.473 million U.S. dollars in the last 20 minutes to acquire 132 WBTC. Today, by withdrawing from Binance and on-chain borrowing, it has accumulated a total of 500.2 WBTC (approximately $55.4 million) at an average price of $110,762.</description>
-      <pubDate>Wed, 27 Aug 2025 10:00:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:01:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26493</guid>
       <category>crypto</category>
@@ -112,7 +129,7 @@
       <title>BiyaPay Analyst: BTC Monthly Drop Mainly due to ETF Outflows</title>
       <link>https://www.lookonchain.com/feeds/26492</link>
       <description>On August 27th, the analysis by BiyaPay pointed out that the price decline of BTC this month is associated with the outflows of ETF funds. In order to welcome a potential bull market by the end of the year, a large amount of fund inflow is required.In January 2024, 11 physically-backed Bitcoin ETFs were listed on NASDAQ, enabling investors to gain exposure to cryptocurrency without having to self-custody the coins. Since then, these funds have cumulatively attracted $53.9 billion in investment.However, these funds recorded a net outflow of $972 million this month, which is the second largest since their inception, second only to February&apos;s $3.56 billion. If the data on Friday still shows a net outflow, it will mark the end of a four-month trend of fund inflows.</description>
-      <pubDate>Wed, 27 Aug 2025 10:00:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:00:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26492</guid>
       <category>crypto</category>
@@ -128,27 +145,10 @@
 
     </item>
     <item>
-      <title>QCP Capital: Market closely watching tonight&apos;s NVIDIA earnings report, a drop in US stocks will increase crypto market risk</title>
-      <link>https://www.lookonchain.com/feeds/26491</link>
-      <description>On August 27th, QCP Capital announced on its official channel that President Trump appears to be determined to form a more closely-knit team within the Fed in order to tilt policy towards dovishness. Currently, Bowman, Waller, and Mester are widely regarded as Trump supporters. If Governor Quarles is replaced, even without appointing to the two vice chair positions and the next chair, the pro-Trump voice on the board will increase to four seats.Last week&apos;s Jackson Hole meeting redefined the Fed&apos;s risk balance. Officials expressed greater concerns about a slowdown in the labor market and noted the downward revision of nonfarm data. In our opinion, the labor market background is now more prominent than the risk of inflation accelerating. This has laid the foundation for a rate cut in September—although nonfarm and CPI data will be released before the FOMC meeting.Furthermore, in the AI field, NVIDIA, a benchmark, will report earnings after the market closes today. The market will clo</description>
-      <pubDate>Wed, 27 Aug 2025 09:49:28 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26491</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>A whale has shorted XPL and WLFI on Hyperliquid, with an unrealized loss of $1.4 million.</title>
       <link>https://www.lookonchain.com/feeds/26489</link>
       <description>On August 27th, as monitored by lookonchain, a whale address beginning with 0x54d7 took short positions on XPL with 2x leverage and WLFI with 3x leverage on Hyperliquid. This led to a loss of more than $1.4 million. The liquidation prices are as follows: XPL: $2.2866; WLFI: $1.1172.</description>
-      <pubDate>Wed, 27 Aug 2025 09:41:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:53:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26489</guid>
       <category>crypto</category>
@@ -164,12 +164,12 @@
 
     </item>
     <item>
-      <title>An BTC Whale Deposits 750 BTC into Binance After Holding for 12 Years, Achieving a 907x Return on Investment</title>
-      <link>https://www.lookonchain.com/feeds/26488</link>
-      <description>On August 27th, as monitored by The Data Nerd, a BTC whale deposited 750 BTC into Binance after holding it for 12 years. This is equivalent to approximately $83.11 million. 12 years ago, their entry price was only around $122. The realized profit on these 750 BTC is $83 million, resulting in an investment return of 907 times.</description>
-      <pubDate>Wed, 27 Aug 2025 09:41:28 +0000</pubDate>
+      <title>QCP Capital: Market closely watching tonight&apos;s NVIDIA earnings report, a drop in US stocks will increase crypto market risk</title>
+      <link>https://www.lookonchain.com/feeds/26491</link>
+      <description>On August 27th, QCP Capital announced on its official channel that President Trump appears to be determined to form a more closely-knit team within the Fed in order to tilt policy towards dovishness. Currently, Bowman, Waller, and Mester are widely regarded as Trump supporters. If Governor Quarles is replaced, even without appointing to the two vice chair positions and the next chair, the pro-Trump voice on the board will increase to four seats.Last week&apos;s Jackson Hole meeting redefined the Fed&apos;s risk balance. Officials expressed greater concerns about a slowdown in the labor market and noted the downward revision of nonfarm data. In our opinion, the labor market background is now more prominent than the risk of inflation accelerating. This has laid the foundation for a rate cut in September—although nonfarm and CPI data will be released before the FOMC meeting.Furthermore, in the AI field, NVIDIA, a benchmark, will report earnings after the market closes today. The market will clo</description>
+      <pubDate>Wed, 27 Aug 2025 09:53:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26488</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26491</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -178,16 +178,13 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>whale</category>
 
     </item>
     <item>
       <title>WLFI pin price on Hyperliquid touches $0.39, representing approximately a 25% premium compared to CEX.</title>
       <link>https://www.lookonchain.com/feeds/26490</link>
       <description>On August 27th, based on market data, the WLFI price on Hyperliquid reached $0.39. Currently, it is trading at $0.34. And the pre-market contract price on Binance is currently $0.269.</description>
-      <pubDate>Wed, 27 Aug 2025 09:41:28 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:53:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26490</guid>
       <category>crypto</category>
