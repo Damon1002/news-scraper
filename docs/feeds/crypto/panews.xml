@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 09:56:42 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 09:56:42 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 10:24:01 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 10:24:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>分析：英伟达即将公布财报，若美股继续走低将增加加密市场风险</title>
+      <link>https://www.panewslab.com/zh/articles/a741ad81-d741-46df-9c82-34630d196fb7</link>
+      <description>分析：英伟达即将公布财报，若美股继续走低将增加加密市场风险</description>
+      <pubDate>Wed, 27 Aug 2025 10:24:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a741ad81-d741-46df-9c82-34630d196fb7</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>REX Shares与Osprey Funds向美SEC提交包含质押功能的现货BNB ETF申请文件</title>
+      <link>https://www.panewslab.com/zh/articles/9b322cc4-93ab-46ad-a6c6-f7335b437508</link>
+      <description>REX Shares与Osprey Funds向美SEC提交包含质押功能的现货BNB ETF申请文件</description>
+      <pubDate>Wed, 27 Aug 2025 10:22:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9b322cc4-93ab-46ad-a6c6-f7335b437508</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>大湾区金融家协会WEB3联盟正式成立</title>
+      <link>https://www.panewslab.com/zh/articles/509ad9bd-1daa-4b8d-9d69-559807b727b0</link>
+      <description>大湾区金融家协会WEB3联盟正式成立</description>
+      <pubDate>Wed, 27 Aug 2025 10:20:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/509ad9bd-1daa-4b8d-9d69-559807b727b0</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某巨鲸再次从币安提取价值670万美元的LINK</title>
+      <link>https://www.panewslab.com/zh/articles/4dce3ac2-d65a-4ca5-b720-8fda60596544</link>
+      <description>某巨鲸再次从币安提取价值670万美元的LINK</description>
+      <pubDate>Wed, 27 Aug 2025 10:18:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4dce3ac2-d65a-4ca5-b720-8fda60596544</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>做空XPL的两巨鲸共向Hyperliquid存入7300枚USDC以避免清算风险</title>
+      <link>https://www.panewslab.com/zh/articles/7fc5efcf-fa31-4051-a66f-3d28a7ceb1bf</link>
+      <description>做空XPL的两巨鲸共向Hyperliquid存入7300枚USDC以避免清算风险</description>
+      <pubDate>Wed, 27 Aug 2025 10:16:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7fc5efcf-fa31-4051-a66f-3d28a7ceb1bf</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>“通过借贷杠杆买入WBTC的巨鲸”再次借款1447.3万U购买了132枚WBTC</title>
+      <link>https://www.panewslab.com/zh/articles/68ddf74b-bf32-463f-9261-0be3d0fc6062</link>
+      <description>“通过借贷杠杆买入WBTC的巨鲸”再次借款1447.3万U购买了132枚WBTC</description>
+      <pubDate>Wed, 27 Aug 2025 10:14:01 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/68ddf74b-bf32-463f-9261-0be3d0fc6062</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Webull在澳大利亚推出加密交易，通过Coinbase Prime提供240种代币</title>
       <link>https://www.panewslab.com/zh/articles/b4b36bff-5db1-48b0-8fdf-41ea7fce1cfe</link>
       <description>Webull在澳大利亚推出加密交易，通过Coinbase Prime提供240种代币</description>
-      <pubDate>Wed, 27 Aug 2025 09:56:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:12:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b4b36bff-5db1-48b0-8fdf-41ea7fce1cfe</guid>
       <category>crypto</category>
@@ -32,7 +124,7 @@
       <title>陈浩濂：将为已在港交所上市的ETF探索代币化方式，进一步吸引投资者参与</title>
       <link>https://www.panewslab.com/zh/articles/afaaf548-0f8b-439e-9bdc-434d8abe1369</link>
       <description>陈浩濂：将为已在港交所上市的ETF探索代币化方式，进一步吸引投资者参与</description>
-      <pubDate>Wed, 27 Aug 2025 09:54:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:10:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/afaaf548-0f8b-439e-9bdc-434d8abe1369</guid>
       <category>crypto</category>
@@ -47,7 +139,7 @@
       <title>Hyperliquid上WLFI插针触及0.39美元，现与CEX平台WLFI价差0.05美元</title>
       <link>https://www.panewslab.com/zh/articles/5abb91ef-883c-4701-af84-4261403ed083</link>
       <description>Hyperliquid上WLFI插针触及0.39美元，现与CEX平台WLFI价差0.05美元</description>
-      <pubDate>Wed, 27 Aug 2025 09:52:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:08:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5abb91ef-883c-4701-af84-4261403ed083</guid>
       <category>crypto</category>
@@ -62,7 +154,7 @@
       <title>BTC突破111000美元，日内涨幅 1.22%</title>
       <link>https://www.panewslab.com/zh/articles/zhyy2165</link>
       <description>BTC突破111000美元，日内涨幅 1.22%</description>
-      <pubDate>Wed, 27 Aug 2025 09:50:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:06:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/zhyy2165</guid>
       <category>crypto</category>
@@ -79,7 +171,7 @@
       <title>日本美甲连锁店Convano计划与加密交易所合作发行与日元挂钩的稳定币</title>
       <link>https://www.panewslab.com/zh/articles/7f14bb47-34a1-4d58-ba9f-94a851cb3ce7</link>
       <description>日本美甲连锁店Convano计划与加密交易所合作发行与日元挂钩的稳定币</description>
-      <pubDate>Wed, 27 Aug 2025 09:48:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:04:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7f14bb47-34a1-4d58-ba9f-94a851cb3ce7</guid>
       <category>crypto</category>
@@ -94,7 +186,7 @@
       <title>日本上市公司Metaplanet拟募资约8.81亿美元，用于增持比特币</title>
       <link>https://www.panewslab.com/zh/articles/a8e2e391-3157-45da-abf5-68e1b8f98606</link>
       <description>日本上市公司Metaplanet拟募资约8.81亿美元，用于增持比特币</description>
-      <pubDate>Wed, 27 Aug 2025 09:46:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:02:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a8e2e391-3157-45da-abf5-68e1b8f98606</guid>
       <category>crypto</category>
@@ -111,7 +203,7 @@
       <title>某巨鲸以2倍杠杆做空XPL并以3倍杠杆做空WLFI，导致亏损超140万美元</title>
       <link>https://www.panewslab.com/zh/articles/863ec8cb-5fca-4c6c-be11-19ff550fab17</link>
       <description>某巨鲸以2倍杠杆做空XPL并以3倍杠杆做空WLFI，导致亏损超140万美元</description>
-      <pubDate>Wed, 27 Aug 2025 09:44:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:00:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/863ec8cb-5fca-4c6c-be11-19ff550fab17</guid>
       <category>crypto</category>
@@ -126,7 +218,7 @@
       <title>超100个加密实体联合呼吁美股立法者在监管加密行业时保护软件开发商</title>
       <link>https://www.panewslab.com/zh/articles/1f2ec8f1-f2cf-4c13-a97d-9051c504fba1</link>
       <description>超100个加密实体联合呼吁美股立法者在监管加密行业时保护软件开发商</description>
-      <pubDate>Wed, 27 Aug 2025 09:42:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:58:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1f2ec8f1-f2cf-4c13-a97d-9051c504fba1</guid>
       <category>crypto</category>
@@ -141,7 +233,7 @@
       <title>一位持有比特币12年的交易员将750枚BTC存入币安</title>
       <link>https://www.panewslab.com/zh/articles/225410ee-3ad2-4910-b176-eea9418fabdb</link>
       <description>一位持有比特币12年的交易员将750枚BTC存入币安</description>
-      <pubDate>Wed, 27 Aug 2025 09:40:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:56:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/225410ee-3ad2-4910-b176-eea9418fabdb</guid>
       <category>crypto</category>
@@ -158,7 +250,7 @@
       <title>ETH突破4600美元，日内涨幅 1.82%</title>
       <link>https://www.panewslab.com/zh/articles/n76yk3qw</link>
       <description>ETH突破4600美元，日内涨幅 1.82%</description>
-      <pubDate>Wed, 27 Aug 2025 09:38:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:54:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/n76yk3qw</guid>
       <category>crypto</category>
@@ -175,7 +267,7 @@
       <title>币安Alpha将上线Dexlab (XLAB)</title>
       <link>https://www.panewslab.com/zh/articles/92912db4-d901-4c0a-924b-7ec621034fa9</link>
       <description>币安Alpha将上线Dexlab (XLAB)</description>
-      <pubDate>Wed, 27 Aug 2025 09:36:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:52:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/92912db4-d901-4c0a-924b-7ec621034fa9</guid>
       <category>crypto</category>
@@ -190,7 +282,7 @@
       <title>H100 Group买入46.22枚BTC，目前共持有957.5枚BTC</title>
       <link>https://www.panewslab.com/zh/articles/ff3763a5-aefe-453a-9bbc-1308a897179a</link>
       <description>H100 Group买入46.22枚BTC，目前共持有957.5枚BTC</description>
-      <pubDate>Wed, 27 Aug 2025 09:34:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:50:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ff3763a5-aefe-453a-9bbc-1308a897179a</guid>
       <category>crypto</category>
@@ -207,7 +299,7 @@
       <title>KuCoin成为首个支持泰国政府G-Token发行的全球加密交易所</title>
       <link>https://www.panewslab.com/zh/articles/013b7aa1-895f-4e70-baea-fc80204daa06</link>
       <description>KuCoin成为首个支持泰国政府G-Token发行的全球加密交易所</description>
-      <pubDate>Wed, 27 Aug 2025 09:32:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:48:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/013b7aa1-895f-4e70-baea-fc80204daa06</guid>
       <category>crypto</category>
@@ -222,107 +314,9 @@
       <title>Hyperliquid回应XPL套保狙击事件：平台无漏洞，建议用户自行注意风险</title>
       <link>https://www.panewslab.com/zh/articles/c9ba23d8-966e-48a9-9673-e5d964df032c</link>
       <description>Hyperliquid回应XPL套保狙击事件：平台无漏洞，建议用户自行注意风险</description>
-      <pubDate>Wed, 27 Aug 2025 09:30:42 +0000</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:46:01 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c9ba23d8-966e-48a9-9673-e5d964df032c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>数据：37,744枚ETH从未知钱包转移到Binance</title>
-      <link>https://www.panewslab.com/zh/articles/b7b9ff83-b268-43dc-b49a-5dd04840a839</link>
-      <description>数据：37,744枚ETH从未知钱包转移到Binance</description>
-      <pubDate>Wed, 27 Aug 2025 09:28:42 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b7b9ff83-b268-43dc-b49a-5dd04840a839</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼向币安转入500枚BTC，目前仍持有3,500枚BTC</title>
-      <link>https://www.panewslab.com/zh/articles/74837bd3-6572-4f30-af15-e14d4162e908</link>
-      <description>某鲸鱼向币安转入500枚BTC，目前仍持有3,500枚BTC</description>
-      <pubDate>Wed, 27 Aug 2025 09:26:42 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/74837bd3-6572-4f30-af15-e14d4162e908</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Trend Research：ETH市值在1–2个牛熊周期中将超越BTC</title>
-      <link>https://www.panewslab.com/zh/articles/69e31092-e895-4824-a002-0f0386c76237</link>
-      <description>Trend Research：ETH市值在1–2个牛熊周期中将超越BTC</description>
-      <pubDate>Wed, 27 Aug 2025 09:24:42 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/69e31092-e895-4824-a002-0f0386c76237</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid平台XPL出现插针行情，最高约涨至1美元</title>
-      <link>https://www.panewslab.com/zh/articles/72f77d18-a4ba-4d63-9da0-b1d22f65aa57</link>
-      <description>Hyperliquid平台XPL出现插针行情，最高约涨至1美元</description>
-      <pubDate>Wed, 27 Aug 2025 09:22:42 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/72f77d18-a4ba-4d63-9da0-b1d22f65aa57</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>比特大陆与上市公司瑞和数智达成合作，提供云算力挖矿服务</title>
-      <link>https://www.panewslab.com/zh/articles/679e6dc8-6739-4f81-b5ae-faae1960317e</link>
-      <description>比特大陆与上市公司瑞和数智达成合作，提供云算力挖矿服务</description>
-      <pubDate>Wed, 27 Aug 2025 09:20:42 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/679e6dc8-6739-4f81-b5ae-faae1960317e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Bitlayer已开放BTR空投查询，18:00将开放空投领取</title>
-      <link>https://www.panewslab.com/zh/articles/dc730d23-899f-4a6f-8418-ecb409e22537</link>
-      <description>Bitlayer已开放BTR空投查询，18:00将开放空投领取</description>
-      <pubDate>Wed, 27 Aug 2025 09:18:42 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/dc730d23-899f-4a6f-8418-ecb409e22537</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
