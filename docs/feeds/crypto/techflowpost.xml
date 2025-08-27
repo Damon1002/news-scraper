@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 14:50:28 +0000</lastBuildDate>
-    <pubDate>Wed, 27 Aug 2025 14:50:28 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 15:11:18 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 15:11:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>USDC Treasury 于以太坊链上新增铸造 5150 万枚 USDC</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Whale Alert 监测，USDC Treasury 约 5 分钟前于以太坊链上新增铸造 5150 万枚 USDC。</description>
+      <pubDate>Wed, 27 Aug 2025 15:01:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>香港数字资产上市公司联合会今日宣布成立</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Hyperliquid 官方发文宣布，“根据用户反馈，Hyperliquid合约标记价格将使用常规标记价格公式，并结合外部上线前永续合约 (perp) 的价格（如有）。这对绝大多数用户和实例没有明显影响，但可以提高系统的稳健性。需要明确的是，这不会影响资金费率或已实现盈亏。”</description>
       <pubDate>Wed, 27 Aug 2025 12:23:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>USDC Treasury 在 Solana 链上新增铸造 2.5 亿枚 USDC</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Whale Alert 监测，USDC Treasury 约 5 分钟前在 Solana 链上新增铸造 2.5 亿枚 USDC。</description>
-      <pubDate>Wed, 27 Aug 2025 12:19:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
