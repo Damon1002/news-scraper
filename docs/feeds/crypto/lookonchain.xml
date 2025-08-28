@@ -5,14 +5,50 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 14:39:31 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 14:39:31 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 14:52:29 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 14:52:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>The US Department of Commerce has announced that it will publish the second-quarter GDP data to the blockchain.</title>
+      <link>https://www.lookonchain.com/feeds/26735</link>
+      <description>On August 28th, as per an official announcement, the U.S. Department of Commerce announced today that it will commence the publication of actual Gross Domestic Product (GDP) data on the blockchain starting from July 2025. Based on the revised estimates released by the U.S. Bureau of Economic Analysis, the GDP in July 2025 witnessed an annualized growth rate of 3.3%.This represents the first instance where a federal agency has published economic statistics in this manner on the blockchain, and it is the latest step taken by the Department of Commerce to safeguard federal data by leveraging innovative technology and facilitating public access.The Department of Commerce has already dispatched the official hash values for the 2025 quarterly GDP data (in certain cases including GDP aggregate data) to the following nine blockchains: Bitcoin, Ethereum, Solana, TRON, Stellar, Avalanche, Arbitrum One, Polygon PoS, and Optimism. Additionally, through coordinated efforts with Pyth and Chainli</description>
+      <pubDate>Thu, 28 Aug 2025 14:48:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26735</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Lombard Launches Yield-Bearing Bitcoin Asset LBTC on the Solana Network</title>
+      <link>https://www.lookonchain.com/feeds/26734</link>
+      <description>On August 28th, the Bitcoin DeFi protocol Lombard launched the yield-bearing Bitcoin asset LBTC on the Solana network.LBTC is an SPL token issued by Lombard. It is fully backed by Bitcoin and secured by a decentralized validator network, while providing real-time proof of reserves. LBTC has been launched on the Ethereum, Base, and Sui networks, and has a circulating supply of $1.5 billion.</description>
+      <pubDate>Thu, 28 Aug 2025 14:40:37 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26734</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
     <item>
       <title>Tether Treasury Mints 1 Billion USDT on the Ethereum Blockchain</title>
       <link>https://www.lookonchain.com/feeds/26733</link>
@@ -150,42 +186,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>PYTH surges over 20% in a short period of time, following the U.S. Department of Commerce selecting the Pyth Network for on-chain economic data validation and distribution</title>
-      <link>https://www.lookonchain.com/feeds/26725</link>
-      <description>On August 28th, according to HTX market data, PYTH witnessed a significant surge of over 20% in a short span. It is currently trading at $0.1415.Previously, it was reported that the U.S. Department of Commerce selected the Pyth Network to carry out on-chain economic data validation and distribution.</description>
-      <pubDate>Thu, 28 Aug 2025 13:56:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26725</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>JPMorgan: Bitcoin Volatility Hits Historic Low, Price Undervalued Compared to Gold</title>
-      <link>https://www.lookonchain.com/feeds/26724</link>
-      <description>August 28th - According to Coindesk, JPMorgan Chase stated in a research report that Bitcoin is considered to be too inexpensive when compared to gold because its volatility has reached a historical low. The report pointed out that Bitcoin&apos;s six-month rolling volatility has decreased from nearly 60% at the start of the year to approximately 30% currently, which constitutes a new low. With volatility approaching that of gold, Bitcoin&apos;s current volatility is only twice that of gold, also representing the lowest ratio in history. JPMorgan Chase believes that this makes Bitcoin increasingly appealing to institutional portfolios.Based on volatility-adjusted calculations, Bitcoin&apos;s market capitalization would need to increase by 13%, with a price of around $126,000, in order to be in line with gold&apos;s $5 trillion private investment scale. According to the bank&apos;s model, Bitcoin is currently undervalued by approximately $16,000 compared to gold, indicating potential upward movement.</description>
-      <pubDate>Thu, 28 Aug 2025 13:48:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26724</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>

@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 14:39:31 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 14:39:31 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 14:52:30 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 14:52:30 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,40 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Coinbase系美国商务部在GDP数据上链项目的加密基础设施合作伙伴</title>
+      <link>https://www.panewslab.com/zh/articles/f821ef4e-492a-4185-8266-e395da127771</link>
+      <description>Coinbase系美国商务部在GDP数据上链项目的加密基础设施合作伙伴</description>
+      <pubDate>Thu, 28 Aug 2025 14:52:29 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f821ef4e-492a-4185-8266-e395da127771</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>巴拉圭将投资600万美元在Polkadot链上发行代币化股权，以开发亚松森创新谷</title>
+      <link>https://www.panewslab.com/zh/articles/299501e6-b617-49d9-aeaa-1ae06711ee34</link>
+      <description>巴拉圭将投资600万美元在Polkadot链上发行代币化股权，以开发亚松森创新谷</description>
+      <pubDate>Thu, 28 Aug 2025 14:50:29 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/299501e6-b617-49d9-aeaa-1ae06711ee34</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>美国政府向比特币、以太坊、SOLANA、TRON、STELLAR、AVALANCHE、ARBITRUM和POLYGON公布了最新GDP数据</title>
       <link>https://www.panewslab.com/zh/articles/21650daa-6749-40ed-8888-b52b3d7eb253</link>
       <description>美国政府向比特币、以太坊、SOLANA、TRON、STELLAR、AVALANCHE、ARBITRUM和POLYGON公布了最新GDP数据</description>
-      <pubDate>Thu, 28 Aug 2025 14:39:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:48:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/21650daa-6749-40ed-8888-b52b3d7eb253</guid>
       <category>crypto</category>
@@ -36,7 +66,7 @@
       <title>Tether Treasury在以太坊新增铸造10亿枚USDT</title>
       <link>https://www.panewslab.com/zh/articles/79de9f9d-4617-452b-b624-c7ad959032e0</link>
       <description>Tether Treasury在以太坊新增铸造10亿枚USDT</description>
-      <pubDate>Thu, 28 Aug 2025 14:37:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:46:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/79de9f9d-4617-452b-b624-c7ad959032e0</guid>
       <category>crypto</category>
@@ -53,7 +83,7 @@
       <title>PYTH短时触及0.1869美元，日内涨幅超50%</title>
       <link>https://www.panewslab.com/zh/articles/334899bc-9db4-4483-82e9-8669b884d2c5</link>
       <description>PYTH短时触及0.1869美元，日内涨幅超50%</description>
-      <pubDate>Thu, 28 Aug 2025 14:35:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:44:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/334899bc-9db4-4483-82e9-8669b884d2c5</guid>
       <category>crypto</category>
@@ -68,7 +98,7 @@
       <title>LINK价格短时突破26美元，日内涨幅超6%</title>
       <link>https://www.panewslab.com/zh/articles/1ffc29ff-422f-4c79-ad95-cae1794772bb</link>
       <description>LINK价格短时突破26美元，日内涨幅超6%</description>
-      <pubDate>Thu, 28 Aug 2025 14:33:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:42:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1ffc29ff-422f-4c79-ad95-cae1794772bb</guid>
       <category>crypto</category>
@@ -83,7 +113,7 @@
       <title>美国政府开始在区块链上发布GDP数据，最初将覆盖九个区块链</title>
       <link>https://www.panewslab.com/zh/articles/897c51ff-e84c-4eb4-ad0b-e34456d97bb8</link>
       <description>美国政府开始在区块链上发布GDP数据，最初将覆盖九个区块链</description>
-      <pubDate>Thu, 28 Aug 2025 14:31:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:40:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/897c51ff-e84c-4eb4-ad0b-e34456d97bb8</guid>
       <category>crypto</category>
@@ -98,7 +128,7 @@
       <title>Pyth Network被美国商务部选中，用于链上经济数据的验证和分发</title>
       <link>https://www.panewslab.com/zh/articles/f1ca2250-3d4d-49be-b3a9-32dba2992f13</link>
       <description>Pyth Network被美国商务部选中，用于链上经济数据的验证和分发</description>
-      <pubDate>Thu, 28 Aug 2025 14:29:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:38:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f1ca2250-3d4d-49be-b3a9-32dba2992f13</guid>
       <category>crypto</category>
@@ -113,7 +143,7 @@
       <title>美国商务部和Chainlink正在将该国政府宏观经济数据上链</title>
       <link>https://www.panewslab.com/zh/articles/5065dcf2-7e0e-400d-a596-49fbbe196373</link>
       <description>美国商务部和Chainlink正在将该国政府宏观经济数据上链</description>
-      <pubDate>Thu, 28 Aug 2025 14:27:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:36:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5065dcf2-7e0e-400d-a596-49fbbe196373</guid>
       <category>crypto</category>
@@ -128,7 +158,7 @@
       <title>今日10只比特币ETF净流入838枚BTC，9只以太坊ETF净流入71506枚ETH</title>
       <link>https://www.panewslab.com/zh/articles/9f336e7b-d46c-4c09-bec0-eafd63dd7789</link>
       <description>今日10只比特币ETF净流入838枚BTC，9只以太坊ETF净流入71506枚ETH</description>
-      <pubDate>Thu, 28 Aug 2025 14:25:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:34:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9f336e7b-d46c-4c09-bec0-eafd63dd7789</guid>
       <category>crypto</category>
@@ -147,7 +177,7 @@
       <title>Arx Veritas与Blubird通过区块链技术完成价值320亿美元碳减排资产的代币化</title>
       <link>https://www.panewslab.com/zh/articles/cb0b5cf3-72d7-40bc-9098-c3f889b8c6a9</link>
       <description>Arx Veritas与Blubird通过区块链技术完成价值320亿美元碳减排资产的代币化</description>
-      <pubDate>Thu, 28 Aug 2025 14:23:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:32:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cb0b5cf3-72d7-40bc-9098-c3f889b8c6a9</guid>
       <category>crypto</category>
@@ -162,7 +192,7 @@
       <title>美联储理事丽莎·库克正式起诉美国总统特朗普</title>
       <link>https://www.panewslab.com/zh/articles/fe80a5c3-3cbe-48fc-8ff5-5b8ecd72cc6b</link>
       <description>美联储理事丽莎·库克正式起诉美国总统特朗普</description>
-      <pubDate>Thu, 28 Aug 2025 14:21:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:30:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fe80a5c3-3cbe-48fc-8ff5-5b8ecd72cc6b</guid>
       <category>crypto</category>
@@ -177,7 +207,7 @@
       <title>Falcon Finance设立链上保险基金，初始注资1000万美元</title>
       <link>https://www.panewslab.com/zh/articles/040dd34a-1aba-4876-bfa4-bcd6eb5e2721</link>
       <description>Falcon Finance设立链上保险基金，初始注资1000万美元</description>
-      <pubDate>Thu, 28 Aug 2025 14:19:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:28:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/040dd34a-1aba-4876-bfa4-bcd6eb5e2721</guid>
       <category>crypto</category>
@@ -192,7 +222,7 @@
       <title>加密初创公司aPriori完成2000万美元新一轮融资，Pantera Capital等参投</title>
       <link>https://www.panewslab.com/zh/articles/f3971557-627b-43ca-90fb-f66aec9966c1</link>
       <description>加密初创公司aPriori完成2000万美元新一轮融资，Pantera Capital等参投</description>
-      <pubDate>Thu, 28 Aug 2025 14:17:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:26:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f3971557-627b-43ca-90fb-f66aec9966c1</guid>
       <category>crypto</category>
@@ -207,7 +237,7 @@
       <title>币安全面升级执行交易服务，聚合多个流动性供应商的报价</title>
       <link>https://www.panewslab.com/zh/articles/01e4593f-baca-40ec-9d83-c90560c8a8a6</link>
       <description>币安全面升级执行交易服务，聚合多个流动性供应商的报价</description>
-      <pubDate>Thu, 28 Aug 2025 14:15:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:24:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/01e4593f-baca-40ec-9d83-c90560c8a8a6</guid>
       <category>crypto</category>
@@ -222,7 +252,7 @@
       <title>Circle向韩国金融部门表态：无意合作韩元稳定币，提议开展美元稳定币合作</title>
       <link>https://www.panewslab.com/zh/articles/32e9ba4e-8fa6-4dae-a00b-aa4cbfd7400a</link>
       <description>Circle向韩国金融部门表态：无意合作韩元稳定币，提议开展美元稳定币合作</description>
-      <pubDate>Thu, 28 Aug 2025 14:13:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:22:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/32e9ba4e-8fa6-4dae-a00b-aa4cbfd7400a</guid>
       <category>crypto</category>
@@ -237,7 +267,7 @@
       <title>James Wynn和“滚仓哥”两位交易者仍在操作“蚂蚁仓”</title>
       <link>https://www.panewslab.com/zh/articles/45e424d9-c9f7-4d4b-b080-2d1a9a91e7e3</link>
       <description>James Wynn和“滚仓哥”两位交易者仍在操作“蚂蚁仓”</description>
-      <pubDate>Thu, 28 Aug 2025 14:11:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:20:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/45e424d9-c9f7-4d4b-b080-2d1a9a91e7e3</guid>
       <category>crypto</category>
@@ -252,7 +282,7 @@
       <title>BitStrat Holdings Limited已购买其首笔10枚BTC</title>
       <link>https://www.panewslab.com/zh/articles/9dcaa1bd-b49d-41b8-a4e5-57ce0514a581</link>
       <description>BitStrat Holdings Limited已购买其首笔10枚BTC</description>
-      <pubDate>Thu, 28 Aug 2025 14:09:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:18:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9dcaa1bd-b49d-41b8-a4e5-57ce0514a581</guid>
       <category>crypto</category>
@@ -269,7 +299,7 @@
       <title>美国至8月23日当周初请失业金人数22.9万人，预期23万人</title>
       <link>https://www.panewslab.com/zh/articles/bae6e0dc-e14d-4f15-bc16-73fd3bb7fe53</link>
       <description>美国至8月23日当周初请失业金人数22.9万人，预期23万人</description>
-      <pubDate>Thu, 28 Aug 2025 14:07:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:16:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bae6e0dc-e14d-4f15-bc16-73fd3bb7fe53</guid>
       <category>crypto</category>
@@ -284,7 +314,7 @@
       <title>以太坊现货 ETF 昨日总净流入3.09亿美元，持续5日净流入</title>
       <link>https://www.panewslab.com/zh/articles/f5fe09c5-83c2-4a6d-8c5a-911ab79e1224</link>
       <description>以太坊现货 ETF 昨日总净流入3.09亿美元，持续5日净流入</description>
-      <pubDate>Thu, 28 Aug 2025 14:05:31 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:14:29 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f5fe09c5-83c2-4a6d-8c5a-911ab79e1224</guid>
       <category>crypto</category>
@@ -295,36 +325,6 @@
       <category>chinese-crypto-news</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>上市公司AirNet Technology完成1.8亿美元注册直接发行，所得款项全部以数字资产支付</title>
-      <link>https://www.panewslab.com/zh/articles/7b8ad731-7cfa-4a6e-b245-00135ab86df5</link>
-      <description>上市公司AirNet Technology完成1.8亿美元注册直接发行，所得款项全部以数字资产支付</description>
-      <pubDate>Thu, 28 Aug 2025 14:03:31 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7b8ad731-7cfa-4a6e-b245-00135ab86df5</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Bybit Web3 24小时行情：3个代币涨幅超15%，WOJAK引领涨势达33%</title>
-      <link>https://www.panewslab.com/zh/articles/8fc940b9-c375-443d-a094-8be0b293aa16</link>
-      <description>Bybit Web3 24小时行情：3个代币涨幅超15%，WOJAK引领涨势达33%</description>
-      <pubDate>Thu, 28 Aug 2025 14:01:31 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8fc940b9-c375-443d-a094-8be0b293aa16</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
