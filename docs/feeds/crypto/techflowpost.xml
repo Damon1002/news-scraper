@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 11:28:20 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 11:28:20 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 11:41:55 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 11:41:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,64 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>CampNetwork 宣布主网上线</title>
+      <title>BitMart 已撤回香港虚拟资产服务提供商牌照申请</title>
       <link>https://www.techflowpost.com</link>
-      <description>据官方消息，CampNetwork 宣布主网上线。</description>
+      <description>据 Cointelegraph 报道，加密货币交易所 BitMart 已撤回其在香港的虚拟资产服务提供商（VASP）牌照申请。根据香港证券及期货事务监察委员会（SFC）的记录显示，BitMart 于周四撤回申请。此前，Bybit、OKX 和 Gate 等多家主要交易所也在 2024 年 5 月底相...</description>
+      <pubDate>Thu, 28 Aug 2025 11:39:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安推出Alpha 2.0限价单流动性提供商计划</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安推出 BinanceAlpha2.0 限价单流动性提供商计划，邀请合格用户申请。参与者可享受零买卖交易费、专属 API 访问及 24*7 专属支持等福利。申请需提供交易量证明至指定邮箱或联系销售团队。</description>
+      <pubDate>Thu, 28 Aug 2025 11:37:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Vitalik：量子计算机在 2030 年前破解现代密码学的概率为 20%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Cointelegraph 报道，以太坊联合创始人 Vitalik Buterin 表示，量子计算机在 2030 年底前破解现代密码学的可能性为 20%。</description>
+      <pubDate>Thu, 28 Aug 2025 11:35:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Binance 宣布 MyShell（SHELL）第二轮 HODLer 空投，最高29.9%年化收益</title>
+      <link>https://www.techflowpost.com</link>
+      <description>8 月 27 日，MyShell携手 Binance 上线限时锁仓产品，用户可通过订阅 SHELL Locked Products 获得最高年化 29.9% 的收益。本次锁仓产品活动将持续至 2026 年 2 月 27 日，支持 30 天、60 天和 90 天三种期限选择，对应年化收益率分别为 1...</description>
+      <pubDate>Thu, 28 Aug 2025 11:30:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Solana 政策研究所向 Tornado Cash 开发者辩护基金捐赠 50 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 The Rage 报道，Solana 政策研究所（SPI）宣布向去中心化隐私服务 Tornado Cash 开发者 Roman Storm 和 Alexey Pertsev 的法律辩护基金捐赠 50 万美元。两位开发者目前正就其各自在美国和荷兰的刑事判决提起上诉。SPI 首席执行官 Mille...</description>
+      <pubDate>Thu, 28 Aug 2025 11:27:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Camp Network 宣布主网上线</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方消息，Camp Network 宣布主网上线。</description>
       <pubDate>Thu, 28 Aug 2025 11:25:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -49,7 +104,7 @@
     <item>
       <title>《财富》：SharpLink 等上市加密财库公司疑似存在内幕交易迹象</title>
       <link>https://www.techflowpost.com</link>
-      <description>报道指出，SharpLink 在宣布计划购入价值 4.25 亿美元的以太坊前三个交易日，股价在没有任何重大信息披露的情况下（未向SEC提交文件或发布新闻稿）从 3 美元涨至 6 美元。另外 5 家在加密货币购买前股价出现异常波动的公司——MEI Pharma、Kindly MD、Empery Di...</description>
+      <description>据 《财富》报道，今年以来已有 184 家上市公司宣布购入总值近 1320 亿美元的加密货币。然而，研究发现部分小型上市公司在宣布加密货币储备计划前出现可疑的股价异动。报道指出，SharpLink的股价在4月和5月初一直徘徊在3美元以下。但在5月27日宣布计划增持4.25亿美元以太坊作为储备资产时...</description>
       <pubDate>Thu, 28 Aug 2025 11:18:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -227,61 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据金十数据报道，欧洲央行管委雷恩表示：如果美联储的独立性遭到破坏，通胀将不可避免地上升。</description>
       <pubDate>Thu, 28 Aug 2025 09:06:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Coinbase 前 CEO：比特币成主流后，房地产实际价值将下跌</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Bitcoin Magazine 报道，前 Coinbase 首席技术官 Balaji Srinivasan 表示，当比特币“获得成功”时，房地产的实际价值将会下跌。他认为，人们将停止将房屋作为投资标的，转而投资比特币。</description>
-      <pubDate>Thu, 28 Aug 2025 09:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>港股上市公司“顺泰控股”宣布进军加密货币业务，拟将 7000 万港元投资加密货币</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据港交所公告，港股上市公司顺泰控股（01335.HK）宣布拓展加密货币业务，计划从内部财务资源调配约 7000 万港元用于加密货币交易。公司已成立专业小组负责管理虚拟资产业务，将主要投资具有 5 年以上历史、流动性良好的加密货币，包括BTC、ETH、BNB 和 FIL 等。为控制风险，公司制定了严...</description>
-      <pubDate>Thu, 28 Aug 2025 08:56:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>泰国前总理支持将泰国打造为区域加密货币中心</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Decrypt 报道，泰国前总理他信·西那瓦（Thaksin Shinawatra）于周二在曼谷会见了一群数字资产投资者，讨论将泰国打造为区域数字资产中心的提案。参与会议的机构包括日本 Metaplanet、UTXO Management、Nakamoto Holdings、Sora Vent...</description>
-      <pubDate>Thu, 28 Aug 2025 08:49:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>现货黄金向上触及3400美元/盎司，日内涨0.08%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，现货黄金向上触及3400美元/盎司，日内涨0.08%。</description>
-      <pubDate>Thu, 28 Aug 2025 08:48:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>火币HTX已上线NMR永续合约，并启动合约交易派对</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，火币HTX已于8月28日上线NMR/USDT永续合约，最高杠杆20倍。同时，火币HTX于8月28日16:30至9月4日16:30（UTC+8）启动NMR合约交易派对，总奖池高达10,000美元。活动期间，用户完成报名，并参与NMR/USDT合约交易，累计有效交易额≥10,000 USD...</description>
-      <pubDate>Thu, 28 Aug 2025 08:44:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
