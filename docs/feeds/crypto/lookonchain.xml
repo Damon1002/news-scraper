@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 14:52:29 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 14:52:29 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 15:14:42 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 15:14:42 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,44 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>DeFi Development Corporation has increased its holdings to 407,247 SOL, bringing its total holdings to 1,831,011 SOL.</title>
+      <link>https://www.lookonchain.com/feeds/26737</link>
+      <description>On August 28th, according to official channels, the US-listed company DeFi Development Corporation announced that it has raised its holdings to 407,247 SOL, with a total holding of 1,831,011 SOL (approximately $371 million).</description>
+      <pubDate>Thu, 28 Aug 2025 15:08:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26737</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Mitosis has started an airdrop for claiming.</title>
+      <link>https://www.lookonchain.com/feeds/26736</link>
+      <description>On August 28th, the Mitosis Foundation made an announcement. It stated that the MITO Genesis airdrop claim has become active. The claim window will close at 21:00 on September 11, 2025. The Mitosis Foundation further mentioned that the MITO, which was previously used to cover the claim Gas fee, has already been deposited into the user&apos;s registered claim address.</description>
+      <pubDate>Thu, 28 Aug 2025 14:56:49 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26736</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The US Department of Commerce has announced that it will publish the second-quarter GDP data to the blockchain.</title>
       <link>https://www.lookonchain.com/feeds/26735</link>
       <description>On August 28th, as per an official announcement, the U.S. Department of Commerce announced today that it will commence the publication of actual Gross Domestic Product (GDP) data on the blockchain starting from July 2025. Based on the revised estimates released by the U.S. Bureau of Economic Analysis, the GDP in July 2025 witnessed an annualized growth rate of 3.3%.This represents the first instance where a federal agency has published economic statistics in this manner on the blockchain, and it is the latest step taken by the Department of Commerce to safeguard federal data by leveraging innovative technology and facilitating public access.The Department of Commerce has already dispatched the official hash values for the 2025 quarterly GDP data (in certain cases including GDP aggregate data) to the following nine blockchains: Bitcoin, Ethereum, Solana, TRON, Stellar, Avalanche, Arbitrum One, Polygon PoS, and Optimism. Additionally, through coordinated efforts with Pyth and Chainli</description>
-      <pubDate>Thu, 28 Aug 2025 14:48:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:48:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26735</guid>
       <category>crypto</category>
@@ -34,7 +68,7 @@
       <title>Lombard Launches Yield-Bearing Bitcoin Asset LBTC on the Solana Network</title>
       <link>https://www.lookonchain.com/feeds/26734</link>
       <description>On August 28th, the Bitcoin DeFi protocol Lombard launched the yield-bearing Bitcoin asset LBTC on the Solana network.LBTC is an SPL token issued by Lombard. It is fully backed by Bitcoin and secured by a decentralized validator network, while providing real-time proof of reserves. LBTC has been launched on the Ethereum, Base, and Sui networks, and has a circulating supply of $1.5 billion.</description>
-      <pubDate>Thu, 28 Aug 2025 14:40:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:40:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26734</guid>
       <category>crypto</category>
@@ -53,7 +87,7 @@
       <title>Tether Treasury Mints 1 Billion USDT on the Ethereum Blockchain</title>
       <link>https://www.lookonchain.com/feeds/26733</link>
       <description>On August 28th, Tether Treasury minted an extra 1 billion USDT on the Ethereum blockchain just 2 minutes ago.</description>
-      <pubDate>Thu, 28 Aug 2025 14:32:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:32:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26733</guid>
       <category>crypto</category>
@@ -72,7 +106,7 @@
       <title>Trump&apos;s nominee for Federal Reserve Board Governor, Milan, is expected to be confirmed ahead of the Fed meeting.</title>
       <link>https://www.lookonchain.com/feeds/26732</link>
       <description>August 28th: Based on market information, Rettig, who is Trump&apos;s nominee for the Federal Reserve governor, is anticipated to obtain confirmation prior to the Federal Reserve meeting. It is expected that the U.S. Senate Banking Committee will hold a hearing in the upcoming week. (FXStreet)</description>
-      <pubDate>Thu, 28 Aug 2025 14:24:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:24:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26732</guid>
       <category>crypto</category>
@@ -89,7 +123,7 @@
       <title>USD.AI is partnering with Plasma to increase the deposit limit for USDT.</title>
       <link>https://www.lookonchain.com/feeds/26731</link>
       <description>On August 28th, USD.AI declared a partnership with Plasma. This partnership will be implemented on the very first day of the Plasma mainnet&apos;s launch, enabling users to make deposits of USDT. Additionally, USD.AI has achieved a deposit limit of $100 million today. The project has indicated that it will promptly increase the deposit limit along with other significant announcements.</description>
-      <pubDate>Thu, 28 Aug 2025 14:24:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:24:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26731</guid>
       <category>crypto</category>
@@ -106,7 +140,7 @@
       <title>PYTH&apos;s 24-hour price change has expanded to 50%, after the US Department of Commerce selected the Pyth Network for on-chain economic data validation and distribution</title>
       <link>https://www.lookonchain.com/feeds/26730</link>
       <description>On August 28th, based on HTX market data, the 24-hour price surge of PYTH has expanded to 50% and is now trading at $0.173.Previously, it was reported that the US Department of Commerce selected the Pyth Network to conduct on-chain economic data validation and distribution.</description>
-      <pubDate>Thu, 28 Aug 2025 14:16:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:16:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26730</guid>
       <category>crypto</category>
@@ -123,7 +157,7 @@
       <title>The Address has been accumulating 561,000 LINK tokens for the past 11 days, currently sitting on an unrealized gain of $1,431,000.</title>
       <link>https://www.lookonchain.com/feeds/26729</link>
       <description>On August 28th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), three addresses accumulated 561,000 LINK tokens 11 days ago. Currently, they have an unrealized gain of $1.431 million. The details are as follows:· Address 0x42B...6bbf6: On August 17th, it acquired 210,000 LINK tokens at an average price of $23.94 ($5.06 million). Currently, it has an unrealized gain of $303,000.· Address 0xCEd...837b9: On August 17th, it bought 276,000 LINK tokens on-chain at an average price of $22.12 ($6.63 million). Currently, it has an unrealized gain of $900,000.· Address 0x61b...00EC3: On August 17th, it purchased 75,000 LINK tokens on-chain at an average price of $22.71 ($1.81 million). Currently, it has an unrealized gain of $228,000.</description>
-      <pubDate>Thu, 28 Aug 2025 14:08:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:13:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26729</guid>
       <category>crypto</category>
@@ -141,43 +175,9 @@
       <title>LookOnChain: Binance Alpha Lists MITO</title>
       <link>https://www.lookonchain.com/feeds/26728</link>
       <description>On August 28th, Binance Alpha has listed MITO.</description>
-      <pubDate>Thu, 28 Aug 2025 14:08:37 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 14:13:49 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26728</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LINK sees a short-term price surge of over 5% after Chainlink&apos;s announcement of a partnership with the US Department of Commerce to bring government macroeconomic data on-chain.</title>
-      <link>https://www.lookonchain.com/feeds/26727</link>
-      <description>On August 28th, according to HTX market data, LINK witnessed a significant surge of over 5% in a short span. It is currently trading at $25.3.Previously, there were reports suggesting that the U.S. Department of Commerce is collaborating with Chainlink to place U.S. government macroeconomic data on the blockchain.</description>
-      <pubDate>Thu, 28 Aug 2025 13:56:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26727</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The U.S. Department of Commerce has selected Pyth Network for on-chain economic data validation and distribution</title>
-      <link>https://www.lookonchain.com/feeds/26726</link>
-      <description>On August 28th, according to official channels, the U.S. Department of Commerce has selected Pyth Network for on-chain economic data validation and distribution.</description>
-      <pubDate>Thu, 28 Aug 2025 13:56:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26726</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
