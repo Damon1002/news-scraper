@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 15:48:07 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 15:48:07 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 15:59:51 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 15:59:51 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,71 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Greeks.Live: Market Sentiment Turns Cautious, Viewing BTC and ETH Performance as Relatively Weak</title>
+      <link>https://www.lookonchain.com/feeds/26746</link>
+      <description>August 28th, Greeks.Live issued its daily market briefing, stating that the community generally holds a cautious attitude towards the short-term market trend and believes that BTC and ETH are relatively weak and need a rapid price breakthrough to reduce risks. More attention is focused on the short-term opportunity of SOL. It is believed that ETH may experience a correction in the next few days, temporarily making way for other currencies.</description>
+      <pubDate>Thu, 28 Aug 2025 15:56:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26746</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Ethereum Drops Below $4500</title>
+      <link>https://www.lookonchain.com/feeds/26745</link>
+      <description>On August 28th, according to HTX market data, Ethereum fell below $4,500, experiencing a 24-hour decline of 3.37%.</description>
+      <pubDate>Thu, 28 Aug 2025 15:55:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26745</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Portal to Bitcoin has completed a $50 million fundraising round, with Paloma Investments leading the investment.</title>
+      <link>https://www.lookonchain.com/feeds/26744</link>
+      <description>On August 28th, as per Coindesk, the Bitcoin startup Portal to Bitcoin has successfully concluded a $50 million funding round. This round was led by Paloma Investments, raising the total funding for the project to $92 million.This infusion of funds will be dedicated to facilitating the expansion of the company&apos;s BitScaler adapter. The BitScaler enables the scaling of native Bitcoin without the need for wrapped tokens, custodial bridging, or &quot;message passing or other insecure workarounds.&quot; Portal intends to utilize this new funding to expand its grant program and bring on board institutional and community liquidity providers.</description>
+      <pubDate>Thu, 28 Aug 2025 15:48:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26744</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Data: A total of 14.59 billion WLFI has been transferred to the Lockbox contract, representing 14.59% of the total token supply.</title>
       <link>https://www.lookonchain.com/feeds/26743</link>
       <description>On August 28th, according to on-chain data, a total of 14.59 billion WLFI tokens have been transferred to the Lockbox contract. This accounts for 14.59% of the total token supply. The estimated value based on the current contract price is approximately $4.1 billion.Previously, it was reported that the WLFI tokens are scheduled to start unlocking at 8:00 AM Eastern Time on September 1st, and the related feature page (Lockbox) has been launched.</description>
-      <pubDate>Thu, 28 Aug 2025 15:40:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:40:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26743</guid>
       <category>crypto</category>
@@ -35,7 +96,7 @@
       <title>After the initial unemployment claims were released, the probability of a rate cut in September is now at 87.3%.</title>
       <link>https://www.lookonchain.com/feeds/26742</link>
       <description>On August 28th, based on CME&apos;s &quot;FedWatch&quot; data, once the initial jobless claims were made public, the likelihood of the Fed cutting interest rates by 25 basis points in September currently stands at 87.3%, and the probability of no rate change is 12.7%.Previously, it was reported that the initial jobless claims in the US for the week ending August 23rd were 229,000, with an expected value of 230,000, and the previously revised value was changed from 235,000 to 234,000.</description>
-      <pubDate>Thu, 28 Aug 2025 15:33:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:32:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26742</guid>
       <category>crypto</category>
@@ -52,7 +113,7 @@
       <title>U.S. Treasury Secretary Yellen: Tariffs Have Not Affected Prices or Consumer Spending</title>
       <link>https://www.lookonchain.com/feeds/26741</link>
       <description>On August 28th, U.S. Treasury Secretary Yellen declared that, under the impetus of President Trump&apos;s &quot;Beautiful Act&quot;, capital expenditure witnessed an increase and the GDP was revised upward. The data indicates that tariffs have not had an impact on prices or consumer spending. (FX678)</description>
-      <pubDate>Thu, 28 Aug 2025 15:32:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:32:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26741</guid>
       <category>crypto</category>
@@ -69,7 +130,7 @@
       <title>The EU has proposed the elimination of US tariffs on goods to encourage the US to reduce auto tariffs.</title>
       <link>https://www.lookonchain.com/feeds/26740</link>
       <description>On Thursday local time, August 28th, the European Commission proposed to lift import tariffs on U.S. industrial goods as part of a trade deal with the United States. This is expected to result in a retroactive reduction in U.S. tariffs on European cars. This proposal is the initial step in implementing a framework agreement reached between U.S. President Trump and European Commission President von der Leyen on July 27th. Under the agreement, the EU agreed to impose a 15% tariff on a wide range of goods to prevent a destructive trade war. The U.S. has agreed to reduce tariffs on EU-produced cars from 27.5% to 15% starting from the first day of the month following the EU&apos;s submission of the legislative proposal, which was August 1st. (Golden Finance)</description>
-      <pubDate>Thu, 28 Aug 2025 15:32:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:32:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26740</guid>
       <category>crypto</category>
@@ -86,7 +147,7 @@
       <title>PYTH Breaks Above $0.2, 24-hour Gain Extends to 72%</title>
       <link>https://www.lookonchain.com/feeds/26739</link>
       <description>On August 28th, based on HTX market data, PYTH broke through $0.2 and is currently trading at $0.201, with a 24-hour price increase expanding to 72%. Previously reported, the U.S. Department of Commerce selected the Pyth Network for on-chain economic data verification and distribution.</description>
-      <pubDate>Thu, 28 Aug 2025 15:24:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:24:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26739</guid>
       <category>crypto</category>
@@ -104,7 +165,7 @@
       <title>US Stock LINK Treasury Strategic Company Caliber Surges Over 60%</title>
       <link>https://www.lookonchain.com/feeds/26738</link>
       <description>On August 28th, based on market data, the US stock LINK treasury strategy-listed company Caliber (CWD) saw a surge of more than 60%. The stock price is currently at $2.73, and the market value is approximately $6.8 million.Earlier reports indicated that Caliber, a Nasdaq-listed real estate asset management company, announced that its board of directors had officially approved the establishment of a digital asset treasury strategy and would initially focus on supporting the Chainlink protocol&apos;s LINK token. The company plans to use a portion of its funds to purchase cryptocurrency, buy LINK tokens, and obtain staking rewards.</description>
-      <pubDate>Thu, 28 Aug 2025 15:16:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:16:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26738</guid>
       <category>crypto</category>
@@ -121,7 +182,7 @@
       <title>DeFi Development Corporation has increased its holdings to 407,247 SOL, bringing its total holdings to 1,831,011 SOL.</title>
       <link>https://www.lookonchain.com/feeds/26737</link>
       <description>On August 28th, according to official channels, the US-listed company DeFi Development Corporation announced that it has raised its holdings to 407,247 SOL, with a total holding of 1,831,011 SOL (approximately $371 million).</description>
-      <pubDate>Thu, 28 Aug 2025 15:08:15 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 15:08:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26737</guid>
       <category>crypto</category>
@@ -132,59 +193,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Mitosis has started an airdrop for claiming.</title>
-      <link>https://www.lookonchain.com/feeds/26736</link>
-      <description>On August 28th, the Mitosis Foundation made an announcement. It stated that the MITO Genesis airdrop claim has become active. The claim window will close at 21:00 on September 11, 2025. The Mitosis Foundation further mentioned that the MITO, which was previously used to cover the claim Gas fee, has already been deposited into the user&apos;s registered claim address.</description>
-      <pubDate>Thu, 28 Aug 2025 14:56:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26736</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The US Department of Commerce has announced that it will publish the second-quarter GDP data to the blockchain.</title>
-      <link>https://www.lookonchain.com/feeds/26735</link>
-      <description>On August 28th, as per an official announcement, the U.S. Department of Commerce announced today that it will commence the publication of actual Gross Domestic Product (GDP) data on the blockchain starting from July 2025. Based on the revised estimates released by the U.S. Bureau of Economic Analysis, the GDP in July 2025 witnessed an annualized growth rate of 3.3%.This represents the first instance where a federal agency has published economic statistics in this manner on the blockchain, and it is the latest step taken by the Department of Commerce to safeguard federal data by leveraging innovative technology and facilitating public access.The Department of Commerce has already dispatched the official hash values for the 2025 quarterly GDP data (in certain cases including GDP aggregate data) to the following nine blockchains: Bitcoin, Ethereum, Solana, TRON, Stellar, Avalanche, Arbitrum One, Polygon PoS, and Optimism. Additionally, through coordinated efforts with Pyth and Chainli</description>
-      <pubDate>Thu, 28 Aug 2025 14:48:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26735</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Lombard Launches Yield-Bearing Bitcoin Asset LBTC on the Solana Network</title>
-      <link>https://www.lookonchain.com/feeds/26734</link>
-      <description>On August 28th, the Bitcoin DeFi protocol Lombard launched the yield-bearing Bitcoin asset LBTC on the Solana network.LBTC is an SPL token issued by Lombard. It is fully backed by Bitcoin and secured by a decentralized validator network, while providing real-time proof of reserves. LBTC has been launched on the Ethereum, Base, and Sui networks, and has a circulating supply of $1.5 billion.</description>
-      <pubDate>Thu, 28 Aug 2025 14:47:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26734</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
