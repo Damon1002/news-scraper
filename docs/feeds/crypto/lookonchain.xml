@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 06:56:43 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 06:56:43 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 07:23:03 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 07:23:03 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The mining company American Bitcoin, supported by the Trump family, is expected to go public in early September with the stock ticker symbol ABTC</title>
+      <link>https://www.lookonchain.com/feeds/26637</link>
+      <description>On August 28th, as per Reuters, the merger between the mining firm American Bitcoin backed by the Trump family and Gryphon Digital Mining (GRYP.O) is anticipated to be completed shortly, with the intention of going public in early September. Donald Trump Jr, Eric Trump, and the mining company Hut 8 will jointly own 98% of the merged entity, which will retain the name American Bitcoin and be traded under the stock symbol ABTC.American Bitcoin has also been seeking acquisition targets in Asia recently in order to build a Bitcoin asset reserve. The company has started to reach out to investors regarding potential acquisitions and is currently planning to acquire a listed company in Japan, while potentially entering the Hong Kong market simultaneously. Sources familiar with the matter indicated that the company intends to follow the MicroStrategy model by establishing a cryptocurrency reserve platform through the acquisition of a publicly traded company.</description>
+      <pubDate>Thu, 28 Aug 2025 07:16:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26637</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Decentralized Privacy Protocol Privacy Cash is now live on Solana</title>
+      <link>https://www.lookonchain.com/feeds/26636</link>
+      <description>On August 28th, the decentralized privacy protocol Privacy Cash has become live on the Solana blockchain. It offers a privacy-oriented transaction service similar to Tornado Cash. This decentralized open-source protocol complies with the regulations of the U.S. Department of the Treasury&apos;s Office of Foreign Assets Control (OFAC). It has facilitated more than 10,000 SOL worth of private transactions.Privacy Cash enables users to deposit SOL into a privacy pool and use zero-knowledge proofs to withdraw SOL from the privacy pool to any receiving address. This ensures that the transactions between deposits and withdrawals cannot be linked, thereby protecting user privacy.</description>
+      <pubDate>Thu, 28 Aug 2025 06:58:11 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26636</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Total Stablecoin Market Cap Surpasses $280 Billion, Reaching a New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/26635</link>
       <description>On August 28th, as per the data from DefiLlama, the current total value locked of stablecoins across all networks has exceeded $280 billion, reaching a new record high. There has been a 7-day growth of 1.07%. Among them, USDT holds a market share of 59.75%, and USDC holds a market share of 24.6%.Over the past month, Tether and Circle have minted a total of $8.75 billion worth of stablecoins. The increase in on-chain minted stablecoins generally reflects the growing demand for stablecoins in the market and increased user participation. This is often associated with bullish sentiment in the cryptocurrency market, as more funds are flowing into the crypto ecosystem.</description>
-      <pubDate>Thu, 28 Aug 2025 06:48:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:49:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26635</guid>
       <category>crypto</category>
@@ -35,7 +71,7 @@
       <title>Fosun Wealth unveils internally incubated Web3 brand FinChain StarNet</title>
       <link>https://www.lookonchain.com/feeds/26634</link>
       <description>August 28th. The Web3 brand FinChain Star Chain, independently incubated by Fosun Wealth Holdings, was officially launched. It was announced that the project has signed relevant agreements with investors to complete the first round of external financing, with a financing amount of several million US dollars. Strategic investors include the Solana Foundation, Vaulta Foundation, Sonic Labs, Animoca Brands, Unified Ventures, and Tengyun Capital, etc. Fosun Wealth Holdings is a subsidiary of Fosun International Limited, a Hong Kong-listed company (stock code: 00656.HK). (Zhixun Finance)</description>
-      <pubDate>Thu, 28 Aug 2025 06:40:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:40:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26634</guid>
       <category>crypto</category>
@@ -52,7 +88,7 @@
       <title>Bitcoin Asset Management Company K33 Releases 2025 Q2 Financial Report</title>
       <link>https://www.lookonchain.com/feeds/26633</link>
       <description>August 28th. The Bitcoin asset management company K33 presented its Q2 2025 financial report. The company&apos;s revenue reached 399 million Swedish Krona, showing a year-on-year growth of 108%. Meanwhile, K33 has submitted a MiCA license application to the Norwegian Financial Supervisory Authority and anticipates obtaining approval within the year to ensure the compliance of its products with the European regulatory framework.As of July 29th, K33 held a total of 126 bitcoins.</description>
-      <pubDate>Thu, 28 Aug 2025 06:40:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:40:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26633</guid>
       <category>crypto</category>
@@ -71,7 +107,7 @@
       <title>Shanghai, China&apos;s Public Prosecution Office has announced a fraud case involving investment in cryptocurrency, with a total amount involved of over 35 million yuan.</title>
       <link>https://www.lookonchain.com/feeds/26632</link>
       <description>August 28th. The day before yesterday, the Shanghai Prosecutor&apos;s Office held a series of press conferences to provide reports on relevant cases. From 2020 to 2024, the Minhang District Prosecutor&apos;s Office in Shanghai received a total of 237 cases involving 375 people for investigation and arrest in connection with financial crimes. They also reviewed and prosecuted 311 cases involving 704 people. Among them, crimes involving virtual currencies, digital collectibles, and using technological innovation as a guise have gradually emerged.In a new type of financial fraud case where the accused used the guise of investing in purchasing virtual currency to deceive victims, the defendant Wu and others, while operating a Shanghai e-commerce company, issued their own &quot;air coin&quot; GDFC without real value and fraudulently obtained more than 35 million RMB from victims. The related funds flowed into the personal accounts of those involved in the case. Their actions constitute the crime of fraud. Cu</description>
-      <pubDate>Thu, 28 Aug 2025 06:24:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:25:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26632</guid>
       <category>crypto</category>
@@ -89,7 +125,7 @@
       <title>OKX&apos;s Japan Branch Okj .Com Receives FSA Regulatory License</title>
       <link>https://www.lookonchain.com/feeds/26631</link>
       <description>On August 28th, based on the post by OKX CEO Star on the X platform, &quot;Japan is one of the most crucial markets for the adoption of Web3. OKX&apos;s Japan branch (Okj.Com) has obtained a comprehensive regulatory license from the Japan Financial Services Agency (FSA) and has ranked within the top three exchanges in Japan. We are also proud to be able to jointly host events such as &apos;Sei Tokyo Tower Special&apos; with our partners and actively support builders, entrepreneurs, and the community. With the strength of all parties, we are jointly driving the future of blockchain in Japan.&quot;</description>
-      <pubDate>Thu, 28 Aug 2025 06:24:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:24:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26631</guid>
       <category>crypto</category>
@@ -106,7 +142,7 @@
       <title>Publicly traded company LQWD has successfully utilized 19.75 BTC from its Bitcoin treasury to deploy on the Lightning Network</title>
       <link>https://www.lookonchain.com/feeds/26630</link>
       <description>On August 28th, according to @BTCtreasuries, the publicly listed Canadian company LQWD has transferred 19.75 BTC from its Bitcoin treasury to the Lightning Network.The report indicated that by collecting routing fees, these bitcoins have achieved an effective annual interest rate of up to 24%.</description>
-      <pubDate>Thu, 28 Aug 2025 06:08:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:22:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26630</guid>
       <category>crypto</category>
@@ -125,7 +161,7 @@
       <title>The Smarter Web Company increased its holdings by 45 bitcoins, bringing the total holdings to 2440 bitcoins.</title>
       <link>https://www.lookonchain.com/feeds/26629</link>
       <description>On August 28th, the UK-listed company The Smarter Web Company augmented its holdings by 45 bitcoins, resulting in a total holding of 2440 bitcoins.</description>
-      <pubDate>Thu, 28 Aug 2025 06:08:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:22:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26629</guid>
       <category>crypto</category>
@@ -144,7 +180,7 @@
       <title>IoTeX Receives Strategic Investment from Animoca Brands to Accelerate Real World AI Global Expansion</title>
       <link>https://www.lookonchain.com/feeds/26628</link>
       <description>On August 28th, the DePIN + AI open ecosystem platform IoTeX announced today that it had received a strategic investment from the Web3 investment firm Animoca Brands. This collaboration goes beyond traditional investment. Animoca Brands will serve as a network validator and ecosystem partner, working together to promote the large-scale application of Real World AI in Asia and globally.Since 2017, IoTeX, a pioneer in the integration of AI and blockchain infrastructure, has been focusing on providing verifiable real-world data for AI systems. It has empowered more than 100 projects and 40 million devices in fields such as transportation, robotics, energy, and healthcare. With a comprehensive data, identity, and AI technology stack, and collaborations with technology giants like Google, Samsung, and ARM, IoTeX has established a strategic high ground in the trillion-dollar AI and data economy. Animoca&apos;s participation will accelerate the global commercialization of Real World AI through f</description>
-      <pubDate>Thu, 28 Aug 2025 05:56:49 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 06:22:11 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26628</guid>
       <category>crypto</category>
@@ -155,42 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>MEXC Lists Hemi (HEMI) for Pre-Trade Trading</title>
-      <link>https://www.lookonchain.com/feeds/26627</link>
-      <description>August 28th. According to official information, MEXC initiated pre-trading for Hemi (HEMI) on August 28, 2025, at 11:00 (in UTC+8 time zone). Users are able to engage in advance trading before the official opening of spot trading for HEMI.</description>
-      <pubDate>Thu, 28 Aug 2025 05:56:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26627</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum has surged by 20.6% so far in August, on track to mark its fourth consecutive positive August in history</title>
-      <link>https://www.lookonchain.com/feeds/26626</link>
-      <description>On August 28th, according to HTX market data, Ethereum has witnessed a 20.6% increase in August so far. As long as it does not lose the aforementioned gain within the next 3 trading days, it will achieve the fourth consecutive August with a positive return in history.Historically, Ethereum has only achieved gains in August in 2017, 2020, and 2021.Moreover, Bitcoin has decreased by 4.58% in August so far, indicating the potential for the fourth consecutive year of decline in August.</description>
-      <pubDate>Thu, 28 Aug 2025 05:55:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26626</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
