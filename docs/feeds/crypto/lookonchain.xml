@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 02:50:40 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 02:50:40 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 03:29:50 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 03:29:50 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,98 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Goldman Sachs Holds $7.21 Billion Ethereum ETF, Largest Institutional Holder</title>
+      <link>https://www.lookonchain.com/feeds/26606</link>
+      <description>On August 28th, based on a 13F filing, Goldman Sachs held an Ethereum ETF worth $7.21 billion, emerging as the largest institutional holder. Next in line were Jane Street (with a holding of $1.9 billion) and Millennium (with a holding of $1.86 billion). (Cointelegraph)</description>
+      <pubDate>Thu, 28 Aug 2025 03:16:58 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26606</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Former US Treasury Secretary Yellen: Firing Cook is illegal and dangerous, US credibility is at risk</title>
+      <link>https://www.lookonchain.com/feeds/26605</link>
+      <description>August 28th: In reaction to the controversy that was triggered by Trump&apos;s dismissal of Federal Reserve Board Governor Powell, former U.S. Treasury Secretary Yellen stated: Trump claims to have &quot;fired&quot; Powell with &quot;valid reasons.&quot; This action is not only illegal but also extremely perilous.This is a blatant attempt to politicize the Federal Reserve. It is a threat to its leadership and an attempt to make monetary policy bow to the will of the president. Such an action could lead to the end of the Fed&apos;s independence—and what will follow is the collapse of the credibility of U.S. monetary policy at home and abroad.Yellen calls on Congress to safeguard the Fed&apos;s independence. The courts must reject this illegal abuse of power. The financial industry should also voice its opposition to this direct attack on the credibility of the dollar. (FXStreet)</description>
+      <pubDate>Thu, 28 Aug 2025 03:08:58 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26605</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Gate 2025 Global Fall Campus Recruitment Officially Launched, HKU Fall Recruitment Summit Kicks Off First</title>
+      <link>https://www.lookonchain.com/feeds/26604</link>
+      <description>On August 28th, the world&apos;s leading cryptocurrency exchange platform Gate officially launched its 2025 Global Autumn Campus Recruitment Plan. The first stop of the autumn recruitment event will be held at the University of Hong Kong on September 17th, thus commencing this campus tour.As a significant starting point for the global campus recruitment tour, following Hong Kong, Gate will visit several top universities around the world and provide recruitment opportunities for outstanding students in various roles such as product, research and development, design, operations, and blockchain innovation. By means of efficient interview processes and diverse career development paths, Gate anticipates welcoming more young talents to join hands in shaping the future of Web3 and digital finance.Through in-depth engagement with campuses and the embrace of young talents, Gate will continuously strengthen its global ecosystem, enabling students to break through boundaries, explore the forefront</description>
+      <pubDate>Thu, 28 Aug 2025 03:08:58 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26604</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bank of Korea Governor: Engaging in Dialogue with Finance Minister and Regulatory Agencies on Stablecoin Issue</title>
+      <link>https://www.lookonchain.com/feeds/26603</link>
+      <description>On August 28th, Lee Chan-yeol, the Governor of the Bank of Korea, stated that he had held discussions with the Finance Minister and regulatory agencies regarding the stablecoin issue. (FXStreet)</description>
+      <pubDate>Thu, 28 Aug 2025 03:00:58 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26603</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Analyst: Linea team-associated address deployed or used for airdrop multiplier calculation smart contract</title>
+      <link>https://www.lookonchain.com/feeds/26602</link>
+      <description>August 28th. On-chain analyst Zack stated in a post that an address linked to the Linea team has a source of funds that can be traced. This address has deployed the &quot;Linea Allocation Multiplier&quot; contract on the Linea mainnet. It is possible that this contract is used for airdrop multiplier calculation. The same address had previously released the &quot;Spin to Win&quot; game to test the Linea Hub.Zach further noted that since the main criteria for Linea&apos;s airdrop will be points (LXP) and on-chain multipliers, and both are now in place, it may suggest that Linea will soon begin accepting airdrop inquiries.At the same time, Zach cautioned users that the authenticity of the contract has not been verified and advised users not to interact with it.</description>
+      <pubDate>Thu, 28 Aug 2025 02:56:58 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26602</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Linea team member showcases LXP with Witch Distribution Chart: Over half of low-tier users are witches</title>
       <link>https://www.lookonchain.com/feeds/26600</link>
       <description>On August 28th, a member of the Linea team, @DeclanFox14, presented the airdrop voucher LXP on the X platform along with the Witch Distribution Chart. The image indicates that among users with 2000 LXP or less, more than half of the addresses were identified as witches. However, after exceeding 2000 LXP, the proportion of witches rapidly declined.@DeclanFox14 also verified that the witch identification work was analyzed by the Nansen team.</description>
-      <pubDate>Thu, 28 Aug 2025 02:48:48 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 02:48:58 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26600</guid>
       <category>crypto</category>
@@ -34,7 +122,7 @@
       <title>Matrixport has announced a strategic partnership with Fosun Wealth Holdings to jointly accelerate the global financial digitization process.</title>
       <link>https://www.lookonchain.com/feeds/26599</link>
       <description>On August 28th, Matrixport made an announcement about entering into a strategic partnership with Fosun Wealth Holdings. The purpose of this partnership is to jointly expedite the global financial digitization process. The areas of focus for this collaboration will include digital asset custody, OTC (over-the-counter) trading, RWA (Real-World Assets), asset tokenization, and asset management products.The announcement pointed out that this significant milestone underscores the crucial role played by Web3 infrastructure and applications in traditional finance. It is expected to further drive the evolution of the financial industry in the directions of digitization, tokenization, and diversified asset allocation.</description>
-      <pubDate>Thu, 28 Aug 2025 02:48:48 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 02:48:58 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26599</guid>
       <category>crypto</category>
@@ -51,7 +139,7 @@
       <title>South Korea&apos;s Bitplanet is set to establish a Bitcoin Treasury company, planning to purchase $40 million worth of Bitcoin.</title>
       <link>https://www.lookonchain.com/feeds/26601</link>
       <description>On August 28th, as per Bitcoin Magazine, Paul Lee, the Co-Founder and Managing Partner of Lobo Ventures, declared at the BITCOIN ASIA 2025 conference that Bitplanet is going to establish a Bitcoin treasury company and intends to purchase Bitcoin worth $40 million. Consequently, Bitplanet will emerge as South Korea&apos;s first global institutional Bitcoin financial company.</description>
-      <pubDate>Thu, 28 Aug 2025 02:48:48 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 02:48:58 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26601</guid>
       <category>crypto</category>
@@ -71,7 +159,7 @@
       <title>Foreign Media: Hong Kong Official Drops Out of Bitcoin Asia Conference to Avoid Contact with Eric Trump</title>
       <link>https://www.lookonchain.com/feeds/26598</link>
       <description>August 28th. As per Bloomberg, Ashley Alder, the Executive Director of the Securities and Futures Commission (SFC) in Hong Kong, and Legislative Councilor Wu Chi-wai have been excluded from the guest list of the Bitcoin Asia Summit set to take place from August 28th to 29th. The previously archived page indicated that they were initially scheduled to be speakers but decided to withdraw after being advised against interacting with Eric Trump.Eric Trump, the son of former US President Donald Trump, is one of the speakers at the event. He currently serves as the Executive Vice President of the Trump Organization and is involved in multiple US crypto projects. The SFC responded that Alder could not attend due to a business trip, while Wu Chi-wai stated that he had to cancel his trip due to family reasons.Furthermore, according to the South China Morning Post, informed sources reported that both individuals withdrew because they were instructed not to interact with Eric Trump, th</description>
-      <pubDate>Thu, 28 Aug 2025 02:40:48 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 02:40:58 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26598</guid>
       <category>crypto</category>
@@ -90,7 +178,7 @@
       <title>Founder of Sandbox Steps Down and Lays Off 50% of Staff, Shifts Focus from Metaverse to Web3 Applications and Launchpad Initiative</title>
       <link>https://www.lookonchain.com/feeds/26597</link>
       <description>August 28th. As per The Big Whale, The Sandbox&apos;s co-founders Arthur Madrid and Sébastien Borget have relinquished their day-to-day operational responsibilities. Animoca Brands CEO Robby Yung has assumed the role of CEO. Borget will act as a global ambassador, and Madrid will become a non-executive chairman. Simultaneously, the company has downsized its staff by over 50%, encompassing teams in Argentina, Uruguay, South Korea, Thailand, and Turkey. It is planning to shut down its office in Lyon, France, and further layoffs are anticipated in Paris. This restructuring is regarded as a strategic adjustment driven by technological progress.Moreover, The Sandbox is gradually shifting its emphasis away from its metaverse business and moving towards a wider scope of Web3 applications, including the launch of a Base-based memecoin.</description>
-      <pubDate>Thu, 28 Aug 2025 02:40:48 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 02:40:58 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26597</guid>
       <category>crypto</category>
@@ -101,103 +189,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Former Governor of the People&apos;s Bank of China Zhou Xiaochuan: Stablecoins May Trigger Speculation, Limited Advantage in Cross-Border Payments</title>
-      <link>https://www.lookonchain.com/feeds/26596</link>
-      <description>On August 28th, as reported by Bloomberg, former central bank governor Zhou Xiaochuan cautioned in a closed-door meeting held in mid-July that stablecoins have the potential to trigger speculative behavior, thereby endangering financial stability.Zhou Xiaochuan pointed out that stablecoins offer only limited advantages over China&apos;s existing retail payment system in terms of cost, and the claim that traditional cross-border payments are &quot;very costly&quot; may be overstated. He also stated that the regulatory frameworks in the US, Hong Kong, and Singapore have not yet fully met the requirement that stablecoins should be &quot;fully backed by liquid assets,&quot; emphasizing the need to be vigilant against their excessive use on speculative asset trading platforms, which could lead to fraud and systemic risks.</description>
-      <pubDate>Thu, 28 Aug 2025 02:32:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26596</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>SharpLink has transferred 23.46 million U funds to Galaxy Digital, potentially for ETH accumulation.</title>
-      <link>https://www.lookonchain.com/feeds/26595</link>
-      <description>On August 28th, according to the monitoring of The Data Nerd, SharpLink (SBET) transferred 23.46 million USDC to the Galaxy Digital address 20 minutes ago. This transfer may be intended to increase holdings of ETH.</description>
-      <pubDate>Thu, 28 Aug 2025 02:24:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26595</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>The prediction on Polymarket that &quot;Bitcoin will fall below $100,000 by the end of the year&quot; has a 61% probability.</title>
-      <link>https://www.lookonchain.com/feeds/26594</link>
-      <description>On August 28th, although some analysts hold the view that Bitcoin&apos;s price will reach $200,000 by 2026, the majority of Polymarket bettors are wagering that by the end of this year, Bitcoin&apos;s price will decline below $100,000.As of Wednesday, the trading volume betting on whether Bitcoin will fall below $100,000 this year indicates that the likelihood of dropping below $100,000 is 61%. This figure is slightly lower than the prediction on Monday when 72% of bettors forecasted that Bitcoin&apos;s trading price would once again drop below $100,000 this year.Presto Research analyst Min Jung stated: &quot;Up to now, the large-scale sell-offs by whales and long-term holders have encountered sufficient buyer demand - especially from corporate treasuries and institutional allocators. However, the crucial question is whether there are enough new entrants to absorb this supply if these large holders start to unwind more aggressively. If demand fails to keep up, breaking below $100,000 becomes more like</description>
-      <pubDate>Thu, 28 Aug 2025 02:24:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26594</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Aethir provides Arizona State University with a $3 million grant to launch a global Artificial Intelligence and Blockchain Education Program</title>
-      <link>https://www.lookonchain.com/feeds/26593</link>
-      <description>August 28th, the decentralized GPU cloud network Aethir entered into a partnership with Arizona State University (ASU) to initiate a global AI and blockchain education program. The program is designed to promote AI and blockchain innovation within the education sector. Arizona State University is the first university to collaborate with OpenAI. Through this partnership, Aethir will provide a grant of $3 million to the university, allowing students and researchers to access advanced infrastructure and expertise. The first batch of incubation projects is scheduled to commence in the 2025-2026 academic year.</description>
-      <pubDate>Thu, 28 Aug 2025 02:16:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26593</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>infini Founder Christian sold 2477 ETH 10 hours ago, and the ETH in a single address has been completely withdrawn</title>
-      <link>https://www.lookonchain.com/feeds/26592</link>
-      <description>On August 28th, according to on-chain analyst Ai Yi (@ai_9684xtpa), the founder of infini, Christian (@Christianeth), is said to have sold 2477 ETH (approximately $11.66 million) 10 hours ago, nearly selling at the peak of last night. Among them, 1257 ETH was sold through Cowswap at an average price of $4,777.6, and another 1220 ETH was deposited into Binance. If sold this time, the address will have emptied its holdings of ETH.</description>
-      <pubDate>Thu, 28 Aug 2025 02:16:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26592</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
