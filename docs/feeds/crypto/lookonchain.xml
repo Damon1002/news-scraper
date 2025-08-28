@@ -5,14 +5,105 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 09:54:35 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 09:54:35 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 10:19:34 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 10:19:34 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>OKX will list XPL for pre-trading.</title>
+      <link>https://www.lookonchain.com/feeds/26679</link>
+      <description>On August 28th, OKX will commence pre-trading for XPL. The pre-trading of XPL/USDT will open on August 28, 2025, at 7:00 PM (US time).</description>
+      <pubDate>Thu, 28 Aug 2025 10:17:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26679</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Yesterday&apos;s Sniper XPL Hedge Whale Main Address saw another movement, going long again at $0.67.</title>
+      <link>https://www.lookonchain.com/feeds/26678</link>
+      <description>On August 28th, according to on-chain analyst AI Auntie (@ai_9684xtpa), yesterday, the main operating address 0xb9c...6801e, which snatched the XPL hedging whale and made a profit of over $16 million on Hyperliquid, showed unusual behavior again. Early this morning, it dispersed 27.1 million USDC to 11 addresses and once again opened a 1x XPL long position worth $18.14 million, with a cumulative unrealized profit of $1.148 million. It seems that this whale has not given up &quot;manipulating&quot; the XPL price. The trading price of XPL on Hyperliquid briefly exceeded $0.8 and then fell back, and it is now trading at $0.72, with a 26% premium over the $0.571 on Binance.The address 0xb9c...6801, in cooperation with multiple whales yesterday, boosted the price to liquidate short positions and earned a total of between $38 million and $46.1 million in just one hour. The address 0xb9c...6801e, as the main address, had been holding</description>
+      <pubDate>Thu, 28 Aug 2025 10:17:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26678</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha has now launched Blum (BLUM), with an airdrop threshold of 230 points</title>
+      <link>https://www.lookonchain.com/feeds/26677</link>
+      <description>August 28th. Binance Alpha has now commenced the launch of Blum (BLUM). Users who hold at least 230 Alpha Points are eligible to claim a 700 BLUM token airdrop on a first-come, first-served basis. In the event that the event has not ended, the points threshold will automatically decrease by 15 points every hour.</description>
+      <pubDate>Thu, 28 Aug 2025 10:09:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26677</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain whale/institution today staked 1.5 million SOL tokens, worth $318.77 million</title>
+      <link>https://www.lookonchain.com/feeds/26676</link>
+      <description>August 28th. As per OnchainLens, a whale or institution has made a staking of 1.5 million SOL today, which is valued at 3.1877 billion US dollars.During the past 8 days, this whale or institution has staked a cumulative total of 2.5 million SOL, amounting to 5.058 billion US dollars. The SOL was withdrawn from Binance.</description>
+      <pubDate>Thu, 28 Aug 2025 10:00:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26676</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A Whale Who Staked Solana for Four Years Deposits Around 110,000 SOL to Binance, Worth $23.51 Million</title>
+      <link>https://www.lookonchain.com/feeds/26675</link>
+      <description>August 28th. Based on OnchainLens monitoring, a whale unbonded 110,036 SOL 22 days ago, which was worth $23.51 million. And it was deposited into Binance 43 minutes ago.This whale had been staking the SOL holdings for four years. In the past 5 months, it had unbonded a total of 315,108 SOL, with a value of $53.59 million.</description>
+      <pubDate>Thu, 28 Aug 2025 09:56:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26675</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
     <item>
       <title>ZachXBT: No Longer Providing Assistance to XRP Community, as It Has Not Brought Any Value to the Industry</title>
       <link>https://www.lookonchain.com/feeds/26674</link>
@@ -72,7 +163,7 @@
       <title>ECB Executive Board Member Lane Warns: Federal Reserve Independence Being Eroded, Market Trust May Be Affected</title>
       <link>https://www.lookonchain.com/feeds/26671</link>
       <description>August 28: The Executive Board member of the European Central Bank and the Governor of the Bank of Finland, Rehn, warned on Thursday in a speech that for the first time in decades, the independence of the Federal Reserve is facing a &quot;major&quot; challenge, posing &quot;significant&quot; risks to the market and the economy. Rehn said: &quot;Since the containment of double-digit inflation in the 1980s, the independence of the Federal Reserve has been regarded as an inviolable principle - but now this principle is being eroded. When the central bank is trusted, the public, businesses, and financial markets all believe that it will uphold price stability. This trust anchors inflation expectations.&quot; Rehn stated that the credibility brought by independence has enhanced the effectiveness of monetary policy, meaning that the central bank does not need to make &quot;drastic&quot; responses to temporary economic fluctuations. (CNBC)</description>
-      <pubDate>Thu, 28 Aug 2025 09:16:42 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 09:18:42 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26671</guid>
       <category>crypto</category>
@@ -89,7 +180,7 @@
       <title>DWF Labs: Willing to provide 10 to 20% of the funding for the project to facilitate publicly traded companies in establishing a token treasury</title>
       <link>https://www.lookonchain.com/feeds/26670</link>
       <description>On August 28th, Andrei Grachev, the managing partner of DWF Labs, posted that if you can persuade a Nasdaq-listed company to set up a crypto treasury reserve for the token of your project, DWF Labs is ready to invest 10% to 20% of the targeted funding amount.</description>
-      <pubDate>Thu, 28 Aug 2025 09:16:42 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 09:18:42 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26670</guid>
       <category>crypto</category>
@@ -100,98 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Gryphon Digital surged over 20% in pre-market trading, American Bitcoin Plans to Go Public through a SPAC Merger</title>
-      <link>https://www.lookonchain.com/feeds/26669</link>
-      <description>On August 28th, based on market data, during pre-market trading, the U.S. stock Gryphon Digital Mining (GRYP), which is a crypto mining company, once surged by more than 20% and is currently up by more than 12%. The Bitcoin mining company backed by the Trump family, American Bitcoin, is planning to go public through a SPAC merger and aims to be listed on Nasdaq in September under the stock symbol ABTC.</description>
-      <pubDate>Thu, 28 Aug 2025 09:16:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26669</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Sony&apos;s Layer2 network Soneium has launched an on-chain loyalty point system and has kicked off its first-season event.</title>
-      <link>https://www.lookonchain.com/feeds/26668</link>
-      <description>On August 28th, Sony&apos;s Layer2 network Soneium launched the on-chain rewards system &quot;Soneium Score&quot; to monitor and reward users&apos; genuine on-chain participation. This system will allocate points to users according to their asset transactions, staking, NFT transactions, and other operations. It will evaluate them based on four aspects: daily activity, liquidity provision, NFT holdings, and interaction with featured projects. The first-season activities have already been launched in cooperation with multiple ecosystem partners. Users with a score exceeding 80 points will receive the SBT badge.</description>
-      <pubDate>Thu, 28 Aug 2025 09:16:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26668</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Four.Meme: Creditlink (CDL) Presale Hype</title>
-      <link>https://www.lookonchain.com/feeds/26667</link>
-      <description>On August 28th, according to official information, the decentralized identity and credit project Creditlink (CDL) has now commenced its presale on the Four.Meme platform. It has raised approximately 40.16 million USD1 and 620,000 FORM tokens within just 1 hour. Creditlink aims to establish an AI-driven on-chain identity verification and credit scoring system, facilitating the development of Web3 finance towards collateral-free and inclusive directions.</description>
-      <pubDate>Thu, 28 Aug 2025 09:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26667</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Listed Hong Kong Company, Suntech Holdings, Plans to Include BTC, ETH, BNB, FIL, and Stablecoins in Its Cryptocurrency Investment Portfolio</title>
-      <link>https://www.lookonchain.com/feeds/26666</link>
-      <description>August 28th. As per the announcement from the Hong Kong Stock Exchange, the Hong Kong-listed company Sunlot Holdings Group Limited has issued a supplementary announcement. It is planning to incorporate BTC, ETH, BNB, FIL, and stablecoins (such as USDT and USDC) into its cryptocurrency investment portfolio. It intends to allocate approximately 70 million Hong Kong dollars from its internal financial resources for cryptocurrency trading. Some of the funds have already been used to purchase FIL tokens. Currently, Sunlot Holdings has bought several FIL tokens at a trading price ranging from $2.1 to $2.3 per unit. In addition, Sunlot Holdings has also announced that it will consider using cryptocurrency for payment settlements and disclosed that the proportion of stablecoins in the company&apos;s investment portfolio will not be less than 5%.</description>
-      <pubDate>Thu, 28 Aug 2025 09:00:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26666</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Solana Institutional Holdings Overview: 13 Entities Establish SOL Treasury Reserve, Totaling 8.277 Million Tokens</title>
-      <link>https://www.lookonchain.com/feeds/26665</link>
-      <description>On August 28th, based on Strategic SOL Reserve data, there are currently 13 entities that have set up SOL Treasury Reserves. These entities hold a total of 8.277 million SOL, which accounts for 1.44% of SOL&apos;s current total supply. Among them, approximately 585,000 SOL are staked, with a value of $1.041 billion. The average staking yield is 6.86%, accounting for 0.102% of the total supply. The top entities in terms of holdings are as follows:Sharps Technology (STSS) ranks first. It currently holds 2.14 million SOL, with a value of approximately $460 million. There has been no change in holdings in the past 30 days.Upexi (UPXI) ranks second. It currently holds 2 million SOL, with a value of approximately $400 million. There has been a 15.3% increase in holdings in the past 30 days.DeFi Development Corp (DFDV) ranks third. It currently holds 1.42 million SOL, with a value of approximately $305 million. There has been a 5.2% increase in holdings in the past 30 days.Mercurity Fintec</description>
-      <pubDate>Thu, 28 Aug 2025 08:56:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26665</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
