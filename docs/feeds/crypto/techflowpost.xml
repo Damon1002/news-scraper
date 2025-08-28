@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 13:40:23 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 13:40:23 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 13:52:47 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 13:52:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>美国 GDP 上链细节披露：基于 Chainlink，首批支持 Arbitrum、Avalanche、Base 等公链</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Chainlink 消息，美国 GDP 上链将由 Chainlink 提供支持，该数据每月或每季度更新一次，最初将在十个区块链生态系统中提供。首批支持的链包括：Arbitrum、Avalanche、Base、Botanix、Ethereum、Linea、Mantle、Optimism、Soni...</description>
+      <pubDate>Thu, 28 Aug 2025 13:45:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>美股开盘，道指涨0.09%，标普500指数涨0.05%，纳指涨0.42%</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，Robinhood 上线 TON 现货交易。</description>
       <pubDate>Thu, 28 Aug 2025 11:50:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美股上市公司 Caliber 宣布将设立 LINK 代币战略储备</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Globe Newswire 报道，美国纳斯达克上市房地产资产管理公司 Caliber（NASDAQ: CWD）宣布其董事会正式批准新的数字资产储备策略（DAT Strategy）。该公司计划将部分储备资金用于购买 LINK 代币，并通过质押等方式获取收益。Caliber 同时成立加密货币顾问...</description>
-      <pubDate>Thu, 28 Aug 2025 11:48:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

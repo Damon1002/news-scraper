@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 13:40:23 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 13:40:23 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 13:52:47 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 13:52:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,80 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The U.S. Department of Commerce and Chainlink are partnering to bring U.S. government macroeconomic data on-chain.</title>
+      <link>https://www.lookonchain.com/feeds/26723</link>
+      <description>August 28th. As per official information, the U.S. Department of Commerce is collaborating with Chainlink to place U.S. government macroeconomic data on the blockchain. These novel Chainlink data feeds will safely offer crucial U.S. economic data on the blockchain, encompassing Real Gross Domestic Product (Real GDP), Personal Consumption Expenditures Price Index (PCE Price Index), and Real Final Sales to Private Domestic Purchasers.</description>
+      <pubDate>Thu, 28 Aug 2025 13:48:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26723</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>JPMorgan: Bitcoin Volatility Hits Historic Low, Price Undervalued Compared to Gold</title>
+      <link>https://www.lookonchain.com/feeds/26724</link>
+      <description>August 28th - According to Coindesk, JPMorgan Chase stated in a research report that Bitcoin is considered to be too inexpensive when compared to gold because its volatility has reached a historical low. The report pointed out that Bitcoin&apos;s six-month rolling volatility has decreased from nearly 60% at the start of the year to approximately 30% currently, which constitutes a new low. With volatility approaching that of gold, Bitcoin&apos;s current volatility is only twice that of gold, also representing the lowest ratio in history. JPMorgan Chase believes that this makes Bitcoin increasingly appealing to institutional portfolios.Based on volatility-adjusted calculations, Bitcoin&apos;s market capitalization would need to increase by 13%, with a price of around $126,000, in order to be in line with gold&apos;s $5 trillion private investment scale. According to the bank&apos;s model, Bitcoin is currently undervalued by approximately $16,000 compared to gold, indicating potential upward movement.</description>
+      <pubDate>Thu, 28 Aug 2025 13:48:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26724</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>The U.S. is planning to put GDP data on the blockchain, aiming to span across 9 blockchains</title>
+      <link>https://www.lookonchain.com/feeds/26722</link>
+      <description>On August 28th, as reported by Bloomberg, the United States intends to place GDP on the blockchain and aims to cover 9 blockchain networks.</description>
+      <pubDate>Thu, 28 Aug 2025 13:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26722</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>U.S. Data Strength Puts Pressure on Rate Cut Expectations</title>
+      <link>https://www.lookonchain.com/feeds/26721</link>
+      <description>August 28th. The price of U.S. short-term Treasury bonds witnessed a slight downward movement. This was because the strong U.S. economic growth and employment data somewhat weakened the market&apos;s perception that the Federal Reserve would cut interest rates twice by the end of the year. The U.S. second-quarter economic growth rate was revised from 3% to 3.3%, surpassing the expectations of economists. After the release of this data, the yields on two to five-year U.S. Treasury bonds increased by at least two basis points to reach a daily high. Meanwhile, the initial jobless claims experienced a greater-than-expected decline, which is a significant signal for the labor market.Sudra Rajappa, the U.S. Rate Strategist at Natixis, stated, &quot;The data continues to indicate that despite trade uncertainties, consumers still maintain resilience.&quot; Rajappa pointed out that the front end of the U.S. Treasury yield curve is experiencing a &quot;tug-of-war&quot; regarding whether the Fed should cut rates in Sep</description>
+      <pubDate>Thu, 28 Aug 2025 13:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26721</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>「Brother Big V」 Huang Lizheng currently holds a long position in ETH worth 96 million US dollars, with a floating loss of approximately 380,000 US dollars.</title>
       <link>https://www.lookonchain.com/feeds/26720</link>
       <description>On August 28th, according to the monitoring of HyperInsight accessible via https://app.hyperliquid.xyz/join/NTOD, &quot;Big Brother Whale&quot; Huang Licheng currently holds 20,899 long positions of ETH, which are worth $96 million and have an unrealized loss of approximately $380,000. The opening price was $4,615.73 and the liquidation price was $2,725.4.</description>
-      <pubDate>Thu, 28 Aug 2025 13:33:29 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 13:32:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26720</guid>
       <category>crypto</category>
@@ -37,7 +107,7 @@
       <title>Federal Reserve Board Member Cook Sues Trump, Protesting His Dismissal of Her Fed Position</title>
       <link>https://www.lookonchain.com/feeds/26719</link>
       <description>August 28th: Based on market information, Federal Reserve Governor Lisa Cook has filed a lawsuit against US President Trump to object to his dismissal of her from the Federal Reserve post. (FXStreet)</description>
-      <pubDate>Thu, 28 Aug 2025 13:24:29 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 13:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26719</guid>
       <category>crypto</category>
@@ -54,7 +124,7 @@
       <title>CRO Surges Over 61% in 24 Hours, Currently Trading at $0.377</title>
       <link>https://www.lookonchain.com/feeds/26718</link>
       <description>On August 28th, based on market data, CRO surged by more than 61% in the past 24 hours and is currently trading at $0.377.BlockBeats previously reported that on August 26th, Yorkville Acquisition Corp, Trump Media &amp; Technology Group, and Crypto.com announced that the three parties had signed a definitive agreement to merge and form Trump Media Group CRO Strategy, Inc., a digital asset treasury company focused on acquiring the native cryptocurrency (CRO) of the Cronos ecosystem. The expected composition of the digital asset treasury includes: $1 billion in CRO, $200 million in cash, $220 million in cash-settled mandatory convertible notes, and a $5 billion equity commitment from the Yorkville-affiliated entity YA II PN, Ltd. This structure will make it the first and largest publicly traded CRO treasury company.</description>
-      <pubDate>Thu, 28 Aug 2025 13:24:29 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 13:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26718</guid>
       <category>crypto</category>
@@ -72,7 +142,7 @@
       <title>IMF: Market Still Trusts Fed Independence, But Real Risks Should Not Be Ignored</title>
       <link>https://www.lookonchain.com/feeds/26717</link>
       <description>August 28th. During this week earlier on, US President Trump made an attempt to remove Fed Governor Powell. This has raised concerns regarding the government&apos;s reshaping of the Fed&apos;s leadership and the push for rate cuts. The First Deputy Managing Director of the IMF, Georgieva, commented on the relatively calm market by stating: &quot;Obviously, the market still has faith in the Fed&apos;s independence in setting monetary policy rates. In particular, operational independence is expected to be preserved. I think the actual situation is more worrying than what the market is currently demonstrating at present, but we still need to wait and observe.&quot; (FXStreet)</description>
-      <pubDate>Thu, 28 Aug 2025 13:16:29 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 13:16:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26717</guid>
       <category>crypto</category>
@@ -89,7 +159,7 @@
       <title>Binance CEO: The Core of the Cryptocurrency Industry in the Next Decade Lies in User Adoption</title>
       <link>https://www.lookonchain.com/feeds/26716</link>
       <description>On August 28th, Richard Teng, the CEO of Binance, stated, &quot;In the coming decade, the core of the crypto industry is user adoption. We are moving from &apos;whether to adopt&apos; to &apos;how to adopt&apos;, and this transformation is occurring on a large scale.&quot;</description>
-      <pubDate>Thu, 28 Aug 2025 13:16:29 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 13:15:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26716</guid>
       <category>crypto</category>
@@ -103,46 +173,10 @@
 
     </item>
     <item>
-      <title>aPriori has raised $20 million in funding, with participation from Pantera Capital.</title>
-      <link>https://www.lookonchain.com/feeds/26714</link>
-      <description>On August 28th, as reported by Coindesk, the cryptocurrency exchange infrastructure startup aPriori has successfully completed a new funding round of $20 million. HashKey Capital, Pantera Capital, Primitive Ventures, IMC Trading, GEM, Gate Labs, Ambush Capital, and Big Brain Collective have participated in the investment. To date, the company has raised a total of $30 million. The company employs high-frequency trading in an attempt to address many issues that are plaguing the crypto market, such as large spreads and Miner Extractable Value (MEV) front-running.</description>
-      <pubDate>Thu, 28 Aug 2025 13:08:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26714</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Falcon Finance Establishes Onchain Insurance Fund, with Initial $10 Million Investment</title>
-      <link>https://www.lookonchain.com/feeds/26713</link>
-      <description>On August 28th, the Synthetic USD protocol Falcon Finance announced the establishment of an Onchain Insurance Fund. The purpose of this is to enhance transparency, strengthen risk management, and provide protection for counterparties and institutional partners that interact with the protocol through structured coverage.The fund has an initial contribution of $10 million USD. Falcon Finance has selected USD 1 as the first reserve currency, and will add other assets in the future. At the same time, a portion of the protocol&apos;s fees will also be injected into the insurance fund to ensure that the fund expands along with the development of the Falcon ecosystem, thereby providing sustainable long-term protection for the ecosystem.</description>
-      <pubDate>Thu, 28 Aug 2025 13:08:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26713</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Binance Enhances Trading Service with Addition of Liquidity Provider Aggregation</title>
       <link>https://www.lookonchain.com/feeds/26715</link>
       <description>On August 28th, as per official information, Binance has completed the full upgrade of its trading services, which now incorporates a Liquidity Provider Aggregation feature.This service aggregates over-the-counter quotes from the largest liquidity provider network in the industry for both spot and options. It focuses on internalizing order flow in order to reduce market impact, thereby offering tighter spreads, faster execution, and more competitive quotes for large cryptocurrency trades.</description>
-      <pubDate>Thu, 28 Aug 2025 13:08:29 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2025 13:08:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26715</guid>
       <category>crypto</category>
@@ -153,41 +187,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bio Protocol: AUBRAI Staking Now Live</title>
-      <link>https://www.lookonchain.com/feeds/26712</link>
-      <description>August 28th, Bio Protocol made an announcement. The first BioAgent Launch project, AUBRAI staking, has been initiated. Stakers will obtain BioXP in the subsequent BioAgent and IP-Token sale.Furthermore, users who purchased more than 50% of AUBRAI during the previous two weeks&apos; Ignition Sale will be locked in the &quot;BioXP Prison&quot; for three weeks, and they will not receive BioXP during this period.</description>
-      <pubDate>Thu, 28 Aug 2025 13:00:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26712</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Four. Meme: The Creditlink (CDL) presale, which lasted 4 hours, raised 60 million USD1 and 1.1 million FORM, setting a new record for presale amount on the BNB Chain.</title>
-      <link>https://www.lookonchain.com/feeds/26711</link>
-      <description>August 28th. As per official channels, the decentralized identity and credit project Creditlink (CDL) has commenced its presale on the Four.Meme platform. In the initial 4 hours, it has raised around 60 million USD1 and 1.1 million FORM. This has set a new record for the presale amount on the BNB Chain. Creditlink is dedicated to establishing an AI-driven on-chain identity verification and credit scoring system, guiding Web3 finance towards the path of uncollateralized and inclusive finance.</description>
-      <pubDate>Thu, 28 Aug 2025 12:56:29 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26711</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
