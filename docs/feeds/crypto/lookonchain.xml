@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 08:31:42 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 08:31:42 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 08:50:32 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 08:50:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,50 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Binance Wallet Openledger&apos;s inaugural Booster event has started, with a participation threshold of 61 points.</title>
-      <link>https://www.lookonchain.com/feeds/26841</link>
-      <description>On August 29th, according to official information, Binance Wallet announced that the first Booster event of Openledger has commenced. This event will distribute a total of 2 million OPEN tokens as airdrop rewards. The participation requirement is that users must possess 61 or more Alpha points.Binance Wallet indicated that the reward tokens for this event have a lock-up period, and the unlock date will be determined by the project team and may not be disclosed in advance. Please understand the relevant restrictions before participating in the event.</description>
-      <pubDate>Fri, 29 Aug 2025 08:24:49 +0000</pubDate>
+      <title>[Sell the HYPE and Long ETH Whale] Nearly half an hour stop loss resulted in a $1.26 billion liquidation of long positions</title>
+      <link>https://www.lookonchain.com/feeds/26845</link>
+      <description>August 29th: As per Infura, with the price of ETH getting close to the liquidation price of the [Sell the Hype, Long the ETH Whale] position. In an effort to avoid liquidation, the whale has already sold 28,959 ETH ($126 million) in the market within the past half an hour.After reducing the position, the whale still maintains a long position of 57,800 ETH ($251 million), and the liquidation price has decreased to $4,233.</description>
+      <pubDate>Fri, 29 Aug 2025 08:48:40 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26841</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26845</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance will suspend Conflux Network (CFX) token deposits and withdrawals on September 1st to support its network upgrade and hard fork.</title>
+      <link>https://www.lookonchain.com/feeds/26844</link>
+      <description>Update, August 29: As per an official communication, Binance is anticipated to halt token deposits and withdrawals for the Conflux Network (CFX) on September 1 at 08:03 (UTC+8) in order to support its network upgrade and hard fork. This measure is being taken to offer users a more enhanced experience.The project team is set to carry out the network upgrade and hard fork at block height 129,680,000.</description>
+      <pubDate>Fri, 29 Aug 2025 08:40:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26844</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>GoldTech Holdings has completed a HKD 2.65 billion new share placement financing, which will be used to explore Risk-Weighted Assets (RWA) applications and develop new blockchain businesses.</title>
+      <link>https://www.lookonchain.com/feeds/26843</link>
+      <description>On August 29th, the Hong Kong-listed company Crystal International Group Limited (02228.HK) successfully completed a new share placement with a pricing of HKD 2.65 billion. The placement price was set at HKD 9.28 per share, which represents a premium of approximately 75.8% compared to the IPO price. According to the announcement, in addition to being used for company operations, product development, and mergers and acquisitions, the funds will also be utilized to explore innovative financial instruments such as Real World Assets (RWA) and Real Data Assets (RDA), and to conduct research and development on new blockchain businesses. (Securities Times)</description>
+      <pubDate>Fri, 29 Aug 2025 08:32:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26843</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +72,7 @@
       <title>XPL &quot;Price Manipulator&quot; Claims $38 Million Profit Was an &quot;Accident Due to Sleep Deprivation&quot;</title>
       <link>https://www.lookonchain.com/feeds/26842</link>
       <description>On August 29th, according to the tweet screenshot of on-chain analyst Ai Yi (@ai_9684xtpa), XPL &quot;price manipulator&quot; @Techno_Revenant once posted that the sudden surge in the XPL price was actually due to an accident caused by lack of sleep. @Techno_Revenant claimed to be a novice in contract trading. This was only his 5th contract operation, but he accidentally made a profit of around 38 million USD. The detailed process is as follows:1. After Hyperliquid launched XPL, he spent more than two days accumulating long positions worth around 30 million USD and gradually scaled in through a strategy of buying $44,000 per order.2. Early on August 27th, he planned to finish his position after adding the final 5 million USD. However, because he was too sleepy, he accidentally increased the order speed by 10 times, changing the order size from $44,000 per order to $444,000 per order.3. Due to the poor depth of HL, the large orders instantly caused a sharp rise in XPL, resulting in more tha</description>
-      <pubDate>Fri, 29 Aug 2025 08:24:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 08:24:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26842</guid>
       <category>crypto</category>
@@ -50,10 +88,27 @@
 
     </item>
     <item>
+      <title>Binance Wallet Openledger&apos;s inaugural Booster event has started, with a participation threshold of 61 points.</title>
+      <link>https://www.lookonchain.com/feeds/26841</link>
+      <description>On August 29th, according to official information, Binance Wallet announced that the first Booster event of Openledger has commenced. This event will distribute a total of 2 million OPEN tokens as airdrop rewards. The participation requirement is that users must possess 61 or more Alpha points.Binance Wallet indicated that the reward tokens for this event have a lock-up period, and the unlock date will be determined by the project team and may not be disclosed in advance. Please understand the relevant restrictions before participating in the event.</description>
+      <pubDate>Fri, 29 Aug 2025 08:24:40 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26841</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Hillhouse Capital&apos;s Chairman, Zhang Lei, and YZi Labs&apos; CEO engaged in a Fireside Chat at the BNB Chain Fifth Anniversary Celebration Event</title>
       <link>https://www.lookonchain.com/feeds/26840</link>
       <description>On August 29th, during the BNB Chain fifth-anniversary celebration event held in Hong Kong, Ella Zhang, the CEO of YZi Labs, and Xu Yanqing, the chairwoman of the board of directors of Huaxing Capital and the wife of Huaxing Capital&apos;s founder Bao Fan, engaged in a fireside chat with the theme &quot;BNB Meets Wall Street, Initiating a New Era of Institutional Adoption.&quot;They delved into topics such as &quot;The Outlook for Institutional Acceleration of Cryptographic Technology,&quot; &quot;BNB Chain&apos;s positioning as the preferred infrastructure for RWA issuance,&quot; and &quot;TradFi × Web3 Integration.&quot;Public information shows that Xu Yanqing currently serves as the chairwoman of the board of directors and executive director of Huaxing Capital Holdings Limited, responsible for group strategic planning, wealth management business, and emerging market expansion. Xu Yanqing is married to Bao Fan. After Bao Fan resigned from all positions at Huaxing Capital in February 2024, Xu Yanqing was transferred from a non-ex</description>
-      <pubDate>Fri, 29 Aug 2025 08:16:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 08:16:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26840</guid>
       <category>crypto</category>
@@ -70,7 +125,7 @@
       <title>Eric Trump: Bitcoin Will Definitely Reach $1 Million, Everyone Is Buying Bitcoin</title>
       <link>https://www.lookonchain.com/feeds/26839</link>
       <description>On August 29th, as per Bitcoin Magazine, Eric Trump, the son of former US President Donald Trump, declared at the BITCOIN ASIA 2025 conference: &quot;There is no uncertainty that Bitcoin will attain $1 million. Everyone is engaging in the purchase of Bitcoin.&quot;</description>
-      <pubDate>Fri, 29 Aug 2025 08:08:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 08:08:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26839</guid>
       <category>crypto</category>
@@ -90,7 +145,7 @@
       <title>Bitcoin briefly dropped below $110,000, with a nearly 1.2% price decline in the past hour.</title>
       <link>https://www.lookonchain.com/feeds/26838</link>
       <description>On August 29th, based on HTX market data, Bitcoin briefly dipped below $110,000 and is currently trading at $109,976, with a nearly 1-hour decline of 1.2%.</description>
-      <pubDate>Fri, 29 Aug 2025 08:00:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 08:00:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26838</guid>
       <category>crypto</category>
@@ -110,7 +165,7 @@
       <title>Analyst: LINEA Token Airdrop May Open for Claiming on September 10</title>
       <link>https://www.lookonchain.com/feeds/26837</link>
       <description>On August 29th, on-chain analyst Zack posted that through the code analysis of the suspected subdomain (linea.build/hub/airdrop) on the official website Linea Hub, it is scheduled that the LINEA token airdrop will open for claiming on September 10th.Furthermore, Zack stated that the LINEA token is being cross-chain transferred from the Ethereum mainnet to the Linea Network, and currently 90% of the circulating token supply is on Linea.Zack also reminded users that the relevant token and website have not received official confirmation and advised users not to interact with them or connect any wallets.</description>
-      <pubDate>Fri, 29 Aug 2025 07:56:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 07:57:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26837</guid>
       <category>crypto</category>
@@ -127,7 +182,7 @@
       <title>Mantle(@Mantle_Official) has surpassed $4B in treasury assets, making it the top-ranked treasury in the market.</title>
       <link>https://www.lookonchain.com/feeds/26836</link>
       <description>Mantle(@Mantle_Official) has surpassed $4B in treasury assets, making it the top-ranked treasury in the market.</description>
-      <pubDate>Fri, 29 Aug 2025 07:51:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 07:51:40 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26836</guid>
       <category>crypto</category>
@@ -139,63 +194,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Long Liquidation on the Verge of Collapse After [Sell the HYPE and Long ETH Whale] Move, with Unrealized Loss Reaching a High of $19.27 Million</title>
-      <link>https://www.lookonchain.com/feeds/26835</link>
-      <description>On August 29th, according to Ashes Monitor, the long position of Ethereum held by [Whale Selling after HYPE and Opening a Long Position] is on the verge of liquidation. Currently, its ETH long position is facing an unrealized loss of up to $19.27 million.Its long position of 86,800 ETH ($380 million) has a liquidation price of $4,344, and the current ETH price is already at $4,386, just a little short of $50.</description>
-      <pubDate>Fri, 29 Aug 2025 07:48:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26835</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum ICO Participation Address Awakens After Over a Decade of Dormancy, Achieving an Overall Return of 14,177x</title>
-      <link>https://www.lookonchain.com/feeds/26834</link>
-      <description>On August 29th, as per the monitoring of LookOnChain, a participant in the #Ethereum ICO with the address &quot;0x42D3&quot; has just carried out a test transfer of 0.01 ETH. This participant had been silent for more than a decade. He had only invested $49 in the ICO and received 158 ETH. Currently, the value of 158 ETH is $694,000, with a return of 14,177 times.</description>
-      <pubDate>Fri, 29 Aug 2025 07:48:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26834</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha: CeluvPlay (CELB) Airdrop Threshold 220 Points, First Come First Served</title>
-      <link>https://www.lookonchain.com/feeds/26833</link>
-      <description>August 29th. According to the official announcement, trading of CeluvPlay (CELB) will begin on August 29, 2025, at 17:00 (UTC + 8). After the start of trading, users who hold at least 220 Alpha Points can claim a 3,200 CELB token airdrop. The first come, first served principle applies. If the event is not yet completed, the points threshold will automatically decrease by 15 points every hour.</description>
-      <pubDate>Fri, 29 Aug 2025 07:32:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26833</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
