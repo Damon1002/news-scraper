@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 13:15:17 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 13:15:17 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 13:40:43 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 13:40:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,85 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>U.S. July Consumer Spending and Inflation Rise Together, but Weak Jobs Data May Pave the Way for Fed Rate Cut</title>
-      <link>https://www.lookonchain.com/feeds/26887</link>
-      <description>August 29th: In July, U.S. consumer spending demonstrated a solid growth. Meanwhile, the core PCE witnessed a slight upward trend as the prices of some goods rose due to import tariffs. Nevertheless, against the backdrop of the softening labor market conditions, these data might not prevent the Fed from cutting interest rates next month. The low unemployment rate is sustaining steady wage growth, which provides support for consumption.However, President Trump&apos;s imposition of tariffs on imported goods is elevating business costs, intensifying corporate caution and causing employers to be reluctant to increase hiring. Government reports this month indicated that during the past three months up to July, employment has been increasing at an average rate of 35,000 people per month, in contrast to 123,000 people during the same period in 2024. (FXStreet)</description>
-      <pubDate>Fri, 29 Aug 2025 12:56:25 +0000</pubDate>
+      <title>Bitcoin Withdrawal Trend Reversal, 24-hour Net Outflow of 17,940.48 BTC from CEX</title>
+      <link>https://www.lookonchain.com/feeds/26892</link>
+      <description>On August 29th, according to Coinglass data, during the past 24 hours, the total net outflow of BTC from CEXs was 17,940.48 BTC. The top three CEXs with the largest outflow amounts are as follows:· Kraken, with an outflow of 16,859.07 BTC;· Coinbase Pro, with an outflow of 1,914.07 BTC;· Binance, with an outflow of 551.76 BTC.In addition, Bitfinex had an inflow of 884.28 BTC, ranking first in the inflow list.</description>
+      <pubDate>Fri, 29 Aug 2025 13:24:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26887</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26892</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>US PCE Continues to Exceed Target, Fed Faces Challenges Ahead of September Rate Cut</title>
+      <link>https://www.lookonchain.com/feeds/26891</link>
+      <description>On August 29th, Market analyst Matt Grossman stated that the inflation gauge that the Federal Reserve favors did not approach the 2% target level in July, emphasizing the policy challenge that the Fed is facing as it prepares for a possible rate cut in September. Data from the US Commerce Department&apos;s Bureau of Economic Analysis showed that the US PCE Price Index increased by 2.6% year-on-year in July, remaining the same as the previous month.The core PCE Price Index rose by 2.9% year-on-year in July, which is higher than June&apos;s 2.8%. This reading was widely anticipated as economists could very accurately predict PCE inflation using other official data released earlier this month. While some price increases driven by tariffs continue to exceed the target level, Fed Chairman Powell previously hinted that considering the cooling labor market, the Fed is considering implementing the first rate cut of the year in September. (FXStreet)</description>
+      <pubDate>Fri, 29 Aug 2025 13:24:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26891</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Pudgy Penguins is entering the mobile gaming space with the launch of a new battle royale party game called Pudgy Party.</title>
+      <link>https://www.lookonchain.com/feeds/26890</link>
+      <description>August 29th — It was announced on Friday by the well-known NFT brand Pudgy Penguins about the global launch of the Web3 mobile game Pudgy Party in collaboration with the developer of FIFA Rivals, Mythical Games. Pudgy Party is a light-hearted party battle royale game set in a fast-paced mini-game world where all the in-game characters are made up of the iconic Pudgy Penguins imagery. Each character has unique features, abilities, and personalities. Every match is designed to be fresh and unpredictable, with rotating challenges and unexpected twists to ensure that no two parties are the same.Players can customize their penguin characters by using outfits, emotes, and collectibles. Some of these are non-tradable, while others are limited edition and can be traded on Mythical&apos;s marketplace. Players can also mint, upgrade, and fuse rare items on Mythical&apos;s EVM-compatible Polkadot parallel chain, Mythos Chain, and turn them into NFTs.</description>
+      <pubDate>Fri, 29 Aug 2025 13:16:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26890</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Ethereum Falls Below $4400</title>
+      <link>https://www.lookonchain.com/feeds/26889</link>
+      <description>On August 29th, according to HTX market data, Ethereum fell below $4400, experiencing a 24-hour decline of 4.34%.</description>
+      <pubDate>Fri, 29 Aug 2025 13:16:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26889</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Tether Updates Old Blockchain Transition Plan: Will Not Freeze Smart Contracts on the Network</title>
+      <link>https://www.lookonchain.com/feeds/26888</link>
+      <description>August 29th. Stablecoin issuer Tether declared today an update regarding its transition plan for five legacy blockchains, namely Omni Layer, Bitcoin Cash SLP, Kusama, EOS, and Algorand. More than a year ago, Tether announced its intention to halt the redemption and freezing of USDT tokens on these legacy blockchains starting from September 1, 2025, with a gradual phasing out of support.In response to feedback from the discontinued blockchain communities, Tether has adjusted this approach and will not freeze smart contracts on these networks. Although users can still transfer tokens between wallets, Tether will discontinue the direct issuance and redemption of tokens on these blockchains. This indicates that these tokens will no longer receive official support like other Tether tokens. Tether remains dedicated to a smooth transition and will continue to cooperate with the community to ensure transparency and clarity throughout the entire process.</description>
+      <pubDate>Fri, 29 Aug 2025 12:56:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26888</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -33,12 +106,12 @@
 
     </item>
     <item>
-      <title>Tether Updates Old Blockchain Transition Plan: Will Not Freeze Smart Contracts on the Network</title>
-      <link>https://www.lookonchain.com/feeds/26888</link>
-      <description>August 29th. Stablecoin issuer Tether declared today an update regarding its transition plan for five legacy blockchains, namely Omni Layer, Bitcoin Cash SLP, Kusama, EOS, and Algorand. More than a year ago, Tether announced its intention to halt the redemption and freezing of USDT tokens on these legacy blockchains starting from September 1, 2025, with a gradual phasing out of support.In response to feedback from the discontinued blockchain communities, Tether has adjusted this approach and will not freeze smart contracts on these networks. Although users can still transfer tokens between wallets, Tether will discontinue the direct issuance and redemption of tokens on these blockchains. This indicates that these tokens will no longer receive official support like other Tether tokens. Tether remains dedicated to a smooth transition and will continue to cooperate with the community to ensure transparency and clarity throughout the entire process.</description>
-      <pubDate>Fri, 29 Aug 2025 12:56:25 +0000</pubDate>
+      <title>U.S. July Consumer Spending and Inflation Rise Together, but Weak Jobs Data May Pave the Way for Fed Rate Cut</title>
+      <link>https://www.lookonchain.com/feeds/26887</link>
+      <description>August 29th: In July, U.S. consumer spending demonstrated a solid growth. Meanwhile, the core PCE witnessed a slight upward trend as the prices of some goods rose due to import tariffs. Nevertheless, against the backdrop of the softening labor market conditions, these data might not prevent the Fed from cutting interest rates next month. The low unemployment rate is sustaining steady wage growth, which provides support for consumption.However, President Trump&apos;s imposition of tariffs on imported goods is elevating business costs, intensifying corporate caution and causing employers to be reluctant to increase hiring. Government reports this month indicated that during the past three months up to July, employment has been increasing at an average rate of 35,000 people per month, in contrast to 123,000 people during the same period in 2024. (FXStreet)</description>
+      <pubDate>Fri, 29 Aug 2025 12:56:50 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26888</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26887</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -55,7 +128,7 @@
       <title>After the release of the US PCE data, traders still expect the Fed to cut interest rates in September.</title>
       <link>https://www.lookonchain.com/feeds/26886</link>
       <description>August 29th: After the release of the U.S. PCE economic data, short-term interest rate futures reduced their earlier losses; traders still anticipate that the Fed will implement a rate cut in September.The current probability of a 25-basis-point rate cut by the Fed in September is currently 85.3%, and the probability of maintaining the current rate is 14.7%.</description>
-      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:40:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26886</guid>
       <category>crypto</category>
@@ -72,7 +145,7 @@
       <title>U.S. Personal Spending in July Recorded a Monthly Rate of 0.5%, Reaching a New High Since March 2025</title>
       <link>https://www.lookonchain.com/feeds/26885</link>
       <description>On August 29th, the U.S. Personal Spending M/M for July was reported at 0.5%, which met the anticipated value of 0.50%. The previous figure was revised from 0.30% to 0.4%, reaching a new high since March 2025. (FXStreet)</description>
-      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:40:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26885</guid>
       <category>crypto</category>
@@ -89,7 +162,7 @@
       <title>S&amp;P 500 Index Futures, Nasdaq 100 Index Futures both saw a decline following the release of PCE data</title>
       <link>https://www.lookonchain.com/feeds/26884</link>
       <description>On August 29th, both S&amp;P 500 Index Futures and Nasdaq 100 Index Futures experienced a decline following the release of PCE data. (Golden Ten)</description>
-      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:40:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26884</guid>
       <category>crypto</category>
@@ -106,7 +179,7 @@
       <title>LookOnChain: Ethereum Surges Above $4400</title>
       <link>https://www.lookonchain.com/feeds/26883</link>
       <description>On August 29th, according to HTX market data, Ethereum witnessed a rebound and managed to break through $4400. The 24-hour decrease was narrowed to 3.88%.</description>
-      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:40:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26883</guid>
       <category>crypto</category>
@@ -119,77 +192,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The US core PCE price index for July recorded a 2.9% year-on-year increase, in line with expectations.</title>
-      <link>https://www.lookonchain.com/feeds/26882</link>
-      <description>On August 29th, the year-on-year rate of the US July Core PCE Price Index was 2.9%, reaching a new high since February 2025. The expected value was 2.90%, with a previous value of 2.80%. (FX168)</description>
-      <pubDate>Fri, 29 Aug 2025 12:32:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26882</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Point of View: Ethereum Price Action Shows Weakness But Has Not Peaked Yet, Merely in a Seasonal Trend</title>
-      <link>https://www.lookonchain.com/feeds/26881</link>
-      <description>On August 29th, trader CoinMamba made a post stating, &quot;The market appears to be a bit weak. However, when I took another look at the ETH chart, in my view, we have not yet reached the peak. We are merely going through a normal seasonal trend.&quot;BlockBeats had previously reported that on August 26th, Matrixport said, &quot;Most of the institutional funds during summer have exited. But Ethereum continues to attract inflows, while Bitcoin ETF may experience net outflows for the fifth consecutive month. The outflow this month is estimated to be around $1.2 billion, which is the second-highest in history, only next to February&apos;s $3.5 billion. Seasonal factors may be temporary, but they remind us that fund flows are as important as seasonality. After maintaining a bullish stance in July, we became cautious in August. Although macro and liquidity factors may still support Bitcoin, the current market still needs to remain vigilant.&quot;</description>
-      <pubDate>Fri, 29 Aug 2025 12:24:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26881</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>The Federal Reserve maintains neutrality regarding Trump&apos;s attempt to dismiss Powell, only urging the judge to make a prompt ruling.</title>
-      <link>https://www.lookonchain.com/feeds/26880</link>
-      <description>On August 29th, a Politico reporter stated that the Federal Reserve had no stance on Trump&apos;s attempt to fire Lise Kudlow. It only requested the judge to issue a ruling as soon as possible and pledged to abide by that ruling. (Xinhua News)</description>
-      <pubDate>Fri, 29 Aug 2025 12:16:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26880</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Aave-backed Horizon RWA Market Launches with Nearly $50 Million TVL on First Day</title>
-      <link>https://www.lookonchain.com/feeds/26879</link>
-      <description>On August 29th, according to Sentora, on the very first day of the market launch of Aave-backed Horizon RWA, the TVL neared nearly $50 million. And more than $5 million had already been borrowed based on tokenized government bonds and CLOs.</description>
-      <pubDate>Fri, 29 Aug 2025 12:14:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26879</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
