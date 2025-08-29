@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 10:55:56 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 10:55:56 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 11:17:57 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 11:17:57 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>佛罗里达州退休基金披露将 8000 万美元配置于 Strategy 股票</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 The Bitcoin Historian 披露，规模达 2050 亿美元的佛罗里达州退休基金披露向Strategy （MSTR）配置8000万美元。</description>
+      <pubDate>Fri, 29 Aug 2025 11:10:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安合约将下架 LEVER U本位永续合约</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安合约将于2025年09月03日17:00（东八区时间）对LEVERUSDT U本位永续合约进行自动清算，并将在清算结束后下架上述U本位永续合约交易对。建议用户在停止交易前自行平仓，以避免头寸自动清算；自2025年09月03日16:30（东八区时间）起，用户将无法在上述U本位永续合约...</description>
+      <pubDate>Fri, 29 Aug 2025 11:02:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>BiyaPay分析师：WLFI现货交易即将开启，0.3美元成社区主流预期</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 BiyaPay 分析师，随着币安合约上 WLFI 自底部反弹，社区普遍预期开盘价格在0.3美元附近。按照此前解锁规则，0.015美元和0.05美元的早期投资者在开盘即可解锁20%，对应收益如下：0.015美元投资者，开盘可获利约4倍，含未解锁总浮盈达20倍；0.05美元投资者，开盘可获利约1....</description>
+      <pubDate>Fri, 29 Aug 2025 11:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>8 月以太坊链上交易量突破 3200 亿美元，创近4年新高</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，币安预计将于2025年09月01日08:03（东八区时间）暂停Conflux Network（CFX）网络的代币充值、提现业务，以支持其网络升级及硬分叉。项目方预计将于区块高度129,680,000进行网络升级及硬分叉。</description>
       <pubDate>Fri, 29 Aug 2025 08:36:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>晶泰控股完成 26.5 亿港元新股配售融资，将探索应用 RWA 和研发区块链新业务</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据智通财经报道，晶泰控股发布公告称与配售代理订立配售协议，拟通过配售代理配售最多约2.86亿股配售股份。根据公告，该资金除用于公司运营与产品研发、并购外，还将探索应用RWA(真实世界资产)及RDA(真实数据资产)等创新金融工具，研发区块链新业务。同日，晶泰控股便宣布圆满完成26.5亿港元新股配售定...</description>
-      <pubDate>Fri, 29 Aug 2025 08:30:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>BTIP-105 提案进入社区评审阶段</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，BTIP-105提案现已进入社区评审阶段，该提案创新性提出基于代理的架构模型与专用上传路由机制，将显著提升文件上传系统的可靠性与跨网络可访问性，特别针对企业NAT穿透及防火墙受限环境提供突破性解决方案。本提案的落实将推进分布式存储网络的演进，打造下一代高性能存储基础设施。</description>
-      <pubDate>Fri, 29 Aug 2025 08:21:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安： Openledger Booster 活动已开启，参与门槛为 61 Alpha 积分</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告币安钱包宣布 Openledger 的首期 Booster 活动已开启，活动将瓜分 200 万枚 OPEN 代币空投奖励。参与门槛为用户需拥有 61 分及以上币安 Alpha 积分。币安钱包表示，该活动奖励代币设有锁定期，解锁日期由项目方决定，可能不会提前公开，参与活动前请了解相关限制。</description>
-      <pubDate>Fri, 29 Aug 2025 08:16:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
