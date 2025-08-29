@@ -5,14 +5,80 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 05:58:08 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 05:58:08 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 06:37:38 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 06:37:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>BTC跌破111000美元，24小时跌幅为1.73%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX行情显示，BTC跌破111000美元，现报111000美元，24小时跌幅为1.73%。</description>
+      <pubDate>Fri, 29 Aug 2025 06:29:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安合约页面疑似出现宕机，无法实时更新数据</title>
+      <link>https://www.techflowpost.com</link>
+      <description>社区反映，币安合约界面疑似出现宕机，无法实时更新数据。</description>
+      <pubDate>Fri, 29 Aug 2025 06:27:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安：Dexlab（XLAB）空投第一阶段门槛为254分</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安 Alpha 将于 2025 年 8 月 29 日 15:00（UTC+8）上线 Dexlab（XLAB）。 符合条件的币安用户可使用币安 Alpha 积分，在 Alpha 活动页面于交易开始后 24 小时内申领 1,500,000 个 XLAB 代币空投。币安 Alpha 空投将...</description>
+      <pubDate>Fri, 29 Aug 2025 06:19:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安：每位用户Plasma USDT认购限额提高至 50,000 USDT</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，币安宣布将认购 Plasma USDT 锁仓产品的每用户限额提高至 50,000 USDT，现有认购额度不受影响。已认购 10,000 USDT 的用户可以增加认购额度。此外，本次之后不再提供新的批次认购，也不会增加总认购限额。</description>
+      <pubDate>Fri, 29 Aug 2025 06:08:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>香港OSL交易所上半年财报：总收入达1.954亿港元，同比增长58%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据The Block报道，香港加密货币交易所OSL集团发布2025年上半年财报。数据显示，公司总收入达1.954亿港元（约2510万美元），同比增长58%。其中，今年4月推出的OSL Pay贡献收入5590万港元，占比29%。然而，由于全球扩张导致人员成本增加，公司运营亏损同比扩大至2030万港元...</description>
+      <pubDate>Fri, 29 Aug 2025 06:06:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>分析：预计比特币将涨至19万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据CoinDesk报道，Tiger Research最新研报显示，比特币价格有望在2025年第三季度达到19万美元，较当前11.3万美元水平上涨约67%。该预测基于三大驱动因素：全球流动性创纪录、ETF结构性需求增长，以及美国401(k)退休账户开放加密货币投资。目前机构持仓显著，ETF共持有13...</description>
+      <pubDate>Fri, 29 Aug 2025 06:03:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Upbit 24 小时交易量排行：PYTH、CRO、SOL 位居前三</title>
       <link>https://www.techflowpost.com</link>
@@ -216,72 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师余烬监测，「操纵 XPL 清算获利 3877 万的巨鲸」通过 15 个地址 1 倍做多 XPL，仓位总价值 3100 万美元，浮盈约 1000 万美元，平均开仓价约 0.7 美元。其近两天陆续把操纵 XPL 清算获利资金跨链分散到了 20+ 地址，然后部分地址重新进入 Hyperliq...</description>
       <pubDate>Fri, 29 Aug 2025 02:10:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某新建钱包从 Binance 提取了 408,557 枚 UNI ，价值 400 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某新建钱包从 Binance 提取了 408,557 枚 UNI ，价值 400 万美元 。</description>
-      <pubDate>Fri, 29 Aug 2025 02:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>操纵XPL地址或将进一步加仓做多，目前仓位价值 90.3 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，四个地址向 Hyperliquid 存入 1000 万枚 USDC，做多 XPL，资金来源与8月27日套保狙击事件相关。分析显示，这些地址仅用 20-30% 的保证金开出了价值 90.3 万美元的多头仓位，预计将进一步加仓。</description>
-      <pubDate>Fri, 29 Aug 2025 02:01:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>国泰君安国际开盘涨超 15%，现报 5.94 港元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>此前消息，国泰君安国际上线加密货币交易服务，支持 BTC、ETH、SOL 等代币。</description>
-      <pubDate>Fri, 29 Aug 2025 01:57:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Coinbase 成为比特币矿企主要贷款方</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据彭博社报道，Coinbase Global Inc. 正成为美国比特币矿工的重要贷款方。该公司已向多个矿业公司（如 Riot Platforms、CleanSpark 和 Hut 8）提供数亿美元的信贷，填补了2022年大多数加密贷款机构倒闭后留下的空白。</description>
-      <pubDate>Fri, 29 Aug 2025 01:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>XPL盘前合约差价持续：Hyperliquid暂报1.01美元，币安暂报0.79美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>行情显示，XPL盘前合约过去24上涨近50%，Hyperliquid暂报1.01美元，币安暂报0.79美元。</description>
-      <pubDate>Fri, 29 Aug 2025 01:09:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Frax创始人将担任区块链项目Stable首席技术官</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Frax Finance 创始人 Sam Kazemian 发文表示，将加入区块链项目 Stable 担任首席技术官，同时将继续担任 Frax 首席执行官。Stable 是为稳定币构建的机构级区块链。</description>
-      <pubDate>Fri, 29 Aug 2025 01:01:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
