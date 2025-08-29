@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 12:37:57 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 12:37:57 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 13:15:17 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 13:15:17 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,119 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>U.S. July Consumer Spending and Inflation Rise Together, but Weak Jobs Data May Pave the Way for Fed Rate Cut</title>
+      <link>https://www.lookonchain.com/feeds/26887</link>
+      <description>August 29th: In July, U.S. consumer spending demonstrated a solid growth. Meanwhile, the core PCE witnessed a slight upward trend as the prices of some goods rose due to import tariffs. Nevertheless, against the backdrop of the softening labor market conditions, these data might not prevent the Fed from cutting interest rates next month. The low unemployment rate is sustaining steady wage growth, which provides support for consumption.However, President Trump&apos;s imposition of tariffs on imported goods is elevating business costs, intensifying corporate caution and causing employers to be reluctant to increase hiring. Government reports this month indicated that during the past three months up to July, employment has been increasing at an average rate of 35,000 people per month, in contrast to 123,000 people during the same period in 2024. (FXStreet)</description>
+      <pubDate>Fri, 29 Aug 2025 12:56:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26887</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Tether Updates Old Blockchain Transition Plan: Will Not Freeze Smart Contracts on the Network</title>
+      <link>https://www.lookonchain.com/feeds/26888</link>
+      <description>August 29th. Stablecoin issuer Tether declared today an update regarding its transition plan for five legacy blockchains, namely Omni Layer, Bitcoin Cash SLP, Kusama, EOS, and Algorand. More than a year ago, Tether announced its intention to halt the redemption and freezing of USDT tokens on these legacy blockchains starting from September 1, 2025, with a gradual phasing out of support.In response to feedback from the discontinued blockchain communities, Tether has adjusted this approach and will not freeze smart contracts on these networks. Although users can still transfer tokens between wallets, Tether will discontinue the direct issuance and redemption of tokens on these blockchains. This indicates that these tokens will no longer receive official support like other Tether tokens. Tether remains dedicated to a smooth transition and will continue to cooperate with the community to ensure transparency and clarity throughout the entire process.</description>
+      <pubDate>Fri, 29 Aug 2025 12:56:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26888</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>After the release of the US PCE data, traders still expect the Fed to cut interest rates in September.</title>
+      <link>https://www.lookonchain.com/feeds/26886</link>
+      <description>August 29th: After the release of the U.S. PCE economic data, short-term interest rate futures reduced their earlier losses; traders still anticipate that the Fed will implement a rate cut in September.The current probability of a 25-basis-point rate cut by the Fed in September is currently 85.3%, and the probability of maintaining the current rate is 14.7%.</description>
+      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26886</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>U.S. Personal Spending in July Recorded a Monthly Rate of 0.5%, Reaching a New High Since March 2025</title>
+      <link>https://www.lookonchain.com/feeds/26885</link>
+      <description>On August 29th, the U.S. Personal Spending M/M for July was reported at 0.5%, which met the anticipated value of 0.50%. The previous figure was revised from 0.30% to 0.4%, reaching a new high since March 2025. (FXStreet)</description>
+      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26885</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>S&amp;P 500 Index Futures, Nasdaq 100 Index Futures both saw a decline following the release of PCE data</title>
+      <link>https://www.lookonchain.com/feeds/26884</link>
+      <description>On August 29th, both S&amp;P 500 Index Futures and Nasdaq 100 Index Futures experienced a decline following the release of PCE data. (Golden Ten)</description>
+      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26884</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Ethereum Surges Above $4400</title>
+      <link>https://www.lookonchain.com/feeds/26883</link>
+      <description>On August 29th, according to HTX market data, Ethereum witnessed a rebound and managed to break through $4400. The 24-hour decrease was narrowed to 3.88%.</description>
+      <pubDate>Fri, 29 Aug 2025 12:40:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26883</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The US core PCE price index for July recorded a 2.9% year-on-year increase, in line with expectations.</title>
       <link>https://www.lookonchain.com/feeds/26882</link>
       <description>On August 29th, the year-on-year rate of the US July Core PCE Price Index was 2.9%, reaching a new high since February 2025. The expected value was 2.90%, with a previous value of 2.80%. (FX168)</description>
-      <pubDate>Fri, 29 Aug 2025 12:32:05 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:32:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26882</guid>
       <category>crypto</category>
@@ -34,7 +143,7 @@
       <title>Point of View: Ethereum Price Action Shows Weakness But Has Not Peaked Yet, Merely in a Seasonal Trend</title>
       <link>https://www.lookonchain.com/feeds/26881</link>
       <description>On August 29th, trader CoinMamba made a post stating, &quot;The market appears to be a bit weak. However, when I took another look at the ETH chart, in my view, we have not yet reached the peak. We are merely going through a normal seasonal trend.&quot;BlockBeats had previously reported that on August 26th, Matrixport said, &quot;Most of the institutional funds during summer have exited. But Ethereum continues to attract inflows, while Bitcoin ETF may experience net outflows for the fifth consecutive month. The outflow this month is estimated to be around $1.2 billion, which is the second-highest in history, only next to February&apos;s $3.5 billion. Seasonal factors may be temporary, but they remind us that fund flows are as important as seasonality. After maintaining a bullish stance in July, we became cautious in August. Although macro and liquidity factors may still support Bitcoin, the current market still needs to remain vigilant.&quot;</description>
-      <pubDate>Fri, 29 Aug 2025 12:25:05 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:24:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26881</guid>
       <category>crypto</category>
@@ -53,7 +162,7 @@
       <title>The Federal Reserve maintains neutrality regarding Trump&apos;s attempt to dismiss Powell, only urging the judge to make a prompt ruling.</title>
       <link>https://www.lookonchain.com/feeds/26880</link>
       <description>On August 29th, a Politico reporter stated that the Federal Reserve had no stance on Trump&apos;s attempt to fire Lise Kudlow. It only requested the judge to issue a ruling as soon as possible and pledged to abide by that ruling. (Xinhua News)</description>
-      <pubDate>Fri, 29 Aug 2025 12:16:05 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:16:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26880</guid>
       <category>crypto</category>
@@ -70,7 +179,7 @@
       <title>Aave-backed Horizon RWA Market Launches with Nearly $50 Million TVL on First Day</title>
       <link>https://www.lookonchain.com/feeds/26879</link>
       <description>On August 29th, according to Sentora, on the very first day of the market launch of Aave-backed Horizon RWA, the TVL neared nearly $50 million. And more than $5 million had already been borrowed based on tokenized government bonds and CLOs.</description>
-      <pubDate>Fri, 29 Aug 2025 12:08:05 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 12:14:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26879</guid>
       <category>crypto</category>
@@ -81,117 +190,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Analysis: Bitcoin Faces Increasing Pressure Below Key Support</title>
-      <link>https://www.lookonchain.com/feeds/26878</link>
-      <description>August 29th: After reaching a brand new all-time high of more than $124,500, Bitcoin remains in a retracement phase and is currently fluctuating around $110,000. Glassnode&apos;s weekly report indicated that as the cost basis of investors over the past six months came under pressure, major buyers are experiencing increasing anxiety. The company stated: &quot;Consequently, any relief rally may encounter resistance because short-term holders are inclined to sell at break-even points.&quot;The asset&apos;s price has fallen below the 1-month and 3-month realized prices, which are currently $115,300 and $113,700 respectively. However, the 6-month realized price ($107,440) is acting as a crucial support level. The so-called &quot;realized price&quot; refers to the average purchase price of coins within a specific time frame and is used to gain insights into investors&apos; positions and market sentiment.CoinDesk Research also pointed out that the realized price for short-term holders is above $108,500, a level from which</description>
-      <pubDate>Fri, 29 Aug 2025 12:01:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26878</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Asseto collaborates with CMS to attend the BNB Chain Fifth Anniversary Celebration, jointly promoting the integration of TradFi and Web3</title>
-      <link>https://www.lookonchain.com/feeds/26877</link>
-      <description>August 29th. During the BNB Chain fifth-anniversary celebration held in Hong Kong today, CZ, the founder of BNB Chain, delivered a speech, highlighting that user adoption, institutional trust, and compliance architecture will be the core driving forces for the next-stage growth of the blockchain.It is worth noting that Gary Zhou, CEO of CMS Asset Management (HK), and Bridget Li, co-founder and CEO of Asseto, appeared on the same stage for the first time. They discussed how institutional-grade financial products can enter the Web3 ecosystem through tokenization. This marks a significant milestone in the deep integration of traditional finance and the crypto-native world.Asseto showcased its core product - CASH+, which is the first derivative token of an Asian asset management USD money market fund issued on the BNB Chain. The underlying assets are managed by CMS and have already been accepted as eligible collateral by multiple DeFi protocols. The joint appearance of CMS and Asseto w</description>
-      <pubDate>Fri, 29 Aug 2025 11:57:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26877</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Crypto KOL 0xsun spent 30 ETH to purchase 807,301 Block coins.</title>
-      <link>https://www.lookonchain.com/feeds/26876</link>
-      <description>On August 29th, as per the monitoring of LookOnChain, Smart Money and crypto KOL 0xsun spent 30 ETH (approximately $13.38 million) to purchase 807,301 Block tokens today. Previously, 0xSun had achieved a profit of over $24 million with TRUMP.Earlier, 0xsun posted on social media, stating, &quot;WLFI is about to open. After examining the on-chain WLFI/USD1 concept and discussing this topic with a few friends a few days ago, I chose to buy BlockStreet first. Founder Matthew Morgan is not only an advisor to WLFI, responsible for partnerships and marketing, but also serves as the Chief Investment Officer of WLFI&apos;s coin stock company ALT5.BlockStreet happens to be an incubator and launchpad for the WLFI/USD1 ecosystem, and Matt&apos;s position can offer a significant advantage, making it a good entry point.&quot;</description>
-      <pubDate>Fri, 29 Aug 2025 11:49:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26876</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>OVERTAKE will launch a &quot;Transaction Activity&quot; aimed at rewarding TAKE holders who participate in staking and trading.</title>
-      <link>https://www.lookonchain.com/feeds/26875</link>
-      <description>August 29th. As per official information, the game asset trading platform OVERTAKE is set to launch a &quot;Trading Event&quot; to offer rewards to participating TAKE holders who stake and trade. The event commencement time is 10:00 AM (UTC) on August 29th, 2025.Users are required to stake TAKE in order to participate in this event. The trading event is based on the buy + sell volume on PancakeSwap, and the rankings are determined by the total USD trading volume. The event will distribute 100,000 TAKE each week, and the top 100 traders will receive the same reward. The rewards will be sent to the staked Sui wallet within 7 days after the end of each week.The officials declared that this trading event is intended to strengthen the TAKE ecosystem on PancakeSwap, reward loyal community members who participate in staking and trading, and enhance the inclusivity of rewards by evenly distributing rewards among hundreds of participants.</description>
-      <pubDate>Fri, 29 Aug 2025 11:49:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26875</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 134,900 ETH in the Past 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/26874</link>
-      <description>On August 29th, according to Coinglass data, within the past 24 hours, the total net outflow of ETH from CEXs was 134,900 ETH. The top three exchanges with the largest outflows are as follows:· Binance, with an outflow of 113,700 ETH;· Bybit, with an outflow of 27,800 ETH;· Bithumb, with an outflow of 3,123.70 ETH.In addition, OKX witnessed an inflow of 5,594.47 ETH and ranked first in the inflow list.</description>
-      <pubDate>Fri, 29 Aug 2025 11:40:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26874</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Influencer @0xSunNFT spent 30 $ETH($133.8K) to buy 807,301 $Block today.</title>
-      <link>https://www.lookonchain.com/feeds/26873</link>
-      <description>Influencer @0xSunNFT spent 30 $ETH($133.8K) to buy 807,301 $Block today. 0xSun once made over $24M in profit from $TRUMP.</description>
-      <pubDate>Fri, 29 Aug 2025 11:37:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26873</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
