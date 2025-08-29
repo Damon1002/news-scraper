@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 06:54:41 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 06:54:41 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 07:18:08 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 07:18:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,140 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>In July, a whale/institutional investor holding 30.03 million FORM tokens transferred 8 million tokens to a CEX in less than 1 hour, realizing a total unrealized gain of $28.82 million.</title>
+      <link>https://www.lookonchain.com/feeds/26828</link>
+      <description>On August 29th, as per Cinder Monitor, this whale/institution had amassed a total of 30.03 million FORM (equivalent to 82.82 million). The average price at which they accumulated was $2.76 in early July.Today, nearly two months later, they began to move to CEX: in the past 1 hour, they transferred 8 million FORM (amounting to 29.80 million USD) to CEX, with 5 million going to Binance and 3 million to Gate.The current price of FORM has now reached $3.72. The 30.03 million FORM they accumulated in early July has already generated a profit of 28.82 million USD. There are still 22.03 million FORM (valued at 79.75 million USD) in their address.</description>
+      <pubDate>Fri, 29 Aug 2025 07:17:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26828</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin drops below $110,000, the mainstream CEX long liquidation pressure will reach $735 million.</title>
+      <link>https://www.lookonchain.com/feeds/26826</link>
+      <description>On August 29th, according to Coinglass data, if Bitcoin drops below $110,000, the cumulative intensity of long liquidation on mainstream CEXs will reach 735 million.Conversely, if Bitcoin surpasses $112,000, the cumulative intensity of short liquidation on mainstream CEXs will only be 102 million.BlockBeats Note: The liquidation chart does not accurately depict the number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, intensity.Therefore, the liquidation chart shows to what extent the asset price reaching a certain point will be impacted. A higher &quot;liquidation bar&quot; indicates that the price reaching that level will trigger a more intense reaction due to a liquidity avalanche.</description>
+      <pubDate>Fri, 29 Aug 2025 07:17:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26826</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum briefly dropped below $4,400, with a nearly 1.17% decrease in the past hour.</title>
+      <link>https://www.lookonchain.com/feeds/26827</link>
+      <description>On August 29th, according to HTX market data, Ethereum briefly fell below $4400 and is currently trading at $4405.84, experiencing a nearly 1% decrease in the past hour.</description>
+      <pubDate>Fri, 29 Aug 2025 07:17:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26827</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance: Issue Impacting Futures Trading Resolved, Trading Now Fully Resumed</title>
+      <link>https://www.lookonchain.com/feeds/26825</link>
+      <description>On August 29th, Binance made an announcement stating that the issue that was affecting futures trading has been addressed. All trading has now resumed in its entirety.Based on community statistics, the duration of the downtime for futures trading this time was approximately 21 minutes. Binance has not yet provided the reason for the downtime.</description>
+      <pubDate>Fri, 29 Aug 2025 07:08:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26825</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Matrixport September Outlook: Bitcoin Consolidation Expected to Continue for 2-3 Weeks Until New Catalyst Drives Price Movement</title>
+      <link>https://www.lookonchain.com/feeds/26824</link>
+      <description>August 29th. Matrixport presented the September market outlook, indicating that Bitcoin is currently in a stage where technical and macro factors are intermingled. The rare decline in August and the typically poor seasonal performance in September. This month will witness key events such as non-farm payroll data, CPI, and the Fed&apos;s interest rate meeting, which further increase uncertainty. Even if the Fed decides to cut interest rates, the market may not necessarily witness the expected rebound.Currently, Bitcoin is fluctuating in a crucial range at the boundary between the bullish and bearish sides, and most investors are choosing to wait and see. The key issue to be addressed next is whether this round of volatility is merely a period of consolidation or a precursor to a trend reversal. Bitcoin&apos;s consolidation phase is expected to continue for another 2-3 weeks until new catalytic factors drive price movements. Since August, Bitcoin has dropped by 3.9%, which is significantly lower</description>
+      <pubDate>Fri, 29 Aug 2025 07:00:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26824</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>CryptoQuant Analyst: Crypto Market Cycle Slowing Down, Anticipates Upward Trend in Fall 2025</title>
+      <link>https://www.lookonchain.com/feeds/26823</link>
+      <description>On August 29th, the CryptoQuant analyst Crypto Dan stated that the cryptocurrency market cycle is decelerating and is expected to have an uptrend in the fall of 2025. When looking at the proportion of Bitcoin held for more than one year (based on realized cap), in the past cycles (first stage and second stage), the market experienced a significant surge and reached its peak. However, in the current stage (third stage), the slope of the uptrend is gradually becoming gentle and the cycle is also getting longer.</description>
+      <pubDate>Fri, 29 Aug 2025 06:56:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26823</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Four.meme Introduces Reward Program Update, Enhancing Point Earning Incentives</title>
+      <link>https://www.lookonchain.com/feeds/26822</link>
+      <description>August 29th. The Four.meme platform rolled out an update to its points program to ensure more equitable and motivating point acquisition. The rules were optimized as follows:Buy and Hold - At the launch on PancakeSwap, only the top 20 holders were eligible to claim points (with a limit of 1 claim per day).Liquidity Pool - The daily trading volume threshold was increased from $100 to $250.Point Creation - Daily creation rewards were eliminated.</description>
+      <pubDate>Fri, 29 Aug 2025 06:56:15 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26822</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Renowned trader TechnoRevenant holds a long position in XPL worth approximately $31.1 million, representing 35.5% of Hyperliquid&apos;s total position.</title>
       <link>https://www.lookonchain.com/feeds/26821</link>
       <description>On August 29th, as per on-chain analyst @mlmabc, the renowned trader TechnoRevenant is maintaining a significant long position in XPL with low leverage on Hyperliquid. Currently, he holds 28,295,963 long contracts of XPL (approximately $31.1 million), which accounts for 35.5% of Hyperliquid&apos;s total open interest ($87.5 million). In addition, he also has $26.534 million of idle funds in USDC on Hyperliquid.It is worth noting that all these positions are leveraged at less than 1x, and he is gradually conducting a TWAP operation instead of making purchases in the market, thereby minimizing the impact on the short-term market.</description>
-      <pubDate>Fri, 29 Aug 2025 06:48:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 06:48:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26821</guid>
       <category>crypto</category>
@@ -35,7 +165,7 @@
       <title>Binance Futures Page Appears to Be Down, Trading Data Is Not Updating in Real Time</title>
       <link>https://www.lookonchain.com/feeds/26820</link>
       <description>August 29th: Based on the information on the official website, Binance Futures might have had a downtime, and the trading data could not be updated in real-time. The official information shows that the futures transfer service has been temporarily suspended.As of the time of this writing, Binance has not yet issued an official response.</description>
-      <pubDate>Fri, 29 Aug 2025 06:40:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 06:40:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26820</guid>
       <category>crypto</category>
@@ -52,7 +182,7 @@
       <title>Bitcoin Falls Below $111,000, 24-hour Decline of 1.54%</title>
       <link>https://www.lookonchain.com/feeds/26819</link>
       <description>On August 29th, Bitcoin fell below $111,000, experiencing a 24-hour decline of 1.54%.</description>
-      <pubDate>Fri, 29 Aug 2025 06:32:49 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 06:32:15 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26819</guid>
       <category>crypto</category>
@@ -66,128 +196,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will list Dexlab (XLAB), with a Phase 1 point threshold of 254 points.</title>
-      <link>https://www.lookonchain.com/feeds/26818</link>
-      <description>August 29th. Binance Alpha is set to launch Dexlab (XLAB), and trading will commence on August 29th, 2025 at 3:00 PM (UTC+8). Eligible users can utilize Alpha Points to claim a 1,500,000 XLAB token airdrop on the Alpha activity page within 24 hours following the start of trading. The airdrop will be distributed in two stages: In Stage 1 (the first 18 hours), users possessing at least 254 Alpha Points are eligible to claim the airdrop. In Stage 2 (the last 6 hours), users holding at least 230 Alpha Points can participate in the second stage of the airdrop on a first-come, first-served basis. If the event is not yet completed, the point threshold will automatically decrease by 15 points per hour.</description>
-      <pubDate>Fri, 29 Aug 2025 06:24:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26818</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Justin Sun: Tron TRX Network Fee Reduced by 60% to Take Effect Today</title>
-      <link>https://www.lookonchain.com/feeds/26817</link>
-      <description>August 29th. Justin Sun, the founder of TRON, stated that on August 26th, the TRON Super Representatives community proposed a 60% reduction in Tron network fees. This constitutes the most substantial fee reduction since the establishment of the Tron network. The proposal has now received approval and will come into effect at 20:00 GMT+8 on Friday, August 29th.Justin Sun holds the following viewpoints regarding this proposal:The fee reduction is a genuine benefit for users. A 60% reduction is a courageous move that most networks are unable to match;The short-term profitability of the TRON network will be impacted, but in the long run, profitability will be enhanced, with a greater number of users and more transactions occurring on the Tron network;In the future, the TRON Super Representatives community will regularly observe network fees on a quarterly basis. They will evaluate the network&apos;s fees based on indicators such as TRX price fluctuations, network usage, future growth ra</description>
-      <pubDate>Fri, 29 Aug 2025 06:24:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26817</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance has announced an increase in the Plasma USDT fixed savings cap for the final round.</title>
-      <link>https://www.lookonchain.com/feeds/26816</link>
-      <description>On August 29th, Binance declared that it will raise the per-user limit for subscribing to the Plasma USDT lock-up product to 50,000 USDT. The existing subscription limits will remain unchanged. Users who have already subscribed 10,000 USDT can increase their subscription amount.It should be noted that there will be no new batch of subscriptions, and the total subscription limit will not be increased.</description>
-      <pubDate>Fri, 29 Aug 2025 06:08:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26816</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>24-Hour Spot Funding Inflow/Outflow Ranking: SOL Net Inflow of $116M, USD1 Net Inflow of $46M</title>
-      <link>https://www.lookonchain.com/feeds/26815</link>
-      <description>On August 29th, based on Coinglass data, the top net inflows of funds in the past 24 hours for crypto spot are as follows:- SOL had a net inflow of $1.16 billion.- USD1 had a net inflow of $46 million.- EUR had a net inflow of $8.6 million.- BNB had a net inflow of $7 million.- W had a net inflow of $4.75 million.The top net outflows of funds for crypto spot are as follows:- BTC had a net outflow of $325 million.- ETH had a net outflow of $252 million.- XRP had a net outflow of $90 million.- CRO had a net outflow of $78 million.- PYTH had a net outflow of $39 million.</description>
-      <pubDate>Fri, 29 Aug 2025 06:00:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26815</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Gate Exchange&apos;s 7-day Net Fund Inflow Surpasses $66.29 Million, Ranking Third Globally</title>
-      <link>https://www.lookonchain.com/feeds/26814</link>
-      <description>On August 29th, based on the data from DefiLlama, Gate&apos;s 7-day net inflow of funds reached $66.29 million, ranking third globally.</description>
-      <pubDate>Fri, 29 Aug 2025 05:53:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26814</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>X Layer On-Chain Meme Coin XDOG Surges by 27.6% in the Last 24 Hours, with a Current Market Cap of $9.3 Million</title>
-      <link>https://www.lookonchain.com/feeds/26813</link>
-      <description>On August 29th, according to GMGN data, the on-chain meme coins on X Layer witnessed an increase. They include:XDOG, which saw a 27.6% price increase in the last 24 hours and currently holds a market value of $9.3 million;DOGSHIT, with an 8.4% price increase in the last 24 hours and currently having a market value of $3.4 million.BlockBeats reminds users that meme coins often lack practical use cases and experience significant price volatility. Therefore, investment should be approached with caution.</description>
-      <pubDate>Fri, 29 Aug 2025 05:53:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26813</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance Hemi Booster Phase 1 Event Rewards are now available for claiming</title>
-      <link>https://www.lookonchain.com/feeds/26812</link>
-      <description>On August 29th, Binance made an announcement that the rewards for the first phase of the Hemi Booster event have become available for claiming.</description>
-      <pubDate>Fri, 29 Aug 2025 05:53:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26812</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>

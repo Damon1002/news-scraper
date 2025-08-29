@@ -5,14 +5,58 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 06:54:41 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 06:54:41 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 07:18:08 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 07:18:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>ETH跌破4400美元，24小时跌幅为3.9%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX行情显示，ETH跌破4400美元，现报4390美元，24小时跌幅为3.9%。</description>
+      <pubDate>Fri, 29 Aug 2025 07:14:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安：所有合约交易现已恢复正常</title>
+      <link>https://www.techflowpost.com</link>
+      <description>币安官方宣布，此前影响 U 本位合约交易的问题已解决，目前 所有合约交易已全面恢复正常运行。</description>
+      <pubDate>Fri, 29 Aug 2025 07:05:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Matrixport：预计盘整行情将延续2-3周，9月不确定性加大</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据Matrix on Target最新周度报告显示，比特币正处于技术面与宏观因素交织的关键阶段。8月以来比特币已下跌3.9%，预计盘整行情将延续2-3周。报告指出，9月将迎来非农就业数据、CPI和美联储议息会议等关键事件，加之9月历来表现不佳（过去十年有四年收跌，平均跌幅2.5%），市场不确定性进...</description>
+      <pubDate>Fri, 29 Aug 2025 07:03:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>币安合约交易和划转功能或已恢复</title>
+      <link>https://www.techflowpost.com</link>
+      <description>此前消息，币安表示目前所有合约交易暂无法进行，正努力解决问题。</description>
+      <pubDate>Fri, 29 Aug 2025 06:56:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>CryptoQuant：加密市场周期延长，预计2025年秋季迎来上涨</title>
       <link>https://www.techflowpost.com</link>
@@ -238,50 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Onchain Lens（@OnchainLens）监测，一位鲸鱼从 FalconX 获得了 73,500 枚 SOL，价值 1565 万美元，并将其用于质押。在过去的两个月里，这位鲸鱼总共从 FalconX 获得了 95,700 枚 SOL（价值 2068 万美元），并将其用于质押。</description>
       <pubDate>Fri, 29 Aug 2025 02:57:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>昨日以太坊现货ETF净流入3963万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Trader T监测，昨日以太坊现货ETF总净流入3963万美元。贝莱德ETHA流入6809万美元，富达FETH流出3345万美元，Bitwise ETHW流出128万美元，灰度Mini ETH流入627万美元。</description>
-      <pubDate>Fri, 29 Aug 2025 02:55:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>昨日比特币现货ETF净流入1.7936亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Trader T监测，昨日比特币现货ETF总净流入1.7936亿美元。贝莱德IBIT流入6419万美元，Ark Invest ARKB流入7981万美元，Bitwise BITB流入2502万美元，富达FBTC流入489万美元，灰度Mini BTC流入545万美元。</description>
-      <pubDate>Fri, 29 Aug 2025 02:52:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Hotcoin热币交易所将于8月29日上线GOATCOIN现货及HEMI合约交易</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方消息，Hotcoin热币交易所将于2025年8月29日上线以下交易对：GOATCOIN/USDT（现货）上线时间：2025年8月29日12:00（UTC+8）GOATCOIN是GoatCoin项目的代币。HEMI/USDT（合约），支持最高50倍杠杆上线时间：2025年8月29日14:00（...</description>
-      <pubDate>Fri, 29 Aug 2025 02:50:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>火币HTX C2C”打击违规商家专项行动“阶段成果公布：清退违规商家57户、冻结保证金31万USDT</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，火币HTX C2C平台自专项行动启动以来，秉持“零容忍、全覆盖、深溯源“的原则，通过智能风控与严格管理双重措施，已取得阶段性成效。数据显示，本次专项行动针对非实名付款、账户风控、低价引流高价、违规拉人等典型违规行为展开处置，共清退违规商家57户，其中30户被永久封禁，27户限制交易功能...</description>
-      <pubDate>Fri, 29 Aug 2025 02:27:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
