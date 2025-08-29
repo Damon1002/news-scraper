@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Aug 2025 23:55:11 +0000</lastBuildDate>
-    <pubDate>Thu, 28 Aug 2025 23:55:11 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 01:25:12 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 01:25:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,134 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Exit of PoS Network Validators Drives Ethereum&apos;s Staking TVL Beyond $30 Billion</title>
-      <link>https://www.lookonchain.com/feeds/26765</link>
-      <description>On August 29th, as reported by The Block, Ethereum&apos;s liquidity restaking protocol has witnessed rapid expansion in recent years. The total locked value across various platforms has reached $30 billion, indicating a substantial shift in validators deploying ETH to obtain rewards. This growth occurs as native ETH staking activities have increased, leading validators to exit traditional staking mechanisms and seek more flexible opportunities.Leading protocols like EtherFi and Eigenpie have captured a significant portion of the market since the start of the year, and this sector continues to exhibit a sustained upward trend through the middle of 2025.</description>
-      <pubDate>Thu, 28 Aug 2025 23:48:18 +0000</pubDate>
+      <title>A whale is attempting to manipulate the XPL price on Hyperliquid to liquidate short positions</title>
+      <link>https://www.lookonchain.com/feeds/26775</link>
+      <description>On August 29th, based on the monitoring of LookOnChain, a whale is making an attempt to manipulate XPL in order to liquidate a short position.During the past three hours, the whale (possibly the same as the previous one) has created 4 wallets and deposited 10 million USDC into Hyperliquid to take a long position in XPL.Earlier reports showed that on August 27th, XPL witnessed a short-term 200% surge on Hyperliquid. At that time, a whale went long and swept the order book within just 1 minute, earning $16 million.</description>
+      <pubDate>Fri, 29 Aug 2025 01:16:20 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26765</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26775</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Kalshi has added support for SOL and Solana-native USDC deposits.</title>
+      <link>https://www.lookonchain.com/feeds/26774</link>
+      <description>August 29th. According to official channels, the prediction market Kalshi announced that it has added support for SOL and Solana-based USDC native deposits.</description>
+      <pubDate>Fri, 29 Aug 2025 01:16:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26774</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Trump Nominates Fed Board Nominee Judy Shelton Hearing Set for September 4th</title>
+      <link>https://www.lookonchain.com/feeds/26773</link>
+      <description>August 29th. The Senate Banking Committee of the Federal Reserve announced that the confirmation hearing for Trump&apos;s nominee for Federal Reserve Governor, Judy Shelton, is slated to take place on September 4th at 10 p.m. Beijing time. (FX678)</description>
+      <pubDate>Fri, 29 Aug 2025 00:56:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26773</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Three wallet addresses deposited a total of 7.49 million USDC to Hyperliquid and went long on XPL with 2x leverage.</title>
+      <link>https://www.lookonchain.com/feeds/26771</link>
+      <description>On August 29th, as per the monitoring of Onchain Lens, three wallets that are likely to be owned by the same entity deposited 7.49 million USDC into Hyperliquid. These wallets took a long position on XPL with 1x leverage and have an outstanding order to increase their XPL position within the next 21 to 23 hours.</description>
+      <pubDate>Fri, 29 Aug 2025 00:48:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26771</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>WLFI Coin Launch Imminent, Ecosystem Coin B (BUILDon) Surges Above $0.7 to Hit All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/26772</link>
+      <description>On August 29th, based on GMGN data, the market capitalization of the BSC-based Meme coin B (BUILDon) has exceeded 700 million USD and reached a historical high. It is currently priced at 0.71 USD, with a 24-hour increase of 23%. The B token is the first USD1 concept coin. Possibly due to the upcoming launch of the WLFI token, B (BUILDon) has shown significant volatility in the past two days.Previously reported by BlockBeats, on July 12th, BUILDon was officially renamed as BUILDON GALAXY, announcing the upcoming launch of the first USD1 ecosystem Launchpad, which will focus on high-quality projects. It will provide rigorous selection and review processes, multi-chain deployment, flexible launches, and continuous market support to inject new impetus into the USD1 ecosystem.BlockBeats reminds users that the market is volatile and token prices are subject to significant fluctuations, so investment should be made with</description>
+      <pubDate>Fri, 29 Aug 2025 00:48:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26772</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Frax Founder Joins Stable as Chief Technology Officer</title>
+      <link>https://www.lookonchain.com/feeds/26770</link>
+      <description>August 29th. Sam Kazemian, the founder of Frax Finance, announced that he has joined the new blockchain project Stable which is centered around Tether&apos;s USDT as the Chief Technology Officer. Meanwhile, he will continue to serve as the CEO of Frax.</description>
+      <pubDate>Fri, 29 Aug 2025 00:40:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26770</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Musk&apos;s X Company Faces Antitrust Lawsuit from Eliza Labs</title>
+      <link>https://www.lookonchain.com/feeds/26769</link>
+      <description>On August 29th, as per Reuters, the software development firm Eliza Labs has filed a lawsuit against Elon Musk&apos;s X Corp. It is claimed that X Corp obtained key technical information from the company before suspending Eliza&apos;s account and launching a mimicking AI product.Eliza, along with its founder and plaintiff Shaw Walters, stated that X induced them to disclose technical details about the AI agent operating on the social platform and compelled developers to pay a high enterprise license fee to keep operating.The lawsuit alleges that X abused its dominance in the social media realm to suppress competitors, violating antitrust laws. Eliza emphasized that its expulsion from the platform was not an editorial decision but a &quot;carefully planned and deceitful&quot; act that harmed the company&apos;s customer relationships and restricted its growth. The case is currently pending in a San Francisco federal court, and representatives of X and Eliza have not yet responded to requests for comment.</description>
+      <pubDate>Fri, 29 Aug 2025 00:32:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26769</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale withdrew 17,836 ETH from OKX, approximately $79.77 million</title>
+      <link>https://www.lookonchain.com/feeds/26768</link>
+      <description>On August 29th, based on ChainInfo, a significant amount of cryptocurrency was withdrawn. Specifically, a whale transferred 17,836 ETH (approximately equivalent to $79.77 million) from OKX within the past 4 hours.</description>
+      <pubDate>Fri, 29 Aug 2025 00:24:20 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26768</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,16 +152,17 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>21Shares Submits Application to SEC to Launch SEI Spot ETF</title>
-      <link>https://www.lookonchain.com/feeds/26764</link>
-      <description>On August 29th, as per official channels, 21Shares has presented an SEI ETF S-1 Registration Statement to the U.S. Securities and Exchange Commission (SEC). In the prospectus, it is stated that they intend to investigate SEI staking.</description>
-      <pubDate>Thu, 28 Aug 2025 23:32:18 +0000</pubDate>
+      <title>FTX&apos;s former law firm Fenwick &amp; West files motion to dismiss aiding FTX in fraud allegation</title>
+      <link>https://www.lookonchain.com/feeds/26767</link>
+      <description>On August 29th, as per Cointelegraph, Fenwick &amp; West LLP, the former law firm of FTX, has submitted a motion to dismiss a lawsuit that accuses the firm of playing a crucial role in the multi-billion-dollar downfall of a cryptocurrency exchange.The law firm pointed out that after two years of litigation, the plaintiff still has not been able to prove that Fenwick &amp; West was aware of its client&apos;s fraudulent activities. The lawsuit was filed in 2023 and listed a number of defendants. The investors claimed that they were aware of FTX&apos;s fraudulent behavior.Fenwick &amp; West firmly maintains that it should be excluded from this dispute. The law firm did not respond immediately to a request for comment.</description>
+      <pubDate>Fri, 29 Aug 2025 00:24:20 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26764</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26767</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,83 +174,12 @@
 
     </item>
     <item>
-      <title>Federal Reserve Governor Waller: Supports Fed 25 Basis Point Rate Cut in September Meeting</title>
-      <link>https://www.lookonchain.com/feeds/26763</link>
-      <description>On August 29th, Federal Reserve Governor Waller expressed that he is in favor of a 25-basis-point rate cut at the Fed&apos;s September meeting and anticipates further cuts within the next 3 to 6 months. He does not think there is a need for a larger rate cut in September unless the August jobs report indicates a considerable economic weakness while still maintaining good inflation control. (FXStreet)</description>
-      <pubDate>Thu, 28 Aug 2025 22:54:18 +0000</pubDate>
+      <title>A new address received 1.48 billion USD worth of ETH from the Kraken hot wallet, and the owner is currently unknown</title>
+      <link>https://www.lookonchain.com/feeds/26766</link>
+      <description>On August 29th, as monitored by Onchain Lens, a fresh wallet address received 329,444 ETH from Kraken&apos;s hot wallet, with an approximate value of 1.48 billion US dollars.As for the owner of this wallet, it has not been confirmed yet and it is possible that it is held by Kraken itself.</description>
+      <pubDate>Fri, 29 Aug 2025 00:24:20 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26763</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve&apos;s Powell Lawyer Says Mortgage Dispute May Be Due to &apos;Typographical Error&apos;</title>
-      <link>https://www.lookonchain.com/feeds/26762</link>
-      <description>August 29th. The attorney representing Federal Reserve Board Governor Lael Brainard contended that the mortgage dispute which led to Trump&apos;s request to fire her might have originated from an &quot;unintentional paperwork mistake.&quot; The aim was to undermine Trump and FHFA Director Mark Calabria&apos;s fraud allegations. The legal team stated that even if there was an error, it was not done with intentional deception and no one was harmed, in line with the legal &quot;substantive&quot; standard.&quot;The possibility exists that Brainard, long before joining the Board, might have mistakenly marked the home&apos;s use in the mortgage application. However, there was neither intent nor a substantive impact. This does not meet the &apos;just cause&apos; necessary for removal.&quot; The attorney wrote in a filing for a temporary restraining order. The legal team also pointed out that Trump and Calabria did not even explicitly claim that Brainard reaped any benefits from the error or that the error was intentional. (Golden Finance)Earl</description>
-      <pubDate>Thu, 28 Aug 2025 18:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26762</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>xAI Launches Efficient Inference Model Grok Code Fast 1</title>
-      <link>https://www.lookonchain.com/feeds/26761</link>
-      <description>August 29th, xAI made an announcement about the launch of the efficient inference model Grok Code Fast 1, which showcased remarkable performance in AI-assisted programming.During the next 7 days, Grok Code Fast 1 will be freely accessible on mainstream AI programming platforms such as Cursor, GitHub Copilot, Cline, opencode, Windsurf, Roo Code, and Kilo Code. (Gold10)</description>
-      <pubDate>Thu, 28 Aug 2025 18:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26761</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitwise: Bitcoin Expected to Reach $1.3 Million by 2035</title>
-      <link>https://www.lookonchain.com/feeds/26760</link>
-      <description>On August 29th, as per Cointelegraph, the cryptocurrency asset management firm Bitwise has presented the latest Bitcoin price prediction. It is estimated that the price of Bitcoin will ascend to $1.3 million by 2035, primarily driven by institutional demand and Bitcoin&apos;s limited supply. This report was released as a part of Bitwise&apos;s &quot;Bitcoin Long-Term Capital Market Assumptions,&quot; forecasting that Bitcoin will attain a 28.3% compound annual growth rate (CAGR) over the next decade, which significantly outpaces traditional assets like stocks (6.2%), bonds (4.0%), and gold (3.8%).In the base case scenario, Bitwise anticipates that Bitcoin will reach $1.3 million by 2035. In the bullish scenario, Bitcoin might soar to $2.97 million (CAGR 39.4%). And in the bearish scenario, it could plummet to $88,005 (CAGR 2%).This price range showcases the notable volatility in the Bitcoin market despite the growing participation of institutions. Bitcoin is no longer a market dominated solely by reta</description>
-      <pubDate>Thu, 28 Aug 2025 17:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26760</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The SEC Delays Decision on Grayscale Ethereum Trust Spot ETF&apos;s Proposal to Add Staking Feature</title>
-      <link>https://www.lookonchain.com/feeds/26759</link>
-      <description>On August 29th, based on market information, the US SEC has postponed a decision regarding the authorization of GrayScale&apos;s Ethereum Trust (ETHE) to incorporate staking functionality.</description>
-      <pubDate>Thu, 28 Aug 2025 17:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26759</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26766</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -138,57 +190,6 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Top 3 Solana IDO Platforms by 24h Market Share: pump.fun, Letsbonk, Believe</title>
-      <link>https://www.lookonchain.com/feeds/26758</link>
-      <description>On August 29th, according to the Jupiter Data Dashboard, within the past 24 hours, in the Solana issuance platform market share ranking, pump.fun holds the top position with 83.4%, Letsbonk comes in second with 6.99%, and Believe takes the third place with 2.43%.</description>
-      <pubDate>Thu, 28 Aug 2025 17:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26758</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The U.S. CFTC has issued guidance on the Foreign Trading Platform Registration Framework, providing regulatory clarity for non-U.S. trading platforms seeking access to the U.S. market.</title>
-      <link>https://www.lookonchain.com/feeds/26757</link>
-      <description>On August 29th, the Market Oversight Department of the U.S. Commodity Futures Trading Commission (CFTC) issued guidance on a Foreign-Based Trading Platform (FBOT) registration framework today. This framework is applicable to non-U.S. entities that are legally formed and operate outside the United States and wish to provide direct trading platform access to individuals located in the United States. The CFTC&apos;s FBOT registration framework is applicable to all markets, regardless of asset class, including traditional and digital asset markets.Acting Chairman Caroline D. Pham stated: &quot;The release of today&apos;s FBOT guidance provides regulatory clarity for those who, due to the &apos;enforcement-based regulation&apos; of the past few years, have left U.S. trading activities and are now seeking a legal return to the United States. By reaffirming the CFTC&apos;s longstanding practices of providing U.S. traders with diverse options to access the world&apos;s deepest and most liquid markets, as well as a wide range</description>
-      <pubDate>Thu, 28 Aug 2025 16:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26757</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The U.S. CFTC will issue guidance clarifying the rules for foreign trading platform registration.</title>
-      <link>https://www.lookonchain.com/feeds/26756</link>
-      <description>On August 29th, Crypto journalist Eleanor Terrett disclosed that the Commodity Futures Trading Commission (CFTC) is scheduled to issue guidance to clarify its Foreign Board of Trade (FBOT) registration rules. This provides a legal avenue for non-U.S. exchanges to enable U.S. users to trade on their platforms. Acting Chairman Caroline D. Pham stated that this is a means to bring crypto activities &quot;back to the U.S.&quot; as such activities had previously flowed out due to enforcement actions during the Biden administration. At the same time, it reaffirms the regulatory framework that has been in place since the 1990s. For U.S. traders, this implies that they can legally access more global liquidity. For the crypto industry, this is another step towards regulatory clarity and is also part of the Trump administration&apos;s &quot;crypto sprint&quot; strategy.</description>
-      <pubDate>Thu, 28 Aug 2025 16:54:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26756</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
