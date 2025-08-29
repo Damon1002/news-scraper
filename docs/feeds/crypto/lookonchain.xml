@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 03:28:30 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 03:28:30 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 03:51:48 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 03:51:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,102 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Matrixport appeared at Bitcoin Asia2025 to discuss how Asian institutions are leading the way in seizing new opportunities in Bitcoin.</title>
+      <link>https://www.lookonchain.com/feeds/26799</link>
+      <description>On August 29th, Matrixport was extended an invitation to attend the Bitcoin Asia Summit and took part in a panel discussion entitled &quot;Asian Institutions Leading the Commencement of a New Bitcoin Era.&quot;During the event, Matrixport&apos;s COO, Cynthia Wu, pointed out that the digital asset investment is undergoing a substantial transformation. An increasing number of investors and corporate treasuries are regarding Bitcoin as a long-term asset allocation. They are continuously accumulating rather than engaging in short-term speculation. ETFs and stock tokens have made it more accessible for the general public to invest in digital assets, significantly reducing the learning curve. In just two years, the combined market value of these two has exceeded $260 billion and is approaching the current market capitalization of stablecoins. It can be anticipated that with the proliferation of stablecoins, the market capitalization of Bitcoin still has the potential to grow tenfold in the coming years.</description>
+      <pubDate>Fri, 29 Aug 2025 03:48:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26799</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>A new address withdrew 9.32 million WLD from Binance, worth $8.85 million</title>
+      <link>https://www.lookonchain.com/feeds/26797</link>
+      <description>August 29th. Based on the monitoring of OnchainLens, a newly established address withdrew 9.32 million WLD from Binance 11 hours ago, with a value of $8.85 million.</description>
+      <pubDate>Fri, 29 Aug 2025 03:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26797</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>XPL on Hyperliquid Continues to Surge, Breaking $1.1 Mark with a 36% Premium Over Binance</title>
+      <link>https://www.lookonchain.com/feeds/26798</link>
+      <description>On August 29th, on Hyperliquid (accessible via https://app.hyperliquid.xyz/join/NTOD), XPL continued to experience a surge and broke through $1.1. The current annualized funding rate stands at an extremely high 254%, with a 36% positive premium compared to $0.808 on Binance.Early yesterday morning, Hyperliquid implemented a new mark price calculation method for pre-market perpetual contracts. The mark price of the contract will utilize the standard mark price formula and be combined with the price of external pre-market perpetual contracts (if available).</description>
+      <pubDate>Fri, 29 Aug 2025 03:40:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26798</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Canadian company Luxxfolio plans to raise $73 million to expand its Litecoin treasury strategy</title>
+      <link>https://www.lookonchain.com/feeds/26795</link>
+      <description>August 29th. As per Decrypt, the Canadian firm Luxxfolio intends to raise $73 million for the expansion of its Litecoin (LTC) treasury strategy. Charlie Lee, the founder of Litecoin, joined its advisory board by the end of June.It is worthy of note that the company reported zero revenue during the second quarter. It had a net loss of $197,000, cash reserves of merely $112,000, and accumulated losses approaching $19 million.</description>
+      <pubDate>Fri, 29 Aug 2025 03:33:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26795</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The 219th Ethereum All Core Developers&apos; Meeting Fusaka Development Net Devnet3 is expected to be finalized today</title>
+      <link>https://www.lookonchain.com/feeds/26796</link>
+      <description>August 29th, Tim Beiko provided a summary of the 219th Ethereum All Core Developers Meeting (ACDE). The key points of this meeting are as follows:The Fusaka development network Devnet 3 is anticipated to be completed by today. The consensus layer team is actively working on resolving synchronization issues. Provided that everything proceeds smoothly, Devnet 5 will be launched.There are arrangements to deprecate Holesky a few weeks after Fusaka becomes active. A public post will be issued to explain the timetable and migration guide.The Gas Limit target is to reach 60 million prior to the Fusaka upgrade.Glamsterdam Update (in future meetings, the discussion on the PFI matter requested by clients will take precedence) and other matters.</description>
+      <pubDate>Fri, 29 Aug 2025 03:33:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26796</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>The Indonesian Web3 platform Hypr has launched a Food &amp; Beverage Investment Exposure based on NFT technology.</title>
       <link>https://www.lookonchain.com/feeds/26794</link>
       <description>On August 29th, as per Techinasia, the Indonesian investment platform Hypr is presenting global investors with the chance to get involved in Indonesia&apos;s local F&amp;B (food and beverage) businesses via profit-sharing investments. Its initial portfolio company is DORé by LeTAO, a Japanese dessert brand renowned for its cheesecakes and having stores in Indonesia. Hypr employs NFT-based smart contracts to safeguard investors&apos; profit-sharing rights. It validates through the ordering system data and distributes profits on a monthly basis. Hypr operates under the supervision of the Indonesian Financial Services Authority (OJK) and holds ISO 27001 and ISO 9001 certifications. By facilitating profit-sharing and smart contracts, Hypr lowers the investment threshold, enabling retail investors to participate in Indonesia&apos;s F&amp;B market, which is projected to surpass $51.5 billion by 2024.</description>
-      <pubDate>Fri, 29 Aug 2025 03:24:37 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 03:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26794</guid>
       <category>crypto</category>
@@ -34,7 +126,7 @@
       <title>Huobi HTX Ranks Third Globally in Cryptocurrency Exchange Platform Comprehensive Strength Ranking</title>
       <link>https://www.lookonchain.com/feeds/26793</link>
       <description>On August 29th, based on the latest data from Aicoin, Huobi HTX has demonstrated remarkable performance in the comprehensive strength ranking of cryptocurrency exchanges and has been steadily ranked third globally. In the spot trading ranking, Huobi HTX&apos;s 24-hour trading volume reached $32.71 billion, surpassing OKX ($30.73 billion) and closely following Binance and Coinbase Pro. In terms of comprehensive strength ranking, Huobi HTX also ranks third, with a 24-hour trading volume of $56.46 billion, demonstrating its core competitiveness among global mainstream exchanges.It is reported that Huobi HTX has recently been continuously strengthening its platform governance, security compliance, and product experience. With innovative mechanisms such as the comprehensive upgrade of the selective station, zero freezes in the C2C section, and 100% full compensation, it has attracted a large number of users and liquidity inflows. This ranking surge reflects Huobi HTX&apos;s steady growth trend in t</description>
-      <pubDate>Fri, 29 Aug 2025 03:24:37 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 03:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26793</guid>
       <category>crypto</category>
@@ -51,7 +143,7 @@
       <title>Grvt will be lifting KYC requirements and offering a $50,000 reward to the first 600 users. The TGE is scheduled to launch in Q1 2026.</title>
       <link>https://www.lookonchain.com/feeds/26792</link>
       <description>August 29th. Based on some user feedback, the decentralized exchange Grvt has now unchained and enhanced the new user registration identity verification experience. The platform has also initiated a $50,000 total new user reward activity.As the industry&apos;s first on-chain trading platform to provide -0.01% maker rebates (negative fees) to retail investors, Grvt enables users to not only enjoy lower trading costs but also receive additional rewards through market-making behavior. The platform is constructed on ZKsync, with a focus on privacy and compliance, and is supported by multiple institutions such as Ampersan, Selini, and QCP.It is reported that its token generation event (TGE) is scheduled to take place in the first quarter of 2026, with 20% of the tokens allocated to the community. Meanwhile, the platform&apos;s Rewards 1.0 incentive program will come to an end in September, with the early user gains being locked, indicating that it is currently the final opportunity to participate</description>
-      <pubDate>Fri, 29 Aug 2025 03:17:37 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 03:17:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26792</guid>
       <category>crypto</category>
@@ -69,7 +161,7 @@
       <title>A whale received 73,500 SOL from FalconX and staked it, with a value of approximately $15.65 million</title>
       <link>https://www.lookonchain.com/feeds/26791</link>
       <description>On August 29th, as per the monitoring of Onchain Lens, a whale received 73,500 SOL from FalconX, which is approximately worth $15.65 million, and then staked it.In the past 2 months, the whale has accumulated a total of 95,700 SOL from FalconX, with a value of approximately $20.68 million, and all of this amount has been staked.</description>
-      <pubDate>Fri, 29 Aug 2025 03:08:37 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 03:08:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26791</guid>
       <category>crypto</category>
@@ -88,7 +180,7 @@
       <title>Roam Super Staking Pool and New Rewards System are about to launch, with rewards shrinking to incentivize users to stake more.</title>
       <link>https://www.lookonchain.com/feeds/26790</link>
       <description>On August 29th, according to official information, Roam is about to launch a Super Staking Pool in order to further boost the earnings of miner users. Rainier MAX60, Baker MAX30, and Genesis will enter an exclusive staking pool, and each device can only stake once for a fixed period of 180 days. Starting from September 1, 2025, the staking pool will be opened in 6 phases on a monthly basis, with the staking limit increasing dynamically each month and supporting automatic restaking to assist users in achieving continuous growth in earnings.At the same time, Roam&apos;s points system will also undergo a significant update, with substantial increases in multiple points rewards. This includes the addition of rewards such as WiFi, daily check-ins, and check-in rewards. For instance, the WiFi reward will be increased to 200 points, the addition of OpenRoaming nodes will be increased to 400 points, and the initial activation reward for the Rainier MAX60 miner will double to 6000 points. The incr</description>
-      <pubDate>Fri, 29 Aug 2025 03:00:37 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 03:00:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26790</guid>
       <category>crypto</category>
@@ -99,98 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LAUNCHCOIN Surges Over 53.4% in 24 Hours, Short-term Market Cap Exceeds $80 Million</title>
-      <link>https://www.lookonchain.com/feeds/26789</link>
-      <description>On August 29th, according to the market data of GMGN, the token LAUNCHCOIN in the Believe ecosystem surged by more than 53.4% in the past 24 hours. Its market capitalization briefly exceeded $80 million and is now at $77 million, with a 24-hour trading volume of $23.1 million.BlockBeats reminds users that meme coins usually lack practical use cases and show significant price volatility. Therefore, investment should be made with caution.</description>
-      <pubDate>Fri, 29 Aug 2025 02:57:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26789</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale placed a short limit order for XPL at 2 to 3 US dollars, with the total position value expected to be 3.11 million US dollars.</title>
-      <link>https://www.lookonchain.com/feeds/26788</link>
-      <description>On August 29th, as monitored by LookOnChain, the whale address 0x0895 placed a limit order on Hyperliquid. It was expected to open an XPL short position with a price range of $2 to $3, and the total value of the limit order position was $3.11 million. It was waiting for other whales to drive up the price and then take a short position to make a profit.</description>
-      <pubDate>Fri, 29 Aug 2025 02:57:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26788</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A certain Ethereum whale has started offloading their position, depositing 2500 ETH to a centralized exchange (CEX).</title>
-      <link>https://www.lookonchain.com/feeds/26787</link>
-      <description>On August 29th, according to on-chain analyst Auntie Ai (@ai_9684xtpa), after a period of two months, the Ethereum whale address 0x746...D4561 has once again begun to reduce its holdings.From June 10th to July 6th, it withdrew 14,001 ETH from Binance at an average price of $2,563, with a total value of approximately $35.89 million. 45 minutes ago, it deposited 2,500 ETH into the exchange. If sold at the current price, it would result in a profit of $4.76 million. Currently, it still holds 2,625 ETH.</description>
-      <pubDate>Fri, 29 Aug 2025 02:50:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26787</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Hong Kong Stock Exchange: Guotai Junan International&apos;s intraday stock price surged by more than 23%, and its cryptocurrency trading service has officially launched.</title>
-      <link>https://www.lookonchain.com/feeds/26786</link>
-      <description>August 29th. Based on market data, the Hong Kong-listed Cathay Pacific Guosen International (01788.HK) opened with a gain of more than 23% and is currently up 16%, with a trading volume of 4.4 billion Hong Kong dollars. During the day, other cryptocurrency-related stocks strengthened. OSL Group (00863.HK) rose by more than 7.5%, while Huajian Healthcare (01931.HK) and Kingway Investment (01328.HK) both rose by more than 4%.Yesterday, Cathay Pacific Guosen International announced the official launch of cryptocurrency trading services. Clients with cryptocurrency accounts can trade various coins such as BTC, ETH, AVAX, LINK, and SOL. Clients with professional investor qualifications can further choose to trade XRP, USDT, USDC, and other coins. In addition, clients can use the Cathay Pacific Guosen Securities (Hong Kong) securities trading service to allocate idle funds that have not been invested in the cryptocurrency market to the Cathay Pacific Guosen International &quot;Wealth Management</description>
-      <pubDate>Fri, 29 Aug 2025 02:40:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26786</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Sharps Technology to Increase Fundraising to $1 Billion and Launch Digital Asset Treasury Strategy</title>
-      <link>https://www.lookonchain.com/feeds/26785</link>
-      <description>On August 29th, as reported by PRNewswire, the Nasdaq-listed company Sharps Technology announced that the private placement of common stock and warrants had been completed. In this transaction, more than $400 million was raised. If all the warrants are exercised, an additional $600 million can be obtained, making the total fundraising amount reach $1 billion. The new funds will support its digital asset treasury strategy, with the main holding of the treasury being SOL.</description>
-      <pubDate>Fri, 29 Aug 2025 02:32:37 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26785</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
