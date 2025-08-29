@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 14:36:02 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 14:36:02 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 14:48:22 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 14:48:22 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>某巨鲸再次将ETH多仓规模加仓至2.86亿美元，目前清算价4214美元</title>
+      <link>https://www.panewslab.com/zh/articles/5cc5a279-77d1-4311-bd6a-e4a35717ea6b</link>
+      <description>某巨鲸再次将ETH多仓规模加仓至2.86亿美元，目前清算价4214美元</description>
+      <pubDate>Fri, 29 Aug 2025 14:48:22 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5cc5a279-77d1-4311-bd6a-e4a35717ea6b</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>Tron已投票决定将网络手续费降低60%</title>
       <link>https://www.panewslab.com/zh/articles/31897761-bf2a-49ee-bef3-333d7efd0f24</link>
       <description>Tron已投票决定将网络手续费降低60%</description>
-      <pubDate>Fri, 29 Aug 2025 14:36:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:46:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/31897761-bf2a-49ee-bef3-333d7efd0f24</guid>
       <category>crypto</category>
@@ -32,7 +49,7 @@
       <title>以太坊基金会宣布将优化生态支持计划（ESP）的重点领域与实施路径</title>
       <link>https://www.panewslab.com/zh/articles/45f93cc0-bf2b-4b1b-9472-cc84f073d749</link>
       <description>以太坊基金会宣布将优化生态支持计划（ESP）的重点领域与实施路径</description>
-      <pubDate>Fri, 29 Aug 2025 14:34:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:44:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/45f93cc0-bf2b-4b1b-9472-cc84f073d749</guid>
       <category>crypto</category>
@@ -49,7 +66,7 @@
       <title>ETH跌破4300美元，日内下跌 4.64%</title>
       <link>https://www.panewslab.com/zh/articles/np2t8ldp</link>
       <description>ETH跌破4300美元，日内下跌 4.64%</description>
-      <pubDate>Fri, 29 Aug 2025 14:32:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:42:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/np2t8ldp</guid>
       <category>crypto</category>
@@ -66,7 +83,7 @@
       <title>数据：战略Solana储备目前持有约870万枚SOL，价值18亿美元</title>
       <link>https://www.panewslab.com/zh/articles/ffd88e36-df0a-4dab-bc23-f880617fcced</link>
       <description>数据：战略Solana储备目前持有约870万枚SOL，价值18亿美元</description>
-      <pubDate>Fri, 29 Aug 2025 14:30:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:40:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ffd88e36-df0a-4dab-bc23-f880617fcced</guid>
       <category>crypto</category>
@@ -81,7 +98,7 @@
       <title>BTC跌破109000美元，日内下跌 3.34%</title>
       <link>https://www.panewslab.com/zh/articles/b5prpecm</link>
       <description>BTC跌破109000美元，日内下跌 3.34%</description>
-      <pubDate>Fri, 29 Aug 2025 14:28:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:38:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b5prpecm</guid>
       <category>crypto</category>
@@ -98,7 +115,7 @@
       <title>国际商业结算控股拟募资5亿港元，90%将用于探索加密货币投资机会</title>
       <link>https://www.panewslab.com/zh/articles/adac2828-2f93-4218-9c68-adc7d248f649</link>
       <description>国际商业结算控股拟募资5亿港元，90%将用于探索加密货币投资机会</description>
-      <pubDate>Fri, 29 Aug 2025 14:26:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:36:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/adac2828-2f93-4218-9c68-adc7d248f649</guid>
       <category>crypto</category>
@@ -113,7 +130,7 @@
       <title>今日10只比特币ETF净流入1578枚BTC，9只以太坊ETF净流入12489枚ETH</title>
       <link>https://www.panewslab.com/zh/articles/54e4b55f-a03f-4dac-a60c-67bf8269a5ff</link>
       <description>今日10只比特币ETF净流入1578枚BTC，9只以太坊ETF净流入12489枚ETH</description>
-      <pubDate>Fri, 29 Aug 2025 14:24:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:34:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/54e4b55f-a03f-4dac-a60c-67bf8269a5ff</guid>
       <category>crypto</category>
@@ -132,7 +149,7 @@
       <title>报告：今年加密行业已融资超160亿美元，有望打破2021年融资纪录</title>
       <link>https://www.panewslab.com/zh/articles/7e227c2c-fc8a-4df0-bea2-e2ade6d31bb9</link>
       <description>报告：今年加密行业已融资超160亿美元，有望打破2021年融资纪录</description>
-      <pubDate>Fri, 29 Aug 2025 14:22:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:32:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7e227c2c-fc8a-4df0-bea2-e2ade6d31bb9</guid>
       <category>crypto</category>
@@ -147,7 +164,7 @@
       <title>OKX在欧洲推出Wallet与DEX服务</title>
       <link>https://www.panewslab.com/zh/articles/c5ec2405-1703-4de1-9c46-98e27abab1bf</link>
       <description>OKX在欧洲推出Wallet与DEX服务</description>
-      <pubDate>Fri, 29 Aug 2025 14:20:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:30:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c5ec2405-1703-4de1-9c46-98e27abab1bf</guid>
       <category>crypto</category>
@@ -162,7 +179,7 @@
       <title>代币化机构另类基金30天内上涨47%，达到17亿美元</title>
       <link>https://www.panewslab.com/zh/articles/cc40ac59-b49f-439d-8da9-728994a63ac4</link>
       <description>代币化机构另类基金30天内上涨47%，达到17亿美元</description>
-      <pubDate>Fri, 29 Aug 2025 14:18:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:28:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cc40ac59-b49f-439d-8da9-728994a63ac4</guid>
       <category>crypto</category>
@@ -177,7 +194,7 @@
       <title>日本金融厅计划设立新的加密货币和创新部门</title>
       <link>https://www.panewslab.com/zh/articles/22c3ae25-cdfc-4f4a-a3d0-ddc95d4da202</link>
       <description>日本金融厅计划设立新的加密货币和创新部门</description>
-      <pubDate>Fri, 29 Aug 2025 14:16:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:26:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/22c3ae25-cdfc-4f4a-a3d0-ddc95d4da202</guid>
       <category>crypto</category>
@@ -192,7 +209,7 @@
       <title>比特币矿企Cango本周新挖153.2枚BTC，总持仓已达5126.8枚</title>
       <link>https://www.panewslab.com/zh/articles/bbda30c5-f137-461c-9cf9-db8e4fd529be</link>
       <description>比特币矿企Cango本周新挖153.2枚BTC，总持仓已达5126.8枚</description>
-      <pubDate>Fri, 29 Aug 2025 14:14:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:24:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bbda30c5-f137-461c-9cf9-db8e4fd529be</guid>
       <category>crypto</category>
@@ -209,7 +226,7 @@
       <title>NFT品牌Pudgy Penguins进军手机游戏领域，推出Pudgy Party</title>
       <link>https://www.panewslab.com/zh/articles/ea46054e-572a-496a-a342-497b36cb3df0</link>
       <description>NFT品牌Pudgy Penguins进军手机游戏领域，推出Pudgy Party</description>
-      <pubDate>Fri, 29 Aug 2025 14:12:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:22:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ea46054e-572a-496a-a342-497b36cb3df0</guid>
       <category>crypto</category>
@@ -225,7 +242,7 @@
       <title>机构：服务价格与关税推升通胀担忧，美联储降息预期犹存</title>
       <link>https://www.panewslab.com/zh/articles/4de7051f-520f-494e-a40e-4e8fa26faff4</link>
       <description>机构：服务价格与关税推升通胀担忧，美联储降息预期犹存</description>
-      <pubDate>Fri, 29 Aug 2025 14:10:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:20:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4de7051f-520f-494e-a40e-4e8fa26faff4</guid>
       <category>crypto</category>
@@ -240,7 +257,7 @@
       <title>美国7月消费者支出稳健增长，通胀压力持续顽固</title>
       <link>https://www.panewslab.com/zh/articles/166a3790-de8d-42a7-9df6-31d2126e3546</link>
       <description>美国7月消费者支出稳健增长，通胀压力持续顽固</description>
-      <pubDate>Fri, 29 Aug 2025 14:08:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:18:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/166a3790-de8d-42a7-9df6-31d2126e3546</guid>
       <category>crypto</category>
@@ -255,7 +272,7 @@
       <title>美国经济数据公布后，交易员仍预计美联储将于9月降息</title>
       <link>https://www.panewslab.com/zh/articles/7989a819-1f68-4dbb-9321-3b89e9a88f71</link>
       <description>美国经济数据公布后，交易员仍预计美联储将于9月降息</description>
-      <pubDate>Fri, 29 Aug 2025 14:06:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:16:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7989a819-1f68-4dbb-9321-3b89e9a88f71</guid>
       <category>crypto</category>
@@ -270,7 +287,7 @@
       <title>美国7月核心PCE物价指数年率2.9%，为2025年2月以来新高</title>
       <link>https://www.panewslab.com/zh/articles/a1e439c5-16f6-40d2-a85e-80578fd20409</link>
       <description>美国7月核心PCE物价指数年率2.9%，为2025年2月以来新高</description>
-      <pubDate>Fri, 29 Aug 2025 14:04:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:14:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a1e439c5-16f6-40d2-a85e-80578fd20409</guid>
       <category>crypto</category>
@@ -285,7 +302,7 @@
       <title>Tether更新旧版区块链的过渡计划：不会冻结这些网络上的智能合约</title>
       <link>https://www.panewslab.com/zh/articles/ed7d7721-03c8-4c5b-aec9-04b8f8490630</link>
       <description>Tether更新旧版区块链的过渡计划：不会冻结这些网络上的智能合约</description>
-      <pubDate>Fri, 29 Aug 2025 14:02:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:12:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ed7d7721-03c8-4c5b-aec9-04b8f8490630</guid>
       <category>crypto</category>
@@ -302,7 +319,7 @@
       <title>Suzaku完成融资150万美元，用于扩展Avalanche Layer 1去中心化</title>
       <link>https://www.panewslab.com/zh/articles/a9fb9976-9af3-4a9e-a962-2d7b4895e25f</link>
       <description>Suzaku完成融资150万美元，用于扩展Avalanche Layer 1去中心化</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:02 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 14:10:22 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a9fb9976-9af3-4a9e-a962-2d7b4895e25f</guid>
       <category>crypto</category>
@@ -312,21 +329,6 @@
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
       <category>defi</category>
-
-    </item>
-    <item>
-      <title>Bybit推出HYPE盛典质押活动</title>
-      <link>https://www.panewslab.com/zh/articles/23b1ccc7-beb3-4948-a637-07b327062aac</link>
-      <description>Bybit推出HYPE盛典质押活动</description>
-      <pubDate>Fri, 29 Aug 2025 13:58:02 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/23b1ccc7-beb3-4948-a637-07b327062aac</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
