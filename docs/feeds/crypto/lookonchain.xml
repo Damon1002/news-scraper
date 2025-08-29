@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 01:25:12 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 01:25:12 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 02:49:32 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 02:49:32 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,30 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>A whale is attempting to manipulate the XPL price on Hyperliquid to liquidate short positions</title>
-      <link>https://www.lookonchain.com/feeds/26775</link>
-      <description>On August 29th, based on the monitoring of LookOnChain, a whale is making an attempt to manipulate XPL in order to liquidate a short position.During the past three hours, the whale (possibly the same as the previous one) has created 4 wallets and deposited 10 million USDC into Hyperliquid to take a long position in XPL.Earlier reports showed that on August 27th, XPL witnessed a short-term 200% surge on Hyperliquid. At that time, a whale went long and swept the order book within just 1 minute, earning $16 million.</description>
-      <pubDate>Fri, 29 Aug 2025 01:16:20 +0000</pubDate>
+      <title>Hong Kong Stock Exchange: Guotai Junan International&apos;s intraday stock price surged by more than 23%, and its cryptocurrency trading service has officially launched.</title>
+      <link>https://www.lookonchain.com/feeds/26786</link>
+      <description>August 29th. Based on market data, the Hong Kong-listed Cathay Pacific Guosen International (01788.HK) opened with a gain of more than 23% and is currently up 16%, with a trading volume of 4.4 billion Hong Kong dollars. During the day, other cryptocurrency-related stocks strengthened. OSL Group (00863.HK) rose by more than 7.5%, while Huajian Healthcare (01931.HK) and Kingway Investment (01328.HK) both rose by more than 4%.Yesterday, Cathay Pacific Guosen International announced the official launch of cryptocurrency trading services. Clients with cryptocurrency accounts can trade various coins such as BTC, ETH, AVAX, LINK, and SOL. Clients with professional investor qualifications can further choose to trade XRP, USDT, USDC, and other coins. In addition, clients can use the Cathay Pacific Guosen Securities (Hong Kong) securities trading service to allocate idle funds that have not been invested in the cryptocurrency market to the Cathay Pacific Guosen International &quot;Wealth Management</description>
+      <pubDate>Fri, 29 Aug 2025 02:40:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26775</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Kalshi has added support for SOL and Solana-native USDC deposits.</title>
-      <link>https://www.lookonchain.com/feeds/26774</link>
-      <description>August 29th. According to official channels, the prediction market Kalshi announced that it has added support for SOL and Solana-based USDC native deposits.</description>
-      <pubDate>Fri, 29 Aug 2025 01:16:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26774</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26786</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -49,99 +31,12 @@
 
     </item>
     <item>
-      <title>Trump Nominates Fed Board Nominee Judy Shelton Hearing Set for September 4th</title>
-      <link>https://www.lookonchain.com/feeds/26773</link>
-      <description>August 29th. The Senate Banking Committee of the Federal Reserve announced that the confirmation hearing for Trump&apos;s nominee for Federal Reserve Governor, Judy Shelton, is slated to take place on September 4th at 10 p.m. Beijing time. (FX678)</description>
-      <pubDate>Fri, 29 Aug 2025 00:56:20 +0000</pubDate>
+      <title>Ethereum PoS Network Exit Queue Decreases to around 1.058 Million ETH, Entry Queue Increases to around 735,000 ETH</title>
+      <link>https://www.lookonchain.com/feeds/26784</link>
+      <description>On August 29th, according to the data from the Validator Queue tracking website validatorqueue, the current exit queue of the Ethereum PoS network is temporarily reported to be 1,058,531 ETH. Based on the current price, the ETH exiting the PoS network is approximately $47.47 billion, and the withdrawal delay is currently reported as 18 days and 9 hours.At the same time, the demand for staking by new validators has increased. The admission queue for today has risen to 735,126 ETH, which is worth around $32.9 billion, and the current queuing time for admission is 12 days and 18 hours.</description>
+      <pubDate>Fri, 29 Aug 2025 02:32:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26773</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Three wallet addresses deposited a total of 7.49 million USDC to Hyperliquid and went long on XPL with 2x leverage.</title>
-      <link>https://www.lookonchain.com/feeds/26771</link>
-      <description>On August 29th, as per the monitoring of Onchain Lens, three wallets that are likely to be owned by the same entity deposited 7.49 million USDC into Hyperliquid. These wallets took a long position on XPL with 1x leverage and have an outstanding order to increase their XPL position within the next 21 to 23 hours.</description>
-      <pubDate>Fri, 29 Aug 2025 00:48:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26771</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>WLFI Coin Launch Imminent, Ecosystem Coin B (BUILDon) Surges Above $0.7 to Hit All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/26772</link>
-      <description>On August 29th, based on GMGN data, the market capitalization of the BSC-based Meme coin B (BUILDon) has exceeded 700 million USD and reached a historical high. It is currently priced at 0.71 USD, with a 24-hour increase of 23%. The B token is the first USD1 concept coin. Possibly due to the upcoming launch of the WLFI token, B (BUILDon) has shown significant volatility in the past two days.Previously reported by BlockBeats, on July 12th, BUILDon was officially renamed as BUILDON GALAXY, announcing the upcoming launch of the first USD1 ecosystem Launchpad, which will focus on high-quality projects. It will provide rigorous selection and review processes, multi-chain deployment, flexible launches, and continuous market support to inject new impetus into the USD1 ecosystem.BlockBeats reminds users that the market is volatile and token prices are subject to significant fluctuations, so investment should be made with</description>
-      <pubDate>Fri, 29 Aug 2025 00:48:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26772</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Frax Founder Joins Stable as Chief Technology Officer</title>
-      <link>https://www.lookonchain.com/feeds/26770</link>
-      <description>August 29th. Sam Kazemian, the founder of Frax Finance, announced that he has joined the new blockchain project Stable which is centered around Tether&apos;s USDT as the Chief Technology Officer. Meanwhile, he will continue to serve as the CEO of Frax.</description>
-      <pubDate>Fri, 29 Aug 2025 00:40:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26770</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Musk&apos;s X Company Faces Antitrust Lawsuit from Eliza Labs</title>
-      <link>https://www.lookonchain.com/feeds/26769</link>
-      <description>On August 29th, as per Reuters, the software development firm Eliza Labs has filed a lawsuit against Elon Musk&apos;s X Corp. It is claimed that X Corp obtained key technical information from the company before suspending Eliza&apos;s account and launching a mimicking AI product.Eliza, along with its founder and plaintiff Shaw Walters, stated that X induced them to disclose technical details about the AI agent operating on the social platform and compelled developers to pay a high enterprise license fee to keep operating.The lawsuit alleges that X abused its dominance in the social media realm to suppress competitors, violating antitrust laws. Eliza emphasized that its expulsion from the platform was not an editorial decision but a &quot;carefully planned and deceitful&quot; act that harmed the company&apos;s customer relationships and restricted its growth. The case is currently pending in a San Francisco federal court, and representatives of X and Eliza have not yet responded to requests for comment.</description>
-      <pubDate>Fri, 29 Aug 2025 00:32:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26769</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale withdrew 17,836 ETH from OKX, approximately $79.77 million</title>
-      <link>https://www.lookonchain.com/feeds/26768</link>
-      <description>On August 29th, based on ChainInfo, a significant amount of cryptocurrency was withdrawn. Specifically, a whale transferred 17,836 ETH (approximately equivalent to $79.77 million) from OKX within the past 4 hours.</description>
-      <pubDate>Fri, 29 Aug 2025 00:24:20 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26768</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26784</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -152,17 +47,34 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>FTX&apos;s former law firm Fenwick &amp; West files motion to dismiss aiding FTX in fraud allegation</title>
-      <link>https://www.lookonchain.com/feeds/26767</link>
-      <description>On August 29th, as per Cointelegraph, Fenwick &amp; West LLP, the former law firm of FTX, has submitted a motion to dismiss a lawsuit that accuses the firm of playing a crucial role in the multi-billion-dollar downfall of a cryptocurrency exchange.The law firm pointed out that after two years of litigation, the plaintiff still has not been able to prove that Fenwick &amp; West was aware of its client&apos;s fraudulent activities. The lawsuit was filed in 2023 and listed a number of defendants. The investors claimed that they were aware of FTX&apos;s fraudulent behavior.Fenwick &amp; West firmly maintains that it should be excluded from this dispute. The law firm did not respond immediately to a request for comment.</description>
-      <pubDate>Fri, 29 Aug 2025 00:24:20 +0000</pubDate>
+      <title>Sharps Technology to Increase Fundraising to $1 Billion and Launch Digital Asset Treasury Strategy</title>
+      <link>https://www.lookonchain.com/feeds/26785</link>
+      <description>On August 29th, as reported by PRNewswire, the Nasdaq-listed company Sharps Technology announced that the private placement of common stock and warrants had been completed. In this transaction, more than $400 million was raised. If all the warrants are exercised, an additional $600 million can be obtained, making the total fundraising amount reach $1 billion. The new funds will support its digital asset treasury strategy, with the main holding of the treasury being SOL.</description>
+      <pubDate>Fri, 29 Aug 2025 02:32:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26767</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26785</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Crypto Fear &amp; Greed Index currently at 50, indicating a &quot;Neutral&quot; market status</title>
+      <link>https://www.lookonchain.com/feeds/26783</link>
+      <description>On August 29th, based on alternative data, the Fear and Greed Index of cryptocurrencies today is 50 (yesterday it was 48), suggesting that the market remains in a &quot;Neutral&quot; sentiment.Note: The threshold of the Fear Index is 0-100, and it encompasses the following indicators: Volatility (25%) + Market Trading Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s share of the overall market (10%) + Google Trends Analysis (10%).</description>
+      <pubDate>Fri, 29 Aug 2025 02:24:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26783</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -174,12 +86,12 @@
 
     </item>
     <item>
-      <title>A new address received 1.48 billion USD worth of ETH from the Kraken hot wallet, and the owner is currently unknown</title>
-      <link>https://www.lookonchain.com/feeds/26766</link>
-      <description>On August 29th, as monitored by Onchain Lens, a fresh wallet address received 329,444 ETH from Kraken&apos;s hot wallet, with an approximate value of 1.48 billion US dollars.As for the owner of this wallet, it has not been confirmed yet and it is possible that it is held by Kraken itself.</description>
-      <pubDate>Fri, 29 Aug 2025 00:24:20 +0000</pubDate>
+      <title>The Federal Reserve&apos;s probability of a rate cut in September is 83.1%.</title>
+      <link>https://www.lookonchain.com/feeds/26782</link>
+      <description>On August 29th, based on CME&apos;s &quot;FedWatch&quot; data, the likelihood of the Fed keeping interest rates unchanged in September is 16.9%, while the probability of a 25-basis-point interest rate cut is 83.1%.</description>
+      <pubDate>Fri, 29 Aug 2025 02:24:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26766</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26782</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -188,8 +100,99 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Bloomberg Analyst: U.S. Cryptocurrency ETF Registration Applications Now Reach 92</title>
+      <link>https://www.lookonchain.com/feeds/26781</link>
+      <description>On August 29th, Bloomberg ETF analyst James Seyffart declared that currently, there are a grand total of 92 records of cryptocurrency ETP products that are either in the process of being filed or have been applied for in the United States.Note: The SEC had previously made public the listing standards for cryptocurrency ETPs. However, the majority of upcoming cryptocurrency products will adopt an ETF structure.</description>
+      <pubDate>Fri, 29 Aug 2025 02:16:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26781</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>XPL Price Manipulation Nets $38.77 Million in Liquidation Profits, Whale Opens $31 Million XPL Long Position Through 15 Addresses Again</title>
+      <link>https://www.lookonchain.com/feeds/26780</link>
+      <description>On August 29th, according to the monitoring of Delphi Digital, the day before yesterday, a whale achieved a profit of $38.77 million by manipulating XPL liquidation. It has recently been gradually dispersing the profit funds to more than 20 addresses. Subsequently, some of the funds were re-deposited into Hyperliquid to leverage 1x long XPL.Currently, they have opened at least 15 positions with 1x leverage to go long on XPL, with a total position value of $31 million and an average entry price of approximately $0.7.The total combined long and short positions for XPL on Hyperliquid is currently around $80 million, indicating that the vast majority of the XPL long positions are held by this whale.</description>
+      <pubDate>Fri, 29 Aug 2025 02:08:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26780</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>A new address withdrew 408,557 UNI from Binance, worth approximately $4 million</title>
+      <link>https://www.lookonchain.com/feeds/26779</link>
+      <description>On August 29th, as monitored by Onchain Lens, a newly established wallet withdrew 408,557 UNI from Binance, with a value of approximately $4 million.This wallet has not yet withdrawn the ETH needed for transaction fees to facilitate further operations.</description>
+      <pubDate>Fri, 29 Aug 2025 02:08:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26779</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Coinbase Former CTO: Bitcoin Will Replace Real Estate as the Primary Store of Value</title>
+      <link>https://www.lookonchain.com/feeds/26778</link>
+      <description>On August 29th, according to CoinDesk, Balaji Srinivasan, who was formerly the CTO of Coinbase, claimed that Bitcoin will take the place of real estate as the primary means of storing value, and homes and apartments will only be used for practical purposes such as residence.</description>
+      <pubDate>Fri, 29 Aug 2025 01:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26778</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Bloomberg: Coinbase Rapidly Emerging as Bitcoin Miners&apos; Top Lender</title>
+      <link>https://www.lookonchain.com/feeds/26777</link>
+      <description>On August 29th, as reported by Bloomberg, cryptocurrency exchange Coinbase Global Inc. is leading the trend of providing loans to crypto miners by using Bitcoin as collateral for recovery.Coinbase is rapidly emerging as one of the largest lenders to U.S. Bitcoin mining companies. The exchange platform is widely recognized for its trading and custody businesses. However, it has now extended hundreds of millions of dollars in credit to companies like Riot Platforms, CleanSpark, and most recently, Hut 8, filling the gap left by the closure of most crypto lenders in 2022.</description>
+      <pubDate>Fri, 29 Aug 2025 01:48:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26777</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
   </channel>
