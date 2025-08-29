@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 11:30:32 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 11:30:32 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 11:42:54 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 11:42:54 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,86 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 134,900 ETH in the Past 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/26874</link>
+      <description>On August 29th, according to Coinglass data, within the past 24 hours, the total net outflow of ETH from CEXs was 134,900 ETH. The top three exchanges with the largest outflows are as follows:· Binance, with an outflow of 113,700 ETH;· Bybit, with an outflow of 27,800 ETH;· Bithumb, with an outflow of 3,123.70 ETH.In addition, OKX witnessed an inflow of 5,594.47 ETH and ranked first in the inflow list.</description>
+      <pubDate>Fri, 29 Aug 2025 11:40:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26874</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Influencer @0xSunNFT spent 30 $ETH($133.8K) to buy 807,301 $Block today.</title>
+      <link>https://www.lookonchain.com/feeds/26873</link>
+      <description>Influencer @0xSunNFT spent 30 $ETH($133.8K) to buy 807,301 $Block today. 0xSun once made over $24M in profit from $TRUMP.</description>
+      <pubDate>Fri, 29 Aug 2025 11:35:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26873</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Mantle×Bybit Roadmap Released, MNT Utility Upgraded Across the Board</title>
+      <link>https://www.lookonchain.com/feeds/26872</link>
+      <description>August 29th, today. Bybit officially launched the &quot;Mantle × Bybit Roadmap&quot; plan. MNT will be able to support payment platform transaction fees and obtain discounts, with a comprehensive upgrade in multi-scenario utility:Transaction Fee Discount: MNT will gradually support the payment of transaction fees for spot and linear contract products. Users using MNT for settlement will enjoy exclusive fee rate discounts.Multi-Scenario Application: Centering around the four major paths of Buy / Use / Earn / Hold, MNT will gradually be implemented in trading, wealth management, payment, and equity scenarios.Dual-line Empowerment: For institutional and retail users, Bybit will introduce mechanisms such as position thresholds, loan and collateral optimization, and membership benefits to support long-term holding and active trading.Launch Progress: Core functions will be rolled out in batches starting from this quarter, and more details will be announced through subsequent announcements and</description>
+      <pubDate>Fri, 29 Aug 2025 11:33:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26872</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Bitcoin Surges Above $110,000</title>
+      <link>https://www.lookonchain.com/feeds/26871</link>
+      <description>On August 29th, based on HTX market data, Bitcoin experienced a rebound and reached above $110,000. The 24-hour decline was narrowed to 2.59%.</description>
+      <pubDate>Fri, 29 Aug 2025 11:32:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26871</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>LEVER Short-Term Surge Exceeds 120%, Market Cap Rises to $9.28 Million</title>
       <link>https://www.lookonchain.com/feeds/26870</link>
       <description>On August 29th, possibly due to the influence of the &quot;Binance to Delist LEVERUSDT Perpetual Contract&quot; news, LEVER experienced a short-term surge of more than 120%, and its market value reached $9.28 million.</description>
-      <pubDate>Fri, 29 Aug 2025 11:16:40 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 11:16:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26870</guid>
       <category>crypto</category>
@@ -32,10 +108,27 @@
 
     </item>
     <item>
+      <title>Binance Will Delist the LEVERUSDT Perpetual Contract</title>
+      <link>https://www.lookonchain.com/feeds/26869</link>
+      <description>On August 29th, Binance Futures will remove the USD?-M LEVERUSDT perpetual contract from its platform.</description>
+      <pubDate>Fri, 29 Aug 2025 11:09:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26869</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Bybit Web3 is now live with The Bitcoin Mascot (BITTY), and trading is now open.</title>
       <link>https://www.lookonchain.com/feeds/26868</link>
       <description>August 29th. Bybit Web3 has launched The Bitcoin Mascot (BITTY) today and it is now available for trading. Users can directly trade using USDT, USDC, SOL, or BBSOL without the requirement of a wallet or Gas, and can enjoy a fast and seamless on-chain asset experience.Update your Bybit APP to version 5.0.0 or higher to commence your seamless Web3 journey right away.</description>
-      <pubDate>Fri, 29 Aug 2025 11:08:40 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 11:09:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26868</guid>
       <category>crypto</category>
@@ -54,7 +147,7 @@
       <title>Gate has now listed Dexlab (XLAB) for spot trading.</title>
       <link>https://www.lookonchain.com/feeds/26867</link>
       <description>On August 29th, as per an official announcement, Gate initiated Dexlab (XLAB) spot trading on the same day.</description>
-      <pubDate>Fri, 29 Aug 2025 11:08:40 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 11:09:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26867</guid>
       <category>crypto</category>
@@ -71,26 +164,9 @@
       <title>Huobi HTX has launched CRO perpetual contracts and kicked off a contract trading party.</title>
       <link>https://www.lookonchain.com/feeds/26866</link>
       <description>August 29th. As per an official announcement, Huobi HTX launched the CRO/USDT perpetual contract on August 29th, featuring a maximum leverage of 10x. Meanwhile, from August 29th at 17:30 to September 5th at 17:30 (in UTC+8 time zone), Huobi HTX has initiated a CRO contract trading party with a total prize pool of up to $10,000.During this event, users who sign up and engage in CRO/USDT contract trading, with a cumulative valid trading volume ≥$10,000 USDT, will be eligible to share the prize pool according to their trading volume ranking; new contract users participating in CRO/USDT contract trading will also receive exclusive benefits.</description>
-      <pubDate>Fri, 29 Aug 2025 11:08:40 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 11:09:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26866</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Will Delist the LEVERUSDT Perpetual Contract</title>
-      <link>https://www.lookonchain.com/feeds/26869</link>
-      <description>On August 29th, Binance Futures will remove the USD?-M LEVERUSDT perpetual contract from its platform.</description>
-      <pubDate>Fri, 29 Aug 2025 11:08:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26869</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -105,7 +181,7 @@
       <title>BiyaPay Analyst: Official Economic Data On-chain, Oracle Race Welcomes New Opportunities</title>
       <link>https://www.lookonchain.com/feeds/26865</link>
       <description>August 29th: The Department of Commerce of the United States announced that starting from 2025, quarterly GDP data will be published on 9 public blockchains such as Bitcoin, Ethereum, and Solana, etc., and disseminated through Chainlink and the Pyth Network, achieving the first-ever on-chain macroeconomic data. In response to this news, the PYTH token surged by more than 100%, while the LINK token saw a short-term increase of nearly 5%.BiyaPay analysts pointed out that this will enhance data transparency and inject new energy into RWA and DeFi innovation, and the oracle track is expected to develop rapidly.The BiyaPay multi-asset trading wallet will continue to provide users with one-stop services such as global remittances, cryptocurrency trading, and U.S. and Hong Kong stock investments, helping investors remain agile in complex markets.</description>
-      <pubDate>Fri, 29 Aug 2025 11:00:40 +0000</pubDate>
+      <pubDate>Fri, 29 Aug 2025 11:00:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26865</guid>
       <category>crypto</category>
@@ -116,83 +192,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum On-Chain Transaction Volume in August Exceeds $325 Billion, Reaching Highest Level Since May 2021</title>
-      <link>https://www.lookonchain.com/feeds/26864</link>
-      <description>On August 29th, according to The Block, in the month of August, the monthly on-chain transaction volume of the Ethereum network exceeded 320 billion US dollars. This set a new all-time high since May 2021 and was the third-highest monthly transfer volume on record. This transaction volume measures the economic throughput on the Ethereum blockchain, encompassing transfers, DeFi interactions, and other transactions.</description>
-      <pubDate>Fri, 29 Aug 2025 10:56:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26864</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The luxury fashion brand GUCCI has started accepting cryptocurrency payments such as ETH and DOGE at some of its stores in the United States.</title>
-      <link>https://www.lookonchain.com/feeds/26863</link>
-      <description>On August 29th, according to Crypto Rover, the luxury fashion brand Gucci has begun to accept cryptocurrency payments at some of its stores in the United States. These cryptocurrencies include ETH and DOGE.</description>
-      <pubDate>Fri, 29 Aug 2025 10:56:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26863</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>The crypto gaming startup PlaysOut is considering raising $15 million in funding at a $150 million valuation.</title>
-      <link>https://www.lookonchain.com/feeds/26862</link>
-      <description>August 29th. The GameTech startup company PlaysOut is contemplating a fresh round of equity financing. It aims to raise approximately $15 million, and the valuation is anticipated to surpass $150 million. Insiders disclosed that the company has initiated discussions with potential investors. The target investors comprise Middle Eastern sovereign wealth funds and top global venture capital firms. It is reported that PlaysOut intends to utilize the funds obtained from the financing to expedite its commercialization process. (Bloomberg)</description>
-      <pubDate>Fri, 29 Aug 2025 10:48:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26862</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Dutch Bitcoin Treasury Company AMBTS Completes $23.4 Million First Funding Round to Launch Bitcoin Strategic Reserve</title>
-      <link>https://www.lookonchain.com/feeds/26861</link>
-      <description>On August 29th, according to BitcoinTreasuries.NET, the Bitcoin treasury company of Amdax, AMBTS, has successfully completed a first-round fundraising of $23.4 million. This fundraising will be employed to initiate a Bitcoin accumulation strategy.</description>
-      <pubDate>Fri, 29 Aug 2025 10:40:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26861</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
