@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Aug 2025 06:35:40 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Aug 2025 06:35:40 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 06:50:39 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 06:50:39 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>BTC 远古巨鲸过去 1 小时卖出 2000 枚 BTC 并买入 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Lookonchain 监测，高调换仓 ETH 的 BTC 远古巨鲸过去 1 小时累计向 Hyperliquid 存入 2,000 枚 BTC（约合 2.17 亿美元）卖出并买入 ETH 现货。</description>
+      <pubDate>Sat, 30 Aug 2025 06:36:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Binance：持有至少 230 个 Alpha 积分可于今日 16:30 申领空投</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Coinmarketcap 数据，今日加密货币市值前 100 代币表现如下，涨幅前五：Pyth Network（PYTH）涨 33.63%，现价 0.2249 美元；Pump.fun（PUMP）涨 8.09%，现价 0.003447 美元；Four（FORM）涨 2.44%，现价 3.67 美...</description>
       <pubDate>Fri, 29 Aug 2025 15:53:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>过去 24 小时全网爆仓 5.45 亿美元，主爆多单</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Coinglass 数据，过去 24 小时内加密货币市场总爆仓金额达 5.45 亿美元，其中，多单爆仓 4.52 亿美元，空单爆仓 9251.47 万美元。BTC 爆仓金额达 1.31 亿美元，ETH 爆仓 1.92 亿美元，XRP 爆仓 1943.51 万美元。过去 24 小时内共有 143...</description>
-      <pubDate>Fri, 29 Aug 2025 15:30:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
