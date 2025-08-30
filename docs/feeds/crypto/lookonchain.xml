@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Aug 2025 01:55:31 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Aug 2025 01:55:31 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 02:57:04 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 02:57:04 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,53 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Grayscale has submitted an S-1 registration application to the U.S. SEC for DOT and ADA Spot ETFs.</title>
-      <link>https://www.lookonchain.com/feeds/26931</link>
-      <description>On August 30th, based on official information, Grayscale has submitted a Polkadot (DOT) and Cardano (ADA) spot ETF S-1 registration application to the U.S. SEC.</description>
-      <pubDate>Sat, 30 Aug 2025 01:48:38 +0000</pubDate>
+      <title>A certain whale address known for frequently engaging in &quot;buying high and selling low&quot; dumped 7800 ETH during a panic sell-off.</title>
+      <link>https://www.lookonchain.com/feeds/26938</link>
+      <description>On August 30th, as per the monitoring of LookOnChain, with the market declining, a whale address that is frequently affected by market sentiment and has a tendency to buy at high prices and sell at low prices panicked and sold 7,800 ETH (worth $34 million) once again, with an average price of $4,363.</description>
+      <pubDate>Sat, 30 Aug 2025 02:40:12 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26931</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26938</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>The price drop of ETH caused a certain whale to suffer a $14.77 million unrealized loss on their long position. The &quot;Big Buddy&quot; still holds a $120 million position.</title>
+      <link>https://www.lookonchain.com/feeds/26937</link>
+      <description>On August 30th, according to the monitoring data from HyperInsight (accessible at https://t.me/HyperInsight), due to the decline in the ETH price, several well-known traders and whale addresses are currently facing significant unrealized losses. Specifically, the whale address 0xa523...75aa established a 15x long position in ETH at a price of $4534. During this period, it continuously added to its position in order to lower the liquidation price. Currently, this address holds a position value of $247 million, with an unrealized loss of $14.77 million and a liquidation price of $4181.In addition, the address of &quot;Brother Ma&quot; Huang Licheng still holds long positions in ETH and HYPE. Its ETH position size is $121 million, with an opening price of $4512, a liquidation price of $3244.44, and a current unrealized loss of $6.42 million. The HYPE position size is $17.82 million, with an unrealized loss of $0.7978 million.Among other prominent traders, James Wynn, who was liquidated for $100</description>
+      <pubDate>Sat, 30 Aug 2025 02:33:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26937</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Verb Technology will be renamed TON Strategy on September 2nd and will change its stock ticker symbol to TONX.</title>
+      <link>https://www.lookonchain.com/feeds/26936</link>
+      <description>On August 30th, the Nasdaq-listed TON Treasury company Verb Technology is set to be renamed TON Strategy Company on September 2nd. During this time, it will concurrently change its Nasdaq ticker symbol from VERB to TONX. Additionally,</description>
+      <pubDate>Sat, 30 Aug 2025 02:32:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26936</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +72,85 @@
 
     </item>
     <item>
+      <title>A whale address withdrew 12,400 ETH from OKX, with the total withdrawal from two addresses exceeding 30,000 ETH.</title>
+      <link>https://www.lookonchain.com/feeds/26935</link>
+      <description>On August 30, according to on-chain data analyst Embermonitoring, a whale address withdrew 12,410 ETH (approximately $54.03 million) from OKX within the past 4 hours.This address, which also withdrew ETH from OKX yesterday, is either the same whale or institution. Both addresses withdrew a significant amount of USDT from OKX on July 22 and have been accumulating a large quantity of ETH in the past day.As a result, this whale/institution has accumulated 30,246 ETH (approximately $134 million) in the past day.</description>
+      <pubDate>Sat, 30 Aug 2025 02:24:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26935</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>In the past 24 hours, there has been a total of $577 million in liquidations across the network, with the majority coming from long positions.</title>
+      <link>https://www.lookonchain.com/feeds/26934</link>
+      <description>On August 30th, based on Coinglass data, within the past 24 hours, a combined total of $577 million was liquidated across the entire network. Globally, 147,345 people were liquidated. Among them, $487 million was from the liquidation of long positions, and $89.5879 million from the liquidation of short positions.The total liquidations of ETH were $184 million, ranking first, while the total liquidations of BTC were $158 million.</description>
+      <pubDate>Sat, 30 Aug 2025 02:16:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26934</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Cryptocurrency Fear and Greed Index Drops to 39, Market Quickly Enters &quot;Fear&quot; State</title>
+      <link>https://www.lookonchain.com/feeds/26933</link>
+      <description>On August 30th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 39 (yesterday it was 50 and the average of last week was 60). It has fallen below 40 for the first time since the end of April, and the market quickly plunges into a &quot;fear&quot; sentiment.Note: The Fear Index threshold ranges from 0 to 100 and includes indicators such as Volatility (25%) + Market Trading Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance in the overall market (10%) + Google Trends Analysis (10%).</description>
+      <pubDate>Sat, 30 Aug 2025 02:01:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26933</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Or 3 addresses possibly belonging to the same whale transferred $5M worth of CHEEMS to Binance</title>
+      <link>https://www.lookonchain.com/feeds/26932</link>
+      <description>On August 30th, as per the monitoring of Onchain Lens, 10 hours ago, 3 wallets (which might belong to the same whale) deposited 43.38 trillion CHEEMS into Binance. The value of this deposit was $4.99 million. After holding for 9 months, a profit of $1.58 million was realized.</description>
+      <pubDate>Sat, 30 Aug 2025 02:00:12 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26932</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
       <title>A whale address withdrew 7260 ETH from OKX in the past 14 hours.</title>
       <link>https://www.lookonchain.com/feeds/26930</link>
       <description>On August 30th, as monitored by Onchain Lens, within the past 14 hours, a whale address withdrew 7,260 ETH from OKX. The value of this withdrawal is $31.64 million.</description>
-      <pubDate>Sat, 30 Aug 2025 01:40:38 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 01:56:12 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26930</guid>
       <category>crypto</category>
@@ -54,7 +170,7 @@
       <title>A whale address has deposited 11.68 million U into HyperLiquid to place a continuous buy order for SOL.</title>
       <link>https://www.lookonchain.com/feeds/26929</link>
       <description>August 30th: As per the monitoring of Onchain Lens, within the past 8 hours, a whale address has deposited 11.68 million USDC into HyperLiquid for the purpose of purchasing SOL. Up to now, the address has acquired 28,390 SOL and still has a TWAP order outstanding.In addition, the address also holds 346,598 HYPE tokens, which are worth $15.28 million.</description>
-      <pubDate>Sat, 30 Aug 2025 01:32:38 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 01:56:12 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26929</guid>
       <category>crypto</category>
@@ -70,128 +186,12 @@
 
     </item>
     <item>
-      <title>Florida Retirement Fund increased its MSTR holdings by $6 million in Q2, bringing its total MSTR holdings to $80 million.</title>
-      <link>https://www.lookonchain.com/feeds/26928</link>
-      <description>On August 30th, based on BitcoinTreasuries&apos; data, the $20.5 billion Florida retirement fund augmented its holdings of MicroStrategy (MSTR) stock by $6 million during the second quarter. Currently, it holds a total of 240,026 shares of MSTR, which are valued at $80 million.</description>
-      <pubDate>Sat, 30 Aug 2025 01:32:38 +0000</pubDate>
+      <title>Grayscale has submitted an S-1 registration application to the U.S. SEC for DOT and ADA Spot ETFs.</title>
+      <link>https://www.lookonchain.com/feeds/26931</link>
+      <description>On August 30th, based on official information, Grayscale has submitted a Polkadot (DOT) and Cardano (ADA) spot ETF S-1 registration application to the U.S. SEC.</description>
+      <pubDate>Sat, 30 Aug 2025 01:56:12 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26928</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Source: InsiderInsider: Musk&apos;s Private Lawyer Set to Become Chairman of New DOGE Treasury Company, Which Aims to Raise $200 Million to Establish DOGE Treasury</title>
-      <link>https://www.lookonchain.com/feeds/26927</link>
-      <description>August 30th. As per Fortune, six anonymous sources disclosed that investors in the market are currently receiving a fundraising proposal from a DOGE Treasury company that will focus on investing in DOGE. Three of the sources were directly engaged in the project briefing, while the other three learned about the plan from parties involved in the transaction.According to two sources, the company intends to raise at least $2 billion. Details regarding the specific structure of the listing entity and the launch date have not been made public.Three sources indicated that the official DOGE entity, the &apos;House of Doge,&apos; has signed an agreement approving the proposal to become the &apos;official&apos; treasury operation platform for DOGE. The company was founded by the DOGE Foundation in early 2025 and is headquartered in Miami, mainly responsible for promoting and developing the DOGE token.According to the fundraising documents sent to potential investors and revealed by five knowledgeable s</description>
-      <pubDate>Sat, 30 Aug 2025 01:16:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26927</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>High-profile ETH to BTC Whale has sold 2000 BTC and purchased 49,850 ETH in the past 12 hours.</title>
-      <link>https://www.lookonchain.com/feeds/26926</link>
-      <description>On August 30th, as per the monitoring of LookOnChain, a highly prominent BTC whale focused on ETH has sold 2,000 BTC (valued at $221 million) and purchased 49,850 ETH (valued at $219 million) within the past 12 hours. This address has now amassed a total of 691,358 ETH (valued at $3 billion).</description>
-      <pubDate>Sat, 30 Aug 2025 01:16:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26926</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>Arbitrum Foundation performed a regular transfer 9 hours ago, moving 10 million ARB to Coinbase Prime. In the past 2 years, they have sold 350 million ARB.</title>
-      <link>https://www.lookonchain.com/feeds/26925</link>
-      <description>On August 30th, according to on-chain data analyst Yujin Monitoring, a multi-signature wallet of the Arbitrum Foundation transferred 10 million ARB tokens (approximately $4.99 million) to Coinbase Prime 9 hours ago.It is reported that this wallet unlocks and claims around 15 million ARB tokens each month from the unlocking vesting contract of the Arbitrum Foundation. Out of these, 10 million are transferred to Coinbase Prime. The wallet has been unlocking ARB tokens since July 2023 and has thus far unlocked a total of 414 million ARB tokens. Out of the claimed tokens, 350 million have been transferred to Coinbase Prime. Based on the price at the time of transfer to the trading platform, the value is $318 million, with an average price of $0.91.</description>
-      <pubDate>Sat, 30 Aug 2025 01:00:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26925</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>Renowned ETH/BTC exchange rate bull James Fickel transferred 39,800 ETH to Coinbase Prime 4 hours ago</title>
-      <link>https://www.lookonchain.com/feeds/26924</link>
-      <description>August 30th. According to the monitoring of on-chain data analyst Yu Jin, the former largest ETH/BTC exchange rate bull, James Fickel, transferred 39,800 ETH (approximately $172 million) to Coinbase Prime four hours ago.Throughout last year, he lost 20,600 ETH due to longing the ETH/BTC exchange rate. Based on the current ETH price, this amounts to approximately $90 million. At present, his Coinbase Prime custody wallet still holds 57,000 ETH (approximately $249 million).</description>
-      <pubDate>Sat, 30 Aug 2025 00:56:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26924</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>US Stock Crypto Index Dips, BLSH Down by 8.38%, ALTS Down by 5.63%</title>
-      <link>https://www.lookonchain.com/feeds/26923</link>
-      <description>August 30: On Friday, the U.S. stock market closed at a lower level, with all three major indexes showing a downward trend. The Dow Jones Industrial Average (DJIA) declined by 0.2%, the S&amp;P 500 Index dropped by 0.64%, and the Nasdaq Composite decreased by 1.15%. Crypto stocks also witnessed a general decline, which included:Coinbase (COIN) dropped by 1.27%, with a trading volume of $20.14 billion.Circle (CRCL) rose by 0.79%, and the trading volume was $10.79 billion.MicroStrategy (MSTR) fell by 1.31%, with a trading volume of $34.12 billion.Bullish (BLSH) decreased by 8.38%, and the trading volume was $2.19 billion.Bitmine (BMNR) fell by 4.28%, with a trading volume of $15.33 billion.BTCS (BTCS) dropped by 3.91%, and the trading volume was $13.878 million.SharpLink Gaming (SBET) fell by 3.47%, with a trading volume of $3.75 billion.BNB Network Company (BNC) fell by 1.31%, with a trading volume of $6.6002 million.ALT5 Sigma (ALTS) decreased by 5.63%, with a trading vol</description>
-      <pubDate>Sat, 30 Aug 2025 00:56:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26923</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Cryptocurrency Market Downturn, BIGTIME and LPT Fall Over 15%</title>
-      <link>https://www.lookonchain.com/feeds/26922</link>
-      <description>On August 30th, according to HTX market data, when Bitcoin dropped below $108,000 earlier today, the crypto market witnessed a general decline, including:ETH saw a 24-hour decrease of 3.45% and is currently priced at $4,337.SOL had a 24-hour decrease of 5.48% and is currently priced at $203.5.BIGTIME experienced a 24-hour decrease of 15.56% and is currently priced at $0.0569.LPT saw a 24-hour decrease of 15% and is currently priced at $6.83.SHELL had a 24-hour decrease of 9.84% and is currently priced at $0.1237.PYTH had a 24-hour decrease of 9% and is currently priced at $0.203.RAY had a 24-hour decrease of 8.71% and is currently priced at $3.48.</description>
-      <pubDate>Sat, 30 Aug 2025 00:54:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26922</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26931</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
