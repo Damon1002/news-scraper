@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Aug 2025 02:57:04 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Aug 2025 02:57:04 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 03:32:38 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 03:32:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,71 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>CryptoQuant Research Manager: If Bitcoin fails to quickly recover above $112,000, the next downside support level will be around $100,000</title>
+      <link>https://www.lookonchain.com/feeds/26941</link>
+      <description>On August 30th, Julio Moreno, the Head of Research at CryptoQuant, posted on social media, indicating that from a short-term valuation standpoint, if Bitcoin is unable to promptly regain the $11,200 level, the next support level will be approximately $10,000.</description>
+      <pubDate>Sat, 30 Aug 2025 03:16:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26941</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Trader Eugene: Currently not actively trading in the market, Bitcoin&apos;s breakout to the upside is a necessary condition for altcoin season.</title>
+      <link>https://www.lookonchain.com/feeds/26940</link>
+      <description>August 30th: Trader Eugene Ng Ah Sio put up a post on his personal channel, indicating that he is not currently involved in market trading at present. Nevertheless, he needs to make it clear to his followers that if they want to witness a significant fluctuation in altcoins, they must rely on Bitcoin to boost the market. However, currently, the performance of Bitcoin has not lived up to the bullish expectations.Before this, on August 14th, Eugene said that he had already closed the majority of his ETH positions in order to significantly reduce the risk exposure as multiple warning signals were blinking before his eyes. On August 24th, he expressed his view that the bull market cycle is coming to an end, and his personal ETH trading has completely stopped.</description>
+      <pubDate>Sat, 30 Aug 2025 03:00:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26940</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>A certain contract whale has held a short position on BTC for nearly 3 months, with a realized profit of $7.08 million and $5.02 million earned from funding fees, despite a maximum unrealized loss ...</title>
+      <link>https://www.lookonchain.com/feeds/26939</link>
+      <description>On August 30th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;whale that has been continuously shorting BTC since March 2025&quot; initiated a short position and held it for nearly 3 months. After experiencing a floating loss of $12.81 million, it was turned into a profit of $7.08 million, and $5.02 million in funding fees were earned.Currently, the address has set take-profit and stop-loss limit orders. When the Bitcoin price drops to the range of [$102,610 - $107,694], it will sell 1843 BTC in batches to take profit.</description>
+      <pubDate>Sat, 30 Aug 2025 02:56:46 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26939</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
       <title>A certain whale address known for frequently engaging in &quot;buying high and selling low&quot; dumped 7800 ETH during a panic sell-off.</title>
       <link>https://www.lookonchain.com/feeds/26938</link>
       <description>On August 30th, as per the monitoring of LookOnChain, with the market declining, a whale address that is frequently affected by market sentiment and has a tendency to buy at high prices and sell at low prices panicked and sold 7,800 ETH (worth $34 million) once again, with an average price of $4,363.</description>
-      <pubDate>Sat, 30 Aug 2025 02:40:12 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 02:40:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26938</guid>
       <category>crypto</category>
@@ -37,7 +98,7 @@
       <title>The price drop of ETH caused a certain whale to suffer a $14.77 million unrealized loss on their long position. The &quot;Big Buddy&quot; still holds a $120 million position.</title>
       <link>https://www.lookonchain.com/feeds/26937</link>
       <description>On August 30th, according to the monitoring data from HyperInsight (accessible at https://t.me/HyperInsight), due to the decline in the ETH price, several well-known traders and whale addresses are currently facing significant unrealized losses. Specifically, the whale address 0xa523...75aa established a 15x long position in ETH at a price of $4534. During this period, it continuously added to its position in order to lower the liquidation price. Currently, this address holds a position value of $247 million, with an unrealized loss of $14.77 million and a liquidation price of $4181.In addition, the address of &quot;Brother Ma&quot; Huang Licheng still holds long positions in ETH and HYPE. Its ETH position size is $121 million, with an opening price of $4512, a liquidation price of $3244.44, and a current unrealized loss of $6.42 million. The HYPE position size is $17.82 million, with an unrealized loss of $0.7978 million.Among other prominent traders, James Wynn, who was liquidated for $100</description>
-      <pubDate>Sat, 30 Aug 2025 02:33:12 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 02:32:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26937</guid>
       <category>crypto</category>
@@ -58,7 +119,7 @@
       <title>Verb Technology will be renamed TON Strategy on September 2nd and will change its stock ticker symbol to TONX.</title>
       <link>https://www.lookonchain.com/feeds/26936</link>
       <description>On August 30th, the Nasdaq-listed TON Treasury company Verb Technology is set to be renamed TON Strategy Company on September 2nd. During this time, it will concurrently change its Nasdaq ticker symbol from VERB to TONX. Additionally,</description>
-      <pubDate>Sat, 30 Aug 2025 02:32:12 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 02:32:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26936</guid>
       <category>crypto</category>
@@ -75,7 +136,7 @@
       <title>A whale address withdrew 12,400 ETH from OKX, with the total withdrawal from two addresses exceeding 30,000 ETH.</title>
       <link>https://www.lookonchain.com/feeds/26935</link>
       <description>On August 30, according to on-chain data analyst Embermonitoring, a whale address withdrew 12,410 ETH (approximately $54.03 million) from OKX within the past 4 hours.This address, which also withdrew ETH from OKX yesterday, is either the same whale or institution. Both addresses withdrew a significant amount of USDT from OKX on July 22 and have been accumulating a large quantity of ETH in the past day.As a result, this whale/institution has accumulated 30,246 ETH (approximately $134 million) in the past day.</description>
-      <pubDate>Sat, 30 Aug 2025 02:24:12 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 02:31:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26935</guid>
       <category>crypto</category>
@@ -95,7 +156,7 @@
       <title>In the past 24 hours, there has been a total of $577 million in liquidations across the network, with the majority coming from long positions.</title>
       <link>https://www.lookonchain.com/feeds/26934</link>
       <description>On August 30th, based on Coinglass data, within the past 24 hours, a combined total of $577 million was liquidated across the entire network. Globally, 147,345 people were liquidated. Among them, $487 million was from the liquidation of long positions, and $89.5879 million from the liquidation of short positions.The total liquidations of ETH were $184 million, ranking first, while the total liquidations of BTC were $158 million.</description>
-      <pubDate>Sat, 30 Aug 2025 02:16:12 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 02:31:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26934</guid>
       <category>crypto</category>
@@ -110,27 +171,10 @@
 
     </item>
     <item>
-      <title>Cryptocurrency Fear and Greed Index Drops to 39, Market Quickly Enters &quot;Fear&quot; State</title>
-      <link>https://www.lookonchain.com/feeds/26933</link>
-      <description>On August 30th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 39 (yesterday it was 50 and the average of last week was 60). It has fallen below 40 for the first time since the end of April, and the market quickly plunges into a &quot;fear&quot; sentiment.Note: The Fear Index threshold ranges from 0 to 100 and includes indicators such as Volatility (25%) + Market Trading Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance in the overall market (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sat, 30 Aug 2025 02:01:12 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26933</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Or 3 addresses possibly belonging to the same whale transferred $5M worth of CHEEMS to Binance</title>
       <link>https://www.lookonchain.com/feeds/26932</link>
       <description>On August 30th, as per the monitoring of Onchain Lens, 10 hours ago, 3 wallets (which might belong to the same whale) deposited 43.38 trillion CHEEMS into Binance. The value of this deposit was $4.99 million. After holding for 9 months, a profit of $1.58 million was realized.</description>
-      <pubDate>Sat, 30 Aug 2025 02:00:12 +0000</pubDate>
+      <pubDate>Sat, 30 Aug 2025 01:31:46 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26932</guid>
       <category>crypto</category>
@@ -147,51 +191,12 @@
 
     </item>
     <item>
-      <title>A whale address withdrew 7260 ETH from OKX in the past 14 hours.</title>
-      <link>https://www.lookonchain.com/feeds/26930</link>
-      <description>On August 30th, as monitored by Onchain Lens, within the past 14 hours, a whale address withdrew 7,260 ETH from OKX. The value of this withdrawal is $31.64 million.</description>
-      <pubDate>Sat, 30 Aug 2025 01:56:12 +0000</pubDate>
+      <title>Cryptocurrency Fear and Greed Index Drops to 39, Market Quickly Enters &quot;Fear&quot; State</title>
+      <link>https://www.lookonchain.com/feeds/26933</link>
+      <description>On August 30th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 39 (yesterday it was 50 and the average of last week was 60). It has fallen below 40 for the first time since the end of April, and the market quickly plunges into a &quot;fear&quot; sentiment.Note: The Fear Index threshold ranges from 0 to 100 and includes indicators such as Volatility (25%) + Market Trading Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Dominance in the overall market (10%) + Google Trends Analysis (10%).</description>
+      <pubDate>Sat, 30 Aug 2025 01:31:46 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26930</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-
-    </item>
-    <item>
-      <title>A whale address has deposited 11.68 million U into HyperLiquid to place a continuous buy order for SOL.</title>
-      <link>https://www.lookonchain.com/feeds/26929</link>
-      <description>August 30th: As per the monitoring of Onchain Lens, within the past 8 hours, a whale address has deposited 11.68 million USDC into HyperLiquid for the purpose of purchasing SOL. Up to now, the address has acquired 28,390 SOL and still has a TWAP order outstanding.In addition, the address also holds 346,598 HYPE tokens, which are worth $15.28 million.</description>
-      <pubDate>Sat, 30 Aug 2025 01:56:12 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26929</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Grayscale has submitted an S-1 registration application to the U.S. SEC for DOT and ADA Spot ETFs.</title>
-      <link>https://www.lookonchain.com/feeds/26931</link>
-      <description>On August 30th, based on official information, Grayscale has submitted a Polkadot (DOT) and Cardano (ADA) spot ETF S-1 registration application to the U.S. SEC.</description>
-      <pubDate>Sat, 30 Aug 2025 01:56:12 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26931</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26933</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
