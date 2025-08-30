@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Aug 2025 23:59:46 +0000</lastBuildDate>
-    <pubDate>Fri, 29 Aug 2025 23:59:46 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2025 01:55:31 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Aug 2025 01:55:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Bitcoin Briefly Drops Below $108,000</title>
-      <link>https://www.lookonchain.com/feeds/26921</link>
-      <description>On August 30th, according to HTX market data, Bitcoin briefly fell below $108,000, experiencing a 24-hour decline of 3.75%.</description>
-      <pubDate>Fri, 29 Aug 2025 18:58:54 +0000</pubDate>
+      <title>Grayscale has submitted an S-1 registration application to the U.S. SEC for DOT and ADA Spot ETFs.</title>
+      <link>https://www.lookonchain.com/feeds/26931</link>
+      <description>On August 30th, based on official information, Grayscale has submitted a Polkadot (DOT) and Cardano (ADA) spot ETF S-1 registration application to the U.S. SEC.</description>
+      <pubDate>Sat, 30 Aug 2025 01:48:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26921</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26931</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,86 +28,54 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>A whale address withdrew 7260 ETH from OKX in the past 14 hours.</title>
+      <link>https://www.lookonchain.com/feeds/26930</link>
+      <description>On August 30th, as monitored by Onchain Lens, within the past 14 hours, a whale address withdrew 7,260 ETH from OKX. The value of this withdrawal is $31.64 million.</description>
+      <pubDate>Sat, 30 Aug 2025 01:40:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26930</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>A whale address has deposited 11.68 million U into HyperLiquid to place a continuous buy order for SOL.</title>
+      <link>https://www.lookonchain.com/feeds/26929</link>
+      <description>August 30th: As per the monitoring of Onchain Lens, within the past 8 hours, a whale address has deposited 11.68 million USDC into HyperLiquid for the purpose of purchasing SOL. Up to now, the address has acquired 28,390 SOL and still has a TWAP order outstanding.In addition, the address also holds 346,598 HYPE tokens, which are worth $15.28 million.</description>
+      <pubDate>Sat, 30 Aug 2025 01:32:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26929</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Pence: Ready to Assume Presidency if Trump Has an Accident</title>
-      <link>https://www.lookonchain.com/feeds/26920</link>
-      <description>On August 30th, the Vice President of the United States, Pence, stated that in the event of a &quot;serious tragedy&quot; befalling Trump, he is prepared to assume the presidency. In an interview with USA Today, Pence addressed Trump&apos;s health, saying, &quot;If, God forbid, there is a serious tragedy, I can&apos;t think of more beneficial on-the-job training than the past 200 days.&quot;However, he also stated that the 79-year-old Trump is in good health. Despite recent concerns about his health, he still retains &quot;amazing energy.&quot; (FX168)</description>
-      <pubDate>Fri, 29 Aug 2025 16:58:54 +0000</pubDate>
+      <title>Florida Retirement Fund increased its MSTR holdings by $6 million in Q2, bringing its total MSTR holdings to $80 million.</title>
+      <link>https://www.lookonchain.com/feeds/26928</link>
+      <description>On August 30th, based on BitcoinTreasuries&apos; data, the $20.5 billion Florida retirement fund augmented its holdings of MicroStrategy (MSTR) stock by $6 million during the second quarter. Currently, it holds a total of 240,026 shares of MSTR, which are valued at $80 million.</description>
+      <pubDate>Sat, 30 Aug 2025 01:32:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26920</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Unicall to Delist AFT, Holders to Receive Full Compensation and Additional Diamond Hand Reward</title>
-      <link>https://www.lookonchain.com/feeds/26919</link>
-      <description>On August 30th, UnicornX made an announcement. Due to the AFT token no longer fulfilling the UniCall standard, the token will be removed from the UniCall section. All users who purchased and still hold AFT on UnicornX will receive full compensation at the purchase price along with an additional Diamond Hand bonus. The airdrop funding is entirely provided by the investment institution Unicorn Verse. The UnicornX team took a snapshot of eligible users at 22:30 (GMT+8) / 14:30 (UTC) on August 29th.User Eligibility:As of the snapshot time on August 29th at 22:30 (GMT+8) / 14:30 (UTC), all users holding AFT on UnicornX.Only AFT purchased on the UnicornX platform is eligible.Airdrop PlanEligible users will receive a USDT airdrop and an additional Diamond Hand bonus within 72 hours, and the airdrop will be directly sent to the user&apos;s UnicornX BSC wallet.</description>
-      <pubDate>Fri, 29 Aug 2025 16:58:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26919</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The judge did not rule today on the dismissal of Federal Reserve Board Governor Cook.</title>
-      <link>https://www.lookonchain.com/feeds/26918</link>
-      <description>August 30th, Market News: The judge did not issue a ruling on the removal of Fed Governor Cook on this day. Instead, both parties were asked to submit additional court documents next Tuesday. (FXStreet)Earlier, Politico reporters indicated that the Fed did not adopt a stance on Trump&apos;s attempt to dismiss Liza Cook. It only requested the judge to make a prompt decision and pledged to abide by it.</description>
-      <pubDate>Fri, 29 Aug 2025 16:58:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26918</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Publicly listed company PDN has partnered with financial enterprise OOKC Group to advance the implementation of the &quot;Compliance-Driven Web3.0 Digital Investment Bank Platform.&quot;</title>
-      <link>https://www.lookonchain.com/feeds/26912</link>
-      <description>August 29th. August 29th. The Nasdaq-listed company Professional Diversity Network (PDN, stock code: IPDN) declared that it has reached a non-binding Memorandum of Understanding (MOU) with OOKC Group, a fintech enterprise based in Dubai. The two parties will jointly promote the world&apos;s first &quot;Compliance-Driven Web3.0 Digital Investment Banking Platform.&quot; This platform mainly focuses on fields such as &quot;Real-World Asset Tokenization (RWA), Web3 Project Financing, Decentralized Capital Formation, and Cross-Border Regulatory Innovation,&quot; aiming to achieve compliant, secure, and transparent global digital asset financing and circulation.</description>
-      <pubDate>Fri, 29 Aug 2025 15:58:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26912</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>In the past 4 hours, there has been a total of $179 million in liquidations across the network, with the majority coming from long positions.</title>
-      <link>https://www.lookonchain.com/feeds/26916</link>
-      <description>On August 29th, according to Coinglass data, within the past 4 hours, a combined total of $179 million has been liquidated across the entire network. Specifically, there were $133 million in long liquidations and $458.989 million in short liquidations.During the past 24 hours, a total of 143,438 people worldwide have been liquidated, with a total liquidation amount of $546 million. The largest single liquidation took place on OKX - BTC-USDT-SWAP, amounting to $4.3838 million.</description>
-      <pubDate>Fri, 29 Aug 2025 15:58:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26916</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26928</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -120,12 +88,12 @@
 
     </item>
     <item>
-      <title>CZ: Cryptocurrency Trading Should Avoid Selling Low</title>
-      <link>https://www.lookonchain.com/feeds/26917</link>
-      <description>On August 29th, the founder of Binance, CZ, shared a post which said, &quot;In cryptocurrency, things to avoid are selling at the bottom.&quot;When this post was made, the cryptocurrency market continued to decline. Bitcoin dropped to $109,000, Ethereum fell to $4,320, and a total of $179 million in liquidations occurred across the entire network in the past 4 hours. This included $133 million in long liquidations and $45.899 million in short liquidations.At the BITCOIN ASIA 2025 conference, CZ stated that &quot;Bitcoin will become the global reserve currency.&quot;</description>
-      <pubDate>Fri, 29 Aug 2025 15:58:54 +0000</pubDate>
+      <title>Source: InsiderInsider: Musk&apos;s Private Lawyer Set to Become Chairman of New DOGE Treasury Company, Which Aims to Raise $200 Million to Establish DOGE Treasury</title>
+      <link>https://www.lookonchain.com/feeds/26927</link>
+      <description>August 30th. As per Fortune, six anonymous sources disclosed that investors in the market are currently receiving a fundraising proposal from a DOGE Treasury company that will focus on investing in DOGE. Three of the sources were directly engaged in the project briefing, while the other three learned about the plan from parties involved in the transaction.According to two sources, the company intends to raise at least $2 billion. Details regarding the specific structure of the listing entity and the launch date have not been made public.Three sources indicated that the official DOGE entity, the &apos;House of Doge,&apos; has signed an agreement approving the proposal to become the &apos;official&apos; treasury operation platform for DOGE. The company was founded by the DOGE Foundation in early 2025 and is headquartered in Miami, mainly responsible for promoting and developing the DOGE token.According to the fundraising documents sent to potential investors and revealed by five knowledgeable s</description>
+      <pubDate>Sat, 30 Aug 2025 01:16:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26917</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26927</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -134,15 +102,16 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Tom Lee Reiterates Ethereum as One of the Biggest Macro Trades of the Next Decade, Bitcoin Still the Ultimate Store of Value</title>
-      <link>https://www.lookonchain.com/feeds/26915</link>
-      <description>On August 29th, Tom Lee, the chairman of BitMine, reiterated that Ethereum is one of the largest macro trades of the next decade. This is based on the following considerations:- Wall Street is rebuilding on the blockchain (a key moment similar to 1971).- Stablecoins serve as the starting point for asset tokenization on the blockchain.- Proxy AI has generated demand for the token economy.This will bring about profound changes to the U.S. financial industry and provide significant tailwinds for Ethereum. Meanwhile, Bitcoin still remains the optimal store of value.</description>
-      <pubDate>Fri, 29 Aug 2025 15:58:54 +0000</pubDate>
+      <title>High-profile ETH to BTC Whale has sold 2000 BTC and purchased 49,850 ETH in the past 12 hours.</title>
+      <link>https://www.lookonchain.com/feeds/26926</link>
+      <description>On August 30th, as per the monitoring of LookOnChain, a highly prominent BTC whale focused on ETH has sold 2,000 BTC (valued at $221 million) and purchased 49,850 ETH (valued at $219 million) within the past 12 hours. This address has now amassed a total of 691,358 ETH (valued at $3 billion).</description>
+      <pubDate>Sat, 30 Aug 2025 01:16:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26915</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26926</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -155,32 +124,16 @@
       <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
 
     </item>
     <item>
-      <title>Binance Earn, One-Click Buy, Instant Swap, and Leveraged Trading will be launched for Mitosis (MITO)</title>
-      <link>https://www.lookonchain.com/feeds/26914</link>
-      <description>On August 29th, Binance Savings, the one-click purchase of crypto, swapping, and leveraged tokens will list Mitosis (MITO). The MITO Capital Protection Yield product will be launched on the Binance Capital Protection Yield platform for purchase starting at 23:30 on August 29, 2025.Binance Cross Margin and Isolated Margin will add MITO as a borrowable asset at 23:30 on August 29, 2025, along with MITO/USDT and MITO/USDC Cross Margin and Isolated Margin trading pairs.</description>
-      <pubDate>Fri, 29 Aug 2025 15:58:54 +0000</pubDate>
+      <title>Arbitrum Foundation performed a regular transfer 9 hours ago, moving 10 million ARB to Coinbase Prime. In the past 2 years, they have sold 350 million ARB.</title>
+      <link>https://www.lookonchain.com/feeds/26925</link>
+      <description>On August 30th, according to on-chain data analyst Yujin Monitoring, a multi-signature wallet of the Arbitrum Foundation transferred 10 million ARB tokens (approximately $4.99 million) to Coinbase Prime 9 hours ago.It is reported that this wallet unlocks and claims around 15 million ARB tokens each month from the unlocking vesting contract of the Arbitrum Foundation. Out of these, 10 million are transferred to Coinbase Prime. The wallet has been unlocking ARB tokens since July 2023 and has thus far unlocked a total of 414 million ARB tokens. Out of the claimed tokens, 350 million have been transferred to Coinbase Prime. Based on the price at the time of transfer to the trading platform, the value is $318 million, with an average price of $0.91.</description>
+      <pubDate>Sat, 30 Aug 2025 01:00:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26914</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Cryptocurrency Exchange OrangeX Completes $20M Series B Funding Round, Led by Kryptos</title>
-      <link>https://www.lookonchain.com/feeds/26913</link>
-      <description>On August 29th, the cryptocurrency exchange platform OrangeX announced the successful conclusion of a $20 million Series B fundraising round. This round of fundraising was spearheaded by Kryptos, with continuous backing from SCI Ventures and other major investors.Previously, OrangeX completed a $10 million Series A fundraising round in September 2023. This was also led by Kryptos and received support from NGC Capital, Phase Capital, and SCI Ventures.The new funds will be employed to enhance the core infrastructure and expedite global market expansion. The Series B fundraising was completed in the first half of 2025, which reflects investors&apos; robust confidence in OrangeX&apos;s strategic direction and long-term vision.</description>
-      <pubDate>Fri, 29 Aug 2025 15:58:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26913</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26925</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -190,6 +143,63 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Renowned ETH/BTC exchange rate bull James Fickel transferred 39,800 ETH to Coinbase Prime 4 hours ago</title>
+      <link>https://www.lookonchain.com/feeds/26924</link>
+      <description>August 30th. According to the monitoring of on-chain data analyst Yu Jin, the former largest ETH/BTC exchange rate bull, James Fickel, transferred 39,800 ETH (approximately $172 million) to Coinbase Prime four hours ago.Throughout last year, he lost 20,600 ETH due to longing the ETH/BTC exchange rate. Based on the current ETH price, this amounts to approximately $90 million. At present, his Coinbase Prime custody wallet still holds 57,000 ETH (approximately $249 million).</description>
+      <pubDate>Sat, 30 Aug 2025 00:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26924</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>US Stock Crypto Index Dips, BLSH Down by 8.38%, ALTS Down by 5.63%</title>
+      <link>https://www.lookonchain.com/feeds/26923</link>
+      <description>August 30: On Friday, the U.S. stock market closed at a lower level, with all three major indexes showing a downward trend. The Dow Jones Industrial Average (DJIA) declined by 0.2%, the S&amp;P 500 Index dropped by 0.64%, and the Nasdaq Composite decreased by 1.15%. Crypto stocks also witnessed a general decline, which included:Coinbase (COIN) dropped by 1.27%, with a trading volume of $20.14 billion.Circle (CRCL) rose by 0.79%, and the trading volume was $10.79 billion.MicroStrategy (MSTR) fell by 1.31%, with a trading volume of $34.12 billion.Bullish (BLSH) decreased by 8.38%, and the trading volume was $2.19 billion.Bitmine (BMNR) fell by 4.28%, with a trading volume of $15.33 billion.BTCS (BTCS) dropped by 3.91%, and the trading volume was $13.878 million.SharpLink Gaming (SBET) fell by 3.47%, with a trading volume of $3.75 billion.BNB Network Company (BNC) fell by 1.31%, with a trading volume of $6.6002 million.ALT5 Sigma (ALTS) decreased by 5.63%, with a trading vol</description>
+      <pubDate>Sat, 30 Aug 2025 00:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26923</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Cryptocurrency Market Downturn, BIGTIME and LPT Fall Over 15%</title>
+      <link>https://www.lookonchain.com/feeds/26922</link>
+      <description>On August 30th, according to HTX market data, when Bitcoin dropped below $108,000 earlier today, the crypto market witnessed a general decline, including:ETH saw a 24-hour decrease of 3.45% and is currently priced at $4,337.SOL had a 24-hour decrease of 5.48% and is currently priced at $203.5.BIGTIME experienced a 24-hour decrease of 15.56% and is currently priced at $0.0569.LPT saw a 24-hour decrease of 15% and is currently priced at $6.83.SHELL had a 24-hour decrease of 9.84% and is currently priced at $0.1237.PYTH had a 24-hour decrease of 9% and is currently priced at $0.203.RAY had a 24-hour decrease of 8.71% and is currently priced at $3.48.</description>
+      <pubDate>Sat, 30 Aug 2025 00:54:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26922</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
   </channel>
