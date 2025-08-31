@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 01:50:06 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 01:50:06 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 03:01:20 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 03:01:20 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,65 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>About 16.27 billion WLFI tokens have been transferred to the Lockbox contract, estimated to be worth 4.83 billion US dollars.</title>
+      <link>https://www.lookonchain.com/feeds/27007</link>
+      <description>On August 31st, according to on-chain data, around 16.27 billion WLFI tokens have been transferred to the Lockbox contract, which makes up 16.27% of the total token supply. Given the current contract price of $0.297, the value is approximately $4.83 billion.BlockBeats reported previously that the WLFI token will officially start unlocking at 8:00 AM EST on September 1st, and the relevant functionality page (Lockbox) has been launched. Users needed to activate between August 25th and August 31st in order to be able to claim 20% of the unlocked tokens starting from September 1st.</description>
+      <pubDate>Sun, 31 Aug 2025 02:48:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27007</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>James Wynn&apos;s previously shilled meme coin GOAT has surged over 67.4% in the past 24 hours, with a current market cap of $12.5 million.</title>
+      <link>https://www.lookonchain.com/feeds/27006</link>
+      <description>On August 31st, based on GMGN data, James Wynn&apos;s previously promoted meme coin Goatcoin (GOAT) witnessed a surge of over 67.4% in the past 24 hours. It currently has a market capitalization of $12.5 million and a 24-hour trading volume of $7.2 million.On August 27th, James Wynn made a post on Platform X promoting the meme coin Goatcoin (GOAT) and stating that &quot;its market capitalization is expected to reach several billion dollars.&quot; On that day, GOAT responded with a surge of over 200%, pushing its market capitalization beyond $10 million.BlockBeats reminds users that meme coins usually lack practical use cases and experience significant price fluctuations. Therefore, investment should be approached with caution.</description>
+      <pubDate>Sun, 31 Aug 2025 02:40:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27006</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The Ethereum Community Fund has announced the tokenization of already burned ETH into BETH to provide a new proof of burn.</title>
+      <link>https://www.lookonchain.com/feeds/27005</link>
+      <description>On August 31st, the Ethereum Community Foundation announced the tokenization of the burned ETH into BETH, presenting a new Ethereum Burn Proof Token. Each BETH token symbolizes ETH that has been verified to have been removed from circulation, thereby establishing a transparent and auditable burn record.Ethereum co-founder and Consensys CEO Joseph Lubin retweeted, expressing his great appreciation for the team&apos;s efforts.</description>
+      <pubDate>Sun, 31 Aug 2025 02:08:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27005</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>The WLFI token is expected to be launched on the Solana blockchain, with a small-scale cross-chain test conducted today.</title>
       <link>https://www.lookonchain.com/feeds/27000</link>
       <description>On August 31st, the crypto project WLFI of the Trump family was cross-chain routed to the Solana blockchain through Chainlink CCIP 4 hours ago. The cross-chain token transfer involved 10 WLFI tokens and was for a small-scale test. Dario Laverde, the developer of the WLFI project, responded to the community, stating that &quot;The WLFI token will be launched on the Solana blockchain.&quot;BlockBeats previously reported that the World Liberty Finance (WLFI) project of the Trump family is scheduled to launch on Ethereum on September 1st, enabling claiming and trading. Early supporters (in the 0.015 and 0.05 USD rounds) will unlock 20%, while the remaining 80% will be determined by community vote. Tokens held by the founding team, advisors, and partners will not be unlocked. Trading will start at 8:00 PM Beijing time on September 1st, and the 20% token allocation for claiming will begin.</description>
-      <pubDate>Sun, 31 Aug 2025 01:49:13 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 02:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27000</guid>
       <category>crypto</category>
@@ -34,7 +89,7 @@
       <title>Etherscan: 10th Anniversary Celebration Coming to a Close</title>
       <link>https://www.lookonchain.com/feeds/26999</link>
       <description>On August 31st, Etherscan officially declared that the tenth-anniversary celebration event is coming to a close. Users have the opportunity to claim OG rewards, obtain badges, and accumulate points by taking quizzes and finding Easter eggs before 8:00 on September 1st.On August 15th, the Ethereum block explorer Etherscan announced the launch of the Etherscan Points event, which allows for earning and redeeming rewards on Etherscan. Users can participate in daily check-ins, quizzes, share Etherscan moments, and other activities to earn OG points and redeem limited-edition tenth-anniversary badges. To participate in the event, one needs to hold an active Etherscan account created before August 12, 2025. The official statement indicates that this is not a token airdrop but merely a gesture of appreciation for the anniversary event.</description>
-      <pubDate>Sun, 31 Aug 2025 01:49:13 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 02:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26999</guid>
       <category>crypto</category>
@@ -50,10 +105,65 @@
 
     </item>
     <item>
+      <title>Pudgy Penguins&apos; game Pudgy Party is now available on the Apple and Google stores</title>
+      <link>https://www.lookonchain.com/feeds/27004</link>
+      <description>August 31st. As per an official announcement by Pudgy Penguins, their Web 3 mobile game, Pudgy Party, has been launched on both the Apple App Store and the Google Play Store.BlockBeats had previously reported that on August 29th, the well-known NFT brand Pudgy Penguins announced the global launch of the Web3 mobile game Pudgy Party in collaboration with the developer of FIFA Rivals, Mythical Games. Pudgy Party is a casual and fun party battle royale game set in a fast-paced mini-game environment. The game features characters that are entirely based on the iconic Pudgy Penguins imagery, each with its own unique traits, abilities, and personalities. Each match is designed to be fresh and unpredictable, with constantly rotating challenge content and unexpected changes to ensure that no two parties are the same. Players can customize their penguin characters through clothing, emotes, and collectibles - some of which are non-fungible, while others are limited edition and tradable on Mythi</description>
+      <pubDate>Sun, 31 Aug 2025 02:00:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27004</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>In the second quarter, Web3 startups raised a total of $9.6 billion, marking the second largest quarterly funding in history.</title>
+      <link>https://www.lookonchain.com/feeds/27003</link>
+      <description>August 31st. According to CoinDesk, Web3 startups raised a combined total of $9.6 billion in funding during the second quarter of 2025, which represents the second-largest quarter in history. Capital is continuously flowing into infrastructure projects. The median funding sizes for validator liquidity, Rollups, and mining networks range from $70 million to $112 million. Meanwhile, Series A and seed round funding is showing an upward trend. Token private sales are performing favorably, while public offerings have witnessed a significant decrease.</description>
+      <pubDate>Sun, 31 Aug 2025 02:00:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27003</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>An address withdrew 2000 ETH from a CEX one hour ago, with a withdrawal price of $4445 per ETH.</title>
+      <link>https://www.lookonchain.com/feeds/27002</link>
+      <description>On August 31st, as per on-chain analyst Ai Auntie (@ai_9684xtpa), the address &apos;0x832...07F84&apos; withdrew 2000 ETH from a centralized exchange (CEX) one hour ago. The withdrawal was made at a price of $4445 and has now been deposited into Lido.</description>
+      <pubDate>Sun, 31 Aug 2025 02:00:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27002</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Hong Kong Investment Commission: Stablecoin as a Cross-Border Remittance Tool Will Reduce Payment Costs</title>
       <link>https://www.lookonchain.com/feeds/27001</link>
       <description>August 31st. According to a report from Hong Kong 01, Doo Gon Kun, the Chairman of the Hong Kong Investment and Financial Education Committee (Investment Committee), stated in a recent interview that the primary use of stablecoins is as a cross-border remittance tool. If they are widely accepted by society in the future, stablecoins will have the opportunity to lower the cost of cross-border payments. Stablecoins are associated with cryptocurrency and are issued by private institutions and backed by mainstream fiat assets such as the US dollar. However, stablecoins backed by cryptocurrency can exhibit high volatility. Therefore, investments should not be made without a sufficient understanding of the relevant products.</description>
-      <pubDate>Sun, 31 Aug 2025 01:49:13 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 02:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27001</guid>
       <category>crypto</category>
@@ -70,118 +180,9 @@
       <title>NVC Health Signs Digital Asset Business Cooperation Framework Agreement with QuantumCTek and North China PharmaTech</title>
       <link>https://www.lookonchain.com/feeds/26998</link>
       <description>On August 31, a wholly-owned subsidiary of Meinian Health Industry Co., Ltd., namely Meinian Health Industry Holding Co., Ltd., entered into a Digital Asset Business Cooperation Framework Agreement with Guofu Quantum Innovation Co., Ltd. and Beijing North Information Technology Co., Ltd. The three parties will leverage their respective resources to explore and cooperate in the field of digital asset RWA, seeking a new paradigm for the value realization of health and medical equipment and data assets and facilitating the upgrading and innovation of the health industry. (Soochow Securities)</description>
-      <pubDate>Sun, 31 Aug 2025 01:24:13 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 01:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/26998</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The crypto market has significantly rebounded from fear, with some altcoins leading the way.</title>
-      <link>https://www.lookonchain.com/feeds/26997</link>
-      <description>On August 31st, according to HTX market data, the crypto market experienced a notable rebound. Bitcoin rose above $109,000 and Ethereum rose above $4,450. The total cryptocurrency market capitalization rose to $3.877 trillion, with a 24-hour increase of 1%. The Greed Index went from 39 to 48, changing market sentiment from fear to neutrality. Some altcoins took the lead in the rebound, including:DOLO with a 24-hour increase of 36.2% and now trading at $0.293;AXS with a 24-hour increase of 15.98% and now trading at $2.62;JOE with a 24-hour increase of 15% and now trading at $0.176;DASH with a 24-hour increase of 9.3% and now trading at $24.8;CFX with a 24-hour increase of 8.8% and now trading at $0.2;1000Simon&apos;s Cat with a 24-hour increase of 6.2% and now trading at $0.008.</description>
-      <pubDate>Sun, 31 Aug 2025 01:16:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26997</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A Whale is Hoarding 433,176 IP Tokens, Worth $3.7 Million</title>
-      <link>https://www.lookonchain.com/feeds/26996</link>
-      <description>On August 31st, based on LookOnChain&apos;s monitoring, a whale address (0x8A1d) has just withdrawn 433,176 IP from Bybit, with a value of $3.7 million.</description>
-      <pubDate>Sun, 31 Aug 2025 01:08:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26996</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A new wallet received 230,420 SOL tokens and staked them.</title>
-      <link>https://www.lookonchain.com/feeds/26995</link>
-      <description>On August 31st, as per the monitoring of OnchainLens, a newly established wallet received 230,420 SOL from FalconX, which was worth $46.36 million, and then staked the assets.</description>
-      <pubDate>Sun, 31 Aug 2025 01:08:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26995</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Longling Capital once again increased its holdings by 7,000 ETH, worth $30.67 million</title>
-      <link>https://www.lookonchain.com/feeds/26994</link>
-      <description>August 31. As per the monitoring of EmberCN, Longling Capital once more enhanced its holdings by 7,000 ETH. During the past 5 days, it transferred 20 million USDT to Binance and withdrew 7,000 ETH from Binance 10 minutes ago, with a value of 30.67 million US dollars.</description>
-      <pubDate>Sun, 31 Aug 2025 01:00:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26994</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Whale 0x8A1d just withdrew 433,176 $IP($3.7M) from #Bybit.</title>
-      <link>https://www.lookonchain.com/feeds/26992</link>
-      <description>Whale 0x8A1d just withdrew 433,176 $IP($3.7M) from #Bybit.</description>
-      <pubDate>Sun, 31 Aug 2025 00:56:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26992</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Dutch and US Authorities Seize Online Fake ID Trading Platform VerifTools</title>
-      <link>https://www.lookonchain.com/feeds/26993</link>
-      <description>On August 31st, as reported by Decrypt, Dutch and U.S. law enforcement agencies have confiscated the online platform for trading fake IDs, VerifTools. This marketplace sold counterfeit documents for as little as $9 in cryptocurrency, generating a revenue of $6.4 million, making it one of the largest suppliers of fraudulent identity documents in the world. VerifTools required users to upload a passport photo and enter false data, which the website operators then used to create fake ID documents. These documents were almost indistinguishable from real ones, employing advanced techniques like holograms and UV ink. Users ultimately paid for the forged IDs using cryptocurrency. The operation seized 23 servers, two domain names used by the VerifTools marketplace, and a promotional blog.</description>
-      <pubDate>Sun, 31 Aug 2025 00:56:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/26993</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
