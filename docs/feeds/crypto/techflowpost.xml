@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 03:56:52 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 03:56:52 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 04:27:13 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 04:27:13 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某巨鲸卖出275枚BTC并换仓为ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸卖出275枚BTC，价值约3050万美元并购入6,802枚ETH并存入Aave V3进行借贷。</description>
+      <pubDate>Sun, 31 Aug 2025 04:19:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某比特币巨鲸卖出1000枚BTC并买入ETH现货</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据Arkham监测数据显示，大约25分钟前，某鲸鱼从币安提取5万枚LINK，价值117万美元，截至目前该鲸鱼钱包共持有82276枚LINK，价值192万美元。</description>
       <pubDate>Sat, 30 Aug 2025 09:20:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>一新建账户从 Galaxy 收到 1,506 枚 BTC ，价值 1.6358 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 OnchainLens 监测，一新建账户从 Galaxy 收到 1,506 枚 BTC ，价值 1.6358 亿美元。</description>
-      <pubDate>Sat, 30 Aug 2025 09:09:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
