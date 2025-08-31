@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 16:47:03 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 16:47:03 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 16:58:50 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 16:58:50 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,32 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $4.528 billion, with BlackRock&apos;s ETHA experiencing a net inflow of $4.4 billion.</title>
-      <link>https://www.lookonchain.com/feeds/21916</link>
-      <description>On July 26th, based on the monitoring of Farside Investors, the net inflow into the US Ethereum spot ETF yesterday was $452.8 million. This includes:- BlackRock ETHA: +$440.1 million- Fidelity FETH: +$7.3 million- Bitwise ETHW: +$10 million- Grayscale ETHE: -$23.5 million- Grayscale Ethereum Trust: +$18.9 million</description>
-      <pubDate>Sat, 26 Jul 2025 03:56:31 +0000</pubDate>
+      <title>El Salvador Continues to Dollar-Cost Average into Bitcoin: Over the past 7 days, the country has accumulated an additional 7 BTC, bringing its total holdings to 6285.18 BTC.</title>
+      <link>https://www.lookonchain.com/feeds/27064</link>
+      <description>August 31st. Based on the data from the website of the Salvadoran Ministry of Finance, in the past 7 days, El Salvador has accumulated the acquisition of 7 Bitcoins. Currently, its Bitcoin holdings have reached 6,285.18 coins, with a value of more than $681 million.</description>
+      <pubDate>Sun, 31 Aug 2025 16:00:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21916</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the US Bitcoin Spot ETF saw a net inflow of $130 million</title>
-      <link>https://www.lookonchain.com/feeds/21917</link>
-      <description>July 26th. Based on Farside Investors&apos; data, the net inflow into US Bitcoin spot ETF yesterday was $130.8 million. This includes:BlackRock IBIT: + $92.8 millionFidelity FBTC: + $10.2 millionBitwise BITB: + $21.0 millionARK ARKB: + $30.3 millionVanEck HODL: + $18.2 millionGrayscale GBTC: - $50.5 millionGrayscale BTC Mini: + $8.8 million</description>
-      <pubDate>Sat, 26 Jul 2025 03:56:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21917</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27064</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -50,16 +30,15 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>US-listed company Bit Digital plans to increase its authorized share capital to buy more ETH</title>
-      <link>https://www.lookonchain.com/feeds/21915</link>
-      <description>July 26th. According to SEC filings, the publicly traded company Bit Digital (BTBT) in the U.S. disclosed that a significant shareholder meeting is scheduled to be held on September 10, 2025, at 9:00 AM at the company&apos;s main office address (11th floor, 31 Hudson Yards, New York, New York, USA), with the option of online streaming available. Shareholders can attend the meeting in person or participate through online streaming to exercise their voting rights and submit questions during the meeting. The meeting will deliberate on approving an increase in the company&apos;s authorized capital from $3.5 million (comprising 340 million common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share) to $10.1 million (consisting of 1 billion common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share).Bit Digital stated that the company intends to raise a significant amount of additi</description>
-      <pubDate>Sat, 26 Jul 2025 03:32:31 +0000</pubDate>
+      <title>Japan Post Bank is planning to launch a digital currency in 2026</title>
+      <link>https://www.lookonchain.com/feeds/27063</link>
+      <description>August 31. As per the Nikkei, Japan&apos;s largest financial institution, Japan Post Bank, intends to launch a digital currency in 2026 and might enable users to conduct transactions using this digital currency in blockchain-based financial products like security tokens and NFTs.</description>
+      <pubDate>Sun, 31 Aug 2025 15:57:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21915</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27063</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -68,17 +47,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
     <item>
-      <title>Two addresses suspected to belong to the same whale have sold a total of 3810.76 ETH in the last 10 hours.</title>
-      <link>https://www.lookonchain.com/feeds/21912</link>
-      <description>On July 26th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), two addresses that are suspected to belong to the same entity have sold 3810.76 ETH within the past 10 hours. The total value of these sales is $13.92 million. If these ETH were sold, the entity would make a profit of $2.693 million.It is reported that both addresses accumulated ETH between October 2024 and June 2025. The average cost of one address is $2940, and the average cost of the other address is $2977. They started selling in batches yesterday. So far, a total of 5540.76 ETH has been transferred to exchanges, with an approximate value of $20.09 million.</description>
-      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
+      <title>High-profile ETH to BTC Whale Just Sold 4,000 BTC and Bought 96,859 ETH in the Past 12 Hours</title>
+      <link>https://www.lookonchain.com/feeds/27062</link>
+      <description>On August 31st, as per the monitoring of LookOnChain, a highly prominent ETH to BTC whale has exchanged 4,000 BTC ($4.35 billion) for 96,859 ETH ($4.33 billion) within the past 12 hours.As of the present moment, they have amassed a total of 837,429 ETH ($3.85 billion).</description>
+      <pubDate>Sun, 31 Aug 2025 14:57:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21912</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27062</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -87,35 +64,20 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
       <category>whale</category>
 
     </item>
     <item>
-      <title>US Stock Market closed on Friday with most Crypto Stocks falling, SBET down by 5.70%</title>
-      <link>https://www.lookonchain.com/feeds/21914</link>
-      <description>On July 26th, according to the market data of rockflow, the US stock market closed on Friday. The Dow rose by 208 points, the S&amp;P 500 rose by 0.4%, and the Nasdaq rose by 0.24%. Cryptocurrency stocks generally declined, including:Coinbase (COIN) decreased by 1.27%, with a trading volume of $3.388 billion.MicroStrategy (MSTR) decreased by 2.18%, with a trading volume of $3.404 billion.BTCS (BTCS) decreased by 5.58%, with a trading volume of $30.985 million.Bit Digital (BTBT) decreased by 2.48%, with a trading volume of $64.216 million.SharpLink Gaming (SBET) decreased by 5.70%, with a trading volume of $1.078 billion.Bitmine Immersion (BMNR) decreased by 4.67%, with a trading volume of $1.181 billion.</description>
-      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
+      <title>The U.S. M2 money supply has reached $22.12 trillion, hitting a new all-time high.</title>
+      <link>https://www.lookonchain.com/feeds/27061</link>
+      <description>On August 31st, as reported by Cointelegraph, the M2 money supply in the US has reached $22.12 trillion, reaching a new record high.</description>
+      <pubDate>Sun, 31 Aug 2025 14:57:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21914</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Solana Ecosystem Meme Coin MEMECOIN briefly surged above $0.05 today, marking a 5325% gain in the last 7 days.</title>
-      <link>https://www.lookonchain.com/feeds/21913</link>
-      <description>On July 26th, according to GMGN market data, Solana&apos;s ecosystem Meme coin just memecoin (MEMECOIN) broke through $0.05 in the early hours of today. It is currently trading at $0.04917, with a 23.8% increase in the past 24 hours and a 5325% increase in the past 7 days. The market capitalization is currently $49.15 million, and the 24-hour trading volume is $17.07 million.BlockBeats Note: Meme coins often experience significant price volatility, which is usually driven by market sentiment and hype and lacks real value or use cases. Investors should be cautious of the risks involved.</description>
-      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21913</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27061</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -128,12 +90,12 @@
 
     </item>
     <item>
-      <title>The SharpLink address has transferred 145 million USDC to Galaxy, either for ETH accumulation or other purposes.</title>
-      <link>https://www.lookonchain.com/feeds/21910</link>
-      <description>On July 26th, as monitored by on-chain data analyst Yu Jin, the SharpLink address transferred the 145 million USDC received earlier today from the Circle address to the Galaxy Digital wallet. Previously, SharpLink Gaming mainly purchased ETH through Galaxy Digital, and this 145 million USDC may still be used to increase its ETH holdings.</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <title>Greeks.Live: Market Sentiment Shows Clear Divergence, with a Focus on Ethereum&apos;s Recent Relative Strength and Fund Flows</title>
+      <link>https://www.lookonchain.com/feeds/27060</link>
+      <description>On August 31st, GreekLive issued its daily market summary, stating, &quot;There is a clear division within the community regarding the current bull market. Some members are questioning the absence of the quick-rich effect that is typical of a traditional bull market in this halving cycle. Meanwhile, others point out that Bitcoin has witnessed a significant rise from $20,000 to $120,000 and Ethereum from $1,400 to $4,900. The community is widely focusing on Ethereum&apos;s recent relative strength and the changing fund flows on exchanges. There has been an increase in Bitcoin inflows and a decrease in Ethereum outflows.&quot;</description>
+      <pubDate>Sun, 31 Aug 2025 14:57:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21910</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27060</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -144,36 +106,33 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Trend Research transferred 1,000,000 PENDLE to Binance 10 minutes ago</title>
+      <link>https://www.lookonchain.com/feeds/27059</link>
+      <description>On August 31st, as monitored by on-chain analyst Yu Jin, Trend Research, a secondary investment institution under LD Capital, transferred 1 million PENDLE tokens (valued at $4.78 million) that were purchased a week ago to Binance 10 minutes ago. It is possible that they are planning to sell off the Ethereum ecosystem tokens they had accumulated earlier.Previously, reports showed that Trend Research transferred 203,105 ENS tokens (worth $4.72 million) to Binance 5 minutes ago. These tokens were withdrawn from Binance on July 23rd at a price of $28.82. If sold, it would lead to a loss of $1.133 million.</description>
+      <pubDate>Sun, 31 Aug 2025 14:57:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27059</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>transfer</category>
 
     </item>
     <item>
-      <title>8 new addresses have amassed a total of 583,000 ETH since July 9.</title>
-      <link>https://www.lookonchain.com/feeds/21911</link>
-      <description>On July 26th, based on the monitoring of LookOnChain, 8 new addresses have witnessed an increase in their holdings by 42,788 ETH ($159 million) on this day. From July 9th onwards, these 8 new addresses have accumulated a total of 583,248 ETH (approximately $2.17 billion).</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <title>Sonic Labs Community Vote Passes &quot;US Market Expansion and TradFi Adoption Plan&quot; Proposal</title>
+      <link>https://www.lookonchain.com/feeds/27058</link>
+      <description>On August 31st, the Sonic Labs community cast their votes in support of the &quot;U.S. Market Expansion and TradFi Adoption Plan&quot; proposal. The intention of this proposal is to establish Sonic USA LLC in order to initiate U.S. operations. It plans to hire a Sonic USA CEO and a full U.S. team, set up an office in New York, and put in place a performance-based employee incentive plan. Meanwhile, the company intends to enhance long-term deflation through a Gas fee mechanism.It will also make adjustments to network parameters: approve the issuance of tokens for a $50 million ETF quota; $100 million Nasdaq PIPE development; 1.5 billion S tokens for Sonic USA, or reject all of the above parameter adjustments.</description>
+      <pubDate>Sun, 31 Aug 2025 14:57:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21911</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Crypto Fear &amp; Greed Index Slightly Rises to 72</title>
-      <link>https://www.lookonchain.com/feeds/21909</link>
-      <description>On July 26th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 72 (yesterday it was 70), and the &quot;greed&quot; sentiment in the market has rebounded slightly.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and incorporates the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21909</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27058</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -185,12 +144,47 @@
 
     </item>
     <item>
-      <title>The new address received an additional 13,696.8 ETH from Galaxy, pushing its total holdings to over 100,000 ETH.</title>
-      <link>https://www.lookonchain.com/feeds/21908</link>
-      <description>On July 26th, as per the monitoring of Onchain Lens, a fresh address once more received 13,696.8 ETH from Galaxy. This amount is valued at $49.97 million. Presently, the wallet holds 100,972 ETH, with a worth of $375.74 million.</description>
-      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <title>Tom Lee: The Fed is embarking on a gentle rate cut cycle after a prolonged pause</title>
+      <link>https://www.lookonchain.com/feeds/27057</link>
+      <description>August 31st. In the forthcoming weeks, the U.S. stock market will encounter a crucial period that will decide whether the latest round of rebound can persist. Employment data, key inflation indicators, and the Federal Reserve&apos;s interest rate decision will all be disclosed within the next 14 trading days, thereby setting the market tone for investors. Currently, the stock market appears to be at a crossroads: the S&amp;P 500 index just achieved its weakest monthly gain since March, and September has historically been its worst-performing month. Meanwhile, market volatility has nearly vanished. The VIX fear index only touched the key level of 20 once since the end of June.&quot;It is appropriate for investors to remain cautious in September,&quot; said Tom Lee, the Head of Research at Fundstrat Global Advisors. &quot;After a prolonged pause, the Federal Reserve is re-entering a mild rate-cutting cycle, making it difficult for traders to determine their positions.&quot; This long-time bullish analyst on U.S. s</description>
+      <pubDate>Sun, 31 Aug 2025 13:57:57 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21908</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27057</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Trend Research transferred 203,105 ENS to Binance 5 minutes ago</title>
+      <link>https://www.lookonchain.com/feeds/27056</link>
+      <description>On August 31st, according to on-chain analyst Ai Yi (@ai_9684xtpa), an affiliate of Ledger Capital named Trend Research transferred 203,105 ENS tokens (valued at $4.72 million) to Binance 5 minutes ago.This batch of tokens was withdrawn from Binance on July 23rd at a price of $28.82. If sold, it would lead to a loss of $1.133 million (with a recharge price of $23.24). A year ago, Trend&apos;s ENS trading strategy also appeared to have ended in a loss.</description>
+      <pubDate>Sun, 31 Aug 2025 13:57:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27056</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Analyst: Ethereum Short-term Bearish, Potential for a Breakthrough of $4,600 Resistance Level and a Run at $5,000</title>
+      <link>https://www.lookonchain.com/feeds/27055</link>
+      <description>On August 31st, the crypto analyst @ali_charts mentioned that if Ethereum&apos;s 4-hour closing price exceeds $4,500, it will signify a breakout of the recent high downward trend line, suggesting that bullish momentum may be on the rise. The next significant resistance level is at $4,600. If Ethereum can successfully break through this level, it may open the way for a retest of $5,000.Nevertheless, currently Ethereum is still trading within the middle of the channel, following the downward trend line. The SuperTrend indicator still shows a sell signal. Unless Ethereum can regain $4,500 and transform it into a support level, it remains bearish in the short term.</description>
+      <pubDate>Sun, 31 Aug 2025 13:57:57 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27055</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -201,6 +195,7 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>high-value</category>
 
     </item>
   </channel>
