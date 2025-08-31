@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 07:52:28 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 07:52:28 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 08:16:06 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 08:16:06 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>In August, Ethereum On-Chain DEX Trading Volume Surpassed $140.1 Billion, Setting an All-Time Monthly Record</title>
+      <link>https://www.lookonchain.com/feeds/27021</link>
+      <description>On August 31st, based on Defillama data, the monthly on-chain DEX trading volume on the Ethereum network in August exceeded $140.1 billion, establishing a new all-time high monthly record. The number of active addresses reached 16.77 million, which also set a new monthly record high. The TVL of Ethereum is currently reported to be $92.58 billion and still needs to increase by approximately 17% from the end-of-year 2021 bull market peak of around $108.8 billion.</description>
+      <pubDate>Sun, 31 Aug 2025 08:00:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27021</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>A whale went long on WLFI with 3x leverage at $0.2625, realizing an unrealized gain of $644,000.</title>
       <link>https://www.lookonchain.com/feeds/27020</link>
       <description>On August 31st, as per the monitoring of OnchainLens, a whale employed 3 times leverage to take a long position in WLFI. The entry price was $0.2625, and the position was worth approximately $3 million. Currently, it holds an unrealized gain of $644,000.</description>
-      <pubDate>Sun, 31 Aug 2025 07:16:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 07:16:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27020</guid>
       <category>crypto</category>
@@ -36,7 +56,7 @@
       <title>WLFI Pre-market Price Surges Over 20.3% in 24 Hours, Currently Trading at $0.3251</title>
       <link>https://www.lookonchain.com/feeds/27019</link>
       <description>On August 31st, according to HTX market data, the pre-market price of WLFI (World Liberty Financial) has increased by more than 20.3% within the past 24 hours and is currently trading at $0.3251.Moreover, Hyperliquid, which can be accessed via https://app.hyperliquid.xyz/join/NTOD, is showing a pre-market trading price of WLFI at $0.3345, while Binance is showing a pre-market trading price of WLFI at $0.3232.</description>
-      <pubDate>Sun, 31 Aug 2025 07:08:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 07:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27019</guid>
       <category>crypto</category>
@@ -54,7 +74,7 @@
       <title>Data: WLFI&apos;s valuation has increased by over 21x in the past 8 months. Its launch tomorrow will see a &quot;Price Repositioning&quot; event.</title>
       <link>https://www.lookonchain.com/feeds/27018</link>
       <description>On August 31st, the Trump family&apos;s cryptocurrency project, World Liberty Finance (WLFI), was established on September 16th of last year. Trump was designated as the &quot;Chief Cryptocurrency Advocate&quot;, while his sons Eric, Little Donald, and Barron served as the project&apos;s &quot;Web3 Ambassadors&quot;. The first ICO of WLFI began on October 15th, 2024, selling 200 billion WLFI at a price of $0.015, with a first-round financing valuation of $1.5 billion. On January 20th of this year, the day of Trump&apos;s inauguration, WLFI announced its second token sale, issuing another 50 billion tokens at a price of $0.05, a 230% increase from the initial sale, and a second-round financing valuation of $5 billion. The current Binance pre-market price is $0.32, indicating that WLFI&apos;s valuation has grown more than 21 times in the past 8 months.The market generally holds the view that the circulation launch of WLFI is a potential moment of &quot;price repricing&quot;. The initial 20% unlock release serves as both a test of mark</description>
-      <pubDate>Sun, 31 Aug 2025 06:56:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 07:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27018</guid>
       <category>crypto</category>
@@ -71,9 +91,26 @@
       <title>Santiment: Cryptocurrency &apos;Buy the Dip&apos; Discussion Surges, Potentially Signaling More Risk</title>
       <link>https://www.lookonchain.com/feeds/27017</link>
       <description>August 31st. Santiment, an emotion analysis platform, stated that with Bitcoin&apos;s decline, the mention of &quot;buying the dip&quot; on social media is on the rise. This may suggest that the cryptocurrency market has not yet reached its bottom. Apparently, people in the market are beginning to feel uneasy and are trying to find some entry points as the price dips.Santiment analysts said that this could be a warning signal for the market. Do not interpret the discussion of &quot;buying the dip&quot; as a clear indication of the market bottoming out. The real market bottom is usually accompanied by widespread fear and a decreased interest in buying. It often forms when the crowd loses hope and is afraid to make purchases. Price trends are usually contrary to the expectations of retail traders. History has shown that when more people think the market has bottomed out, it may actually indicate further declines.</description>
-      <pubDate>Sun, 31 Aug 2025 06:51:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 06:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27017</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will open airdrop distribution at 20:00, with a points threshold of 220 points.</title>
+      <link>https://www.lookonchain.com/feeds/27016</link>
+      <description>August 31st. Binance Alpha will commence its airdrop claim starting at 20:00 (UTC+8) today. Users possessing at least 220 Alpha points will be able to claim the tokens on a first-come, first-served basis until the airdrop pool is completely distributed or the airdrop event concludes. The specific token has not been disclosed yet.</description>
+      <pubDate>Sun, 31 Aug 2025 06:15:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27016</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -88,7 +125,7 @@
       <title>Total Open Interest of WLFI Futures Contracts Surges by 26.77% in the Past 24 Hours, Currently Standing at $589 Million</title>
       <link>https://www.lookonchain.com/feeds/27015</link>
       <description>August 31st: The cryptocurrency project World Liberty Finance (WLFI) of the Trump family is set to officially launch tomorrow. In the past 24 hours, the total open interest of WLFI futures contracts across the network has witnessed a surge of 26.77% and now stands at $5.89 billion.In addition, the Hyperliquid platform indicates that the pre-trading price of WLFI is currently at $0.311, with an annualized funding rate of 11.38%. The number of long positions exceeds that of short positions. On Binance, the pre-trading price of WLFI is at $0.2986, with a funding rate of 0.005%, and there are slightly more long positions than short positions.World Liberty Finance (WLFI) is scheduled to be launched on Ethereum on September 1st, opening up for claiming and trading. Early supporters (at $0.015 and $0.05 rounds) will be able to unlock 20%, while the remaining 80% will be subject to a community vote. Tokens held by the foun</description>
-      <pubDate>Sun, 31 Aug 2025 05:51:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27015</guid>
       <category>crypto</category>
@@ -103,27 +140,10 @@
 
     </item>
     <item>
-      <title>Binance Alpha will open airdrop distribution at 20:00, with a points threshold of 220 points.</title>
-      <link>https://www.lookonchain.com/feeds/27016</link>
-      <description>August 31st. Binance Alpha will commence its airdrop claim starting at 20:00 (UTC+8) today. Users possessing at least 220 Alpha points will be able to claim the tokens on a first-come, first-served basis until the airdrop pool is completely distributed or the airdrop event concludes. The specific token has not been disclosed yet.</description>
-      <pubDate>Sun, 31 Aug 2025 05:51:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27016</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>SPARK, a meme coin, saw its market cap briefly surpass $20 million, with a 24-hour price increase of over 48.56%.</title>
       <link>https://www.lookonchain.com/feeds/27013</link>
       <description>On August 31st, based on GMGN data, the on-chain AI virtual creature concept Meme token SPARK&apos;s market capitalization briefly exceeded $20 million. Currently, it is at $18.6 million. It has a 24-hour price increase of 48.56% and a 24-hour trading volume of $4.1 million.BlockBeats reminds users that Meme coins often lack practical use cases and experience high price volatility. Therefore, investment should be approached with caution.</description>
-      <pubDate>Sun, 31 Aug 2025 04:51:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27013</guid>
       <category>crypto</category>
@@ -141,7 +161,7 @@
       <title>September Federal Reserve Board Composition Forecast: Trump Camp May Have a Four to Three Edge</title>
       <link>https://www.lookonchain.com/feeds/27014</link>
       <description>August 31st. Apart from Tim Cook who is currently engaged in a court battle with Trump, the Federal Reserve Board of Governors (with a full membership of 7) also comprises Powell and two governors appointed by Biden (Jefferson and Barr), and they, like Cook, are in alignment with Powell. In addition, there are two governors appointed by Trump during his first term (Waller and Bowman), and both of them voted in favor of rate cuts in July. Trump has nominated his advisor Stephen Moore to fill the vacancy caused by Cugler&apos;s resignation. The Senate Banking Committee will hold a confirmation hearing for Moore next Thursday. If approved promptly, he may join the Fed in time for the September meeting, indicating that Trump will have at least three supporters on the Federal Reserve Board. Furthermore, if the court rules that Trump can dismiss Cook, he will promptly nominate her successor, potentially enabling him to obtain a majority (four out of seven) on the board. This ruling is unlikely to</description>
-      <pubDate>Sun, 31 Aug 2025 04:51:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27014</guid>
       <category>crypto</category>
@@ -158,7 +178,7 @@
       <title>EigenCloud has announced the latest developments in the project and plans to expand its applications in multiple areas.</title>
       <link>https://www.lookonchain.com/feeds/27012</link>
       <description>On August 31st, EigenCloud declared its most recent project plan. This plan will be employed to provide support for applications in various fields such as Artificial Intelligence (AI), A2A, DeFi, zkTLS, Real World Assets (RWAs), DeFAI, DePIN, Intelligent Agents, Rollups, and Oracles.On June 17th, Eigen Labs announced the commencement of the Ethereum Re-Staking Protocol EigenCloud. a16z crypto is set to invest $70 million by directly purchasing EIGEN tokens. This follows a16z&apos;s additional investment of $100 million in EigenLayer in February 2024. EigenCloud is constructed on top of the EigenLayer Re-Staking Protocol and integrates functions like Data Availability (EigenDA), Generalized Computation (EigenCompute), and Dispute Resolution (EigenVerify). The platform enables developers to cryptographically verify off-chain activities, offering the same level of trust guarantees as on-chain activities. Currently, more than $12 billion in re-staked assets safeguard over 200 decentralized se</description>
-      <pubDate>Sun, 31 Aug 2025 04:51:35 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 04:15:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27012</guid>
       <category>crypto</category>
@@ -169,24 +189,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Renowned trader TechnoRevenant holds approximately a $28.9 million long position in XPL, representing 13.4% of the total network holdings.</title>
-      <link>https://www.lookonchain.com/feeds/27011</link>
-      <description>On August 31, as per the monitoring of HyperInsight, the renowned trader TechnoRevenant holds a substantial long position with low leverage in XPL on Hyperliquid. There are 13 different addresses involved, and the total value of the long position is approximately $28.9 million, accounting for 38% of the total open interest ($76.15 million) on Hyperliquid. All of these positions have a leverage of less than 1x.According to Coinglass data, the current global open interest in XPL futures is reported to be $216 million, with a 24-hour increase of 3.99%.</description>
-      <pubDate>Sun, 31 Aug 2025 03:51:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27011</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
