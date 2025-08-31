@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 11:53:26 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 11:53:26 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 12:28:41 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 12:28:41 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,45 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Analysis: The WLFI TGE circulating supply is significantly lower than expected, with only 65.5% of the presale tokens transferred to the Lockbox contract for activation.</title>
+      <link>https://www.lookonchain.com/feeds/27045</link>
+      <description>August 31st. According to on-chain analyst Ai (@ai_9684xtpa), currently among the total 1 trillion WLFI token supply, only 20% of the explicitly unlocked tokens at TGE come from public sale rounds one and two. The total number of tokens from public sale rounds is 250 billion.· Assuming all participants have transferred their tokens to Lockbox and activated them, then the TGE circulating supply would be 5 billion tokens (5% of the total supply). Estimated at the current Binance contract price of $0.3858, this would result in a $1.93 billion sell-off.· However, Tokenomist discovered that in the WLFI smart contract, the corresponding early presale user share is only 1.843 million tokens (with 6.57 billion tokens not included). If this situation is true, then under the same conditions, the TGE circulating supply will be reduced to 3.68 billion tokens, with approximately a $1.42 billion sell-off.· As of eight o&apos;clock tonight, the WLFI Lockbox contract has received a total of 16.395 bi</description>
+      <pubDate>Sun, 31 Aug 2025 12:16:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27045</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha has launched World of Dypians (WOD), and users holding at least 220 Alpha points can claim a 750 WOD airdrop.</title>
+      <link>https://www.lookonchain.com/feeds/27044</link>
+      <description>August 31st, as per official channels, Binance Alpha has now initiated World of Dypians (WOD). Users possessing at least 220 Alpha points are eligible to claim an airdrop of 750 WOD tokens. The first-come, first-served principle applies. In case the event is not yet concluded, the points threshold will automatically reduce by 15 points every hour. It should be noted that claiming the airdrop will consume 15 Alpha points. Users are required to confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a waiver of the airdrop.</description>
+      <pubDate>Sun, 31 Aug 2025 12:08:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27044</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Michael Saylor has reissued Bitcoin Tracker information, hinting at additional BTC purchases.</title>
       <link>https://www.lookonchain.com/feeds/27043</link>
       <description>On August 31st, the founder of Strategy, Michael Saylor, once more shared information related to the Bitcoin Tracker. He declared, &quot;Bitcoin is still available for purchase.&quot;Based on past patterns, Strategy always makes public information about increasing its holdings of Bitcoin on the second day following the release of such news.</description>
-      <pubDate>Sun, 31 Aug 2025 11:48:33 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 11:48:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27043</guid>
       <category>crypto</category>
@@ -36,7 +71,7 @@
       <title>The high-profile BTC ancient whale has once again transferred 1000 BTC to Hyperliquid 20 minutes ago to reallocate into ETH.</title>
       <link>https://www.lookonchain.com/feeds/27042</link>
       <description>On August 31st, as per the monitoring of Onchain Lens, a highly prominent BTC ancient whale that has been actively swapping ETH recently transferred another 1000 BTC (valued at $108.54 million) to Hyperliquid for another round of ETH swapping, which occurred 20 minutes ago.During the past 8 hours, this whale has deposited a total of 3000 BTC, with a value of $326.78 million, and converted it into ETH.</description>
-      <pubDate>Sun, 31 Aug 2025 11:40:33 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 11:40:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27042</guid>
       <category>crypto</category>
@@ -59,7 +94,7 @@
       <title>Overall Open Interest of WLFI Futures Contracts Surges by 134.46% in 24 Hours, Currently Standing at $1.715 Billion</title>
       <link>https://www.lookonchain.com/feeds/27041</link>
       <description>On August 31st, the cryptocurrency project of the Trump family, World Liberty Finance (WLFI) token, is set to officially go live tomorrow. In the past 24 hours, the overall trading volume of WLFI futures contracts surged by 134.46% and currently stands at 17.15 billion US dollars. The open interest has increased by 64.92% in the past 24 hours and is now at 7.93 billion US dollars.According to HTX market data, the pre-market price of WLFI (World Liberty Finance) briefly broke through $0.38 and is currently at $0.3781, with a 24-hour increase of more than 39.1%.World Liberty Finance (WLFI) is scheduled to go live on Ethereum on September 1st, with both claiming and trading enabled. Early supporters (at $0.015 and $0.05 rounds) will be able to unlock 20%, and the remaining 80% will be determined by community voting. Tokens held by the founding team, advisors, and partners will not be unlocked. Trading will start at 8 p.m. Beijing time on September 1st, with the start of claiming 20% of</description>
-      <pubDate>Sun, 31 Aug 2025 11:32:33 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 11:32:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27041</guid>
       <category>crypto</category>
@@ -74,44 +109,10 @@
 
     </item>
     <item>
-      <title>Shitcoin Season Index Rises to 59</title>
-      <link>https://www.lookonchain.com/feeds/27040</link>
-      <description>On August 31st, according to CoinMarketCap data, the Altcoin Season Index has increased to 59. This index indicates that within the past 90 days, approximately 59 projects among the top 100 cryptocurrencies in terms of market capitalization have outperformed Bitcoin.Note: The CMC Cryptocurrency Altseason Index is a real-time indicator employed to determine whether the current cryptocurrency market is in an altcoin-dominated season. This index is based on the performance of the top 100 altcoins in relation to Bitcoin over the past 90 days.</description>
-      <pubDate>Sun, 31 Aug 2025 11:08:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27040</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>OKX will list WLFI spot trading and convert pre-market futures into perpetual contracts.</title>
-      <link>https://www.lookonchain.com/feeds/27039</link>
-      <description>August 31st. According to an official announcement, OKX is going to list WLFI (World Liberty Financial) and convert WLFI pre-market contracts into standard perpetual contracts. Deposits are now available, and the specific schedule is as follows:· Auction period: 8:00 - 9:00 PM on September 1 (UTC+8)· Spot trading starts: 9:00 PM on September 1 (UTC+8)· Pre-market contract conversion: 10:00 PM on September 1 (UTC+8)</description>
-      <pubDate>Sun, 31 Aug 2025 11:08:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27039</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>SharpLink currently holds 797,700 ETH, with an unrealized profit of $753 million.</title>
       <link>https://www.lookonchain.com/feeds/27038</link>
       <description>On August 31, based on the data from strategicethreserve, SharpLink Gaming (SBET) currently possesses 797,700 ETH, which is approximately worth $3.55 billion. The position has seen a 82% increase in the past 30 days, and there is an unrealized gain of $753 million.</description>
-      <pubDate>Sun, 31 Aug 2025 11:00:33 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 11:27:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27038</guid>
       <category>crypto</category>
@@ -129,10 +130,44 @@
 
     </item>
     <item>
+      <title>Shitcoin Season Index Rises to 59</title>
+      <link>https://www.lookonchain.com/feeds/27040</link>
+      <description>On August 31st, according to CoinMarketCap data, the Altcoin Season Index has increased to 59. This index indicates that within the past 90 days, approximately 59 projects among the top 100 cryptocurrencies in terms of market capitalization have outperformed Bitcoin.Note: The CMC Cryptocurrency Altseason Index is a real-time indicator employed to determine whether the current cryptocurrency market is in an altcoin-dominated season. This index is based on the performance of the top 100 altcoins in relation to Bitcoin over the past 90 days.</description>
+      <pubDate>Sun, 31 Aug 2025 11:27:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27040</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>OKX will list WLFI spot trading and convert pre-market futures into perpetual contracts.</title>
+      <link>https://www.lookonchain.com/feeds/27039</link>
+      <description>August 31st. According to an official announcement, OKX is going to list WLFI (World Liberty Financial) and convert WLFI pre-market contracts into standard perpetual contracts. Deposits are now available, and the specific schedule is as follows:· Auction period: 8:00 - 9:00 PM on September 1 (UTC+8)· Spot trading starts: 9:00 PM on September 1 (UTC+8)· Pre-market contract conversion: 10:00 PM on September 1 (UTC+8)</description>
+      <pubDate>Sun, 31 Aug 2025 11:27:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27039</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>10x Research: South Korean Retail Traders Have Already Bought Over $12 Billion Worth of US Crypto Company Stocks This Year</title>
       <link>https://www.lookonchain.com/feeds/27037</link>
       <description>On August 31st, the data indicates that individual investors in South Korea, who have been actively engaged in cryptocurrency investment, are expanding their investment scope by purchasing a large amount of cryptocurrency-related stocks listed in the US. 10x Research shows that South Korean retail investors have purchased more than $12 billion worth of US stocks in cryptocurrency companies this year, including Bitmine, Circle, and Coinbase.In August alone, South Korean investors bought $426 million worth of Bitmine, $226 million worth of Circle, and $183 million worth of Coinbase stocks. They also bought $282 million worth of a 2x Ethereum ETF. 10x Research points out: &quot;South Korean investors are pouring billions of dollars into cryptocurrency stocks, which is reshaping global fund flows and attracting the attention of Wall Street. The stablecoin legislation in the US and South Korea has also provided a strong background for this wave of capital inflow.&quot;This trend is different from</description>
-      <pubDate>Sun, 31 Aug 2025 10:52:33 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 10:27:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27037</guid>
       <category>crypto</category>
@@ -147,29 +182,10 @@
 
     </item>
     <item>
-      <title>A whale deposited $5.96 million into HyperLiquid and went long on SOL and HYPE.</title>
-      <link>https://www.lookonchain.com/feeds/27035</link>
-      <description>On August 31, as monitored by Onchain Lens, a whale deposited 5.96 million USDC into HyperLiquid and established a 20x leveraged long position on SOL and a 10x leveraged long position on HYPE.</description>
-      <pubDate>Sun, 31 Aug 2025 09:52:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27035</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>California Governor Plans to Launch &quot;Trump Corruption Coin&quot; to Criticize Trump&apos;s Controversial Actions in the Cryptocurrency Space</title>
       <link>https://www.lookonchain.com/feeds/27036</link>
       <description>On August 31st, as per Cointelegraph, California Governor Gavin Newsom recently disclosed plans to initiate a cryptocurrency named the &quot;Trump Corruption Coin.&quot; This was done in direct response to Donald Trump&apos;s controversial actions within the crypto space, particularly in the Meme coin sector.Gavin Newsom, during an appearance on the &quot;Pivot&quot; podcast, stated that this Meme coin, which is named after Trump&apos;s alleged scandals, is part of his broader &quot;Campaign for Democracy&quot; initiative. The funds raised through this coin will be utilized for redistricting and voter outreach efforts.Gavin Newsom said in the interview, &quot;We are on the verge of launching a meme coin. Trump, let&apos;s see which coin, yours or ours, gains more popularity.&quot; When asked if it would be called &quot;Gavin Coin,&quot; he responded, &quot;No, it is called the Trump Corruption Coin.&quot;He further added, &quot;We merely aim to intensify the heat and make people aware of the absurdity of this situation.&quot; Gavin Newsom referred to Trump as &quot;on</description>
-      <pubDate>Sun, 31 Aug 2025 09:52:33 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 10:27:48 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27036</guid>
       <category>crypto</category>
@@ -180,25 +196,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Canary CEO: XRP Recognition on Wall Street Second Only to Bitcoin, XRP Demand Could Soar After ETF Launch</title>
-      <link>https://www.lookonchain.com/feeds/27034</link>
-      <description>On August 31st, Steven McClurg, the CEO of Canary Capital, stated that the level of recognition of XRP among Wall Street professionals is second only to Bitcoin. If an XRP ETF receives approval from the US SEC, market demand could experience a significant surge.It is reported that Canary Capital submitted a spot XRP ETF registration application in October of the previous year, and it has not yet obtained regulatory approval.</description>
-      <pubDate>Sun, 31 Aug 2025 09:52:33 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27034</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
