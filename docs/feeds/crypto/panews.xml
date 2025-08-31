@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 05:47:43 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 05:47:43 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 05:59:08 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 05:59:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,25 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>《金融时报》：加密热潮带动奢华旅游市场繁荣，年轻企业家成消费主力</title>
+      <link>https://www.panewslab.com/zh/articles/ae0f4941-8e2a-431d-b0e1-e6955e21015f</link>
+      <description>《金融时报》：加密热潮带动奢华旅游市场繁荣，年轻企业家成消费主力</description>
+      <pubDate>Sun, 31 Aug 2025 05:59:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ae0f4941-8e2a-431d-b0e1-e6955e21015f</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>9月美联储理事会的可能组成：特朗普可能以四比三占优，也可能打成平手</title>
       <link>https://www.panewslab.com/zh/articles/d1acccb2-6971-49ec-a6cd-6cd648691089</link>
       <description>9月美联储理事会的可能组成：特朗普可能以四比三占优，也可能打成平手</description>
-      <pubDate>Sun, 31 Aug 2025 05:47:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:57:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d1acccb2-6971-49ec-a6cd-6cd648691089</guid>
       <category>crypto</category>
@@ -32,7 +47,7 @@
       <title>某巨鲸6天内出售275枚BTC，并买入6802.7枚ETH后存入Aave V3借贷</title>
       <link>https://www.panewslab.com/zh/articles/9c8941a8-9fc9-42db-985c-b001e8f5c266</link>
       <description>某巨鲸6天内出售275枚BTC，并买入6802.7枚ETH后存入Aave V3借贷</description>
-      <pubDate>Sun, 31 Aug 2025 05:45:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:55:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9c8941a8-9fc9-42db-985c-b001e8f5c266</guid>
       <category>crypto</category>
@@ -51,7 +66,7 @@
       <title>分析师：比特币上涨的怀疑将持续多年，最大障碍是心理层面而非技术</title>
       <link>https://www.panewslab.com/zh/articles/477ea1cd-b5a1-4743-ab1a-0ae1bc28e914</link>
       <description>分析师：比特币上涨的怀疑将持续多年，最大障碍是心理层面而非技术</description>
-      <pubDate>Sun, 31 Aug 2025 05:43:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:53:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/477ea1cd-b5a1-4743-ab1a-0ae1bc28e914</guid>
       <category>crypto</category>
@@ -68,7 +83,7 @@
       <title>数据：1000枚BTC从未知钱包转移至HyperUnit</title>
       <link>https://www.panewslab.com/zh/articles/0928fa31-2260-49a1-9357-25ad8afc13e9</link>
       <description>数据：1000枚BTC从未知钱包转移至HyperUnit</description>
-      <pubDate>Sun, 31 Aug 2025 05:41:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:51:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0928fa31-2260-49a1-9357-25ad8afc13e9</guid>
       <category>crypto</category>
@@ -85,7 +100,7 @@
       <title>分析师：8月交易所稳定币储备激增70亿美元，或暗示投资者正撤出</title>
       <link>https://www.panewslab.com/zh/articles/37025f44-d515-4eba-9a20-debb806a4e44</link>
       <description>分析师：8月交易所稳定币储备激增70亿美元，或暗示投资者正撤出</description>
-      <pubDate>Sun, 31 Aug 2025 05:39:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:49:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/37025f44-d515-4eba-9a20-debb806a4e44</guid>
       <category>crypto</category>
@@ -100,7 +115,7 @@
       <title>以太坊社区基金会推出ETH销毁证明代币BETH</title>
       <link>https://www.panewslab.com/zh/articles/be03331b-7996-432b-96de-2a0f42ed90ec</link>
       <description>以太坊社区基金会推出ETH销毁证明代币BETH</description>
-      <pubDate>Sun, 31 Aug 2025 05:37:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:47:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/be03331b-7996-432b-96de-2a0f42ed90ec</guid>
       <category>crypto</category>
@@ -117,7 +132,7 @@
       <title>约162.7亿枚WLFI转移至Lockbox合约</title>
       <link>https://www.panewslab.com/zh/articles/35b648ec-8eb6-46d1-8f61-d9b070402617</link>
       <description>约162.7亿枚WLFI转移至Lockbox合约</description>
-      <pubDate>Sun, 31 Aug 2025 05:35:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:45:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/35b648ec-8eb6-46d1-8f61-d9b070402617</guid>
       <category>crypto</category>
@@ -132,7 +147,7 @@
       <title>《富爸爸穷爸爸》作者：我购买黄金、白银和比特币，但很少出售</title>
       <link>https://www.panewslab.com/zh/articles/a93805c9-cb55-40bc-bb12-6831eea06815</link>
       <description>《富爸爸穷爸爸》作者：我购买黄金、白银和比特币，但很少出售</description>
-      <pubDate>Sun, 31 Aug 2025 05:33:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:43:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a93805c9-cb55-40bc-bb12-6831eea06815</guid>
       <category>crypto</category>
@@ -149,7 +164,7 @@
       <title>研究：企业买入比特币的速度约是开采速度的四倍</title>
       <link>https://www.panewslab.com/zh/articles/aee0420a-ff9a-49e0-95a0-d8ef4edddc32</link>
       <description>研究：企业买入比特币的速度约是开采速度的四倍</description>
-      <pubDate>Sun, 31 Aug 2025 05:31:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:41:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/aee0420a-ff9a-49e0-95a0-d8ef4edddc32</guid>
       <category>crypto</category>
@@ -166,7 +181,7 @@
       <title>分析：比特币资金流出并未使黄金受益，两种资产均在承压</title>
       <link>https://www.panewslab.com/zh/articles/9c102f3d-a7ff-4334-80ca-bba2666657fe</link>
       <description>分析：比特币资金流出并未使黄金受益，两种资产均在承压</description>
-      <pubDate>Sun, 31 Aug 2025 05:29:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:39:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9c102f3d-a7ff-4334-80ca-bba2666657fe</guid>
       <category>crypto</category>
@@ -183,7 +198,7 @@
       <title>分析师：加密财库公司风险与2008年金融危机时期的CDO风险类似</title>
       <link>https://www.panewslab.com/zh/articles/4b66aad0-8f21-404b-903b-feaefb7355fd</link>
       <description>分析师：加密财库公司风险与2008年金融危机时期的CDO风险类似</description>
-      <pubDate>Sun, 31 Aug 2025 05:27:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:37:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4b66aad0-8f21-404b-903b-feaefb7355fd</guid>
       <category>crypto</category>
@@ -198,7 +213,7 @@
       <title>WLFI代币通过Chainlink跨链至Solana，跨链10枚WLFI或为小额测试</title>
       <link>https://www.panewslab.com/zh/articles/f3dbd218-57a9-4a87-b432-a2d94b993898</link>
       <description>WLFI代币通过Chainlink跨链至Solana，跨链10枚WLFI或为小额测试</description>
-      <pubDate>Sun, 31 Aug 2025 05:25:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:35:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f3dbd218-57a9-4a87-b432-a2d94b993898</guid>
       <category>crypto</category>
@@ -213,7 +228,7 @@
       <title>行情：AXS日内涨幅16.02%，CRO日内跌幅3.45%</title>
       <link>https://www.panewslab.com/zh/articles/4n49gt3c</link>
       <description>行情：AXS日内涨幅16.02%，CRO日内跌幅3.45%</description>
-      <pubDate>Sun, 31 Aug 2025 05:23:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:33:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4n49gt3c</guid>
       <category>crypto</category>
@@ -228,7 +243,7 @@
       <title>美年健康：全资子公司与国富量子、京北方签署数字资产业务合作框架协议书</title>
       <link>https://www.panewslab.com/zh/articles/1260b324-c002-426e-ba28-21b84e8d16c9</link>
       <description>美年健康：全资子公司与国富量子、京北方签署数字资产业务合作框架协议书</description>
-      <pubDate>Sun, 31 Aug 2025 05:21:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:31:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1260b324-c002-426e-ba28-21b84e8d16c9</guid>
       <category>crypto</category>
@@ -243,7 +258,7 @@
       <title>Web3初创公司Q2融资96亿美元创季度融资第二高，基础设施项目吸引多数资金</title>
       <link>https://www.panewslab.com/zh/articles/6e6f50aa-7958-4503-89bc-0edba4b263c5</link>
       <description>Web3初创公司Q2融资96亿美元创季度融资第二高，基础设施项目吸引多数资金</description>
-      <pubDate>Sun, 31 Aug 2025 05:19:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:29:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6e6f50aa-7958-4503-89bc-0edba4b263c5</guid>
       <category>crypto</category>
@@ -258,7 +273,7 @@
       <title>某鲸鱼从Bybit提取433,176枚IP，价值约370万美元</title>
       <link>https://www.panewslab.com/zh/articles/8a491f40-44bd-4128-8bc0-4c0063267a21</link>
       <description>某鲸鱼从Bybit提取433,176枚IP，价值约370万美元</description>
-      <pubDate>Sun, 31 Aug 2025 05:17:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:27:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8a491f40-44bd-4128-8bc0-4c0063267a21</guid>
       <category>crypto</category>
@@ -273,7 +288,7 @@
       <title>Longling Capital买入7000枚ETH，价值约3067万美元</title>
       <link>https://www.panewslab.com/zh/articles/04d65fcc-a980-4dad-bc29-69380968dae9</link>
       <description>Longling Capital买入7000枚ETH，价值约3067万美元</description>
-      <pubDate>Sun, 31 Aug 2025 05:15:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:25:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/04d65fcc-a980-4dad-bc29-69380968dae9</guid>
       <category>crypto</category>
@@ -290,7 +305,7 @@
       <title>盗取8150万美元的黑客再次通过Tornado cash转走4320枚ETH</title>
       <link>https://www.panewslab.com/zh/articles/643082ab-3d32-4c9e-85b2-875c47fe7f39</link>
       <description>盗取8150万美元的黑客再次通过Tornado cash转走4320枚ETH</description>
-      <pubDate>Sun, 31 Aug 2025 05:13:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:23:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/643082ab-3d32-4c9e-85b2-875c47fe7f39</guid>
       <category>crypto</category>
@@ -307,7 +322,7 @@
       <title>美国加密货币入室抢劫案主犯被判监禁后因殴打证人加刑6年</title>
       <link>https://www.panewslab.com/zh/articles/22d3aef9-c2bc-4d51-a49a-62bdb900b5c3</link>
       <description>美国加密货币入室抢劫案主犯被判监禁后因殴打证人加刑6年</description>
-      <pubDate>Sun, 31 Aug 2025 05:11:43 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:21:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/22d3aef9-c2bc-4d51-a49a-62bdb900b5c3</guid>
       <category>crypto</category>
@@ -316,23 +331,6 @@
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>ETH突破4400美元，日内涨幅 0.53%</title>
-      <link>https://www.panewslab.com/zh/articles/8cp80kud</link>
-      <description>ETH突破4400美元，日内涨幅 0.53%</description>
-      <pubDate>Sun, 31 Aug 2025 05:09:43 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8cp80kud</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
