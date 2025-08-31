@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Aug 2025 09:01:42 +0000</lastBuildDate>
-    <pubDate>Sun, 31 Aug 2025 09:01:42 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 09:25:48 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 09:25:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,49 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>「Brother Buddy」 Huang Licheng currently holds approximately $130 million worth of ETH and HYPE long positions, with an unrealized loss of about $850,000</title>
+      <link>https://www.lookonchain.com/feeds/27029</link>
+      <description>On August 31st, according to the monitoring of HyperInsight (accessible via https://app.hyperliquid.xyz/join/NTOD), the &quot;Big Brother Whale&quot; Huang Lizheng currently has approximately $130 million worth of long positions in ETH and HYPE. There is a floating loss of about $850,000. The details are as follows:· He holds 24,899 long positions in ETH, worth $111 million, with a floating loss of approximately $420,000. The opening price was $4,485.98, and the liquidation price was $3,066.· He holds 420,000 long positions in HYPE, worth $18.75 million, with a floating loss of about $430,000.</description>
+      <pubDate>Sun, 31 Aug 2025 09:24:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27029</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Analyst: Bitcoin Can Hedge Against Selling Pressure on US Bonds</title>
+      <link>https://www.lookonchain.com/feeds/27028</link>
+      <description>August 31st. As per CoinDesk, André Dragosch, the European Research Director at Bitwise Asset Management, mentioned that when the stock market is in a downturn, gold serves as the most effective hedge. Meanwhile, Bitcoin demonstrates more resilience when the U.S. bond market is under pressure. Historical data and industry research also back this perspective: gold generally rises during stock market bear markets, while Bitcoin performs better during U.S. Treasury sell-offs.By 2025, the price of gold has increased by more than 30%, and Bitcoin has risen by approximately 16.46%. This reflects the significantly different roles that the two assets play when investors consider rising yields, stock market volatility, and Trump&apos;s support for cryptocurrency.</description>
+      <pubDate>Sun, 31 Aug 2025 09:16:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27028</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>If Bitcoin surpasses $110,000, the mainstream CEX&apos;s total short liquidation volume will reach $514 million.</title>
       <link>https://www.lookonchain.com/feeds/27027</link>
       <description>On August 31st, based on Coinglass data, if Bitcoin manages to break through $110,000, the cumulative short liquidation intensity on mainstream CEX will reach 514 million.Conversely, if Bitcoin drops below $108,000, the cumulative long liquidation intensity on mainstream CEX will reach 171 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, intensity.Therefore, the liquidation chart shows to what degree the price of the underlying asset will be impacted when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will experience a more intense reaction due to the liquidity shock wave after reaching that level.</description>
-      <pubDate>Sun, 31 Aug 2025 09:00:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 09:00:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27027</guid>
       <category>crypto</category>
@@ -37,7 +76,7 @@
       <title>DOLO Surges Over 47% in 24 Hours, Currently Trading at $0.3511</title>
       <link>https://www.lookonchain.com/feeds/27026</link>
       <description>On August 31st, based on HTX market data, DOLO witnessed a surge of more than 47% within the past 24 hours and is currently trading at $0.3511.</description>
-      <pubDate>Sun, 31 Aug 2025 08:48:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 08:48:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27026</guid>
       <category>crypto</category>
@@ -55,7 +94,7 @@
       <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Meteora DBC, Letsbonk</title>
       <link>https://www.lookonchain.com/feeds/27025</link>
       <description>On August 31st, as per the Jupiter Data Dashboard, within the past 24 hours in the Solana Launchpad market share ranking, pump.fun took the lead with 49.3%, Meteora DBC came in second with 35.3%, and Letsbonk secured the third position with 10.1%.</description>
-      <pubDate>Sun, 31 Aug 2025 08:40:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 08:40:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27025</guid>
       <category>crypto</category>
@@ -72,7 +111,7 @@
       <title>Ethereum PoS Network Exit Queue Decreases to Around 966,000 ETH, Entry Queue Increases to Around 773,000 ETH</title>
       <link>https://www.lookonchain.com/feeds/27024</link>
       <description>On August 31st, based on the data from the Validator Queue tracking website &quot;validatorqueue&quot;, it is currently reported that the exit queue of the Ethereum PoS network is 966,000 ETH. Calculated at the current price, approximately $4.25 billion worth of ETH is leaving the PoS network. The withdrawal delay is currently reported to be 16 days and 19 hours.At the same time, there is a growing demand for staking activations by new validators. The current entry queue is 773,000 ETH, worth around $3.4 billion, and the waiting time in the entry queue is 13 days and 10 hours.</description>
-      <pubDate>Sun, 31 Aug 2025 08:32:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 08:32:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27024</guid>
       <category>crypto</category>
@@ -88,27 +127,10 @@
 
     </item>
     <item>
-      <title>Metaplanet&apos;s stock price has dropped by over 50% since mid-June, and the financing &quot;flywheel&quot; is now failing.</title>
-      <link>https://www.lookonchain.com/feeds/27023</link>
-      <description>August 31st: According to Bloomberg, the stock price of the Japanese Bitcoin treasury company Metaplanet has witnessed a decline of more than 50% since mid-June, and its financing &quot;flywheel&quot; is encountering failure. On August 27th, Metaplanet announced its intention to raise $881 million with a view to increasing its Bitcoin holdings during September and October. The financing will be raised through an international stock issuance, and it is expected to achieve a net fundraising of approximately 130.334 billion yen (about $881 million), which is intended for:· Bitcoin purchase: 123.818 billion yen ($837 million)· Bitcoin financial operations: 6.516 billion yen ($44 million)In addition, Eric Trump, the son of former U.S. President Donald Trump, is scheduled to attend the shareholders&apos; meeting of the Japanese Bitcoin financial company Metaplanet Inc on September 1st.</description>
-      <pubDate>Sun, 31 Aug 2025 08:24:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27023</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>Four.Meme&apos;s latest presale set a new BNB Chain fundraising record, with a total presale amount reaching a staggering $252 million.</title>
       <link>https://www.lookonchain.com/feeds/27022</link>
       <description>On August 31st, as the leading token issuance platform on the BNB Chain, Four.Meme announced the completion of the Creditlink (CDL) presale on the platform. The total subscription amount reached 252 million dollars, consisting of 194 million USD1 and 16.21 million FORM. The number of participating addresses was 79,627, setting a new fundraising record in the history of the BNB Chain.This milestone not only emphasizes the rapid growth of USD1 in on-chain fundraising but also showcases that the community, memes, and builders are jointly promoting the adoption and innovation of the ecosystem. This historic breakthrough further cements Four.Meme&apos;s core position as a community-driven fundraising new standard on the BNB Chain and lays a solid foundation for the incubation and growth of more high-quality projects in the future.</description>
-      <pubDate>Sun, 31 Aug 2025 08:16:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 08:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27022</guid>
       <category>crypto</category>
@@ -123,10 +145,27 @@
 
     </item>
     <item>
+      <title>Metaplanet&apos;s stock price has dropped by over 50% since mid-June, and the financing &quot;flywheel&quot; is now failing.</title>
+      <link>https://www.lookonchain.com/feeds/27023</link>
+      <description>August 31st: According to Bloomberg, the stock price of the Japanese Bitcoin treasury company Metaplanet has witnessed a decline of more than 50% since mid-June, and its financing &quot;flywheel&quot; is encountering failure. On August 27th, Metaplanet announced its intention to raise $881 million with a view to increasing its Bitcoin holdings during September and October. The financing will be raised through an international stock issuance, and it is expected to achieve a net fundraising of approximately 130.334 billion yen (about $881 million), which is intended for:· Bitcoin purchase: 123.818 billion yen ($837 million)· Bitcoin financial operations: 6.516 billion yen ($44 million)In addition, Eric Trump, the son of former U.S. President Donald Trump, is scheduled to attend the shareholders&apos; meeting of the Japanese Bitcoin financial company Metaplanet Inc on September 1st.</description>
+      <pubDate>Sun, 31 Aug 2025 08:24:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27023</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>In August, Ethereum On-Chain DEX Trading Volume Surpassed $140.1 Billion, Setting an All-Time Monthly Record</title>
       <link>https://www.lookonchain.com/feeds/27021</link>
       <description>On August 31st, based on Defillama data, the monthly on-chain DEX trading volume on the Ethereum network in August exceeded $140.1 billion, establishing a new all-time high monthly record. The number of active addresses reached 16.77 million, which also set a new monthly record high. The TVL of Ethereum is currently reported to be $92.58 billion and still needs to increase by approximately 17% from the end-of-year 2021 bull market peak of around $108.8 billion.</description>
-      <pubDate>Sun, 31 Aug 2025 08:00:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 08:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27021</guid>
       <category>crypto</category>
@@ -146,7 +185,7 @@
       <title>A whale went long on WLFI with 3x leverage at $0.2625, realizing an unrealized gain of $644,000.</title>
       <link>https://www.lookonchain.com/feeds/27020</link>
       <description>On August 31st, as per the monitoring of OnchainLens, a whale employed 3 times leverage to take a long position in WLFI. The entry price was $0.2625, and the position was worth approximately $3 million. Currently, it holds an unrealized gain of $644,000.</description>
-      <pubDate>Sun, 31 Aug 2025 07:00:49 +0000</pubDate>
+      <pubDate>Sun, 31 Aug 2025 07:24:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27020</guid>
       <category>crypto</category>
@@ -159,41 +198,6 @@
       <category>initial-load</category>
       <category>whale</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>WLFI Pre-market Price Surges Over 20.3% in 24 Hours, Currently Trading at $0.3251</title>
-      <link>https://www.lookonchain.com/feeds/27019</link>
-      <description>On August 31st, according to HTX market data, the pre-market price of WLFI (World Liberty Financial) has increased by more than 20.3% within the past 24 hours and is currently trading at $0.3251.Moreover, Hyperliquid, which can be accessed via https://app.hyperliquid.xyz/join/NTOD, is showing a pre-market trading price of WLFI at $0.3345, while Binance is showing a pre-market trading price of WLFI at $0.3232.</description>
-      <pubDate>Sun, 31 Aug 2025 07:00:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27019</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Data: WLFI&apos;s valuation has increased by over 21x in the past 8 months. Its launch tomorrow will see a &quot;Price Repositioning&quot; event.</title>
-      <link>https://www.lookonchain.com/feeds/27018</link>
-      <description>On August 31st, the Trump family&apos;s cryptocurrency project, World Liberty Finance (WLFI), was established on September 16th of last year. Trump was designated as the &quot;Chief Cryptocurrency Advocate&quot;, while his sons Eric, Little Donald, and Barron served as the project&apos;s &quot;Web3 Ambassadors&quot;. The first ICO of WLFI began on October 15th, 2024, selling 200 billion WLFI at a price of $0.015, with a first-round financing valuation of $1.5 billion. On January 20th of this year, the day of Trump&apos;s inauguration, WLFI announced its second token sale, issuing another 50 billion tokens at a price of $0.05, a 230% increase from the initial sale, and a second-round financing valuation of $5 billion. The current Binance pre-market price is $0.32, indicating that WLFI&apos;s valuation has grown more than 21 times in the past 8 months.The market generally holds the view that the circulation launch of WLFI is a potential moment of &quot;price repricing&quot;. The initial 20% unlock release serves as both a test of mark</description>
-      <pubDate>Sun, 31 Aug 2025 07:00:49 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27018</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
