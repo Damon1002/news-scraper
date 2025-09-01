@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 18:49:31 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 18:49:31 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 19:00:59 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 19:00:59 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>If Ethereum drops below $4200, the overall Long/Short ratio on mainstream CEXs will reach a liquidation volume of 928 million dollars.</title>
-      <link>https://www.lookonchain.com/feeds/27232</link>
-      <description>September 2nd: The cryptocurrency market maintained its downward trend. Based on Coinglass data, in the event that Ethereum drops below $4200, the cumulative long liquidation strength of mainstream CEXs will reach $928 million.Conversely, if Ethereum surges above $4400, the cumulative short liquidation strength of mainstream CEXs will reach $539 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of contracts being liquidated. The bars on the liquidation chart actually signify the significance of each liquidation cluster in relation to neighboring clusters, that is, the strength. Hence, the liquidation chart illustrates to what extent the price of the underlying asset will be influenced when it reaches a specific level. A higher &quot;liquidation bar&quot; indicates that the price will experience a more intense reaction due to a liquidity avalanche.</description>
-      <pubDate>Mon, 01 Sep 2025 17:49:39 +0000</pubDate>
+      <title>Yesterday, the US Ethereum Spot ETF saw a net inflow of $4.528 billion, with BlackRock&apos;s ETHA experiencing a net inflow of $4.4 billion.</title>
+      <link>https://www.lookonchain.com/feeds/21916</link>
+      <description>On July 26th, based on the monitoring of Farside Investors, the net inflow into the US Ethereum spot ETF yesterday was $452.8 million. This includes:- BlackRock ETHA: +$440.1 million- Fidelity FETH: +$7.3 million- Bitwise ETHW: +$10 million- Grayscale ETHE: -$23.5 million- Grayscale Ethereum Trust: +$18.9 million</description>
+      <pubDate>Sat, 26 Jul 2025 03:56:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27232</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21916</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,48 +34,12 @@
 
     </item>
     <item>
-      <title>Gold Price Continues Uptrend, Analysts Warn of Profit-Taking Risk at High Levels</title>
-      <link>https://www.lookonchain.com/feeds/27231</link>
-      <description>On September 2nd, spurred by the anticipation of interest rate cuts and geopolitical tensions, gold futures maintained their upward trend on Monday following the attainment of a historical high. The present price of gold futures is approximately $3547, showing a daily increase of 0.88% and reaching a high of $3557.10 per ounce during the day.FxPro analyst Alex Kuptsikevich pointed out in a research report that macroeconomic and geopolitical news continuously favor precious metals. There are reports suggesting that India is actively selling U.S. government bonds and increasing its gold reserves. He also noted that the lack of progress in Russia-Ukraine peace talks has boosted the demand for safe havens.Kuptsikevich stated that the more evident short-term bullish factor is the market&apos;s growing expectation of a Fed rate cut in September. However, he cautioned investors to be cautious when participating in this round of the gold rally, as historical highs often trigger significant prof</description>
-      <pubDate>Mon, 01 Sep 2025 17:49:39 +0000</pubDate>
+      <title>Yesterday, the US Bitcoin Spot ETF saw a net inflow of $130 million</title>
+      <link>https://www.lookonchain.com/feeds/21917</link>
+      <description>July 26th. Based on Farside Investors&apos; data, the net inflow into US Bitcoin spot ETF yesterday was $130.8 million. This includes:BlackRock IBIT: + $92.8 millionFidelity FBTC: + $10.2 millionBitwise BITB: + $21.0 millionARK ARKB: + $30.3 millionVanEck HODL: + $18.2 millionGrayscale GBTC: - $50.5 millionGrayscale BTC Mini: + $8.8 million</description>
+      <pubDate>Sat, 26 Jul 2025 03:56:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27231</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Anchorage Digital recently increased its holdings by 542,000 HYPE tokens, worth $24 million.</title>
-      <link>https://www.lookonchain.com/feeds/27230</link>
-      <description>On September 2nd, based on on-chain data, Anchorage Digital has withdrawn 542,000 HYPE tokens (valued at $24 million) from Bybit in the past two days.</description>
-      <pubDate>Mon, 01 Sep 2025 17:48:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27230</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Withdrawals Slowing Down, with a CEX Net Inflow of 2,600.32 BTC in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/27229</link>
-      <description>On September 2nd, based on Coinglass data, in the past 24 hours, the total net inflow of BTC on CEXs was 2,600.32 BTC. The top three CEXs in terms of inflow volume are as follows:· Binance: with a net inflow of 2,089.42 BTC;· Bitfinex: having a net inflow of 464.89 BTC;· Kraken: with a net inflow of 102.98 BTC.In addition, Coinbase Pro witnessed a net outflow of 161.67 BTC and ranked first in the outflow list.</description>
-      <pubDate>Mon, 01 Sep 2025 17:48:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27229</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21917</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -86,53 +50,16 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>XPL Whale Makes $38 Million Profit Again with WLFI, Racking Up Hundreds of Millions</title>
-      <link>https://www.lookonchain.com/feeds/27228</link>
-      <description>On September 2nd, based on on-chain data, TechnoRevenant. After making a profit of $38 million on XPL last week, he has now earned billions of dollars in profit on WLFI. He received 200 million tokens (accounting for 20% of his total holdings), and these tokens are currently valued at $49 million. In total, he invested $30 million in the presale 8 months ago and obtained a 1% share of the total supply, which is 10 billion WLFI tokens. These tokens are currently worth $245 million, indicating that he has achieved an 8-fold return on this significant investment.</description>
-      <pubDate>Mon, 01 Sep 2025 16:48:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27228</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Justin Sun: Tron Network has minted an additional 25 million USD1</title>
-      <link>https://www.lookonchain.com/feeds/27225</link>
-      <description>On September 2nd, Justin Sun made a post on social media stating that the Tron network had just minted an additional 25 million USD1, and the total supply of USD1 on the network had reached more than 50 million.</description>
-      <pubDate>Mon, 01 Sep 2025 16:48:39 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27225</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 61,400 ETH in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/27227</link>
-      <description>On September 2nd, according to Coinglass data, within the past 24 hours, the total net outflow of ETH from CEX exchanges amounted to 61,400 ETH. The top three CEX exchanges in terms of outflow volume are as follows:· Binance, with an outflow of 44,200 ETH;· OKX, with an outflow of 9,841.09 ETH;· Kraken, with an outflow of 4,219.48 ETH.In addition, Coinbase Pro witnessed an inflow of 2,859.11 ETH, ranking first in the list of inflows.</description>
-      <pubDate>Mon, 01 Sep 2025 16:48:39 +0000</pubDate>
+      <title>US-listed company Bit Digital plans to increase its authorized share capital to buy more ETH</title>
+      <link>https://www.lookonchain.com/feeds/21915</link>
+      <description>July 26th. According to SEC filings, the publicly traded company Bit Digital (BTBT) in the U.S. disclosed that a significant shareholder meeting is scheduled to be held on September 10, 2025, at 9:00 AM at the company&apos;s main office address (11th floor, 31 Hudson Yards, New York, New York, USA), with the option of online streaming available. Shareholders can attend the meeting in person or participate through online streaming to exercise their voting rights and submit questions during the meeting. The meeting will deliberate on approving an increase in the company&apos;s authorized capital from $3.5 million (comprising 340 million common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share) to $10.1 million (consisting of 1 billion common shares with a par value of $0.01 per share; and 10 million preferred shares with a par value of $0.01 per share).Bit Digital stated that the company intends to raise a significant amount of additi</description>
+      <pubDate>Sat, 26 Jul 2025 03:32:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27227</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21915</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -146,12 +73,49 @@
 
     </item>
     <item>
-      <title>Coinbase and OKX are launching cryptocurrency products for Australia&apos;s $4.3 trillion AUD pension system.</title>
-      <link>https://www.lookonchain.com/feeds/27226</link>
-      <description>On September 2nd, as per Bloomberg, Australia&apos;s $4.3 trillion Australian dollar ($2.8 trillion US dollar) pension retirement system is stepping into a new realm for cryptocurrency. Two major digital asset exchanges, Coinbase Global Inc. and OKX, have consecutively launched products with the aim of guiding pension funds into cryptocurrency.According to John O’Shea, the Asia-Pacific Managing Director of Coinbase, the company is on the verge of launching a dedicated SMSF service, and there is a waiting list of more than 500 investors. Kate Cooper, the CEO of OKX Australia, stated that the demand for the similar product they launched in June exceeded expectations by a large margin.OKX&apos;s product and Coinbase&apos;s planned service will also be made available through third-party providers such as recommended accountants and law firms to assist investors in establishing SMSFs. Although there is no minimum balance requirement, the ongoing management costs, including mandatory independent audits,</description>
-      <pubDate>Mon, 01 Sep 2025 16:48:39 +0000</pubDate>
+      <title>Two addresses suspected to belong to the same whale have sold a total of 3810.76 ETH in the last 10 hours.</title>
+      <link>https://www.lookonchain.com/feeds/21912</link>
+      <description>On July 26th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), two addresses that are suspected to belong to the same entity have sold 3810.76 ETH within the past 10 hours. The total value of these sales is $13.92 million. If these ETH were sold, the entity would make a profit of $2.693 million.It is reported that both addresses accumulated ETH between October 2024 and June 2025. The average cost of one address is $2940, and the average cost of the other address is $2977. They started selling in batches yesterday. So far, a total of 5540.76 ETH has been transferred to exchanges, with an approximate value of $20.09 million.</description>
+      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27226</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21912</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>US Stock Market closed on Friday with most Crypto Stocks falling, SBET down by 5.70%</title>
+      <link>https://www.lookonchain.com/feeds/21914</link>
+      <description>On July 26th, according to the market data of rockflow, the US stock market closed on Friday. The Dow rose by 208 points, the S&amp;P 500 rose by 0.4%, and the Nasdaq rose by 0.24%. Cryptocurrency stocks generally declined, including:Coinbase (COIN) decreased by 1.27%, with a trading volume of $3.388 billion.MicroStrategy (MSTR) decreased by 2.18%, with a trading volume of $3.404 billion.BTCS (BTCS) decreased by 5.58%, with a trading volume of $30.985 million.Bit Digital (BTBT) decreased by 2.48%, with a trading volume of $64.216 million.SharpLink Gaming (SBET) decreased by 5.70%, with a trading volume of $1.078 billion.Bitmine Immersion (BMNR) decreased by 4.67%, with a trading volume of $1.181 billion.</description>
+      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21914</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Solana Ecosystem Meme Coin MEMECOIN briefly surged above $0.05 today, marking a 5325% gain in the last 7 days.</title>
+      <link>https://www.lookonchain.com/feeds/21913</link>
+      <description>On July 26th, according to GMGN market data, Solana&apos;s ecosystem Meme coin just memecoin (MEMECOIN) broke through $0.05 in the early hours of today. It is currently trading at $0.04917, with a 23.8% increase in the past 24 hours and a 5325% increase in the past 7 days. The market capitalization is currently $49.15 million, and the 24-hour trading volume is $17.07 million.BlockBeats Note: Meme coins often experience significant price volatility, which is usually driven by market sentiment and hype and lacks real value or use cases. Investors should be cautious of the risks involved.</description>
+      <pubDate>Sat, 26 Jul 2025 03:02:31 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21913</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -164,12 +128,12 @@
 
     </item>
     <item>
-      <title>Total WLFI Contract Position Across the Network currently stands at $9.17 billion, with only $7.03 million liquidated in the past 4 hours.</title>
-      <link>https://www.lookonchain.com/feeds/27224</link>
-      <description>On September 2nd, according to Coinglass data, the current total WLFI contract position across the network is currently reported to be $9.17 billion. Only $7.03 million has been liquidated in the past 4 hours (after WLFI was officially launched).</description>
-      <pubDate>Mon, 01 Sep 2025 15:48:39 +0000</pubDate>
+      <title>The SharpLink address has transferred 145 million USDC to Galaxy, either for ETH accumulation or other purposes.</title>
+      <link>https://www.lookonchain.com/feeds/21910</link>
+      <description>On July 26th, as monitored by on-chain data analyst Yu Jin, the SharpLink address transferred the 145 million USDC received earlier today from the Circle address to the Galaxy Digital wallet. Previously, SharpLink Gaming mainly purchased ETH through Galaxy Digital, and this 145 million USDC may still be used to increase its ETH holdings.</description>
+      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27224</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21910</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -178,16 +142,19 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
+      <category>transfer</category>
 
     </item>
     <item>
-      <title>WLFI has dropped below $0.24 and is now trading at $0.2386.</title>
-      <link>https://www.lookonchain.com/feeds/27223</link>
-      <description>On September 2nd, according to HTX market data, WLFI dipped below $0.24 and is currently trading at $0.2386.</description>
-      <pubDate>Mon, 01 Sep 2025 15:48:39 +0000</pubDate>
+      <title>8 new addresses have amassed a total of 583,000 ETH since July 9.</title>
+      <link>https://www.lookonchain.com/feeds/21911</link>
+      <description>On July 26th, based on the monitoring of LookOnChain, 8 new addresses have witnessed an increase in their holdings by 42,788 ETH ($159 million) on this day. From July 9th onwards, these 8 new addresses have accumulated a total of 583,248 ETH (approximately $2.17 billion).</description>
+      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27223</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21911</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -196,7 +163,44 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Crypto Fear &amp; Greed Index Slightly Rises to 72</title>
+      <link>https://www.lookonchain.com/feeds/21909</link>
+      <description>On July 26th, according to Alternative Data, the Fear and Greed Index of cryptocurrencies today is 72 (yesterday it was 70), and the &quot;greed&quot; sentiment in the market has rebounded slightly.Note: The Fear and Greed Index has a threshold ranging from 0 to 100 and incorporates the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin Dominance (10%) + Google Trends Analysis (10%).</description>
+      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21909</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The new address received an additional 13,696.8 ETH from Galaxy, pushing its total holdings to over 100,000 ETH.</title>
+      <link>https://www.lookonchain.com/feeds/21908</link>
+      <description>On July 26th, as per the monitoring of Onchain Lens, a fresh address once more received 13,696.8 ETH from Galaxy. This amount is valued at $49.97 million. Presently, the wallet holds 100,972 ETH, with a worth of $375.74 million.</description>
+      <pubDate>Sat, 26 Jul 2025 02:02:31 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/21908</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
   </channel>
