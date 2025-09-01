@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:52 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 00:00:52 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 02:24:18 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 02:24:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,30 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Market News: Bank of China (Hong Kong) Plans to Apply for Stablecoin Issuer License</title>
-      <link>https://www.lookonchain.com/feeds/27069</link>
-      <description>On September 1st, as reported by The Standard, following the joint venture company led by Standard Chartered Hong Kong officially expressing its intention to apply for a license, Bank of China Hong Kong intends to apply for a stablecoin issuer license and aims to become one of the first licensed issuers. The deadline for the first batch of applications is the end of September. Bank of China Hong Kong and the Hong Kong Monetary Authority have both declined to make any comments.</description>
-      <pubDate>Sun, 31 Aug 2025 23:57:01 +0000</pubDate>
+      <title>WLFI Multisig transferred 17.625 billion tokens to a certain contract address, and then transferred back 5 billion tokens</title>
+      <link>https://www.lookonchain.com/feeds/27094</link>
+      <description>On September 1st, according to on-chain analyst AI Yii ai_9684xtpa, 2 hours ago, the WLFI official multisig wallet transferred 17.625 billion tokens to contract 0xFef...b14B4. Subsequently, 5 billion of those tokens were transferred back to the multisig address. This represents the largest single-transaction amount for this address in 11 months, and the purpose of the contract remains unknown.</description>
+      <pubDate>Mon, 01 Sep 2025 02:08:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27069</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27094</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>Gate will list Moonchain (MCH) and launch a HODLer Airdrop, sharing 240,000 MCH</title>
+      <link>https://www.lookonchain.com/feeds/27093</link>
+      <description>On September 1st, as per an official announcement, Gate will list Moonchain (MCH) spot trading on September 3rd at 20:00 (UTC+8). The 286th Moonchain (MCH) HODLer Airdrop event has begun and will conclude on September 3rd at 18:00 (UTC+8). Users holding 1 GT can participate without charge to receive the airdrop and share 240,000 MCH.</description>
+      <pubDate>Mon, 01 Sep 2025 02:08:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27093</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,32 +49,12 @@
 
     </item>
     <item>
-      <title>LookOnChain: Ethereum Drops Below $4400</title>
-      <link>https://www.lookonchain.com/feeds/27068</link>
-      <description>On September 1st, based on HTX market data, Ethereum dropped below $4400 and is currently trading at $4385.38, with a 24-hour percentage change narrowing to 0.21%.</description>
-      <pubDate>Sun, 31 Aug 2025 23:49:01 +0000</pubDate>
+      <title>Binance will list WLFI and apply Seed Label</title>
+      <link>https://www.lookonchain.com/feeds/27092</link>
+      <description>On September 1st, Binance will list World Liberty Financial (WLFI) and apply a seed tag.Binance will list World Liberty Financial (WLFI) on September 1, 2025, at 9:00 PM (UTC time) and commence trading for the following spot trading pairs. New spot trading pairs: WLFI/USDT, WLFI/USDC.</description>
+      <pubDate>Mon, 01 Sep 2025 01:56:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27068</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The probability of a 25 basis point interest rate cut by the Federal Reserve in September is 87.4%.</title>
-      <link>https://www.lookonchain.com/feeds/27067</link>
-      <description>On September 1st, based on CME&apos;s &quot;FedWatch&quot;: The likelihood of the Fed keeping interest rates unchanged in September is 12.6%, and the likelihood of a 25-basis-point rate cut is 87.4%.The probability of the Fed maintaining interest rates in October is 5.6%. The cumulative probability of a 25-basis-point rate cut is 45.8%, and the cumulative probability of a 50-basis-point rate cut is 48.6%.</description>
-      <pubDate>Sun, 31 Aug 2025 23:49:01 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27067</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27092</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -68,30 +66,12 @@
 
     </item>
     <item>
-      <title>In the past 24 hours, the entire network has seen $108 million in liquidations, with a total of 55,335 users being liquidated.</title>
-      <link>https://www.lookonchain.com/feeds/27065</link>
-      <description>On September 1st, based on Coinglass data, the total number of liquidations within the past 24 hours reached $108 million. Among them, $40.0414 million was from long positions and $67.8994 million from short positions. A total of 55,335 people worldwide were liquidated. The largest single liquidation took place on Hyperliquid - ETH-USD, amounting to $3.5306 million.</description>
-      <pubDate>Sun, 31 Aug 2025 18:00:01 +0000</pubDate>
+      <title>A certain contract whale suffered a loss of over $23 million in a week, with their long position of 20,800 ETH liquidated at $4,297.67 per ETH.</title>
+      <link>https://www.lookonchain.com/feeds/27091</link>
+      <description>On September 1st, as monitored by lookonchain, the whale address 0xa523 suffered a loss of more than 23 million US dollars within just one week. However, it always held a long position in ETH at a high level.In the past 15 hours, it has once again added 20,800 ETH (worth 92.8 million US dollars) to its long position at prices of $4470 and $4450. Its take-profit target is $5300, but the liquidation price is dangerously close to $4297.67.</description>
+      <pubDate>Mon, 01 Sep 2025 01:48:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27065</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>If Ethereum surpasses $4550, the mainstream CEX cumulative short liquidation pressure will reach $1.173 billion</title>
-      <link>https://www.lookonchain.com/feeds/27066</link>
-      <description>On September 1st, according to Coinglass data, in the event that Ethereum breaks through $4550, the total short liquidation strength of mainstream CEX will amount to 1.173 billion.Conversely, if Ethereum drops below $4400, the total long liquidation strength of mainstream CEX will reach 1.012 billion.BlockBeats Notes: The liquidation chart does not display the exact number of contracts awaiting liquidation or the precise value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent clusters, that is, the strength.Therefore, the liquidation chart shows to what degree the target price will be influenced when it reaches a certain position. Higher &quot;liquidation bars&quot; indicate that when the price reaches that point, it will experience a more intense response due to a liquidity cascade.</description>
-      <pubDate>Sun, 31 Aug 2025 18:00:01 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27066</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27091</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -102,52 +82,17 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>El Salvador Continues to Dollar-Cost Average into Bitcoin: Over the past 7 days, the country has accumulated an additional 7 BTC, bringing its total holdings to 6285.18 BTC.</title>
-      <link>https://www.lookonchain.com/feeds/27064</link>
-      <description>August 31st. Based on the data from the website of the Salvadoran Ministry of Finance, in the past 7 days, El Salvador has accumulated the acquisition of 7 Bitcoins. Currently, its Bitcoin holdings have reached 6,285.18 coins, with a value of more than $681 million.</description>
-      <pubDate>Sun, 31 Aug 2025 16:00:01 +0000</pubDate>
+      <title>The high-profile ETH to BTC whale has once again deposited 1000 BTC into HyperLiquid to increase their ETH holdings.</title>
+      <link>https://www.lookonchain.com/feeds/27090</link>
+      <description>On September 1st, as monitored by Onchain Lens, the BTC ancient whale that had previously made a high-profile switch from ETH deposited another 1000 BTC into HyperLiquid 10 minutes ago in order to increase their ETH holdings. Yesterday, the whale deposited 4000 BTC into HyperLiquid (approximately $435.3 million) and sold it to obtain 96,859 ETH.</description>
+      <pubDate>Mon, 01 Sep 2025 01:40:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27064</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Japan Post Bank is planning to launch a digital currency in 2026</title>
-      <link>https://www.lookonchain.com/feeds/27063</link>
-      <description>August 31. As per the Nikkei, Japan&apos;s largest financial institution, Japan Post Bank, intends to launch a digital currency in 2026 and might enable users to conduct transactions using this digital currency in blockchain-based financial products like security tokens and NFTs.</description>
-      <pubDate>Sun, 31 Aug 2025 16:00:01 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27063</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>High-profile ETH to BTC Whale Just Sold 4,000 BTC and Bought 96,859 ETH in the Past 12 Hours</title>
-      <link>https://www.lookonchain.com/feeds/27062</link>
-      <description>On August 31st, as per the monitoring of LookOnChain, a highly prominent ETH to BTC whale has exchanged 4,000 BTC ($4.35 billion) for 96,859 ETH ($4.33 billion) within the past 12 hours.As of the present moment, they have amassed a total of 837,429 ETH ($3.85 billion).</description>
-      <pubDate>Sun, 31 Aug 2025 15:00:01 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27062</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27090</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -164,30 +109,12 @@
 
     </item>
     <item>
-      <title>The U.S. M2 money supply has reached $22.12 trillion, hitting a new all-time high.</title>
-      <link>https://www.lookonchain.com/feeds/27061</link>
-      <description>On August 31st, as reported by Cointelegraph, the M2 money supply in the US has reached $22.12 trillion, reaching a new record high.</description>
-      <pubDate>Sun, 31 Aug 2025 15:00:01 +0000</pubDate>
+      <title>A Whale Purportedly Liquidates 4720 ETH, Potentially Profiting Up to $9.5 Million</title>
+      <link>https://www.lookonchain.com/feeds/27089</link>
+      <description>On September 1st, as monitored by on-chain analyst AI Auntie ai_9684xtpa, a whale that had previously made a profit of $2.34 million through four UNI arbitrage opportunities was suspected of liquidating 4720 ETH ($21.08 million) 8 hours ago. If sold, it could potentially make a profit of $9.514 million.They withdrew ETH from FalconX at an average price of $2452 on 07.01, achieving a two-month return on investment (ROI) of 82.2%.</description>
+      <pubDate>Mon, 01 Sep 2025 01:32:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27061</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Greeks.Live: Market Sentiment Shows Clear Divergence, with a Focus on Ethereum&apos;s Recent Relative Strength and Fund Flows</title>
-      <link>https://www.lookonchain.com/feeds/27060</link>
-      <description>On August 31st, GreekLive issued its daily market summary, stating, &quot;There is a clear division within the community regarding the current bull market. Some members are questioning the absence of the quick-rich effect that is typical of a traditional bull market in this halving cycle. Meanwhile, others point out that Bitcoin has witnessed a significant rise from $20,000 to $120,000 and Ethereum from $1,400 to $4,900. The community is widely focusing on Ethereum&apos;s recent relative strength and the changing fund flows on exchanges. There has been an increase in Bitcoin inflows and a decrease in Ethereum outflows.&quot;</description>
-      <pubDate>Sun, 31 Aug 2025 15:00:01 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27060</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27089</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -198,6 +125,85 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Hyperliquid High-Profit Whale closes SOL and ETH short positions, goes long with 6590 ETH in a flip trade</title>
+      <link>https://www.lookonchain.com/feeds/27088</link>
+      <description>On September 1st, as per the monitoring of LookOnChain, beginning with a mere $1.02 million, trader 0x044d has managed to increase his account on Hyperliquid to $26.07 million, achieving a net profit of more than $25 million.Just 3 hours ago, he closed out a $17.68 million short position in SOL and a $35.45 million short position in ETH, generating a profit of $1.06 million. Subsequently, he promptly went long and opened a new long position of 6590 ETH ($28.9 million) with a leverage of 20x.</description>
+      <pubDate>Mon, 01 Sep 2025 01:24:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27088</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Trump: U.S. Prices See &quot;Significant Decrease,&quot; Virtually No Inflation</title>
+      <link>https://www.lookonchain.com/feeds/27087</link>
+      <description>On September 1st, U.S. President Trump declared that U.S. prices have &quot;fallen sharply&quot; with almost no inflation. Tariffs have brought in trillions of dollars to the U.S. (FXStreet).</description>
+      <pubDate>Mon, 01 Sep 2025 01:24:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27087</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A whale averaged down by purchasing an additional 1237 ETH at an average price of $4393.</title>
+      <link>https://www.lookonchain.com/feeds/27086</link>
+      <description>On September 1st, based on the monitoring of OnchainLens, a whale address. After holding $5.43 million USDT for approximately 45 days, it used the funds to purchase 1237 ETH on Binance at a price of $4393 per ETH.Address: 0x3255cdee41ad8ad989547c745975244bf69401a4</description>
+      <pubDate>Mon, 01 Sep 2025 01:23:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27086</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Analysis: The cryptocurrency market correction shows no signs of ending yet, with a key focus on this week&apos;s non-farm payroll and unemployment rate data.</title>
+      <link>https://www.lookonchain.com/feeds/27085</link>
+      <description>On September 1st, Adam, a macro researcher from Greeks.live, shared a post stating that this week, the main BTC implied volatility remained stable at 37%, while the major maturities of ETH fell below 70%, with the short-term falling below 65%, still almost double that of BTC. The pullback has been ongoing for more than half a month and there is no sign of ending yet, making it relatively cost-effective to engage in bottom fishing in short-term options.There are many macro events this week, and the non-farm payroll and unemployment rate data on Friday are quite important. The impact of the Federal Reserve on the macro market this month will be significant, and its impact on the crypto market will be more direct. At the same time, WLFI went live on the Ethereum mainnet today as one of the most important TGE projects recently. The large amount of new tokens needs to absorb market existing funds, creating significant market pressure.</description>
+      <pubDate>Mon, 01 Sep 2025 01:23:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27085</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
   </channel>
