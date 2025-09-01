@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 07:25:24 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 07:25:24 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 07:40:26 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 07:40:26 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,18 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>WFLI 项目方人员：WFLI 实际只有提供交易所的流动性和 dex 的 Lp 和 5% 的投资人是流通的</title>
+      <title>火币HTX将于今日20时全网首发上线WLFI (World Liberty Financial)</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据火币HTX公告显示，火币HTX将于9月1日20:00 (GMT+8) 全网首发上线WLFI/USDT现货交易。同时，火币杠杆将于9月1日20:00 (GMT+8) 新增WLFI/USDT (10X) 逐仓杠杆交易。此前，WLFI充币业务已于8月29日18:00 (GMT+8) 开放。据悉，火币H...</description>
+      <pubDate>Mon, 01 Sep 2025 07:24:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>WFLI 项目方人员：WFLI 实际只有提供交易所的流动性、DEX 的 Lp 和 5% 的投资人是流通的</title>
       <link>https://www.techflowpost.com</link>
       <description>WFLI 项目方人员 Dylan_0x （@0xDylan_）在社交媒体发文表示，WFLI 代币分配如下：8% 分配给 Alt5 上市公司（锁定）10% 预留用于未来激励计划、积分等（已锁定，详情稍后正式公布）团队及机构投资者（锁定）3% 分配给 CEX 流动性 + DEX LP（流动性供应）5%...</description>
       <pubDate>Mon, 01 Sep 2025 07:22:00 +0000</pubDate>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，CoinMarketCap 页面显示经过验证的 WLFI TGE 初始流通为 273 亿枚。这个数字远高于之前预估的 50 亿枚理论流通值，按合约现价 0.3599 美元估算，开盘抛压将为 98.3 亿美元。分析师表示，CoinMarketC...</description>
       <pubDate>Mon, 01 Sep 2025 03:59:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>PeckShieldAlert：8 月加密货币安全事件造成 1.63 亿美元损失，较 7 月增加 15%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 PeckShieldAlert 监测，2025 年 8 月共发生约 16 起重大加密货币安全事件，总损失达 1.63 亿美元，较 7 月的 1.42 亿美元增加 15%。其中，最大规模的五起安全事件分别为：某比特币持有者损失 9140 万美元；土耳其加密货币交易所 BTCTurk 遭...</description>
-      <pubDate>Mon, 01 Sep 2025 03:56:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
