@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 20:53:35 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 20:53:35 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 21:13:45 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 21:13:45 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,28 +14,10 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Anchorage Digital recently increased its holdings by 542,000 HYPE tokens, worth $24 million.</title>
-      <link>https://www.lookonchain.com/feeds/27230</link>
-      <description>On September 2nd, based on on-chain data, Anchorage Digital has withdrawn 542,000 HYPE tokens (valued at $24 million) from Bybit in the past two days.</description>
-      <pubDate>Mon, 01 Sep 2025 17:52:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27230</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Gold Price Continues Uptrend, Analysts Warn of Profit-Taking Risk at High Levels</title>
       <link>https://www.lookonchain.com/feeds/27231</link>
       <description>On September 2nd, spurred by the anticipation of interest rate cuts and geopolitical tensions, gold futures maintained their upward trend on Monday following the attainment of a historical high. The present price of gold futures is approximately $3547, showing a daily increase of 0.88% and reaching a high of $3557.10 per ounce during the day.FxPro analyst Alex Kuptsikevich pointed out in a research report that macroeconomic and geopolitical news continuously favor precious metals. There are reports suggesting that India is actively selling U.S. government bonds and increasing its gold reserves. He also noted that the lack of progress in Russia-Ukraine peace talks has boosted the demand for safe havens.Kuptsikevich stated that the more evident short-term bullish factor is the market&apos;s growing expectation of a Fed rate cut in September. However, he cautioned investors to be cautious when participating in this round of the gold rally, as historical highs often trigger significant prof</description>
-      <pubDate>Mon, 01 Sep 2025 17:52:42 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 18:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27231</guid>
       <category>crypto</category>
@@ -50,29 +32,10 @@
 
     </item>
     <item>
-      <title>Bitcoin Withdrawals Slowing Down, with a CEX Net Inflow of 2,600.32 BTC in the Last 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/27229</link>
-      <description>On September 2nd, based on Coinglass data, in the past 24 hours, the total net inflow of BTC on CEXs was 2,600.32 BTC. The top three CEXs in terms of inflow volume are as follows:· Binance: with a net inflow of 2,089.42 BTC;· Bitfinex: having a net inflow of 464.89 BTC;· Kraken: with a net inflow of 102.98 BTC.In addition, Coinbase Pro witnessed a net outflow of 161.67 BTC and ranked first in the outflow list.</description>
-      <pubDate>Mon, 01 Sep 2025 17:52:42 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27229</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
       <title>If Ethereum drops below $4200, the overall Long/Short ratio on mainstream CEXs will reach a liquidation volume of 928 million dollars.</title>
       <link>https://www.lookonchain.com/feeds/27232</link>
       <description>September 2nd: The cryptocurrency market maintained its downward trend. Based on Coinglass data, in the event that Ethereum drops below $4200, the cumulative long liquidation strength of mainstream CEXs will reach $928 million.Conversely, if Ethereum surges above $4400, the cumulative short liquidation strength of mainstream CEXs will reach $539 million.BlockBeats Note: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of contracts being liquidated. The bars on the liquidation chart actually signify the significance of each liquidation cluster in relation to neighboring clusters, that is, the strength. Hence, the liquidation chart illustrates to what extent the price of the underlying asset will be influenced when it reaches a specific level. A higher &quot;liquidation bar&quot; indicates that the price will experience a more intense reaction due to a liquidity avalanche.</description>
-      <pubDate>Mon, 01 Sep 2025 17:52:42 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 18:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27232</guid>
       <category>crypto</category>
@@ -89,10 +52,28 @@
 
     </item>
     <item>
+      <title>Anchorage Digital recently increased its holdings by 542,000 HYPE tokens, worth $24 million.</title>
+      <link>https://www.lookonchain.com/feeds/27230</link>
+      <description>On September 2nd, based on on-chain data, Anchorage Digital has withdrawn 542,000 HYPE tokens (valued at $24 million) from Bybit in the past two days.</description>
+      <pubDate>Mon, 01 Sep 2025 17:12:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27230</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>XPL Whale Makes $38 Million Profit Again with WLFI, Racking Up Hundreds of Millions</title>
       <link>https://www.lookonchain.com/feeds/27228</link>
       <description>On September 2nd, based on on-chain data, TechnoRevenant. After making a profit of $38 million on XPL last week, he has now earned billions of dollars in profit on WLFI. He received 200 million tokens (accounting for 20% of his total holdings), and these tokens are currently valued at $49 million. In total, he invested $30 million in the presale 8 months ago and obtained a 1% share of the total supply, which is 10 billion WLFI tokens. These tokens are currently worth $245 million, indicating that he has achieved an 8-fold return on this significant investment.</description>
-      <pubDate>Mon, 01 Sep 2025 16:52:42 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 17:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27228</guid>
       <category>crypto</category>
@@ -109,12 +90,12 @@
 
     </item>
     <item>
-      <title>Justin Sun: Tron Network has minted an additional 25 million USD1</title>
-      <link>https://www.lookonchain.com/feeds/27225</link>
-      <description>On September 2nd, Justin Sun made a post on social media stating that the Tron network had just minted an additional 25 million USD1, and the total supply of USD1 on the network had reached more than 50 million.</description>
-      <pubDate>Mon, 01 Sep 2025 16:52:42 +0000</pubDate>
+      <title>Bitcoin Withdrawals Slowing Down, with a CEX Net Inflow of 2,600.32 BTC in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/27229</link>
+      <description>On September 2nd, based on Coinglass data, in the past 24 hours, the total net inflow of BTC on CEXs was 2,600.32 BTC. The top three CEXs in terms of inflow volume are as follows:· Binance: with a net inflow of 2,089.42 BTC;· Bitfinex: having a net inflow of 464.89 BTC;· Kraken: with a net inflow of 102.98 BTC.In addition, Coinbase Pro witnessed a net outflow of 161.67 BTC and ranked first in the outflow list.</description>
+      <pubDate>Mon, 01 Sep 2025 17:12:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27225</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27229</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -123,14 +104,15 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
+      <category>btc</category>
+      <category>bitcoin</category>
 
     </item>
     <item>
       <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 61,400 ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/27227</link>
       <description>On September 2nd, according to Coinglass data, within the past 24 hours, the total net outflow of ETH from CEX exchanges amounted to 61,400 ETH. The top three CEX exchanges in terms of outflow volume are as follows:· Binance, with an outflow of 44,200 ETH;· OKX, with an outflow of 9,841.09 ETH;· Kraken, with an outflow of 4,219.48 ETH.In addition, Coinbase Pro witnessed an inflow of 2,859.11 ETH, ranking first in the list of inflows.</description>
-      <pubDate>Mon, 01 Sep 2025 16:52:42 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 17:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27227</guid>
       <category>crypto</category>
@@ -146,12 +128,12 @@
 
     </item>
     <item>
-      <title>Coinbase and OKX are launching cryptocurrency products for Australia&apos;s $4.3 trillion AUD pension system.</title>
-      <link>https://www.lookonchain.com/feeds/27226</link>
-      <description>On September 2nd, as per Bloomberg, Australia&apos;s $4.3 trillion Australian dollar ($2.8 trillion US dollar) pension retirement system is stepping into a new realm for cryptocurrency. Two major digital asset exchanges, Coinbase Global Inc. and OKX, have consecutively launched products with the aim of guiding pension funds into cryptocurrency.According to John O’Shea, the Asia-Pacific Managing Director of Coinbase, the company is on the verge of launching a dedicated SMSF service, and there is a waiting list of more than 500 investors. Kate Cooper, the CEO of OKX Australia, stated that the demand for the similar product they launched in June exceeded expectations by a large margin.OKX&apos;s product and Coinbase&apos;s planned service will also be made available through third-party providers such as recommended accountants and law firms to assist investors in establishing SMSFs. Although there is no minimum balance requirement, the ongoing management costs, including mandatory independent audits,</description>
-      <pubDate>Mon, 01 Sep 2025 16:52:42 +0000</pubDate>
+      <title>Justin Sun: Tron Network has minted an additional 25 million USD1</title>
+      <link>https://www.lookonchain.com/feeds/27225</link>
+      <description>On September 2nd, Justin Sun made a post on social media stating that the Tron network had just minted an additional 25 million USD1, and the total supply of USD1 on the network had reached more than 50 million.</description>
+      <pubDate>Mon, 01 Sep 2025 16:12:52 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27226</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27225</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -167,9 +149,27 @@
       <title>Total WLFI Contract Position Across the Network currently stands at $9.17 billion, with only $7.03 million liquidated in the past 4 hours.</title>
       <link>https://www.lookonchain.com/feeds/27224</link>
       <description>On September 2nd, according to Coinglass data, the current total WLFI contract position across the network is currently reported to be $9.17 billion. Only $7.03 million has been liquidated in the past 4 hours (after WLFI was officially launched).</description>
-      <pubDate>Mon, 01 Sep 2025 15:52:42 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 16:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27224</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Coinbase and OKX are launching cryptocurrency products for Australia&apos;s $4.3 trillion AUD pension system.</title>
+      <link>https://www.lookonchain.com/feeds/27226</link>
+      <description>On September 2nd, as per Bloomberg, Australia&apos;s $4.3 trillion Australian dollar ($2.8 trillion US dollar) pension retirement system is stepping into a new realm for cryptocurrency. Two major digital asset exchanges, Coinbase Global Inc. and OKX, have consecutively launched products with the aim of guiding pension funds into cryptocurrency.According to John O’Shea, the Asia-Pacific Managing Director of Coinbase, the company is on the verge of launching a dedicated SMSF service, and there is a waiting list of more than 500 investors. Kate Cooper, the CEO of OKX Australia, stated that the demand for the similar product they launched in June exceeded expectations by a large margin.OKX&apos;s product and Coinbase&apos;s planned service will also be made available through third-party providers such as recommended accountants and law firms to assist investors in establishing SMSFs. Although there is no minimum balance requirement, the ongoing management costs, including mandatory independent audits,</description>
+      <pubDate>Mon, 01 Sep 2025 16:12:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27226</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -185,7 +185,7 @@
       <title>WLFI has dropped below $0.24 and is now trading at $0.2386.</title>
       <link>https://www.lookonchain.com/feeds/27223</link>
       <description>On September 2nd, according to HTX market data, WLFI dipped below $0.24 and is currently trading at $0.2386.</description>
-      <pubDate>Mon, 01 Sep 2025 15:52:42 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 16:12:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27223</guid>
       <category>crypto</category>
