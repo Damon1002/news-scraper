@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 08:19:38 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 08:19:38 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 08:46:07 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 08:46:07 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,64 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>LINEA&apos;s pre-market trading price on Binance is currently at $0.051, with a fully diluted valuation of $3.672 billion.</title>
+      <link>https://www.lookonchain.com/feeds/27155</link>
+      <description>On September 1st, based on market data, the pre-trading price of LINEA on Binance is currently at $0.051.Binance&apos;s official announcement indicates that the total supply of LINEA tokens is 72,009,990,000, and the corresponding fully diluted valuation is $36.72 billion.</description>
+      <pubDate>Mon, 01 Sep 2025 08:40:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27155</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance will launch LINEA Perpetual Futures Pre-trading User Contract.</title>
+      <link>https://www.lookonchain.com/feeds/27154</link>
+      <description>September 1st. According to an official announcement, the Binance Futures platform will commence LINEAUSDT perpetual contract trading at 16:30 on September 1, 2025 (in UTC+8 time zone), and the maximum leverage offered will be up to 5x.</description>
+      <pubDate>Mon, 01 Sep 2025 08:27:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27154</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>OKX will delist WBTC, JST, BTT, ERN, GLMR, and MOVR spot trading on September 8th.</title>
+      <link>https://www.lookonchain.com/feeds/27153</link>
+      <description>September 1st. As per an official announcement, OKX announced that it will officially remove the WBTC, JST, BTT, ERN, GLMR, and MOVR trading pairs on September 8th, 2025, from 4:00 to 6:00 p.m. (Beijing time). Users who have open orders for the above trading pairs are required to cancel their orders before 4:00 p.m. on September 8th, 2025 (UTC+8). Failure to cancel orders in a timely manner will lead to automatic order cancellation.</description>
+      <pubDate>Mon, 01 Sep 2025 08:27:14 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27153</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Bitcoin&apos;s Market Cap Overtaken by Silver, Falling to 8th Among Global Mainstream Assets</title>
       <link>https://www.lookonchain.com/feeds/27152</link>
       <description>On September 1st, based on data from 8 Market, with Bitcoin briefly dipping below $118,000 today, its market capitalization has now dropped to $2.183 trillion. This value is lower than that of silver (with a market cap of $2.333 trillion), and Bitcoin now ranks as the 8th largest global asset.</description>
-      <pubDate>Mon, 01 Sep 2025 08:16:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:17:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27152</guid>
       <category>crypto</category>
@@ -36,7 +90,7 @@
       <title>Binance Alpha will list Moonchain (MCH) and open airdrop claims for eligible users</title>
       <link>https://www.lookonchain.com/feeds/27151</link>
       <description>According to official sources, Binance Alpha will list Moonchain (MCH) on September 3rd. On September 1st, eligible users can visit the Alpha event page after the Alpha trading starts and claim the airdrop by using Binance Alpha points. Further details will be announced separately.</description>
-      <pubDate>Mon, 01 Sep 2025 08:08:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:09:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27151</guid>
       <category>crypto</category>
@@ -53,7 +107,7 @@
       <title>Three New Trusts: Actively Deploying in Web3.0 Use Cases such as Stablecoins, RWA, etc.</title>
       <link>https://www.lookonchain.com/feeds/27150</link>
       <description>On September 1st, SAWTO Technologies declared on an interactive platform that RWA, stablecoins, and other Web3.0 applications are all founded on blockchain technology. The company has amassed years of technical proficiency in blockchain security. It took the lead in developing GM/T0111-2021 &quot;Technical Requirements for Blockchain Cryptographic Applications,&quot; which is the first domestic industrial standard for blockchain cryptography. The company has developed the first batch of blockchain cryptographic modules that have obtained national commercial cryptographic certification and have been deployed in multiple blockchain infrastructure projects in China. The company&apos;s FIPS-certified HSM can offer secure digital asset custody, and its hardware wallet products have been utilized in digital asset exchanges.SAWTO Technologies, as the Vice Chairman of the Hong Kong Web3.0 Standardization Association, actively engages in the formulation of standards and technical specifications. It is activ</description>
-      <pubDate>Mon, 01 Sep 2025 08:00:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:00:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27150</guid>
       <category>crypto</category>
@@ -70,7 +124,7 @@
       <title>A whale has deposited 1 million USDC into Hyperliquid to short BTC with 20x leverage.</title>
       <link>https://www.lookonchain.com/feeds/27149</link>
       <description>On September 1st, as monitored by Onchain Lens, a whale deposited 1 million USDC into Hyperliquid and initiated a 20x leveraged short position on Bitcoin. Currently, it is experiencing an unrealized loss of $180,000.</description>
-      <pubDate>Mon, 01 Sep 2025 07:58:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:59:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27149</guid>
       <category>crypto</category>
@@ -91,7 +145,7 @@
       <title>Bitcoin Rebounds to Reach $109,000</title>
       <link>https://www.lookonchain.com/feeds/27148</link>
       <description>On September 1st, based on HTX market data, Bitcoin rebounded and reached $109,000. It is currently trading at $109,000 with a 24-hour increase of 0.25%.</description>
-      <pubDate>Mon, 01 Sep 2025 07:58:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:58:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27148</guid>
       <category>crypto</category>
@@ -111,7 +165,7 @@
       <title>The WLFI Lockbox contract has received a deposit of 16.88 billion tokens, estimated to be worth 5.47 billion U.S. dollars.</title>
       <link>https://www.lookonchain.com/feeds/27147</link>
       <description>On September 1st, according to on-chain data, approximately 16.88 billion WLFI tokens have already been transferred to the Lockbox contract, which accounts for 16.88% of the total token supply. Based on the pre-market contract price of $0.324, the value is approximately $5.47 billion.Previously, it was reported that the unlocking process of the WLFI token officially began at 8:00 AM EST on September 1st, and the corresponding feature page (Lockbox) has been launched. Users were required to activate it between August 25th and August 31st in order to be able to claim 20% of the unlocked tokens starting from September 1st.</description>
-      <pubDate>Mon, 01 Sep 2025 07:42:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:45:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27147</guid>
       <category>crypto</category>
@@ -128,62 +182,9 @@
       <title>Huobi HTX will be listed on WLFI (World Liberty Financial) on September 1st at 20:00.</title>
       <link>https://www.lookonchain.com/feeds/27146</link>
       <description>On September 1st, according to the announcement from Huobi HTX, Huobi HTX will list WLFI/USDT spot trading at 20:00 (GMT+8) on September 1st.At the same time, Huobi Futures will add WLFI/USDT (10X) isolated margin trading at 20:00 (GMT+8) on September 1st.Previously, the WLFI deposit service was opened at 18:00 (GMT+8) on August 29th.</description>
-      <pubDate>Mon, 01 Sep 2025 07:24:46 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:45:14 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27146</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Hong Kong Stock Exchange-listed company Walnut Capital becomes the first publicly listed company to hold CP Reserves Tokens</title>
-      <link>https://www.lookonchain.com/feeds/27145</link>
-      <description>On September 1st, as per official channels, the Hong Kong-listed company Walnut Capital (stock code: 905) has emerged as the first listed entity to hold CP tokens in reserve.Walnut Capital will set aside CP as reserves, and Golden Elephant is actively working on facilitating the usage of CP in a wider range of application scenarios. Meanwhile, they will jointly promote initiatives related to the Web3 ecosystem, facilitate the listing of CP on compliant trading platforms, and explore the implementation and development of Real World Asset (RWA) funds and the CP Chain ecosystem projects.CP, as the core asset of CoinUp.io&apos;s public chain CP Chain, has been deeply integrated into the trading platform ecosystem, covering aspects such as new coin subscriptions, on-chain project participation, fee discounts, governance voting, etc., and is regarded as the most important and unique strategic asset of the CoinUp platform.Furthermore, the CP Chain holds great potential in bridging centralize</description>
-      <pubDate>Mon, 01 Sep 2025 07:24:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27145</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Matrixport: Bitcoin Retraces to Key Range, Potential Further Drop Ahead</title>
-      <link>https://www.lookonchain.com/feeds/27144</link>
-      <description>On September 1st, Matrixport disclosed its latest report on social media, indicating that Bitcoin has pulled back to the range of $106,000 - $108,000, a level that it has been closely observing. In its recent report, Matrixport has adopted a more cautious stance and cautioned that a retest of $108,000 might just be the starting point. Since late July, Matrixport has been highlighting the increasing resistance resulting from seasonal weakness.Now, as this week&apos;s US employment data is about to be released and Bitcoin is at a crucial technical level, the market is setting the stage for a potential significant rally. While many traders would be astonished by further Bitcoin downside, this situation cannot be excluded. Rate cuts are often regarded as the driving force for pushing cryptocurrency prices higher, but they rarely occur without consequences.</description>
-      <pubDate>Mon, 01 Sep 2025 07:18:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27144</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha will list Somnia (SOMI) and open the airdrop claim to eligible users</title>
-      <link>https://www.lookonchain.com/feeds/27143</link>
-      <description>On September 1st, according to official channels, Binance Alpha is scheduled to list Somnia (SOMI) on September 2nd. Eligible users will be able to receive an airdrop by accessing the Alpha event page and utilizing Binance Alpha points once the Alpha trading commences. Further details will be provided at a later time.</description>
-      <pubDate>Mon, 01 Sep 2025 07:18:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27143</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
