@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 14:28:57 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 14:28:57 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 14:46:08 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 14:46:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某黑客 50 分钟内以 4,382美元 的价格抛售 8,960 枚 ETH</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据分析师余烬监测，某黑客在过去 50 分钟内以 4,382 美元的价格抛售 8,960 枚 ETH，换得约 3,926.4 万枚 DAI。该黑客通过 3 个地址从龙卷风提取了这些 ETH，这些 ETH 大概率是其之前通过其它地址存入龙卷风的。这 8,960 枚 ETH 从龙卷风提出后在过去 50 ...</description>
+      <pubDate>Mon, 01 Sep 2025 14:35:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>IOTA 宣布与 Echo protocol 建立合作，目前已支持使用 iBTC 在 Virtue 上铸造 $VUSD</title>
+      <link>https://www.techflowpost.com</link>
+      <description>区块链底层协议项目 IOTA 宣布与 Aptos 上领先的 BTCFi 协议 Echo protocol 建立合作，此次合作标志着 IOTA 生态在 BTCFi 方面迈出的重要一步，Echo 平台上将推出 IOTA Vault，用户现在可以在 IOTA Vault 中铸造 iBTC，而 iBTC ...</description>
+      <pubDate>Mon, 01 Sep 2025 14:31:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>WLFI最大投资者解锁2亿枚代币，价值近6000万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某巨鲸向 HyperLiquid 存入了 199.8 万枚 USDC，并以 1 倍杠杆开设了 WLFI 做多仓位。</description>
       <pubDate>Mon, 01 Sep 2025 11:59:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>金管局：稳定币牌照申请意向达77宗，初期仅发数张牌照</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据香港经济日报报道，香港金管局公布，《稳定币条例》实施首月共收到77宗申请意向，申请机构包括银行、科技企业、证券及资管公司等。金管局表示初期将审慎处理，仅发出数个牌照。当局已陆续与相关机构会面，并建议准备充分的机构于9月底前提交正式申请。金管局强调，申请意向不构成任何批准或认可，提醒市民需警惕无牌...</description>
-      <pubDate>Mon, 01 Sep 2025 11:56:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸向 Hyperliquid 存入 1018 万枚 USDC，3 倍杠杆做空 WLFI</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析平台 Lookonchain（@lookonchain）监测，0xA2f2 开头巨鲸向 Hyperliquid 存入 1018 万枚 USDC，以 3 倍杠杆做空 WLFI。当前持仓量为 684 万枚 WLFI（约 190 万美元）。</description>
-      <pubDate>Mon, 01 Sep 2025 11:47:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
