@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 15:26:08 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 15:26:08 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 15:41:52 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 15:41:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>过去 24 小时全网爆仓 3.01 亿美元，主爆多单</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Coinglass 数据，过去 24 小时内加密货币市场总爆仓金额达 3.01 亿美元，其中，多单爆仓 2.21 亿美元，空单爆仓 8074.04 万美元。全球共有 117,610 人被爆仓，最大单笔爆仓单发生在 Binance - ETHUSDT 价值 317.42万美元。</description>
+      <pubDate>Mon, 01 Sep 2025 15:26:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>以太坊Holešky测试网将于两周内关闭</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Etherscan 数据显示，随 WLFI 代币解锁和领取，以太坊Gas费短时超120gwei，基础费用为128.327 gwei。根据优先级不同，交易费用在128-131 gwei之间浮动</description>
       <pubDate>Mon, 01 Sep 2025 12:14:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>特朗普长子：WLFI 已上线，它是生态系统的治理支柱</title>
-      <link>https://www.techflowpost.com</link>
-      <description>特朗普长子 Donald Trump Jr.在 X 平台发文表示，「World Liberty Financial 刚刚正式推出 WLFI 代币，它和其他 Meme 币完全不同，WLFI 将成为改变货币流通生态的治理支柱，自由 + 金融 + 美国优先。」</description>
-      <pubDate>Mon, 01 Sep 2025 12:06:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

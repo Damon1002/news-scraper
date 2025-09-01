@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 15:26:08 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 15:26:08 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 15:41:52 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 15:41:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,28 +14,10 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Block drops over 30% in the past 24 hours, with a current market cap of $1.11 billion</title>
-      <link>https://www.lookonchain.com/feeds/27221</link>
-      <description>On September 1st, according to GMGN market data, the price of the WLFI-related project token Block has witnessed a 33.52% decline within the past 24 hours. The current market capitalization is reported to be $1.11 billion, and the token price is $0.1093.BlockBeats Note: Matthew Morgan, a co-founder of Block, is an advisor to WLFI and also serves as the CIO (Chief Information Officer) of ALT5 Sigma, a Nasdaq-listed company that raised $1.5 billion to establish the WLFI Treasury.</description>
-      <pubDate>Mon, 01 Sep 2025 15:25:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27221</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Ethereum Foundation Announces Hole?ky Testnet Shutdown</title>
       <link>https://www.lookonchain.com/feeds/27220</link>
       <description>On September 1st, the Ethereum Foundation officially declared that the Hole?ky testnet has reached the end of its planned lifespan and will soon be deprecated. After the completion of the Fusaka upgrade on Hole?ky two weeks ago, the vast majority of the remaining validator nodes will be shut down. Subsequently, the client teams, testing teams, and infrastructure teams will no longer provide support for Hole?ky.The official statement mentioned that Hole?ky went live in 2023 as Ethereum&apos;s largest public testnet, which was specifically designed for large-scale staking infrastructure and validator operation testing. The network has fulfilled its mission by supporting thousands of validators through protocol upgrade testing, including the Dencun network upgrade and the recent Pectra upgrade.However, after the activation of the Pectra testnet in early 2025, Hole?ky experienced a significant non-triviality leak, resulting in a surge in validator exits from the queue. Although the network</description>
-      <pubDate>Mon, 01 Sep 2025 15:25:16 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 15:24:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27220</guid>
       <category>crypto</category>
@@ -51,12 +33,48 @@
 
     </item>
     <item>
+      <title>Block drops over 30% in the past 24 hours, with a current market cap of $1.11 billion</title>
+      <link>https://www.lookonchain.com/feeds/27221</link>
+      <description>On September 1st, according to GMGN market data, the price of the WLFI-related project token Block has witnessed a 33.52% decline within the past 24 hours. The current market capitalization is reported to be $1.11 billion, and the token price is $0.1093.BlockBeats Note: Matthew Morgan, a co-founder of Block, is an advisor to WLFI and also serves as the CIO (Chief Information Officer) of ALT5 Sigma, a Nasdaq-listed company that raised $1.5 billion to establish the WLFI Treasury.</description>
+      <pubDate>Mon, 01 Sep 2025 15:24:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27221</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Justin Sun has claimed 600 million WLFI tokens, worth $178 million.</title>
       <link>https://www.lookonchain.com/feeds/27219</link>
       <description>On September 1st, according to Arkham Monitor, Justin Sun has just made a claim of 6 billion WLFI tokens, which are worth $178 million. Currently, he holds a total of 30 billion WLFI tokens with a value of $8.912 billion. This claim only accounts for 20% of the first unlocked batch.After claiming the tokens, Justin Sun transferred 10 WLFI tokens to an unmarked address starting with 0x353D for the purpose of transaction testing.BlockBeats previously reported that Justin Sun stated on social media that he believes WLFI will become one of the largest and most significant projects in the cryptocurrency field, and he currently has no intention of quickly selling the unlocked tokens.</description>
-      <pubDate>Mon, 01 Sep 2025 15:16:16 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 15:16:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27219</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Top WLFI Investor Claimed 200 Million WLFI Tokens 10 Minutes Ago, Achieving a Return on Investment of 296.33%</title>
+      <link>https://www.lookonchain.com/feeds/27216</link>
+      <description>On September 1st, according to on-chain data analyst Yujin Monitoring, the largest activated account WLFI investor @moonmanifest47 claimed that 10 minutes ago, 20% of today&apos;s unlocked tokens were acquired, which is equivalent to 2 billion WLFI (approximately $59.45 million).It is reported that the investor subscribed to 1 billion WLFI in the first round of the public sale by investing $15 million USDC at an average price of $0.015.BlockBeats Note: Based only on the investor&apos;s initial unlocked share, their current return on investment has reached 296.33%.</description>
+      <pubDate>Mon, 01 Sep 2025 14:40:59 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27216</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -72,7 +90,7 @@
       <title>A certain hacker address sold 8960 ETH in the last 50 minutes.</title>
       <link>https://www.lookonchain.com/feeds/27218</link>
       <description>On September 1st, as monitored by on-chain data analyst Yin Jianguo, a hacker address sold 8,960 ETH in the past 50 minutes at a price of $4,382 and exchanged it for 39.264 million DAI.The hacker withdrew 8,960 ETH from Tornado.Cash through 3 addresses. These ETH are likely ones that the hacker had previously deposited into Tornado.Cash from other addresses. After withdrawing these 8,960 ETH from Tornado.Cash, they were immediately sold and exchanged for 39.264 million DAI within the past 50 minutes.</description>
-      <pubDate>Mon, 01 Sep 2025 14:41:16 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 14:40:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27218</guid>
       <category>crypto</category>
@@ -88,28 +106,10 @@
 
     </item>
     <item>
-      <title>Top WLFI Investor Claimed 200 Million WLFI Tokens 10 Minutes Ago, Achieving a Return on Investment of 296.33%</title>
-      <link>https://www.lookonchain.com/feeds/27216</link>
-      <description>On September 1st, according to on-chain data analyst Yujin Monitoring, the largest activated account WLFI investor @moonmanifest47 claimed that 10 minutes ago, 20% of today&apos;s unlocked tokens were acquired, which is equivalent to 2 billion WLFI (approximately $59.45 million).It is reported that the investor subscribed to 1 billion WLFI in the first round of the public sale by investing $15 million USDC at an average price of $0.015.BlockBeats Note: Based only on the investor&apos;s initial unlocked share, their current return on investment has reached 296.33%.</description>
-      <pubDate>Mon, 01 Sep 2025 14:32:16 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27216</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Justin Sun: Currently, there is no plan to sell WLFI, and I believe WLFI is one of the most important projects in the crypto space.</title>
       <link>https://www.lookonchain.com/feeds/27217</link>
       <description>On September 1st, Justin Sun made a post on social media, expressing that he firmly believes WLFI will become one of the largest and most significant projects in the cryptocurrency domain and currently has no intention of promptly selling the unlocked tokens. The long-term vision of the project is extremely strong, and he wholeheartedly agrees with its mission.Meanwhile, to commemorate the listing of the WLFI token, he has promised to increase the total circulation on the TRON chain to USD 200 million.</description>
-      <pubDate>Mon, 01 Sep 2025 14:32:16 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 14:40:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27217</guid>
       <category>crypto</category>
@@ -123,12 +123,12 @@
 
     </item>
     <item>
-      <title>Binance Launches Medá in Mexico, Plans to Invest $53 Million Over the Next 4 Years</title>
-      <link>https://www.lookonchain.com/feeds/27214</link>
-      <description>On September 1st, according to official channels, Binance has set up a regulated Electronic Payment Fund Institution (IFPE) called Medá in Mexico. It is planned to invest more than 1 billion pesos (approximately 53 million USD) in it within the next four years.The official announcement shows that Medá will offer fiat currency deposit and withdrawal services. It will be operated by an independent vertical team and focus on promoting the development of Binance&apos;s financial technology services across Latin America, setting a new standard for innovation, compliance, and user trust.</description>
-      <pubDate>Mon, 01 Sep 2025 14:25:16 +0000</pubDate>
+      <title>WLFI briefly dropped below $0.26.</title>
+      <link>https://www.lookonchain.com/feeds/27215</link>
+      <description>On September 1st, based on HTX market data, WLFI briefly fell below $0.26 and is currently trading at $0.262.</description>
+      <pubDate>Mon, 01 Sep 2025 14:40:59 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27214</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27215</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -141,12 +141,12 @@
 
     </item>
     <item>
-      <title>WLFI briefly dropped below $0.26.</title>
-      <link>https://www.lookonchain.com/feeds/27215</link>
-      <description>On September 1st, based on HTX market data, WLFI briefly fell below $0.26 and is currently trading at $0.262.</description>
-      <pubDate>Mon, 01 Sep 2025 14:25:16 +0000</pubDate>
+      <title>Binance Launches Medá in Mexico, Plans to Invest $53 Million Over the Next 4 Years</title>
+      <link>https://www.lookonchain.com/feeds/27214</link>
+      <description>On September 1st, according to official channels, Binance has set up a regulated Electronic Payment Fund Institution (IFPE) called Medá in Mexico. It is planned to invest more than 1 billion pesos (approximately 53 million USD) in it within the next four years.The official announcement shows that Medá will offer fiat currency deposit and withdrawal services. It will be operated by an independent vertical team and focus on promoting the development of Binance&apos;s financial technology services across Latin America, setting a new standard for innovation, compliance, and user trust.</description>
+      <pubDate>Mon, 01 Sep 2025 13:40:59 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27215</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27214</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -162,7 +162,7 @@
       <title>Backpack Launches WLFI Spot Trading</title>
       <link>https://www.lookonchain.com/feeds/27213</link>
       <description>On September 1st, according to official channels, Backpack Exchange has now initiated WLFI spot trading.</description>
-      <pubDate>Mon, 01 Sep 2025 14:25:16 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:40:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27213</guid>
       <category>crypto</category>
@@ -179,7 +179,7 @@
       <title>The WLFI contract 4-hour funding rate on Binance has dropped to -0.3446%.</title>
       <link>https://www.lookonchain.com/feeds/27212</link>
       <description>On September 1st, based on market data, the 4-hour funding rate of the WLFI contract on the Binance platform dropped to -0.3446%, and the daily rate was -2.067%.</description>
-      <pubDate>Mon, 01 Sep 2025 14:25:16 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:40:59 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27212</guid>
       <category>crypto</category>
