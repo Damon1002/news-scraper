@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 02:24:18 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 02:24:18 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 03:39:31 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 03:39:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,30 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>WLFI Multisig transferred 17.625 billion tokens to a certain contract address, and then transferred back 5 billion tokens</title>
-      <link>https://www.lookonchain.com/feeds/27094</link>
-      <description>On September 1st, according to on-chain analyst AI Yii ai_9684xtpa, 2 hours ago, the WLFI official multisig wallet transferred 17.625 billion tokens to contract 0xFef...b14B4. Subsequently, 5 billion of those tokens were transferred back to the multisig address. This represents the largest single-transaction amount for this address in 11 months, and the purpose of the contract remains unknown.</description>
-      <pubDate>Mon, 01 Sep 2025 02:08:25 +0000</pubDate>
+      <title>Solana Ecosystem Token Launchpad AOL Experiences Over 50% Temporary Dip, WLFI Partnership on Hold For Now</title>
+      <link>https://www.lookonchain.com/feeds/27113</link>
+      <description>On September 1st, based on GMGN market data, the token launchpad America.Fun (AOL) in the Solana ecosystem witnessed a short-term plunge of more than 50%, with a current market value of 11.83 million US dollars.Before this, the community believed that the platform was a partner of USD1 in the Solana ecosystem. However, AOL did not appear in the latest WLFI announcement.</description>
+      <pubDate>Mon, 01 Sep 2025 03:33:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27094</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>transfer</category>
-
-    </item>
-    <item>
-      <title>Gate will list Moonchain (MCH) and launch a HODLer Airdrop, sharing 240,000 MCH</title>
-      <link>https://www.lookonchain.com/feeds/27093</link>
-      <description>On September 1st, as per an official announcement, Gate will list Moonchain (MCH) spot trading on September 3rd at 20:00 (UTC+8). The 286th Moonchain (MCH) HODLer Airdrop event has begun and will conclude on September 3rd at 18:00 (UTC+8). Users holding 1 GT can participate without charge to receive the airdrop and share 240,000 MCH.</description>
-      <pubDate>Mon, 01 Sep 2025 02:08:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27093</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27113</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -49,12 +31,12 @@
 
     </item>
     <item>
-      <title>Binance will list WLFI and apply Seed Label</title>
-      <link>https://www.lookonchain.com/feeds/27092</link>
-      <description>On September 1st, Binance will list World Liberty Financial (WLFI) and apply a seed tag.Binance will list World Liberty Financial (WLFI) on September 1, 2025, at 9:00 PM (UTC time) and commence trading for the following spot trading pairs. New spot trading pairs: WLFI/USDT, WLFI/USDC.</description>
-      <pubDate>Mon, 01 Sep 2025 01:56:25 +0000</pubDate>
+      <title>Gate Launchpool GUSD Staking Pool Annualized Yield is currently at 8.63%</title>
+      <link>https://www.lookonchain.com/feeds/27112</link>
+      <description>On September 1st, based on the latest official figures, the reference annualized yield of Gate&apos;s 304th Launchpool GUSD Staking Pool is 8.63%. Users can engage in yield generation by staking GUSD.GUSD is a digital asset backed by real-world assets (RWA) such as U.S. Treasury bonds, offering users a lower-risk and more stable return asset allocation option. Gate has fully enabled trading, deposits, withdrawals, and related financial functions, enabling users to mint GUSD at a 1:1 ratio with USDT or USDC. The current total minted GUSD is 12.435 million, with a reference annualized yield of 4.4%.</description>
+      <pubDate>Mon, 01 Sep 2025 03:32:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27092</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27112</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -66,12 +48,12 @@
 
     </item>
     <item>
-      <title>A certain contract whale suffered a loss of over $23 million in a week, with their long position of 20,800 ETH liquidated at $4,297.67 per ETH.</title>
-      <link>https://www.lookonchain.com/feeds/27091</link>
-      <description>On September 1st, as monitored by lookonchain, the whale address 0xa523 suffered a loss of more than 23 million US dollars within just one week. However, it always held a long position in ETH at a high level.In the past 15 hours, it has once again added 20,800 ETH (worth 92.8 million US dollars) to its long position at prices of $4470 and $4450. Its take-profit target is $5300, but the liquidation price is dangerously close to $4297.67.</description>
-      <pubDate>Mon, 01 Sep 2025 01:48:25 +0000</pubDate>
+      <title>WLFI Top Gainer closed a 3x long position and switched to an 8x long position on TRUMP coin</title>
+      <link>https://www.lookonchain.com/feeds/27111</link>
+      <description>On September 1st, as per the monitoring of Onchain Lens, the leading profit taker on WLFI liquidated his 3x leveraged long position, reaping a profit of $915,000. Additionally, he opened a TRUMP long position with an 8x leverage.</description>
+      <pubDate>Mon, 01 Sep 2025 03:32:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27091</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27111</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -80,19 +62,100 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>The high-profile ETH to BTC whale has once again deposited 1000 BTC into HyperLiquid to increase their ETH holdings.</title>
-      <link>https://www.lookonchain.com/feeds/27090</link>
-      <description>On September 1st, as monitored by Onchain Lens, the BTC ancient whale that had previously made a high-profile switch from ETH deposited another 1000 BTC into HyperLiquid 10 minutes ago in order to increase their ETH holdings. Yesterday, the whale deposited 4000 BTC into HyperLiquid (approximately $435.3 million) and sold it to obtain 96,859 ETH.</description>
-      <pubDate>Mon, 01 Sep 2025 01:40:25 +0000</pubDate>
+      <title>The Bonk team has confirmed that Freya will become the Bonk ecosystem&apos;s USD1 trading pair on the ICM protocol, and will receive support from Solana&apos;s ecosystem core contributors.</title>
+      <link>https://www.lookonchain.com/feeds/27110</link>
+      <description>On September 1st, the Bonk team announced that Freya will become the USD1 trading pair ICM (Internet Capital Market) protocol within the Bonk ecosystem, with the support of Bonk and Solana ecosystem core contributors.The day before, founder Natsuki attended the Japan Solana ecosystem conference SuperTokyo and initially revealed the evolution from a single ICM flywheel to the ICM protocol Freya Protocol. It also received support from ecosystem core contributors such as Jupiter, Bonk, Jito, Backpack, Metaplex, Superteam, and the Solana Foundation.</description>
+      <pubDate>Mon, 01 Sep 2025 03:24:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27090</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27110</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bithumb will list the WLFI/KRW trading pair</title>
+      <link>https://www.lookonchain.com/feeds/27109</link>
+      <description>On September 1st, according to official information, Bithumb is going to list the WLFI/KRW trading pair, and the start time of trading will be determined.</description>
+      <pubDate>Mon, 01 Sep 2025 03:24:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27109</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Opinion: This Week&apos;s Employment Data Will Further Confirm the Fed&apos;s Rate-Cutting Trend</title>
+      <link>https://www.lookonchain.com/feeds/27108</link>
+      <description>On September 1st, which is this Friday, the US will release the August seasonally adjusted non-farm payroll report. A survey of top economists by The Wall Street Journal indicates that the expected job creation for last month is merely 75,000, and the unemployment rate may rise from 4.2% to 4.3%, reaching a nearly four-year high.Bill Adams, the Chief Economist at U.S. Bank, stated that for the financial markets, the most favorable situation is for the upcoming employment report to show moderate job growth and a slight increase in the unemployment rate. This would suggest that the economy is not in a recession but also demonstrate sufficient labor market softness to justify the Fed&apos;s rate cut.On the contrary, the most unfavorable situation is if the employment report shows a decrease in the number of jobs, a drop in the labor force participation rate, and a decline in the unemployment rate. This would mean a reduction in labor supply while labor demand is also weakening, presenting</description>
+      <pubDate>Mon, 01 Sep 2025 03:17:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27108</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>BONK.fun: We are thrilled to announce that we are the official Launchpad on Solana for USD1, stay tuned for partnership details.</title>
+      <link>https://www.lookonchain.com/feeds/27107</link>
+      <description>On September 1st, BONK.fun, a token launch platform within the Solana ecosystem, announced with pride that it has been honored to serve as the official launchpad on Solana for projects with a valuation of USD1. Further details regarding the launch and the significance of this collaboration will be made public shortly.</description>
+      <pubDate>Mon, 01 Sep 2025 03:17:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27107</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Spot Gold Hits New High Since April 22, Intraday Gain Reaches 0.93%</title>
+      <link>https://www.lookonchain.com/feeds/27106</link>
+      <description>On September 1st, the spot gold price surged to $3480 per ounce, reaching a new high since April 22nd. It recorded a daily gain of 0.93%. (Oriental Fortune Network)</description>
+      <pubDate>Mon, 01 Sep 2025 03:08:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27106</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitunix Analyst: Escalation of Middle East and Russia-Ukraine Tensions Suppresses Risk Appetite for BTC, Pressure at 111.6k/113.6k, Support at 107.4k</title>
+      <link>https://www.lookonchain.com/feeds/27105</link>
+      <description>On September 1st, Israel announced the killing of a key Hamas spokesperson in Gaza City and is gearing up for a full-scale attack on Gaza. Meanwhile, leaked plans for U.S. post-war intervention and reconstruction have come to light, including a minimum ten-year control strategy. This is happening in parallel with Israel&apos;s considerations of annexing the West Bank, leading to a short-term escalation of geopolitical tensions. Both Russia and Ukraine have intensified their attacks on energy infrastructure. Global risk premiums and energy price fluctuations have become the focus of the market. In the cryptocurrency space, a significant amount of BTC liquidations in the past week have been concentrated around 109.5k. The level of 107.4k below is a concentration of long positions. The price is currently oscillating between 108k and 110k.Bitunix Analyst Suggestion: This event has brought international relations, humanitarian issues, and sovereignty to the forefront, which may increase short-</description>
+      <pubDate>Mon, 01 Sep 2025 03:08:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27105</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -103,99 +166,15 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
 
     </item>
     <item>
-      <title>A Whale Purportedly Liquidates 4720 ETH, Potentially Profiting Up to $9.5 Million</title>
-      <link>https://www.lookonchain.com/feeds/27089</link>
-      <description>On September 1st, as monitored by on-chain analyst AI Auntie ai_9684xtpa, a whale that had previously made a profit of $2.34 million through four UNI arbitrage opportunities was suspected of liquidating 4720 ETH ($21.08 million) 8 hours ago. If sold, it could potentially make a profit of $9.514 million.They withdrew ETH from FalconX at an average price of $2452 on 07.01, achieving a two-month return on investment (ROI) of 82.2%.</description>
-      <pubDate>Mon, 01 Sep 2025 01:32:25 +0000</pubDate>
+      <title>WLFI: USD1 Officially Launches on Solana and Integrates with Raydium, BONK.fun, and Kamino</title>
+      <link>https://www.lookonchain.com/feeds/27104</link>
+      <description>On September 1st, it was announced that 1 USD is backed 1:1 by reserve assets and was integrated on its first day on Solana along with Raydium, BONK.fun, and Kamino.</description>
+      <pubDate>Mon, 01 Sep 2025 03:00:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27089</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid High-Profit Whale closes SOL and ETH short positions, goes long with 6590 ETH in a flip trade</title>
-      <link>https://www.lookonchain.com/feeds/27088</link>
-      <description>On September 1st, as per the monitoring of LookOnChain, beginning with a mere $1.02 million, trader 0x044d has managed to increase his account on Hyperliquid to $26.07 million, achieving a net profit of more than $25 million.Just 3 hours ago, he closed out a $17.68 million short position in SOL and a $35.45 million short position in ETH, generating a profit of $1.06 million. Subsequently, he promptly went long and opened a new long position of 6590 ETH ($28.9 million) with a leverage of 20x.</description>
-      <pubDate>Mon, 01 Sep 2025 01:24:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27088</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>Trump: U.S. Prices See &quot;Significant Decrease,&quot; Virtually No Inflation</title>
-      <link>https://www.lookonchain.com/feeds/27087</link>
-      <description>On September 1st, U.S. President Trump declared that U.S. prices have &quot;fallen sharply&quot; with almost no inflation. Tariffs have brought in trillions of dollars to the U.S. (FXStreet).</description>
-      <pubDate>Mon, 01 Sep 2025 01:24:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27087</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale averaged down by purchasing an additional 1237 ETH at an average price of $4393.</title>
-      <link>https://www.lookonchain.com/feeds/27086</link>
-      <description>On September 1st, based on the monitoring of OnchainLens, a whale address. After holding $5.43 million USDT for approximately 45 days, it used the funds to purchase 1237 ETH on Binance at a price of $4393 per ETH.Address: 0x3255cdee41ad8ad989547c745975244bf69401a4</description>
-      <pubDate>Mon, 01 Sep 2025 01:23:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27086</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Analysis: The cryptocurrency market correction shows no signs of ending yet, with a key focus on this week&apos;s non-farm payroll and unemployment rate data.</title>
-      <link>https://www.lookonchain.com/feeds/27085</link>
-      <description>On September 1st, Adam, a macro researcher from Greeks.live, shared a post stating that this week, the main BTC implied volatility remained stable at 37%, while the major maturities of ETH fell below 70%, with the short-term falling below 65%, still almost double that of BTC. The pullback has been ongoing for more than half a month and there is no sign of ending yet, making it relatively cost-effective to engage in bottom fishing in short-term options.There are many macro events this week, and the non-farm payroll and unemployment rate data on Friday are quite important. The impact of the Federal Reserve on the macro market this month will be significant, and its impact on the crypto market will be more direct. At the same time, WLFI went live on the Ethereum mainnet today as one of the most important TGE projects recently. The large amount of new tokens needs to absorb market existing funds, creating significant market pressure.</description>
-      <pubDate>Mon, 01 Sep 2025 01:23:25 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27085</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27104</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
