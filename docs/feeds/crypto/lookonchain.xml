@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 13:49:42 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 13:49:42 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 14:01:10 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 14:01:10 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,62 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The WLFI contract 4-hour funding rate on Binance has dropped to -0.3446%.</title>
+      <link>https://www.lookonchain.com/feeds/27212</link>
+      <description>On September 1st, based on market data, the 4-hour funding rate of the WLFI contract on the Binance platform dropped to -0.3446%, and the daily rate was -2.067%.</description>
+      <pubDate>Mon, 01 Sep 2025 13:56:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27212</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>DOLO is down 17.8% in the last 24 hours, currently trading at $0.267</title>
+      <link>https://www.lookonchain.com/feeds/27211</link>
+      <description>On September 1st, based on HTX market data, DOLO dropped below $0.27 and is now trading at $0.267, with a 24-hour decline of 17.8%.BlockBeats Note: DOLO is one of the WLFI concept project tokens. Dolomite is a DeFi service provider pegged to USD1, and co-founder Corey Caplan is also the CTO of WLFI.</description>
+      <pubDate>Mon, 01 Sep 2025 13:56:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27211</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Backpack Launches WLFI Spot Trading</title>
+      <link>https://www.lookonchain.com/feeds/27213</link>
+      <description>On September 1st, according to official channels, Backpack Exchange has now initiated WLFI spot trading.</description>
+      <pubDate>Mon, 01 Sep 2025 13:56:18 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27213</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>On Binance, the WLFI contract&apos;s 4-hour funding rate has decreased to -0.23%, with a daily rate of -1.39%.</title>
       <link>https://www.lookonchain.com/feeds/27210</link>
       <description>On September 1st, based on market data, the funding rate of WLFI perpetual contracts on some CEXs is currently showing an abnormal negative value, suggesting that a large number of traders are taking short positions on WLFI. On the Binance platform, the 4-hour rate is currently at -0.2317% (with the daily rate reaching -1.39%).</description>
-      <pubDate>Mon, 01 Sep 2025 13:40:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:40:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27210</guid>
       <category>crypto</category>
@@ -34,7 +86,7 @@
       <title>The WLFI pre-market contract on Hyperliquid has been converted to a regular contract, now supporting up to 5x leverage.</title>
       <link>https://www.lookonchain.com/feeds/27209</link>
       <description>On September 1st, as per official information, the WLFI perpetual contract on Hyperliquid has been transformed into a standard contract, which is capable of supporting up to 5 times leverage.</description>
-      <pubDate>Mon, 01 Sep 2025 13:32:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:32:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27209</guid>
       <category>crypto</category>
@@ -51,7 +103,7 @@
       <title>Ethereum Network Gas Price Drops to 32.4 Gwei</title>
       <link>https://www.lookonchain.com/feeds/27208</link>
       <description>On September 1st, according to the data from Etherscan, following the launch of the WLFI token for about 1.5 hours, the Gas on the Ethereum network dropped to 32.4 Gwei.</description>
-      <pubDate>Mon, 01 Sep 2025 13:32:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:32:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27208</guid>
       <category>crypto</category>
@@ -70,7 +122,7 @@
       <title>Backpack Launches WLFI Perpetual Contract Trading</title>
       <link>https://www.lookonchain.com/feeds/27207</link>
       <description>Update: On September 1st, based on official information, Backpack Exchange has now commenced perpetual contract trading with WLFI (World Liberty Financial).</description>
-      <pubDate>Mon, 01 Sep 2025 13:32:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:32:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27207</guid>
       <category>crypto</category>
@@ -87,7 +139,7 @@
       <title>On Binance, WLFI contract 4-hour funding rate has dropped to -0.137%.</title>
       <link>https://www.lookonchain.com/feeds/27206</link>
       <description>On September 1st, based on market data, the funding rate of the WLFI contract on some CEXs is currently presenting an abnormal negative value, suggesting that a significant number of traders are taking short positions on WLFI. Binance is currently at -0.137% (for 4 hours), and Bybit is at -0.4338% (for 4 hours).</description>
-      <pubDate>Mon, 01 Sep 2025 13:32:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:32:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27206</guid>
       <category>crypto</category>
@@ -104,7 +156,7 @@
       <title>WLFI Foundation once again spent 1 million USD to buy 3,239,000 WLFI tokens.</title>
       <link>https://www.lookonchain.com/feeds/27205</link>
       <description>On September 1st, according to Arkham data, the official address of World Liberty Financial spent an additional $1 million USD just 20 minutes ago by purchasing 3.239 million WLFI. And in the past hour, it has cumulatively spent $2 million USD to purchase 6.498 million WLFI.</description>
-      <pubDate>Mon, 01 Sep 2025 13:16:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:17:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27205</guid>
       <category>crypto</category>
@@ -122,60 +174,9 @@
       <title>Binance Launches Exclusive HOLO TGE and Booster Event</title>
       <link>https://www.lookonchain.com/feeds/27204</link>
       <description>On September 1st, according to official channels, Binance is set to launch the exclusive TGE event for Holoworld (HOLO) on September 2nd, 2025 at 16:00 UTC. Users will be able to participate in the token sale event to gain early access to the token. The sale will operate on a first-come, first-served basis, and each user can deposit up to 3 BNB.Binance will also initiate the Holoworld Booster event starting from September 2nd, 2025. Users who hold at least 61 Alpha points can participate and share a reward pool of 51,200,000 HOLO tokens.</description>
-      <pubDate>Mon, 01 Sep 2025 13:16:50 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 13:16:18 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27204</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Coinbase to List WLFI</title>
-      <link>https://www.lookonchain.com/feeds/27203</link>
-      <description>On September 1st, as per official channels, Coinbase is set to introduce support for World Liberty Financial (WLFI) on the Ethereum network (ERC-20 tokens). Trading is scheduled to commence later today, provided that liquidity requirements are fulfilled. Once an adequate supply of the asset becomes available, WLFI-USD trading pairs will be rolled out in a phased manner.</description>
-      <pubDate>Mon, 01 Sep 2025 13:16:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27203</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>DWF Labs will list WLFI on DWF Liquid Markets</title>
-      <link>https://www.lookonchain.com/feeds/27202</link>
-      <description>On September 1st, DWF Labs will make WLFI available for listing on DWF Liquid Markets, enabling all its institutional clients to utilize it.</description>
-      <pubDate>Mon, 01 Sep 2025 13:16:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27202</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump&apos;s Son Congratulates WLFI on Its Launch</title>
-      <link>https://www.lookonchain.com/feeds/27201</link>
-      <description>On September 1st, Eric Trump, the son of former President Donald Trump, posted on social media that the WLFI token has officially begun (using the phrase &quot;We are now in operation&quot;). The WLFI team has always had faith in the power and leadership of the United States. With the official token launch today, World Liberty Financial is establishing a new benchmark for financial freedom.</description>
-      <pubDate>Mon, 01 Sep 2025 13:08:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27201</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
