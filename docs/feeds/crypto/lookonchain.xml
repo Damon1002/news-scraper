@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 09:59:19 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 09:59:19 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 10:31:37 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 10:31:37 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,99 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>A whale deposited 10.19 million USDC into Hyperliquid and shorted WLFI with 3x leverage</title>
+      <link>https://www.lookonchain.com/feeds/27168</link>
+      <description>On September 1st, as monitored by Onchain Lens, a whale deposited 10.19 million USDC into Hyperliquid and initiated a WLFI short position with a leverage of 3x. Currently, there are still outstanding orders, and the whale intends to further expand this position.</description>
+      <pubDate>Mon, 01 Sep 2025 10:25:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27168</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Former Cred CEO Sentenced to 52 Months in Prison for $150 Million Cryptocurrency Fraud</title>
+      <link>https://www.lookonchain.com/feeds/27167</link>
+      <description>On September 1st, as per the report by Decrypt, a federal judge imposed a combined prison term of nearly eight years on two former executives of the bankrupt crypto lending firm Cred. Their actions resulted in one of the largest investor losses in the history of the crypto industry. Legal experts assert that this ruling establishes a new precedent for holding executives accountable in cases of crypto fraud.The former CEO and co-founder of Cred LLC, Daniel Schatt, was sentenced to 52 months in federal prison, while the company&apos;s CFO, Joseph Podulka, was given a 36-month sentence.</description>
+      <pubDate>Mon, 01 Sep 2025 10:24:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27167</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance: AIO Trading Now Limited to Sell Orders Only Due to Security Vulnerability in Project Team&apos;s Multi-Signature Wallet</title>
+      <link>https://www.lookonchain.com/feeds/27166</link>
+      <description>September 1st. As per official information, Binance has declared that, due to user security considerations, AIO trading is currently restricted to sell orders only because the project team&apos;s multi-signature wallet has encountered a security vulnerability.</description>
+      <pubDate>Mon, 01 Sep 2025 10:24:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27166</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Quack AI has released the Q Tokenomics, with an airdrop allocation of 12%.</title>
+      <link>https://www.lookonchain.com/feeds/27165</link>
+      <description>On September 1st, according to official channels, the AI-driven governance protocol Quack AI announced its Q tokenomics. The total token supply is 10 billion. Among them, 10% is allocated to the core team, 11% to investors and advisors, and 79% to the community and ecosystem. The specific breakdown is as follows: Community - 30%; Ecosystem and Partners - 15%; Airdrop - 12%; Project Treasury - 11%; Marketing and Growth - 6%; Liquidity - 5%. The initial circulating supply of Q is 16.16%.</description>
+      <pubDate>Mon, 01 Sep 2025 10:16:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27165</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Data: WLFI Total On-chain Holdings Surpass $900 Million</title>
+      <link>https://www.lookonchain.com/feeds/27164</link>
+      <description>On September 1st, based on Coinglass data, the current total value locked in WLFI contracts has reached $9.02 billion. When calculated in terms of token value, this amounts to a total of 2.8 billion WLFI tokens, with a 22.99% increase in the past 24 hours.</description>
+      <pubDate>Mon, 01 Sep 2025 10:08:45 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27164</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>CMC: The WLFI token supply data may have been adjusted prior to listing. The project team has been contacted for clarification</title>
       <link>https://www.lookonchain.com/feeds/27163</link>
       <description>On September 1st, CoinMarketCap CEO Rush made a post stating that they have received a large number of user inquiries about the supply of the WLFI token. The previously announced information was based on the latest data provided by the team earlier that day. However, due to the pre-listing allocation of the token, these data points may be subject to adjustments. CoinMarketCap has reached out to the WLFI team for clarification. Since all data is sourced from the project team and verified by them, it will continue to be updated as the situation unfolds.</description>
-      <pubDate>Mon, 01 Sep 2025 09:56:26 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 09:56:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27163</guid>
       <category>crypto</category>
@@ -34,7 +123,7 @@
       <title>WLFI&apos;s official multi-signature wallet has transferred 485 million tokens to Jump Crypto for liquidity provision.</title>
       <link>https://www.lookonchain.com/feeds/27162</link>
       <description>On September 1st, according to on-chain analyst Ai Auntie (@ai_9684xtpa), within the past 10 minutes, the official WLFI multisig has transferred a cumulative total of 485 million LP tokens to two addresses that are under the ownership of Jump Crypto.</description>
-      <pubDate>Mon, 01 Sep 2025 09:49:26 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 09:48:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27162</guid>
       <category>crypto</category>
@@ -53,7 +142,7 @@
       <title>The number of active addresses on #Tron is 2.48M, ranking #1 among all chains.</title>
       <link>https://www.lookonchain.com/feeds/27161</link>
       <description>The number of active addresses on #Tron is 2.48M, ranking #1 among all chains.</description>
-      <pubDate>Mon, 01 Sep 2025 09:42:26 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 09:42:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27161</guid>
       <category>crypto</category>
@@ -70,7 +159,7 @@
       <title>Hyperliquid Launches LINEA U Perpetual Swap Contract with Up to 3x Leverage</title>
       <link>https://www.lookonchain.com/feeds/27160</link>
       <description>On September 1st, according to the official website, Hyperliquid has launched the LINEA/USDC perpetual contract, with a maximum leverage of 3x.</description>
-      <pubDate>Mon, 01 Sep 2025 09:33:26 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 09:32:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27160</guid>
       <category>crypto</category>
@@ -87,7 +176,7 @@
       <title>CoinShares: Digital asset investment products saw net inflows of $2.48 billion last week</title>
       <link>https://www.lookonchain.com/feeds/27159</link>
       <description>On September 1st, CoinShares issued its latest weekly report which indicated that the digital asset market witnessed a capital inflow of $2.48 billion last week. As a result, the total inflow for August reached $4.37 billion. Currently, the year-to-date inflow amounts to $35.5 billion. However, the assets under management (AUM) have decreased by 10% to $219 billion.In the United States, the largest inflow was $2.29 billion. Switzerland, Germany, and Canada also witnessed growth. This suggests that the outflows last Friday were mainly driven by profit-taking.</description>
-      <pubDate>Mon, 01 Sep 2025 09:17:26 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 09:30:45 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27159</guid>
       <category>crypto</category>
@@ -99,93 +188,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance HODLer Airdrop Launches Somnia (SOMI)</title>
-      <link>https://www.lookonchain.com/feeds/27158</link>
-      <description>September 1st. According to the official announcement, the Binance HODLer Airdrop has now initiated its 35th project - Somnia (SOMI). It is an EVM L1 blockchain focusing on consumer-facing applications like gaming and entertainment products.From August 12th, 2025, 08:00 to August 16th, 2025, 07:59 (UTC+8), users who used BNB to subscribe to Capital Protected Yield Farming (Fixed-Term and/or Flexible) or on-chain Staking products will receive the airdrop allocation. The HODLer airdrop information is anticipated to become live within 24 hours, and the new tokens will be delivered to users&apos; spot wallets at least 1 hour prior to the start of trading.Binance will list SOMI on September 2nd, 2025, at 22:30 (UTC+8) and open trading pairs for USDT, USDC, BNB, FDUSD, and TRY in accordance with the Seed Label Trading Rule. The SOMI deposit channel will open on September 1st, 2025, at 19:00 (UTC+8).</description>
-      <pubDate>Mon, 01 Sep 2025 09:08:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27158</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Participate in the GSR or WLFI second-round public sale, invest 2 million USDC at a cost of $0.05 per token</title>
-      <link>https://www.lookonchain.com/feeds/27157</link>
-      <description>September 1st. According to the monitoring of on-chain analyst Ai Yi (@ai_9684xtpa), 7 months ago, an address beginning with 0x453 transferred 2 million USDC to the WLFI fundraising address and received 40 million tokens. The cost price was $0.05. The source of funds for this address was GSR.It remains unclear whether GSR Markets is participating in the investment as an institution or will provide market-making services. No official multisig-related transfers have been observed at this time.</description>
-      <pubDate>Mon, 01 Sep 2025 08:58:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27157</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>ZhongAn Smart Living: Collaboration with a Licensed Virtual Asset Trading Platform in Hong Kong</title>
-      <link>https://www.lookonchain.com/feeds/27156</link>
-      <description>On September 1st, ZhongAn Smart Living (02271.HK) announced that it will cooperate with a licensed virtual asset operating platform in Hong Kong. This platform will offer digital asset infrastructure support to ZhongAn Smart Living, enabling it to explore the path of cryptocurrency asset custody and allocation within the regulatory framework and promote the construction of an innovative digital ecosystem.Meanwhile, the platform will also provide technical advice on the virtual asset platform and support for compliance pathways and establish a regular technical discussion and business exchange mechanism. This collaboration is intended to strengthen ZhongAn Smart Living&apos;s existing business foundation, enhance its core competitiveness, and drive business innovation and digital transformation.</description>
-      <pubDate>Mon, 01 Sep 2025 08:58:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27156</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>LINEA&apos;s pre-market trading price on Binance is currently at $0.051, with a fully diluted valuation of $3.672 billion.</title>
-      <link>https://www.lookonchain.com/feeds/27155</link>
-      <description>On September 1st, based on market data, the pre-trading price of LINEA on Binance is currently at $0.051.Binance&apos;s official announcement indicates that the total supply of LINEA tokens is 72,009,990,000, and the corresponding fully diluted valuation is $36.72 billion.</description>
-      <pubDate>Mon, 01 Sep 2025 08:58:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27155</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Binance will launch LINEA Perpetual Futures Pre-trading User Contract.</title>
-      <link>https://www.lookonchain.com/feeds/27154</link>
-      <description>September 1st. According to an official announcement, the Binance Futures platform will commence LINEAUSDT perpetual contract trading at 16:30 on September 1, 2025 (in UTC+8 time zone), and the maximum leverage offered will be up to 5x.</description>
-      <pubDate>Mon, 01 Sep 2025 07:58:26 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27154</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
