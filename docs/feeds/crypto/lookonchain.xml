@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 04:45:11 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 04:45:11 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 04:57:26 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 04:57:26 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,28 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Data: The WLFI total on-chain staking amount has reached $880 million, with a 47.58% increase in the last 24 hours.</title>
+      <link>https://www.lookonchain.com/feeds/27125</link>
+      <description>On September 1st, based on Coinglass data, the current total on-chain contract position of WLFI is $880 million. In terms of coins, the position is 2.563 billion WLFI, and it has increased by 47.58% in the past 24 hours.</description>
+      <pubDate>Mon, 01 Sep 2025 04:49:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27125</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Bithumb will list the USD/KRW trading pair</title>
       <link>https://www.lookonchain.com/feeds/27124</link>
       <description>On September 1st, as per official information, Bithumb is set to list the USD1/KRW trading pair. The trading is scheduled to commence on Monday, September 1, 2025, at 4:00 PM in the local time.Previously, there were reports suggesting that Upbit announced it would list WLFI along with USD1/KRW, USDT, and Bitcoin trading pairs.</description>
-      <pubDate>Mon, 01 Sep 2025 04:40:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:40:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27124</guid>
       <category>crypto</category>
@@ -34,7 +52,7 @@
       <title>Nobel Laureate Warning: Insufficient Stablecoin Regulation Could Lead to Government Bailouts</title>
       <link>https://www.lookonchain.com/feeds/27123</link>
       <description>On September 1st, as reported by the Financial Times, the Nobel Prize-winning economist Jean Tirole cautioned that the current regulation of stablecoins is &quot;inadequate.&quot; If these tokens were to fail during a future financial crisis, the government might be compelled to inject billions of dollars for a bailout. In an interview, the 2014 Nobel Prize-winning economist expressed that he is &quot;extremely, extremely concerned&quot; about the regulation of stablecoins and the potential for a bank run if there is doubt regarding the underlying reserve assets linked to these digital tokens.Tirole pointed out that although stablecoins may seem like &quot;absolutely safe deposits&quot; in the eyes of ordinary users, they could actually lead to losses and trigger calls for costly government bailouts. He also warned that using U.S. Treasury bonds as the backing asset for stablecoins might become unpopular due to the relatively low yields of these underlying assets. As a result, stablecoin issuers may be motivated</description>
-      <pubDate>Mon, 01 Sep 2025 04:32:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:32:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27123</guid>
       <category>crypto</category>
@@ -51,7 +69,7 @@
       <title>Upbit will list USD1 KRW, USDT, and Bitcoin trading pairs</title>
       <link>https://www.lookonchain.com/feeds/27122</link>
       <description>September 1st. According to official information, Upbit will list trading pairs involving USD1 South Korean Won, USDT, and Bitcoin. The trading is scheduled to commence on September 1st at 4:00 PM in the local time zone.</description>
-      <pubDate>Mon, 01 Sep 2025 04:18:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:18:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27122</guid>
       <category>crypto</category>
@@ -70,7 +88,7 @@
       <title>Due to the impact of the BONK.fun and WLFI partnership announcement, the Bonk ecosystem development protocol token GP surged 34% in just under 1 hour.</title>
       <link>https://www.lookonchain.com/feeds/27121</link>
       <description>On September 1st, based on GMGN market information, the Bonk ecosystem development protocol token GP surged by 34% in the past hour, and its current market value is $1.168 billion.In earlier news, WLFI announced that USD1 has officially been launched on Solana and has integrated with Raydium, BONK.fun, and Kamino.</description>
-      <pubDate>Mon, 01 Sep 2025 04:18:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:18:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27121</guid>
       <category>crypto</category>
@@ -87,26 +105,9 @@
       <title>Bitget is about to launch WLFI spot trading.</title>
       <link>https://www.lookonchain.com/feeds/27120</link>
       <description>September 1st. As per an official proclamation, Bitget is going to list World Liberty Financial (WLFI) in its Innovation Zone and DeFi Zone. The deposit channel has been made accessible, and the trading channel will commence at 9:00 PM on September 1st (UTC+8).</description>
-      <pubDate>Mon, 01 Sep 2025 04:08:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:08:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27120</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Haotian International Securities will apply to the Hong Kong Securities and Futures Commission for Virtual Asset Trading Service</title>
-      <link>https://www.lookonchain.com/feeds/27119</link>
-      <description>On September 1st, the Hong Kong Stock Exchange-listed company Haitong International Investment announced that its wholly-owned subsidiary, Haitong International Securities, intends to apply to the Hong Kong Securities and Futures Commission for offering virtual asset trading services through a comprehensive account arrangement. If approved by the Hong Kong Securities and Futures Commission, the company will be able to provide virtual asset trading services to retail clients. (Sing Tao Daily)</description>
-      <pubDate>Mon, 01 Sep 2025 04:01:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27119</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -121,7 +122,7 @@
       <title>Shield Mining: August Cryptocurrency Security Incident Results in $163 Million in Losses, a 15% Increase from July</title>
       <link>https://www.lookonchain.com/feeds/27118</link>
       <description>September 1st. According to PeckShield&apos;s monitoring, in August 2025, there were approximately 16 significant cryptocurrency security incidents. The total loss amounted to $163 million, which was a 15% increase compared to July&apos;s $142 million.Among them, the five largest security incidents were as follows:1. A certain Bitcoin holder suffered a loss of $91.4 million.2. The Turkish cryptocurrency exchange platform BTCTurk endured a loss of $54 million.3. The ODIN?FUN project lost $7 million.4. BetterBank.io lost $5 million.5. CrediX Finance lost $4.5 million.It is worth noting that BTCTurk has encountered two major security incidents in the past year. After losing $54 million in June 2024, the cumulative loss has exceeded $100 million.</description>
-      <pubDate>Mon, 01 Sep 2025 04:00:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:00:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27118</guid>
       <category>crypto</category>
@@ -136,10 +137,27 @@
 
     </item>
     <item>
+      <title>Haotian International Securities will apply to the Hong Kong Securities and Futures Commission for Virtual Asset Trading Service</title>
+      <link>https://www.lookonchain.com/feeds/27119</link>
+      <description>On September 1st, the Hong Kong Stock Exchange-listed company Haitong International Investment announced that its wholly-owned subsidiary, Haitong International Securities, intends to apply to the Hong Kong Securities and Futures Commission for offering virtual asset trading services through a comprehensive account arrangement. If approved by the Hong Kong Securities and Futures Commission, the company will be able to provide virtual asset trading services to retail clients. (Sing Tao Daily)</description>
+      <pubDate>Mon, 01 Sep 2025 04:00:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27119</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>WLFI&apos;s initial circulating supply on CoinMarketCap is shown as 27.3 billion tokens, significantly higher than the estimated 5 billion circulating tokens.</title>
       <link>https://www.lookonchain.com/feeds/27117</link>
       <description>On September 1st, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the data from CoinMarketCap shows that the verified initial circulating supply of WLFI TGE is 27.3 billion tokens. This figure is significantly higher than the previously estimated theoretical circulation of 5 billion tokens. Based on the current contract price of $0.3599, the opening sell pressure would amount to $9.83 billion.Ai Auntie pointed out that CoinMarketCap&apos;s algorithm calculates by subtracting the team/advisor/partner/Lockbox tokens from the total token supply, indicating that all strategic round tokens are regarded as circulating, which appears to be inaccurate. CoinMarketCap has not provided a response to this matter yet.</description>
-      <pubDate>Mon, 01 Sep 2025 04:00:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 04:00:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27117</guid>
       <category>crypto</category>
@@ -156,7 +174,7 @@
       <title>A Whale Registers &apos;TrumpIsTheBest&apos; Domain Name and Realizes Over $8 Million in Unrealized Gains on WLFI</title>
       <link>https://www.lookonchain.com/feeds/27116</link>
       <description>On September 1st, based on the monitoring of LookOnChain, a supporter of Trump registered the domain name &quot;trumpis thebest.eth&quot; and spent $347,000 to purchase 23.14 million WLFI (with the current price being $8.5 million). Currently, they are holding unrealized profits of more than $8 million.</description>
-      <pubDate>Mon, 01 Sep 2025 03:49:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 03:56:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27116</guid>
       <category>crypto</category>
@@ -168,26 +186,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>In August, the US Ethereum Spot ETF saw a record inflow of $3.87 billion.</title>
-      <link>https://www.lookonchain.com/feeds/27115</link>
-      <description>September 1st - During the month of August, the US Ethereum spot ETF witnessed a record-breaking net inflow of $3.87 billion. In contrast, the Bitcoin spot ETF experienced a net outflow of $0.751 billion during the same period. (Cointelegraph)</description>
-      <pubDate>Mon, 01 Sep 2025 03:48:18 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27115</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
       <category>high-value</category>
 
     </item>
