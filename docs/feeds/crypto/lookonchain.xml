@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 17:32:35 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 17:32:35 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 17:44:19 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 17:44:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Bitcoin Withdrawals Slowing Down, with a CEX Net Inflow of 2,600.32 BTC in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/27229</link>
+      <description>On September 2nd, based on Coinglass data, in the past 24 hours, the total net inflow of BTC on CEXs was 2,600.32 BTC. The top three CEXs in terms of inflow volume are as follows:· Binance: with a net inflow of 2,089.42 BTC;· Bitfinex: having a net inflow of 464.89 BTC;· Kraken: with a net inflow of 102.98 BTC.In addition, Coinbase Pro witnessed a net outflow of 161.67 BTC and ranked first in the outflow list.</description>
+      <pubDate>Mon, 01 Sep 2025 17:33:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27229</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Anchorage Digital recently increased its holdings by 542,000 HYPE tokens, worth $24 million.</title>
+      <link>https://www.lookonchain.com/feeds/27230</link>
+      <description>On September 2nd, based on on-chain data, Anchorage Digital has withdrawn 542,000 HYPE tokens (valued at $24 million) from Bybit in the past two days.</description>
+      <pubDate>Mon, 01 Sep 2025 17:33:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27230</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>XPL Whale Makes $38 Million Profit Again with WLFI, Racking Up Hundreds of Millions</title>
       <link>https://www.lookonchain.com/feeds/27228</link>
       <description>On September 2nd, based on on-chain data, TechnoRevenant. After making a profit of $38 million on XPL last week, he has now earned billions of dollars in profit on WLFI. He received 200 million tokens (accounting for 20% of his total holdings), and these tokens are currently valued at $49 million. In total, he invested $30 million in the presale 8 months ago and obtained a 1% share of the total supply, which is 10 billion WLFI tokens. These tokens are currently worth $245 million, indicating that he has achieved an 8-fold return on this significant investment.</description>
-      <pubDate>Mon, 01 Sep 2025 17:16:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 17:16:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27228</guid>
       <category>crypto</category>
@@ -37,7 +74,7 @@
       <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 61,400 ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/27227</link>
       <description>On September 2nd, according to Coinglass data, within the past 24 hours, the total net outflow of ETH from CEX exchanges amounted to 61,400 ETH. The top three CEX exchanges in terms of outflow volume are as follows:· Binance, with an outflow of 44,200 ETH;· OKX, with an outflow of 9,841.09 ETH;· Kraken, with an outflow of 4,219.48 ETH.In addition, Coinbase Pro witnessed an inflow of 2,859.11 ETH, ranking first in the list of inflows.</description>
-      <pubDate>Mon, 01 Sep 2025 16:57:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 16:57:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27227</guid>
       <category>crypto</category>
@@ -53,28 +90,10 @@
 
     </item>
     <item>
-      <title>Coinbase and OKX are launching cryptocurrency products for Australia&apos;s $4.3 trillion AUD pension system.</title>
-      <link>https://www.lookonchain.com/feeds/27226</link>
-      <description>On September 2nd, as per Bloomberg, Australia&apos;s $4.3 trillion Australian dollar ($2.8 trillion US dollar) pension retirement system is stepping into a new realm for cryptocurrency. Two major digital asset exchanges, Coinbase Global Inc. and OKX, have consecutively launched products with the aim of guiding pension funds into cryptocurrency.According to John O’Shea, the Asia-Pacific Managing Director of Coinbase, the company is on the verge of launching a dedicated SMSF service, and there is a waiting list of more than 500 investors. Kate Cooper, the CEO of OKX Australia, stated that the demand for the similar product they launched in June exceeded expectations by a large margin.OKX&apos;s product and Coinbase&apos;s planned service will also be made available through third-party providers such as recommended accountants and law firms to assist investors in establishing SMSFs. Although there is no minimum balance requirement, the ongoing management costs, including mandatory independent audits,</description>
-      <pubDate>Mon, 01 Sep 2025 16:32:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27226</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Justin Sun: Tron Network has minted an additional 25 million USD1</title>
       <link>https://www.lookonchain.com/feeds/27225</link>
       <description>On September 2nd, Justin Sun made a post on social media stating that the Tron network had just minted an additional 25 million USD1, and the total supply of USD1 on the network had reached more than 50 million.</description>
-      <pubDate>Mon, 01 Sep 2025 16:31:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 16:43:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27225</guid>
       <category>crypto</category>
@@ -92,9 +111,27 @@
       <title>Total WLFI Contract Position Across the Network currently stands at $9.17 billion, with only $7.03 million liquidated in the past 4 hours.</title>
       <link>https://www.lookonchain.com/feeds/27224</link>
       <description>On September 2nd, according to Coinglass data, the current total WLFI contract position across the network is currently reported to be $9.17 billion. Only $7.03 million has been liquidated in the past 4 hours (after WLFI was officially launched).</description>
-      <pubDate>Mon, 01 Sep 2025 16:31:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 16:43:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27224</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Coinbase and OKX are launching cryptocurrency products for Australia&apos;s $4.3 trillion AUD pension system.</title>
+      <link>https://www.lookonchain.com/feeds/27226</link>
+      <description>On September 2nd, as per Bloomberg, Australia&apos;s $4.3 trillion Australian dollar ($2.8 trillion US dollar) pension retirement system is stepping into a new realm for cryptocurrency. Two major digital asset exchanges, Coinbase Global Inc. and OKX, have consecutively launched products with the aim of guiding pension funds into cryptocurrency.According to John O’Shea, the Asia-Pacific Managing Director of Coinbase, the company is on the verge of launching a dedicated SMSF service, and there is a waiting list of more than 500 investors. Kate Cooper, the CEO of OKX Australia, stated that the demand for the similar product they launched in June exceeded expectations by a large margin.OKX&apos;s product and Coinbase&apos;s planned service will also be made available through third-party providers such as recommended accountants and law firms to assist investors in establishing SMSFs. Although there is no minimum balance requirement, the ongoing management costs, including mandatory independent audits,</description>
+      <pubDate>Mon, 01 Sep 2025 16:43:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27226</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -110,27 +147,9 @@
       <title>WLFI has dropped below $0.24 and is now trading at $0.2386.</title>
       <link>https://www.lookonchain.com/feeds/27223</link>
       <description>On September 2nd, according to HTX market data, WLFI dipped below $0.24 and is currently trading at $0.2386.</description>
-      <pubDate>Mon, 01 Sep 2025 16:31:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 15:43:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27223</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Justin Sun has claimed 600 million WLFI tokens, worth $178 million.</title>
-      <link>https://www.lookonchain.com/feeds/27219</link>
-      <description>On September 1st, according to Arkham Monitor, Justin Sun has just made a claim of 6 billion WLFI tokens, which are worth $178 million. Currently, he holds a total of 30 billion WLFI tokens with a value of $8.912 billion. This claim only accounts for 20% of the first unlocked batch.After claiming the tokens, Justin Sun transferred 10 WLFI tokens to an unmarked address starting with 0x353D for the purpose of transaction testing.BlockBeats previously reported that Justin Sun stated on social media that he believes WLFI will become one of the largest and most significant projects in the cryptocurrency field, and he currently has no intention of quickly selling the unlocked tokens.</description>
-      <pubDate>Mon, 01 Sep 2025 15:31:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27219</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -146,7 +165,7 @@
       <title>Ethereum Network Gas Price Drops to 6.89 Gwei</title>
       <link>https://www.lookonchain.com/feeds/27222</link>
       <description>On September 1st, according to Etherscan data, after the WLFI token was listed for 4 hours, the gas on the Ethereum network has now dropped to 6.89 Gwei.</description>
-      <pubDate>Mon, 01 Sep 2025 15:31:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 15:43:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27222</guid>
       <category>crypto</category>
@@ -165,7 +184,7 @@
       <title>Block drops over 30% in the past 24 hours, with a current market cap of $1.11 billion</title>
       <link>https://www.lookonchain.com/feeds/27221</link>
       <description>On September 1st, according to GMGN market data, the price of the WLFI-related project token Block has witnessed a 33.52% decline within the past 24 hours. The current market capitalization is reported to be $1.11 billion, and the token price is $0.1093.BlockBeats Note: Matthew Morgan, a co-founder of Block, is an advisor to WLFI and also serves as the CIO (Chief Information Officer) of ALT5 Sigma, a Nasdaq-listed company that raised $1.5 billion to establish the WLFI Treasury.</description>
-      <pubDate>Mon, 01 Sep 2025 15:31:43 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 15:43:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27221</guid>
       <category>crypto</category>
@@ -177,25 +196,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum Foundation Announces Hole?ky Testnet Shutdown</title>
-      <link>https://www.lookonchain.com/feeds/27220</link>
-      <description>On September 1st, the Ethereum Foundation officially declared that the Hole?ky testnet has reached the end of its planned lifespan and will soon be deprecated. After the completion of the Fusaka upgrade on Hole?ky two weeks ago, the vast majority of the remaining validator nodes will be shut down. Subsequently, the client teams, testing teams, and infrastructure teams will no longer provide support for Hole?ky.The official statement mentioned that Hole?ky went live in 2023 as Ethereum&apos;s largest public testnet, which was specifically designed for large-scale staking infrastructure and validator operation testing. The network has fulfilled its mission by supporting thousands of validators through protocol upgrade testing, including the Dencun network upgrade and the recent Pectra upgrade.However, after the activation of the Pectra testnet in early 2025, Hole?ky experienced a significant non-triviality leak, resulting in a surge in validator exits from the queue. Although the network</description>
-      <pubDate>Mon, 01 Sep 2025 15:31:43 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27220</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
