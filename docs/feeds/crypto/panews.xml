@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 07:52:18 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 07:52:18 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 08:19:38 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 08:19:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,106 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>币安将上线LINEA/USDT永续合约预交易，最高支持5倍杠杆</title>
+      <link>https://www.panewslab.com/zh/articles/d4c524f9-3293-4205-8e0d-f781ca399045</link>
+      <description>币安将上线LINEA/USDT永续合约预交易，最高支持5倍杠杆</description>
+      <pubDate>Mon, 01 Sep 2025 08:19:38 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d4c524f9-3293-4205-8e0d-f781ca399045</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>A股上市公司三未信安正积极布局Web3.0应用场景，聚焦RWA与稳定币</title>
+      <link>https://www.panewslab.com/zh/articles/1ee31bc1-d989-4996-9c5d-b30b7b4f37cd</link>
+      <description>A股上市公司三未信安正积极布局Web3.0应用场景，聚焦RWA与稳定币</description>
+      <pubDate>Mon, 01 Sep 2025 08:17:38 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1ee31bc1-d989-4996-9c5d-b30b7b4f37cd</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>OKX将于9月8日下架WBTC、JST、BTT、ERN、GLMR和MOVR现货交易</title>
+      <link>https://www.panewslab.com/zh/articles/1ee902e3-4381-49dc-82d7-08bd76f14bc4</link>
+      <description>OKX将于9月8日下架WBTC、JST、BTT、ERN、GLMR和MOVR现货交易</description>
+      <pubDate>Mon, 01 Sep 2025 08:15:38 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1ee902e3-4381-49dc-82d7-08bd76f14bc4</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>币安Alpha将于9月3日上线Moonchain（MCH）</title>
+      <link>https://www.panewslab.com/zh/articles/ba2f6b47-effc-4413-97a3-e5abd8743861</link>
+      <description>币安Alpha将于9月3日上线Moonchain（MCH）</description>
+      <pubDate>Mon, 01 Sep 2025 08:13:38 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ba2f6b47-effc-4413-97a3-e5abd8743861</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>分析：比特币9月平均跌幅约6%，ETF资金流出或股市抛售可能导致BTC至10万美元附近</title>
+      <link>https://www.panewslab.com/zh/articles/d4211a2f-ad21-45e0-be94-767035e5d056</link>
+      <description>分析：比特币9月平均跌幅约6%，ETF资金流出或股市抛售可能导致BTC至10万美元附近</description>
+      <pubDate>Mon, 01 Sep 2025 08:11:38 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d4211a2f-ad21-45e0-be94-767035e5d056</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>某鲸鱼向HyperLiquid存入100万USDC并开设20倍杠杆BTC空头</title>
+      <link>https://www.panewslab.com/zh/articles/710649a3-c840-4031-b111-002ae0b82a01</link>
+      <description>某鲸鱼向HyperLiquid存入100万USDC并开设20倍杠杆BTC空头</description>
+      <pubDate>Mon, 01 Sep 2025 08:09:38 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/710649a3-c840-4031-b111-002ae0b82a01</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>BTC突破109000美元，日内涨幅 0.20%</title>
       <link>https://www.panewslab.com/zh/articles/t6pscfa3</link>
       <description>BTC突破109000美元，日内涨幅 0.20%</description>
-      <pubDate>Mon, 01 Sep 2025 07:52:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:07:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/t6pscfa3</guid>
       <category>crypto</category>
@@ -34,7 +130,7 @@
       <title>WLFI流通部分3%用于交易所流动性供应，5%分配给公募投资者</title>
       <link>https://www.panewslab.com/zh/articles/bf7d2ee3-2599-4040-a68e-0a33474323be</link>
       <description>WLFI流通部分3%用于交易所流动性供应，5%分配给公募投资者</description>
-      <pubDate>Mon, 01 Sep 2025 07:50:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:05:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bf7d2ee3-2599-4040-a68e-0a33474323be</guid>
       <category>crypto</category>
@@ -49,7 +145,7 @@
       <title>火币HTX将于今日20时上线WLFI (World Liberty Financial)</title>
       <link>https://www.panewslab.com/zh/articles/bb03574e-4f0d-457e-b7d3-8dc5fadcd097</link>
       <description>火币HTX将于今日20时上线WLFI (World Liberty Financial)</description>
-      <pubDate>Mon, 01 Sep 2025 07:48:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:03:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bb03574e-4f0d-457e-b7d3-8dc5fadcd097</guid>
       <category>crypto</category>
@@ -64,7 +160,7 @@
       <title>分析：当前走势可能继续回调，降息虽利好加密市场却常伴随波动</title>
       <link>https://www.panewslab.com/zh/articles/c3f5d98d-b0d6-4936-8b2f-c60e179bdf55</link>
       <description>分析：当前走势可能继续回调，降息虽利好加密市场却常伴随波动</description>
-      <pubDate>Mon, 01 Sep 2025 07:46:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 08:01:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c3f5d98d-b0d6-4936-8b2f-c60e179bdf55</guid>
       <category>crypto</category>
@@ -79,7 +175,7 @@
       <title>币安将于9月10日支持Celo（CELO）网络升级及硬分叉</title>
       <link>https://www.panewslab.com/zh/articles/72fdc978-99fc-4afd-a32c-3d8a5ab88e1c</link>
       <description>币安将于9月10日支持Celo（CELO）网络升级及硬分叉</description>
-      <pubDate>Mon, 01 Sep 2025 07:44:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:59:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/72fdc978-99fc-4afd-a32c-3d8a5ab88e1c</guid>
       <category>crypto</category>
@@ -94,7 +190,7 @@
       <title>币安Alpha将于9月2日上线Somnia（SOMI）</title>
       <link>https://www.panewslab.com/zh/articles/0a50efdc-c7e6-4b31-a056-3d9368b98b27</link>
       <description>币安Alpha将于9月2日上线Somnia（SOMI）</description>
-      <pubDate>Mon, 01 Sep 2025 07:42:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:57:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0a50efdc-c7e6-4b31-a056-3d9368b98b27</guid>
       <category>crypto</category>
@@ -109,7 +205,7 @@
       <title>CMC CEO回应：平台上WLFI TGE流通数据是“反复与项目方确认的”</title>
       <link>https://www.panewslab.com/zh/articles/b7c98a4e-9205-496e-82cf-fe9324a0befb</link>
       <description>CMC CEO回应：平台上WLFI TGE流通数据是“反复与项目方确认的”</description>
-      <pubDate>Mon, 01 Sep 2025 07:40:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:55:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b7c98a4e-9205-496e-82cf-fe9324a0befb</guid>
       <category>crypto</category>
@@ -124,7 +220,7 @@
       <title>币安：FOREST项目TGE活动参与门槛为240Alpha积分</title>
       <link>https://www.panewslab.com/zh/articles/3875d33f-692d-484b-afad-90bfec0873d4</link>
       <description>币安：FOREST项目TGE活动参与门槛为240Alpha积分</description>
-      <pubDate>Mon, 01 Sep 2025 07:38:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:53:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3875d33f-692d-484b-afad-90bfec0873d4</guid>
       <category>crypto</category>
@@ -139,7 +235,7 @@
       <title>瑞典上市公司Goobit Group已将其比特币持仓增加至11.65枚</title>
       <link>https://www.panewslab.com/zh/articles/a162a967-ef71-40de-9083-cc8d28c4ecf4</link>
       <description>瑞典上市公司Goobit Group已将其比特币持仓增加至11.65枚</description>
-      <pubDate>Mon, 01 Sep 2025 07:36:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:51:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a162a967-ef71-40de-9083-cc8d28c4ecf4</guid>
       <category>crypto</category>
@@ -156,7 +252,7 @@
       <title>上市公司Satsuma Technology已将其比特币持仓增加至1148.65枚BTC</title>
       <link>https://www.panewslab.com/zh/articles/ed4fda70-5183-46ae-aecc-43794ea8f0ed</link>
       <description>上市公司Satsuma Technology已将其比特币持仓增加至1148.65枚BTC</description>
-      <pubDate>Mon, 01 Sep 2025 07:34:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:49:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ed4fda70-5183-46ae-aecc-43794ea8f0ed</guid>
       <category>crypto</category>
@@ -173,7 +269,7 @@
       <title>耐克与StockX结束因NFT和假鞋引发的商标纠纷</title>
       <link>https://www.panewslab.com/zh/articles/d2eee9bc-fe7b-4ad6-bd58-c9366ec08e8f</link>
       <description>耐克与StockX结束因NFT和假鞋引发的商标纠纷</description>
-      <pubDate>Mon, 01 Sep 2025 07:32:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:47:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d2eee9bc-fe7b-4ad6-bd58-c9366ec08e8f</guid>
       <category>crypto</category>
@@ -189,7 +285,7 @@
       <title>币安钱包（网页版）上线返佣计划</title>
       <link>https://www.panewslab.com/zh/articles/b2dbcc3a-8617-4422-b5ce-b12544bf26dc</link>
       <description>币安钱包（网页版）上线返佣计划</description>
-      <pubDate>Mon, 01 Sep 2025 07:30:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:45:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b2dbcc3a-8617-4422-b5ce-b12544bf26dc</guid>
       <category>crypto</category>
@@ -204,7 +300,7 @@
       <title>dYdX社区已投票批准v9.0软件升级</title>
       <link>https://www.panewslab.com/zh/articles/15c00a86-3b14-4853-b415-4e2a931d0bf5</link>
       <description>dYdX社区已投票批准v9.0软件升级</description>
-      <pubDate>Mon, 01 Sep 2025 07:28:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:43:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/15c00a86-3b14-4853-b415-4e2a931d0bf5</guid>
       <category>crypto</category>
@@ -219,105 +315,9 @@
       <title>调查：WLFI小持有者抛售目标价0.47美元，大持有者目标价1美元</title>
       <link>https://www.panewslab.com/zh/articles/35c0022d-5c79-4c15-9474-9f5b50744a59</link>
       <description>调查：WLFI小持有者抛售目标价0.47美元，大持有者目标价1美元</description>
-      <pubDate>Mon, 01 Sep 2025 07:26:18 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:41:38 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/35c0022d-5c79-4c15-9474-9f5b50744a59</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>某比特币远古巨鲸再次卖出2000枚BTC并买入48942枚ETH</title>
-      <link>https://www.panewslab.com/zh/articles/6e6897fd-5fe8-4797-85b8-7aede5809854</link>
-      <description>某比特币远古巨鲸再次卖出2000枚BTC并买入48942枚ETH</description>
-      <pubDate>Mon, 01 Sep 2025 07:24:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6e6897fd-5fe8-4797-85b8-7aede5809854</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Metaplanet今日的股东大会将就8.84亿美元股票出售计划进行投票</title>
-      <link>https://www.panewslab.com/zh/articles/e0828fc8-3e52-42dd-905c-62eab6ef8f98</link>
-      <description>Metaplanet今日的股东大会将就8.84亿美元股票出售计划进行投票</description>
-      <pubDate>Mon, 01 Sep 2025 07:22:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e0828fc8-3e52-42dd-905c-62eab6ef8f98</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>诺奖得主警告：稳定币监管不足可能引发政府被迫救助</title>
-      <link>https://www.panewslab.com/zh/articles/5e0fea56-540c-4e0a-90d7-8896dff9a191</link>
-      <description>诺奖得主警告：稳定币监管不足可能引发政府被迫救助</description>
-      <pubDate>Mon, 01 Sep 2025 07:20:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5e0fea56-540c-4e0a-90d7-8896dff9a191</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Gate 将提前上线 World Liberty Financial (WLFI) 现货交易</title>
-      <link>https://www.panewslab.com/zh/articles/f8ce326a-11fc-4662-82e9-96d2f4412347</link>
-      <description>Gate 将提前上线 World Liberty Financial (WLFI) 现货交易</description>
-      <pubDate>Mon, 01 Sep 2025 07:18:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f8ce326a-11fc-4662-82e9-96d2f4412347</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Upbit将韩元、BTC、USDT市场上线USD1和WLFI</title>
-      <link>https://www.panewslab.com/zh/articles/4ba4cc51-1d5e-4e38-b862-b9940c02bcf7</link>
-      <description>Upbit将韩元、BTC、USDT市场上线USD1和WLFI</description>
-      <pubDate>Mon, 01 Sep 2025 07:16:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4ba4cc51-1d5e-4e38-b862-b9940c02bcf7</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>派盾：8月加密领域安全事件造成1.63亿美元损失，环比增长15%</title>
-      <link>https://www.panewslab.com/zh/articles/3dbae242-6269-48e3-b950-25e5e2df6308</link>
-      <description>派盾：8月加密领域安全事件造成1.63亿美元损失，环比增长15%</description>
-      <pubDate>Mon, 01 Sep 2025 07:14:18 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3dbae242-6269-48e3-b950-25e5e2df6308</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
