@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 07:40:26 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 07:40:26 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 07:52:18 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 07:52:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Huobi HTX will be listed on WLFI (World Liberty Financial) on September 1st at 20:00.</title>
-      <link>https://www.lookonchain.com/feeds/27146</link>
-      <description>On September 1st, according to the announcement from Huobi HTX, Huobi HTX will list WLFI/USDT spot trading at 20:00 (GMT+8) on September 1st.At the same time, Huobi Futures will add WLFI/USDT (10X) isolated margin trading at 20:00 (GMT+8) on September 1st.Previously, the WLFI deposit service was opened at 18:00 (GMT+8) on August 29th.</description>
-      <pubDate>Mon, 01 Sep 2025 07:24:34 +0000</pubDate>
+      <title>The WLFI Lockbox contract has received a deposit of 16.88 billion tokens, estimated to be worth 5.47 billion U.S. dollars.</title>
+      <link>https://www.lookonchain.com/feeds/27147</link>
+      <description>On September 1st, according to on-chain data, approximately 16.88 billion WLFI tokens have already been transferred to the Lockbox contract, which accounts for 16.88% of the total token supply. Based on the pre-market contract price of $0.324, the value is approximately $5.47 billion.Previously, it was reported that the unlocking process of the WLFI token officially began at 8:00 AM EST on September 1st, and the corresponding feature page (Lockbox) has been launched. Users were required to activate it between August 25th and August 31st in order to be able to claim 20% of the unlocked tokens starting from September 1st.</description>
+      <pubDate>Mon, 01 Sep 2025 07:43:25 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27146</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27147</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,9 +34,26 @@
       <title>Hong Kong Stock Exchange-listed company Walnut Capital becomes the first publicly listed company to hold CP Reserves Tokens</title>
       <link>https://www.lookonchain.com/feeds/27145</link>
       <description>On September 1st, as per official channels, the Hong Kong-listed company Walnut Capital (stock code: 905) has emerged as the first listed entity to hold CP tokens in reserve.Walnut Capital will set aside CP as reserves, and Golden Elephant is actively working on facilitating the usage of CP in a wider range of application scenarios. Meanwhile, they will jointly promote initiatives related to the Web3 ecosystem, facilitate the listing of CP on compliant trading platforms, and explore the implementation and development of Real World Asset (RWA) funds and the CP Chain ecosystem projects.CP, as the core asset of CoinUp.io&apos;s public chain CP Chain, has been deeply integrated into the trading platform ecosystem, covering aspects such as new coin subscriptions, on-chain project participation, fee discounts, governance voting, etc., and is regarded as the most important and unique strategic asset of the CoinUp platform.Furthermore, the CP Chain holds great potential in bridging centralize</description>
-      <pubDate>Mon, 01 Sep 2025 07:24:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:24:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27145</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Huobi HTX will be listed on WLFI (World Liberty Financial) on September 1st at 20:00.</title>
+      <link>https://www.lookonchain.com/feeds/27146</link>
+      <description>On September 1st, according to the announcement from Huobi HTX, Huobi HTX will list WLFI/USDT spot trading at 20:00 (GMT+8) on September 1st.At the same time, Huobi Futures will add WLFI/USDT (10X) isolated margin trading at 20:00 (GMT+8) on September 1st.Previously, the WLFI deposit service was opened at 18:00 (GMT+8) on August 29th.</description>
+      <pubDate>Mon, 01 Sep 2025 07:24:25 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27146</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +68,7 @@
       <title>Matrixport: Bitcoin Retraces to Key Range, Potential Further Drop Ahead</title>
       <link>https://www.lookonchain.com/feeds/27144</link>
       <description>On September 1st, Matrixport disclosed its latest report on social media, indicating that Bitcoin has pulled back to the range of $106,000 - $108,000, a level that it has been closely observing. In its recent report, Matrixport has adopted a more cautious stance and cautioned that a retest of $108,000 might just be the starting point. Since late July, Matrixport has been highlighting the increasing resistance resulting from seasonal weakness.Now, as this week&apos;s US employment data is about to be released and Bitcoin is at a crucial technical level, the market is setting the stage for a potential significant rally. While many traders would be astonished by further Bitcoin downside, this situation cannot be excluded. Rate cuts are often regarded as the driving force for pushing cryptocurrency prices higher, but they rarely occur without consequences.</description>
-      <pubDate>Mon, 01 Sep 2025 07:16:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:16:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27144</guid>
       <category>crypto</category>
@@ -70,7 +87,7 @@
       <title>Binance Alpha will list Somnia (SOMI) and open the airdrop claim to eligible users</title>
       <link>https://www.lookonchain.com/feeds/27143</link>
       <description>On September 1st, according to official channels, Binance Alpha is scheduled to list Somnia (SOMI) on September 2nd. Eligible users will be able to receive an airdrop by accessing the Alpha event page and utilizing Binance Alpha points once the Alpha trading commences. Further details will be provided at a later time.</description>
-      <pubDate>Mon, 01 Sep 2025 07:10:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:10:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27143</guid>
       <category>crypto</category>
@@ -87,7 +104,7 @@
       <title>If WLFI opens at the current pre-market price of $0.3, its market capitalization would rank 28th on the cryptocurrency leaderboard.</title>
       <link>https://www.lookonchain.com/feeds/27142</link>
       <description>On September 1st, based on CoinMarketCap data, the initial circulating supply of WLFI is 27,217,175,148.69 coins. Currently, on Binance, the pre-market trading price of WLFI is $0.3, and it has seen a 24-hour decrease of 6.27%. At the current price, the corresponding market capitalization of WLFI would reach $8.165 billion, ranking 28th on the cryptocurrency market cap list.CoinMarketCap CEO Rush previously indicated that the circulating supply data of WLFI has been repeatedly verified with the project team, and Binance and other exchanges also utilize this data.</description>
-      <pubDate>Mon, 01 Sep 2025 07:00:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 07:00:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27142</guid>
       <category>crypto</category>
@@ -105,7 +122,7 @@
       <title>CMC: The Initial Circulating Supply of WLFI is 272.1 Billion tokens as confirmed by the project team</title>
       <link>https://www.lookonchain.com/feeds/27141</link>
       <description>On September 1st, CoinMarketCap CEO Rush declared that the circulating supply data of WLFI has been repeatedly verified with the project team, and Binance and other exchanges also utilize this data. CoinMarketCap shows that the initial circulating supply of WLFI is 27.21 billion tokens, which is significantly higher than the estimated 5 billion tokens.</description>
-      <pubDate>Mon, 01 Sep 2025 06:48:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 06:51:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27141</guid>
       <category>crypto</category>
@@ -122,7 +139,7 @@
       <title>Binance: The FOREST TGE participation threshold is 240 Alpha Points</title>
       <link>https://www.lookonchain.com/feeds/27140</link>
       <description>On September 1st, as per an official announcement, Binance declared that Binance users possessing 240 points or more of Binance Alpha Point are eligible to participate in the FOREST (FOREST) TGE event via the Alpha event page. Participating in this event will result in a deduction of 15 points.</description>
-      <pubDate>Mon, 01 Sep 2025 06:40:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 06:51:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27140</guid>
       <category>crypto</category>
@@ -139,7 +156,7 @@
       <title>Bitcoin Bounces Back Above $108,000</title>
       <link>https://www.lookonchain.com/feeds/27139</link>
       <description>On September 1st, according to HTX market data, Bitcoin rebounded to a level above $108,000 and is currently priced at $108,010, with a 0.74% decrease in the past 24 hours.</description>
-      <pubDate>Mon, 01 Sep 2025 06:39:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 06:51:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27139</guid>
       <category>crypto</category>
@@ -159,7 +176,7 @@
       <title>Satsuma Technology increased its holdings to 22.65 BTC, with total holdings reaching 1148.65 BTC</title>
       <link>https://www.lookonchain.com/feeds/27138</link>
       <description>On September 1st, according to @btcNLNico, by August 8th, the London-based artificial intelligence company Satsuma Technology had increased its holdings by 22.65 bitcoins, and the total position reached 1148.65 bitcoins.</description>
-      <pubDate>Mon, 01 Sep 2025 06:39:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 06:51:25 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27138</guid>
       <category>crypto</category>
@@ -172,23 +189,6 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Binance Wallet (Web Version) Launches Referral Program</title>
-      <link>https://www.lookonchain.com/feeds/27137</link>
-      <description>September 1st. As per an official announcement, Binance has declared that the Binance Wallet (Web Version) Referral Program has officially been launched. Beginning at 2:00 PM on September 1, 2025 (UTC+8), users are able to invite friends to trade on the Binance platform and obtain a referral reward of up to 80%. Meanwhile, the invited friends can also avail themselves of a 10% rebate on trading fees.To participate in the referral program, users need to log in to the Binance Wallet (Web Version) using their Binance accounts. Eligible users can generate a unique referral code, invite friends, and receive rewards based on their friends&apos; trading activities.</description>
-      <pubDate>Mon, 01 Sep 2025 06:39:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27137</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
