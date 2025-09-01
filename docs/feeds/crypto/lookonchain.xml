@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 12:57:26 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 12:57:26 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 13:33:23 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 13:33:23 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Data: 30 minutes before WLFI TGE, 4 out of the Top 10 holders transferred a total of 1.86 billion WLFI to a CEX.</title>
-      <link>https://www.lookonchain.com/feeds/27197</link>
-      <description>September 1st. On-chain analyst Ai (@ai_9684xtpa) stated on social media that half an hour after the WLFI token generation event (TGE), four holders (TOP6/7/8/10) made a choice to sell some or all of their holdings partially. Meanwhile, the remaining six holders are still holding.It is reported that the holders who chose to sell all recharged their tokens into a trading platform instead of conducting on-chain transactions. These four holders have recharged a total of 1.86 billion WLFI, which accounts for 4% of the total holdings of the TOP 10 individual holders.</description>
-      <pubDate>Mon, 01 Sep 2025 12:48:34 +0000</pubDate>
+      <title>On Binance, WLFI contract 4-hour funding rate has dropped to -0.137%.</title>
+      <link>https://www.lookonchain.com/feeds/27206</link>
+      <description>On September 1st, based on market data, the funding rate of the WLFI contract on some CEXs is currently presenting an abnormal negative value, suggesting that a significant number of traders are taking short positions on WLFI. Binance is currently at -0.137% (for 4 hours), and Bybit is at -0.4338% (for 4 hours).</description>
+      <pubDate>Mon, 01 Sep 2025 13:32:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27197</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27206</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,14 +28,136 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>WLFI Foundation once again spent 1 million USD to buy 3,239,000 WLFI tokens.</title>
+      <link>https://www.lookonchain.com/feeds/27205</link>
+      <description>On September 1st, according to Arkham data, the official address of World Liberty Financial spent an additional $1 million USD just 20 minutes ago by purchasing 3.239 million WLFI. And in the past hour, it has cumulatively spent $2 million USD to purchase 6.498 million WLFI.</description>
+      <pubDate>Mon, 01 Sep 2025 13:16:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27205</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Launches Exclusive HOLO TGE and Booster Event</title>
+      <link>https://www.lookonchain.com/feeds/27204</link>
+      <description>On September 1st, according to official channels, Binance is set to launch the exclusive TGE event for Holoworld (HOLO) on September 2nd, 2025 at 16:00 UTC. Users will be able to participate in the token sale event to gain early access to the token. The sale will operate on a first-come, first-served basis, and each user can deposit up to 3 BNB.Binance will also initiate the Holoworld Booster event starting from September 2nd, 2025. Users who hold at least 61 Alpha points can participate and share a reward pool of 51,200,000 HOLO tokens.</description>
+      <pubDate>Mon, 01 Sep 2025 13:16:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27204</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>LookOnChain: Coinbase to List WLFI</title>
+      <link>https://www.lookonchain.com/feeds/27203</link>
+      <description>On September 1st, as per official channels, Coinbase is set to introduce support for World Liberty Financial (WLFI) on the Ethereum network (ERC-20 tokens). Trading is scheduled to commence later today, provided that liquidity requirements are fulfilled. Once an adequate supply of the asset becomes available, WLFI-USD trading pairs will be rolled out in a phased manner.</description>
+      <pubDate>Mon, 01 Sep 2025 13:16:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27203</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>DWF Labs will list WLFI on DWF Liquid Markets</title>
+      <link>https://www.lookonchain.com/feeds/27202</link>
+      <description>On September 1st, DWF Labs will make WLFI available for listing on DWF Liquid Markets, enabling all its institutional clients to utilize it.</description>
+      <pubDate>Mon, 01 Sep 2025 13:16:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27202</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Trump&apos;s Son Congratulates WLFI on Its Launch</title>
+      <link>https://www.lookonchain.com/feeds/27201</link>
+      <description>On September 1st, Eric Trump, the son of former President Donald Trump, posted on social media that the WLFI token has officially begun (using the phrase &quot;We are now in operation&quot;). The WLFI team has always had faith in the power and leadership of the United States. With the official token launch today, World Liberty Financial is establishing a new benchmark for financial freedom.</description>
+      <pubDate>Mon, 01 Sep 2025 13:08:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27201</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>WLFI opened on Binance at $0.478, and is now trading at $0.3.</title>
+      <link>https://www.lookonchain.com/feeds/27200</link>
+      <description>On September 1st, based on market data, WLFI opened at 0.478 US dollars on Binance and is currently trading at 0.3 US dollars.</description>
+      <pubDate>Mon, 01 Sep 2025 13:08:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27200</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum Network Gas Price Drops to 63.8 Gwei</title>
+      <link>https://www.lookonchain.com/feeds/27199</link>
+      <description>On September 1st, based on Etherscan data, the Gas Fee of the WLFI token on the Ethereum network has now decreased to 63.8 Gwei 50 minutes after its launch.</description>
+      <pubDate>Mon, 01 Sep 2025 12:56:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27199</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
       <title>Three presale participation addresses received 160 million WLFI each, all of which were subsequently deposited into Binance.</title>
       <link>https://www.lookonchain.com/feeds/27198</link>
       <description>On September 1st, as monitored by LookOnChain, three presale participant addresses collectively received 160 million WLFI tokens and deposited them all into Binance. The details are as follows:· The address 0xC3e7 received 60 million WLFI tokens (approximately $19.2 million).· The address 0x7ed4 received 53.33 million WLFI tokens (approximately $17.1 million).· The address 0x3881 received 46.67 million WLFI tokens (approximately $14.9 million).</description>
-      <pubDate>Mon, 01 Sep 2025 12:48:34 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 12:48:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27198</guid>
       <category>crypto</category>
@@ -50,12 +172,12 @@
 
     </item>
     <item>
-      <title>WLFI: Users Can Now Use Chainlink for WLFI Token Cross-Chain</title>
-      <link>https://www.lookonchain.com/feeds/27196</link>
-      <description>On September 1st, the official announcement of World Liberty Financial on social media indicated that users can now utilize the Chainlink CCIP Cross-Chain Bridge to swap WLFI tokens between Ethereum and Solana or between Ethereum and BSC.</description>
-      <pubDate>Mon, 01 Sep 2025 12:40:34 +0000</pubDate>
+      <title>Data: 30 minutes before WLFI TGE, 4 out of the Top 10 holders transferred a total of 1.86 billion WLFI to a CEX.</title>
+      <link>https://www.lookonchain.com/feeds/27197</link>
+      <description>September 1st. On-chain analyst Ai (@ai_9684xtpa) stated on social media that half an hour after the WLFI token generation event (TGE), four holders (TOP6/7/8/10) made a choice to sell some or all of their holdings partially. Meanwhile, the remaining six holders are still holding.It is reported that the holders who chose to sell all recharged their tokens into a trading platform instead of conducting on-chain transactions. These four holders have recharged a total of 1.86 billion WLFI, which accounts for 4% of the total holdings of the TOP 10 individual holders.</description>
+      <pubDate>Mon, 01 Sep 2025 12:48:30 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27196</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27197</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -64,130 +186,7 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance will list the WLFI standard contract, and existing positions will not be affected.</title>
-      <link>https://www.lookonchain.com/feeds/27195</link>
-      <description>September 1st. According to official information, Binance Futures will start to gradually transform the pre-trading of the WLFI perpetual contract into standard trading at 21:00 Beijing time on September 1st, 2025. The conversion period may last up to 3 hours, which is subject to price fluctuations and the availability of the stability index price. During the conversion period, the trading of the WLFIUSDT perpetual contract and the existing positions will not be impacted, and it supports a leverage of up to 50 times.</description>
-      <pubDate>Mon, 01 Sep 2025 12:40:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27195</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>WLFI Official Spends $1 Million USD to Buy 3.26 Million WLFI Tokens</title>
-      <link>https://www.lookonchain.com/feeds/27193</link>
-      <description>On September 1st, based on Arkham data, the official address of World Liberty Financial spent 1 million US dollars to purchase 3.26 million WLFI tokens through a Cow transaction.</description>
-      <pubDate>Mon, 01 Sep 2025 12:32:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27193</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>WLFI price is stable at $0.3, with a circulating market cap of $7.4 billion.</title>
-      <link>https://www.lookonchain.com/feeds/27194</link>
-      <description>On September 1st, according to market data, following the official launch of the WLFI token, the current price on CEXs like HTX and on the Solana and Ethereum networks is temporarily steady around $0.3. Based on the officially announced initial circulating supply of 24.66 billion tokens, the market capitalization is currently reported to be $7.4 billion.</description>
-      <pubDate>Mon, 01 Sep 2025 12:32:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27194</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A certain Smart Money trading strategy, WLFI, made a profit of $263,000 within 10 minutes.</title>
-      <link>https://www.lookonchain.com/feeds/27192</link>
-      <description>On September 1st, as per the monitoring of LookOnChain, a Smart Money address beginning with 6ccDoT achieved a profit of $263,866 by means of a Flash Loan within less than 10 minutes.</description>
-      <pubDate>Mon, 01 Sep 2025 12:24:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27192</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-      <category>profit</category>
-
-    </item>
-    <item>
-      <title>OKX will list LINEA (Linea) Perpetual Swap Trading in the Pre-market Trading section.</title>
-      <link>https://www.lookonchain.com/feeds/27191</link>
-      <description>On September 1st, OKX is going to list LINEA perpetual swap trading. The trading will commence on September 1, 2025, at 10:00 PM (UTC+8).</description>
-      <pubDate>Mon, 01 Sep 2025 12:24:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27191</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The WLFI Coin Price on Gate Witnesses Steep Decline, Currently on Par with the Solana Blockchain</title>
-      <link>https://www.lookonchain.com/feeds/27190</link>
-      <description>On September 1st, based on market data, the price of WLFI on Gate has witnessed a significant decrease. Currently, it is on a par with the Solana network and reached a peak of 1.1 US dollars at one time.</description>
-      <pubDate>Mon, 01 Sep 2025 12:16:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27190</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>WLFI opened at $0.46 on HTX, and is now trading at $0.31.</title>
-      <link>https://www.lookonchain.com/feeds/27189</link>
-      <description>On September 1st, based on HTX market data, WLFI opened at $0.46 on HTX and is currently trading at $0.31.</description>
-      <pubDate>Mon, 01 Sep 2025 12:16:34 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27189</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
+      <category>transfer</category>
 
     </item>
   </channel>
