@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 04:49:43 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 04:49:43 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 05:01:19 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 05:01:19 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Bridgewater Fund Founder: International Investors Have Started Moving From US Treasuries to Gold</title>
-      <link>https://www.lookonchain.com/feeds/27276</link>
-      <description>On September 2nd, Ray Dalio, the founder of Bridgewater Associates, mentioned that international investors have started to transfer from US Treasury bonds to gold. (FX678)</description>
-      <pubDate>Tue, 02 Sep 2025 04:48:50 +0000</pubDate>
+      <title>A whale has sold 425 BTC over the past 4 days and shifted its holdings to 10,567 ETH.</title>
+      <link>https://www.lookonchain.com/feeds/27278</link>
+      <description>On September 2nd, as monitored by LookOnChain, a whale address 0xFf15 sold 425 BTC ($46.5 million) and purchased 10,567 ETH ($46.5 million) within the past 4 days.</description>
+      <pubDate>Tue, 02 Sep 2025 04:56:27 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27276</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27278</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,13 +28,36 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+
+    </item>
+    <item>
+      <title>Sky Founder: Sky Core Simplifies Significantly Reducing Expenses, Current Protocol&apos;s Annualized Revenue Reaches $3.38 Billion</title>
+      <link>https://www.lookonchain.com/feeds/27279</link>
+      <description>On September 2nd, Rune Christensen, the founder of Sky (formerly MakerDAO), stated on social media, &quot;After significantly reducing core expenses through the simplification of Sky Core, the profit page has been updated. Based on a three-month fee annualized calculation, it now shows real-time stable fee income and savings rate expenditures. The current annualized profit has reached $338 million.&quot;</description>
+      <pubDate>Tue, 02 Sep 2025 04:56:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27279</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
 
     </item>
     <item>
       <title>In the past 5 days, Galaxy Digital has transferred 500,000 SOL to Coinbase, equivalent to approximately $103 million.</title>
       <link>https://www.lookonchain.com/feeds/27277</link>
       <description>On September 2nd, as per the monitoring of LookOnChain, Galaxy Digital has deposited 500,000 SOL tokens (approximately $103 million) into Coinbase within the past 5 days.</description>
-      <pubDate>Tue, 02 Sep 2025 04:48:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:48:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27277</guid>
       <category>crypto</category>
@@ -50,10 +73,27 @@
 
     </item>
     <item>
+      <title>Bridgewater Fund Founder: International Investors Have Started Moving From US Treasuries to Gold</title>
+      <link>https://www.lookonchain.com/feeds/27276</link>
+      <description>On September 2nd, Ray Dalio, the founder of Bridgewater Associates, mentioned that international investors have started to transfer from US Treasury bonds to gold. (FX678)</description>
+      <pubDate>Tue, 02 Sep 2025 04:48:27 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27276</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>0xSun Success Story: Earned Over $1 Million in Profit by Shorting WLFI</title>
       <link>https://www.lookonchain.com/feeds/27275</link>
       <description>On September 2nd, Smart Money and crypto KOL 0xsun.sol (@0xSunNFT) disclosed on social media that they had achieved a profit of over $1 million by shorting WLFI.0xSun&apos;s screenshot indicates that they closed 1279 WLFI tokens. The opening price was $0.32 and the closing price was $0.238, resulting in a profit of $1.048 million.</description>
-      <pubDate>Tue, 02 Sep 2025 04:40:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:40:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27275</guid>
       <category>crypto</category>
@@ -72,7 +112,7 @@
       <title>The probability on Polymarket of &quot;Trump Ceasing to be President this Year&quot; is currently at 10%.</title>
       <link>https://www.lookonchain.com/feeds/27274</link>
       <description>On September 2nd, based on the information on the relevant page, the probability on Polymarket that &quot;Trump will step down as president this year&quot; is currently 10%.</description>
-      <pubDate>Tue, 02 Sep 2025 04:32:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:32:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27274</guid>
       <category>crypto</category>
@@ -89,7 +129,7 @@
       <title>Trump is scheduled to deliver a speech at the White House this Wednesday at 2 a.m.</title>
       <link>https://www.lookonchain.com/feeds/27273</link>
       <description>On September 2nd, Trump is scheduled to deliver a speech at the White House on Tuesday afternoon at 2:00 PM Eastern Time (2:00 AM Wednesday Beijing Time). (Jin10)Previously, on August 30th, Pence said that if Trump faced a &quot;serious tragedy&quot;, he was prepared to assume the presidency. But he stated that the 79-year-old Trump is in good health, and despite recent concerns about his health, he still has &quot;amazing energy&quot;. Axios Global Affairs Reporter Barak Ravid posted that a U.S. official said that Trump is in good health and will be going to play golf locally this morning. At present, widespread speculation about Trump&apos;s health continues to spread on social media.</description>
-      <pubDate>Tue, 02 Sep 2025 04:24:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:24:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27273</guid>
       <category>crypto</category>
@@ -106,7 +146,7 @@
       <title>If Bitcoin breaks $112,000, the mainstream CEX total short liquidation volume will reach $973 million.</title>
       <link>https://www.lookonchain.com/feeds/27272</link>
       <description>On September 2nd, based on Coinglass data, if Bitcoin manages to break through $112,000, the cumulative short liquidation intensity of mainstream CEX will reach $973 million.Conversely, if Bitcoin drops below $108,000, the cumulative long liquidation intensity of mainstream CEX will reach $773 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, intensity.Therefore, the liquidation chart shows to what extent the asset price will be impacted when it reaches a certain level. Higher &quot;liquidation bars&quot; indicate that the price will undergo a more intense reaction due to a surge in liquidity.</description>
-      <pubDate>Tue, 02 Sep 2025 04:08:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:08:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27272</guid>
       <category>crypto</category>
@@ -126,7 +166,7 @@
       <title>Ethereum&apos;s active address count in August reached 19.45 million, hitting a new high since May 2021</title>
       <link>https://www.lookonchain.com/feeds/27271</link>
       <description>On September 2nd, as per everstake.eth, the quantity of active addresses on Ethereum came to 19.45 million in August, attaining a new peak since May 2021 (20.27 million).</description>
-      <pubDate>Tue, 02 Sep 2025 04:08:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:08:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27271</guid>
       <category>crypto</category>
@@ -146,7 +186,7 @@
       <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Letsbonk, Believe ranked in the top three</title>
       <link>https://www.lookonchain.com/feeds/27270</link>
       <description>On September 2nd, according to the Jupiter Data Dashboard, in the past 24 hours within the Solana launchpad market share ranking, pump.fun held the top position with 70.2%, Letsbonk came in second with 21%, and Believe ranked third with 1.82%.</description>
-      <pubDate>Tue, 02 Sep 2025 03:56:50 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:00:27 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27270</guid>
       <category>crypto</category>
@@ -157,47 +197,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale closed a long position on 41,931 ETH 5 hours ago, with a loss of over $30 million in the past week.</title>
-      <link>https://www.lookonchain.com/feeds/27269</link>
-      <description>On September 2nd, according to the monitoring of LookOnChain, a whale has suffered a loss of more than 30 million USD in the past week. The whale with the address 0xa523 has always been longing for ETH at high levels and closing positions at low levels.5 hours ago, they closed a long position of 41,931 ETH (179.4 million USD), suffering another loss of 10 million USD.They still hold a long position of 36,578 ETH (160 million USD), with a total loss of more than 30 million USD.</description>
-      <pubDate>Tue, 02 Sep 2025 03:48:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27269</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A certain ETH Whale is suspected to have accumulated 3000 ETH in the past 10 minutes.</title>
-      <link>https://www.lookonchain.com/feeds/27268</link>
-      <description>On September 2nd, as monitored by on-chain analyst Ai Auntie (@ai_9684xtpa), a suspected ETH whale engaged in a short-term trade and accumulated 3000 ETH within the past 10 minutes. The value of these ETH is $13.03 million, with an average entry price of $4344.From June 10, 2025, to August 29, this whale made a profit of over $9.56 million by buying low and selling high ETH. The withdrawal price was $2563, the recharge price was $3905, and the return rate was 52.3%.</description>
-      <pubDate>Tue, 02 Sep 2025 03:48:50 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27268</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
 
     </item>
   </channel>
