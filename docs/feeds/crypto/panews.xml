@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 00:01:45 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 00:01:45 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 02:04:12 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 02:04:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,262 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>某独立矿工成功挖出比特币区块912632，赚取了约34万美元</title>
+      <link>https://www.panewslab.com/zh/articles/be96e76b-d00e-401c-b62d-d964b48d11ec</link>
+      <description>某独立矿工成功挖出比特币区块912632，赚取了约34万美元</description>
+      <pubDate>Tue, 02 Sep 2025 02:04:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/be96e76b-d00e-401c-b62d-d964b48d11ec</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>行情：MKR日内涨幅2.62%，DYDX日内跌幅3.90%</title>
+      <link>https://www.panewslab.com/zh/articles/i9ia87rg</link>
+      <description>行情：MKR日内涨幅2.62%，DYDX日内跌幅3.90%</description>
+      <pubDate>Tue, 02 Sep 2025 02:02:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/i9ia87rg</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>湖南岳阳警方捣毁以买卖虚拟币为幌子的黑灰产业链，涉案金额近1.7亿元</title>
+      <link>https://www.panewslab.com/zh/articles/6be8cf13-bfd2-4fbc-be7a-e599a6664973</link>
+      <description>湖南岳阳警方捣毁以买卖虚拟币为幌子的黑灰产业链，涉案金额近1.7亿元</description>
+      <pubDate>Tue, 02 Sep 2025 02:00:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6be8cf13-bfd2-4fbc-be7a-e599a6664973</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某巨鲸向币安存入超1.3亿枚WLFI，价值3221万美元</title>
+      <link>https://www.panewslab.com/zh/articles/239849ea-9a55-4305-a486-7e61b622ae08</link>
+      <description>某巨鲸向币安存入超1.3亿枚WLFI，价值3221万美元</description>
+      <pubDate>Tue, 02 Sep 2025 01:58:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/239849ea-9a55-4305-a486-7e61b622ae08</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某巨鲸昨晚领取解锁的2亿枚WLFI后，5小时前卖出1000万枚WLFI</title>
+      <link>https://www.panewslab.com/zh/articles/4de791df-9168-42b0-a5cb-6f195768d65c</link>
+      <description>某巨鲸昨晚领取解锁的2亿枚WLFI后，5小时前卖出1000万枚WLFI</description>
+      <pubDate>Tue, 02 Sep 2025 01:56:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4de791df-9168-42b0-a5cb-6f195768d65c</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某巨鲸向HyperLiquid存入315.8枚USDC，并以1倍杠杆做空HYPE</title>
+      <link>https://www.panewslab.com/zh/articles/d937966f-cf48-439b-8373-440c1f2a8919</link>
+      <description>某巨鲸向HyperLiquid存入315.8枚USDC，并以1倍杠杆做空HYPE</description>
+      <pubDate>Tue, 02 Sep 2025 01:54:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d937966f-cf48-439b-8373-440c1f2a8919</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某“边玩边赚”的虚拟币投资项目实为传销，项目团队四人获刑</title>
+      <link>https://www.panewslab.com/zh/articles/9ef5df45-8dbe-41a6-90a6-cd5e616f2c33</link>
+      <description>某“边玩边赚”的虚拟币投资项目实为传销，项目团队四人获刑</description>
+      <pubDate>Tue, 02 Sep 2025 01:52:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9ef5df45-8dbe-41a6-90a6-cd5e616f2c33</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Metaplanet股东批准最高筹集38亿美元以购买更多比特币的计划</title>
+      <link>https://www.panewslab.com/zh/articles/a4eff500-d282-4616-bdf9-29078a5987bd</link>
+      <description>Metaplanet股东批准最高筹集38亿美元以购买更多比特币的计划</description>
+      <pubDate>Tue, 02 Sep 2025 01:50:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a4eff500-d282-4616-bdf9-29078a5987bd</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>韩国将与多国税务部门共享境内外加密资产交易信息</title>
+      <link>https://www.panewslab.com/zh/articles/c1c6a7df-400c-4d09-8c6b-a82732dc5ddb</link>
+      <description>韩国将与多国税务部门共享境内外加密资产交易信息</description>
+      <pubDate>Tue, 02 Sep 2025 01:48:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c1c6a7df-400c-4d09-8c6b-a82732dc5ddb</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>欧盟监管机构警告：代币化股票可能会误导散户投资者</title>
+      <link>https://www.panewslab.com/zh/articles/d0c6c673-eab4-4b9c-92a0-6e1eb9451d4e</link>
+      <description>欧盟监管机构警告：代币化股票可能会误导散户投资者</description>
+      <pubDate>Tue, 02 Sep 2025 01:46:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d0c6c673-eab4-4b9c-92a0-6e1eb9451d4e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Sky：8月已动用550万枚USDS回购7300万枚SKY</title>
+      <link>https://www.panewslab.com/zh/articles/dd9b9cd1-9dc3-4dba-afab-4dde3eb0c2c2</link>
+      <description>Sky：8月已动用550万枚USDS回购7300万枚SKY</description>
+      <pubDate>Tue, 02 Sep 2025 01:44:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/dd9b9cd1-9dc3-4dba-afab-4dde3eb0c2c2</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>“卖出HYPE后开多ETH鲸鱼”凌晨将其ETH做多仓位止损了4.19万枚</title>
+      <link>https://www.panewslab.com/zh/articles/a195448c-44cf-47f7-97ab-edc3003bcb92</link>
+      <description>“卖出HYPE后开多ETH鲸鱼”凌晨将其ETH做多仓位止损了4.19万枚</description>
+      <pubDate>Tue, 02 Sep 2025 01:42:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a195448c-44cf-47f7-97ab-edc3003bcb92</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>James Wynn以25倍杠杆开设ETH多头仓位</title>
+      <link>https://www.panewslab.com/zh/articles/c9a009dc-ebc3-4dfe-a110-819e26b74fb2</link>
+      <description>James Wynn以25倍杠杆开设ETH多头仓位</description>
+      <pubDate>Tue, 02 Sep 2025 01:40:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c9a009dc-ebc3-4dfe-a110-819e26b74fb2</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>贝莱德旗下iShares Core MSCI EAFE ETF增持675万美元Metaplanet股票</title>
+      <link>https://www.panewslab.com/zh/articles/c3777663-f20e-4e64-944a-3d63739a4500</link>
+      <description>贝莱德旗下iShares Core MSCI EAFE ETF增持675万美元Metaplanet股票</description>
+      <pubDate>Tue, 02 Sep 2025 01:38:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c3777663-f20e-4e64-944a-3d63739a4500</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Metaplanet总裁：公司计划于2027年前累计购入21万枚比特币</title>
+      <link>https://www.panewslab.com/zh/articles/320693de-e0c4-4818-a115-5b5a7e0a695e</link>
+      <description>Metaplanet总裁：公司计划于2027年前累计购入21万枚比特币</description>
+      <pubDate>Tue, 02 Sep 2025 01:36:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/320693de-e0c4-4818-a115-5b5a7e0a695e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>两个地址共收到18.50万枚ETH，总价值7.98亿美元</title>
+      <link>https://www.panewslab.com/zh/articles/51b6d8aa-c2a5-4fef-93ab-e1bbc1bf1e6a</link>
+      <description>两个地址共收到18.50万枚ETH，总价值7.98亿美元</description>
+      <pubDate>Tue, 02 Sep 2025 01:34:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/51b6d8aa-c2a5-4fef-93ab-e1bbc1bf1e6a</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>Andrew Tate的WLFI多头仓位遭清算亏损6.76万美元，随后再次做多WLFI</title>
       <link>https://www.panewslab.com/zh/articles/9fc2ffde-4b33-4561-8c1e-ecfa8d34ed85</link>
       <description>Andrew Tate的WLFI多头仓位遭清算亏损6.76万美元，随后再次做多WLFI</description>
-      <pubDate>Tue, 02 Sep 2025 00:01:45 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 01:32:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9fc2ffde-4b33-4561-8c1e-ecfa8d34ed85</guid>
       <category>crypto</category>
@@ -32,7 +284,7 @@
       <title>德意志银行Q2增持价值4700万美元的Strategy股票</title>
       <link>https://www.panewslab.com/zh/articles/b439d84e-af4c-4593-b99d-c5bcc233758a</link>
       <description>德意志银行Q2增持价值4700万美元的Strategy股票</description>
-      <pubDate>Mon, 01 Sep 2025 23:59:45 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 01:30:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b439d84e-af4c-4593-b99d-c5bcc233758a</guid>
       <category>crypto</category>
@@ -47,7 +299,7 @@
       <title>阿联酋公司RAK Properties将接受比特币等加密货币进行房地产交易</title>
       <link>https://www.panewslab.com/zh/articles/21c14534-1ef2-4b0c-a00a-272606169ac3</link>
       <description>阿联酋公司RAK Properties将接受比特币等加密货币进行房地产交易</description>
-      <pubDate>Mon, 01 Sep 2025 23:57:45 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 01:28:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/21c14534-1ef2-4b0c-a00a-272606169ac3</guid>
       <category>crypto</category>
@@ -64,261 +316,9 @@
       <title>特朗普家族所持有的WLFI代币目前价值约50亿美元</title>
       <link>https://www.panewslab.com/zh/articles/4d823a9e-c623-445a-be85-65f71617efc5</link>
       <description>特朗普家族所持有的WLFI代币目前价值约50亿美元</description>
-      <pubDate>Mon, 01 Sep 2025 23:55:45 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 01:26:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4d823a9e-c623-445a-be85-65f71617efc5</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>随着贵金属价格逼近历史高位，代币化黄金市场规模突破25亿美元</title>
-      <link>https://www.panewslab.com/zh/articles/9f5ef2d6-048a-4dfd-b8cf-736f86fa9a8e</link>
-      <description>随着贵金属价格逼近历史高位，代币化黄金市场规模突破25亿美元</description>
-      <pubDate>Mon, 01 Sep 2025 23:53:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9f5ef2d6-048a-4dfd-b8cf-736f86fa9a8e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Revolut已启动部分员工以750亿美元估值出售其所持公司股份的流程</title>
-      <link>https://www.panewslab.com/zh/articles/ffffefab-2d8b-4543-8946-e9998abc347c</link>
-      <description>Revolut已启动部分员工以750亿美元估值出售其所持公司股份的流程</description>
-      <pubDate>Mon, 01 Sep 2025 23:51:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ffffefab-2d8b-4543-8946-e9998abc347c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>WLFI团队提议将所有WLFI金库流动性费用用于回购和销毁</title>
-      <link>https://www.panewslab.com/zh/articles/68aac477-87cc-422a-abff-9e7e10b0e0b3</link>
-      <description>WLFI团队提议将所有WLFI金库流动性费用用于回购和销毁</description>
-      <pubDate>Mon, 01 Sep 2025 23:49:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/68aac477-87cc-422a-abff-9e7e10b0e0b3</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>BTC跌破108000美元，日内下跌 0.76%</title>
-      <link>https://www.panewslab.com/zh/articles/06jsqhug</link>
-      <description>BTC跌破108000美元，日内下跌 0.76%</description>
-      <pubDate>Mon, 01 Sep 2025 23:47:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/06jsqhug</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>ETH跌破4300美元，日内下跌 1.50%</title>
-      <link>https://www.panewslab.com/zh/articles/xwv0h35g</link>
-      <description>ETH跌破4300美元，日内下跌 1.50%</description>
-      <pubDate>Mon, 01 Sep 2025 23:45:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/xwv0h35g</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>BTC跌破109000美元，日内涨幅 0.19%</title>
-      <link>https://www.panewslab.com/zh/articles/pzyzk0nq</link>
-      <description>BTC跌破109000美元，日内涨幅 0.19%</description>
-      <pubDate>Mon, 01 Sep 2025 23:43:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/pzyzk0nq</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>以太坊Holešky测试网将于近期关闭</title>
-      <link>https://www.panewslab.com/zh/articles/b92adfe5-93c9-4cce-ab68-66978adf9a9b</link>
-      <description>以太坊Holešky测试网将于近期关闭</description>
-      <pubDate>Mon, 01 Sep 2025 23:41:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b92adfe5-93c9-4cce-ab68-66978adf9a9b</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>孙宇晨申领其持有WLFI的20%解锁份额，价值约1.78亿美元</title>
-      <link>https://www.panewslab.com/zh/articles/2f99b1f9-aa10-44ab-8544-38ad551b2d76</link>
-      <description>孙宇晨申领其持有WLFI的20%解锁份额，价值约1.78亿美元</description>
-      <pubDate>Mon, 01 Sep 2025 23:39:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2f99b1f9-aa10-44ab-8544-38ad551b2d76</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>过去24小时全网合约爆仓3.02亿美元，主爆空单</title>
-      <link>https://www.panewslab.com/zh/articles/01ce22e5</link>
-      <description>过去24小时全网合约爆仓3.02亿美元，主爆空单</description>
-      <pubDate>Mon, 01 Sep 2025 23:37:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/01ce22e5</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Chainlink与Solv合作推出Secure Exchange Rate，提升包装资产透明性</title>
-      <link>https://www.panewslab.com/zh/articles/6ef2629f-9810-4068-bd5b-bf3a9eea4de5</link>
-      <description>Chainlink与Solv合作推出Secure Exchange Rate，提升包装资产透明性</description>
-      <pubDate>Mon, 01 Sep 2025 23:35:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6ef2629f-9810-4068-bd5b-bf3a9eea4de5</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Metaplanet股东大会通过三项决议</title>
-      <link>https://www.panewslab.com/zh/articles/55d7b0a4-9a05-42bc-a4bd-826a96248ddc</link>
-      <description>Metaplanet股东大会通过三项决议</description>
-      <pubDate>Mon, 01 Sep 2025 23:33:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/55d7b0a4-9a05-42bc-a4bd-826a96248ddc</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>比特币ETF今日净流出631枚BTC，以太坊ETF净流出4319枚ETH</title>
-      <link>https://www.panewslab.com/zh/articles/2f78c089-7e6d-4856-a806-d2f277112601</link>
-      <description>比特币ETF今日净流出631枚BTC，以太坊ETF净流出4319枚ETH</description>
-      <pubDate>Mon, 01 Sep 2025 23:31:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2f78c089-7e6d-4856-a806-d2f277112601</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>WLFI已上线Coinbase平台</title>
-      <link>https://www.panewslab.com/zh/articles/e4747650-21c6-45e4-a61f-4047be79a8e7</link>
-      <description>WLFI已上线Coinbase平台</description>
-      <pubDate>Mon, 01 Sep 2025 23:29:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e4747650-21c6-45e4-a61f-4047be79a8e7</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>工信部：积极参与数字经济、人工智能等领域全球治理</title>
-      <link>https://www.panewslab.com/zh/articles/3f938127-7912-4463-858b-4388d067ba6e</link>
-      <description>工信部：积极参与数字经济、人工智能等领域全球治理</description>
-      <pubDate>Mon, 01 Sep 2025 23:27:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3f938127-7912-4463-858b-4388d067ba6e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>WLFI最大投资者已领取其解锁的20%代币，共2亿枚WLFI</title>
-      <link>https://www.panewslab.com/zh/articles/e5d71e23-b611-41ef-929a-c3b69ddb074b</link>
-      <description>WLFI最大投资者已领取其解锁的20%代币，共2亿枚WLFI</description>
-      <pubDate>Mon, 01 Sep 2025 23:25:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e5d71e23-b611-41ef-929a-c3b69ddb074b</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>XRPL Hackathon Seoul 2025将于9月20日在首尔举办</title>
-      <link>https://www.panewslab.com/zh/articles/821d0bfc-9032-412a-9763-6f24de1658c3</link>
-      <description>XRPL Hackathon Seoul 2025将于9月20日在首尔举办</description>
-      <pubDate>Mon, 01 Sep 2025 23:23:45 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/821d0bfc-9032-412a-9763-6f24de1658c3</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
