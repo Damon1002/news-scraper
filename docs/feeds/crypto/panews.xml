@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 10:51:10 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 10:51:10 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:10:00 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 11:10:00 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,40 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>分析：Venus协议大户因钱包扩展被替换遭定点攻击</title>
+      <link>https://www.panewslab.com/zh/articles/76f298ed-d3b5-4782-9741-2d04f6c070b1</link>
+      <description>分析：Venus协议大户因钱包扩展被替换遭定点攻击</description>
+      <pubDate>Tue, 02 Sep 2025 11:10:00 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/76f298ed-d3b5-4782-9741-2d04f6c070b1</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Binance：Somnia（SOMI）空投的Alpha积分门槛分别为235分和220分</title>
+      <link>https://www.panewslab.com/zh/articles/61db3684-8ad7-42de-afa6-871940d9fe53</link>
+      <description>Binance：Somnia（SOMI）空投的Alpha积分门槛分别为235分和220分</description>
+      <pubDate>Tue, 02 Sep 2025 11:08:00 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/61db3684-8ad7-42de-afa6-871940d9fe53</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>Sequans增持34枚比特币持仓增至3205枚，总投资约3.74亿美元</title>
       <link>https://www.panewslab.com/zh/articles/f4cbdc04-8a14-40a3-aef6-b485ad87c95d</link>
       <description>Sequans增持34枚比特币持仓增至3205枚，总投资约3.74亿美元</description>
-      <pubDate>Tue, 02 Sep 2025 10:51:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 11:06:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f4cbdc04-8a14-40a3-aef6-b485ad87c95d</guid>
       <category>crypto</category>
@@ -34,7 +64,7 @@
       <title>Venus Protocol澄清未遭受攻击，智能合约安全</title>
       <link>https://www.panewslab.com/zh/articles/44462776-deb2-4cfa-85c6-1d7ddb36eda5</link>
       <description>Venus Protocol澄清未遭受攻击，智能合约安全</description>
-      <pubDate>Tue, 02 Sep 2025 10:49:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 11:04:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/44462776-deb2-4cfa-85c6-1d7ddb36eda5</guid>
       <category>crypto</category>
@@ -49,7 +79,7 @@
       <title>Ether Machine获6.54亿美元以太坊私募融资，由Jeffrey Berns投资</title>
       <link>https://www.panewslab.com/zh/articles/33bb5561-7c0c-4bac-ac49-2984fcd175dc</link>
       <description>Ether Machine获6.54亿美元以太坊私募融资，由Jeffrey Berns投资</description>
-      <pubDate>Tue, 02 Sep 2025 10:47:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 11:02:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/33bb5561-7c0c-4bac-ac49-2984fcd175dc</guid>
       <category>crypto</category>
@@ -66,7 +96,7 @@
       <title>美监管机构缩减银行审查范围，部分审查被推迟或取消</title>
       <link>https://www.panewslab.com/zh/articles/3807d8e8-53e2-4ddb-a30f-5b4f6c7723e5</link>
       <description>美监管机构缩减银行审查范围，部分审查被推迟或取消</description>
-      <pubDate>Tue, 02 Sep 2025 10:45:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 11:00:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3807d8e8-53e2-4ddb-a30f-5b4f6c7723e5</guid>
       <category>crypto</category>
@@ -81,7 +111,7 @@
       <title>BGB 升级为 Morph 公链代币，一次性销毁 2.2 亿枚</title>
       <link>https://www.panewslab.com/zh/articles/d6e9b83f-dd7c-4ab0-9b4f-8801de247b35</link>
       <description>BGB 升级为 Morph 公链代币，一次性销毁 2.2 亿枚</description>
-      <pubDate>Tue, 02 Sep 2025 10:43:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:58:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d6e9b83f-dd7c-4ab0-9b4f-8801de247b35</guid>
       <category>crypto</category>
@@ -96,7 +126,7 @@
       <title>币安Alpha将于9月4日上线Tradoor (TRADOOR)</title>
       <link>https://www.panewslab.com/zh/articles/b18db834-815b-4488-aad1-3985f296a453</link>
       <description>币安Alpha将于9月4日上线Tradoor (TRADOOR)</description>
-      <pubDate>Tue, 02 Sep 2025 10:41:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:56:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b18db834-815b-4488-aad1-3985f296a453</guid>
       <category>crypto</category>
@@ -111,7 +141,7 @@
       <title>Venus Protocol因可疑交易暂停服务并启动调查</title>
       <link>https://www.panewslab.com/zh/articles/be764649-cd96-4e50-85e2-13c33708c38e</link>
       <description>Venus Protocol因可疑交易暂停服务并启动调查</description>
-      <pubDate>Tue, 02 Sep 2025 10:39:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:54:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/be764649-cd96-4e50-85e2-13c33708c38e</guid>
       <category>crypto</category>
@@ -126,7 +156,7 @@
       <title>Venus巨鲸被盗的约2700万美元包括约1980万vUSDT和710万vUSDC等</title>
       <link>https://www.panewslab.com/zh/articles/e099634b-d2e2-4ffb-b4c1-5f3e4d82b5b9</link>
       <description>Venus巨鲸被盗的约2700万美元包括约1980万vUSDT和710万vUSDC等</description>
-      <pubDate>Tue, 02 Sep 2025 10:37:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:52:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e099634b-d2e2-4ffb-b4c1-5f3e4d82b5b9</guid>
       <category>crypto</category>
@@ -141,7 +171,7 @@
       <title>Hash Global首支合规化BNB分红基金获YZi Labs战略支持，初期目标规模1亿美元</title>
       <link>https://www.panewslab.com/zh/articles/1d64563c-e5e4-47bf-8b8e-fd93e1635cfe</link>
       <description>Hash Global首支合规化BNB分红基金获YZi Labs战略支持，初期目标规模1亿美元</description>
-      <pubDate>Tue, 02 Sep 2025 10:35:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:50:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1d64563c-e5e4-47bf-8b8e-fd93e1635cfe</guid>
       <category>crypto</category>
@@ -156,7 +186,7 @@
       <title>一巨鲸地址三周内通过循环贷囤积2.3亿美元WBTC和ETH</title>
       <link>https://www.panewslab.com/zh/articles/4dbbc206-9fd5-4b43-9802-50dad0373666</link>
       <description>一巨鲸地址三周内通过循环贷囤积2.3亿美元WBTC和ETH</description>
-      <pubDate>Tue, 02 Sep 2025 10:33:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:48:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4dbbc206-9fd5-4b43-9802-50dad0373666</guid>
       <category>crypto</category>
@@ -175,7 +205,7 @@
       <title>安全机构：Venus Protocol用户因钓鱼攻击损失2700万美元</title>
       <link>https://www.panewslab.com/zh/articles/861b8703-8f18-475e-b329-f11cd53ea887</link>
       <description>安全机构：Venus Protocol用户因钓鱼攻击损失2700万美元</description>
-      <pubDate>Tue, 02 Sep 2025 10:31:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:46:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/861b8703-8f18-475e-b329-f11cd53ea887</guid>
       <category>crypto</category>
@@ -190,7 +220,7 @@
       <title>Starknet主网恢复正常运行，部分交易需重新提交</title>
       <link>https://www.panewslab.com/zh/articles/ff649f96-37f2-4057-82c3-8efb3c33cd1d</link>
       <description>Starknet主网恢复正常运行，部分交易需重新提交</description>
-      <pubDate>Tue, 02 Sep 2025 10:29:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:44:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ff649f96-37f2-4057-82c3-8efb3c33cd1d</guid>
       <category>crypto</category>
@@ -205,7 +235,7 @@
       <title>Venus Protocol疑遭攻击损失约3000万美元</title>
       <link>https://www.panewslab.com/zh/articles/ca80c011-534f-4fd7-920e-a10783b79fa1</link>
       <description>Venus Protocol疑遭攻击损失约3000万美元</description>
-      <pubDate>Tue, 02 Sep 2025 10:27:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:42:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ca80c011-534f-4fd7-920e-a10783b79fa1</guid>
       <category>crypto</category>
@@ -220,7 +250,7 @@
       <title>币安将于下周停止基于BNB持仓量的佣金费率调整机制</title>
       <link>https://www.panewslab.com/zh/articles/57d36731-ada2-40f6-a108-43738e5c1873</link>
       <description>币安将于下周停止基于BNB持仓量的佣金费率调整机制</description>
-      <pubDate>Tue, 02 Sep 2025 10:25:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:40:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/57d36731-ada2-40f6-a108-43738e5c1873</guid>
       <category>crypto</category>
@@ -235,7 +265,7 @@
       <title>市场消息：数字货币集团（DCG）考虑在香港进行约5亿美元IPO</title>
       <link>https://www.panewslab.com/zh/articles/19a17936-8857-4c31-bc12-de12c4815243</link>
       <description>市场消息：数字货币集团（DCG）考虑在香港进行约5亿美元IPO</description>
-      <pubDate>Tue, 02 Sep 2025 10:23:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:38:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/19a17936-8857-4c31-bc12-de12c4815243</guid>
       <category>crypto</category>
@@ -250,7 +280,7 @@
       <title>3月以来4次做空BTC的巨鲸转向做空ETH，开启500枚ETH高杠杆空单</title>
       <link>https://www.panewslab.com/zh/articles/536706ad-44d7-42a1-b82d-07dfa515dec3</link>
       <description>3月以来4次做空BTC的巨鲸转向做空ETH，开启500枚ETH高杠杆空单</description>
-      <pubDate>Tue, 02 Sep 2025 10:21:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:36:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/536706ad-44d7-42a1-b82d-07dfa515dec3</guid>
       <category>crypto</category>
@@ -269,7 +299,7 @@
       <title>币安钱包将于9月3日开启Hyperbot (BOT)代币生成活动</title>
       <link>https://www.panewslab.com/zh/articles/256436f2-572a-474a-b810-6fadaab66e7c</link>
       <description>币安钱包将于9月3日开启Hyperbot (BOT)代币生成活动</description>
-      <pubDate>Tue, 02 Sep 2025 10:19:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:34:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/256436f2-572a-474a-b810-6fadaab66e7c</guid>
       <category>crypto</category>
@@ -284,7 +314,7 @@
       <title>数据：香港虚拟资产ETF今日成交额约5386.6万港元</title>
       <link>https://www.panewslab.com/zh/articles/110b4b6b-56ba-4420-b6ff-1ae2a1e93dd0</link>
       <description>数据：香港虚拟资产ETF今日成交额约5386.6万港元</description>
-      <pubDate>Tue, 02 Sep 2025 10:17:10 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:32:00 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/110b4b6b-56ba-4420-b6ff-1ae2a1e93dd0</guid>
       <category>crypto</category>
@@ -293,42 +323,6 @@
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>鲸鱼0x4ED0再购5553枚ETH，总持仓超1.8万枚</title>
-      <link>https://www.panewslab.com/zh/articles/179fd098-baab-47d8-8845-301c7449530b</link>
-      <description>鲸鱼0x4ED0再购5553枚ETH，总持仓超1.8万枚</description>
-      <pubDate>Tue, 02 Sep 2025 10:15:10 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/179fd098-baab-47d8-8845-301c7449530b</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼3小时前抛售602.8枚WBTC换仓至ETH，目前持有16,909枚ETH</title>
-      <link>https://www.panewslab.com/zh/articles/52d1c943-3012-4eb6-9a30-7d558d7ff15e</link>
-      <description>某鲸鱼3小时前抛售602.8枚WBTC换仓至ETH，目前持有16,909枚ETH</description>
-      <pubDate>Tue, 02 Sep 2025 10:13:10 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/52d1c943-3012-4eb6-9a30-7d558d7ff15e</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
