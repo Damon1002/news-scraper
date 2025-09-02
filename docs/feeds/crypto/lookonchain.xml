@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 10:11:52 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 10:11:52 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 10:37:16 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 10:37:16 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,104 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>The Venus Protocol is currently paused</title>
-      <link>https://www.lookonchain.com/feeds/27333</link>
-      <description>On September 2nd, based on the feedback from community users, the Venus Protocol has been suspended.Earlier, according to a report by PeckShield, Venus Protocol users fell victim to a phishing attack and lost approximately $27 million in cryptocurrency.</description>
-      <pubDate>Tue, 02 Sep 2025 10:08:59 +0000</pubDate>
+      <title>Ether Machine has received an investment of 150,000 Ether from Jeffrey Berns, who will join the company&apos;s board of directors.</title>
+      <link>https://www.lookonchain.com/feeds/27339</link>
+      <description>On September 2nd, as reported by Reuters, Ether Machine has secured $654 million worth of Ethereum through a private fundraising round. This comes as the cryptocurrency company is expanding its financial strategy in anticipation of a later listing on Nasdaq this year.The company announced that 150,000 ETH, which was invested by Ethereum&apos;s long-time supporter Jeffrey Berns, will be deposited into its wallet later this week. Additionally, Jeffrey Berns will also be appointed to the company&apos;s board of directors.</description>
+      <pubDate>Tue, 02 Sep 2025 10:32:24 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27333</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27339</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>A Whale Just Bought ~$1.83M Worth of MOG</title>
+      <link>https://www.lookonchain.com/feeds/27337</link>
+      <description>On September 2nd, as monitored by Onchain Lens, a whale has made a purchase of 22.78 trillion MOG, which is worth $1.83 million. The payment methods used are USDT and ETH. Currently, this whale holds a total of 30.3 trillion MOG, with an approximate value of $2.58 million.</description>
+      <pubDate>Tue, 02 Sep 2025 10:32:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27337</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Affected by Burn and Upgrade News, BGB Experiences a Short-Term Surge of Over 11%</title>
+      <link>https://www.lookonchain.com/feeds/27338</link>
+      <description>On September 2nd, based on market data, BGB witnessed a short-term surge of more than 11% and is currently trading at $5.28.Previously, it was reported that BGB has been upgraded to become the native token of the Morph public chain, with a one-time burning of 220 million tokens.</description>
+      <pubDate>Tue, 02 Sep 2025 10:32:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27338</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Crypto KOL DonAlt deposited 12.97 million WLFI to Binance, realizing a profit of 2.555 million USD</title>
+      <link>https://www.lookonchain.com/feeds/27336</link>
+      <description>September 2nd. As per on-chain analyst Ai Yi (@ai_9684xtpa), the suspected crypto KOL DonAlt (@CryptoDonAlt) transferred 12.97 million WLFI tokens to Binance two hours ago, with a value of $3.2 million.Previously, he took part in the WLFI second-round public sale and invested 1000 ETH (approximately $3.25 million). Two hours ago, after withdrawing 12.97 million unlocked tokens from Lockbox, it seemed that he was taking profits. If sold, he would make a profit of $2.555 million.</description>
+      <pubDate>Tue, 02 Sep 2025 10:24:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27336</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Venus Protocol has experienced 3 security incidents in the past, with total losses exceeding $100 million</title>
+      <link>https://www.lookonchain.com/feeds/27335</link>
+      <description>September 2nd, the data indicates that the Venus Protocol has witnessed 3 security incidents in the past, with losses exceeding $1 billion. These consist of the following:In May 2021, the governance token XVS was subjected to price manipulation. The attacker borrowed a significant amount of BTC/ETH and then crashed the price, leading to liquidation. As a result, the protocol incurred bad debt and was unable to recover the loans.On May 13, 2022, during the LUNA oracle vulnerability exploit incident, a Chainlink price feed pause caused a price discrepancy in the LUNA token. The attacker took advantage of this vulnerability, resulting in a loss of $11.2 million.In December 2023, a short-term pricing failure occurred in the Binance Oracle, causing the value of assets in the Venus Protocol&apos;s snBNB isolated pool to abnormally drop to $240.</description>
+      <pubDate>Tue, 02 Sep 2025 10:16:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27335</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha will list Tradoor (TRADOOR) on September 4th.</title>
+      <link>https://www.lookonchain.com/feeds/27334</link>
+      <description>September 2nd. As per the official announcement, Binance Alpha is scheduled to list Tradoor (TRADOOR) on September 4th. Qualified users can access the Alpha event page once the Alpha trading commences and utilize Alpha Points to claim the airdrop. Further details will be provided at a later time.</description>
+      <pubDate>Tue, 02 Sep 2025 10:16:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27334</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -34,7 +126,7 @@
       <title>BGB Upgraded to Morph Mainnet Token, with 220 Million Coins Burned in One Go</title>
       <link>https://www.lookonchain.com/feeds/27331</link>
       <description>On September 2nd, Bitget announced an exclusive strategic partnership with the consumer-grade public chain Morph in order to accelerate the on-chain application and ecosystem expansion of BGB. BGB will be upgraded to serve as the Gas token and governance token of the Morph ecosystem. Meanwhile, it will continue to play a role in partner ecosystems such as exchanges and wallets, including participating in Launchpool and core functions like fee discounts.Under this partnership, all BGB tokens governed by the Bitget team will be transferred to the Morph Foundation, with a total of 440 million tokens. Among them, 220 million tokens will be burned immediately, while the remaining 220 million tokens will be locked and unlocked at a rate of 2% per month for liquidity incentives, the expansion of usage scenarios, outreach and education, etc. In addition, the Morph Foundation will update the BGB burning mechanism, which is linked to the activity level of the Morph chain, until the total suppl</description>
-      <pubDate>Tue, 02 Sep 2025 10:08:59 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:08:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27331</guid>
       <category>crypto</category>
@@ -49,10 +141,27 @@
 
     </item>
     <item>
+      <title>The Venus Protocol is currently paused</title>
+      <link>https://www.lookonchain.com/feeds/27333</link>
+      <description>On September 2nd, based on the feedback from community users, the Venus Protocol has been suspended.Earlier, according to a report by PeckShield, Venus Protocol users fell victim to a phishing attack and lost approximately $27 million in cryptocurrency.</description>
+      <pubDate>Tue, 02 Sep 2025 10:08:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27333</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Venus: Suspicious Transaction Detected and Under Active Investigation</title>
       <link>https://www.lookonchain.com/feeds/27332</link>
       <description>On September 2nd, officials from Venus declared that the suspicious transaction had been identified and was being actively investigated. Venus has currently suspended its operations in accordance with the security protocol. Once more information becomes available, everyone will be notified without delay.</description>
-      <pubDate>Tue, 02 Sep 2025 10:08:59 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 10:08:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27332</guid>
       <category>crypto</category>
@@ -69,7 +178,7 @@
       <title>SlowMist Team: Venus may not have been compromised, and the specific details are still being confirmed</title>
       <link>https://www.lookonchain.com/feeds/27330</link>
       <description>On September 2nd, SlowMist Cosmic tweeted that, &quot;It is unlikely that Venus was hacked. It is possible that a large whale was phished, leading to a loss of more than $27 million. The specific details are still being verified.&quot;</description>
-      <pubDate>Tue, 02 Sep 2025 09:56:59 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 09:56:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27330</guid>
       <category>crypto</category>
@@ -80,110 +189,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Shield Down: Venus Protocol Users Fall Victim to Phishing Attack, Losing Approximately $27 Million in Cryptocurrency</title>
-      <link>https://www.lookonchain.com/feeds/27329</link>
-      <description>On September 2nd, as monitored by PeckShield, Venus Protocol users became victims of a phishing attack, losing approximately $27 million worth of cryptocurrencies. The victim approved a malicious transaction that granted token approval to the attacker&apos;s address (0x7fd8...202a) for asset transfer.</description>
-      <pubDate>Tue, 02 Sep 2025 09:48:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27329</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>EU Commission Advisor: Commission Expected to Submit Proposal on RWA Tokenization in December</title>
-      <link>https://www.lookonchain.com/feeds/27328</link>
-      <description>On September 2nd, Peter Kerstens, an advisor to the European Commission, informed The Block that the Commission is anticipated to put forward a Savings and Investment Alliance in December, and this alliance will incorporate tokenization elements. Kerstens stated that the tokenization of RWA is the next significant trend in cryptocurrency that regulators should give priority to.</description>
-      <pubDate>Tue, 02 Sep 2025 09:40:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27328</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Starknet: Network has recovered and is back online. Some transactions need to be resubmitted</title>
-      <link>https://www.lookonchain.com/feeds/27327</link>
-      <description>On September 2nd, Starknet declared that the network has resumed its online status and is operating in full. The production of blocks has returned to normal. Most RPC providers have resumed their normal operations, and the remaining providers will also be upgraded soon.In order to restore services, transactions submitted between 2:23 and 4:36 UTC will not be processed. A reorg starting from block 1960612 has been submitted, which represents one hour of activity. All transactions starting from this block onwards will not appear on the chain and will need to be resubmitted.The team will conduct a detailed review next, including a full timeline, root causes, and long-term preventive measures.</description>
-      <pubDate>Tue, 02 Sep 2025 09:40:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27327</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Security Advisory: Venus Exploit due to Compromised Core Pool Controller Redirected to a Malicious Contract Address</title>
-      <link>https://www.lookonchain.com/feeds/27326</link>
-      <description>On September 2nd, the cryptocurrency security platform Cyvers Alerts noticed a suspicious transaction amounting to $27 million on the Venus Protocol within the BNB network. As per the report, the Venus core pool controller was accessed by a malicious contract address, which subsequently withdrew assets valued at $27 million, including vUSDC, vETH, and other tokens.</description>
-      <pubDate>Tue, 02 Sep 2025 09:39:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27326</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Affected by the &quot;Hacker Attack&quot; news, XVS plummeted over 7% in a short time</title>
-      <link>https://www.lookonchain.com/feeds/27325</link>
-      <description>On September 2nd, based on HTX market data, XVS witnessed a short-term decline of more than 7% and is currently trading at $5.95.Before this, according to market reports, the Venus Protocol came under attack and potentially lost $30 million.</description>
-      <pubDate>Tue, 02 Sep 2025 09:32:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27325</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Venus Protocol Suffers Exploit, Loses $30 Million</title>
-      <link>https://www.lookonchain.com/feeds/27324</link>
-      <description>On September 2nd, according to market information, the Venus Protocol has come under attack, with a potential loss of $30 million.</description>
-      <pubDate>Tue, 02 Sep 2025 09:23:59 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27324</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
