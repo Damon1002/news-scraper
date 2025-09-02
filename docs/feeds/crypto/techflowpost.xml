@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 05:01:19 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 05:01:19 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 05:29:44 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 05:29:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>BlockSec Phalcon：监控到针对以太坊链上 Bunni 合约的可疑交易，损失约 230 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 BlockSec Phalcon（@Phalcon_xyz）监测，以太坊网络上发现一笔针对 Bunni 协议（@bunni_xyz）合约的可疑交易，造成约 230 万美元损失。</description>
+      <pubDate>Tue, 02 Sep 2025 05:09:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Starknet：网络出现宕机，团队正在积极解决</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>ZachXBT 统计的数据显示，付费推广中单条推文最高报价 5000 美元，来自 X 账号“UNCLE 🏴☠️ EDDIE” （@MediaGiraffes），该 X 账户拥有 5 万名粉丝。</description>
       <pubDate>Tue, 02 Sep 2025 01:40:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>德林控股补充公告：已认购Asseto股权及Pengu Software股份，将推出RWA数字资产平台</title>
-      <link>https://www.techflowpost.com</link>
-      <description>港股上市公司德林控股于9月1日发布补充公告，披露已认购Asseto Holding Limited股权，以及集团管理基金认购Pangu Software Pte Ltd的股份。德林控股表示，Asseto股权认购交易后的估值为4000万美元，A类普通股持有量达到77352股，而认购Pangu Sof...</description>
-      <pubDate>Tue, 02 Sep 2025 01:34:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

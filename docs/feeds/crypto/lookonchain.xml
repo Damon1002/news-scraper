@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 05:01:19 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 05:01:19 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 05:29:44 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 05:29:44 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,99 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Market Movement Warning Sign? Hyperliquid Whale Activity Intensifies, with Single-day Large Transactions Exceeding 100 Million USDC</title>
+      <link>https://www.lookonchain.com/feeds/27284</link>
+      <description>On September 2nd, as per the monitoring of HyperInsight, Hyperliquid has once again witnessed multiple large deposits and withdrawals by whale-sized entities, as detailed below:Deposits:Address 0xEFd3 accumulated approximately 11 million USDC within a 24-hour period;Address 0xECB6 deposited around 46.69 million USDC during the same time frame;Withdrawals:Address 0x97E5 withdrew approximately 6.93 million USDC within 24 hours;Address 0x208d withdrew around 15 million USDC during the same period;Address 0x01d7 withdrew about 12.9 million USDC during the same time;Address 0x4016 withdrew 10 million USDC within the last 4 hours.The last similar large liquidity event took place during the week from July 30th to August 8th. During this period, the Bitcoin price dropped from nearly $120,000 to around $110,000 and then quickly rebounded, setting a new high of $124,457. Although whale operations cannot be directly used as a bas</description>
+      <pubDate>Tue, 02 Sep 2025 05:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27284</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>BlockSec: Detected Suspicious Transaction in Bunni Contract, Resulting in Approximately $2.3 Million Loss</title>
+      <link>https://www.lookonchain.com/feeds/27283</link>
+      <description>On September 2nd, the blockchain security company BlockSec announced on social media that its system had detected suspicious transactions targeting the smart contract of the DEX platform Bunni, which led to a loss of approximately $2.3 million.</description>
+      <pubDate>Tue, 02 Sep 2025 05:16:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27283</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Starknet network has been down for 28 minutes</title>
+      <link>https://www.lookonchain.com/feeds/27282</link>
+      <description>On September 2nd, the data from Starknet Blockchain Explorer Voyager indicates that the Starknet network has been down for 28 minutes.Previously, it was reported that Starknet tweeted, &quot;Starknet is currently experiencing downtime. The team is actively looking into this issue and striving to restore full functionality as quickly as possible. Updates on the progress will be provided as soon as more information becomes available.&quot;</description>
+      <pubDate>Tue, 02 Sep 2025 05:08:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27282</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Starknet: Network Experiencing Downtime, Team Investigating the Issue</title>
+      <link>https://www.lookonchain.com/feeds/27281</link>
+      <description>On September 2nd, Starknet posted on the X Platform, saying, &quot;Starknet is currently facing downtime. The team is actively looking into this problem and striving to restore full functionality as soon as possible. We will synchronize the progress for the first time after obtaining more information.&quot;</description>
+      <pubDate>Tue, 02 Sep 2025 05:00:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27281</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Bitunix Analyst: WLFI Experiences Massive Volume on First Day of Trading, Followed by Retracement; High Risk of Politicized Token Issuance; Heatmap Indicates Support Level at $0.22 and Resistance L...</title>
+      <link>https://www.lookonchain.com/feeds/27280</link>
+      <description>September 2nd: On Monday, September 2nd, WLFI went live and set off a trading frenzy. In just one hour, the trading volume exceeded $1 billion. After opening, the price soared to nearly the $0.40 range and then sharply dropped back to around $0.20 - $0.25 before rebounding. The WLFI liquidation heatmap shows that the range above $0.29 - $0.32 is a zone of high liquidity/orders, with a secondary peak at $0.36 - $0.40. There are also visible support levels around $0.22 - $0.24 and near $0.20. This event has directly linked political and wealth narratives to market frenzy.Bitunix Analyst Recommendation (Event Insights and Advice):WLFI&apos;s debut exposed three major risks. Firstly, the extremely high concentration of holdings and the unlocking schedule may lead to valuation mismatches and a liquidity illusion. Secondly, the strong connection of the project with political figures may attract regulatory and legal scrutiny. Thirdly, short-term trading heat does not equal sustainable fundament</description>
+      <pubDate>Tue, 02 Sep 2025 05:00:52 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27280</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>A whale has sold 425 BTC over the past 4 days and shifted its holdings to 10,567 ETH.</title>
       <link>https://www.lookonchain.com/feeds/27278</link>
       <description>On September 2nd, as monitored by LookOnChain, a whale address 0xFf15 sold 425 BTC ($46.5 million) and purchased 10,567 ETH ($46.5 million) within the past 4 days.</description>
-      <pubDate>Tue, 02 Sep 2025 04:56:27 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:56:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27278</guid>
       <category>crypto</category>
@@ -39,7 +128,7 @@
       <title>Sky Founder: Sky Core Simplifies Significantly Reducing Expenses, Current Protocol&apos;s Annualized Revenue Reaches $3.38 Billion</title>
       <link>https://www.lookonchain.com/feeds/27279</link>
       <description>On September 2nd, Rune Christensen, the founder of Sky (formerly MakerDAO), stated on social media, &quot;After significantly reducing core expenses through the simplification of Sky Core, the profit page has been updated. Based on a three-month fee annualized calculation, it now shows real-time stable fee income and savings rate expenditures. The current annualized profit has reached $338 million.&quot;</description>
-      <pubDate>Tue, 02 Sep 2025 04:56:27 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:56:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27279</guid>
       <category>crypto</category>
@@ -57,7 +146,7 @@
       <title>In the past 5 days, Galaxy Digital has transferred 500,000 SOL to Coinbase, equivalent to approximately $103 million.</title>
       <link>https://www.lookonchain.com/feeds/27277</link>
       <description>On September 2nd, as per the monitoring of LookOnChain, Galaxy Digital has deposited 500,000 SOL tokens (approximately $103 million) into Coinbase within the past 5 days.</description>
-      <pubDate>Tue, 02 Sep 2025 04:48:27 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:48:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27277</guid>
       <category>crypto</category>
@@ -76,7 +165,7 @@
       <title>Bridgewater Fund Founder: International Investors Have Started Moving From US Treasuries to Gold</title>
       <link>https://www.lookonchain.com/feeds/27276</link>
       <description>On September 2nd, Ray Dalio, the founder of Bridgewater Associates, mentioned that international investors have started to transfer from US Treasury bonds to gold. (FX678)</description>
-      <pubDate>Tue, 02 Sep 2025 04:48:27 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:48:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27276</guid>
       <category>crypto</category>
@@ -93,7 +182,7 @@
       <title>0xSun Success Story: Earned Over $1 Million in Profit by Shorting WLFI</title>
       <link>https://www.lookonchain.com/feeds/27275</link>
       <description>On September 2nd, Smart Money and crypto KOL 0xsun.sol (@0xSunNFT) disclosed on social media that they had achieved a profit of over $1 million by shorting WLFI.0xSun&apos;s screenshot indicates that they closed 1279 WLFI tokens. The opening price was $0.32 and the closing price was $0.238, resulting in a profit of $1.048 million.</description>
-      <pubDate>Tue, 02 Sep 2025 04:40:27 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 04:40:52 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27275</guid>
       <category>crypto</category>
@@ -106,97 +195,6 @@
       <category>initial-load</category>
       <category>high-value</category>
       <category>profit</category>
-
-    </item>
-    <item>
-      <title>The probability on Polymarket of &quot;Trump Ceasing to be President this Year&quot; is currently at 10%.</title>
-      <link>https://www.lookonchain.com/feeds/27274</link>
-      <description>On September 2nd, based on the information on the relevant page, the probability on Polymarket that &quot;Trump will step down as president this year&quot; is currently 10%.</description>
-      <pubDate>Tue, 02 Sep 2025 04:32:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27274</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Trump is scheduled to deliver a speech at the White House this Wednesday at 2 a.m.</title>
-      <link>https://www.lookonchain.com/feeds/27273</link>
-      <description>On September 2nd, Trump is scheduled to deliver a speech at the White House on Tuesday afternoon at 2:00 PM Eastern Time (2:00 AM Wednesday Beijing Time). (Jin10)Previously, on August 30th, Pence said that if Trump faced a &quot;serious tragedy&quot;, he was prepared to assume the presidency. But he stated that the 79-year-old Trump is in good health, and despite recent concerns about his health, he still has &quot;amazing energy&quot;. Axios Global Affairs Reporter Barak Ravid posted that a U.S. official said that Trump is in good health and will be going to play golf locally this morning. At present, widespread speculation about Trump&apos;s health continues to spread on social media.</description>
-      <pubDate>Tue, 02 Sep 2025 04:24:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27273</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>If Bitcoin breaks $112,000, the mainstream CEX total short liquidation volume will reach $973 million.</title>
-      <link>https://www.lookonchain.com/feeds/27272</link>
-      <description>On September 2nd, based on Coinglass data, if Bitcoin manages to break through $112,000, the cumulative short liquidation intensity of mainstream CEX will reach $973 million.Conversely, if Bitcoin drops below $108,000, the cumulative long liquidation intensity of mainstream CEX will reach $773 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, intensity.Therefore, the liquidation chart shows to what extent the asset price will be impacted when it reaches a certain level. Higher &quot;liquidation bars&quot; indicate that the price will undergo a more intense reaction due to a surge in liquidity.</description>
-      <pubDate>Tue, 02 Sep 2025 04:08:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27272</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Ethereum&apos;s active address count in August reached 19.45 million, hitting a new high since May 2021</title>
-      <link>https://www.lookonchain.com/feeds/27271</link>
-      <description>On September 2nd, as per everstake.eth, the quantity of active addresses on Ethereum came to 19.45 million in August, attaining a new peak since May 2021 (20.27 million).</description>
-      <pubDate>Tue, 02 Sep 2025 04:08:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27271</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Letsbonk, Believe ranked in the top three</title>
-      <link>https://www.lookonchain.com/feeds/27270</link>
-      <description>On September 2nd, according to the Jupiter Data Dashboard, in the past 24 hours within the Solana launchpad market share ranking, pump.fun held the top position with 70.2%, Letsbonk came in second with 21%, and Believe ranked third with 1.82%.</description>
-      <pubDate>Tue, 02 Sep 2025 04:00:27 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27270</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
