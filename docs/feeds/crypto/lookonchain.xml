@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 08:36:41 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 08:36:41 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 08:55:14 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 08:55:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,86 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Arbitrum, Ethereum, and xDai Ranked Top Three in Cross-Chain Bridge Net Funds Inflow Over the Past Week</title>
+      <link>https://www.lookonchain.com/feeds/27320</link>
+      <description>On September 2nd, based on DefiLlama data, in the past week, the net inflow of funds to the Arbitrum cross-chain bridge reached $2.499 billion, ranking first among all public chains. Ethereum and Xdai came next, with net inflows of $2.11 billion and $84.1 million respectively.Polygon, Solana, and Base witnessed net outflows of $86.35 million, $74.61 million, and $67.44 million respectively.</description>
+      <pubDate>Tue, 02 Sep 2025 08:48:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27320</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>&quot;The &apos;Whale Who Shorted BTC Four Times Since March&apos; Initiates a 25x ETH Short Position at an Entry Price of $4,391.6&quot;</title>
+      <link>https://www.lookonchain.com/feeds/27319</link>
+      <description>On September 2nd, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;Whale That Has Shorted BTC Four Times Since 2025.03&quot; has begun shorting ETH after closing the short position of BTC with a profit.Two minutes ago, the whale opened a 25x leveraged ETH short position on Hyperliquid and is currently holding 500 ETH (approximately $2.2 million), with an entry price of $4,391.6. Based on their past trading patterns, they may gradually increase their position.</description>
+      <pubDate>Tue, 02 Sep 2025 08:48:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27319</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>European Central Bank Issues Public Warning to Trump: Undermining Fed&apos;s Independence Could Raise, Not Lower, Borrowing Costs</title>
+      <link>https://www.lookonchain.com/feeds/27318</link>
+      <description>On September 2nd, a member of the Executive Board of the European Central Bank, Schnabel, stated that undermining the independence of the Federal Reserve could have a backfiring effect. Instead of lowering borrowing costs, it could lead to an increase, and it could also disrupt the entire global financial system. Schnabel said in an interview, &quot;If the Federal Reserve loses its independence, it will cause tremendous damage to the global financial system and will also have an impact on the European Central Bank. I truly hope this will not happen.&quot; (FXStreet)</description>
+      <pubDate>Tue, 02 Sep 2025 08:41:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27318</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Wallet Bonding Curve TGE Event Launches New Phase for Project Hyperbot (BOT)</title>
+      <link>https://www.lookonchain.com/feeds/27317</link>
+      <description>On September 2nd, as per official information, Binance Wallet is set to host an exclusive Bonding Curve TGE event for Hyperbot (BOT) through the Four.Meme platform. The event will be held from 8:00 to 10:00 (UTC) on September 3rd, 2025.</description>
+      <pubDate>Tue, 02 Sep 2025 08:41:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27317</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>A whale bought an additional 5553 ETH within 40 minutes, accumulating a total of 18,447 ETH since August 11th.</title>
       <link>https://www.lookonchain.com/feeds/27316</link>
       <description>On September 2nd, as per the monitoring of LookOnChain, a whale beginning with 0x4ED0 has made another purchase of 5553 ETH within the past 40 minutes, with an approximate value of $24.44 million. Since August 11th, this whale has bought a total of 18,447 ETH at an average price of $4417 (amounting to approximately $81.5 million), and also purchased 1357 WBTC at an average price of $117,547 (valued at approximately $160 million). Subsequently, these assets were deposited into Aave and a loan of 114.2 million USDT was obtained.</description>
-      <pubDate>Tue, 02 Sep 2025 08:32:48 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 08:32:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27316</guid>
       <category>crypto</category>
@@ -37,7 +113,7 @@
       <title>Quack AI: Q Airdrop Claiming Now Open</title>
       <link>https://www.lookonchain.com/feeds/27315</link>
       <description>On September 2nd, according to an official announcement by Quack AI, the Q airdrop distribution has now become available for claiming. Users can access the relevant portal to check their status, view their allocation, and follow the procedures to claim or transfer the airdrop.</description>
-      <pubDate>Tue, 02 Sep 2025 08:24:48 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 08:24:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27315</guid>
       <category>crypto</category>
@@ -54,7 +130,7 @@
       <title>Binance Alpha&apos;s latest Quack AI (Q) Airdrop Single Ticket Reward is approximately $64</title>
       <link>https://www.lookonchain.com/feeds/27314</link>
       <description>On September 2nd, based on market data, Quack AI (Q) has been listed on Binance Alpha. Currently, it is priced at $0.010817. It has a market capitalization of $17.5 million on the Binance Smart Chain (BSC). Each eligible user can receive an airdrop of 6000 Q tokens. The estimated single airdrop reward at the current price is approximately $64.9.</description>
-      <pubDate>Tue, 02 Sep 2025 08:24:48 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 08:24:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27314</guid>
       <category>crypto</category>
@@ -72,7 +148,7 @@
       <title>A whale today market sold all WBTC acquired through leverage trading and swapped it for 15,083 ETH.</title>
       <link>https://www.lookonchain.com/feeds/27311</link>
       <description>On September 2nd, according to Ember Monitor, a whale purchased 602.8 WBTC ($66.9 million) through leverage trading 6 days prior at a price of $110,993. Three hours ago today, this whale sold all 602.8 WBTC and acquired 15,083 ETH.Currently, the whale holds 16,909 ETH ($73.84 million), with an approximate cost of $4,441.</description>
-      <pubDate>Tue, 02 Sep 2025 08:16:48 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 08:17:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27311</guid>
       <category>crypto</category>
@@ -94,7 +170,7 @@
       <title>Falcon Finance Update: USDf Reserve Full Asset Breakdown</title>
       <link>https://www.lookonchain.com/feeds/27313</link>
       <description>On September 2nd, Falcon Finance updated the comprehensive asset details of USDf on its official website. The figures indicate that 96.3% of the reserve assets in USDf consist of major assets like BTC and stablecoins, which have deep market liquidity and high exchange coverage.As of the moment of writing, the total value of the reserve assets of USDf is 1.29 billion US dollars, and the asset backing ratio is 105.09%.</description>
-      <pubDate>Tue, 02 Sep 2025 08:16:48 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 08:17:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27313</guid>
       <category>crypto</category>
@@ -111,78 +187,9 @@
       <title>Bybit has recently added two MNT trading pairs, aiming to provide users with more trading options and liquidity.</title>
       <link>https://www.lookonchain.com/feeds/27312</link>
       <description>On September 2nd, according to an official announcement, Bybit has added two new MNT trading pairs today. These pairs are ETH/MNT and MNT/USDE. The announcement stated that this is to offer users more trading options and liquidity.On August 29th, Bybit released the &quot;Mantle × Bybit Roadmap&quot; plan. In this plan, MNT will support payment platform transaction fees and enjoy discounts, bringing a comprehensive upgrade to its utility in various scenarios.</description>
-      <pubDate>Tue, 02 Sep 2025 08:16:48 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 08:17:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27312</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>OKX will list USD1 Spot Trading</title>
-      <link>https://www.lookonchain.com/feeds/27310</link>
-      <description>September 2nd. According to an official announcement, OKX will list USD1 Spot Trading. The USD1/USDT spot trading will commence on September 2, 2025, at 7:00 PM (UTC+8).</description>
-      <pubDate>Tue, 02 Sep 2025 08:08:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27310</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid&apos;s August Monthly Revenue Exceeds $100 Million, Setting a Historic Record</title>
-      <link>https://www.lookonchain.com/feeds/27309</link>
-      <description>On September 2nd, according to the data from DefiLlama, the August revenue of Hyperliquid reached $106 million, hitting a monthly all-time high, which is a 23% increase from the $86.6 million in July. This is attributed to the nearly $400 billion perpetual contract trading volume of the platform in August.</description>
-      <pubDate>Tue, 02 Sep 2025 08:00:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27309</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>European Securities and Markets Authority: Security Tokenization may mislead investors as they do not provide the same shareholder rights as direct ownership</title>
-      <link>https://www.lookonchain.com/feeds/27308</link>
-      <description>On September 2nd, Natasha Cazenave, the Executive Director of the European Securities and Markets Authority (ESMA), cautioned that Tokenized Stocks might mislead investors as they do not convey the same shareholder rights as direct ownership.</description>
-      <pubDate>Tue, 02 Sep 2025 07:56:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27308</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Linea Network&apos;s DeFi TVL Reaches an All-Time High, With a 60.30% Increase in the Past Week</title>
-      <link>https://www.lookonchain.com/feeds/27307</link>
-      <description>On September 2nd, according to the data from DefiLlama, the DeFi TVL of the Linea Network has reached a new record high. It currently stands at $8.9294 billion, with a weekly growth rate of 60.30%.</description>
-      <pubDate>Tue, 02 Sep 2025 07:56:48 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27307</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
