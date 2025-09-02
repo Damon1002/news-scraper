@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 18:32:33 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 18:32:33 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 18:49:53 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 18:49:53 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>OpenAI is investing $1.1 billion to acquire Statsig.</title>
-      <link>https://www.lookonchain.com/feeds/27420</link>
-      <description>On Tuesday, September 3rd, the artificial intelligence giant OpenAI confirmed that it is carrying out an executive team reorganization. A new role of Application Chief Technology Officer is established. OpenAI also acquired the product analytics company Statsig for $1.1 billion. Statsig, the acquired company, specializes in product optimization services such as A/B testing. Its founder and CEO, Vijaye Raji, will join OpenAI and report directly to the Application Business CEO Fidji Simo.Simo joined OpenAI after resigning from her position as the CEO of the grocery delivery platform Instacart on August 18th. In the announcement, OpenAI stated that after the completion of the transaction, Statsig employees will join the OpenAI team. The company will continue to operate independently and serve existing customers from its Seattle headquarters. (Jinse)</description>
-      <pubDate>Tue, 02 Sep 2025 18:16:40 +0000</pubDate>
+      <title>Trump: Losing the Tariff Appeal Would Be an Economic Disaster</title>
+      <link>https://www.lookonchain.com/feeds/27424</link>
+      <description>On September 3rd, President Trump of the US stated that if he lost the tariff appeal, it would be an economic disaster. An &quot;emergency meeting&quot; is going to be held tomorrow regarding the tariff ruling.</description>
+      <pubDate>Tue, 02 Sep 2025 18:49:00 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27420</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27424</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,14 +28,47 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Trump Shows Up at White House Press Briefing as Scheduled, But Does Not Appear on Camera Live</title>
+      <link>https://www.lookonchain.com/feeds/27423</link>
+      <description>September 3rd. President Trump was present at the White House press briefing as scheduled at 2 a.m. today. It is noteworthy that up to now, live broadcasts from major U.S. media outlets such as Fox News, NBC, CNBC, etc., only display the exterior of the White House and have not shown Trump&apos;s attendance at the briefing.In recent days, there has been extensive speculation on social media regarding his health condition. On August 30th, Pence stated that if a &quot;serious tragedy&quot; were to occur to Trump, he would be prepared to assume the presidency. Subsequently, Pence mentioned that the 79-year-old Trump is in good health and, despite recent inquiries about his health, he still retains &quot;remarkable energy.&quot;</description>
+      <pubDate>Tue, 02 Sep 2025 18:41:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27423</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Trump: Will Appeal Tariff Ruling, To Hold &quot;Emergency Meeting&quot; Tomorrow on Tariff Ruling</title>
+      <link>https://www.lookonchain.com/feeds/27422</link>
+      <description>September 3rd: President Trump declared that he will file an appeal regarding the tariff ruling.Trump emphasized once again that global tariffs pose an economic emergency and that &quot;if the tariff war fails to achieve victory, it will set off a chain reaction.&quot; An &quot;emergency meeting&quot; concerning the tariff ruling will be held tomorrow.BlockBeats had previously reported that on August 31st, U.S. Trade Representative Grille stated that after the tariff ruling (by a U.S. court), trade negotiations would continue.On June 2nd, Trump made remarks related to tariffs again, stating, &quot;If the court in some manner issues a ruling on tariffs that is unfavorable to us (which is not anticipated), then other countries will take advantage of this situation to hold us hostage with anti-American tariffs and utilize these tariffs against us, which means the destruction of the U.S. economy!&quot;The U.S. International Trade Court prohibited Trump&apos;s &quot;Liberation Day&quot; tariffs from coming into effect, ruling</description>
+      <pubDate>Tue, 02 Sep 2025 18:33:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27422</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
 
     </item>
     <item>
       <title>Ethereum Withdrawal Trend Continues, with CEX Net Outflow of 10,600 ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/27421</link>
       <description>On September 3rd, according to Coinglass data, in the past 24 hours, the cumulative net outflow of CEX was 10,600 ETH. The top three exchanges with the largest outflows are as follows:· Bitfinex, with an outflow of 14,500 ETH;· Binance, with an outflow of 6,437.45 ETH;· KuCoin, with an outflow of 1,028.80 ETH.In addition, Bybit witnessed an inflow of 8,572.40 ETH and ranked first on the inflow list.</description>
-      <pubDate>Tue, 02 Sep 2025 18:16:40 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 18:17:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27421</guid>
       <category>crypto</category>
@@ -51,12 +84,12 @@
 
     </item>
     <item>
-      <title>Spot Gold Surges Above $3530/oz, Continues to Hit All-Time Highs</title>
-      <link>https://www.lookonchain.com/feeds/27419</link>
-      <description>September 3rd, the spot gold surged above $3530/oz and hit another record high. It rose by more than $50 intra-day, with a 1.54% increase. (Oriental Wealth)</description>
-      <pubDate>Tue, 02 Sep 2025 17:48:40 +0000</pubDate>
+      <title>OpenAI is investing $1.1 billion to acquire Statsig.</title>
+      <link>https://www.lookonchain.com/feeds/27420</link>
+      <description>On Tuesday, September 3rd, the artificial intelligence giant OpenAI confirmed that it is carrying out an executive team reorganization. A new role of Application Chief Technology Officer is established. OpenAI also acquired the product analytics company Statsig for $1.1 billion. Statsig, the acquired company, specializes in product optimization services such as A/B testing. Its founder and CEO, Vijaye Raji, will join OpenAI and report directly to the Application Business CEO Fidji Simo.Simo joined OpenAI after resigning from her position as the CEO of the grocery delivery platform Instacart on August 18th. In the announcement, OpenAI stated that after the completion of the transaction, Statsig employees will join the OpenAI team. The company will continue to operate independently and serve existing customers from its Seattle headquarters. (Jinse)</description>
+      <pubDate>Tue, 02 Sep 2025 18:17:00 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27419</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27420</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -72,9 +105,27 @@
       <title>Reflect has completed a $3.75 million funding round led by a16z crypto, and will launch an income-generating stablecoin, USDC+.</title>
       <link>https://www.lookonchain.com/feeds/27418</link>
       <description>On September 3rd, the stablecoin protocol Reflect successfully completed a financing round of $3.75 million. a16z crypto took the lead in this round, and Solana Ventures, Equilibrium, Colosseum, and Big Brain Holdings also participated. Reflect is going to launch a new flagship yield-stablecoin, USDC+, on the Solana blockchain.</description>
-      <pubDate>Tue, 02 Sep 2025 17:40:40 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 17:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27418</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Spot Gold Surges Above $3530/oz, Continues to Hit All-Time Highs</title>
+      <link>https://www.lookonchain.com/feeds/27419</link>
+      <description>September 3rd, the spot gold surged above $3530/oz and hit another record high. It rose by more than $50 intra-day, with a 1.54% increase. (Oriental Wealth)</description>
+      <pubDate>Tue, 02 Sep 2025 17:49:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27419</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -90,27 +141,9 @@
       <title>Anthropic has completed a $1.3 billion new funding round, propelling it to the world&apos;s highest valued AI startup.</title>
       <link>https://www.lookonchain.com/feeds/27417</link>
       <description>On September 3rd, the artificial intelligence company Anthropic announced that it has recently completed a financing round of $13 billion, with its valuation soaring to $183 billion. This financing, which far exceeded expectations, has made it one of the world&apos;s most highly valued startups. The round was led by Iconiq Capital, with Fidelity Management and Research Company, Lightspeed Venture Partners, Singapore&apos;s GIC, Insight Partners, and the Qatar Investment Authority (QIA) participating.According to previous reports, Anthropic&apos;s initial target was to raise $5 billion, which was later increased to $10 billion, and finally reached $13 billion. In a statement on Tuesday, Anthropic said that this investment &quot;validates Anthropic&apos;s unprecedented growth rate and solidifies our position as the preferred intelligent platform for enterprises, developers, and high-end users.&quot;</description>
-      <pubDate>Tue, 02 Sep 2025 17:32:40 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 17:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27417</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>WLFI is signing a multi-signature burn agreement for 47 million tokens, with 2/3 signatures currently executed.</title>
-      <link>https://www.lookonchain.com/feeds/27415</link>
-      <description>On September 3rd, the cryptocurrency project of the Trump family, World Liberty Financial, is in the process of signing a pending agreement to burn 47 million WLFI tokens through a multi-signature procedure. Currently, 2/3 of the signatures have been obtained.</description>
-      <pubDate>Tue, 02 Sep 2025 17:31:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27415</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -126,7 +159,7 @@
       <title>Gold Price Hits Another All-Time High, Safe-Haven Demand and Rate Cut Expectations Fuel Rally</title>
       <link>https://www.lookonchain.com/feeds/27416</link>
       <description>September 3rd. The price of gold reached a record high because of the escalating demand for safe havens, strengthened expectations of a U.S. interest rate cut, and continuous central bank gold purchases. Krishan Gopaul, the Market Intelligence Manager at the World Gold Council, pointed out that the ongoing market uncertainties, concerns about the independence of the Federal Reserve, reignited expectations of a September rate cut, the resurfacing of U.S. stagflation risks, and the general weakness of the U.S. dollar have jointly enhanced the attractiveness of gold. Geopolitical tensions and tariff concerns have further consolidated this trend. Gold ETFs, gold bars, and gold coins continue to receive strong investor demand, while central banks around the world are continuously promoting reserve diversification, ensuring that the core factors driving this rally will not fade away in the short term. (FX678)</description>
-      <pubDate>Tue, 02 Sep 2025 17:31:40 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 17:49:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27416</guid>
       <category>crypto</category>
@@ -140,12 +173,12 @@
 
     </item>
     <item>
-      <title>RWA&apos;s First Unicorn Figure Aims to Raise $526 Million Through Initial IPO, Valued at Over $4 Billion</title>
-      <link>https://www.lookonchain.com/feeds/27414</link>
-      <description>September 3rd: Figure, the first stock of RWA, intends to raise $526 million through an Initial Public Offering (IPO), with a valuation exceeding $4 billion, joining the trend of blockchain companies like Circle, Bullish, and Gemini going public. Regulatory filings submitted by Figure on Tuesday revealed plans to issue 21.5 million shares of stock at a price ranging from $18 to $20 per share, and an expected issuance of 4.9 million shares to existing shareholders. At the highest end of this price range, this IPO will result in a valuation of approximately $4.3 billion. Figure submitted its initial listing application to regulators in secret last month, disclosing its listing plans. The latest filings suggest that Figure plans to set the IPO pricing date on September 10th.Figure Technology Solutions (FTS) was founded by Mike Cagney, who is the co-founder and former CEO of SoFi. Unlike the traditional financial institution approach, Figure has been blockchain-native since its establish</description>
-      <pubDate>Tue, 02 Sep 2025 16:31:40 +0000</pubDate>
+      <title>WLFI is signing a multi-signature burn agreement for 47 million tokens, with 2/3 signatures currently executed.</title>
+      <link>https://www.lookonchain.com/feeds/27415</link>
+      <description>On September 3rd, the cryptocurrency project of the Trump family, World Liberty Financial, is in the process of signing a pending agreement to burn 47 million WLFI tokens through a multi-signature procedure. Currently, 2/3 of the signatures have been obtained.</description>
+      <pubDate>Tue, 02 Sep 2025 16:49:00 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27414</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27415</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -155,42 +188,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Nvidia Denies H100/H200 Chip Shortage Rumors: Ample Inventory to Instantly Meet Order Demand</title>
-      <link>https://www.lookonchain.com/feeds/27413</link>
-      <description>September 3rd, Nvidia (NVDA.O) declared that the recent media reports regarding the &quot;limited supply&quot; and &quot;sold out&quot; rumors about Nvidia&apos;s H100/H200 chips are all inaccurate. As detailed in the financial report, while cloud service partners are indeed capable of leasing all of their H100/H200 chips online, this does not imply that Nvidia is unable to accept new orders. With an ample stock of H100/H200, they can promptly fulfill all order requirements. Rumors suggesting that the H20 chip is cutting into the supply of H100/H200 or Blackwell products are also entirely unfounded—sales of the H20 chip will never have an impact on Nvidia&apos;s supply capabilities for other products. (Jinse)</description>
-      <pubDate>Tue, 02 Sep 2025 16:31:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27413</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethereum Staking Queue Hits Highest Level Since September 2023, Admission Queue Currently at 832,000 ETH</title>
-      <link>https://www.lookonchain.com/feeds/27412</link>
-      <description>On September 3rd, based on the data from the Validator Queue tracking website validatorqueue, the staking demand for new validators activated on the Ethereum PoS network has witnessed a significant increase and reached the highest level since September 2023. The current admission queue is 832,000 ETH, which is valued at approximately $35.77 billion. The queue time is 14 days and 11 hours.The current exit queue of the Ethereum PoS network is temporarily at 861,000 ETH and remains at a high level. Calculated at the current price, the ETH exiting the PoS network is approximately $37 billion, and the withdrawal delay is 14 days and 23 hours.</description>
-      <pubDate>Tue, 02 Sep 2025 16:31:40 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27412</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
