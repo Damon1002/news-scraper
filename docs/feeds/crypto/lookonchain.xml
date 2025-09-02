@@ -5,14 +5,51 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 06:37:05 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 06:37:05 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 06:56:07 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 06:56:07 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Matrixport: Ethereum is currently in a digestion phase after being overbought, with limited potential to retest $5000 in the short term</title>
+      <link>https://www.lookonchain.com/feeds/27295</link>
+      <description>On September 2nd, Matrixport presented a market outlook indicating that Ethereum&apos;s transaction volume sharply decreased from $122 billion to $57 billion as speculative long positions underwent liquidation. Despite several technical supports existing below, the funding rate has retreated back to below 10%, suggesting a slowdown in ETF capital inflows.At present, Ethereum is in a digestion stage following being overbought, and the implied volatility still remains at a high level. For aggressive investors, selling covered call options can enable them to capture volatility premiums, and the short-term possibility of returning to $5,000 is limited. Overall, risk control remains of key importance, and Matrixport still maintains a cautious stance after the price breaks below a crucial support.</description>
+      <pubDate>Tue, 02 Sep 2025 06:48:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27295</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Binance: Holoworld AI (HOLO) Exclusive Pre-TGE Event Point Threshold is 240 Points</title>
+      <link>https://www.lookonchain.com/feeds/27294</link>
+      <description>On September 2nd, according to an official announcement, Binance Wallet is going to hold a brand new exclusive Pre-TGE event for HOLO. The event will be carried out on September 2nd, 2025, from 08:00 to 10:00 (UTC). Users who possess 240 Alpha points can participate in this Pre-TGE event by clicking on the Pre-TGE event banner within the wallet. To participate in this event, 10 points need to be spent.</description>
+      <pubDate>Tue, 02 Sep 2025 06:40:13 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27294</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
     <item>
       <title>Analyst: ETH May Retrace to $3,350 Support in September, Start Rebound in October Towards New High</title>
       <link>https://www.lookonchain.com/feeds/27293</link>
@@ -145,7 +182,7 @@
       <title>Whale Accumulated 260,000 ETH in the Last 24 Hours</title>
       <link>https://www.lookonchain.com/feeds/27286</link>
       <description>On September 2nd, cryptocurrency analyst @ali_charts presented on-chain data indicating that within the past 24 hours, whales have amassed 260,000 ETH.</description>
-      <pubDate>Tue, 02 Sep 2025 05:40:13 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 05:55:13 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27286</guid>
       <category>crypto</category>
@@ -159,42 +196,6 @@
       <category>eth</category>
       <category>ethereum</category>
       <category>whale</category>
-
-    </item>
-    <item>
-      <title>Market Movement Warning Sign? Hyperliquid Whale Activity Intensifies, with Single-day Large Transactions Exceeding 100 Million USDC</title>
-      <link>https://www.lookonchain.com/feeds/27284</link>
-      <description>On September 2nd, as per the monitoring of HyperInsight, Hyperliquid has once again witnessed multiple large deposits and withdrawals by whale-sized entities, as detailed below:Deposits:Address 0xEFd3 accumulated approximately 11 million USDC within a 24-hour period;Address 0xECB6 deposited around 46.69 million USDC during the same time frame;Withdrawals:Address 0x97E5 withdrew approximately 6.93 million USDC within 24 hours;Address 0x208d withdrew around 15 million USDC during the same period;Address 0x01d7 withdrew about 12.9 million USDC during the same time;Address 0x4016 withdrew 10 million USDC within the last 4 hours.The last similar large liquidity event took place during the week from July 30th to August 8th. During this period, the Bitcoin price dropped from nearly $120,000 to around $110,000 and then quickly rebounded, setting a new high of $124,457. Although whale operations cannot be directly used as a bas</description>
-      <pubDate>Tue, 02 Sep 2025 05:36:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27284</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>GoPlus Launches EIP-7702 Attack Defense Solution, Providing Comprehensive Protection for User Fund Security</title>
-      <link>https://www.lookonchain.com/feeds/27285</link>
-      <description>On September 2nd, Ethereum&apos;s EIP-7702 Protocol became a new focus of hacker attacks, resulting in losses exceeding $5.3 million. According to the analysis of the GoPlus Security Research Institute, the attacker carried out the theft through means such as signature phishing, malicious upgrades, and permission misuse.As one of the first platforms to pay attention to the security threats of this protocol, GoPlus has received requests for help from multiple users who were victims of theft and has completed multiple in-depth security studies. In order to protect the funds of Web3 users, GoPlus announced that the transaction simulation API now fully supports 7702 security checks, which can accurately intercept various malicious transactions based on EIP-7702. The security browser extension will also soon launch relevant protection features.GoPlus advises users to: keep abreast of security knowledge and raise security awareness; promptly use GoPlus security tools to protect themselves and</description>
-      <pubDate>Tue, 02 Sep 2025 05:36:13 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27285</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
