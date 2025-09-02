@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 09:39:24 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 09:39:24 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 09:50:58 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 09:50:58 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>慢雾：可能并非 Venus 遭到攻击，而是某大户被钓鱼导致2700万美元损失</title>
+      <link>https://www.techflowpost.com</link>
+      <description>慢雾创始人余弦发文表示，Venus 平台疑似有大户遭钓鱼攻击，造成超 2700 万美元损失。这可能不是 Venus 本身被黑客攻击，而是某个大户账户被钓鱼导致的损失。目前具体细节仍在确认中。</description>
+      <pubDate>Tue, 02 Sep 2025 09:47:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Starknet：网络恢复正常运行，一小时交易数据被重组</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Starknet官方宣布，经过短暂停机后，网络已恢复正常运行。区块生产已恢复正常，大多数RPC提供商已重新上线。为解决问题，系统从区块1960612开始进行了链重组，导致约一小时的交易数据丢失。9月2日凌晨2:23至4:36 UTC期间提交的交易未被处理，需用户重新提交。官方将发布详细事后分析，包...</description>
+      <pubDate>Tue, 02 Sep 2025 09:40:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某巨鲸通过循环贷方式在三周时间里囤积了价值 2.3 亿美元的 WBTC 和 ETH</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，Ethena 积分榜排名第一的地址 AndreIsBack（0x9cb...c06ce）收到解锁 WLFI 代币774 万枚，价值约 185 万美元。该地址此前在 WLFI 一期公募中投入 170 ETH（约 58 万美元）获得 3871 万...</description>
       <pubDate>Tue, 02 Sep 2025 07:13:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Lorenzo协议COO：将购买WLFI代币参与World Liberty Financial公司治理</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据Markets报道，Lorenzo Protocol首席运营官Tad Tobar表示已与特朗普家族加密项目World Liberty Financial达成合作，而他个人也将购买WLFI代币，以便对该项目部分运营事务行使投票权，即所谓的“治理权（governance rights），他补充称WL...</description>
-      <pubDate>Tue, 02 Sep 2025 07:03:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>币安 Alpha 将于 9 月 4 日上线 Union (U)，符合条件的用户可申领空投</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方公告，币安 Alpha 将于 9 月 4 日率先上线 Union (U) 。符合条件的用户可在交易开放后，前往 Alpha 活动页面使用币安 Alpha 积分领取空投。更多详情即将公布。</description>
-      <pubDate>Tue, 02 Sep 2025 07:00:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
