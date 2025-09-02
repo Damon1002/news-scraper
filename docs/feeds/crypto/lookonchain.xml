@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 04:00:47 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 04:00:47 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 04:33:14 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 04:33:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,67 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Trump is scheduled to deliver a speech at the White House this Wednesday at 2 a.m.</title>
+      <link>https://www.lookonchain.com/feeds/27273</link>
+      <description>On September 2nd, Trump is scheduled to deliver a speech at the White House on Tuesday afternoon at 2:00 PM Eastern Time (2:00 AM Wednesday Beijing Time). (Jin10)Previously, on August 30th, Pence said that if Trump faced a &quot;serious tragedy&quot;, he was prepared to assume the presidency. But he stated that the 79-year-old Trump is in good health, and despite recent concerns about his health, he still has &quot;amazing energy&quot;. Axios Global Affairs Reporter Barak Ravid posted that a U.S. official said that Trump is in good health and will be going to play golf locally this morning. At present, widespread speculation about Trump&apos;s health continues to spread on social media.</description>
+      <pubDate>Tue, 02 Sep 2025 04:24:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27273</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>If Bitcoin breaks $112,000, the mainstream CEX total short liquidation volume will reach $973 million.</title>
+      <link>https://www.lookonchain.com/feeds/27272</link>
+      <description>On September 2nd, based on Coinglass data, if Bitcoin manages to break through $112,000, the cumulative short liquidation intensity of mainstream CEX will reach $973 million.Conversely, if Bitcoin drops below $108,000, the cumulative long liquidation intensity of mainstream CEX will reach $773 million.BlockBeats Notes: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to adjacent liquidation clusters, that is, intensity.Therefore, the liquidation chart shows to what extent the asset price will be impacted when it reaches a certain level. Higher &quot;liquidation bars&quot; indicate that the price will undergo a more intense reaction due to a surge in liquidity.</description>
+      <pubDate>Tue, 02 Sep 2025 04:08:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27272</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Ethereum&apos;s active address count in August reached 19.45 million, hitting a new high since May 2021</title>
+      <link>https://www.lookonchain.com/feeds/27271</link>
+      <description>On September 2nd, as per everstake.eth, the quantity of active addresses on Ethereum came to 19.45 million in August, attaining a new peak since May 2021 (20.27 million).</description>
+      <pubDate>Tue, 02 Sep 2025 04:08:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27271</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Top Solana Launchpad Market Share in the Last 24 Hours: pump.fun, Letsbonk, Believe ranked in the top three</title>
       <link>https://www.lookonchain.com/feeds/27270</link>
       <description>On September 2nd, according to the Jupiter Data Dashboard, in the past 24 hours within the Solana launchpad market share ranking, pump.fun held the top position with 70.2%, Letsbonk came in second with 21%, and Believe ranked third with 1.82%.</description>
-      <pubDate>Tue, 02 Sep 2025 03:56:54 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:56:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27270</guid>
       <category>crypto</category>
@@ -34,7 +91,7 @@
       <title>A whale closed a long position on 41,931 ETH 5 hours ago, with a loss of over $30 million in the past week.</title>
       <link>https://www.lookonchain.com/feeds/27269</link>
       <description>On September 2nd, according to the monitoring of LookOnChain, a whale has suffered a loss of more than 30 million USD in the past week. The whale with the address 0xa523 has always been longing for ETH at high levels and closing positions at low levels.5 hours ago, they closed a long position of 41,931 ETH (179.4 million USD), suffering another loss of 10 million USD.They still hold a long position of 36,578 ETH (160 million USD), with a total loss of more than 30 million USD.</description>
-      <pubDate>Tue, 02 Sep 2025 03:40:54 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:40:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27269</guid>
       <category>crypto</category>
@@ -55,7 +112,7 @@
       <title>A certain ETH Whale is suspected to have accumulated 3000 ETH in the past 10 minutes.</title>
       <link>https://www.lookonchain.com/feeds/27268</link>
       <description>On September 2nd, as monitored by on-chain analyst Ai Auntie (@ai_9684xtpa), a suspected ETH whale engaged in a short-term trade and accumulated 3000 ETH within the past 10 minutes. The value of these ETH is $13.03 million, with an average entry price of $4344.From June 10, 2025, to August 29, this whale made a profit of over $9.56 million by buying low and selling high ETH. The withdrawal price was $2563, the recharge price was $3905, and the return rate was 52.3%.</description>
-      <pubDate>Tue, 02 Sep 2025 03:32:54 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:33:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27268</guid>
       <category>crypto</category>
@@ -72,10 +129,28 @@
 
     </item>
     <item>
+      <title>Sky Protocol: In August, a $5.5 million buyback was conducted to repurchase 73 million SKY</title>
+      <link>https://www.lookonchain.com/feeds/27264</link>
+      <description>On September 2nd, Sky Protocol tweeted that in August, the protocol allocated a total of 5.5 million USDS for token buybacks and repurchased a combined total of 73 million SKY tokens. Since the initiation of the buyback program, the protocol has expended approximately 75 million dollars on buybacks.</description>
+      <pubDate>Tue, 02 Sep 2025 03:32:21 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27264</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Spot Gold Breaks $3500/oz, Hits New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/27267</link>
       <description>On September 2nd, the price of gold exceeded $3500 per ounce, reaching a new record high. Since 2025, the spot gold price has cumulatively increased by 33%, highlighting the continuous growth in the safe-haven value of gold against the backdrop of global macroeconomic uncertainty and intensified market volatility. Data indicates that in 2025, the proportion of gold held by global central banks as part of their foreign exchange reserves exceeded that of U.S. Treasury bonds for the first time. Central bank gold purchases and the Fed&apos;s rate cuts will continue to support the gold price, and Bank of America and Goldman Sachs are optimistic about the gold price reaching $4000.Introduced by Matrixdock, XAUm, as one of the top 3 on-chain adoption rates of gold tokens, effectively combines the traditional value of gold with digital accessibility, providing the market with a convenient way to efficiently allocate gold assets. XAUm is pegged 1:1 to physical gold and is backed by 100% LBMA-certi</description>
-      <pubDate>Tue, 02 Sep 2025 03:32:54 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:32:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27267</guid>
       <category>crypto</category>
@@ -93,7 +168,7 @@
       <title>The ETF Store President: XRP ETF Approval Probability Approaching 100% by 2025</title>
       <link>https://www.lookonchain.com/feeds/27266</link>
       <description>On September 2nd, Nate Geraci, the president of The ETF Store, posted on X and said: &quot;The probability of an XRP ETF being approved in 2025 on Polymarket is 87%. Personally, I think it is closer to 100%. (This is not financial advice.)&quot;</description>
-      <pubDate>Tue, 02 Sep 2025 03:24:54 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:32:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27266</guid>
       <category>crypto</category>
@@ -107,28 +182,10 @@
 
     </item>
     <item>
-      <title>Sky Protocol: In August, a $5.5 million buyback was conducted to repurchase 73 million SKY</title>
-      <link>https://www.lookonchain.com/feeds/27264</link>
-      <description>On September 2nd, Sky Protocol tweeted that in August, the protocol allocated a total of 5.5 million USDS for token buybacks and repurchased a combined total of 73 million SKY tokens. Since the initiation of the buyback program, the protocol has expended approximately 75 million dollars on buybacks.</description>
-      <pubDate>Tue, 02 Sep 2025 03:16:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27264</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Among the top 10 holders of WLFI, 80% have chosen to take profits, while the top holder still retains the majority of the tokens.</title>
       <link>https://www.lookonchain.com/feeds/27265</link>
       <description>September 2nd. According to on-chain analyst Ai Yi (@ai_9684xtpa), the selling behavior of the top 10 WLFI holders is presented as follows:· 80% of the holders have decided to take profits partially or fully. Only TOP2 and TOP5 have not yet transferred or sold any tokens.· The TOP1 holder, moonmanifest.eth, chose to retain the majority of the tokens. With the decline of WLFI, the unrealized gains on their 1 billion tokens have experienced a significant pullback. However, based on the current price of $0.2318, they still hold a value of 2.3 billion US dollars.· The TOP6 holder, convexcuck.eth, sold $3.8 million worth of WLFI to 36 buyers through Whales Market. It is likely that they are a key trader in the platform&apos;s OTC WLFI trading.</description>
-      <pubDate>Tue, 02 Sep 2025 03:16:54 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:32:21 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27265</guid>
       <category>crypto</category>
@@ -140,63 +197,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>profit</category>
-
-    </item>
-    <item>
-      <title>Hyperliquid&apos;s August Revenue Surpasses $100 Million, Setting a New All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/27263</link>
-      <description>On September 2nd, according to DefiLlama data, Hyperliquid&apos;s revenue in August reached $1.0641 billion, reaching a new high. Meanwhile, its annualized revenue came to $12.51 billion, and the platform&apos;s total accumulated revenue has reached $5.1208 billion.BlockBeats Note: Annualized revenue refers to a method of converting the revenue data for a current period of time into an estimated annual revenue.</description>
-      <pubDate>Tue, 02 Sep 2025 03:08:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27263</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The Ethereum PoS Network&apos;s ETH Staked for Withdrawal has decreased to 879,000, while over 850,000 ETH are queued to join</title>
-      <link>https://www.lookonchain.com/feeds/27262</link>
-      <description>September 2nd. Based on the data from the Validator Queue tracking website validatorqueue, the current amount of ETH leaving the Ethereum PoS network queue has been continuously decreasing for 4 days. It currently stands at 879,063 ETH, which is approximately valued at 3.82 billion US dollars. The exit wait time is about 15 days and 6 hours.Meanwhile, the amount of ETH queued to join the network has increased to around 857,719 ETH, with a value of approximately 3.72 billion US dollars. The estimated activation delay is about 14 days and 21 hours.Previously reported, this situation reflects the existence of two opposing forces in the market. On the one hand, some stakers may have decided to cash out after Ethereum experienced a significant rebound from the April low, resulting in a surge in the exit queue. On the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also pushing up the entry queue. Listed companies such as SharpLink Gaming and B</description>
-      <pubDate>Tue, 02 Sep 2025 03:00:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27262</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Bitcoin Surpasses $110,000</title>
-      <link>https://www.lookonchain.com/feeds/27261</link>
-      <description>On September 2nd, according to HTX market data, Bitcoin exceeded $110,000 and had a 24-hour increase of 2.33%.</description>
-      <pubDate>Tue, 02 Sep 2025 03:00:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27261</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
