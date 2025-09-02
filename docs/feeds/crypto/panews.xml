@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 13:41:28 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 13:41:28 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 13:54:54 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 13:54:54 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,44 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>BTC突破111000美元，日内涨幅 2.09%</title>
+      <link>https://www.panewslab.com/zh/articles/cc8c9ky6</link>
+      <description>BTC突破111000美元，日内涨幅 2.09%</description>
+      <pubDate>Tue, 02 Sep 2025 13:54:54 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cc8c9ky6</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Propanc Biopharma拟收购1亿美元Ethereum以多元化资产</title>
+      <link>https://www.panewslab.com/zh/articles/302543eb-34a2-471f-87f9-65bfcb2824ec</link>
+      <description>Propanc Biopharma拟收购1亿美元Ethereum以多元化资产</description>
+      <pubDate>Tue, 02 Sep 2025 13:52:54 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/302543eb-34a2-471f-87f9-65bfcb2824ec</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>Starknet：已确认导致网络中断的原因，正在部署修复方案</title>
       <link>https://www.panewslab.com/zh/articles/d4848be4-7ada-41db-83c7-dc49ffe4deb2</link>
       <description>Starknet：已确认导致网络中断的原因，正在部署修复方案</description>
-      <pubDate>Tue, 02 Sep 2025 13:41:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:50:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d4848be4-7ada-41db-83c7-dc49ffe4deb2</guid>
       <category>crypto</category>
@@ -32,7 +66,7 @@
       <title>美股三大指数大幅低开，宣布建立DOGE储备的ZONE暴跌超58%</title>
       <link>https://www.panewslab.com/zh/articles/88902221-fbba-4c17-a8df-1e4ff7b4382c</link>
       <description>美股三大指数大幅低开，宣布建立DOGE储备的ZONE暴跌超58%</description>
-      <pubDate>Tue, 02 Sep 2025 13:39:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:48:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/88902221-fbba-4c17-a8df-1e4ff7b4382c</guid>
       <category>crypto</category>
@@ -47,7 +81,7 @@
       <title>Tron Inc.获控股股东追加1.1亿美元投资，TRX金库增至2.2亿美元</title>
       <link>https://www.panewslab.com/zh/articles/8b1f5731-4f28-42cd-881b-cacc1d1f75d6</link>
       <description>Tron Inc.获控股股东追加1.1亿美元投资，TRX金库增至2.2亿美元</description>
-      <pubDate>Tue, 02 Sep 2025 13:37:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:46:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8b1f5731-4f28-42cd-881b-cacc1d1f75d6</guid>
       <category>crypto</category>
@@ -62,7 +96,7 @@
       <title>Empery Digital回购逾100万股并增持16.51枚比特币</title>
       <link>https://www.panewslab.com/zh/articles/8567c735-9e05-4584-a487-f1dc554bed2b</link>
       <description>Empery Digital回购逾100万股并增持16.51枚比特币</description>
-      <pubDate>Tue, 02 Sep 2025 13:35:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:44:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8567c735-9e05-4584-a487-f1dc554bed2b</guid>
       <category>crypto</category>
@@ -79,7 +113,7 @@
       <title>外媒：OpenAI和xAI对Cursor的代码数据表现出兴趣</title>
       <link>https://www.panewslab.com/zh/articles/0674386a-9286-499c-bf84-6b7b38e55aaa</link>
       <description>外媒：OpenAI和xAI对Cursor的代码数据表现出兴趣</description>
-      <pubDate>Tue, 02 Sep 2025 13:33:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:42:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0674386a-9286-499c-bf84-6b7b38e55aaa</guid>
       <category>crypto</category>
@@ -94,7 +128,7 @@
       <title>CleanCore Solutions宣布1.75亿美元私募建官方Dogecoin储备金</title>
       <link>https://www.panewslab.com/zh/articles/b5820baa-ea0d-4543-9944-7c40d35db180</link>
       <description>CleanCore Solutions宣布1.75亿美元私募建官方Dogecoin储备金</description>
-      <pubDate>Tue, 02 Sep 2025 13:31:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:40:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b5820baa-ea0d-4543-9944-7c40d35db180</guid>
       <category>crypto</category>
@@ -109,7 +143,7 @@
       <title>ETH跌破4300美元，日内下跌 1.51%</title>
       <link>https://www.panewslab.com/zh/articles/zzxi52hh</link>
       <description>ETH跌破4300美元，日内下跌 1.51%</description>
-      <pubDate>Tue, 02 Sep 2025 13:29:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:38:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/zzxi52hh</guid>
       <category>crypto</category>
@@ -126,7 +160,7 @@
       <title>BTC跌破109000美元，日内涨幅 0.19%</title>
       <link>https://www.panewslab.com/zh/articles/b7ebm5w0</link>
       <description>BTC跌破109000美元，日内涨幅 0.19%</description>
-      <pubDate>Tue, 02 Sep 2025 13:27:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:36:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b7ebm5w0</guid>
       <category>crypto</category>
@@ -143,7 +177,7 @@
       <title>Venus Protocol：协议将继续暂停，旨在防止黑客转移用户资产</title>
       <link>https://www.panewslab.com/zh/articles/65f1c172-5897-4cf8-afc5-a96adb4551c4</link>
       <description>Venus Protocol：协议将继续暂停，旨在防止黑客转移用户资产</description>
-      <pubDate>Tue, 02 Sep 2025 13:25:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:34:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/65f1c172-5897-4cf8-afc5-a96adb4551c4</guid>
       <category>crypto</category>
@@ -158,7 +192,7 @@
       <title>一地址将6,294枚ETH转入Bybit，预计盈利376万美元</title>
       <link>https://www.panewslab.com/zh/articles/b26b1c13-204e-41db-98af-cfcfa5e02d2e</link>
       <description>一地址将6,294枚ETH转入Bybit，预计盈利376万美元</description>
-      <pubDate>Tue, 02 Sep 2025 13:23:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:32:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b26b1c13-204e-41db-98af-cfcfa5e02d2e</guid>
       <category>crypto</category>
@@ -175,7 +209,7 @@
       <title>OpenLedger基金会：OPEN代币空投预注册已上线</title>
       <link>https://www.panewslab.com/zh/articles/c696256b-7163-4523-8b97-61a2d063b75c</link>
       <description>OpenLedger基金会：OPEN代币空投预注册已上线</description>
-      <pubDate>Tue, 02 Sep 2025 13:21:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:30:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c696256b-7163-4523-8b97-61a2d063b75c</guid>
       <category>crypto</category>
@@ -190,7 +224,7 @@
       <title>云锋金融：购买10000枚ETH，总投资成本4400万美元</title>
       <link>https://www.panewslab.com/zh/articles/f99aaf8d-42a0-4d56-8ed2-2ad8885e2ce8</link>
       <description>云锋金融：购买10000枚ETH，总投资成本4400万美元</description>
-      <pubDate>Tue, 02 Sep 2025 13:19:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:28:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f99aaf8d-42a0-4d56-8ed2-2ad8885e2ce8</guid>
       <category>crypto</category>
@@ -207,7 +241,7 @@
       <title>ETHZilla宣布1亿美元ETH将用于EtherFi再质押</title>
       <link>https://www.panewslab.com/zh/articles/e034dcf7-1832-47f7-a509-a2461245daf1</link>
       <description>ETHZilla宣布1亿美元ETH将用于EtherFi再质押</description>
-      <pubDate>Tue, 02 Sep 2025 13:17:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:26:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e034dcf7-1832-47f7-a509-a2461245daf1</guid>
       <category>crypto</category>
@@ -224,7 +258,7 @@
       <title>BNC的BNB持有量增至388,888枚，目标年底达供应量1%</title>
       <link>https://www.panewslab.com/zh/articles/cc12f223-669e-4ade-83f6-237309f10233</link>
       <description>BNC的BNB持有量增至388,888枚，目标年底达供应量1%</description>
-      <pubDate>Tue, 02 Sep 2025 13:15:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:24:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/cc12f223-669e-4ade-83f6-237309f10233</guid>
       <category>crypto</category>
@@ -239,7 +273,7 @@
       <title>Kite获PayPal及General Catalyst领投1800万美元融资</title>
       <link>https://www.panewslab.com/zh/articles/67fc69e7-81fb-49e7-b588-4935b513dba5</link>
       <description>Kite获PayPal及General Catalyst领投1800万美元融资</description>
-      <pubDate>Tue, 02 Sep 2025 13:13:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:22:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/67fc69e7-81fb-49e7-b588-4935b513dba5</guid>
       <category>crypto</category>
@@ -254,7 +288,7 @@
       <title>SharpLink新增39,008枚ETH，总持仓达837,230枚</title>
       <link>https://www.panewslab.com/zh/articles/f10df14e-cb10-4b4e-85bd-343140cf0183</link>
       <description>SharpLink新增39,008枚ETH，总持仓达837,230枚</description>
-      <pubDate>Tue, 02 Sep 2025 13:11:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:20:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f10df14e-cb10-4b4e-85bd-343140cf0183</guid>
       <category>crypto</category>
@@ -271,7 +305,7 @@
       <title>Strategy新增购入4048枚BTC，持仓总量达636,505枚</title>
       <link>https://www.panewslab.com/zh/articles/9a6af9a3-eae2-4099-b01c-25c687d0b54b</link>
       <description>Strategy新增购入4048枚BTC，持仓总量达636,505枚</description>
-      <pubDate>Tue, 02 Sep 2025 13:09:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:18:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9a6af9a3-eae2-4099-b01c-25c687d0b54b</guid>
       <category>crypto</category>
@@ -288,41 +322,9 @@
       <title>PANews 主题 X Space「 RWA 崛起：从链上资产到全球金融新秩序」直播中</title>
       <link>https://www.panewslab.com/zh/articles/9066d881-c528-4d0d-b460-df8c5fcd8c8c</link>
       <description>PANews 主题 X Space「 RWA 崛起：从链上资产到全球金融新秩序」直播中</description>
-      <pubDate>Tue, 02 Sep 2025 13:07:28 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 13:16:54 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9066d881-c528-4d0d-b460-df8c5fcd8c8c</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>BitMine公布持仓数据：加密货币及现金总持有量达89.8亿美元，包括约186.7万枚ETH</title>
-      <link>https://www.panewslab.com/zh/articles/b8272a36-4f46-4067-8c7f-c782830cbc47</link>
-      <description>BitMine公布持仓数据：加密货币及现金总持有量达89.8亿美元，包括约186.7万枚ETH</description>
-      <pubDate>Tue, 02 Sep 2025 13:05:28 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b8272a36-4f46-4067-8c7f-c782830cbc47</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Sharps Technology宣布已收购逾200万枚SOL</title>
-      <link>https://www.panewslab.com/zh/articles/230887cf-f4f4-49e6-93ac-1381e654d2fd</link>
-      <description>Sharps Technology宣布已收购逾200万枚SOL</description>
-      <pubDate>Tue, 02 Sep 2025 13:03:28 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/230887cf-f4f4-49e6-93ac-1381e654d2fd</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
