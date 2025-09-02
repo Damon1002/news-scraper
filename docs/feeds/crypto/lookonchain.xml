@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 12:30:13 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 12:30:13 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 13:09:31 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 13:09:31 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,51 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>BNB Treasury Company BNC Increases Holding by 38,888 BNB, Approximately $33 Million</title>
-      <link>https://www.lookonchain.com/feeds/27362</link>
-      <description>On September 2nd, BNB Treasury Company CEA Industries Inc. (Nasdaq: BNC) announced that it has raised its holdings by 38,888 BNB, with an approximate value of $33 million. Currently, its total BNB holdings amount to 388,888 BNB, approximately $330 million.CEA Industries indicated that it intends to hold 1% of the total BNB supply by the end of 2025.</description>
-      <pubDate>Tue, 02 Sep 2025 12:24:21 +0000</pubDate>
+      <title>Community Alert: Bitcoin Hashpower Platform Bitroo Has Been Offline for Over a Year and a Half, and Users Are Still Unable to Withdraw Funds</title>
+      <link>https://www.lookonchain.com/feeds/27372</link>
+      <description>On September 2nd, the Bitcoin hashrate leasing and resale platform Bitroo has been experiencing abnormal withdrawal operations since April 2024. Users still cannot withdraw funds normally, resulting in a large amount of user funds being frozen. Crypto influencer EncryptedWarrior stated that he had recharged 50,000 USDT and has not received an official response yet. It is understood that the founder of Bitroo is former Golden Finance CEO An Xinxin.According to community sources, Bitroo issued an official email statement in March 2025, stating that due to an accident at an upstream cooperative mine, hashrate leasing and mining machine hosting services have been temporarily suspended. The platform stated that it will conduct an account settlement according to the agreement and fully refund user investments.</description>
+      <pubDate>Tue, 02 Sep 2025 13:08:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27362</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27372</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>James Wynn&apos;s 25x leveraged ETH long position has been partially liquidated, with a liquidation price of $4,258.75</title>
+      <link>https://www.lookonchain.com/feeds/27371</link>
+      <description>On September 2nd, as monitored by OnchainLens, James Wynn&apos;s 25x leveraged long position in ETH was partially liquidated once again. Presently, he still maintains a long position in ETH with a nominal value of $300,000. The opening price is $4,317.85 and the liquidation price is $4,258.75.</description>
+      <pubDate>Tue, 02 Sep 2025 13:00:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27371</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>CleanCore Solutions is planning to raise $175 million to implement the DOGE Treasury Strategic Plan, with pre-market trading seeing a temporary drop of over 70%.</title>
+      <link>https://www.lookonchain.com/feeds/27370</link>
+      <description>On September 2nd, the U.S. listed company CleanCore Solutions, Inc. (ZONE) announced that it had entered into a Securities Purchase Agreement to issue and sell 175,000,420 pre-funded warrants in a private investment in public equity (PIPE) offering. The total expected proceeds were approximately $175 million, net of placement agent fees and other offering expenses (funded with a combination of cash and cryptocurrency), in order to implement the DOGE Treasury strategy.According to market data, after the announcement of the implementation of the DOGE Treasury strategy, CleanCore Solutions, Inc. (ZONE) saw a plunge of over 70% in pre-market trading.</description>
+      <pubDate>Tue, 02 Sep 2025 12:56:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27370</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -32,12 +71,12 @@
 
     </item>
     <item>
-      <title>PublicAI has announced a partnership with Chainlink, causing PUBLIC to surge over 39% in half an hour.</title>
-      <link>https://www.lookonchain.com/feeds/27363</link>
-      <description>On September 2nd, the decentralized AI data platform PublicAI announced a partnership with the Oracle Network Chainlink in order to enhance its data validation and distribution capabilities.Meanwhile, PublicAI announced a token buyback of 2 million, which led to the token PUBLIC surging by 39% within half an hour and is now trading at $0.073.</description>
-      <pubDate>Tue, 02 Sep 2025 12:24:21 +0000</pubDate>
+      <title>Venus: Protocol Will Remain Paused and Assist Affected Users in Fund Recovery Efforts</title>
+      <link>https://www.lookonchain.com/feeds/27369</link>
+      <description>On September 2nd, the Venus Protocol issued a security incident update indicating that they have had direct contact with the victim of a phishing attack. The protocol will be paused, and Venus will make every endeavor to recover their funds. Venus was not affected and is dedicated to safeguarding user security.</description>
+      <pubDate>Tue, 02 Sep 2025 12:56:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27363</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27369</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -49,10 +88,95 @@
 
     </item>
     <item>
+      <title>Bitcoin Drops Below $109,000, Ethereum Falls Below $4,300</title>
+      <link>https://www.lookonchain.com/feeds/27368</link>
+      <description>On September 2nd, based on HTX market data, Bitcoin fell below $109,000, experiencing a 24-hour decline of 0.22%; Ethereum dropped below $4,300, with a 24-hour decrease of 2.16%.</description>
+      <pubDate>Tue, 02 Sep 2025 12:48:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27368</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A Whale Wallet Linked to Fraudulent Initial Coin Offering (ICO) Projects Has Dumped Approximately 50.22 Million Tokens, Profiting Around $8.78 Million</title>
+      <link>https://www.lookonchain.com/feeds/27367</link>
+      <description>On September 2nd, as monitored by The Data Nerd, 4 hours ago, a whale address beginning with 0xFAc deposited the final 5.4 million WLFI into Binance (approximately $1.35 million). By selling 20% of the unlocked tokens (approximately 50.22 million tokens), this address has achieved a profit of approximately $8.78 million, with an investment return rate of 226%. The address still holds 80% of the locked tokens, which is approximately 202 million tokens.</description>
+      <pubDate>Tue, 02 Sep 2025 12:40:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27367</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>profit</category>
+
+    </item>
+    <item>
+      <title>Greeks.Live: Ethereum Shows Significant Relative Weakness to Bitcoin, Market Exhibits Divergence Pattern</title>
+      <link>https://www.lookonchain.com/feeds/27366</link>
+      <description>September 2nd, Greeks.Live issued its daily market brief. It indicates that the overall market is disappointed with the performance of Ethereum. It is believed that Ethereum has weakened significantly compared to Bitcoin. Traders have shifted to a generally bullish stance on allocating to Bitcoin, resulting in a market situation where Bitcoin rises alone while mainstream coins experience a widespread decline. The market has witnessed whale buy orders of 260,000 ETH, and there is intense long and short speculation around the $4,400 price level.</description>
+      <pubDate>Tue, 02 Sep 2025 12:40:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27366</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>A whale transferred 6294 ETH to a CEX 20 minutes ago, worth $27.56 million</title>
+      <link>https://www.lookonchain.com/feeds/27365</link>
+      <description>On September 2nd, according to EmberCN&apos;s monitoring, a whale transferred 6,294 ETH to Bybit 20 minutes ago, which is worth $27.56 million.The address accumulated these ETH a month ago. At that time, the average buy-in price was $3,779, and the value was $23.71 million. It is estimated that the profit from this sale is $3.76 million.</description>
+      <pubDate>Tue, 02 Sep 2025 12:32:38 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27365</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
       <title>Yunfeng Financial has announced the purchase of 10,000 ETH to establish an Ethereum asset reserve.</title>
       <link>https://www.lookonchain.com/feeds/27364</link>
       <description>On September 2nd, the Hong Kong-listed company CF Benchmarks (00376.HK) announced that the company&apos;s board of directors has given the green light to the purchase of ETH on the open market as a reserve asset. As of the announcement date, the group has purchased a total of 10,000 ETH on the open market, with a total investment cost (including fees and expenses) of $44 million. The funds used for this purchase are from the group&apos;s internal cash reserves, and the purchased ETH is classified as investment assets in the group&apos;s financial statements.</description>
-      <pubDate>Tue, 02 Sep 2025 12:24:21 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 12:24:38 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27364</guid>
       <category>crypto</category>
@@ -68,12 +192,12 @@
 
     </item>
     <item>
-      <title>Artificial Intelligence Blockchain Startup Kite Completes $18 Million Series A Funding Round, Lead by PayPal and General Catalyst</title>
-      <link>https://www.lookonchain.com/feeds/27359</link>
-      <description>On September 2nd, as reported by Fortune, the artificial intelligence blockchain startup Kite announced the completion of a $18 million Series A financing round. This round was led by PayPal and General Catalyst, and it also involved the participation of 8 venture capitalists (VCs), Samsung Next, and Alumni Ventures.The co-founder and CEO of Kite declined to disclose the valuation of the startup. Additionally, it was not revealed whether this financing round was purely equity financing or token-based convertible securities.</description>
-      <pubDate>Tue, 02 Sep 2025 12:16:21 +0000</pubDate>
+      <title>PublicAI has announced a partnership with Chainlink, causing PUBLIC to surge over 39% in half an hour.</title>
+      <link>https://www.lookonchain.com/feeds/27363</link>
+      <description>On September 2nd, the decentralized AI data platform PublicAI announced a partnership with the Oracle Network Chainlink in order to enhance its data validation and distribution capabilities.Meanwhile, PublicAI announced a token buyback of 2 million, which led to the token PUBLIC surging by 39% within half an hour and is now trading at $0.073.</description>
+      <pubDate>Tue, 02 Sep 2025 12:24:38 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27359</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27363</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -82,120 +206,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>SharpLink increased its holding by 39,008 ETH at an average price of $4,531, surpassing a total holding of 837,000 ETH.</title>
-      <link>https://www.lookonchain.com/feeds/27361</link>
-      <description>On September 2nd, the second-largest treasury company of Ethereum, SharpLink (SBET), announced that it has increased its holdings by an average price of approximately $4,531 and acquired 39,008 ETH. As a result, its total holding has reached 837,230 ETH, which is worth approximately $3.6 billion.Since its launch on June 2nd, it has received a total of 2,318 ETH in staking rewards. Additionally, it has a remaining cash balance of over $71.6 million that has not yet been deployed.</description>
-      <pubDate>Tue, 02 Sep 2025 12:16:21 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27361</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Pre-market Trading: US Stock Index Futures Weaken, Nasdaq Futures Down Nearly 1%</title>
-      <link>https://www.lookonchain.com/feeds/27360</link>
-      <description>On September 2nd, based on market data, the pre-market trading of the three major US stock index futures is in a downtrend. The Nasdaq futures is down by nearly 1%.</description>
-      <pubDate>Tue, 02 Sep 2025 12:16:21 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27360</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>ETHZilla plans to deploy around $100 million worth of Ethereum to EtherFi.</title>
-      <link>https://www.lookonchain.com/feeds/27357</link>
-      <description>On September 2nd, ETHZilla Corporation, a US-listed company, announced today that it intends to allocate approximately $100 million worth of Ethereum to the EtherFi liquidity restaking protocol in order to enhance its treasury yield. The company currently possesses 102,246 ETH, with a total value of approximately $456 million, and the average acquisition price is $3,948.72.</description>
-      <pubDate>Tue, 02 Sep 2025 12:08:21 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27357</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Drin Holdings Subscribes to Asseto Equity and Pengu Software Shares, Plans to Launch RWA Digital Asset Platform</title>
-      <link>https://www.lookonchain.com/feeds/27358</link>
-      <description>September 2nd, the Hong Kong-listed company Delin Holdings issued a supplementary announcement. It was disclosed that the company has subscribed to the equity of Asseto Holding Limited. Additionally, the management fund of the group has subscribed to shares of Pangu Software Pte Ltd.Delin Holdings stated that the post-transaction valuation of the equity subscription in Asseto is $40 million, with the quantity of Class A common shares reaching 77,352 shares. The subscription amount for Pangu Software Pte Ltd is $1 million. Both parties will jointly establish a digital asset platform that covers the tokenization of real-world assets (RWA) in both the virtual and physical worlds.</description>
-      <pubDate>Tue, 02 Sep 2025 12:08:21 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27358</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Strategy Announces Purchase of 4,048 Bitcoins</title>
-      <link>https://www.lookonchain.com/feeds/27356</link>
-      <description>On September 2nd, it was announced by Strategy that it had augmented its holdings by 4,048 bitcoins. The average purchase price was $110,981. Currently, Strategy holds a grand total of 636,505 bitcoins.</description>
-      <pubDate>Tue, 02 Sep 2025 12:08:21 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27356</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>U.S. publicly traded company Hyperscale Data will add approximately $20 million worth of Bitcoin to its balance sheet.</title>
-      <link>https://www.lookonchain.com/feeds/27355</link>
-      <description>On September 2nd, as per the Associated Press, the publicly traded U.S. company Hyperscale Data (GPUS) declared that it is going to add approximately $20 million worth of Bitcoin to its balance sheet.It is important to note that Hyperscale Data has a market capitalization of approximately $15 million.</description>
-      <pubDate>Tue, 02 Sep 2025 11:56:21 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27355</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
   </channel>
