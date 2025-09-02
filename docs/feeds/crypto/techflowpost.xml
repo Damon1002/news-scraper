@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Sep 2025 07:21:45 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Sep 2025 07:21:45 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 07:38:02 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 07:38:02 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>分析师：比特币当前回调幅度较温和，更可能是修复阶段，而非全面抛售</title>
+      <link>https://www.techflowpost.com</link>
+      <description>CryptoQuant 分析师 Axel Adler Jr 发文表示 ，比特币当前从历史高点的回调幅度为 -12.8%。在本轮牛市周期中，局部高点后的回调幅度主要集中在 -10% 至 -18% 区间，而更深度的调整通常延伸至 -20% 至 -30%。目前 -12.8% 的回调幅度更接近温和区间，这...</description>
+      <pubDate>Tue, 02 Sep 2025 07:33:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>日本加密货币交易所 Coincheck 收购法国持牌经纪商 Aplo</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 CoinDesk 报道，日本加密货币交易所 Coincheck 已收购法国持牌数字资产经纪商 Aplo。Aplo 目前持有法国金融市场管理局（AMF）颁发的牌照，并正在申请欧盟《加密资产市场监管法案》（MiCA）下的全面加密资产服务提供商牌照。根据公告，此次收购将通过股份交换方式进行，Aplo...</description>
+      <pubDate>Tue, 02 Sep 2025 07:29:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>《DAO 友请留步》第21期：深度探讨 HTX DAO 开发者生态的未来</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据HTX DAO官方社媒消息，《DAO 友请留步》第21期将于今日20时（UTC+8）开播。本期节目以“构建自由金融港：HTX DAO 的开发者机遇与生态演化”为主题，邀请HTX DAO Core Builder Helium、HTX DAO治理委员弗兰克Chen、RGB中文社区邦主、TinTin...</description>
+      <pubDate>Tue, 02 Sep 2025 07:28:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Hotcoin热币交易所即将上线Q及PTB现货和合约交易</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，WEEX 唯客交易所已上线 Aubrai by Bio (AUBRAI) 现货交易，并推出 AUBRAI 新人空投活动，总奖池 50,000 U。活动时间：9/1 18:00 - 9/8 18:00 (UTC+8)。活动期内，新用户净充值≥ 100 U，并首次现货交易 AUBRAI，即...</description>
       <pubDate>Tue, 02 Sep 2025 03:40:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某巨鲸做多以太坊一周内亏损超 3000 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析平台 Lookonchain（@lookonchain）监测，地址为 0xa523 的巨鲸在过去一周的以太坊多头交易中累计亏损超过 3000 万美元。该地址在近期高位持续做多以太坊，并在低位平仓。数据显示，该地址在过去 5 小时内平掉了 41,931 枚 ETH（约 1.794 亿美元）...</description>
-      <pubDate>Tue, 02 Sep 2025 03:37:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Hotcoin热币交易所将于9月2日上线USDUT及EMULITES现货交易</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据官方消息，Hotcoin热币交易所将于2025年9月2日上线以下交易对：USDUT/USDT（现货）上线时间：2025年9月2日12:00（UTC+8）USDUT是USDUT项目的代币。EMULITES/USDT（现货）上线时间：2025年9月2日12:00（UTC+8）EMULITES是Emu...</description>
-      <pubDate>Tue, 02 Sep 2025 03:32:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某 ETH 波段交易者新增建仓 3000 枚以太坊，价值 1303 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，某波段交易者于近 10 分钟内建仓 3000 枚 ETH，总价值约 1303 万美元，平均建仓价格为 4344 美元。该地址此前在 2025 年 6 月 10 日至 8 月 29 日期间，通过低价买入高价卖出 ETH 获利超 956 万美元，...</description>
-      <pubDate>Tue, 02 Sep 2025 03:29:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
