@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Sep 2025 06:32:51 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Sep 2025 06:32:51 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 06:50:54 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 06:50:54 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,71 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The current mainstream CEX and DEX funding rate display still indicates a bearish sentiment towards BTC and ETH in the market.</title>
+      <link>https://www.lookonchain.com/feeds/27496</link>
+      <description>On September 3rd, based on Coinglass data, the current funding rates of mainstream CEX and DEX show that the market still leans towards being bearish on BTC and ETH. The specific funding rates are presented in the attached image.BlockBeats Note: The funding rate is a fee set by cryptocurrency trading platforms to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a fund exchange mechanism between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or gain of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a general market bullish sentiment. When the funding rate is less than 0.005%, it indicates a general market bearish sentiment.</description>
+      <pubDate>Wed, 03 Sep 2025 06:49:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27496</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>「25x Short ETH Whale」 Opens 40x Bitcoin Short, Total Position Value Approaching $30 Million</title>
+      <link>https://www.lookonchain.com/feeds/27494</link>
+      <description>September 3rd. This morning, a whale transferred 3.25 million USDC to Hyperliquid and took a short position in ETH with a leverage of 25x. Subsequently, the same address opened a short position in Bitcoin with a leverage of 40x. The total position values were $12.93 million and $16.6 million respectively.</description>
+      <pubDate>Wed, 03 Sep 2025 06:33:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27494</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Japanese 30-Year Government Bond Yield Rises by 8.5 Basis Points to 3.285%, Reaching a Historic High</title>
+      <link>https://www.lookonchain.com/feeds/27495</link>
+      <description>On September 3rd, the yield of the 30-year Japanese government bond increased by 8.5 basis points to 3.285%, reaching a record high. (Golden Ten)</description>
+      <pubDate>Wed, 03 Sep 2025 06:33:02 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27495</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Web3 Infrastructure Sign Announces Landing in Hong Kong, Will Cooperate with Several Listed Companies in Hong Kong</title>
       <link>https://www.lookonchain.com/feeds/27493</link>
       <description>September 3rd. The CEO of Web3 infrastructure Sign, Xin Yan, announced today that Sign has established a presence in Hong Kong. It was noted that Sign will collaborate with several listed companies in Hong Kong at this stage to promote the large-scale adoption of various Web3 applications. Meanwhile, Sarah and Jerry will be in charge of building the Hong Kong team.In terms of talent, both technical and business positions are expected to start recruitment soon. On the community operation front, Sign plans to carry out activities in Hong Kong, including &quot;Orange Karaoke&quot; and offline meetups. The official stated that its community application, Orange Dynasty, is accelerating its global expansion.</description>
-      <pubDate>Wed, 03 Sep 2025 06:24:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 06:25:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27493</guid>
       <category>crypto</category>
@@ -34,7 +95,7 @@
       <title>OKX Wallet is officially launching the OKX Boost product, aiming to connect real users with innovative projects.</title>
       <link>https://www.lookonchain.com/feeds/27492</link>
       <description>On September 3rd, as per an official announcement, the OKX Wallet has officially launched the OKX Boost product. The aim is to establish an efficient bridge between on-chain innovative projects and real users. This product will offer OKX DEX Aggregator users the chance to participate in innovative projects at the earliest time. Meanwhile, it will assist projects in gaining exposure to real users. This upgrade integrates various activities such as Giveaway, Cryptopedia, and Trading Arena, forming three main modes: X Launch, Giveaway, and Trading Competition. It continuously optimizes the user experience based on the principles of fairness and transparency.In terms of functionality design, OKX Boost has introduced two key metrics: Boost Trading Volume and Boost Balance to determine user eligibility and potential rewards. At the same time, it implements a fully decentralized reward distribution mechanism to ensure that the fund collection and distribution processes operate at the Ownerl</description>
-      <pubDate>Wed, 03 Sep 2025 06:24:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 06:25:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27492</guid>
       <category>crypto</category>
@@ -51,7 +112,7 @@
       <title>Huobi HTX will be listed on SXT (Space and Time) at 17:00 on September 4th, with the addition of SXT/USDT (10X) isolated margin trading enabled simultaneously.</title>
       <link>https://www.lookonchain.com/feeds/27491</link>
       <description>On September 3rd, according to the announcement of Huobi HTX, the deposit service for SXT on Huobi HTX was opened at 18:00 (GMT+8) on September 2nd. The SXT/USDT spot trading will open at 17:00 (GMT+8) on September 4th. The withdrawal service for SXT will open at 17:00 (GMT+8) on September 5th. Meanwhile, Huobi Margin will add SXT/USDT (10X) isolated margin trading at 17:00 (GMT+8) on September 4th.It is reported that Space and Time is a blockchain of zero-knowledge proof (ZK) data supported by Microsoft. Its core is driven by Proof of SQL (sub-second ZK coprocessor), enabling smart contracts, AI agents, and on-chain applications to query on-chain and off-chain data on a large scale and verify the results through cryptographic proofs.</description>
-      <pubDate>Wed, 03 Sep 2025 06:24:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 06:25:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27491</guid>
       <category>crypto</category>
@@ -68,7 +129,7 @@
       <title>Ethereum Briefly Drops Below $4,300 Again</title>
       <link>https://www.lookonchain.com/feeds/27490</link>
       <description>On September 3rd, according to HTX market data, Ethereum once again briefly dropped below $4300 and is currently trading at $4297.9.</description>
-      <pubDate>Wed, 03 Sep 2025 06:08:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 06:09:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27490</guid>
       <category>crypto</category>
@@ -88,7 +149,7 @@
       <title>Binance Wallet&apos;s new Bonding Curve TGE project Hyperbot (BOT) has a participation threshold of 231 points</title>
       <link>https://www.lookonchain.com/feeds/27489</link>
       <description>September 3rd. As per the announcement on the Binance platform by the Binance Wallet account, the novel Bonding Curve TGE project Hyperbot (BOT) has a participation requirement of 231 points, and engaging in this activity will subtract 15 points.The event is scheduled to take place on September 3, 2025, from 8:00 AM to 10:00 AM (UTC).</description>
-      <pubDate>Wed, 03 Sep 2025 06:00:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 06:01:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27489</guid>
       <category>crypto</category>
@@ -105,7 +166,7 @@
       <title>Linea Network&apos;s DeFi TVL Surpasses $1 Billion, Setting a New All-Time High</title>
       <link>https://www.lookonchain.com/feeds/27488</link>
       <description>On September 3rd, according to DefiLlama data, the DeFi TVL of the Linea Network has exceeded 1 billion US dollars. It is currently at 1.02 billion US dollars, with a 24-hour growth rate of more than 18% and has hit a new all-time high.The current top three TVL DeFi protocols on the network are Aave ($6.12 billion), Etherex ($2.32 billion), and Renzo ($2.02 billion) (it should be noted that some protocols may have overlapping calculations).In earlier news, Linea announced the launch of the Ignition liquidity incentive program and distributed 1 billion LINEA tokens as rewards. Etherex, Aave, and Euler are designated partners for this event.</description>
-      <pubDate>Wed, 03 Sep 2025 05:56:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 05:57:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27488</guid>
       <category>crypto</category>
@@ -123,7 +184,7 @@
       <title>A whale deposited 3.25 million USDC into Hyperliquid and shorted ETH with 25x leverage.</title>
       <link>https://www.lookonchain.com/feeds/27487</link>
       <description>On September 3rd, based on LookOnChain&apos;s monitoring, a whale deposited 3.25 million USDC into Hyperliquid and employed 25x leverage to take a short position on ETH.The address&apos;s position is 3,000 ETH (valued at approximately $12.98 million), and the liquidation price is $5,291.9.</description>
-      <pubDate>Wed, 03 Sep 2025 05:48:58 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 05:50:02 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27487</guid>
       <category>crypto</category>
@@ -138,60 +199,6 @@
       <category>ethereum</category>
       <category>whale</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Fosun Wealth Holdings leveraged Vaulta technology to tokenize $328 million worth of stocks, with Solana as the underlying technology stack for issuance and settlement.</title>
-      <link>https://www.lookonchain.com/feeds/27486</link>
-      <description>On September 3rd, Fosun Wealth Holdings announced that it has tokenized the stock of Sisram Medical, which is listed in Hong Kong, with a value of $328 million.The company indicated that this initiative will make use of Vaulta&apos;s &quot;Banking Operating System&quot; and incorporate Solana into its issuance and settlement technology framework.</description>
-      <pubDate>Wed, 03 Sep 2025 05:48:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27486</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Analysis: Hong Kong Stablecoin License Application Intent Far Exceeds Expectations, HKMA May Issue More Licenses in the Future</title>
-      <link>https://www.lookonchain.com/feeds/27485</link>
-      <description>September 3rd. As per Aastocks, Ma Yingcong, the Director of the United Nations Hong Kong Fund Greater Bay Area Development Research, mentioned in an interview with Radio Television Hong Kong that the distinct regulatory and policy orientation of the Hong Kong Stablecoin has lured numerous institutions. Presently, the willingness to apply for a license far surpasses expectations. It is held that large technology companies are inclined to utilize stablecoins in payment scenarios, while traditional financial institutions may apply them to cross-border settlements. If the first batch of stablecoin-licensed institutions operate effectively, it will prompt the Hong Kong Monetary Authority to issue more licenses in the future.</description>
-      <pubDate>Wed, 03 Sep 2025 05:48:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27485</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Data: Over the past week, over 500,000 ETH has flowed out of cryptocurrency exchanges</title>
-      <link>https://www.lookonchain.com/feeds/27484</link>
-      <description>On September 3rd, according to CryptoQuant data, in the past week, a total of more than 500,000 ETH has flowed out of cryptocurrency exchanges, amounting to approximately $2.1 billion.</description>
-      <pubDate>Wed, 03 Sep 2025 05:31:58 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27484</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
