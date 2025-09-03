@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Sep 2025 08:23:50 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Sep 2025 08:23:50 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 08:45:08 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 08:45:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,57 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Glassnode：持有100至1万枚BTC的巨鲸平均持仓量降至488枚，回落至2018年12月的水平</title>
+      <link>https://www.panewslab.com/zh/articles/32aebcc6-a4cf-439c-9a53-acba7eb6e457</link>
+      <description>Glassnode：持有100至1万枚BTC的巨鲸平均持仓量降至488枚，回落至2018年12月的水平</description>
+      <pubDate>Wed, 03 Sep 2025 08:45:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/32aebcc6-a4cf-439c-9a53-acba7eb6e457</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>数据：香港虚拟资产ETF今日成交额约3584.3万港元</title>
+      <link>https://www.panewslab.com/zh/articles/6a4637d8-18ae-4a74-a6db-65997ebcbc79</link>
+      <description>数据：香港虚拟资产ETF今日成交额约3584.3万港元</description>
+      <pubDate>Wed, 03 Sep 2025 08:43:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6a4637d8-18ae-4a74-a6db-65997ebcbc79</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Jump于4小时前从CEX提取5068万枚WLFI，价值约1158万美元</title>
+      <link>https://www.panewslab.com/zh/articles/7310e94d-ec66-4e83-993e-a92121ed05dc</link>
+      <description>Jump于4小时前从CEX提取5068万枚WLFI，价值约1158万美元</description>
+      <pubDate>Wed, 03 Sep 2025 08:41:08 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7310e94d-ec66-4e83-993e-a92121ed05dc</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>欧洲央行行长呼吁弥补欧盟稳定币监管漏洞</title>
       <link>https://www.panewslab.com/zh/articles/bb982fb2-02ac-47f3-a33a-9e60cdc828e3</link>
       <description>欧洲央行行长呼吁弥补欧盟稳定币监管漏洞</description>
-      <pubDate>Wed, 03 Sep 2025 08:23:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:39:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bb982fb2-02ac-47f3-a33a-9e60cdc828e3</guid>
       <category>crypto</category>
@@ -32,7 +79,7 @@
       <title>火币HTX已上线Q、SOMI永续合约，并启动合约交易派对</title>
       <link>https://www.panewslab.com/zh/articles/b7a9cf2e-a9fa-4ada-bd90-8fc7c2e56c24</link>
       <description>火币HTX已上线Q、SOMI永续合约，并启动合约交易派对</description>
-      <pubDate>Wed, 03 Sep 2025 08:21:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:37:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b7a9cf2e-a9fa-4ada-bd90-8fc7c2e56c24</guid>
       <category>crypto</category>
@@ -47,7 +94,7 @@
       <title>某地址转入币安7500枚ETH，预计盈利670万美元</title>
       <link>https://www.panewslab.com/zh/articles/6352e547-7c78-4b24-b378-0b9fa6124efd</link>
       <description>某地址转入币安7500枚ETH，预计盈利670万美元</description>
-      <pubDate>Wed, 03 Sep 2025 08:19:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:35:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6352e547-7c78-4b24-b378-0b9fa6124efd</guid>
       <category>crypto</category>
@@ -64,7 +111,7 @@
       <title>OKX将新增WLFI/USD和PROMPT/USD现货交易对</title>
       <link>https://www.panewslab.com/zh/articles/7e87c13e-e1eb-417d-971c-5213a96fe249</link>
       <description>OKX将新增WLFI/USD和PROMPT/USD现货交易对</description>
-      <pubDate>Wed, 03 Sep 2025 08:17:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:33:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7e87c13e-e1eb-417d-971c-5213a96fe249</guid>
       <category>crypto</category>
@@ -79,7 +126,7 @@
       <title>Paradigm Reth客户端漏洞致部分以太坊节点中断</title>
       <link>https://www.panewslab.com/zh/articles/46c86a4d-ac7b-4260-9720-c0f1b47f8b20</link>
       <description>Paradigm Reth客户端漏洞致部分以太坊节点中断</description>
-      <pubDate>Wed, 03 Sep 2025 08:15:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:31:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/46c86a4d-ac7b-4260-9720-c0f1b47f8b20</guid>
       <category>crypto</category>
@@ -96,7 +143,7 @@
       <title>持有至少220个币安Alpha积分可申领1000个Moonchain代币MCH空投</title>
       <link>https://www.panewslab.com/zh/articles/c1e37437-59e3-4a37-8195-3e4d2ab4093d</link>
       <description>持有至少220个币安Alpha积分可申领1000个Moonchain代币MCH空投</description>
-      <pubDate>Wed, 03 Sep 2025 08:13:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:29:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c1e37437-59e3-4a37-8195-3e4d2ab4093d</guid>
       <category>crypto</category>
@@ -111,7 +158,7 @@
       <title>币安：Sonic代币$S供应量增至38.9亿枚，若ETF协议达成还将增加5000万美元$S</title>
       <link>https://www.panewslab.com/zh/articles/ada926c2-953a-49b3-99e6-b76b040caea6</link>
       <description>币安：Sonic代币$S供应量增至38.9亿枚，若ETF协议达成还将增加5000万美元$S</description>
-      <pubDate>Wed, 03 Sep 2025 08:11:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:27:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ada926c2-953a-49b3-99e6-b76b040caea6</guid>
       <category>crypto</category>
@@ -126,7 +173,7 @@
       <title>James Wynn：Solana生态已饱和，蓝筹级Meme币仅剩Doge、Pepe和Shib</title>
       <link>https://www.panewslab.com/zh/articles/59912fdf-a61f-44a7-900c-6671ac06c041</link>
       <description>James Wynn：Solana生态已饱和，蓝筹级Meme币仅剩Doge、Pepe和Shib</description>
-      <pubDate>Wed, 03 Sep 2025 08:09:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:25:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/59912fdf-a61f-44a7-900c-6671ac06c041</guid>
       <category>crypto</category>
@@ -141,7 +188,7 @@
       <title>8月加密交易所总交易量达1.86万亿美元，创1月份以来新高</title>
       <link>https://www.panewslab.com/zh/articles/da9740e1-03a6-4d07-a973-99e3e9923ca7</link>
       <description>8月加密交易所总交易量达1.86万亿美元，创1月份以来新高</description>
-      <pubDate>Wed, 03 Sep 2025 08:07:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:23:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/da9740e1-03a6-4d07-a973-99e3e9923ca7</guid>
       <category>crypto</category>
@@ -156,7 +203,7 @@
       <title>OSL HK上线BNB交易，成香港首家支持BNB的交易所</title>
       <link>https://www.panewslab.com/zh/articles/944a8a50-4b90-4d8e-955e-aa3522ef07a7</link>
       <description>OSL HK上线BNB交易，成香港首家支持BNB的交易所</description>
-      <pubDate>Wed, 03 Sep 2025 08:05:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:21:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/944a8a50-4b90-4d8e-955e-aa3522ef07a7</guid>
       <category>crypto</category>
@@ -171,7 +218,7 @@
       <title>KuCoin与越南区块链及数字资产协会VBA及1Matrix合作，推进越南区块链与数字资产发展</title>
       <link>https://www.panewslab.com/zh/articles/841f3603-fd80-4ca0-a6bb-d872d0ffe8b8</link>
       <description>KuCoin与越南区块链及数字资产协会VBA及1Matrix合作，推进越南区块链与数字资产发展</description>
-      <pubDate>Wed, 03 Sep 2025 08:03:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:19:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/841f3603-fd80-4ca0-a6bb-d872d0ffe8b8</guid>
       <category>crypto</category>
@@ -186,7 +233,7 @@
       <title>分析：黄金突破3400美元，目标或指向4000美元</title>
       <link>https://www.panewslab.com/zh/articles/50cb7da6-c75b-40de-a645-02a588081601</link>
       <description>分析：黄金突破3400美元，目标或指向4000美元</description>
-      <pubDate>Wed, 03 Sep 2025 08:01:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:17:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/50cb7da6-c75b-40de-a645-02a588081601</guid>
       <category>crypto</category>
@@ -201,7 +248,7 @@
       <title>币安Alpha：Portal To Bitcoin (PTB)第1阶段空投申领门槛为245积分</title>
       <link>https://www.panewslab.com/zh/articles/6529db40-f6dd-4a9d-b669-51fb39c9794b</link>
       <description>币安Alpha：Portal To Bitcoin (PTB)第1阶段空投申领门槛为245积分</description>
-      <pubDate>Wed, 03 Sep 2025 07:59:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:15:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6529db40-f6dd-4a9d-b669-51fb39c9794b</guid>
       <category>crypto</category>
@@ -218,7 +265,7 @@
       <title>币安将于9月5日移除BABY/EUR、BABY/FDUSD、BMT/BNB和THE/FDUSD现货交易</title>
       <link>https://www.panewslab.com/zh/articles/023f3e49-6256-4886-ba4a-832a24490372</link>
       <description>币安将于9月5日移除BABY/EUR、BABY/FDUSD、BMT/BNB和THE/FDUSD现货交易</description>
-      <pubDate>Wed, 03 Sep 2025 07:57:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:13:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/023f3e49-6256-4886-ba4a-832a24490372</guid>
       <category>crypto</category>
@@ -233,7 +280,7 @@
       <title>某巨鲸向HyperLiquid存入325万枚USDC，并开设BTC和ETH空头仓位</title>
       <link>https://www.panewslab.com/zh/articles/f7f574ce-8aa9-4ae7-a73f-ccf40fe4cf9b</link>
       <description>某巨鲸向HyperLiquid存入325万枚USDC，并开设BTC和ETH空头仓位</description>
-      <pubDate>Wed, 03 Sep 2025 07:55:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:11:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f7f574ce-8aa9-4ae7-a73f-ccf40fe4cf9b</guid>
       <category>crypto</category>
@@ -252,7 +299,7 @@
       <title>OKX Wallet 推出 OKX Boost 产品，旨在连接真实用户与创新项目</title>
       <link>https://www.panewslab.com/zh/articles/c8e14b5a-2778-4b66-8b18-4daad060eaec</link>
       <description>OKX Wallet 推出 OKX Boost 产品，旨在连接真实用户与创新项目</description>
-      <pubDate>Wed, 03 Sep 2025 07:53:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:09:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c8e14b5a-2778-4b66-8b18-4daad060eaec</guid>
       <category>crypto</category>
@@ -267,56 +314,9 @@
       <title>OKX因未在荷兰国家银行注册而被荷兰罚款260万美元</title>
       <link>https://www.panewslab.com/zh/articles/f5b41590-0906-4d2b-ab28-8cc809433eda</link>
       <description>OKX因未在荷兰国家银行注册而被荷兰罚款260万美元</description>
-      <pubDate>Wed, 03 Sep 2025 07:51:50 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 08:07:08 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f5b41590-0906-4d2b-ab28-8cc809433eda</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>币安：Hyperbot (BOT) TGE活动参与门槛为231个Alpha积分</title>
-      <link>https://www.panewslab.com/zh/articles/6c6a41ce-3c1a-433a-bb09-f9facbaca50f</link>
-      <description>币安：Hyperbot (BOT) TGE活动参与门槛为231个Alpha积分</description>
-      <pubDate>Wed, 03 Sep 2025 07:49:50 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6c6a41ce-3c1a-433a-bb09-f9facbaca50f</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>分析：机构增持推动下，以太坊质押待处理队列激增至两年来最高水平</title>
-      <link>https://www.panewslab.com/zh/articles/e519343c-c93f-49cc-8189-d551ef6e71ff</link>
-      <description>分析：机构增持推动下，以太坊质押待处理队列激增至两年来最高水平</description>
-      <pubDate>Wed, 03 Sep 2025 07:47:50 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e519343c-c93f-49cc-8189-d551ef6e71ff</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>香港复星将价值3.28亿美元的医疗公司股票代币化</title>
-      <link>https://www.panewslab.com/zh/articles/9f90d978-b32a-425a-9fb1-47564bafc870</link>
-      <description>香港复星将价值3.28亿美元的医疗公司股票代币化</description>
-      <pubDate>Wed, 03 Sep 2025 07:45:50 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9f90d978-b32a-425a-9fb1-47564bafc870</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
