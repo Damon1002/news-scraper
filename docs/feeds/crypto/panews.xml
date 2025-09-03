@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Sep 2025 13:56:21 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Sep 2025 13:56:21 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 14:22:18 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 14:22:18 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,44 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>American Bitcoin触发波动性临时停牌，停牌前上涨31%</title>
+      <link>https://www.panewslab.com/zh/articles/390e918f-b386-4828-bc6b-fd50a6f3ff4d</link>
+      <description>American Bitcoin触发波动性临时停牌，停牌前上涨31%</description>
+      <pubDate>Wed, 03 Sep 2025 14:22:18 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/390e918f-b386-4828-bc6b-fd50a6f3ff4d</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>比特币矿企American Bitcoin申请通过市价发行筹集至多21亿美元</title>
+      <link>https://www.panewslab.com/zh/articles/62898824-f207-4afe-8800-964a28e29bb4</link>
+      <description>比特币矿企American Bitcoin申请通过市价发行筹集至多21亿美元</description>
+      <pubDate>Wed, 03 Sep 2025 14:20:18 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/62898824-f207-4afe-8800-964a28e29bb4</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>K33研究主管：比特币九月或因宏观因素面临下行压力</title>
       <link>https://www.panewslab.com/zh/articles/7168e41d-fafc-4566-8ef9-ab9480867e9b</link>
       <description>K33研究主管：比特币九月或因宏观因素面临下行压力</description>
-      <pubDate>Wed, 03 Sep 2025 13:56:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:18:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7168e41d-fafc-4566-8ef9-ab9480867e9b</guid>
       <category>crypto</category>
@@ -34,7 +68,7 @@
       <title>Riot 8月共生产477枚比特币，持有总量达19,309枚</title>
       <link>https://www.panewslab.com/zh/articles/aca566e5-df04-42b7-989a-93b54505e1b9</link>
       <description>Riot 8月共生产477枚比特币，持有总量达19,309枚</description>
-      <pubDate>Wed, 03 Sep 2025 13:54:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:16:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/aca566e5-df04-42b7-989a-93b54505e1b9</guid>
       <category>crypto</category>
@@ -51,7 +85,7 @@
       <title>Gate 首发上线 Ondo 专区，支持现货交易并推出 26 个热门交易对</title>
       <link>https://www.panewslab.com/zh/articles/e2d47011-3357-48e8-b58d-795c579ceb9f</link>
       <description>Gate 首发上线 Ondo 专区，支持现货交易并推出 26 个热门交易对</description>
-      <pubDate>Wed, 03 Sep 2025 13:52:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:14:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e2d47011-3357-48e8-b58d-795c579ceb9f</guid>
       <category>crypto</category>
@@ -66,7 +100,7 @@
       <title>Lido推出GG Vault一键获取DeFi收益</title>
       <link>https://www.panewslab.com/zh/articles/05afa818-dc04-424c-9549-62e04aa6ee0c</link>
       <description>Lido推出GG Vault一键获取DeFi收益</description>
-      <pubDate>Wed, 03 Sep 2025 13:50:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:12:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/05afa818-dc04-424c-9549-62e04aa6ee0c</guid>
       <category>crypto</category>
@@ -82,7 +116,7 @@
       <title>Hyperliquid 8月营收创新高，突破1亿美元</title>
       <link>https://www.panewslab.com/zh/articles/86f2ffec-6f3a-4080-bd85-e054fe75b7b1</link>
       <description>Hyperliquid 8月营收创新高，突破1亿美元</description>
-      <pubDate>Wed, 03 Sep 2025 13:48:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:10:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/86f2ffec-6f3a-4080-bd85-e054fe75b7b1</guid>
       <category>crypto</category>
@@ -97,7 +131,7 @@
       <title>ETH突破4400美元，日内涨幅 2.54%</title>
       <link>https://www.panewslab.com/zh/articles/h87z4tx9</link>
       <description>ETH突破4400美元，日内涨幅 2.54%</description>
-      <pubDate>Wed, 03 Sep 2025 13:46:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:08:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/h87z4tx9</guid>
       <category>crypto</category>
@@ -114,7 +148,7 @@
       <title>CleanSpark 8月共产出657枚比特币，月末持有达12,827枚</title>
       <link>https://www.panewslab.com/zh/articles/9c0eae56-fb97-4e59-9be9-2f0bb2bf2c21</link>
       <description>CleanSpark 8月共产出657枚比特币，月末持有达12,827枚</description>
-      <pubDate>Wed, 03 Sep 2025 13:44:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:06:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9c0eae56-fb97-4e59-9be9-2f0bb2bf2c21</guid>
       <category>crypto</category>
@@ -131,7 +165,7 @@
       <title>Ondo Finance上线逾百种美股与ETF链上通证</title>
       <link>https://www.panewslab.com/zh/articles/8d33845a-bac4-458d-8c93-e3e4c5ae2ab2</link>
       <description>Ondo Finance上线逾百种美股与ETF链上通证</description>
-      <pubDate>Wed, 03 Sep 2025 13:42:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:04:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8d33845a-bac4-458d-8c93-e3e4c5ae2ab2</guid>
       <category>crypto</category>
@@ -146,7 +180,7 @@
       <title>英国央行行长贝利：美联储的情况非常严重，我非常担忧</title>
       <link>https://www.panewslab.com/zh/articles/9ffa272f-ad39-4dab-9c15-63f6a5086127</link>
       <description>英国央行行长贝利：美联储的情况非常严重，我非常担忧</description>
-      <pubDate>Wed, 03 Sep 2025 13:40:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:02:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9ffa272f-ad39-4dab-9c15-63f6a5086127</guid>
       <category>crypto</category>
@@ -161,7 +195,7 @@
       <title>昊天国际将3,575万港元转用于购入以太币</title>
       <link>https://www.panewslab.com/zh/articles/1338ac82-7a21-4cfc-9245-993ae4909439</link>
       <description>昊天国际将3,575万港元转用于购入以太币</description>
-      <pubDate>Wed, 03 Sep 2025 13:38:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:00:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1338ac82-7a21-4cfc-9245-993ae4909439</guid>
       <category>crypto</category>
@@ -176,7 +210,7 @@
       <title>AlphaTON Capital宣布启动TON数字资产战略，收购约1亿美元TON</title>
       <link>https://www.panewslab.com/zh/articles/a285fc62-5992-4f73-835e-797ae03807e1</link>
       <description>AlphaTON Capital宣布启动TON数字资产战略，收购约1亿美元TON</description>
-      <pubDate>Wed, 03 Sep 2025 13:36:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:58:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a285fc62-5992-4f73-835e-797ae03807e1</guid>
       <category>crypto</category>
@@ -191,7 +225,7 @@
       <title>ArbitrumDAO推出首季DeFi激励计划，分发2400万ARB</title>
       <link>https://www.panewslab.com/zh/articles/a95b7e97-eaeb-4239-91d1-41786c401da6</link>
       <description>ArbitrumDAO推出首季DeFi激励计划，分发2400万ARB</description>
-      <pubDate>Wed, 03 Sep 2025 13:34:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:56:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a95b7e97-eaeb-4239-91d1-41786c401da6</guid>
       <category>crypto</category>
@@ -207,7 +241,7 @@
       <title>美联储理事沃勒：我们应该在下次会议上降息，10年期国债收益率已基本稳定</title>
       <link>https://www.panewslab.com/zh/articles/73b0b235-b2f9-4909-a278-6b5f38736cb4</link>
       <description>美联储理事沃勒：我们应该在下次会议上降息，10年期国债收益率已基本稳定</description>
-      <pubDate>Wed, 03 Sep 2025 13:32:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:54:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/73b0b235-b2f9-4909-a278-6b5f38736cb4</guid>
       <category>crypto</category>
@@ -222,7 +256,7 @@
       <title>现货黄金站上3550美元/盎司</title>
       <link>https://www.panewslab.com/zh/articles/37893f2b-dcc5-417e-b3e4-6911684424a5</link>
       <description>现货黄金站上3550美元/盎司</description>
-      <pubDate>Wed, 03 Sep 2025 13:30:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:52:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/37893f2b-dcc5-417e-b3e4-6911684424a5</guid>
       <category>crypto</category>
@@ -237,7 +271,7 @@
       <title>Pineapple Financial成立1亿美元INJ数字资产金库</title>
       <link>https://www.panewslab.com/zh/articles/43aa7c2c-c50d-4e1d-b515-b7b9b90252a5</link>
       <description>Pineapple Financial成立1亿美元INJ数字资产金库</description>
-      <pubDate>Wed, 03 Sep 2025 13:28:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:50:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/43aa7c2c-c50d-4e1d-b515-b7b9b90252a5</guid>
       <category>crypto</category>
@@ -252,7 +286,7 @@
       <title>Gate 已上线 TAKE 永续合约交易</title>
       <link>https://www.panewslab.com/zh/articles/e1be2b02-6b9f-485b-8ac7-34e17b324d2c</link>
       <description>Gate 已上线 TAKE 永续合约交易</description>
-      <pubDate>Wed, 03 Sep 2025 13:26:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:48:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e1be2b02-6b9f-485b-8ac7-34e17b324d2c</guid>
       <category>crypto</category>
@@ -267,41 +301,9 @@
       <title>FATF主席：各国必须更加透明地披露空壳公司所有者，罪犯正利用加密货币在跨境转移资金</title>
       <link>https://www.panewslab.com/zh/articles/2b9c3691-3bb2-4386-aace-b23a913f73ce</link>
       <description>FATF主席：各国必须更加透明地披露空壳公司所有者，罪犯正利用加密货币在跨境转移资金</description>
-      <pubDate>Wed, 03 Sep 2025 13:24:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:46:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2b9c3691-3bb2-4386-aace-b23a913f73ce</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>与特朗普家族相关的American Bitcoin将于今日在纳斯达克上市</title>
-      <link>https://www.panewslab.com/zh/articles/a5702a8e-2427-421d-a4b8-b574c78edf27</link>
-      <description>与特朗普家族相关的American Bitcoin将于今日在纳斯达克上市</description>
-      <pubDate>Wed, 03 Sep 2025 13:22:21 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a5702a8e-2427-421d-a4b8-b574c78edf27</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>美国合众银行：重新为机构客户提供加密货币托管服务</title>
-      <link>https://www.panewslab.com/zh/articles/9ad87793-d0ff-4e4b-995e-1c2652b2bae8</link>
-      <description>美国合众银行：重新为机构客户提供加密货币托管服务</description>
-      <pubDate>Wed, 03 Sep 2025 13:20:21 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9ad87793-d0ff-4e4b-995e-1c2652b2bae8</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
@@ -314,7 +316,7 @@
       <title>「9月03日」 BNB Chain公布2025年度大奖入围名单，社区投票开放至9月3日</title>
       <link>https://www.panewslab.com/zh/articles/a45046c3-d825-49bb-ab27-21233b3255e4</link>
       <description>「9月03日」 BNB Chain公布2025年度大奖入围名单，社区投票开放至9月3日</description>
-      <pubDate>Wed, 03 Sep 2025 13:18:21 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 13:44:18 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a45046c3-d825-49bb-ab27-21233b3255e4</guid>
       <category>crypto</category>
