@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Sep 2025 14:53:07 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Sep 2025 14:53:07 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 15:16:26 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2025 15:16:26 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,99 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Binance Alpha&apos;s new airdrop BOOST will go live on September 5th</title>
+      <link>https://www.lookonchain.com/feeds/27588</link>
+      <description>On September 3rd, Binance Alpha will take the lead in listing Boost (BOOST) on September 5th. After trading begins, eligible users can use Binance Alpha Points to claim the airdrop on the Alpha event page. More details will be made public shortly.</description>
+      <pubDate>Wed, 03 Sep 2025 15:08:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27588</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>The Federal Reserve will host a &quot;Payment Innovation&quot; conference next month to discuss stablecoins, artificial intelligence, and tokenization</title>
+      <link>https://www.lookonchain.com/feeds/27587</link>
+      <description>On September 3rd, the Federal Reserve will hold a &quot;Payment Innovation&quot; conference on October 21st. The conference topics will encompass: stablecoins, artificial intelligence, and tokenization.</description>
+      <pubDate>Wed, 03 Sep 2025 15:08:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27587</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Coinbase Global Site Increases Perpetual Contract Leverage Limit to a maximum of 50x</title>
+      <link>https://www.lookonchain.com/feeds/27586</link>
+      <description>On September 3rd, Coinbase International made an announcement regarding the adjustment of the perpetual contract leverage limit. It now allows for a leverage of up to 50x. This feature is accessible to Coinbase Advanced retail and institutional users via the Coinbase International Exchange. Perpetual contracts can only be used in compliant jurisdictions outside the United States.</description>
+      <pubDate>Wed, 03 Sep 2025 15:00:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27586</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>American Bitcoin Second-Trigger Circuit Breaker, Gain Narrows to 40.58%</title>
+      <link>https://www.lookonchain.com/feeds/27585</link>
+      <description>September 3rd: Following three consecutive limit-up movements, the mining firm American Bitcoin backed by the Trump family witnessed a pullback. It has now triggered its second circuit breaker, and the gain has narrowed to 40.58%.Currently trading at $9.7, the market value has decreased to $161 million.</description>
+      <pubDate>Wed, 03 Sep 2025 14:56:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27585</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Trump Jr.: The mission of American Bitcoin is to build the largest Bitcoin reserve in the United States</title>
+      <link>https://www.lookonchain.com/feeds/27584</link>
+      <description>On September 3rd, Donald Trump Jr., the son of former President Donald Trump, expressed his pride in seeing American Bitcoin being listed. This has placed the United States at the forefront of the crypto space. The mission of American Bitcoin is to establish the largest Bitcoin reserve in the United States. When shareholders succeed, America succeeds. It is a new era for Bitcoin in America, and it begins now.</description>
+      <pubDate>Wed, 03 Sep 2025 14:56:33 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27584</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>American Bitcoin experiences a pullback triggering a circuit breaker, with the price increase narrowing to 63.48%.</title>
       <link>https://www.lookonchain.com/feeds/27583</link>
       <description>September 3rd: After going through three consecutive daily limit-up movements, the mining company American Bitcoin backed by the Trump family has now entered a retracement stage. A circuit breaker has been triggered, and the increase in price has narrowed to 63.48%.Currently trading at $11.28, the market capitalization has dropped to $187 million.</description>
-      <pubDate>Wed, 03 Sep 2025 14:48:15 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:48:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27583</guid>
       <category>crypto</category>
@@ -36,7 +125,7 @@
       <title>LookOnChain: Bitcoin Surges Past $112,000</title>
       <link>https://www.lookonchain.com/feeds/27582</link>
       <description>On September 3rd, based on HTX market data, Bitcoin saw a rebound and exceeded $112,000, with a 24-hour growth rate of 0.97%.</description>
-      <pubDate>Wed, 03 Sep 2025 14:48:15 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:48:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27582</guid>
       <category>crypto</category>
@@ -56,7 +145,7 @@
       <title>In the past 4 hours, there has been a total of $69,947,300 liquidated across the entire network, with the largest single liquidation being a short position.</title>
       <link>https://www.lookonchain.com/feeds/27581</link>
       <description>On September 3rd, according to Coinglass data, the total network liquidated $69.9473 million within the past 4 hours. The long liquidations reached a total of $9.431 million, while the short liquidations totaled $60.5162 million.In the past 24 hours, a total of 97,019 people worldwide were liquidated, with a combined liquidation amount of $210 million. The largest single liquidation took place in the HTX-ETH-USDT pair, amounting to $1.7057 million.</description>
-      <pubDate>Wed, 03 Sep 2025 14:48:15 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:48:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27581</guid>
       <category>crypto</category>
@@ -74,7 +163,7 @@
       <title>American Bitcoin hits third consecutive circuit breaker, with price surge expanding to 91%</title>
       <link>https://www.lookonchain.com/feeds/27580</link>
       <description>September 3rd: The mining enterprise American Bitcoin of the Trump family witnessed its third consecutive daily limit-up, and the increase expanded to 91%. Its total market value has increased to $230 million.</description>
-      <pubDate>Wed, 03 Sep 2025 14:40:15 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:40:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27580</guid>
       <category>crypto</category>
@@ -93,98 +182,9 @@
       <title>「Fed Taper Talk」: Vacancy Rate Falls Below 1 for the First Time Since Early 2021</title>
       <link>https://www.lookonchain.com/feeds/27579</link>
       <description>On September 3rd, &quot;Fed Whisperer&quot; Nick Timiraos wrote that by September 2024, job openings in July had dropped to the lowest level since September 2024, and the three-month average remained at approximately 7.4 million openings.The job openings to unemployment ratio fell below 1 for the first time since the early 2021.[Here are the two images:](https://image.theblockbeats.info/file_v6/20250903/4078efb8-6466-4fc1-8dd6-7a3cc1e9bbd9.png?x-oss-process=image/quality,q_50/format,webp) [Image description: Something related to the job market data.](https://image.theblockbeats.info/file_v6/20250903/62cdd25f-5934-4d3f-86da-af9437b38911.png?x-oss-process=image/quality,q_50/format,webp) [Image description: Another aspect related to the job market data.]</description>
-      <pubDate>Wed, 03 Sep 2025 14:32:15 +0000</pubDate>
+      <pubDate>Wed, 03 Sep 2025 14:32:33 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27579</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>American Bitcoin Halts Trading Again, Surges 59%</title>
-      <link>https://www.lookonchain.com/feeds/27578</link>
-      <description>On September 3rd, the Trump family&apos;s mining firm American Bitcoin once more led to a trading halt, and the price surged by 59%.</description>
-      <pubDate>Wed, 03 Sep 2025 14:24:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27578</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Following the release of the US employment data, the probability of a Fed rate cut in September has increased to 98%.</title>
-      <link>https://www.lookonchain.com/feeds/27577</link>
-      <description>September 3rd: Following the release of the US employment data, the likelihood of a Fed rate cut in September has increased to 98%. (Xinhua Finance)</description>
-      <pubDate>Wed, 03 Sep 2025 14:16:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27577</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve of Boston: Still Appropriate to Cut Rates Once by 2025</title>
-      <link>https://www.lookonchain.com/feeds/27576</link>
-      <description>On September 3rd, Atlanta Fed&apos;s Bostic once again emphasized that he considers a rate cut this year to be appropriate. However, this view may change based on the situations of inflation and the labor market. &quot;I believe that although price stability remains a top priority, the labor market has slowed down sufficiently. Therefore, some accommodation (possibly a rate cut of around 25 basis points) will be suitable for the rest of the year.&quot;&quot;The situation can change depending on the future path of inflation and the development of the labor market.&quot; Regarding inflation, Bostic stated that he still has concerns that the impact of tariffs on prices may last. &quot;I still think that the impact of tariffs on prices will not disappear quickly. In fact, it will not fully show up in the coming months. I will not be complacent and simply assume that expectations will remain stable and there will be no other inflation outbreak.&quot; (FXStreet)</description>
-      <pubDate>Wed, 03 Sep 2025 14:16:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27576</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>American Bitcoin triggered a temporary halt, surging 31% before the halt.</title>
-      <link>https://www.lookonchain.com/feeds/27575</link>
-      <description>On September 3rd, the Bitcoin mining company affiliated with the Trump family, American Bitcoin, triggered a volatility trading halt, with a 31% surge before the halt. (Oriental Fortune Network)</description>
-      <pubDate>Wed, 03 Sep 2025 14:16:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27575</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Bank of Boston: Soft Job Market Warrants Some Policy Accommodation</title>
-      <link>https://www.lookonchain.com/feeds/27574</link>
-      <description>On September 3rd, the Boston Fed of the Federal Reserve stated that the labor market is not significantly weak, and the risks facing the Federal Reserve&apos;s two major mandates have become more balanced. A weak employment market implies that some policy easing is appropriate. Price stability remains a top priority. (Xinhua News Agency)US Treasury yields continue to decline, with the 10-year yield decreasing by 4.1 basis points to 4.236%.</description>
-      <pubDate>Wed, 03 Sep 2025 14:09:15 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27574</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
