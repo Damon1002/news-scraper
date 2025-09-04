@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 10:45:04 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 10:45:04 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 10:56:30 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 10:56:30 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,119 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>比特币现货ETF昨日净流入1.31亿美元，贝莱德IBIT净流入9283万美元居首</title>
-      <link>https://www.panewslab.com/zh/articles/y086tgor</link>
-      <description>比特币现货ETF昨日净流入1.31亿美元，贝莱德IBIT净流入9283万美元居首</description>
-      <pubDate>Sat, 26 Jul 2025 04:03:24 +0000</pubDate>
+      <title>Binance宣布Gata (GATA) 代币空投延迟</title>
+      <link>https://www.panewslab.com/zh/articles/8f9e3f8e-91fb-4c60-b37a-6f11964a28ec</link>
+      <description>Binance宣布Gata (GATA) 代币空投延迟</description>
+      <pubDate>Thu, 04 Sep 2025 10:56:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/y086tgor</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8f9e3f8e-91fb-4c60-b37a-6f11964a28ec</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Google Workspace问题已得到修复</title>
+      <link>https://www.panewslab.com/zh/articles/280818e4-66a2-4b3b-b193-61dbb673b8b9</link>
+      <description>Google Workspace问题已得到修复</description>
+      <pubDate>Thu, 04 Sep 2025 10:54:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/280818e4-66a2-4b3b-b193-61dbb673b8b9</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Coinbase国际站暂停ZEN-PERP、UMA-PERP与GMX-PERP交易撮合</title>
+      <link>https://www.panewslab.com/zh/articles/f0d9487d-10f3-453e-a549-8640088aecd9</link>
+      <description>Coinbase国际站暂停ZEN-PERP、UMA-PERP与GMX-PERP交易撮合</description>
+      <pubDate>Thu, 04 Sep 2025 10:52:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f0d9487d-10f3-453e-a549-8640088aecd9</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>疑似某机构三周内囤积逾19万枚AAVE</title>
+      <link>https://www.panewslab.com/zh/articles/930227fe-07b6-4cd5-951b-3c1bfdf8bead</link>
+      <description>疑似某机构三周内囤积逾19万枚AAVE</description>
+      <pubDate>Thu, 04 Sep 2025 10:50:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/930227fe-07b6-4cd5-951b-3c1bfdf8bead</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Gmail和谷歌云端硬盘服务暂停，部分用户无法访问</title>
+      <link>https://www.panewslab.com/zh/articles/d2049dee-880e-455f-9a98-fceceb1c4497</link>
+      <description>Gmail和谷歌云端硬盘服务暂停，部分用户无法访问</description>
+      <pubDate>Thu, 04 Sep 2025 10:48:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d2049dee-880e-455f-9a98-fceceb1c4497</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>以太坊PoS网络进入队列增至833,609枚，预计需等待超14天</title>
+      <link>https://www.panewslab.com/zh/articles/597d2550-2dc1-4a89-b28b-31fc56ac14e8</link>
+      <description>以太坊PoS网络进入队列增至833,609枚，预计需等待超14天</description>
+      <pubDate>Thu, 04 Sep 2025 10:46:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/597d2550-2dc1-4a89-b28b-31fc56ac14e8</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>MEET48已完成2347万枚IDOL代币的销毁和1.6992亿枚IDOL代币的回购</title>
+      <link>https://www.panewslab.com/zh/articles/5a8a6512-3b97-445d-93a7-9897e1862674</link>
+      <description>MEET48已完成2347万枚IDOL代币的销毁和1.6992亿枚IDOL代币的回购</description>
+      <pubDate>Thu, 04 Sep 2025 10:44:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5a8a6512-3b97-445d-93a7-9897e1862674</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Glassnode：比特币若跌破10.4万美元可能引发价格下探至9.3万至9.5万美元</title>
+      <link>https://www.panewslab.com/zh/articles/24d04506-6f12-48e8-bec0-105d02a164ca</link>
+      <description>Glassnode：比特币若跌破10.4万美元可能引发价格下探至9.3万至9.5万美元</description>
+      <pubDate>Thu, 04 Sep 2025 10:42:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/24d04506-6f12-48e8-bec0-105d02a164ca</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
@@ -31,29 +138,46 @@
 
     </item>
     <item>
-      <title>以太坊现货ETF昨日净流入4.53亿美元，持续16日净流入</title>
-      <link>https://www.panewslab.com/zh/articles/617n08l7</link>
-      <description>以太坊现货ETF昨日净流入4.53亿美元，持续16日净流入</description>
-      <pubDate>Sat, 26 Jul 2025 04:01:24 +0000</pubDate>
+      <title>国富量子设立RWA8基金，助力香港争夺全球RWA定价权</title>
+      <link>https://www.panewslab.com/zh/articles/233f80f9-c694-455f-9603-dbb150162a5c</link>
+      <description>国富量子设立RWA8基金，助力香港争夺全球RWA定价权</description>
+      <pubDate>Thu, 04 Sep 2025 10:40:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/617n08l7</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/233f80f9-c694-455f-9603-dbb150162a5c</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Deribit：超45亿美元比特币和以太坊期权即将到期，以太坊看涨期权集中于4500美元以上</title>
+      <link>https://www.panewslab.com/zh/articles/21437548-ea52-4359-b2c5-346232dd5662</link>
+      <description>Deribit：超45亿美元比特币和以太坊期权即将到期，以太坊看涨期权集中于4500美元以上</description>
+      <pubDate>Thu, 04 Sep 2025 10:38:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/21437548-ea52-4359-b2c5-346232dd5662</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
 
     </item>
     <item>
-      <title>数据：过去7天USDC流通量约增加5亿枚</title>
-      <link>https://www.panewslab.com/zh/articles/jccdjdhb</link>
-      <description>数据：过去7天USDC流通量约增加5亿枚</description>
-      <pubDate>Sat, 26 Jul 2025 03:59:24 +0000</pubDate>
+      <title>持有至少220个币安Alpha积分可申领50个TRADOOR空投</title>
+      <link>https://www.panewslab.com/zh/articles/1c095836-2e7b-4c62-bdae-9da70609a902</link>
+      <description>持有至少220个币安Alpha积分可申领50个TRADOOR空投</description>
+      <pubDate>Thu, 04 Sep 2025 10:36:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/jccdjdhb</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1c095836-2e7b-4c62-bdae-9da70609a902</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
@@ -63,12 +187,12 @@
 
     </item>
     <item>
-      <title>特朗普回应涉爱泼斯坦案传闻：我的名字不在档案中</title>
-      <link>https://www.panewslab.com/zh/articles/qxe7xwcy</link>
-      <description>特朗普回应涉爱泼斯坦案传闻：我的名字不在档案中</description>
-      <pubDate>Sat, 26 Jul 2025 03:57:24 +0000</pubDate>
+      <title>Bitwise分析师：宝可梦卡牌市场正迎来RWA加密化转型，或将带来Polymarket对预测市场的影响</title>
+      <link>https://www.panewslab.com/zh/articles/1594614d-95cc-4f9e-88d5-fa6dc7566923</link>
+      <description>Bitwise分析师：宝可梦卡牌市场正迎来RWA加密化转型，或将带来Polymarket对预测市场的影响</description>
+      <pubDate>Thu, 04 Sep 2025 10:34:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/qxe7xwcy</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1594614d-95cc-4f9e-88d5-fa6dc7566923</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
@@ -78,217 +202,12 @@
 
     </item>
     <item>
-      <title>纳斯达克上市公司Bit Digital拟扩大法定股本至10亿股普通股以募资继续增持ETH</title>
-      <link>https://www.panewslab.com/zh/articles/xz1ipcfs</link>
-      <description>纳斯达克上市公司Bit Digital拟扩大法定股本至10亿股普通股以募资继续增持ETH</description>
-      <pubDate>Sat, 26 Jul 2025 03:55:24 +0000</pubDate>
+      <title>CryptoQuant：BTC月线关键支撑为10.76万美元，市场处于修复阶段</title>
+      <link>https://www.panewslab.com/zh/articles/5b0f3a24-c25d-4298-9fa9-82ae54440b72</link>
+      <description>CryptoQuant：BTC月线关键支撑为10.76万美元，市场处于修复阶段</description>
+      <pubDate>Thu, 04 Sep 2025 10:32:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/xz1ipcfs</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>疑属同一人的两个地址过去10小时抛售3810.76枚ETH，或获利269.3万美元</title>
-      <link>https://www.panewslab.com/zh/articles/9v7tdzpc</link>
-      <description>疑属同一人的两个地址过去10小时抛售3810.76枚ETH，或获利269.3万美元</description>
-      <pubDate>Sat, 26 Jul 2025 03:53:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9v7tdzpc</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>分析：半个月内9个钱包囤积61.4万枚ETH，价值超21亿美元</title>
-      <link>https://www.panewslab.com/zh/articles/vbcfnpqr</link>
-      <description>分析：半个月内9个钱包囤积61.4万枚ETH，价值超21亿美元</description>
-      <pubDate>Sat, 26 Jul 2025 03:51:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/vbcfnpqr</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>行情：OM日内涨幅9.49%，LEO日内跌幅0.04%</title>
-      <link>https://www.panewslab.com/zh/articles/altboxdr</link>
-      <description>行情：OM日内涨幅9.49%，LEO日内跌幅0.04%</description>
-      <pubDate>Sat, 26 Jul 2025 03:49:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/altboxdr</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>SharpLink Gaming已将收到的1.45亿USDC转进Galaxy Digital钱包</title>
-      <link>https://www.panewslab.com/zh/articles/tk90zm07</link>
-      <description>SharpLink Gaming已将收到的1.45亿USDC转进Galaxy Digital钱包</description>
-      <pubDate>Sat, 26 Jul 2025 03:47:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/tk90zm07</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Tyler Winklevoss：因此前公开批评收费，摩根大通暂停Gemini开户</title>
-      <link>https://www.panewslab.com/zh/articles/l9h2x967</link>
-      <description>Tyler Winklevoss：因此前公开批评收费，摩根大通暂停Gemini开户</description>
-      <pubDate>Sat, 26 Jul 2025 03:45:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/l9h2x967</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>某新钱包从Galaxy获得13696.8枚ETH，价值约4997万美元</title>
-      <link>https://www.panewslab.com/zh/articles/rqyyp94m</link>
-      <description>某新钱包从Galaxy获得13696.8枚ETH，价值约4997万美元</description>
-      <pubDate>Sat, 26 Jul 2025 03:43:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/rqyyp94m</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>SharpLink在30分钟前收到来自Circle钱包的1.45亿USDC，或继续增持ETH</title>
-      <link>https://www.panewslab.com/zh/articles/nh2q1jc8</link>
-      <description>SharpLink在30分钟前收到来自Circle钱包的1.45亿USDC，或继续增持ETH</description>
-      <pubDate>Sat, 26 Jul 2025 03:41:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/nh2q1jc8</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>美股三大指数集体收涨，数字货币概念股普遍收跌</title>
-      <link>https://www.panewslab.com/zh/articles/5immvlv8</link>
-      <description>美股三大指数集体收涨，数字货币概念股普遍收跌</description>
-      <pubDate>Sat, 26 Jul 2025 03:39:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5immvlv8</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼从Binance提取1340万枚ENA，价值726万美元</title>
-      <link>https://www.panewslab.com/zh/articles/4b418vdx</link>
-      <description>某鲸鱼从Binance提取1340万枚ENA，价值726万美元</description>
-      <pubDate>Sat, 26 Jul 2025 03:37:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/4b418vdx</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>美国亚利桑那州一女子因协助朝鲜IT员工欺诈1700万美元被判8年半监禁</title>
-      <link>https://www.panewslab.com/zh/articles/ywydlnyo</link>
-      <description>美国亚利桑那州一女子因协助朝鲜IT员工欺诈1700万美元被判8年半监禁</description>
-      <pubDate>Sat, 26 Jul 2025 03:35:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ywydlnyo</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Dragonfly回应美司法部对其投资Tornado Cash的指控，若起诉将捍卫自身权益</title>
-      <link>https://www.panewslab.com/zh/articles/hkxh0rn0</link>
-      <description>Dragonfly回应美司法部对其投资Tornado Cash的指控，若起诉将捍卫自身权益</description>
-      <pubDate>Sat, 26 Jul 2025 03:33:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/hkxh0rn0</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>最大的PUMP机构私募地址完成PUMP清仓，约获利820万美元</title>
-      <link>https://www.panewslab.com/zh/articles/rf816713</link>
-      <description>最大的PUMP机构私募地址完成PUMP清仓，约获利820万美元</description>
-      <pubDate>Sat, 26 Jul 2025 03:31:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/rf816713</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>一中本聪时代的投资者通过Galaxy Digital出售8万枚比特币，价值约90亿美元</title>
-      <link>https://www.panewslab.com/zh/articles/8smb2013</link>
-      <description>一中本聪时代的投资者通过Galaxy Digital出售8万枚比特币，价值约90亿美元</description>
-      <pubDate>Sat, 26 Jul 2025 03:29:24 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8smb2013</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5b0f3a24-c25d-4298-9fa9-82ae54440b72</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
@@ -300,12 +219,12 @@
 
     </item>
     <item>
-      <title>Coinbase 将 ResearchCoin（RSC）添加至上币路线图</title>
-      <link>https://www.panewslab.com/zh/articles/u4lw402p</link>
-      <description>Coinbase 将 ResearchCoin（RSC）添加至上币路线图</description>
-      <pubDate>Sat, 26 Jul 2025 03:27:24 +0000</pubDate>
+      <title>Cumberland疑似加入WLFI做市，2小时前收到1000万枚WLFI</title>
+      <link>https://www.panewslab.com/zh/articles/8e043d9b-4dbe-47e5-949d-49ca723f4685</link>
+      <description>Cumberland疑似加入WLFI做市，2小时前收到1000万枚WLFI</description>
+      <pubDate>Thu, 04 Sep 2025 10:30:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/u4lw402p</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8e043d9b-4dbe-47e5-949d-49ca723f4685</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
@@ -315,20 +234,95 @@
 
     </item>
     <item>
-      <title>BTC突破117000美元，日内涨幅 1.11%</title>
-      <link>https://www.panewslab.com/zh/articles/spqwouao</link>
-      <description>BTC突破117000美元，日内涨幅 1.11%</description>
-      <pubDate>Sat, 26 Jul 2025 03:25:24 +0000</pubDate>
+      <title>过去24小时WLFI成最大单笔爆仓币种，币价下跌19.3%</title>
+      <link>https://www.panewslab.com/zh/articles/86a91dbe-b316-4332-bb38-75b282a3cdcb</link>
+      <description>过去24小时WLFI成最大单笔爆仓币种，币价下跌19.3%</description>
+      <pubDate>Thu, 04 Sep 2025 10:28:30 +0000</pubDate>
       <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/spqwouao</guid>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/86a91dbe-b316-4332-bb38-75b282a3cdcb</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
       <category>crypto</category>
       <category>blockchain</category>
       <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>持有220个币安Alpha积分可申领2700个Union代币U空投</title>
+      <link>https://www.panewslab.com/zh/articles/97d32d46-89a1-4871-868a-331d050eb163</link>
+      <description>持有220个币安Alpha积分可申领2700个Union代币U空投</description>
+      <pubDate>Thu, 04 Sep 2025 10:26:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/97d32d46-89a1-4871-868a-331d050eb163</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>加州公务员退休基金董事会就加密货币投资出现意见分歧</title>
+      <link>https://www.panewslab.com/zh/articles/5d85afb2-72bb-4490-aa56-2124d6df295a</link>
+      <description>加州公务员退休基金董事会就加密货币投资出现意见分歧</description>
+      <pubDate>Thu, 04 Sep 2025 10:24:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5d85afb2-72bb-4490-aa56-2124d6df295a</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>Tether刚刚冻结11个地址共计645万枚USDT</title>
+      <link>https://www.panewslab.com/zh/articles/8ec7143d-927b-4c9c-904d-bbdc22297856</link>
+      <description>Tether刚刚冻结11个地址共计645万枚USDT</description>
+      <pubDate>Thu, 04 Sep 2025 10:22:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8ec7143d-927b-4c9c-904d-bbdc22297856</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>上市公司The Smarter Web Company将发行2100万股普通股</title>
+      <link>https://www.panewslab.com/zh/articles/8d5ac685-f839-49bb-be64-b1864a07082f</link>
+      <description>上市公司The Smarter Web Company将发行2100万股普通股</description>
+      <pubDate>Thu, 04 Sep 2025 10:20:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8d5ac685-f839-49bb-be64-b1864a07082f</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>某巨鲸3天前花费200万美元买入740万枚WLFI，现已浮亏超65万美元</title>
+      <link>https://www.panewslab.com/zh/articles/6c44670c-d0c1-4b03-ae13-1801776e6426</link>
+      <description>某巨鲸3天前花费200万美元买入740万枚WLFI，现已浮亏超65万美元</description>
+      <pubDate>Thu, 04 Sep 2025 10:18:30 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6c44670c-d0c1-4b03-ae13-1801776e6426</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
