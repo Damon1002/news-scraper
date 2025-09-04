@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 04:50:14 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 04:50:14 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 05:02:21 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 05:02:21 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>比特币跌破11.1万美元，日内跌幅1.16%</title>
+      <link>https://www.techflowpost.com</link>
+      <description>HTX 行情数据显示，比特币跌破 11.1 万美元，现报价 110911.05 美元，日内跌幅1.16%。</description>
+      <pubDate>Thu, 04 Sep 2025 05:00:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Coinbase CEO：不使用 AI 工具的工程师将会被解雇</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，Jupiter已上线空投检查工具Airdrop Checker，支持对Solana生态的潜在空投进行一键查询。</description>
       <pubDate>Thu, 04 Sep 2025 01:25:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Coinbase CEO：约 40% 的日常代码由 AI 生成，目标 10 月提升至 50% 以上</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Coinbase CEO Brian Armstrong 发文披露，目前加密货币交易所 Coinbase 约 40% 的日常代码由人工智能生成。Armstrong 表示，公司计划在 10 月前将这一比例提升至 50% 以上。他强调，虽然 AI 生成的代码需要经过审查和理解，且并非所有业务领域都...</description>
-      <pubDate>Thu, 04 Sep 2025 01:13:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
