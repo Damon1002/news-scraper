@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 06:49:28 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 06:49:28 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 07:01:01 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 07:01:01 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The Freya Protocol based on the USD1 ICM agreement will launch synchronously with BonkFun 2.0, and token pre-deposit is now open.</title>
+      <link>https://www.lookonchain.com/feeds/27649</link>
+      <description>On September 4th, as per official information, the Bonk team, with the assistance of Solana core contributors, is set to launch the Bonkfun USD1 transaction pool ICM (Internet Capital Market) protocol Freya Protocol. This launch will be concurrent with the rollout of BonkFun 2.0 and the completion of the migration.The token pre-deposit has already begun. Holders can pre-deposit the FREYA token into the treasury and will receive an equivalent amount of Freya Protocol tokens along with a 5% pre-deposit bonus once BonkFun 2.0 is launched.</description>
+      <pubDate>Thu, 04 Sep 2025 06:56:09 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27649</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Tether has frozen a total of 6.45 million USDT across 11 addresses.</title>
       <link>https://www.lookonchain.com/feeds/27648</link>
       <description>On September 4th, according to the monitoring of MistTrack, Tether has frozen a total of 6.45 million USDT across 11 addresses.The issuer of USDT, Tether, can utilize the &quot;freeze&quot; function of its smart contract to restrict USDT transactions for specific blockchain addresses. The frozen addresses are unable to transfer or utilize USDT, and the freezing is typically carried out in response to law enforcement requests, to prevent the further transfer of funds from a hack, or for similar reasons.</description>
-      <pubDate>Thu, 04 Sep 2025 06:40:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:41:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27648</guid>
       <category>crypto</category>
@@ -37,7 +54,7 @@
       <title>An whale bought WLFI three days ago, spending $2 million. They are currently facing an unrealized loss of over $650,000.</title>
       <link>https://www.lookonchain.com/feeds/27647</link>
       <description>On September 4th, according to the monitoring of LookOnChain, a whale spent $2 million to purchase 7.4 million WLFI tokens three days prior. Currently, it is holding an unrealized loss of more than $650,000.</description>
-      <pubDate>Thu, 04 Sep 2025 06:32:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:32:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27647</guid>
       <category>crypto</category>
@@ -56,7 +73,7 @@
       <title>Bitcoin Treasury Company The Smarter Web Company will issue 21 million common shares.</title>
       <link>https://www.lookonchain.com/feeds/27646</link>
       <description>On September 4th, as per an official declaration, the Bitcoin treasury company, The Smarter Web Company, has made an announcement stating that it has entered into a new subscription agreement to issue 21 million shares of common stock.The terms of the new subscription agreement are identical to those of the previous subscription agreement announced on June 19, 2025. The company considers that the existing subscription agreement has been successful in raising additional funds for the company. Additionally, following the company&apos;s announcement on August 26, 2025, the majority of the common stock issued under the June subscription agreement has been successfully allocated.</description>
-      <pubDate>Thu, 04 Sep 2025 06:24:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:24:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27646</guid>
       <category>crypto</category>
@@ -76,7 +93,7 @@
       <title>US Bank Interest Rate Strategy Director: Fed Could Lower Rates to at Least 3%</title>
       <link>https://www.lookonchain.com/feeds/27645</link>
       <description>On September 4th, Mark Cabana, who is the Head of US Bank Rate Strategy, stated that the Fed could reduce rates to at least 3%. The market has underestimated the possible extent to which the Fed may potentially lower rates below 3%. (Forex)</description>
-      <pubDate>Thu, 04 Sep 2025 06:16:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:16:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27645</guid>
       <category>crypto</category>
@@ -93,7 +110,7 @@
       <title>Binance Alpha will list Gata (GATA), with an airdrop claiming initial threshold of 220 points</title>
       <link>https://www.lookonchain.com/feeds/27644</link>
       <description>On September 4th, as per official channels, Binance Alpha is set to list Gata (GATA), and Alpha trading will commence on September 4, 2025, at 6:00 PM (UTC+8).After the trading initiates, users possessing at least 220 Binance Alpha points are eligible to claim a 500 GATA token airdrop. The first come, first served principle applies. If the event remains ongoing, the points threshold will automatically reduce by 15 points every hour.To claim the airdrop, 15 Binance Alpha points will be deducted. Users must confirm the claim on the Alpha event page within 24 hours; otherwise, it will be regarded as a waiver of the airdrop.</description>
-      <pubDate>Thu, 04 Sep 2025 06:08:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:08:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27644</guid>
       <category>crypto</category>
@@ -110,7 +127,7 @@
       <title>Australia&apos;s Monochrome Physical Bitcoin ETF&apos;s BTC holdings have increased to 1028 coins</title>
       <link>https://www.lookonchain.com/feeds/27643</link>
       <description>September 4th. According to an official announcement, the Australian Monochrome Physical Bitcoin ETF (IBTC) disclosed that as of September 3rd, its holdings amounted to 1,028 bitcoins, and the holding market value was approximately 174 million Australian dollars.</description>
-      <pubDate>Thu, 04 Sep 2025 06:08:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:08:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27643</guid>
       <category>crypto</category>
@@ -129,7 +146,7 @@
       <title>Coinbase Appoints Cat Ferdon as Chief Marketing Officer</title>
       <link>https://www.lookonchain.com/feeds/27642</link>
       <description>On September 4th, according to official information, Coinbase made an announcement about appointing Cat Ferdon as the Chief Marketing Officer.Cat Ferdon had previously served as the marketing and brand lead at Block (formerly known as Square)&apos;s Cash App.</description>
-      <pubDate>Thu, 04 Sep 2025 06:00:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:00:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27642</guid>
       <category>crypto</category>
@@ -146,7 +163,7 @@
       <title>Today in History: It has been 8 years since China officially banned ICOs on &quot;9/4&quot;.</title>
       <link>https://www.lookonchain.com/feeds/27641</link>
       <description>September 4th, 2017. On this day in 2017, seven central ministries in China jointly announced the suspension of ICO activities. At that time, the closing price of Bitcoin was $4,100. Later, it dropped to $2,817 on September 15th, 2017.On September 4th, 2017, seven Chinese government departments issued the &quot;Notice on the Prevention of Risks Related to Token Issuance and Financing,&quot; ceasing ICOs and classifying them as illegal financial activities. All domestic cryptocurrency exchanges were required to close within a specified time limit and stop new user registrations.</description>
-      <pubDate>Thu, 04 Sep 2025 05:56:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:00:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27641</guid>
       <category>crypto</category>
@@ -163,7 +180,7 @@
       <title>Source: https://www.example.comInformant: Hong Kong Regulatory Authority Shows Low Acceptance of &quot;HK Stock Crypto Treasury&quot; Direction</title>
       <link>https://www.lookonchain.com/feeds/27640</link>
       <description>On September 4th, as reported by Caixin, Weng Xiaoqi, the CEO of NewFire Technology, stated that Digital Asset Treasuries (DAT), cryptocurrency ETFs, and traditional cryptocurrency exchanges all essentially offer entry points for funds to engage in cryptocurrency trading. Prior to the emergence of cryptocurrency ETFs, exchanges were the mainstream. However, currently, the medium for cryptocurrency trading is evolving towards a more lightweight approach, and currently, DAT is the most lightweight way for traditional investors to enter the crypto world.An anonymous senior digital asset investor told Caixin that although the Hong Kong stock exchange is an option, after communicating with the Hong Kong regulatory authorities, it was discovered that Hong Kong has a relatively low level of acceptance for this direction, and market participants may still need to lobby local regulators.</description>
-      <pubDate>Thu, 04 Sep 2025 05:48:36 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 06:00:09 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27640</guid>
       <category>crypto</category>
@@ -174,24 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>WLFI drops below $0.19, hitting a new all-time low</title>
-      <link>https://www.lookonchain.com/feeds/27639</link>
-      <description>On September 4th, based on HTX market data, WLFI dropped below $0.19 and is currently trading at $0.1876, reaching a new all-time low, with a 24-hour decline of 18.46%.</description>
-      <pubDate>Thu, 04 Sep 2025 05:48:36 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27639</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
