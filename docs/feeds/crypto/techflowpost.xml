@@ -5,14 +5,36 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 10:30:13 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 10:30:13 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 10:45:04 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 10:45:04 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>OpenAI向免费用户开放ChatGPT项目功能</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方公告，OpenAI宣布ChatGPT的&quot;项目&quot;功能现已向免费用户开放，同时增加了多项新特性，包括更大的文件上传容量（免费用户可上传5个文件，Plus用户25个，专业/商业/企业版用户40个）、颜色和图标自定义选项，以及项目专属记忆控制功能。这些功能已在网页和安卓端上线，并将在未来几天内推送至...</description>
+      <pubDate>Thu, 04 Sep 2025 10:37:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>市场消息：American Bitcoin将比特币挖矿业务规模从10 EH/s扩大到24 EH/s</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，市场消息：American Bitcoin将比特币挖矿业务规模从10 EH/s扩大到24 EH/s，增长了2.4倍。</description>
+      <pubDate>Thu, 04 Sep 2025 10:34:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>报告：黑客利用以太坊智能合约隐藏恶意代码</title>
       <link>https://www.techflowpost.com</link>
@@ -260,28 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据官方公告，火币HTX已于9月4日上线PTB/USDT、ARIA/USDT永续合约，最高杠杆均为20倍。同时，火币HTX于9月4日14:00至9月11日14:00（UTC+8）启动PTB、ARIA合约交易派对，总奖池高达20,000美元。活动期间，用户完成报名，并参与PTB/USDT、ARIA/U...</description>
       <pubDate>Thu, 04 Sep 2025 06:24:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>美国银行利率策略主管：美联储可能会将利率降至至少3%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，美国银行利率策略主管马克·卡巴纳表示，美联储可能会将利率降至至少 3%。市场低估了美联储可能将利率降到 3% 以下的潜在结果范围。</description>
-      <pubDate>Thu, 04 Sep 2025 06:17:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Seal 宣布上线主网，Walrus 成为首个具备访问控制的去中心化数据平台</title>
-      <link>https://www.techflowpost.com</link>
-      <description>去中心化密钥管理解决方案 Seal 宣布主网上线，为任何基于该协议构建的开发者提供加密和访问控制功能。随着 Seal 的发布，Walrus 成为首个原生支持链上访问控制的去中心化数据平台，支持在任意规模的应用中，集成可编程数据访问的解决方案，解锁包括在强访问策略下共享专有训练数据或微调模型、代币门...</description>
-      <pubDate>Thu, 04 Sep 2025 06:16:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
