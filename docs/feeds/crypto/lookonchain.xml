@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 04:38:10 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 04:38:10 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 04:50:14 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 04:50:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Pump.fun has achieved a 24-hour fee revenue of $2.55 million, surpassing Hyperliquid.</title>
-      <link>https://www.lookonchain.com/feeds/27632</link>
-      <description>On September 4th, based on Defillama data, Solana&apos;s ecosystem token issuance platform Pump.fun has achieved a 24-hour fee income of $2.55 million, which exceeds Hyperliquid (with an income of $2.21 million) and ranks third overall.</description>
-      <pubDate>Thu, 04 Sep 2025 04:25:17 +0000</pubDate>
+      <title>The Uniswap community takes the first step towards protocol fee switch-on through a &quot;Establish DUNI Legal Entity&quot; temperature check vote</title>
+      <link>https://www.lookonchain.com/feeds/27633</link>
+      <description>On September 4th, as per the Snapshot governance page, the Uniswap community has voted in favor of the &quot;Establishment of DUNI Legal Entity&quot; temperature check proposal, which is set to undergo a second on-chain vote. The proposal indicates that Uniswap intends to adopt a decentralized non-stock non-profit association registered in Wyoming (DUNA) as the legal structure for the governance protocol and establish a legal entity named &quot;DUNI.&quot;DUNI aims to preserve a decentralized governance structure while facilitating off-chain operations such as contract signing, engaging service providers, and fulfilling regulatory and tax obligations. This entity will recognize the binding nature of on-chain governance proposals, offering members legal structure and liability protection certainty without impinging on the core mechanisms of the Uniswap protocol, UNI token, or on-chain governance.In the envisioned evolution of Uniswap governance, governance has the potential to unlock protocol fees, fun</description>
+      <pubDate>Thu, 04 Sep 2025 04:49:22 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27632</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27633</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Tokenized Gold Market Surpasses $2.5 Billion</title>
+      <link>https://www.lookonchain.com/feeds/27631</link>
+      <description>On September 4th, according to Coingeek, the extremely rapid increase in the price of gold has once pushed the size of the tokenized gold market to surpass 2.5 billion US dollars. Tokenized gold enables investors to gain exposure to physical gold without the need to purchase, transport, and store the physical asset.Currently, the tokenized gold market is mainly led by Tether&apos;s XAUT and Paxos&apos;s PAXG. In August alone, XAUT issued new tokens with a value of approximately 437 million US dollars, while PAXG attracted around 141.5 million US dollars in June.As of now, the total market value of PAXG has reached 985 million US dollars and ranks first. XAUT follows with a market value of approximately 859 million US dollars. This trend not only highlights the wave of asset tokenization but also indicates that in the future, when discussing the gold market (or even other precious metals or assets), we must increasingly take into account the performance of their corresponding tokenized market</description>
+      <pubDate>Thu, 04 Sep 2025 04:25:22 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27631</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -32,12 +49,12 @@
 
     </item>
     <item>
-      <title>Tokenized Gold Market Surpasses $2.5 Billion</title>
-      <link>https://www.lookonchain.com/feeds/27631</link>
-      <description>On September 4th, according to Coingeek, the extremely rapid increase in the price of gold has once pushed the size of the tokenized gold market to surpass 2.5 billion US dollars. Tokenized gold enables investors to gain exposure to physical gold without the need to purchase, transport, and store the physical asset.Currently, the tokenized gold market is mainly led by Tether&apos;s XAUT and Paxos&apos;s PAXG. In August alone, XAUT issued new tokens with a value of approximately 437 million US dollars, while PAXG attracted around 141.5 million US dollars in June.As of now, the total market value of PAXG has reached 985 million US dollars and ranks first. XAUT follows with a market value of approximately 859 million US dollars. This trend not only highlights the wave of asset tokenization but also indicates that in the future, when discussing the gold market (or even other precious metals or assets), we must increasingly take into account the performance of their corresponding tokenized market</description>
-      <pubDate>Thu, 04 Sep 2025 04:25:17 +0000</pubDate>
+      <title>Pump.fun has achieved a 24-hour fee revenue of $2.55 million, surpassing Hyperliquid.</title>
+      <link>https://www.lookonchain.com/feeds/27632</link>
+      <description>On September 4th, based on Defillama data, Solana&apos;s ecosystem token issuance platform Pump.fun has achieved a 24-hour fee income of $2.55 million, which exceeds Hyperliquid (with an income of $2.21 million) and ranks third overall.</description>
+      <pubDate>Thu, 04 Sep 2025 04:25:22 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27631</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27632</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -53,7 +70,7 @@
       <title>MEET48&apos;s official token IDOL surpasses $0.038, hitting an all-time high.</title>
       <link>https://www.lookonchain.com/feeds/27630</link>
       <description>On September 4th, based on market data, the official token IDOL of MEET48 has exceeded $0.038 and is now trading at $0.0386, reaching a new all-time high with a 24-hour increase of 118.2%.</description>
-      <pubDate>Thu, 04 Sep 2025 04:16:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 04:16:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27630</guid>
       <category>crypto</category>
@@ -71,7 +88,7 @@
       <title>Yesterday, the US Bitcoin Spot ETF saw a net inflow of $300.5 million, while the Ethereum Spot ETF saw a net outflow of $38.2 million.</title>
       <link>https://www.lookonchain.com/feeds/27629</link>
       <description>September 4th. Based on Farside&apos;s monitoring data, yesterday the net inflow of the US Bitcoin spot ETF was $300.5 million, while the net outflow of the Ethereum spot ETF was $38.2 million.</description>
-      <pubDate>Thu, 04 Sep 2025 04:01:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 04:01:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27629</guid>
       <category>crypto</category>
@@ -93,7 +110,7 @@
       <title>OKX Ventures Announces Strategic Investment in Blockchain Infrastructure Platform Aspecta</title>
       <link>https://www.lookonchain.com/feeds/27628</link>
       <description>September 4th. According to official information, OKX Ventures has declared a strategic investment in the blockchain infrastructure platform Aspecta, with the specific sum remaining undisclosed.Aspecta offers price discovery and lifecycle liquidity for illiquid assets (such as pre-IPO stocks, locked tokens, private equity, risk-weighted assets, etc.). Currently, Aspecta has more than 700,000 users and has facilitated over 80 million asset transactions through the BuildKey framework.</description>
-      <pubDate>Thu, 04 Sep 2025 03:56:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 03:56:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27628</guid>
       <category>crypto</category>
@@ -110,7 +127,7 @@
       <title>Analyst: ETH Outperforms on Strong Treasury Holdings, Sustainability of High Inflows Questioned</title>
       <link>https://www.lookonchain.com/feeds/27627</link>
       <description>On September 4th, according to The Block, Presto research analyst Min Jung stated that the market&apos;s buying pressure is mainly sustained by the continuous accumulation of Digital Asset Treasury (DAT) companies. He attributed Ethereum&apos;s significant surge on Wednesday to this trend.Jung said, &quot;ETH performed well again, likely due to the same fund inflow driven by DAT. However, we remain cautious about the sustainability of this theme and the ability of DAT companies to maintain high purchase volumes.&quot;The analyst also previously pointed out that funds are continuously rotating from Bitcoin to Ethereum as traders believe that after Bitcoin hit historic highs in July and August, Ethereum offered more profit-taking opportunities.</description>
-      <pubDate>Thu, 04 Sep 2025 03:40:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 03:49:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27627</guid>
       <category>crypto</category>
@@ -129,7 +146,7 @@
       <title>Ukrainian Parliament Passes First Reading of Cryptocurrency Legalization and Taxation Bill</title>
       <link>https://www.lookonchain.com/feeds/27626</link>
       <description>On September 4th, according to a report by Cointelegraph, Ukrainian MP Yaroslav Zhelezniak disclosed that the Ukrainian parliament passed the first reading of a cryptocurrency legalization and taxation bill on Wednesday. Once the bill is ultimately signed into law, it will exert a significant influence on Ukraine&apos;s digital asset economy.In the first reading vote, the bill received the support of 246 MPs. The draft bill stipulates that digital asset profits will be subject to an 18% income tax and a 5% military tax. The announcement also noted that the bill sets a 5% preferential tax rate for fiat-crypto exchanges in the first year.The proposed 23% tax rate is in line with the recommendations of the Ukrainian financial regulator in April. The initial proposal included exemptions for cryptocurrency-to-cryptocurrency transactions and stablecoin transactions, which makes Ukraine&apos;s crypto tax regime more similar to that of crypto-friendly countries.</description>
-      <pubDate>Thu, 04 Sep 2025 03:37:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 03:49:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27626</guid>
       <category>crypto</category>
@@ -146,7 +163,7 @@
       <title>Australian Self-Managed Superannuation Funds&apos; cryptocurrency holdings decreased by approximately 4% year-on-year as of June</title>
       <link>https://www.lookonchain.com/feeds/27625</link>
       <description>September 4th. According to a report by Cointelegraph, data released by the Australian Taxation Office (ATO) indicates that although the cryptocurrency market has witnessed an increase, the cryptocurrency holdings of Australian Self-Managed Superannuation Funds (SMSFs) have decreased by approximately 4% year-on-year.Adjusted data shows that as of June 2025, SMSFs held cryptocurrency worth 3.02 billion Australian dollars (approximately 1.97 billion US dollars), which is about 100 million Australian dollars less than the 3.12 billion Australian dollars reported in June 2024.</description>
-      <pubDate>Thu, 04 Sep 2025 03:37:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 03:49:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27625</guid>
       <category>crypto</category>
@@ -163,7 +180,7 @@
       <title>Coinbase Accelerates AI Adoption: Aims to Have Over 50% of Daily Code Generated by AI by October</title>
       <link>https://www.lookonchain.com/feeds/27624</link>
       <description>September 4th: Brian Armstrong, the CEO of Coinbase, announced that approximately 40% of Coinbase&apos;s daily code is generated by AI. The goal is to increase this percentage to over 50% by October. Evidently, this code requires review and understanding, and not all of the company&apos;s business areas can utilize AI-generated code. Nevertheless, Coinbase should, on the premise of responsibility, make extensive use of AI-generated code as much as possible.</description>
-      <pubDate>Thu, 04 Sep 2025 03:37:17 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 02:49:22 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27624</guid>
       <category>crypto</category>
@@ -174,26 +191,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>3 new addresses withdrew 65,662 ETH from FalconX, totaling $293 million.</title>
-      <link>https://www.lookonchain.com/feeds/27623</link>
-      <description>On September 4th, as monitored by Onchain Lens, 3 new addresses withdrew a combined total of 65,662 ETH from FalconX. The value of these withdrawals amounted to $293 million.</description>
-      <pubDate>Thu, 04 Sep 2025 02:37:17 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27623</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
   </channel>
