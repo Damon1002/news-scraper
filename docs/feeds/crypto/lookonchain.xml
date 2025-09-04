@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 15:41:47 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 15:41:47 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 15:53:57 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 15:53:57 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,63 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Resolv Introduces Modular Cluster Clusters, Enabling Yield Embedding in Stablecoin Collateral</title>
+      <link>https://www.lookonchain.com/feeds/27757</link>
+      <description>September 4th. Resolv is on the verge of launching the modular cluster named Clusters. This allows for the securitization of productive assets within DeFi and other domains, directly embedding yield into stablecoin collateral. The first practical application is Fluid, where the fund borrowing flow has offered support to the stablecoin ecosystem.</description>
+      <pubDate>Thu, 04 Sep 2025 15:49:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27757</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Tether Mints Additional 2 Billion USDT on the Ethereum Network</title>
+      <link>https://www.lookonchain.com/feeds/27756</link>
+      <description>September 4th. Two minutes ago, Tether minted an extra 2 billion USDT on the Ethereum blockchain.</description>
+      <pubDate>Thu, 04 Sep 2025 15:48:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27756</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Federal Reserve Board Nominee Milan: Tariffs Will Not Cause Inflation</title>
+      <link>https://www.lookonchain.com/feeds/27755</link>
+      <description>On September 4th, the nominee to the Federal Reserve Board, Milan, stated that tariffs do not lead to inflation. (Xinhua Finance)</description>
+      <pubDate>Thu, 04 Sep 2025 15:48:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27755</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The amount of ETH queued for joining the Ethereum PoS network has exceeded the amount queued for exiting.</title>
       <link>https://www.lookonchain.com/feeds/27754</link>
       <description>On September 4th, based on the data from the Validator Queue tracking website validatorqueue, the current amount of ETH exiting the Ethereum PoS network queue has been continuously declining for 6 consecutive days. It currently stands at 813,389 ETH, which is approximately worth $3.5 billion. The exit wait time is about 14 days and 3 hours.Meanwhile, the amount of ETH queued to join the network is about 824,900 ETH, approximately worth $3.55 billion. This exceeds the queued exits. The expected activation delay is about 14 days and 8 hours.Previously reported, this situation reflects the existence of two opposing forces in the market. On one hand, some stakers may have decided to cash out after Ethereum&apos;s significant rebound from the April low, resulting in a surge in the exit queue. On the other hand, new inflows of funds driven by regulatory optimism and institutional demand are also boosting the entry queue. Publicly traded companies such as SharpLink Gaming and BitMine Immersion</description>
-      <pubDate>Thu, 04 Sep 2025 15:40:53 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:41:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27754</guid>
       <category>crypto</category>
@@ -33,10 +86,27 @@
 
     </item>
     <item>
+      <title>Federal Reserve Board Nominee Milan: &apos;No One Has Asked Me to Pledge to Vote for Rate Cuts&apos;</title>
+      <link>https://www.lookonchain.com/feeds/27753</link>
+      <description>On September 4th, the nominee of the Federal Reserve Board, Milan, stated that no one has requested me to commit to voting in favor of a rate cut. (Xinhua News Agency)</description>
+      <pubDate>Thu, 04 Sep 2025 15:25:04 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27753</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>Greeks.live: The market is currently in a downtrend, and September has historically been a month of relatively weak funding.</title>
       <link>https://www.lookonchain.com/feeds/27752</link>
       <description>On September 4th, Macro Researcher Adam from Greeks.live tweeted, &quot;The market is evidently in a downtrend. BTC&apos;s short-to-medium-term IV has risen to 40%, and ETH&apos;s short-term IV has increased to 70%. The rise in short-term IV indicates that the market is anticipating higher volatility this week. The decline in crypto-related stocks in the US stock market, especially those of the MicroStrategy series, serves as the trigger for this downturn. Historically, September has been a month with weak funding flows, but in the last quarter, funding will be more abundant. The trading volume of put options today is also experiencing a rapid increase, with a total transaction volume of $1.17 billion, accounting for 30% of the total daily trading volume, suggesting that a defensive mindset is prevailing.&quot;</description>
-      <pubDate>Thu, 04 Sep 2025 15:24:53 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:25:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27752</guid>
       <category>crypto</category>
@@ -53,7 +123,7 @@
       <title>DeFi Development Corporation has increased its holdings to 196,141 SOL, bringing its total holdings to 2,027,817 SOL.</title>
       <link>https://www.lookonchain.com/feeds/27751</link>
       <description>On September 4th, as per official channels, the US-listed company DeFi Development Corporation declared that it has augmented its holdings by purchasing 196,141 SOL at an average cost of $202.76, resulting in the total treasury holdings reaching 2,027,817 SOL, with a value of $427 million.This acquisition enhanced the quantity acquired in the prior acquisition announced on August 28th, 2025, by 11%.</description>
-      <pubDate>Thu, 04 Sep 2025 15:24:53 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:25:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27751</guid>
       <category>crypto</category>
@@ -70,7 +140,7 @@
       <title>LookOnChain: Ethereum Drops Below $4,300</title>
       <link>https://www.lookonchain.com/feeds/27750</link>
       <description>On September 4th, according to HTX market data, Ethereum fell below $4300, with a 24-hour decline of 3.61%.</description>
-      <pubDate>Thu, 04 Sep 2025 15:24:53 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:24:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27750</guid>
       <category>crypto</category>
@@ -87,27 +157,10 @@
 
     </item>
     <item>
-      <title>Federal Reserve Board Nominee Milan: &apos;No One Has Asked Me to Pledge to Vote for Rate Cuts&apos;</title>
-      <link>https://www.lookonchain.com/feeds/27753</link>
-      <description>On September 4th, the nominee of the Federal Reserve Board, Milan, stated that no one has requested me to commit to voting in favor of a rate cut. (Xinhua News Agency)</description>
-      <pubDate>Thu, 04 Sep 2025 15:24:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27753</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>pump.fun: $12,192,383 worth of PUMP tokens were bought back in the past week</title>
       <link>https://www.lookonchain.com/feeds/27749</link>
       <description>On September 4th, pump.fun tweeted that during the past week, a total of $12,192,383 worth of PUMP tokens were purchased. This accounted for 98.23% of the total revenue during the same period (from August 28th to September 3rd). This PUMP purchase has led to a reduction in the total circulating supply by 5.363%, which is an increase of 1.102% compared to the previous week.</description>
-      <pubDate>Thu, 04 Sep 2025 15:16:53 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:17:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27749</guid>
       <category>crypto</category>
@@ -125,63 +178,9 @@
       <title>「$13.29M Bet Placed on BLOCK and WLFI Address」 Withdraws $2.09M Worth of WLFI Again from Bybit</title>
       <link>https://www.lookonchain.com/feeds/27748</link>
       <description>On September 4th, according to on-chain analyst Ai Yi (@ai_9684xtpa), the value of WLFI continues to decline. &quot;Invested $13.29 million in BLOCK and WLFI address&quot;, 50 minutes ago, it once again withdrew $2.09 million worth of WLFI from Bybit; currently, he holds a total of 62.78 million WLFI. The average price for the additional 52.56 million WLFI is $0.2313, resulting in an unrealized loss of $3.436 million.</description>
-      <pubDate>Thu, 04 Sep 2025 15:16:53 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:17:04 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27748</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>US Stocks Crypto Reserve Companies Experience General Decline, ABTC Drops More Than 17%</title>
-      <link>https://www.lookonchain.com/feeds/27747</link>
-      <description>On September 4th, the stock prices of US crypto reserve companies generally declined. These included:American Bitcoin (ABTC), which decreased by 17.2%;MicroStrategy (MSTR), down by 2.62%;SharpLink Gaming (SBET), with a decline of 7.77%;Bitmine (BMNR), down 7.2%;BTCS (BTCS), falling 3.79%;ALT5 Sigma (ALTS), down 15.18%.Previously reported, Nasdaq is intensifying its scrutiny of listed companies&apos; investments in cryptocurrency. Previously, some companies had raised funds to purchase crypto assets, which had boosted their stock prices. However, Nasdaq has expressed concerns about this behavior, believing that it may pose risks of misleading investors. Therefore, it has decided to strengthen regulatory efforts. Currently, Nasdaq has not publicly disclosed specific regulatory measures. However, it is expected that relevant companies will be required to disclose detailed information about their crypto asset investments, including investment size, strategy, and potential risks. In addi</description>
-      <pubDate>Thu, 04 Sep 2025 15:16:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27747</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Federal Reserve Board Nominee Milan: President Has Right to Comment on Monetary Policy</title>
-      <link>https://www.lookonchain.com/feeds/27746</link>
-      <description>September 4th. Milan, the nominee of the Federal Reserve Board, stated that the President has the prerogative to express viewpoints on monetary policy. (Xinhua Finance)</description>
-      <pubDate>Thu, 04 Sep 2025 15:00:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27746</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Jito Foundation announces four updates to the JTO Tokenomics and has completed the first round of a $1 million JTO buyback.</title>
-      <link>https://www.lookonchain.com/feeds/27745</link>
-      <description>On September 4th, the Jito Foundation announced four updates to the JTO tokenomics:· The completion of the first round of a $1 million JTO buyback and future plans: It was completed in four parts within ten days with a $1 million JTO buyback. The foundation will continue to utilize the TWAP buyback strategy and develop other mechanisms like an auction system to achieve the automatic accumulation of JTO value.· The approval of the JIP-24 proposal, doubling the DAO block engine fee.· The launch of the JTO Economic Hub page.· The hosting of the first JTO holder conference call.</description>
-      <pubDate>Thu, 04 Sep 2025 14:56:53 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27745</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
