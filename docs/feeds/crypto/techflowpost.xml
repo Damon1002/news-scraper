@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 06:26:11 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 06:26:11 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 06:49:28 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 06:49:28 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Tether 冻结 11 个地址共计 645 万枚 USDT</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上监测平台 MistTrack（@MistTrack_io）监测，Tether 已对 11 个地址实施冻结，涉及金额共计 645 万 USDT。</description>
+      <pubDate>Thu, 04 Sep 2025 06:30:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>火币HTX已上线PTB、ARIA永续合约，并启动合约交易派对</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据火币HTX公告显示，火币HTX已于9月3日17:30 (GMT+8) 开放ULTIMA的充币业务。ULTIMA/USDT现货交易将于9月4日17:00 (GMT+8)开放。同时，火币杠杆将于9月4日17:00 (GMT+8)新增ULTIMA/USDT (10X) 逐仓杠杆交易。据悉，Ultima...</description>
       <pubDate>Thu, 04 Sep 2025 02:47:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某钱包时隔一个月再次从 FalconX 接收 2,979 枚 MKR，约合 522 万美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，地址 0xc23...4D649 时隔一个月再次从 FalconX 转出 2,979 枚 MKR（约合 522 万美元）。该地址过去两个月累计获取 8,753 枚 MKR，平均获取价格为 1,948 美元，当前持仓浮亏约 142.1 万美元。</description>
-      <pubDate>Thu, 04 Sep 2025 02:43:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
