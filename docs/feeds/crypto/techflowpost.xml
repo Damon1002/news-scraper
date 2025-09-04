@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 08:13:44 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 08:13:44 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 08:40:38 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 08:40:38 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>本周五迎来45亿美元加密期权到期，比特币占32.8亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Deribit官方发布消息，本周五（UTC时间08:00）将有超45亿美元加密货币期权到期。其中比特币期权占32.8亿美元，卖出/买入比率为1.38，最大痛点价格为112,000美元，持仓兴趣主要集中在105,000-110,000美元区间。以太坊期权占12.7亿美元，卖出/买入比率为0.78，最...</description>
+      <pubDate>Thu, 04 Sep 2025 08:31:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Bybit Web3 已上线 $CARDS</title>
+      <link>https://www.techflowpost.com</link>
+      <description>升级Bybit APP至5.0.0以上版本，无需钱包，即可快速交易链上资产。</description>
+      <pubDate>Thu, 04 Sep 2025 08:21:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>市场消息：DeepSeek的目标是在年底前发布AI代理</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据金十数据报道，市场消息：DeepSeek的目标是在年底前发布AI代理（AI AGENT）。</description>
+      <pubDate>Thu, 04 Sep 2025 08:12:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>币安：Tradoor (TRADOOR) 空投门槛为220分</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>此前消息，Coinbase CEO称，该公司约 40% 的日常代码由 AI 生成，目标 10 月提升至 50% 以上。</description>
       <pubDate>Thu, 04 Sep 2025 04:48:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>高盛：如果美联储信誉受损，金价有可能逼近5000美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据金十数据报道，高盛集团表示，如果美联储的信誉受损，投资者将一小部分美国国债换成黄金，金价可能会涨至每盎司近 5000 美元。包括 Samantha Dart 在内的分析师在一份报告中表示：“美联储独立性受损的情况可能会导致通胀上升，股市和长期债券价格下跌，美元的储备货币地位受到侵蚀。相比之下，黄...</description>
-      <pubDate>Thu, 04 Sep 2025 04:20:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>某鲸鱼斥资 230 万美元买入 UNI、MKR 和 SPK，并投入流动性池</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Onchain Lens（@OnchainLens）监测，某鲸鱼使用 230 万美元 USDC 购入三种代币：以均价 9.74 美元购入 153,975 个 UNI，总价值 150 万美元；以均价 1,806 美元购入 276.78 个 MKR，总价值 50 万美元；以均价 0.06...</description>
-      <pubDate>Thu, 04 Sep 2025 04:11:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>随着现货黄金上涨，代币化黄金市场规模一度突破 25 亿美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 CoinGeek 报道，随着黄金价格突破历史新高，代币化黄金市场总规模一度超过 25 亿美元。目前市场主要由 Paxos 的 PAXG 和 Tether 的 XAUT 主导，PAXG 市值达到 9.85 亿美元，XAUT 市值为 8.59 亿美元。今年 8 月，XAUT 新增发行量达 4.37...</description>
-      <pubDate>Thu, 04 Sep 2025 03:55:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
