@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Sep 2025 23:52:38 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Sep 2025 23:52:38 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 00:59:35 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 00:59:35 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,51 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Polymarket Receives CFTC Approval, Set to Return to the U.S. Market</title>
-      <link>https://www.lookonchain.com/feeds/27598</link>
-      <description>On September 4th, as per the report in The Information, Polymarket, the world&apos;s largest prediction market, has received approval from the U.S. Commodity Futures Trading Commission (CFTC) to soon resume operations in the U.S. This was announced by its CEO and founder Shayne Coplan in a tweet on Wednesday. The platform was founded in 2020 and was previously accused by the CFTC of operating an unregistered derivatives market. In 2022, it reached a settlement with U.S. users and ceased operations.On Wednesday, the CFTC issued a &quot;no-action letter&quot; to Polymarket regarding the U.S.-registered exchange and clearinghouse QCEX, which Polymarket acquired for $112 million in July this year. This allows Polymarket to offer prediction market services for events such as elections and also provides relief from certain recordkeeping requirements. Polymarket did not disclose a specific timeframe for its return.</description>
-      <pubDate>Wed, 03 Sep 2025 23:48:45 +0000</pubDate>
+      <title>「$2249 Short Position on ETH」 Faces Massive Unrealized Loss of Nearly $18 Million, Previously Liquidated with 25x Leverage, Been Stuck for Four Months</title>
+      <link>https://www.lookonchain.com/feeds/27608</link>
+      <description>On September 4th, according to the monitoring of HyperInsight, the whale that shorted ETH at $2249 last night has decreased its holdings by 333.19 ETH. Currently, it is facing a loss of approximately $17.938 million, with a liquidation price of $5784.94. This whale established a 25x short position in April when the ETH price was around $2249.7. Subsequently, it continuously raised the average entry price to around $2760 by continuously adding positions. It has been gradually reducing the position since the end of August.</description>
+      <pubDate>Thu, 04 Sep 2025 00:56:42 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27598</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27608</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>2 new addresses withdrew 34,000 ETH from Binance last night after ETH surged.</title>
+      <link>https://www.lookonchain.com/feeds/27607</link>
+      <description>On September 4th, based on the monitoring of on-chain data analyst Yu Jin, last night after ETH surged from $4,350 to $4,480, 34,000 ETH (approximately $150 million) was then withdrawn from Binance to two new wallet addresses at 1 am according to American language usage.</description>
+      <pubDate>Thu, 04 Sep 2025 00:48:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27607</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Moonshot is excited to announce the addition of CARDS!Stay tuned for this next big thing in the NFT world.</title>
+      <link>https://www.lookonchain.com/feeds/27606</link>
+      <description>On September 4th, based on monitoring, Moonshot incorporated Collector Crypt (CARDS) onto its platform. At the time of listing, it had an initial fully diluted valuation (FDV) of $4.16 billion and a 24-hour trading volume of $1 billion.</description>
+      <pubDate>Thu, 04 Sep 2025 00:40:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27606</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +70,68 @@
 
     </item>
     <item>
-      <title>The probability of a 25 basis point interest rate cut by the Federal Reserve in September has risen to 96.6%.</title>
-      <link>https://www.lookonchain.com/feeds/27597</link>
-      <description>On September 4th, based on CME&apos;s &quot;FedWatch&quot;: The likelihood of the Fed maintaining the interest rate unchanged in September is 3.4%, and the likelihood of a 25-basis-point rate cut is 96.6%.There is a 1.6% probability of the Fed keeping the interest rate unchanged in October. The cumulative probability of a 25-basis-point rate cut is 46.8%, and the cumulative probability of a 50-basis-point rate cut is 51.6%. (FXStreet)</description>
-      <pubDate>Wed, 03 Sep 2025 22:51:45 +0000</pubDate>
+      <title>CARDS surges over 200% in the last 24 hours, now trading at $0.2068.</title>
+      <link>https://www.lookonchain.com/feeds/27605</link>
+      <description>On September 4th, based on GMGN market data, the token CARDS of the Solana ecosystem NFT trading platform Collector Crypt has surged above $0.2 and is currently trading at $0.2068, indicating a 24-hour price increase of 202.6%. The current market capitalization is reported to be $81.33 million, and the fully diluted valuation (FDV) is $413 million.</description>
+      <pubDate>Thu, 04 Sep 2025 00:40:42 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27597</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27605</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>ETH Transaction Platform Balance Hits Nearly 3-Year Low, Withdrawal Acceleration Seen in the Past 3 Months</title>
+      <link>https://www.lookonchain.com/feeds/27604</link>
+      <description>On September 4th, according to CryptoQuant&apos;s data, since peaking at around 28.8 million in September 2022, the ETH exchange platform reserve has decreased by nearly 10.7 million. The current reserve stands at approximately 17.4 million ETH, with about 2.5 million ETH being withdrawn from the exchange platform just in the past three months.The data indicates that the spot ETH ETF launched in July 2024 has attracted more than $13 billion in net inflows up to now. From June to August, these funds witnessed net inflows of over $10 billion, with a record $5.4 billion in inflows alone in July.Corporate bonds are also fueling demand. In the past few months, several publicly traded companies have announced the issuance of ETH bonds, and corporate treasury purchases are affecting the exchange&apos;s ETH supply. It is known that 17 publicly listed companies hold ETH on their balance sheets, with a total holding of over 3.6 million ETH.An analyst at Bitfinex stated that one of the key attraction</description>
+      <pubDate>Thu, 04 Sep 2025 00:32:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27604</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>An address newly created 8 hours ago withdrew 692 BTC from Galaxy Digital</title>
+      <link>https://www.lookonchain.com/feeds/27603</link>
+      <description>On September 4th, as per the monitoring of Onchain Lens, a new address withdrew 692 BTC from Galaxy Digital 8 hours ago. The amount withdrawn is worth $77.32 million.</description>
+      <pubDate>Thu, 04 Sep 2025 00:24:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27603</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Ondo Tokenized Stocks Officially Launched, Initial Offering Supports Over 100 Equities and ETFs</title>
+      <link>https://www.lookonchain.com/feeds/27602</link>
+      <description>On September 4th, according to official channels, Ondo Global Markets has officially commenced. It offers non-US investors with round-the-clock instantaneous access to tokenized US stocks, ETFs, and other securities. These come with access to traditional market liquidity and institutional-grade protection. Non-US investors can trade more than 100 tokenized US stocks and ETFs (subject to jurisdictional limitations) and plan to expand to over 1000 by the end of the year, marking the largest-ever tokenized equity asset issuance. Ondo&apos;s tokenized stocks are now operational on Ethereum and are soon to expand to the BNB Chain, Solana, Ondo Chain, and other networks.It is reported that Ondo&apos;s tokenized stocks are backed by the on-hand securities held by a US-registered broker-dealer and readily available cash in full. Non-US users can instantly mint, redeem, and transfer these assets 24/7/365 (transfers are available throughout the day, while minting and redeeming are liquidity-matched duri</description>
+      <pubDate>Thu, 04 Sep 2025 00:16:42 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27602</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -48,12 +143,12 @@
 
     </item>
     <item>
-      <title>Trump: Musk Will Eventually Realign with the Republican Party</title>
-      <link>https://www.lookonchain.com/feeds/27596</link>
-      <description>On September 4th, it was reported that during a recent TV interview, former U.S. President Donald Trump stated that Elon Musk had no alternative but to return to the Republican Party. Trump also refuted the claim that Musk was aligned with the Democratic Party, referring to the Democrats as radical left lunatics.Trump characterized Musk as a sensible person who is merely temporarily refraining. He believed that Musk would ultimately realign with the Republican Party. Trump praised Musk&apos;s talent, calling him &quot;80% a super genius,&quot; while noting that there are some issues to be overcome. When asked about his relationship with Musk, Trump evaded the question and emphasized that he still had a liking for Musk. (Golden Finance)</description>
-      <pubDate>Wed, 03 Sep 2025 22:51:45 +0000</pubDate>
+      <title>Moonshot is launching the xStocks tokenized stocks, currently not available to users from the United States</title>
+      <link>https://www.lookonchain.com/feeds/27601</link>
+      <description>Update, September 4th. According to official channels, Moonshot has declared the commencement of the launch of xStocks tokenized stocks. Users are now capable of participating in the traditional market and trading assets (such as NVDAx, COINx, and TSLAx) via xStocks. The service is accessible in certain countries/regions and is currently not available to users in the United States.</description>
+      <pubDate>Thu, 04 Sep 2025 00:08:42 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27596</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27601</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -65,46 +160,12 @@
 
     </item>
     <item>
-      <title>Federal Reserve&apos;s Kashkari: Inflation Still Too High, But Labor Market Showing Signs of Cooling</title>
-      <link>https://www.lookonchain.com/feeds/27595</link>
-      <description>September 4th: Kashkari of the Federal Reserve stated that the Fed has not yet accomplished its work of bringing inflation back to 2%. Inflation remains at a high level, yet the labor market is demonstrating signs of cooling. The Fed is confronted with a tricky situation related to its mandate.Data shows that the economy is decelerating and moving towards a soft landing. Tariffs have resulted in an increase in commodity inflation. The Fed relies heavily on government-published economic data. (Fx678 News)</description>
-      <pubDate>Wed, 03 Sep 2025 17:51:45 +0000</pubDate>
+      <title>The Trump Family Backs Mining Firm American Bitcoin, Stock Price Surges 17% on First Day of Trading, Eric Trump&apos;s Holdings Valued at Over $500 Million</title>
+      <link>https://www.lookonchain.com/feeds/27600</link>
+      <description>On September 4th, during the listing debut of mining company American Bitcoin (with the code ABTC) supported by the Trump family, the stock price increased by nearly 17% to $8.04 per share, and reached a high of $14 during the trading session. The trading volume of the stock on the first day exceeded 29 million shares.Eric Trump stated, &quot;We possess a core, high-quality mining operation. Currently, the mining costs are only 50% of the Bitcoin market price. The company holds hundreds of millions of dollars&apos; worth of hardware assets and data centers... While others can only purchase at face value, we can acquire Bitcoin at a significant discount.&quot;According to Bloomberg&apos;s estimation, the successful listing of American Bitcoin indicates that the stake held by Eric Trump, the second son of Trump, is valued at more than $500 million.Founded in March of this year, American Bitcoin is a cryptocurrency mining and holding company co-founded by Eric Trump and supported by Donald Trump Jr. (t</description>
+      <pubDate>Wed, 03 Sep 2025 23:58:42 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27595</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The US 5-Year Treasury Yield Falls Below 3.68%, Hitting a New Low Since April</title>
-      <link>https://www.lookonchain.com/feeds/27594</link>
-      <description>On September 4th, the yield of the US 5-year Treasury fell below 3.68%, reaching a new low since April. (FX168)</description>
-      <pubDate>Wed, 03 Sep 2025 17:51:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27594</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>If Bitcoin breaks $114,000, the mainstream CEX&apos;s total short liquidation volume will reach $1.289 billion</title>
-      <link>https://www.lookonchain.com/feeds/27593</link>
-      <description>On September 4th, based on Coinglass data, if Bitcoin manages to break through $114,000, the cumulative short liquidation intensity on mainstream CEX will reach $1.289 billion.Conversely, if Bitcoin drops below $111,000, the cumulative long liquidation intensity on mainstream CEX will reach $1.231 billion.**BlockBeats Note**: The liquidation chart does not provide the exact number of contracts to be liquidated or the precise value of liquidated contracts. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to the adjacent cluster, that is, the intensity.Therefore, the liquidation chart shows to what extent the underlying asset price will be influenced when it reaches a certain level. A higher &quot;liquidation bar&quot; indicates that the price will undergo a more intense reaction due to a liquidity cascade once it reaches that level.</description>
-      <pubDate>Wed, 03 Sep 2025 17:51:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27593</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27600</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -119,12 +180,12 @@
 
     </item>
     <item>
-      <title>Trump Suggests Future Tariffs Could Replace Income Tax, Potentially Altering Tax Policy</title>
-      <link>https://www.lookonchain.com/feeds/27592</link>
-      <description>September 4th: U.S. President Trump insinuated that future tariffs might replace income tax, which could potentially lead to a transformation of tax policies.He asserted that tariffs are &quot;of great significance&quot; to America&apos;s prosperity. If we lose the tariff case, our nation might once again descend into an unimaginable state of poverty. The Supreme Court is set to hear the international tariff case. (Golden Finance)</description>
-      <pubDate>Wed, 03 Sep 2025 16:51:45 +0000</pubDate>
+      <title>A newly created address withdrew 17,000 ETH from Binance, worth $75.81 million.</title>
+      <link>https://www.lookonchain.com/feeds/27599</link>
+      <description>On September 4th, as monitored by Onchain Lens, the new address &apos;0x900&apos; withdrew 17,000 ETH from Binance, with a value of $75.81 million. Additionally, a whale address beginning with &apos;0x8e0&apos; withdrew 2,312 ETH from Kraken, having a value of $10.31 million.</description>
+      <pubDate>Wed, 03 Sep 2025 23:58:42 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27592</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27599</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -133,60 +194,9 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Aria, an IP Tokenization Platform, Completes Two Rounds of $15 Million Financing at a $50 Million Valuation, With Participation from Polychain</title>
-      <link>https://www.lookonchain.com/feeds/27591</link>
-      <description>On September 4th, the Aria Protocol Labs and the Aria Foundation—the team behind the story-driven Intellectual Property (IP) tokenization platform Aria—recently raised a total of $15 million in a seed round and a strategic round of financing. Both rounds of financing were completed in the previous month following negotiations that started in March. The seed round was led by Polychain Capital and Neoclassic Capital, while the strategic round received support from the Story Protocol Foundation and other unnamed investors in the cryptocurrency, intellectual property, and entertainment sectors.This financing employed a combination of equity and tokenized subscription rights, resulting in a $50 million valuation for Aria&apos;s equity. The project also intends to launch a native token in the future.Aria is constructed on Story, a Layer 1 blockchain designed specifically for IP tokenization. Currently, Aria is mainly focused on the tokenization of music IP, transforming music royalties into t</description>
-      <pubDate>Wed, 03 Sep 2025 15:51:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27591</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>LookOnChain: Coinbase will list Awe (AWE)</title>
-      <link>https://www.lookonchain.com/feeds/27590</link>
-      <description>On September 3rd, Coinbase will make Awe (AWE) available for listing and support on the Base network. It is important to note that you should not send this asset through other networks, as there is a risk of losing your funds.</description>
-      <pubDate>Wed, 03 Sep 2025 15:51:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27590</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Withdrawal Recovery, 24-hour CEX Net Outflow of 898.13 BTC</title>
-      <link>https://www.lookonchain.com/feeds/27589</link>
-      <description>On September 3rd, according to Coinglass data, in the past 24 hours, a total net outflow of 898.13 BTC has been observed on CEX. The top three CEX with the largest outflow amounts are as follows:· Binance, with an outflow of 1,194.49 BTC;· Coinbase Pro, with an outflow of 674.44 BTC;· Bithumb, with an outflow of 304.17 BTC.In addition, Bitstamp saw an inflow of 335.46 BTC, ranking first in the list of inflows.</description>
-      <pubDate>Wed, 03 Sep 2025 15:51:45 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27589</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
