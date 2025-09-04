@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 16:43:39 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 16:43:39 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 16:56:47 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 16:56:47 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>The Trump family-backed crypto projects WLFI and ABTC both dropped over 20% today.</title>
+      <link>https://www.lookonchain.com/feeds/27766</link>
+      <description>September 5th: The cryptocurrency projects World Liberty Financial (WLFI) and American Bitcoin (ABTC), which are endorsed by Donald Trump, both witnessed a more than 20% decline today. WLFI dropped by 24% and ABTC by 21%.</description>
+      <pubDate>Thu, 04 Sep 2025 16:48:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27766</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>Stripe-Backed Payment Blockchain Tempo Launched on Private Testnet Incubated by Paradigm</title>
       <link>https://www.lookonchain.com/feeds/27765</link>
       <description>On September 5th, according to official channels, the payment public chain Tempo incubated by Stripe and Paradigm has launched its private testnet. Tempo is engineered for stablecoins and real-world payments, with the intention of offering low fees, support for transferring and paying gas fees in any stablecoin, optional privacy features, and a throughput of over 100,000 transactions per second (TPS).The first batch of partners encompasses Anthropic, Coupang, Deutsche Bank, DoorDash, Lead Bank, Mercury, Nubank, OpenAI, Revolut, Shopify, Standard Chartered Bank, Visa, and several other entities.Tempo&apos;s use cases span across global payments, salary disbursement, embedded financial accounts, fast and low-cost cross-border remittances, 24/7 settlement of tokenized deposits, micropayments, intelligent contract-based payments, and more. Tempo is constructed on Reth and is compatible with the Ethereum Virtual Machine (EVM).</description>
-      <pubDate>Thu, 04 Sep 2025 16:40:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:40:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27765</guid>
       <category>crypto</category>
@@ -34,7 +53,7 @@
       <title>Tether and Circle have collectively minted stablecoins worth $12 billion in the past month.</title>
       <link>https://www.lookonchain.com/feeds/27764</link>
       <description>On September 5th, as monitored by LookOnChain, Tether minted an additional 2 billion USDT 36 minutes ago. Within the past month, Tether and Circle have collectively minted a total of $12 billion worth of stablecoins.</description>
-      <pubDate>Thu, 04 Sep 2025 16:32:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:32:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27764</guid>
       <category>crypto</category>
@@ -54,7 +73,7 @@
       <title>The U.S. Senate is expected to release the latest market structure legislation draft as early as today.</title>
       <link>https://www.lookonchain.com/feeds/27763</link>
       <description>On September 5th, Crypto journalist Eleanor Terrett reported that &quot;There is a rumor that the U.S. Senate Banking Committee will soon release the latest market structure legislation today, which reflects the feedback from the public consultation before the August recess.&quot;</description>
-      <pubDate>Thu, 04 Sep 2025 16:24:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:24:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27763</guid>
       <category>crypto</category>
@@ -71,7 +90,7 @@
       <title>BlockSpaceForce has partnered with Mainnet Capital to launch a cryptocurrency hedge fund, with a target AUM of $100 million.</title>
       <link>https://www.lookonchain.com/feeds/27760</link>
       <description>On September 5th, as per The Block, BlockSpaceForce, a Singapore-based crypto advisory firm, announced a partnership with Mainnet Capital, a local licensed fund management company. They are set to launch a hedge fund dedicated to investing in publicly traded companies within the crypto space, encompassing Digital Asset Treasury (DAT) companies. The targeted Asset Under Management (AUM) is $100 million.</description>
-      <pubDate>Thu, 04 Sep 2025 16:08:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:08:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27760</guid>
       <category>crypto</category>
@@ -89,7 +108,7 @@
       <title>Federal Reserve&apos;s Williams: If the economy performs as I expect, interest rates are expected to be gradually lowered</title>
       <link>https://www.lookonchain.com/feeds/27762</link>
       <description>On September 5th, William from the Federal Reserve stated that if the economy operates as I anticipate, I anticipate that rates will gradually decline. Tariffs may lead to a 1.00% to 1.50% increase in inflation this year. The unemployment rate is expected to rise to approximately 4.5% next year. Thus far, tariffs do not appear to have pushed up long-term inflation. The inflation rate is expected to be 3% to 3.25% by 2025. (FXStreet)</description>
-      <pubDate>Thu, 04 Sep 2025 16:08:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:08:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27762</guid>
       <category>crypto</category>
@@ -106,7 +125,7 @@
       <title>Federal Reserve Board Nominee Milan: Not Advisable to Give Fed Control to President</title>
       <link>https://www.lookonchain.com/feeds/27761</link>
       <description>September 4th: The nominee Milan of the Federal Reserve Board stated that he is not in favor of transferring the control of the Federal Reserve to the President. (Xinhua News Agency)</description>
-      <pubDate>Thu, 04 Sep 2025 16:08:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:08:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27761</guid>
       <category>crypto</category>
@@ -123,7 +142,7 @@
       <title>Or Two Wallets Belonging to the Same Whale Panic-Sold 3690 ETH</title>
       <link>https://www.lookonchain.com/feeds/27759</link>
       <description>On September 4th, as observed by LookOnChain&apos;s monitoring, due to the decline in the ETH price, 2 wallets (which might be owned by the same whale) sold in a panic the 3,690 ETH they had just bought the previous day ($15.6 million), resulting in a loss of $944,000.</description>
-      <pubDate>Thu, 04 Sep 2025 16:00:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 16:00:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27759</guid>
       <category>crypto</category>
@@ -143,7 +162,7 @@
       <title>If Ethereum drops below $4200, the total long liquidation volume on major CEXs will reach $854 million.</title>
       <link>https://www.lookonchain.com/feeds/27758</link>
       <description>September 4th. Based on Coinglass data, if Ethereum drops below $4200, the cumulative liquidation intensity of mainstream CEXs in terms of longs will reach $854 million.Conversely, if Ethereum surges above $4400, the cumulative liquidation intensity of mainstream CEXs in terms of shorts will reach $693 million.BlockBeats Note: The liquidation chart does not disclose the exact number of contracts to be liquidated or the precise value of the contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to neighboring liquidation clusters, that is, the intensity. Hence, the liquidation chart shows to what extent the price of the underlying asset will be influenced when it attains a certain level. A higher &quot;liquidation bar&quot; indicates that the price will encounter a more intense reaction due to a liquidity avalanche.</description>
-      <pubDate>Thu, 04 Sep 2025 15:56:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:56:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27758</guid>
       <category>crypto</category>
@@ -163,7 +182,7 @@
       <title>Resolv Introduces Modular Cluster Clusters, Enabling Yield Embedding in Stablecoin Collateral</title>
       <link>https://www.lookonchain.com/feeds/27757</link>
       <description>September 4th. Resolv is on the verge of launching the modular cluster named Clusters. This allows for the securitization of productive assets within DeFi and other domains, directly embedding yield into stablecoin collateral. The first practical application is Fluid, where the fund borrowing flow has offered support to the stablecoin ecosystem.</description>
-      <pubDate>Thu, 04 Sep 2025 15:48:47 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 15:55:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27757</guid>
       <category>crypto</category>
@@ -174,25 +193,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Tether Mints Additional 2 Billion USDT on the Ethereum Network</title>
-      <link>https://www.lookonchain.com/feeds/27756</link>
-      <description>September 4th. Two minutes ago, Tether minted an extra 2 billion USDT on the Ethereum blockchain.</description>
-      <pubDate>Thu, 04 Sep 2025 15:48:47 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27756</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
