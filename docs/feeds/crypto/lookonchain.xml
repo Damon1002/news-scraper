@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Sep 2025 13:06:23 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Sep 2025 13:06:23 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 13:36:00 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 13:36:00 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,47 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Trend Research has today transferred one-third of the total supply of NEIROETH to the exchange.</title>
-      <link>https://www.lookonchain.com/feeds/27717</link>
-      <description>September 4th. Based on the monitoring of on-chain analyst Yu Jin, Trend Research has transferred one-third of the total amount of NEIROETH to a trading platform today.In addition to continuously transferring NEIROETH to Bybit, they have also begun to transfer NEIROETH to Gate. Today, they have transferred almost half of their holdings to the trading platform: they originally held a total of 670 million tokens (67% of the total supply), and today they have transferred 324.7 million NEIROETH to the trading platform (with a value of 22 million USD).The on-chain address still holds 34.6% of NEIROETH (346 million tokens, with a value of 23.16 million USD).</description>
-      <pubDate>Thu, 04 Sep 2025 12:56:19 +0000</pubDate>
+      <title>BNB Chain 5th Anniversary Report: Record-Breaking User Base, Continued Expansion of Ecosystem, Roadmap Reveals New Upgrades</title>
+      <link>https://www.lookonchain.com/feeds/27725</link>
+      <description>On September 4th, BNB Chain announced in September that on the occasion of its fifth anniversary, the network has achieved several significant milestones in the past year. The daily active users of users reached a historic peak. The infrastructure underwent important upgrades. Security was significantly enhanced. Real World Assets (RWA) accelerated their landing. And a new phase of the technical roadmap was released synchronously, laying the foundation for the next generation of decentralized applications.The daily active users of BNB Chain exceeded 4.7 million. The average daily active users of BSC were 1.12 million, and opBNB reached a new high. The Maxwell and Lorentz hard fork reduced the block confirmation time to 0.75 seconds. The lowest Gas fee dropped to $0.001, significantly improving network speed and accessibility. Liquidity repeatedly reached new highs. BNB Chain led among all public chains. The DEX trading volume reached $319.4 billion, and the daily peak was $13.3 billi</description>
+      <pubDate>Thu, 04 Sep 2025 13:33:07 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27717</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27725</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>MAIGA Completes $2M Strategic Financing Round, with Participation from Amber Group</title>
+      <link>https://www.lookonchain.com/feeds/27724</link>
+      <description>On September 4th, the next-generation AI smart agent platform MAIGA completed a $2 million strategic funding round. Participants included Amber Group, Red Beard Ventures, IBC Group, TBV Ventures, and Chainlink.This is a significant milestone for MAIGA in its mission to &quot;bring AI-driven trading to everyone.&quot; Currently, MAIGA is expanding its existing products and getting ready for an upcoming token launch, leading the DeFAI wave powered by the BNB Chain.Maiga is constructing AI agents for DeFI and cryptocurrency, utilizing MCP, TEE, and multimodal technology. It is also deploying an AI agent launchpad on the BNB Chain. Maiga adopts a &quot;Proof of Trade&quot; (PoT) token model based on transaction volume.</description>
+      <pubDate>Thu, 04 Sep 2025 13:32:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27724</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>U.S. publicly traded company Robot Consulting plans to use 1 billion Japanese Yen to buy ETH</title>
+      <link>https://www.lookonchain.com/feeds/27723</link>
+      <description>September 4th - Robot Consulting Co., Ltd. (Nasdaq: LAWR), a Japanese platform service provider concentrating on human resources solutions, declared today its intention to expand into the legal tech and metaverse domains. The firm plans to utilize a portion of its available cash resources (which may encompass the proceeds from its initial public offering completed on July 18, 2025) to make investments in Ethereum (ETH). This action is an integral part of the company&apos;s long-term strategy to incorporate blockchain technology into legal tech projects and establish a digital asset reserve.The company anticipates commencing investments in Ethereum from the fourth quarter of 2025 to the spring of 2026. The projected investment amount is estimated to be up to approximately 1 billion Japanese yen (6.73 million USD), yet the specific timing and amount may be subject to adjustments based on market conditions and strategic considerations. The company will mark its Ethereum holdings to market on</description>
+      <pubDate>Thu, 04 Sep 2025 13:25:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27723</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -30,14 +65,66 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>After the release of the August ADP Employment Report and the initial jobless claims data for the current week, the probability of a Fed rate cut in September has reached 97.4%.</title>
+      <link>https://www.lookonchain.com/feeds/27722</link>
+      <description>On September 4th, based on CME&apos;s &quot;FedWatch&quot;, following the release of the August ADP and initial jobless claims data for the week, the likelihood of a 25-basis-point Fed rate cut in September is 97.4%, while the probability of a 50-basis-point cut is 2.6%.Previously, it was reported that the US added 54,000 jobs in August according to ADP, which was lower than the expected 65,000 and also lower than the previous value of 104,000. The number of initial jobless claims in the US for the week ending August 30th was 237,000, with an expected value of 230,000 and a previous value of 229,000.</description>
+      <pubDate>Thu, 04 Sep 2025 13:17:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27722</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Nasdaq is enhancing its scrutiny of listed companies&apos; cryptocurrency investment activities</title>
+      <link>https://www.lookonchain.com/feeds/27721</link>
+      <description>On September 4th, according to The Information, Nasdaq is intensifying its examination of the cryptocurrency investment activities of its listed companies. Previously, some companies had raised funds to purchase crypto assets with the aim of boosting their stock performance. However, Nasdaq has expressed concerns about this behavior, believing that it may pose risks of misleading investors. Therefore, it has decided to enhance regulatory efforts.Currently, Nasdaq has not publicly announced specific regulatory measures. Nevertheless, it is expected that relevant companies will be required to disclose detailed information about their cryptocurrency investments, such as investment size, strategy, and potential risks. Additionally, Nasdaq may conduct special reviews of companies that frequently engage in cryptocurrency transactions to ensure that their behavior complies with market norms.This move reflects the increasingly attentive attitude of regulatory agencies towards the cryptocur</description>
+      <pubDate>Thu, 04 Sep 2025 13:17:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27721</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Etherscan Expands to the Sei Network, Launches Seiscan Block Explorer</title>
+      <link>https://www.lookonchain.com/feeds/27720</link>
+      <description>On September 4th, as per The Block, Etherscan has extended its reach to the Sei Network and launched the Seiscan block explorer. This rollout will empower Sei developers and users to avail of Etherscan&apos;s analytics and API services.</description>
+      <pubDate>Thu, 04 Sep 2025 13:08:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27720</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
       <title>Mega Matrix Submits $2 Billion Registration Statement, Accelerating Stablecoin Governance Token Reserve Strategy</title>
       <link>https://www.lookonchain.com/feeds/27719</link>
       <description>On September 4th, the New York Stock Exchange-listed company Mega Matrix Inc. (NYSE American: MPU) announced today that it has submitted a $20 billion universal shelf registration statement (Form F-3, referred to as &quot;shelf registration&quot; hereinafter) to the U.S. Securities and Exchange Commission (SEC). This is to support its Stablecoin Governance Token (DAT) strategy and it is committed to building the world&apos;s largest Stablecoin Governance Token DAT company. Following the announcement last week that the Ethena Governance Token ENA would be the primary target of MPU&apos;s Stablecoin Governance Token DAT strategy, MPU plans to use this financing flexibility to systematically raise funds to accumulate leading Stablecoin Governance Tokens.</description>
-      <pubDate>Thu, 04 Sep 2025 12:56:19 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 12:57:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27719</guid>
       <category>crypto</category>
@@ -55,7 +142,7 @@
       <title>Fireblocks Launches Stablecoin Payment Network</title>
       <link>https://www.lookonchain.com/feeds/27718</link>
       <description>On September 4th, as reported by Fortune, Fireblocks has made an announcement regarding the launch of a stablecoin payment network named the &quot;Fireblocks Network for Payments.&quot; This network is capable of facilitating the seamless transfer of various stablecoins for both cryptocurrency and financial institutions. Currently, the network has more than 40 participants, such as Bridge (which was acquired by Stripe), Zerohash, Yellow Card, and Circle (which went public in June). In July, Fireblocks processed $212 billion worth of stablecoin transactions. The new network is designed to simplify cross-border stablecoin exchange and transfer processes, enhance efficiency, and decrease error risks.</description>
-      <pubDate>Thu, 04 Sep 2025 12:56:19 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 12:57:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27718</guid>
       <category>crypto</category>
@@ -69,10 +156,30 @@
 
     </item>
     <item>
+      <title>Trend Research has today transferred one-third of the total supply of NEIROETH to the exchange.</title>
+      <link>https://www.lookonchain.com/feeds/27717</link>
+      <description>September 4th. Based on the monitoring of on-chain analyst Yu Jin, Trend Research has transferred one-third of the total amount of NEIROETH to a trading platform today.In addition to continuously transferring NEIROETH to Bybit, they have also begun to transfer NEIROETH to Gate. Today, they have transferred almost half of their holdings to the trading platform: they originally held a total of 670 million tokens (67% of the total supply), and today they have transferred 324.7 million NEIROETH to the trading platform (with a value of 22 million USD).The on-chain address still holds 34.6% of NEIROETH (346 million tokens, with a value of 23.16 million USD).</description>
+      <pubDate>Thu, 04 Sep 2025 12:56:07 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27717</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
       <title>Bitfinex Alpha: Market in Late-Cycle Correction, $93K to $95K Range May Become Bitcoin&apos;s Cyclical Bottom</title>
       <link>https://www.lookonchain.com/feeds/27716</link>
       <description>On September 4th, Bitfinex Alpha issued a report indicating that Bitcoin briefly dropped beneath $110,000, and its retracement from the all-time high of $123,640 expanded to more than 13%. Historical retracement patterns and seasonal trends suggest that the market is actually in the later stage of a correction, and the $93,000–$95,000 range is expected to become a cyclical bottom. On-chain data also validates this: the current short-term holder realized price is $108,900, which becomes a key support level. If the price continues to remain below this level, it may further enhance the downward pressure. The exchange platform order flow indicator also shows that the sentiment in the spot market is trending towards neutral, reinforcing the view that buyers are choosing to wait and see for stronger catalytic factors to emerge before taking action.Altcoins have exhibited even weaker performance, reflecting a widespread risk-averse sentiment in the market. Ethereum (ETH) fell by 14% after b</description>
-      <pubDate>Thu, 04 Sep 2025 12:49:19 +0000</pubDate>
+      <pubDate>Thu, 04 Sep 2025 12:49:07 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27716</guid>
       <category>crypto</category>
@@ -86,115 +193,6 @@
       <category>btc</category>
       <category>bitcoin</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>RedStone Acquires On-Chain Credit Rating Platform Credora</title>
-      <link>https://www.lookonchain.com/feeds/27715</link>
-      <description>September 4th. According to CoinDesk, the cryptocurrency oracle company RedStone has obtained the on-chain credit rating platform Credora. Credora had formerly collaborated with DeFi platforms like Maple Finance, Centrifuge, and TrueFi and is supported by companies including Coinbase Ventures, S&amp;P, and Hashkey. The specific financial details of this transaction have not been made public.</description>
-      <pubDate>Thu, 04 Sep 2025 12:48:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27715</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Initial Jobless Claims Rise to Highest Level Since June</title>
-      <link>https://www.lookonchain.com/feeds/27714</link>
-      <description>September 4th: The initial jobless claims in the United States reached the highest level since June, which further attests to the cooling of the labor market. The data indicates that during the week ending August 30th, the initial jobless claims rose by 8,000 and reached 237,000. The median forecast from institutions was 230,000. Meanwhile, the continued jobless claims remained unchanged at 1.94 million. (FXStreet)</description>
-      <pubDate>Thu, 04 Sep 2025 12:48:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27714</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Nasdaq-listed company CIMG Inc. teams up with Merlin Chain to launch a $55 million Bitcoin treasury</title>
-      <link>https://www.lookonchain.com/feeds/27712</link>
-      <description>On September 4th, the Nasdaq-listed company CIMG Inc. (Nasdaq: IMG) announced a strategic partnership with Merlin Chain. As a result, a $55 million Bitcoin treasury is to be launched. The initial 500 BTC will be placed on-chain through Merlin Chain&apos;s Institutional HODL+ and will participate in staking. This event marks the industry&apos;s first pilot of an on-chain Bitcoin treasury driven by a publicly listed company. It not only highlights the accelerated financialization of Bitcoin but also provides a compliant, secure, and sustainable BTCfi path for corporate treasuries.</description>
-      <pubDate>Thu, 04 Sep 2025 12:40:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27712</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>GameSquare: Held 15,731.07 ETH as of the end of August</title>
-      <link>https://www.lookonchain.com/feeds/27713</link>
-      <description>September 4th: The Nasdaq-listed company GameSquare issued its monthly performance report, revealing that it held 15,731.07 ETH as of August 31st, and the value was approximately $69,089,444. GameSquare stated that its ETH holdings and earnings data did not include other on-chain assets, such as the company&apos;s NFT investment portfolio, which had a cost basis of approximately $7.15 million by the end of August.</description>
-      <pubDate>Thu, 04 Sep 2025 12:40:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27713</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Eric Trump: American Bitcoin Set to Make Several Major Announcements</title>
-      <link>https://www.lookonchain.com/feeds/27711</link>
-      <description>On September 4th, Eric Trump, the son of former US President Donald Trump, tweeted, stating, &quot;American Bitcoin is merely commencing, and several significant announcements will be forthcoming shortly.&quot;</description>
-      <pubDate>Thu, 04 Sep 2025 12:40:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27711</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>Initial Claims for Unemployment Insurance in the US totaled 237,000 for the week ending August 30, compared to an expectation of 230,000.</title>
-      <link>https://www.lookonchain.com/feeds/27710</link>
-      <description>On September 4th, the initial jobless claims in the United States during the week ending August 30th came in at 237,000. The expected value was 230,000, and the previous value was 229,000. (FX168)</description>
-      <pubDate>Thu, 04 Sep 2025 12:33:19 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27710</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
