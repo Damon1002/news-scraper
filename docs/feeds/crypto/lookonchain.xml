@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 01:58:47 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 01:58:47 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 03:04:37 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 03:04:37 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Analysis: Binance Whale Community Shows Consistent Preference for ETH, Diverges on BTC&apos;s Outlook</title>
-      <link>https://www.lookonchain.com/feeds/27798</link>
-      <description>September 5th: On-chain data analyst Murphy released an article clarifying the divergence and consensus among Binance whales after the mainstream stablecoin balance on Binance witnessed a rapid growth. From August 13th to September 3rd, Binance&apos;s BTC balance increased by 7,709 coins. There exist two whale groups on Binance, with transaction sizes ranging from $1 million to $10 million and over $10 million respectively. Currently, these two groups are in a &quot;conflict.&quot; In April this year, these two forces were in alignment during withdrawals, but differences emerged after August 13th. Smaller whales have been continuously depositing BTC into Binance, while larger whale groups have been withdrawing BTC. In terms of fund size, both groups are not ordinary retail investors and are evenly matched in strength. The former represents potential selling pressure, while the latter represents buying demand, and the former currently holds the upper hand.Interestingly, the data for ETH is completel</description>
-      <pubDate>Fri, 05 Sep 2025 01:56:54 +0000</pubDate>
+      <title>South Korean Financial Regulatory Authority Introduces Virtual Asset Loan Service Guidelines, Prohibits Over-Leveraging</title>
+      <link>https://www.lookonchain.com/feeds/27812</link>
+      <description>On September 5th, according to the report of Newsprime, South Korea&apos;s financial regulatory authorities have introduced the first virtual asset loan service guide. Due to the intensified exchange competition resulting in increased investor risks, the regulators have completely prohibited leverage and cash loans. They have established individual limits and fee caps and prevented similar short-selling behaviors. On the 5th, the Financial Services Commission of South Korea announced that it will implement a self-regulatory &quot;Virtual Asset Loan Service Guide&quot; developed by the Financial Supervisory Service and DAXA. The new guide focuses on three core aspects: service scope restriction, user protection, and market stability. The guide clearly prohibits over-leveraging and Korean won cash loans. It requires exchanges to use their own assets to provide services and prohibits third-party trusteeship or indirect lending models.Regarding the enhancement of user protection measures, first-time us</description>
+      <pubDate>Fri, 05 Sep 2025 03:00:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27798</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27812</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,20 +28,33 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Two Whale Addresses Accumulate 22,753 MKR via FalconX</title>
+      <link>https://www.lookonchain.com/feeds/27810</link>
+      <description>On September 5th, as per the monitoring of LookOnChain, two whale addresses accumulated 22,753 MKR through FalconX.Among them, wallet 0xb2c7 received 14,000 MKR from FalconX 6 hours ago, with a value of USD 24.25 million.Wallet 0xc230 has received 8,753 MKR (USD 15.37 million) from FalconX over the past 2 months.</description>
+      <pubDate>Fri, 05 Sep 2025 02:56:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27810</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>whale</category>
 
     </item>
     <item>
-      <title>Ukraine-Related Address Receives 10 BTC Donation, Equivalent to $1.1 Million</title>
-      <link>https://www.lookonchain.com/feeds/27797</link>
-      <description>On September 5th, as monitored by Whale Alert, a cryptocurrency donation of 10 BTC was transferred to a Ukraine-related address approximately 5 minutes ago. This is equivalent to around $1.108 million.</description>
-      <pubDate>Fri, 05 Sep 2025 01:40:54 +0000</pubDate>
+      <title>Fenghuang Finance: In the future, there are also plans to include BTC, SOL, and other assets in the company&apos;s strategic reserves</title>
+      <link>https://www.lookonchain.com/feeds/27811</link>
+      <description>September 5th - Sequoia Capital China has amassed 10,000 ETH in the open market. Sequoia Capital China declared that the acquired ETH will be categorized as investment assets within the financial statements. In the forthcoming period, the company intends to continuously augment its allocation to digital assets. Apart from Ethereum, it also has the plan to explore diversifying its strategic reserve assets to encompass mainstream digital assets like BTC and SOL. (Caixin)</description>
+      <pubDate>Fri, 05 Sep 2025 02:56:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27797</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27811</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -52,16 +65,15 @@
       <category>initial-load</category>
       <category>btc</category>
       <category>bitcoin</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>「Brother Big Brother」 Huang Licheng opens 5x WLFI long position with a position value of $1.82 million</title>
-      <link>https://www.lookonchain.com/feeds/27795</link>
-      <description>On September 5th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), after the address of &quot;Brother Big Whale&quot; Justin Sun was blacklisted by WLFI this morning, Huang Lizheng initiated a 5x long position on WLFI. Currently, he is holding 10 million tokens with a value of $1.82 million, and the entry price is $0.1822.</description>
-      <pubDate>Fri, 05 Sep 2025 01:32:54 +0000</pubDate>
+      <title>Listed on the Hong Kong Stock Exchange, Ying Universe Invests HK$300 Million to Subscribe for Shares of Quantum Wealth, Aiming to Promote Web 3 Ecosystem Development</title>
+      <link>https://www.lookonchain.com/feeds/27808</link>
+      <description>On September 5th, as per an official announcement, the Hong Kong-listed company Meitu Universe has allocated 300 million Hong Kong dollars to subscribe for discounted shares of Nation Digital Group in order to boost the development of the Web 3 ecosystem. The two parties have reached a subscription agreement, with Nation Digital Group conditionally agreeing to issue a total of approximately 169 million subscription shares to the company at a subscription price of HKD 1.78 per share. Once the transaction is finalized, the two parties will collaborate to promote the digital economic development policies of the Hong Kong government and make strategic investments in the fintech field.</description>
+      <pubDate>Fri, 05 Sep 2025 02:49:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27795</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27808</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -74,12 +86,12 @@
 
     </item>
     <item>
-      <title>Cryptocurrency Total Market Capitalization Down 1.8% in the Last 24 Hours, Altcoins Experience a Broad Decline</title>
-      <link>https://www.lookonchain.com/feeds/27796</link>
-      <description>On September 5th, according to Coingecko data, the cryptocurrency market continues to decline. The total cryptocurrency market capitalization has dropped to $3.896 trillion, with a 24-hour decrease of 1.8%. Bitcoin is remaining above $110,000. Meanwhile, ETH and SOL have both seen a decrease of about 3% in the past 24 hours. ETH is currently trading at $4,320, and SOL is at $202. Shitcoins are generally in a downtrend, including:SLF down 17.6% in the last 24 hours;WLFI down 16.3% in the last 24 hours;TREE down 15.4% in the last 24 hours;BAKE down 12% in the last 24 hours;DOLO down 11.7% in the last 24 hours.</description>
-      <pubDate>Fri, 05 Sep 2025 01:32:54 +0000</pubDate>
+      <title>Bybit TradFi Officially Goes Live with FUTU and DFDV</title>
+      <link>https://www.lookonchain.com/feeds/27809</link>
+      <description>September 5th. Bybit made an announcement that FUTU and DFDV Stock CFDs have become available on Bybit TradFi. Futu Holdings Limited (Stock Code: FUTU); DeFi Development Corp. (Stock Code: DFDV). Users are able to trade CFD contracts of the aforementioned two stocks via the Bybit TradFi platform, being able to enjoy 24/7 trading, flexible leverage, and deep liquidity support. This has further enhanced Bybit&apos;s standing in the traditional financial asset space and offers global users more diversified investment choices.</description>
+      <pubDate>Fri, 05 Sep 2025 02:49:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27796</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27809</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -91,12 +103,29 @@
 
     </item>
     <item>
-      <title>A new address received 14,000 MKR from FalconX, worth $24.74 million</title>
-      <link>https://www.lookonchain.com/feeds/27794</link>
-      <description>September 5th. As per the monitoring of OnchainLens, a novel address received 14,000 MKR from FalconX, with a total value of $24.74 million.</description>
-      <pubDate>Fri, 05 Sep 2025 01:24:54 +0000</pubDate>
+      <title>LookOnChain: OKX now supports Google Pay</title>
+      <link>https://www.lookonchain.com/feeds/27807</link>
+      <description>On September 5th, according to official channels, Google Pay has officially been launched on the OKX App. Android users in the EU and the US are able to utilize this payment method to achieve instant deposits and purchases, with operations that are convenient and secure. As a payment method trusted by users, the integration of Google Pay makes the transaction process more reassuring. In the context of rapidly changing market conditions, users can use Google Pay to quickly implement their investment strategies.In response to this, OKX CEO Star stated that the integration of Google Pay will bring users a &quot;simple, secure, and seamless trading experience.&quot;</description>
+      <pubDate>Fri, 05 Sep 2025 02:48:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27794</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27807</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Anchorage Digital-associated address deposits 5 million ENA to Binance, worth $3.37 million</title>
+      <link>https://www.lookonchain.com/feeds/27806</link>
+      <description>On September 5th, according to on-chain analyst Ai Yi (@ai_9684xtpa), it was monitored that an address affiliated with Anchorage Digital deposited 5 million ENA into Binance within the past 17 hours, with a total value of $3.37 million. Currently, the address still holds 13.31 million ENA, approximately $8.71 million.Before this, Anchorage partnered with Ethena to introduce the stablecoin USDtb to the US market, making it a stablecoin compliant with the &quot;GENIUS Act.&quot;</description>
+      <pubDate>Fri, 05 Sep 2025 02:41:44 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27806</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -109,12 +138,12 @@
 
     </item>
     <item>
-      <title>Eric Trump: Major Announcement to Be Made Tomorrow</title>
-      <link>https://www.lookonchain.com/feeds/27793</link>
-      <description>On September 5th, Eric Trump, the son of former President Donald Trump, posted a picture and said, &quot;I will be making a significant announcement tomorrow.&quot;</description>
-      <pubDate>Fri, 05 Sep 2025 01:16:54 +0000</pubDate>
+      <title>Due to the &quot;Nasdaq Enhances Cryptocurrency Investment Scrutiny&quot; news, US DAT companies saw a general decline in their stock prices.</title>
+      <link>https://www.lookonchain.com/feeds/27805</link>
+      <description>On September 5th, based on market information, the stock prices of DAT companies in the US generally fell due to the news of &quot;Nasdaq Strengthening Cryptocurrency Investment Review.&quot; Specifically:The WLFI Treasury company ALT5 Sigma (ALTS) plummeted by 13.81%;The Ethereum Treasury company Bitmine (BMNR) dropped by 5.95%;SharpLink Gaming (SBET) decreased by 8.26%;The over-the-counter trading company Galaxy Digital (GLXY) declined by 6.07%.Yesterday&apos;s news indicated that Nasdaq is enhancing its review of the cryptocurrency investment behavior of its listed companies.</description>
+      <pubDate>Fri, 05 Sep 2025 02:41:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27793</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27805</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -126,12 +155,12 @@
 
     </item>
     <item>
-      <title>James Wynn&apos;s ETH long position has been liquidated for the sixth time in a row, with the current liquidation price at $4,257.29.</title>
-      <link>https://www.lookonchain.com/feeds/27792</link>
-      <description>On September 5th, as per the monitoring of OnchainLens, James Wynn&apos;s 25x long position in ETH has been liquidated for the sixth consecutive time. The current remaining position was opened at $4378.62, with the liquidation price at $4257.29, and the position is now only worth approximately $130,000.Previously reported, James Wynn has recently been liquidated at a high position after making multiple attempts to go long on ETH:On September 2nd, when ETH rose above $4400, James Wynn fully entered a long position. On September 3rd, when ETH fell below $4280, James Wynn was liquidated.From the evening of September 3rd to this morning, James Wynn added to his long position near $4440. After that, ETH fell back to around $4370, and James Wynn was partially liquidated again. The remaining position&apos;s liquidation price is $4339, and he is holding a position worth about $320,000.</description>
-      <pubDate>Fri, 05 Sep 2025 01:08:54 +0000</pubDate>
+      <title>Tether Backs Digital Asset Infrastructure Company Pointsville in Series A Funding and Plans Loyalty Program Collaboration</title>
+      <link>https://www.lookonchain.com/feeds/27804</link>
+      <description>On September 5th, as per PRNewswire, the digital asset infrastructure firm Pointsville announced the completion of its Series A financing. This was led by Valor Capital Group and involved participation from Tether, Superscrypt backed by Temasek, SNZ, Credit Saison, K2 Integrity, Citrino, and Dynamo, among others. The specific amount of the funding has not been made public at present. The new funds are earmarked for the company&apos;s asset digitization and RWA transformation.It is reported that Tether will cooperate with Pointsville to provide the necessary support for integrating real-world assets and loyalty programs into the digital economy.</description>
+      <pubDate>Fri, 05 Sep 2025 02:41:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27792</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27804</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -142,16 +171,15 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
-      <category>high-value</category>
 
     </item>
     <item>
-      <title>Power Economic RWA Protocol Pluralk Completes $7M Seed Round, Led by Paradigm</title>
-      <link>https://www.lookonchain.com/feeds/27791</link>
-      <description>On September 5th, according to Reuters, Plural, an RWA protocol with a focus on the electricity economy, announced the successful completion of a $7 million seed round of financing. This round was led by Paradigm, and Maven11, Volt Capital, and Neoclassic Capital also participated, bringing the total funding to nearly $10 million.Plural is a blockchain technology company committed to promoting the electricity economy. By leveraging tokenization and smart contract automation technology, Plural transforms real-world energy assets like solar power, batteries, and data centers into scalable and programmable investment products.</description>
-      <pubDate>Fri, 05 Sep 2025 01:08:54 +0000</pubDate>
+      <title>Strike Founder: Bitcoin is Disrupting the Currency Market, Ethereum is at Best a Tech Startup</title>
+      <link>https://www.lookonchain.com/feeds/27803</link>
+      <description>On September 5th, the founder of Strike, Jack Mallers, responded to Joseph Lubin, the co-founder of Ethereum, who previously stated that Ethereum would surpass Bitcoin. He said, &quot;I think this view is ridiculous. Bitcoin is disrupting the currency market, and that is Bitcoin&apos;s goal. It is a $500 trillion question of value. Ethereum is a technology. At best, it is also an emerging tech company. The two cannot be compared.&quot;</description>
+      <pubDate>Fri, 05 Sep 2025 02:32:44 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27791</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27803</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -160,42 +188,10 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The SEC Proposes Safe Harbor for Cryptocurrency and Amends Broker-Dealer Risk Assessment Rules</title>
-      <link>https://www.lookonchain.com/feeds/27790</link>
-      <description>On September 5th, the U.S. Securities and Exchange Commission (SEC) put forward a proposal to offer a safe harbor for cryptocurrency and reform the broker-dealer rule. The proposed rule changes may have an impact on the SEC&apos;s guidance on broker-dealers, custody, and reporting. It may also allow cryptocurrency companies to operate in the United States with relatively less regulatory oversight and reduce the risk of legal actions. The proposed rules involve amending the &quot;Exchange Act&quot; to &quot;consider trading crypto assets on alternative trading systems and national securities exchanges&quot; and amending the &quot;broker-dealer financial responsibility rules&quot;, which may relieve the burden on cryptocurrency companies in reporting data. Although the impact of each proposal on the cryptocurrency industry is different, many proposals indicate that the Commission will continue to soften its enforcement approach, establish a safe harbor, and restructure existing regulations to benefit relevant crypto proje</description>
-      <pubDate>Fri, 05 Sep 2025 01:00:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27790</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Crypto-Friendly Bank Lead Bank Raises $70 Million in Funding at a $1.47 Billion Valuation, Led by a16z</title>
-      <link>https://www.lookonchain.com/feeds/27789</link>
-      <description>On September 5th, the cryptocurrency-friendly bank Lead Bank, which is valued at $1.47 billion, successfully completed a $70 million financing round. This round was spearheaded by a16z and Khosla Ventures. Existing investors such as Ribbit Capital, Coatue, and Zeev Ventures also took part in the round. Additionally, new investors including Iconiq Capital and Greycroft joined in.The extra funds will be utilized to fortify the balance sheet in order to facilitate its business expansion in the fintech sector. Lead Bank&apos;s clients encompass the &quot;buy now, pay later&quot; company Affirm Holdings Inc., the corporate spending management platform Ramp Business Corporation, and the stablecoin business unit of Stripe Inc., which was recently acquired.</description>
-      <pubDate>Fri, 05 Sep 2025 00:57:54 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27789</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
   </channel>
