@@ -1,9 +1,5 @@
 # Standard Feed Update Status
-<<<<<<< HEAD
-Last updated: Fri Sep  5 13:30:24 UTC 2025
-=======
-Last updated: Fri Sep  5 13:29:46 UTC 2025
->>>>>>> origin/main
+Last updated: Fri Sep  5 13:43:17 UTC 2025
 Categories: technology,business,world
 
 ## Feed Files Generated
