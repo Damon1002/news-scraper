@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 05:12:47 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 05:12:47 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 05:33:17 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 05:33:17 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
@@ -14,9 +14,20 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>上市公司比特币国库持有的 BTC 已突破 100 万枚，价值超 1,110 亿美元</title>
+      <title>贾跃亭：法拉第未来暂无计划通过发行股份增持财库产品</title>
       <link>https://www.techflowpost.com</link>
-      <description>据 Bitcointreasuries.net 数据，上市公司比特币国库持有的 BTC 已突破 100 万枚，达 1,000,698 枚，价值超 1,110 亿美元。其中，Strategy 公司以持有 636,505 枚 BTC 位居榜首，MARA Holdings 以 52,477 枚 BTC ...</description>
+      <description>此前消息，贾跃亭表示，法拉第未来推出基于十大加密货币一篮子组合指数的财库产品 FFAI C10 Treasury。</description>
+      <pubDate>Fri, 05 Sep 2025 05:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>上市公司比特币财库持有的 BTC 已突破 100 万枚，价值超 1,110 亿美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Bitcointreasuries.net 数据，上市公司比特币财库持有的 BTC 已突破 100 万枚，达 1,000,698 枚，价值超 1,110 亿美元。其中，Strategy 公司以持有 636,505 枚 BTC 位居榜首，MARA Holdings 以 52,477 枚 BTC ...</description>
       <pubDate>Fri, 05 Sep 2025 05:04:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 CryptoSlate 报道，欧洲央行执行委员会成员 Piero Cipollone 在欧洲议会经济与货币事务委员会上表示，数字欧元将加强欧洲对网络和基础设施中断的防御能力，同时确保数字支付的广泛可及性。Cipollone 指出，欧洲对外国支付服务提供商的依赖使公民在危机时期面临风险。数字欧元...</description>
       <pubDate>Fri, 05 Sep 2025 02:07:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>生物样本采购公司 iSpecimen 计划建立 2 亿美元数字资产库，拟 OTC 购买 SOL 代币</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Investing.com 报道，生物样本采购公司 iSpecimen Inc.（ISPC）宣布正在评估多家加密货币公司提出的投资方案，以推进其 2 亿美元数字资产库计划。该公司正在同步推进基于Solana的资产库项目，计划通过场外交易购买 SOL 代币，包括具有转让限制的锁仓 SOL。公司首...</description>
-      <pubDate>Fri, 05 Sep 2025 02:05:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>

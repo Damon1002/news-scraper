@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 05:12:47 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 05:12:47 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 05:33:17 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 05:33:17 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,45 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Jia Yueting: Faraday Future Currently Has No Plans to Increase Treasury Stock by Issuing Shares</title>
+      <link>https://www.lookonchain.com/feeds/27832</link>
+      <description>On September 5th, Jia Yueting tweeted that the core principle of Faraday Future (FFAI) has always been &quot;shareholder first.&quot; The company has no intention of issuing FFAI shares for treasury holdings. If a new policy mandates the issuance of shares for this purpose, the company will strictly adhere to it after formal implementation.On August 17th, Faraday released the C10 Treasury, a treasury product based on the &quot;C10 Index&quot; allocation. The first phase aims to purchase $5 to $10 billion of cryptocurrency assets after obtaining the requisite funding. The initial allocation amount is $30 million.</description>
+      <pubDate>Fri, 05 Sep 2025 05:16:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27832</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Linea Network DeFi TVL Surpasses $1.2 Billion, Setting a New All-Time High</title>
+      <link>https://www.lookonchain.com/feeds/27833</link>
+      <description>On September 5th, according to data from DefiLlama, the DeFi TVL of Linea Network has exceeded $1.2 billion and is currently at $1.214 billion. It has seen a nearly 71.14% increase in the past week and reached a new all-time high.The top three DeFi protocols on the network in terms of TVL are Aave ($723 million), Etherex ($266 million), and Renzo ($229 million) (some protocols may have overlapping calculations).In a previous announcement, Linea revealed the launch of the Ignition liquidity incentive program, distributing 1 billion LINEA tokens as rewards. Etherex, Aave, and Euler are designated partners for this event.</description>
+      <pubDate>Fri, 05 Sep 2025 05:16:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27833</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Security Alert: AI Programming Tool Cursor at Risk of New Virus Hijacking</title>
       <link>https://www.lookonchain.com/feeds/27831</link>
       <description>On September 5th, as reported by Cointelegraph, the cybersecurity firm HiddenLayer stated that the AI programming tool Cursor possesses a &quot;CopyPasta License Attack&quot; vulnerability. Hackers are able to conceal malicious commands within the LICENSE.txt and README.md files, thereby inducing the AI tool to infuse the vulnerability into the codebase. This tool is widely utilized by cryptocurrency exchanges such as Coinbase.The attack makes use of Markdown comment hiding to inject prompts, resulting in the AI automatically propagating the malicious payload while editing files. Tests have demonstrated that AI programming tools like Windsurf, Kiro, and Aider also share the same vulnerability. The malicious code has the potential to create backdoors, steal sensitive data, or disable systems, all while remaining deeply concealed to evade detection.</description>
-      <pubDate>Fri, 05 Sep 2025 05:00:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 05:00:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27831</guid>
       <category>crypto</category>
@@ -34,7 +69,7 @@
       <title>Trump Invites Tech Giant CEOs to Dinner, Musk Absent, Tim Cook, Sam Altman, and Others Attend</title>
       <link>https://www.lookonchain.com/feeds/27830</link>
       <description>September 5th. According to reports from NBC and other media, last evening local time in the United States, President Trump invited several CEOs of tech giants to a dinner at the White House. The guests comprised: Meta CEO Mark Zuckerberg, Microsoft CEO Satya Nadella, Google CEO Sundar Pichai, Apple CEO Tim Cook, AMD CEO Lisa Su, OpenAI CEO Sam Altman, and others.It is worth noting that Musk did not attend the dinner; however, the White House stated that a representative for Musk would be in attendance.</description>
-      <pubDate>Fri, 05 Sep 2025 04:56:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 04:56:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27830</guid>
       <category>crypto</category>
@@ -51,7 +86,7 @@
       <title>glassnode: Bitcoin Still Faces Further Downside Risk, Reaching $114K to $116K Needed to Confirm New Uptrend</title>
       <link>https://www.lookonchain.com/feeds/27829</link>
       <description>On September 5th, glassnode released a market analysis indicating that on-chain data reveals that Bitcoin investors purchased within the range of $108,000 to $116,000, filling the short position gap. This indicates a positive behavior of buying the dip but does not rule out the possibility of further decline. If it drops below $104,000, a replay of the previous post-all-time-high weakness phase may occur, falling to $93,000 to $95,000.During the market sell-off, the profit-taking ability of short-term holders plummeted to 42% and then rebounded to 60%. This rebound has maintained a neutral but fragile market situation. Only when the price rises to $114,000 to $116,000 will new growth momentum be confirmed.Furthermore, the off-chain market sentiment is cooling down. Futures funding remains neutral but fragile, while ETF inflows have significantly slowed down. Bitcoin ETF flows are mainly driven by directed spot demand, and Ethereum flows reflect a combination of spot demand and spot</description>
-      <pubDate>Fri, 05 Sep 2025 04:32:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 04:32:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27829</guid>
       <category>crypto</category>
@@ -68,10 +103,28 @@
 
     </item>
     <item>
+      <title>Caixin: Beijing&apos;s Largest Shadow Margin Trading Operator, Song Shijie, Involved in Money Laundering and Crypto Scam, Settles with the US and UK for ￥200 Million, Assets Seized Worth ￥161 Million</title>
+      <link>https://www.lookonchain.com/feeds/27824</link>
+      <description>On September 5th, as per Caixin, Song Shijie, the leading figure in off-exchange margin trading in Beijing, China, who owed 22 million yuan in treasury fines, surrendered nearly 200 million yuan in assets forfeiture and settlement funds to the UK and the US. The National Crime Agency in the UK seized his mansion, apartments, and bank accounts in London, which were worth approximately 161 million yuan, and determined that the funds originated from illegal securities trading in China and money laundering in the UK.The report indicated that Song Shijie was also involved in a cryptocurrency &quot;rug pull,&quot; and his 3 Binance accounts were frozen, containing about $10 million in cryptocurrency assets. According to a document from a court in Orlando, Florida at the end of March, he gave up his claim to avoid criminal charges.</description>
+      <pubDate>Fri, 05 Sep 2025 04:32:24 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27824</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>The minted amount of xBTC on Sui has exceeded 875, and xBTC will be listed on X Layer.</title>
       <link>https://www.lookonchain.com/feeds/27828</link>
       <description>On September 5th, the CEO of OKX, Star, posted on the X platform, stating that xBTC is unlocking Bitcoin liquidity for the on-chain world. Over 875 xBTC have been minted on Sui. Star emphasized that this is just the beginning. Now, developers and users have a new way to participate in DeFi and earn more rewards through liquidity mining. Additionally, user @erikaleetv mentioned that providing liquidity to a specific xBTC-related pool can yield an APY of up to 77%.Star revealed that &quot;xBTC will soon be launched on the X Layer and will collaborate with leading DeFi partners to drive this forward. The team&apos;s efforts in building have never stopped, and this is just the beginning. More partners are set to join.&quot;</description>
-      <pubDate>Fri, 05 Sep 2025 04:24:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 04:32:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27828</guid>
       <category>crypto</category>
@@ -90,7 +143,7 @@
       <title>Gate US has obtained its 30th state-level license, and its compliant operations now span 40 US jurisdictions.</title>
       <link>https://www.lookonchain.com/feeds/27827</link>
       <description>On September 5th, according to the latest information from the Gate US official website, the platform announced that it had successfully obtained a Money Transmitter License in Maryland, USA. At present, Gate US has a total of 30 licenses in all, and its compliant business scope has been expanded to 40 U.S. jurisdictions, such as Illinois, Ohio, Michigan, North Carolina, Georgia, and Arizona.</description>
-      <pubDate>Fri, 05 Sep 2025 04:24:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 04:32:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27827</guid>
       <category>crypto</category>
@@ -107,7 +160,7 @@
       <title>Tether is in discussions to invest in the gold mining industry, currently holding a $8.7 billion worth of gold reserves.</title>
       <link>https://www.lookonchain.com/feeds/27826</link>
       <description>On September 5th, as per the Financial Times, Tether is engaged in negotiations regarding making investments in the gold mining industry. The company intends to invest in different segments of the gold supply chain, such as mining, refining, trading, and royalty companies. Presently, Tether maintains a $8.7 billion gold reserve in a vault in Zurich, Switzerland, which serves as collateral for its stablecoin.In June of this year, Tether Investments has put in $105 million to obtain a minority stake in Elemental Altus, a gold royalty company listed in Toronto.</description>
-      <pubDate>Fri, 05 Sep 2025 04:24:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 04:32:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27826</guid>
       <category>crypto</category>
@@ -124,69 +177,12 @@
 
     </item>
     <item>
-      <title>Caixin: Beijing&apos;s Largest Shadow Margin Trading Operator, Song Shijie, Involved in Money Laundering and Crypto Scam, Settles with the US and UK for ￥200 Million, Assets Seized Worth ￥161 Million</title>
-      <link>https://www.lookonchain.com/feeds/27824</link>
-      <description>On September 5th, as per Caixin, Song Shijie, the leading figure in off-exchange margin trading in Beijing, China, who owed 22 million yuan in treasury fines, surrendered nearly 200 million yuan in assets forfeiture and settlement funds to the UK and the US. The National Crime Agency in the UK seized his mansion, apartments, and bank accounts in London, which were worth approximately 161 million yuan, and determined that the funds originated from illegal securities trading in China and money laundering in the UK.The report indicated that Song Shijie was also involved in a cryptocurrency &quot;rug pull,&quot; and his 3 Binance accounts were frozen, containing about $10 million in cryptocurrency assets. According to a document from a court in Orlando, Florida at the end of March, he gave up his claim to avoid criminal charges.</description>
-      <pubDate>Fri, 05 Sep 2025 04:17:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27824</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>The decentralized AI project Awe (AWE) has been listed on Coinbase.</title>
       <link>https://www.lookonchain.com/feeds/27825</link>
       <description>On September 5th, the decentralized AI project Awe (AWE) was listed on Coinbase and is now accessible for purchase on the Coinbase iOS and Android apps.</description>
-      <pubDate>Fri, 05 Sep 2025 04:17:55 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 04:32:24 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27825</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Yesterday, the U.S. Bitcoin Spot ETF saw a net outflow of $2.229 billion, while the Ethereum Spot ETF saw a net outflow of $1.673 billion.</title>
-      <link>https://www.lookonchain.com/feeds/27823</link>
-      <description>On September 5th, as monitored by Farside Investors, yesterday there was a net outflow of $2.229 billion from the US Bitcoin spot ETF. There was a net inflow of $1.348 billion into BlackRock&apos;s BIT. There was a net outflow of $1.174 billion from Fidelity. There was a net outflow of $1.255 billion from ARKB.For the Ethereum spot ETF, there was a net outflow of $1.673 billion, marking the fourth consecutive day of outflows. There was a net inflow of $1.488 billion into BlackRock&apos;s ETHA. There was a net outflow of $2.167 billion from Fidelity.</description>
-      <pubDate>Fri, 05 Sep 2025 04:11:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27823</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>U.S. SEC: Former Chairman Gary Gensler&apos;s Text Messages Permanently Lost Over &apos;Avoidable&apos; Technical Glitch</title>
-      <link>https://www.lookonchain.com/feeds/27822</link>
-      <description>September 5th. According to a recent SEC report, owing to a series of &quot;preventable&quot; technical glitches in the agency&apos;s Information Technology Office, the one-year worth of text messages of former Chair Gary Gensler have been lost permanently.Cryptocurrency journalist Eleanor Terrett pointed out that these text messages encompassed those sent and received by the former chair through the government phone from October 18, 2022, to September 6, 2023.</description>
-      <pubDate>Fri, 05 Sep 2025 04:11:55 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27822</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
