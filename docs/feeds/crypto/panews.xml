@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 15:21:18 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 15:21:18 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 15:35:55 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 15:35:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,42 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>过去24小时全网合约爆仓3.58亿美元，主爆空单</title>
+      <link>https://www.panewslab.com/zh/articles/3e1hlf03</link>
+      <description>过去24小时全网合约爆仓3.58亿美元，主爆空单</description>
+      <pubDate>Fri, 05 Sep 2025 15:35:55 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3e1hlf03</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>ETH突破4300美元，日内下跌 0.11%</title>
+      <link>https://www.panewslab.com/zh/articles/gucl4b5y</link>
+      <description>ETH突破4300美元，日内下跌 0.11%</description>
+      <pubDate>Fri, 05 Sep 2025 15:33:55 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/gucl4b5y</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>市场消息：欧盟对谷歌处以近30亿欧元罚款</title>
       <link>https://www.panewslab.com/zh/articles/c78b1a6c-d48e-4634-bd6b-f3244b9ee88f</link>
       <description>市场消息：欧盟对谷歌处以近30亿欧元罚款</description>
-      <pubDate>Fri, 05 Sep 2025 15:21:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:31:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c78b1a6c-d48e-4634-bd6b-f3244b9ee88f</guid>
       <category>crypto</category>
@@ -32,7 +64,7 @@
       <title>某巨鲸因非农数据后追涨做多ETH亏损超千万美元</title>
       <link>https://www.panewslab.com/zh/articles/af35294e-9d71-4ab1-aa6e-922d5fa1bd7e</link>
       <description>某巨鲸因非农数据后追涨做多ETH亏损超千万美元</description>
-      <pubDate>Fri, 05 Sep 2025 15:19:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:29:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/af35294e-9d71-4ab1-aa6e-922d5fa1bd7e</guid>
       <category>crypto</category>
@@ -49,7 +81,7 @@
       <title>过去1小时全网合约爆仓约1.24亿美元，其中1.23亿为多单爆仓</title>
       <link>https://www.panewslab.com/zh/articles/1122f7d9-a515-44f8-89dd-5bcc07519c79</link>
       <description>过去1小时全网合约爆仓约1.24亿美元，其中1.23亿为多单爆仓</description>
-      <pubDate>Fri, 05 Sep 2025 15:17:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:27:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/1122f7d9-a515-44f8-89dd-5bcc07519c79</guid>
       <category>crypto</category>
@@ -64,7 +96,7 @@
       <title>James Wynn 25倍杠杆ETH多头遭全额清算</title>
       <link>https://www.panewslab.com/zh/articles/9dac01ee-0431-4bb7-b687-a8b384237b42</link>
       <description>James Wynn 25倍杠杆ETH多头遭全额清算</description>
-      <pubDate>Fri, 05 Sep 2025 15:15:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:25:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9dac01ee-0431-4bb7-b687-a8b384237b42</guid>
       <category>crypto</category>
@@ -81,7 +113,7 @@
       <title>BTC跌破111000美元，日内涨幅 1.35%</title>
       <link>https://www.panewslab.com/zh/articles/gwcmu74s</link>
       <description>BTC跌破111000美元，日内涨幅 1.35%</description>
-      <pubDate>Fri, 05 Sep 2025 15:13:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:23:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/gwcmu74s</guid>
       <category>crypto</category>
@@ -98,7 +130,7 @@
       <title>特朗普：鲍威尔早就应该降低利率了</title>
       <link>https://www.panewslab.com/zh/articles/76eea69d-73de-4e93-9cf5-c10f43e09e6c</link>
       <description>特朗普：鲍威尔早就应该降低利率了</description>
-      <pubDate>Fri, 05 Sep 2025 15:11:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:21:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/76eea69d-73de-4e93-9cf5-c10f43e09e6c</guid>
       <category>crypto</category>
@@ -113,7 +145,7 @@
       <title>白俄罗斯总统要求加快加密货币监管机制制定</title>
       <link>https://www.panewslab.com/zh/articles/8e43d903-d8e2-4168-b9fd-86d6f1c723c7</link>
       <description>白俄罗斯总统要求加快加密货币监管机制制定</description>
-      <pubDate>Fri, 05 Sep 2025 15:09:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:19:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8e43d903-d8e2-4168-b9fd-86d6f1c723c7</guid>
       <category>crypto</category>
@@ -128,7 +160,7 @@
       <title>哈萨克斯坦试点以美元稳定币支付监管费用</title>
       <link>https://www.panewslab.com/zh/articles/898de8ee-ca69-45a8-b199-112236908a2c</link>
       <description>哈萨克斯坦试点以美元稳定币支付监管费用</description>
-      <pubDate>Fri, 05 Sep 2025 15:07:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:17:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/898de8ee-ca69-45a8-b199-112236908a2c</guid>
       <category>crypto</category>
@@ -143,7 +175,7 @@
       <title>孙宇晨：将购入价值1000万美元的ALTS和1000万美元的WLFI</title>
       <link>https://www.panewslab.com/zh/articles/8f2e7c2b-3aaf-4b32-99a9-5e5a54437275</link>
       <description>孙宇晨：将购入价值1000万美元的ALTS和1000万美元的WLFI</description>
-      <pubDate>Fri, 05 Sep 2025 15:05:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:15:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8f2e7c2b-3aaf-4b32-99a9-5e5a54437275</guid>
       <category>crypto</category>
@@ -158,7 +190,7 @@
       <title>Vitalik：稳定币的低成本交易仍是加密货币所提供的重要价值</title>
       <link>https://www.panewslab.com/zh/articles/3e3a37c7-0b4c-41e3-aebc-a3400b42e06f</link>
       <description>Vitalik：稳定币的低成本交易仍是加密货币所提供的重要价值</description>
-      <pubDate>Fri, 05 Sep 2025 15:03:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:13:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3e3a37c7-0b4c-41e3-aebc-a3400b42e06f</guid>
       <category>crypto</category>
@@ -173,7 +205,7 @@
       <title>美股三大股指高开，TRON跌超10%</title>
       <link>https://www.panewslab.com/zh/articles/f9376125-ab1d-4971-9d7e-ee7eca2c45c9</link>
       <description>美股三大股指高开，TRON跌超10%</description>
-      <pubDate>Fri, 05 Sep 2025 15:01:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:11:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/f9376125-ab1d-4971-9d7e-ee7eca2c45c9</guid>
       <category>crypto</category>
@@ -188,7 +220,7 @@
       <title>Pineapple Financial完成1亿美元私募并启动INJ金库</title>
       <link>https://www.panewslab.com/zh/articles/8cdcac58-b303-46a0-85fa-ed60293c158f</link>
       <description>Pineapple Financial完成1亿美元私募并启动INJ金库</description>
-      <pubDate>Fri, 05 Sep 2025 14:59:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:09:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8cdcac58-b303-46a0-85fa-ed60293c158f</guid>
       <category>crypto</category>
@@ -203,7 +235,7 @@
       <title>分析师：美联储可能会降息50个基点并连续三次降息</title>
       <link>https://www.panewslab.com/zh/articles/57132e85-2c25-4b3d-9a25-24e846b29faa</link>
       <description>分析师：美联储可能会降息50个基点并连续三次降息</description>
-      <pubDate>Fri, 05 Sep 2025 14:57:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:07:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/57132e85-2c25-4b3d-9a25-24e846b29faa</guid>
       <category>crypto</category>
@@ -218,7 +250,7 @@
       <title>Web3 玄学项目 SUPERFORTUNE 上线功德箱模块，支持赛博烧香、破太岁、焚烧厄运等</title>
       <link>https://www.panewslab.com/zh/articles/33054e40-b06e-45bb-80b9-57a91c2a3ef9</link>
       <description>Web3 玄学项目 SUPERFORTUNE 上线功德箱模块，支持赛博烧香、破太岁、焚烧厄运等</description>
-      <pubDate>Fri, 05 Sep 2025 14:55:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:05:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/33054e40-b06e-45bb-80b9-57a91c2a3ef9</guid>
       <category>crypto</category>
@@ -233,7 +265,7 @@
       <title>Trump Media完成与Crypto.com的CRO代币收购协议</title>
       <link>https://www.panewslab.com/zh/articles/b52bebcd-8c05-4044-96c2-032478bc66bf</link>
       <description>Trump Media完成与Crypto.com的CRO代币收购协议</description>
-      <pubDate>Fri, 05 Sep 2025 14:53:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:03:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b52bebcd-8c05-4044-96c2-032478bc66bf</guid>
       <category>crypto</category>
@@ -248,7 +280,7 @@
       <title>SharpLink称无需股东批准即可执行ATM购ETH计划</title>
       <link>https://www.panewslab.com/zh/articles/d82a2ee4-ed4e-453d-be2a-51cabef352d3</link>
       <description>SharpLink称无需股东批准即可执行ATM购ETH计划</description>
-      <pubDate>Fri, 05 Sep 2025 14:51:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 15:01:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d82a2ee4-ed4e-453d-be2a-51cabef352d3</guid>
       <category>crypto</category>
@@ -265,7 +297,7 @@
       <title>SEC与CFTC或考虑在美合规引入永续合约</title>
       <link>https://www.panewslab.com/zh/articles/68171a95-4440-47b4-ba5a-c2181614f2f7</link>
       <description>SEC与CFTC或考虑在美合规引入永续合约</description>
-      <pubDate>Fri, 05 Sep 2025 14:49:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 14:59:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/68171a95-4440-47b4-ba5a-c2181614f2f7</guid>
       <category>crypto</category>
@@ -280,39 +312,9 @@
       <title>美SEC与CFTC将于9月29日举行联合圆桌会议推动监管协调</title>
       <link>https://www.panewslab.com/zh/articles/46f7c50c-4686-4142-8418-60270b1df0b0</link>
       <description>美SEC与CFTC将于9月29日举行联合圆桌会议推动监管协调</description>
-      <pubDate>Fri, 05 Sep 2025 14:47:17 +0000</pubDate>
+      <pubDate>Fri, 05 Sep 2025 14:57:55 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/46f7c50c-4686-4142-8418-60270b1df0b0</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>币安Alpha将于9月8日上线Black Mirror（MIRROR）</title>
-      <link>https://www.panewslab.com/zh/articles/dd114b9f-e345-4663-aa78-808c75a593a2</link>
-      <description>币安Alpha将于9月8日上线Black Mirror（MIRROR）</description>
-      <pubDate>Fri, 05 Sep 2025 14:45:17 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/dd114b9f-e345-4663-aa78-808c75a593a2</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Wildcat Labs完成350万美元融资，估值达3500万美元</title>
-      <link>https://www.panewslab.com/zh/articles/bb85509b-a866-46ed-9681-7f28abe0305b</link>
-      <description>Wildcat Labs完成350万美元融资，估值达3500万美元</description>
-      <pubDate>Fri, 05 Sep 2025 14:43:17 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bb85509b-a866-46ed-9681-7f28abe0305b</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
