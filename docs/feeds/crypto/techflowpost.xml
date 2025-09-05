@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Sep 2025 11:26:53 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Sep 2025 11:26:53 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 11:39:55 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 11:39:55 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Hyperliquid将释放USDH代币符号用于稳定币发行</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Hyperliquid协议宣布，将通过验证者投票释放目前由协议保留的USDH代币符号，用于发行Hyperliquid生态系统的USD稳定币。网络升级后，验证者将通过链上透明投票机制，选择最适合构建原生铸造、Hyperliquid优先稳定币的团队。有意向的团队可在论坛提交提案，包含若被选中后将部署U...</description>
+      <pubDate>Fri, 05 Sep 2025 11:37:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bullish欧洲子公司获德国MiCA许可证，可拓展至全欧盟</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>HTX 行情数据显示，RED 短时上涨触及0.95美元，现报 0.7449 美元，日内涨幅81.28%。此前消息，Upbit 将上线 RED 韩元交易对。</description>
       <pubDate>Fri, 05 Sep 2025 07:49:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>ETH 突破 4,400 美元，24 小时涨幅 0.76 %</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 HTX 行情数据显示，ETH 突破 4,400 美元，现报 4,400.00 美元，24 小时涨幅 0.76 %。</description>
-      <pubDate>Fri, 05 Sep 2025 07:46:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
