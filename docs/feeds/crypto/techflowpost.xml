@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Sep 2025 07:47:10 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Sep 2025 07:47:10 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 07:58:54 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 07:58:54 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某用户凌晨 ETH 跌破 4300 美元时买入 6000 ETH 看跌期权</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据链上分析师 Ai姨 (@ai 9684xtpa) 监测，有用户在凌晨 ETH 跌破 4300 美元时买了 6000 ETH 的 9 月 6 日到期的行权价为 4250 美元的看跌期权（约 17.4 万美元）。然而目前距离行权时间只有不到半小时，ETH 还稳在 4300 美元，预计有很大概率亏损。</description>
+      <pubDate>Sat, 06 Sep 2025 07:48:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Michael Saylor回应Strategy落选标普500指数：正在思考此事</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据 Cointelegraph 报道，根据 River 的数据，企业持有的 BTC 在过去 9 个月中翻了一番。</description>
       <pubDate>Sat, 06 Sep 2025 03:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Paradigm 联创 ：Tempo 构建 L1 而非以太坊 L2，以避免依赖以太坊进展</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Paradigm 联合创始人 Matt Huang 发文称，其正在构建的 Tempo 将是一条无许可公链，支持开放的验证、合约部署与使用，保持“底层中立性”，并逐步去中心化。他表示，Tempo 专注于支付与稳定币场景，选择构建 L1 而非以太坊 L2，原因在于全球支付网络需要去中心化验证者集合以保...</description>
-      <pubDate>Sat, 06 Sep 2025 02:45:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
