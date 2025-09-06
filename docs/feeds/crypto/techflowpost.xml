@@ -5,14 +5,47 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Sep 2025 07:01:04 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Sep 2025 07:01:04 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 07:22:52 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 07:22:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Michael Saylor回应Strategy落选标普500指数：正在思考此事</title>
+      <link>https://www.techflowpost.com</link>
+      <description>Strategy（原MicroStrategy）创始人Michael Saylor在X平台发文称：“现正在思考标普（Thinking about the S&amp;P right now…）”，回应Strategy落选标普500指数。此前消息，Strategy虽然已满足加入标普500指数的所有标准，但最...</description>
+      <pubDate>Sat, 06 Sep 2025 07:09:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>数据：过去 7 天 USDC 流通量约增加 20 亿枚</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据官方数据，截至9月4日的7天内，Circle发行约59亿USDC，赎回约38亿USDC，流通量约增加20亿枚。USDC总流通量为725亿枚，储备量约为726亿美元，其中现金约94亿美元，Circle Reserve Fund约持有632亿美元。</description>
+      <pubDate>Sat, 06 Sep 2025 07:06:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
+    <item>
+      <title>Do Kwon 追讨 1940 万新元新加坡房款，被法院驳回</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据《联合早报》报道，已倒闭的区块链公司 Terraform Labs 联合创始人 Do Kwon 索要新加坡乌节路一套顶层公寓约 50% 的购房款，但被新加坡高等法院驳回。 在其加密货币 TerraUSD 和 Luna 于 2022 年崩盘的五个月前，Do Kwon 就已将目光锁定在价值 3880...</description>
+      <pubDate>Sat, 06 Sep 2025 07:05:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>美联储或在 9 月降息 25 个基点，宽松周期即将启动</title>
       <link>https://www.techflowpost.com</link>
@@ -249,39 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Paradigm 联合创始人 Matt Huang 发文称，其正在构建的 Tempo 将是一条无许可公链，支持开放的验证、合约部署与使用，保持“底层中立性”，并逐步去中心化。他表示，Tempo 专注于支付与稳定币场景，选择构建 L1 而非以太坊 L2，原因在于全球支付网络需要去中心化验证者集合以保...</description>
       <pubDate>Sat, 06 Sep 2025 02:45:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>分析师：比特币不再依赖减半周期，预测Q4能够达到价格峰值的人或对概率存在误解</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 Cointelegraph 报道，加密分析师 PlanC 在 X 平台发文表示，任何认为比特币将在今年第四季度达到峰值的人都不懂统计数据或概率，因为从统计和概率的角度来看，这相当于抛硬币连续三次出现反面，然后用所有钱打赌第四次抛出的一定是反面，但其实依赖前三个减半周期并不能提供足够的统计意义数...</description>
-      <pubDate>Sat, 06 Sep 2025 02:41:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Robinhood (HOOD) 意外被纳入标普500，Strategy (MSTR)落选</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Michael Saylor 的 Strategy (MSTR) 周五未能被纳入标准普尔 500 指数，尽管该公司公布了强劲的季度财报，并满足了加入该指数的所有标准。受此影响 MSTR 盘后下跌 3%，抹去盘中涨幅。 Robinhood (HOOD) 意外被纳入标准普尔 500 指数，推动其股价在...</description>
-      <pubDate>Sat, 06 Sep 2025 02:31:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Cango：比特币总持仓增至5177.1枚，将构建高性能计算和能源基础设施</title>
-      <link>https://www.techflowpost.com</link>
-      <description>纽交所上市的比特币矿企Cango在X平台发文披露数据显示，该公司本周挖矿产出150.3枚比特币，截止目前Cango的比特币总持仓量已达到5,277.1枚。Cango补充称，此前发布的二季度未经审计财报显示其资产规模有所提升，未来将着眼于构建高性能计算 (HPC) 和能源基础设施。</description>
-      <pubDate>Sat, 06 Sep 2025 02:25:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
