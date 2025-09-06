@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Sep 2025 12:58:43 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Sep 2025 12:58:43 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 13:26:26 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 13:26:26 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,12 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>RMRK Founder: The Trump Family is the New Age &quot;Mafia&quot;</title>
-      <link>https://www.lookonchain.com/feeds/27972</link>
-      <description>On September 6th, the WLFI token of RMRK founder Bruno Skvorc was frozen by the WLFI team. The WLFI team responded that &quot;the addressed in question is suspected of engaging in high-risk blockchain activities and cannot be unfrozen.&quot;Bruno Skvorc stated, &quot;They stole my money. Since this incident involves the Trump family, I can do nothing about it. This is the new era of the Mafia. There is nowhere to appeal, no one to reason with, and no one to sue. That&apos;s how it is... This is the true king of scams.&quot;On-chain detective ZachXBT responded to this incident, saying, &quot;The problem is that most of the time, the judgment exposed as &apos;high-risk&apos; is actually incorrect. Therefore, teams cannot overly rely on compliance tools. Recently, I manually reviewed some presale addresses for a team because common compliance tools flagged these addresses as &apos;high-risk&apos; and recommended excluding them.After my manual review, I found that the problem lies in: certain exchanges/smart contracts are incorrectl</description>
-      <pubDate>Sat, 06 Sep 2025 12:32:51 +0000</pubDate>
+      <title>Ethereum Withdrawal Delayed, CEX Net Inflow of 2411.92 ETH in the Last 24 Hours</title>
+      <link>https://www.lookonchain.com/feeds/27973</link>
+      <description>On September 6th, according to Coinglass data, within the past 24 hours, there has been a net inflow of 2411.92 ETH in CEX. The top three CEX exchanges in terms of inflow volume are as follows:· Binance, with an inflow of 1829.52 ETH;· Coinbase Pro, with an inflow of 944.66 ETH;· Bitfinex, with an inflow of 83.21 ETH.In addition, Bybit had an outflow of 280.54 ETH and ranked first in the outflow list.</description>
+      <pubDate>Sat, 06 Sep 2025 13:00:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27972</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27973</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -28,15 +28,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
 
     </item>
     <item>
-      <title>National Online Consumer Finance Company Completes First Securitization of Credit Assets Using Blockchain Technology</title>
-      <link>https://www.lookonchain.com/feeds/27970</link>
-      <description>September 6th. Immediately Consumer Finance presented the first financial blockchain management platform for national consumer finance companies at the &quot;2025 Smart Expo · Digital Industry Eco-Conference&quot;. By using this platform, Immediately Consumer Finance successfully issued the &quot;EasePay 2025 Third Tranche Personal Consumer Loan Asset-Backed Securities&quot;.According to a person in charge at Immediately Consumer Finance, this is the first credit asset-backed security in the country&apos;s consumer finance sector to adopt blockchain technology. Subsequent financial bonds, asset-backed securities, and other financial products will regularly utilize the technology of this platform to continuously expand the application boundaries of blockchain in the consumer finance field. (Jinse)</description>
-      <pubDate>Sat, 06 Sep 2025 11:57:51 +0000</pubDate>
+      <title>RMRK Founder: The Trump Family is the New Age &quot;Mafia&quot;</title>
+      <link>https://www.lookonchain.com/feeds/27972</link>
+      <description>On September 6th, the WLFI token of RMRK founder Bruno Skvorc was frozen by the WLFI team. The WLFI team responded that &quot;the addressed in question is suspected of engaging in high-risk blockchain activities and cannot be unfrozen.&quot;Bruno Skvorc stated, &quot;They stole my money. Since this incident involves the Trump family, I can do nothing about it. This is the new era of the Mafia. There is nowhere to appeal, no one to reason with, and no one to sue. That&apos;s how it is... This is the true king of scams.&quot;On-chain detective ZachXBT responded to this incident, saying, &quot;The problem is that most of the time, the judgment exposed as &apos;high-risk&apos; is actually incorrect. Therefore, teams cannot overly rely on compliance tools. Recently, I manually reviewed some presale addresses for a team because common compliance tools flagged these addresses as &apos;high-risk&apos; and recommended excluding them.After my manual review, I found that the problem lies in: certain exchanges/smart contracts are incorrectl</description>
+      <pubDate>Sat, 06 Sep 2025 12:32:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27970</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27972</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -51,7 +53,7 @@
       <title>Legendary Space will host a global livestream focusing on the utility of the platform&apos;s token SIG.</title>
       <link>https://www.lookonchain.com/feeds/27971</link>
       <description>On September 6th, Legendary Space, a Web3 application ecosystem platform, is set to kick off a global English live broadcast as a crucial part of the &quot;Talking Web3&quot; Top 100 KOL series. This live broadcast will be concurrently broadcasted on global mainstream platforms such as Binance Live, Huobi Live, Gate, YouTube, and TikTok.During this live broadcast, Legendary Space CEO Todd M. Brenn and Legendary Labs CPO Dr. Dora Tang will be in attendance, providing a comprehensive analysis of the ecological closed-loop and value proposition of their platform token $SIG.The key highlights are as follows: $SIG, as the platform&apos;s native token, has fuel properties and a mining mechanism that runs through the entire process of game interaction, contract calls, and ecosystem incentives. A &quot;two-way holding&quot; mechanism between the project parties and the platform is established, building a &quot;$SIG-bound Prosperity DAO&quot; model across multiple projects. There is a native token entry and exit + burning me</description>
-      <pubDate>Sat, 06 Sep 2025 11:57:51 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 12:25:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27971</guid>
       <category>crypto</category>
@@ -65,29 +67,12 @@
 
     </item>
     <item>
-      <title>Next Week Outlook: U.S. August PPI, CPI Data Incoming</title>
-      <link>https://www.lookonchain.com/feeds/27969</link>
-      <description>September 6th. During this week, the financial markets underwent significant changes. The surprise weakness in the U.S. nonfarm payroll data led to an increase in the expectation of a Fed rate cut. Despite the market&apos;s anticipation of further rate cuts by the Fed, the U.S. dollar surprisingly remained strong and did not experience a significant drop even after the disappointing nonfarm payroll data.Several Fed watchers have stated that this U.S. nonfarm payroll data has confirmed a rate cut this month. Investors hold the same view, which has boosted the probability of a rate cut at this month&apos;s meeting to 99%.Monday, 23:00: The 1-year inflation expectation of the U.S. New York Fed for August;Tuesday, 22:00: The nonfarm employment benchmark revision for 2025 in the U.S.;Wednesday, 20:30: U.S. August PPI data;Wednesday, 22:00: U.S. July Wholesale Sales month-on-month;Thursday, 20:30: U.S. August CPI data and U.S. Initial Jobless Claims up to September 6th;Friday, 22:00: The init</description>
-      <pubDate>Sat, 06 Sep 2025 10:57:51 +0000</pubDate>
+      <title>National Online Consumer Finance Company Completes First Securitization of Credit Assets Using Blockchain Technology</title>
+      <link>https://www.lookonchain.com/feeds/27970</link>
+      <description>September 6th. Immediately Consumer Finance presented the first financial blockchain management platform for national consumer finance companies at the &quot;2025 Smart Expo · Digital Industry Eco-Conference&quot;. By using this platform, Immediately Consumer Finance successfully issued the &quot;EasePay 2025 Third Tranche Personal Consumer Loan Asset-Backed Securities&quot;.According to a person in charge at Immediately Consumer Finance, this is the first credit asset-backed security in the country&apos;s consumer finance sector to adopt blockchain technology. Subsequent financial bonds, asset-backed securities, and other financial products will regularly utilize the technology of this platform to continuously expand the application boundaries of blockchain in the consumer finance field. (Jinse)</description>
+      <pubDate>Sat, 06 Sep 2025 12:25:34 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27969</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha has listed Starpower Network (STAR)</title>
-      <link>https://www.lookonchain.com/feeds/27968</link>
-      <description>On September 6th, Binance Alpha officially launched the Starpower Network (STAR) at 18:00 today.</description>
-      <pubDate>Sat, 06 Sep 2025 10:57:51 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27968</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27970</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -102,7 +87,7 @@
       <title>Galaxy Digital to Stake 387,000 HYPE Tokens, Worth Around $18.2 Million</title>
       <link>https://www.lookonchain.com/feeds/27967</link>
       <description>On September 6th, Galaxy Digital staked 387,000 HYPE tokens through its private validator 17 hours ago, with an approximate value of $18.2 million. Before this, these 387,000 HYPE tokens had been held in Galaxy Digital&apos;s HyperEVM address but had not been staked.</description>
-      <pubDate>Sat, 06 Sep 2025 09:57:51 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 10:25:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27967</guid>
       <category>crypto</category>
@@ -120,7 +105,7 @@
       <title>A whale took a long position this morning with an average price of $47.175 for 440,000 HYPE tokens, with a liquidation price of $28.324.</title>
       <link>https://www.lookonchain.com/feeds/27965</link>
       <description>On September 6th, Whale tummy (@tummyy1). This morning, it went long with a 3x leverage on 440,000 HYPE at an average price of $47.175, and the liquidation price is $28.324. Currently, it is facing an unrealized loss of $245,000.In addition, tummy also holds long positions with a 3x leverage in ENA, PUMP, and PENGU. The unrealized losses in them are $170,000, $1,569,000, and $169,000 respectively.</description>
-      <pubDate>Sat, 06 Sep 2025 09:57:51 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 10:25:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27965</guid>
       <category>crypto</category>
@@ -136,10 +121,44 @@
 
     </item>
     <item>
+      <title>Next Week Outlook: U.S. August PPI, CPI Data Incoming</title>
+      <link>https://www.lookonchain.com/feeds/27969</link>
+      <description>September 6th. During this week, the financial markets underwent significant changes. The surprise weakness in the U.S. nonfarm payroll data led to an increase in the expectation of a Fed rate cut. Despite the market&apos;s anticipation of further rate cuts by the Fed, the U.S. dollar surprisingly remained strong and did not experience a significant drop even after the disappointing nonfarm payroll data.Several Fed watchers have stated that this U.S. nonfarm payroll data has confirmed a rate cut this month. Investors hold the same view, which has boosted the probability of a rate cut at this month&apos;s meeting to 99%.Monday, 23:00: The 1-year inflation expectation of the U.S. New York Fed for August;Tuesday, 22:00: The nonfarm employment benchmark revision for 2025 in the U.S.;Wednesday, 20:30: U.S. August PPI data;Wednesday, 22:00: U.S. July Wholesale Sales month-on-month;Thursday, 20:30: U.S. August CPI data and U.S. Initial Jobless Claims up to September 6th;Friday, 22:00: The init</description>
+      <pubDate>Sat, 06 Sep 2025 10:25:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27969</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Binance Alpha has listed Starpower Network (STAR)</title>
+      <link>https://www.lookonchain.com/feeds/27968</link>
+      <description>On September 6th, Binance Alpha officially launched the Starpower Network (STAR) at 18:00 today.</description>
+      <pubDate>Sat, 06 Sep 2025 10:25:34 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27968</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>BiyaPay Analyst: US August Non-Farm Payrolls Data Disappointing, Bitcoin Weekly Chart Shows Weakness, Possible Support at $93,000</title>
       <link>https://www.lookonchain.com/feeds/27966</link>
       <description>September 6th: On the evening of September 5th, the U.S. Bureau of Labor Statistics made an announcement. Only 22,000 non-farm jobs were added in August, which is much lower than the market&apos;s expectation of 75,000. The unemployment rate rose to 4.3%, reaching a new high since the end of 2021.This weak employment data has led to a decline in the U.S. dollar and a rise in gold prices, causing volatility in the short-term trend of Bitcoin. Looking at the latest Bitcoin candlestick chart, the weekly chart of BTC is showing a clear downward trend. It has been closing below key support levels for several consecutive weeks. The short-term moving averages are trending downward, and there is a clear bearish crossover in the MACD, indicating a weakening of the bullish momentum. From a technical perspective, if Bitcoin fails to hold above the $100,000 psychological level, the immediate support below may first test the range of $96,000 to $98,000. Further breakdown could extend to around $93,000</description>
-      <pubDate>Sat, 06 Sep 2025 09:57:51 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 10:25:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27966</guid>
       <category>crypto</category>
@@ -159,7 +178,7 @@
       <title>XTTA Hits All-Time High, Reaching $0.475 Today with a Peak Gain of 37%</title>
       <link>https://www.lookonchain.com/feeds/27964</link>
       <description>On September 6th, market data indicates that the price of XTTA witnessed a rapid upward surge. During the trading session, it reached a peak of $0.475, marking a 37% increase and hitting a new all-time high. Since its listing on Gate on January 26, 2025, XTTA has generally maintained a stable trend and shown a continuous upward trajectory.Market analysis holds that this round of increase is attributed to the TrendX Hashrate 2.0 upgrade, the rapid growth of the ecosystem surrounding XTTA, and the upcoming halving event related to XTTA. As the core token of the TrendX Hashrate ecosystem, the use cases of XTTA continue to expand, attracting the attention of an increasing number of miners and investors.</description>
-      <pubDate>Sat, 06 Sep 2025 09:57:51 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 10:25:34 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27964</guid>
       <category>crypto</category>
@@ -171,23 +190,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Trump Exempts Metals Such as Gold, Tungsten, and Uranium from Global Tariffs</title>
-      <link>https://www.lookonchain.com/feeds/27963</link>
-      <description>September 6th: On Friday, President Trump of the US took measures to exempt graphite, tungsten, uranium, gold bars and other metals from the country&apos;s tariffs while imposing tariffs on silicone products. According to an executive order issued on Friday, these changes will come into effect on Monday.Trump&apos;s directive may also accelerate the implementation of customized trade agreements between the US and other countries, making it easier for Washington to lift tariffs on aircraft parts, generic drugs and certain products that cannot be grown, mined or naturally produced domestically (such as specific spices, coffee and some rare metals).The President&apos;s order states that these changes were made based on the recommendations of US officials. According to the measure, &quot;these modifications are necessary and appropriate to address the national emergency declared by Trump when he first implemented national-level tariffs in April.&quot; (FXStreet)</description>
-      <pubDate>Sat, 06 Sep 2025 09:57:51 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27963</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
