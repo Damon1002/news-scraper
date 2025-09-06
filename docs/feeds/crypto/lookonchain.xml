@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Sep 2025 01:06:50 +0000</lastBuildDate>
-    <pubDate>Sat, 06 Sep 2025 01:06:50 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 02:33:41 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 02:33:41 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,49 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>WLFI: Blacklisted 272 Addresses to Protect User Asset Security, Will Never Ban an Account for Participating Normally in the Market</title>
-      <link>https://www.lookonchain.com/feeds/27932</link>
-      <description>September 6th: The Trump family&apos;s crypto project World Liberty Fi officially announced on social media that their team has been closely following the community&apos;s recent concerns about wallet blacklisting. The fundamental principle is transparency. That is to say, WLFI only takes measures to protect users and never interferes with normal activities. In the past few days, a total of 272 wallets have been blacklisted, which only accounts for a very small proportion of the total holders. This action is purely a temporary measure taken to prevent harm during the investigation and to assist affected users. Among these 272 addresses:· 215 (approximately 79.0%) are related to phishing attacks. The team took proactive measures to prevent hackers from transferring funds and is working with legitimate owners to ensure the safety/transfer of assets.· 50 (approximately 18.4%) were reported stolen by owners through support channels, and the team implemented blacklisting at their request.The WL</description>
-      <pubDate>Sat, 06 Sep 2025 01:00:57 +0000</pubDate>
+      <title>US Stock Crypto Stocks Showing Mixed Performance, BNC Up 20%, Trump-Related ALTS, ABTC Up Around 15%</title>
+      <link>https://www.lookonchain.com/feeds/27942</link>
+      <description>On September 6th, based on market data, the U.S. stock market closed on Friday. The Dow dropped by 0.48%, the S&amp;P 500 decreased by 0.32%, and the Nasdaq fell by 0.03%. Crypto stocks witnessed mixed trends, including:Coinbase (COIN) declined by 2.52%, with a trading volume of $34.09 billion.Circle (CRCL) went down by 2.49%, and the trading volume was $12.92 billion.MicroStrategy (MSTR) rose by 2.53% (and fell by 2.9% after hours), and the trading volume was $46.55 billion.Bullish (BLSH) increased by 6.81%, with a trading volume of $2.21 billion.Bitmine (BMNR) dropped by 0.36%, and the trading volume was $17.79 billion.BTCS (BTCS) fell by 0.94%, with a trading volume of $14.0556 million.SharpLink Gaming (SBET) decreased by 3.21%, and the trading volume was $4.46 billion.BNB Network Company (BNC) rose by 20.09%, with a trading volume of $7.4693 million.ALT5 Sigma (ALTS) rose by 13.57%, with a trading volume of $78.3698 million.The Trump family&apos;s mining enterprise Ameri</description>
+      <pubDate>Sat, 06 Sep 2025 02:32:48 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27932</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27942</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>The largest ENA holding address on Hyperliquid has a long position of over 5x, currently showing a unrealized gain of $3.1 million.</title>
+      <link>https://www.lookonchain.com/feeds/27941</link>
+      <description>On September 6th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), due to the Ethena Foundation&apos;s buyback plan, ENA witnessed a price increase of more than 13% in the past 24 hours. The largest holder on Hyperliquid ENA, with the address 0x6b7...c5e9c, has a long position that is more than 5 times and has a realized profit of $3.107 million.This address has been holding a long position in ENA since July 29th. Currently, it holds 49.18 million tokens (approximately $36.63 million) with an average entry price of $0.6804.BlockBeats previously reported that Ethena announced early this morning a $530 million additional &quot;StablecoinX&quot; PIPE transaction, and the foundation launched a new $310 million open market buyback plan.</description>
+      <pubDate>Sat, 06 Sep 2025 02:16:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27941</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The SEC Delays Decision on the Grayscale DOT Spot ETF</title>
+      <link>https://www.lookonchain.com/feeds/27940</link>
+      <description>On September 6th, according to official channels, the SEC has postponed its decision regarding the Grayscale Polkadot (DOT) spot ETF application.</description>
+      <pubDate>Sat, 06 Sep 2025 02:08:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27940</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,12 +68,12 @@
 
     </item>
     <item>
-      <title>A newly created address deposited 3 million U to open a 20x ETH long position on Hyperliquid.</title>
-      <link>https://www.lookonchain.com/feeds/27931</link>
-      <description>Update, September 6th. According to the monitoring of Onchain Lens, a newly created wallet address deposited 3 million USDC into Hyperliquid and opened a 20x leveraged long position in ETH. The specific data is as follows:· Position Size: 7174 ETH· Position Value: $30.8 million· Entry Price: $4292· Liquidation Price: $3954</description>
-      <pubDate>Sat, 06 Sep 2025 00:56:57 +0000</pubDate>
+      <title>A whale that participated in an ETH ICO has transferred a total of 3500 ETH to OKX over the past 3 days.</title>
+      <link>https://www.lookonchain.com/feeds/27939</link>
+      <description>On September 6th, according to on-chain analyst Ai Auntie (@ai_9684xtpa), the &quot;ETH ICO Whale with 1 million ETH&quot; had accumulated 2000 ETH on September 2nd. In the past three days, a total of 3500 ETH has been deposited to OKX, with a total value of $15.11 million.At that time, the price at which they withdrew ETH from Kraken was $4396.23. If this transaction was truly a buy-in, they would have incurred a loss of $155,000.</description>
+      <pubDate>Sat, 06 Sep 2025 01:56:48 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27931</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27939</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -47,16 +84,52 @@
       <category>initial-load</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
+      <category>transfer</category>
+
+    </item>
+    <item>
+      <title>SOL Strategies has been approved for listing and will debut on Nasdaq next week</title>
+      <link>https://www.lookonchain.com/feeds/27938</link>
+      <description>On September 6th, the Canadian blockchain company SOL Strategies has obtained listing approval and is scheduled to make its Nasdaq debut next week.In a notice issued on Friday, SOL Strategies declared that its common stock will commence trading on the Nasdaq Global Select Market starting from September 9th, with the stock ticker symbol being STKE. This listing will bring an end to the company&apos;s stock trading on the OTCQB over-the-counter market, while still maintaining its trading activities on the Canadian Securities Exchange.After the Nasdaq announcement, the price of SOL Strategies on the Canadian Securities Exchange under the ticker symbol HODL witnessed a significant increase of approximately 20% on Friday.</description>
+      <pubDate>Sat, 06 Sep 2025 01:48:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27938</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>An address deposited 14.53 million U to open a 2x SOL long position on Hyperliquid.</title>
+      <link>https://www.lookonchain.com/feeds/27936</link>
+      <description>On September 6th, as per the monitoring of LookOnChain, a whale address beginning with 0x560C deposited 14.53 million USDC into Hyperliquid 5 hours ago and initiated a 2x long position in SOL. The position size is 143,126 SOL and the position value is $29 million.</description>
+      <pubDate>Sat, 06 Sep 2025 01:32:48 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27936</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Influenced by the Coinbase listing roadmap, NOICE Skyrockets by 155%</title>
-      <link>https://www.lookonchain.com/feeds/27930</link>
-      <description>On September 6th, based on market data, due to its listing on the Coinbase exchange, Noice (NOICE) witnessed a short-term sharp increase of 155%. It is currently trading at $0.0003 and has a market capitalization of $17.25 million.</description>
-      <pubDate>Sat, 06 Sep 2025 00:48:57 +0000</pubDate>
+      <title>A whale address went long on ENA 3 hours ago, with a position size of 27.9 million ENA.</title>
+      <link>https://www.lookonchain.com/feeds/27935</link>
+      <description>On September 6th, as monitored by LookOnChain, the whale address beginning with 0x9e8b, which had made a profit of over $14.5 million on Hyperliquid, went long on ENA three hours ago. The position size was 27.9 million ENA, valued at $20.5 million.Previously reported by BlockBeats, Ethena announced early this morning an additional &quot;StablecoinX&quot; PIPE transaction worth $530 million, and the foundation initiated a new $310 million open market buyback program.</description>
+      <pubDate>Sat, 06 Sep 2025 01:32:48 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27930</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27935</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -65,15 +138,17 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
+      <category>whale</category>
+      <category>high-value</category>
 
     </item>
     <item>
-      <title>Trump Signs Executive Order to Adjust Tariff Policy Scope</title>
-      <link>https://www.lookonchain.com/feeds/27929</link>
-      <description>On September 6th, according to a statement from the White House, US President Trump signed an executive order to adjust the scope of import tariffs and implement trade and security framework agreements with foreign trading partners. The executive order stipulates that after reaching a framework agreement or a final agreement with foreign trading partners, the US may adjust tariffs in accordance with the agreement. This includes reducing equivalent tariffs to zero for some goods. However, the tariff scope is generally not narrowed or the Section 232 tariffs (steel and aluminum derivative tariffs) modified before the signing of the final agreement. Goods eligible for zero equivalent tariffs include products that cannot be produced in the US or are produced in insufficient quantities to meet domestic demand, specific agricultural products, aircraft and parts, and non-patented items for pharmaceutical applications. (CCTV News)</description>
-      <pubDate>Sat, 06 Sep 2025 00:40:57 +0000</pubDate>
+      <title>A certain whale address chased the ETH price surge last night, losing $10.67 million, and then switched to shorting BTC, with a position worth $122 million.</title>
+      <link>https://www.lookonchain.com/feeds/27934</link>
+      <description>On September 6th, as monitored by on-chain data analyst Yu Jin, a whale address. After losing $10.67 million by chasing the rise of ETH following last night&apos;s non-farm payroll data and suffering a total loss of $35.84 million in longing for ETH, it has now shifted to shorting BTC.After liquidating all its ETH long positions last night, over the past 5 hours, this address has been gradually shorting BTC. It has currently shorted 1,107 BTC with a position value of $122 million. The entry price is $111,390, the liquidation price is $116,824, and it currently has an unrealized profit of $830,000.</description>
+      <pubDate>Sat, 06 Sep 2025 01:32:48 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27929</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27934</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -82,52 +157,21 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Coinbase Listing Roadmap Update: Keeta (KTA) and Noice (NOICE)</title>
-      <link>https://www.lookonchain.com/feeds/27928</link>
-      <description>On September 6th, according to official channels, Coinbase&apos;s listing plan has included Keeta (KTA) and Noice (NOICE).</description>
-      <pubDate>Sat, 06 Sep 2025 00:40:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27928</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Ethena Foundation Initiates New $310 Million Buyback Program</title>
-      <link>https://www.lookonchain.com/feeds/27923</link>
-      <description>On September 6th, Ethena made an announcement regarding an additional $530 million &quot;StablecoinX&quot; PIPE transaction. Additionally, the foundation initiated a new $310 million open market buyback program.BlockBeats had previously reported that on July 21st, the stablecoin issuer StablecoinX company announced the completion of a $360 million financing round for the acquisition of ENA tokens. It also planned to list Class A common stock on the Nasdaq Global Market under the ticker symbol &quot;USDE&quot;. The Ethena Foundation would contribute $60 million worth of ENA tokens.To commence the buyback program, StablecoinX would utilize the $260 million net cash proceeds (after deducting relevant expenses) from the financing to purchase locked ENA tokens from the subsidiary of the Ethena Foundation.</description>
-      <pubDate>Fri, 05 Sep 2025 21:05:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27923</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
       <category>eth</category>
       <category>ethereum</category>
+      <category>whale</category>
       <category>high-value</category>
 
     </item>
     <item>
-      <title>Republican Lawmakers Consider Rule Change to Create Fast Track for Trump&apos;s Fed Board Nominees</title>
-      <link>https://www.lookonchain.com/feeds/27927</link>
-      <description>September 6th: An aide in the U.S. Senate from the Republican Party stated that Senate Republicans are in the process of contemplating a change in the rules in order to establish a fast-track confirmation procedure for Trump&apos;s nominees to the Federal Reserve Board. The potential new rules may potentially be debated as early as the beginning of the next month. (Kyodo News)</description>
-      <pubDate>Fri, 05 Sep 2025 21:05:57 +0000</pubDate>
+      <title>Robinhood (HOOD) Unexpectedly Included in S&amp;P 500, Strategy (MSTR) Misses Out</title>
+      <link>https://www.lookonchain.com/feeds/27937</link>
+      <description>On Friday, September 6th, Michael Saylor&apos;s Strategy (MSTR) failed to be included in the S&amp;P 500 Index despite the company announcing strong quarterly earnings and meeting all the inclusion criteria. Consequently, MSTR dropped by 3% after hours, wiping out intraday gains.Unexpectedly, Robinhood (HOOD) was added to the S&amp;P 500 Index, resulting in its stock price rising by 7% after the close. This adjustment will become effective on September 22nd.</description>
+      <pubDate>Sat, 06 Sep 2025 01:32:48 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27927</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27937</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -139,12 +183,12 @@
 
     </item>
     <item>
-      <title>Trump Suggests Fed Chair Nominee Will Be Announced Soon</title>
-      <link>https://www.lookonchain.com/feeds/27926</link>
-      <description>September 6th, Market News: Trump Indicates That He Will Soon Make an Announcement Regarding the Nominee for the Chair of the Federal Reserve. (Xinhua)</description>
-      <pubDate>Fri, 05 Sep 2025 21:05:57 +0000</pubDate>
+      <title>The Federal Reserve Chair Candidate List Narrows to Three, Trump Reiterates Support for Hassett</title>
+      <link>https://www.lookonchain.com/feeds/27933</link>
+      <description>On September 6th, President Trump of the United States stated on Friday that he is mulling over having the Director of the White House National Economic Council, Hassett, assume another role. Trump mentioned that he already has a good inkling of who he will select as the chairperson of the Federal Reserve, with Hassett being one of the three potential candidates. Nevertheless, he declined to confirm whether he would choose Hassett as the Federal Reserve chair. Trump declared that U.S. Treasury Secretary Bentsen was the fourth choice for the Federal Reserve chair, and currently, there are three remaining candidates. Wash and Walle are also among the potential candidates. (Jinse)</description>
+      <pubDate>Sat, 06 Sep 2025 01:32:48 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27926</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27933</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -153,41 +197,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The draft bill from the U.S. Senate Banking Committee would exclude Staking, Airdrops, and Decentralized Entity Infrastructure Networks from securities law.</title>
-      <link>https://www.lookonchain.com/feeds/27925</link>
-      <description>On September 6th, based on market information, a draft bill presented by the U.S. Senate Banking Committee is set to exclude staking, airdrops, and decentralized entity infrastructure networks from the purview of securities laws.</description>
-      <pubDate>Fri, 05 Sep 2025 21:05:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27925</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>ENA Short-Term Surge Exceeds 6%, Market Cap Rises to $48.33 Billion</title>
-      <link>https://www.lookonchain.com/feeds/27924</link>
-      <description>On September 6th. Possibly influenced by the news that &quot;The Ethena Foundation Launches a New $3.1 Billion Buyback Plan&quot; (link: https://www.theblockbeats.info/flash/310999), ENA saw a temporary surge of more than 6%, with its market capitalization rising to $48.33 billion.</description>
-      <pubDate>Fri, 05 Sep 2025 21:05:57 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27924</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
 
     </item>
   </channel>
