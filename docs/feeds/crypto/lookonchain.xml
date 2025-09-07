@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 04:00:57 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 04:00:57 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 04:30:52 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 04:30:52 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>24-Hour Real-Time Fund Flow In/Out Ranking:  WLFI Net Inflow of $28.61 million,  BNB Net Inflow of $12.80 million</title>
+      <link>https://www.lookonchain.com/feeds/28000</link>
+      <description>On September 7th, based on Coinglass data, the top net inflows of funds in the cryptocurrency spot market over the past 24 hours are as follows:- WLFI had a net inflow of $28.61 million.- BNB had a net inflow of $12.8 million.- OKB had a net inflow of $9.7 million.- SOMI had a net inflow of $8 million.- TRX had a net inflow of $4.55 million.The top net outflows of funds in the cryptocurrency spot market are as follows:- BTC had a net outflow of $120 million.- ETH had a net outflow of $79 million.- SOL had a net outflow of $56 million.- XRP had a net outflow of $25 million.- DOGE had a net outflow of $18 million.</description>
+      <pubDate>Sun, 07 Sep 2025 04:17:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28000</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Michael Saylor Enters Bloomberg Billionaires Index Top 500, Estimated Net Worth of $7.37 Billion</title>
+      <link>https://www.lookonchain.com/feeds/27999</link>
+      <description>On September 7th, Michael Saylor, the founder and CEO of Strategy, has witnessed a surge of $1 billion in his net worth since the start of the year. He has recently made his first appearance on the Bloomberg Billionaires Index top 500 list. Michael Saylor is ranked 491st on the Bloomberg Billionaires Index, with an estimated net worth of $7.37 billion, showing a 15.80% increase since January 1st. During the same period, the stock price of Strategy has risen by nearly 12%. Approximately $650 million of Michael Saylor&apos;s wealth is in cash, and the remaining $6.72 billion is tied to his ownership stake in Strategy.Other cryptocurrency billionaires on the Bloomberg list include Brian Armstrong, the CEO of Coinbase (ranked 234th, with a net worth of $12.8 billion) and CZ, the founder of Binance (ranked 40th, with a net worth of $44.5 billion).</description>
+      <pubDate>Sun, 07 Sep 2025 04:09:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27999</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Digital Asset Custodian Tangany Completes €10 Million Financing Round, Led by Baden-Württemberg Bank</title>
       <link>https://www.lookonchain.com/feeds/27998</link>
       <description>On September 7th, the BaFin-regulated digital asset custody provider Tangany completed a €10 million financing round. This round was led by Baader Bank, the venture capital arm Elevator Ventures of Raiffeisen Bank International, and Heliad Crypto Partners, the digital asset investment arm of Heliad AG. Existing shareholders such as HTGF and Nauta Capital also took part in this funding round, reaffirming their long-term support for the company.</description>
-      <pubDate>Sun, 07 Sep 2025 03:56:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:56:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27998</guid>
       <category>crypto</category>
@@ -35,7 +71,7 @@
       <title>WLFI has broken through $0.23, with a 24-hour growth of 28.15%.</title>
       <link>https://www.lookonchain.com/feeds/27997</link>
       <description>On September 7th, based on HTX market data, WLFI has exceeded $0.23 and is currently trading at $0.2329, with a 24-hour increase of 28.15%.</description>
-      <pubDate>Sun, 07 Sep 2025 03:40:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:41:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27997</guid>
       <category>crypto</category>
@@ -53,7 +89,7 @@
       <title>Orca Launches Wavebreak Testnet Token Issuance Platform</title>
       <link>https://www.lookonchain.com/feeds/27996</link>
       <description>On September 7th, the Solana liquidity protocol Orca announced the launch of its token issuance platform Wavebreak&apos;s testnet. It integrates CAPTCHA with the on-chain permission structure to prevent bots and snipers from front-running real users. Wavebreak provides proprietary anti-bot technology, permissionless token creation, a presale token points program, creator presale LP rewards, and daily rewards.</description>
-      <pubDate>Sun, 07 Sep 2025 03:24:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:30:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27996</guid>
       <category>crypto</category>
@@ -70,7 +106,7 @@
       <title>The Wuxi Court in China Discloses &quot;Virtual Dollar&quot; Investment Case: An Investment of 80,000 RMB Only Converted to 0.1 RMB for Withdrawal</title>
       <link>https://www.lookonchain.com/feeds/27995</link>
       <description>September 7th. In Wuxi City, Jiangsu Province, China, the Intermediate People&apos;s Court disclosed a dismissed case related to investment in &quot;virtual US dollars.&quot; An overseas exchange platform, A, publicly promoted &quot;about 7% monthly returns&quot; and claimed that users could view their earnings in the platform account and withdraw funds at any time. Subsequently, Zhou Ming entrusted Wang Hao to purchase foreign exchange assets on Platform A and transferred 84,350 yuan to him. On the same day, Wang Hao transferred the 13,000 yuan worth of platform US dollars exchanged by Zhou Ming into Zhou Ming&apos;s platform account. Unexpectedly, Platform A suddenly collapsed, and the 13,000 US dollars in Zhou Ming&apos;s account could only be cashed out as 0.1 yuan in Chinese currency. In an attempt to recover the loss, Zhou Ming filed a lawsuit with the court, demanding that Wang Hao return his principal of 84,350 yuan and pay the corresponding fund occupation fee.The court, after hearing the case, held that Zhou</description>
-      <pubDate>Sun, 07 Sep 2025 03:09:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:30:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27995</guid>
       <category>crypto</category>
@@ -87,7 +123,7 @@
       <title>A whale acquired 2329 ETH at an average price of $4293 and provided liquidity on both sides</title>
       <link>https://www.lookonchain.com/feeds/27994</link>
       <description>On September 7th, according to on-chain analyst Ai Yi (@ai_9684xtpa), the address 0x1fc...FAEd5 withdrew 2329 ETH from Binance 15 minutes ago at an average price of $4293. Furthermore, the whale added 5622 ETH and $2.81 million in two-sided liquidity to Uniswap V4. The total assets of this address are worth $71.59 million.</description>
-      <pubDate>Sun, 07 Sep 2025 03:00:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 02:30:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27994</guid>
       <category>crypto</category>
@@ -108,9 +144,27 @@
       <title>Fidelity&apos;s On-chain Tokenized Fund Product FDIT Surpasses $200 Million in AUM</title>
       <link>https://www.lookonchain.com/feeds/27993</link>
       <description>On September 7th, according to Andy, the founder of The Rollup. Fidelity&apos;s launched an on-chain tokenized fund product called Fidelity Digital Interest Token (FDIT), which has exceeded $200 million in size and is poised to challenge BlackRock&apos;s BUIDL.</description>
-      <pubDate>Sun, 07 Sep 2025 03:00:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 02:30:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27993</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>a16z Receives 1,428,000 HYPE Tokens, Valued at $66 Million</title>
+      <link>https://www.lookonchain.com/feeds/27991</link>
+      <description>On September 7th, according to the monitoring of @mlmabc, 8 hours ago, a16z received 1,428,000 HYPE from Anchorage Digital, with a value of $66.6 million.</description>
+      <pubDate>Sun, 07 Sep 2025 02:30:00 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27991</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -126,7 +180,7 @@
       <title>WLFI: Possible CEX Transfer of User WLFI for Dumping, Team Initiating Investigation</title>
       <link>https://www.lookonchain.com/feeds/27992</link>
       <description>On September 7th, Ryan Fang, the growth lead of WLFI, stated in an interview on Thursday night that, &quot;The WLFI team holds the view that certain whale token holders might have manipulated the price with the intention of locking in profits. The WLFI team is firmly convinced that in a world where a centralized exchange holds a substantial amount of user funds, some exchanges may attract user tokens and actually transfer the user tokens (referring to WLFI tokens) to other exchanges for sale. Once again, we are still in the process of exploring and discovering this issue and believe that the above situation is highly likely to have occurred. Now, let&apos;s imagine this: suppose a large exchange holds a significant amount of user assets and transfers a large quantity of user assets to another exchange that may have better liquidity, while also opening a very large short position. This is a possibility.&quot;&quot;In fact, on Thursday, some community members have been notifying the team that they believe</description>
-      <pubDate>Sun, 07 Sep 2025 03:00:05 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 02:30:00 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27992</guid>
       <category>crypto</category>
@@ -138,64 +192,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>transfer</category>
-
-    </item>
-    <item>
-      <title>a16z Receives 1,428,000 HYPE Tokens, Valued at $66 Million</title>
-      <link>https://www.lookonchain.com/feeds/27991</link>
-      <description>On September 7th, according to the monitoring of @mlmabc, 8 hours ago, a16z received 1,428,000 HYPE from Anchorage Digital, with a value of $66.6 million.</description>
-      <pubDate>Sun, 07 Sep 2025 02:00:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27991</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>The whale who bought ETH at an average price of $4710 carried out a dollar-cost averaging strategy to buy an additional 1354 ETH.</title>
-      <link>https://www.lookonchain.com/feeds/27990</link>
-      <description>On September 7th, according to on-chain analyst Ai Yi (@ai_9684xtpa), the whale address &quot;0x54d...e6029&quot; purchased ETH at $4710 and is currently engaging in dollar-cost averaging. This address had previously bought 1354 ETH at $4282 (approximately $5.8 million). After this additional purchase, the average price for 3477 ETH has dropped to $4543. Currently, the address has an unrealized loss of $841,000.</description>
-      <pubDate>Sun, 07 Sep 2025 02:00:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27990</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Vitalik: Ethereum Team Performs Strongly This Year, Will Achieve Key Milestones Through Short-Term Scalability Roadmap</title>
-      <link>https://www.lookonchain.com/feeds/27989</link>
-      <description>September 7th: Vitalik, a co-founder of Ethereum, posted an article indicating that the Ethereum team has performed admirably this year. They have made contributions in multiple aspects to guarantee Ethereum&apos;s long-term scalability, decentralization, and resilience. The team&apos;s ideas will be incorporated into the short-term scalability roadmap and they are expected to achieve key milestones.Vitalik&apos;s retweet reveals that Ethereum developers have proposed a minimal zkVM for Ethereum named &quot;leanVM&quot; and have optimized it for XMSS aggregation and recursion. Currently, the recursion time is 2.7 seconds, and they aim to achieve a 10x improvement.</description>
-      <pubDate>Sun, 07 Sep 2025 02:00:05 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27989</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
 
     </item>
   </channel>
