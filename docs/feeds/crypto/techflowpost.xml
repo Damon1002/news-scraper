@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 10:59:07 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 10:59:07 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 11:20:08 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 11:20:08 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>ether.fi 基金会：本周已使用 73 枚 ETH 协议收入购买 26.4 万枚 ETHFI</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据ether.fi基金会在X平台发布ETHFI代币回购更新信息，披露本周已使用73枚ETH（约合31.4万美元）的协议收入购买26.4万枚ETHFI，此外约15.5万枚ETHFI已被销毁，约10.8万枚ETHFI被分发给sETHFI持有者。</description>
+      <pubDate>Sun, 07 Sep 2025 11:16:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>某鲸鱼从币安提取 1,036.6 万枚 DOGE，约 225 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据加密分析师 MLM（@mlmabc）监测，8 小时前，a16z 从 Anchorage Digital 处获得 142.8 万枚 HYPE，价值 6660 万美元。</description>
       <pubDate>Sun, 07 Sep 2025 02:20:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>「在 4710 美元建仓的波段巨鲸」补仓 1,354 枚 ETH，成本降至 4,543 美元</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，波段地址 (0x54d...e6029) 于 10 小时前以 4282 美元的价格买入 1354 枚 ETH，价值约 580 万美元。加仓后，其持有的 3477 枚 ETH 平均成本降至 4543 美元，目前浮亏 84.1 万美元。该地址此前...</description>
-      <pubDate>Sun, 07 Sep 2025 02:02:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
