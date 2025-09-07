@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 11:43:31 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 11:43:31 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 11:55:14 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 11:55:14 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,29 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Tether CEO：未出售任何比特币，而是将部分储备投入到XXI</title>
+      <link>https://www.panewslab.com/zh/articles/9971110f-b05d-4f82-bed0-82f4473b9d28</link>
+      <description>Tether CEO：未出售任何比特币，而是将部分储备投入到XXI</description>
+      <pubDate>Sun, 07 Sep 2025 11:55:14 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9971110f-b05d-4f82-bed0-82f4473b9d28</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
       <title>Cipher Mining：8月挖矿产出241枚BTC，持仓量达1414枚</title>
       <link>https://www.panewslab.com/zh/articles/e96e7b4b-f525-4f48-b8cf-a48d82e6ec9d</link>
       <description>Cipher Mining：8月挖矿产出241枚BTC，持仓量达1414枚</description>
-      <pubDate>Sun, 07 Sep 2025 11:43:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:53:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/e96e7b4b-f525-4f48-b8cf-a48d82e6ec9d</guid>
       <category>crypto</category>
@@ -34,7 +53,7 @@
       <title>ether.fi基金会：本周已使用73枚ETH协议收入购买26.4万枚ETHFI</title>
       <link>https://www.panewslab.com/zh/articles/ca55595e-0eaf-4086-a3ca-16ce356e14c1</link>
       <description>ether.fi基金会：本周已使用73枚ETH协议收入购买26.4万枚ETHFI</description>
-      <pubDate>Sun, 07 Sep 2025 11:41:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:51:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ca55595e-0eaf-4086-a3ca-16ce356e14c1</guid>
       <category>crypto</category>
@@ -51,7 +70,7 @@
       <title>分析：委内瑞拉高通胀率致USDT等稳定币已取代法定现金成当地首选结算方式</title>
       <link>https://www.panewslab.com/zh/articles/dc2a15af-ea3f-4929-97c0-e54f7691ccee</link>
       <description>分析：委内瑞拉高通胀率致USDT等稳定币已取代法定现金成当地首选结算方式</description>
-      <pubDate>Sun, 07 Sep 2025 11:39:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:49:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/dc2a15af-ea3f-4929-97c0-e54f7691ccee</guid>
       <category>crypto</category>
@@ -66,7 +85,7 @@
       <title>某鲸鱼从币安提取1036.6万枚DOGE，价值225万美元</title>
       <link>https://www.panewslab.com/zh/articles/57324b58-e3ad-406b-93d4-7f5858bdcdfe</link>
       <description>某鲸鱼从币安提取1036.6万枚DOGE，价值225万美元</description>
-      <pubDate>Sun, 07 Sep 2025 11:37:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:47:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/57324b58-e3ad-406b-93d4-7f5858bdcdfe</guid>
       <category>crypto</category>
@@ -81,7 +100,7 @@
       <title>Numerai创始人：大部分网站显示的NMR总锁仓价值数据有误</title>
       <link>https://www.panewslab.com/zh/articles/6e179b7a-d891-4159-b817-4a27db58be18</link>
       <description>Numerai创始人：大部分网站显示的NMR总锁仓价值数据有误</description>
-      <pubDate>Sun, 07 Sep 2025 11:35:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:45:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6e179b7a-d891-4159-b817-4a27db58be18</guid>
       <category>crypto</category>
@@ -96,7 +115,7 @@
       <title>Bio Protocol创始人：拟发布aubr.ai终端，允许从终端铸造IP-NFTs</title>
       <link>https://www.panewslab.com/zh/articles/6728902e-036f-47f9-9b5d-19f0717c2d1e</link>
       <description>Bio Protocol创始人：拟发布aubr.ai终端，允许从终端铸造IP-NFTs</description>
-      <pubDate>Sun, 07 Sep 2025 11:33:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:43:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6728902e-036f-47f9-9b5d-19f0717c2d1e</guid>
       <category>crypto</category>
@@ -112,7 +131,7 @@
       <title>币安Alpha已上线SAROS</title>
       <link>https://www.panewslab.com/zh/articles/bc83ec12-52fa-4c6a-aee0-029df5ccc127</link>
       <description>币安Alpha已上线SAROS</description>
-      <pubDate>Sun, 07 Sep 2025 11:31:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:41:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/bc83ec12-52fa-4c6a-aee0-029df5ccc127</guid>
       <category>crypto</category>
@@ -127,7 +146,7 @@
       <title>ZachXBT：若误判高风险地址会对声誉造成损害，WLFI需谨慎标记</title>
       <link>https://www.panewslab.com/zh/articles/7079cb1d-521d-4ea3-89f0-7adfa152e520</link>
       <description>ZachXBT：若误判高风险地址会对声誉造成损害，WLFI需谨慎标记</description>
-      <pubDate>Sun, 07 Sep 2025 11:29:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:39:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7079cb1d-521d-4ea3-89f0-7adfa152e520</guid>
       <category>crypto</category>
@@ -142,7 +161,7 @@
       <title>Bitdeer本周挖矿产出100.6枚BTC，比特币总持有量增至1,934.9枚</title>
       <link>https://www.panewslab.com/zh/articles/a28771d5-afe8-46a5-9d54-73a48312ebee</link>
       <description>Bitdeer本周挖矿产出100.6枚BTC，比特币总持有量增至1,934.9枚</description>
-      <pubDate>Sun, 07 Sep 2025 11:27:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:37:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/a28771d5-afe8-46a5-9d54-73a48312ebee</guid>
       <category>crypto</category>
@@ -159,7 +178,7 @@
       <title>中国国家自然科学基金发布稳定币相关研究课题</title>
       <link>https://www.panewslab.com/zh/articles/40612667-6c9c-4cdb-a913-f26866e18737</link>
       <description>中国国家自然科学基金发布稳定币相关研究课题</description>
-      <pubDate>Sun, 07 Sep 2025 11:25:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:35:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/40612667-6c9c-4cdb-a913-f26866e18737</guid>
       <category>crypto</category>
@@ -174,7 +193,7 @@
       <title>比特币现市值2.212万亿美元，接近Visa和万事达卡市值总和两倍</title>
       <link>https://www.panewslab.com/zh/articles/45a95fc2-9651-472b-833e-564c60cbcc56</link>
       <description>比特币现市值2.212万亿美元，接近Visa和万事达卡市值总和两倍</description>
-      <pubDate>Sun, 07 Sep 2025 11:23:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:33:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/45a95fc2-9651-472b-833e-564c60cbcc56</guid>
       <category>crypto</category>
@@ -191,7 +210,7 @@
       <title>观点：只有当货币停止增发时比特币才会真正见顶</title>
       <link>https://www.panewslab.com/zh/articles/0a9178bc-5884-4e23-a035-d70e441bd677</link>
       <description>观点：只有当货币停止增发时比特币才会真正见顶</description>
-      <pubDate>Sun, 07 Sep 2025 11:21:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:31:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0a9178bc-5884-4e23-a035-d70e441bd677</guid>
       <category>crypto</category>
@@ -208,7 +227,7 @@
       <title>日本首相石破茂决意辞职</title>
       <link>https://www.panewslab.com/zh/articles/2590fe77-2faa-4322-b28a-5ebc32767982</link>
       <description>日本首相石破茂决意辞职</description>
-      <pubDate>Sun, 07 Sep 2025 11:19:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:29:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2590fe77-2faa-4322-b28a-5ebc32767982</guid>
       <category>crypto</category>
@@ -223,7 +242,7 @@
       <title>万斯回应2028年是否竞选总统： “不想这些，我更专注当下”</title>
       <link>https://www.panewslab.com/zh/articles/88c37cd0-c9fd-4c53-859a-766d17f9d098</link>
       <description>万斯回应2028年是否竞选总统： “不想这些，我更专注当下”</description>
-      <pubDate>Sun, 07 Sep 2025 11:17:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:27:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/88c37cd0-c9fd-4c53-859a-766d17f9d098</guid>
       <category>crypto</category>
@@ -238,7 +257,7 @@
       <title>MyStonks CMO Keaton Hu：多稳定币并存并非缺陷，而是去中心化生态的必然</title>
       <link>https://www.panewslab.com/zh/articles/9caa1629-9e9c-4710-9ac4-c6149512055b</link>
       <description>MyStonks CMO Keaton Hu：多稳定币并存并非缺陷，而是去中心化生态的必然</description>
-      <pubDate>Sun, 07 Sep 2025 11:15:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:25:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/9caa1629-9e9c-4710-9ac4-c6149512055b</guid>
       <category>crypto</category>
@@ -254,7 +273,7 @@
       <title>BTC突破111000美元，日内涨幅 0.57%</title>
       <link>https://www.panewslab.com/zh/articles/7pcafke7</link>
       <description>BTC突破111000美元，日内涨幅 0.57%</description>
-      <pubDate>Sun, 07 Sep 2025 11:13:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:23:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7pcafke7</guid>
       <category>crypto</category>
@@ -271,7 +290,7 @@
       <title>马斯克：Grok Imagine处于早期测试阶段，几周后发布重大版本</title>
       <link>https://www.panewslab.com/zh/articles/7693135a-ec3b-4566-b9cd-c9ea17064763</link>
       <description>马斯克：Grok Imagine处于早期测试阶段，几周后发布重大版本</description>
-      <pubDate>Sun, 07 Sep 2025 11:11:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:21:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/7693135a-ec3b-4566-b9cd-c9ea17064763</guid>
       <category>crypto</category>
@@ -286,7 +305,7 @@
       <title>Paxos：已提交提案支持USDH稳定币，并将收益分配给HYPE代币回购</title>
       <link>https://www.panewslab.com/zh/articles/ee09e7ba-25c1-4e89-8e06-de8d8e46ebaf</link>
       <description>Paxos：已提交提案支持USDH稳定币，并将收益分配给HYPE代币回购</description>
-      <pubDate>Sun, 07 Sep 2025 11:09:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:19:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/ee09e7ba-25c1-4e89-8e06-de8d8e46ebaf</guid>
       <category>crypto</category>
@@ -301,7 +320,7 @@
       <title>数据：年初至今已开采10.7万枚比特币，持有超百枚的巨鲸增持130,912枚</title>
       <link>https://www.panewslab.com/zh/articles/5c641997-dbfb-4fea-8e1c-ebc72232f7b4</link>
       <description>数据：年初至今已开采10.7万枚比特币，持有超百枚的巨鲸增持130,912枚</description>
-      <pubDate>Sun, 07 Sep 2025 11:07:31 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 11:17:14 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5c641997-dbfb-4fea-8e1c-ebc72232f7b4</guid>
       <category>crypto</category>
@@ -312,21 +331,6 @@
       <category>chinese-crypto-news</category>
       <category>btc</category>
       <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>CZ：AI伴侣是庞大且快速增长的领域，让我们将其与加密货币结合</title>
-      <link>https://www.panewslab.com/zh/articles/71c8f324-6d2f-4869-ac6b-d337ba6cdb29</link>
-      <description>CZ：AI伴侣是庞大且快速增长的领域，让我们将其与加密货币结合</description>
-      <pubDate>Sun, 07 Sep 2025 11:05:31 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/71c8f324-6d2f-4869-ac6b-d337ba6cdb29</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
 
     </item>
   </channel>
