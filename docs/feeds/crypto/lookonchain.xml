@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 22:44:31 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 22:44:31 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 22:56:22 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 22:56:22 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,27 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Polymarket currently reports a 6% probability on &quot;Trump stepping down as President this year.&quot;</title>
+      <link>https://www.lookonchain.com/feeds/28063</link>
+      <description>On September 8th, based on the information on the relevant page, the probability on Polymarket that &quot;Trump will resign as president this year&quot; is currently 6%.</description>
+      <pubDate>Sun, 07 Sep 2025 15:55:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28063</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>In the past 24 hours, pump.fun has generated $1.59 million in revenue, surpassing Hyperliquid to rank third.</title>
       <link>https://www.lookonchain.com/feeds/28062</link>
       <description>On September 7th, according to data from DefiLlama, pump.fun has achieved a 24-hour revenue of $1.59 million. This surpasses Hyperliquid ($1.09 million) and ranks it third. Only Tether ($21.50 million) and Circle ($7.56 million) are ahead.</description>
-      <pubDate>Sun, 07 Sep 2025 15:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 15:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28062</guid>
       <category>crypto</category>
@@ -32,30 +49,10 @@
 
     </item>
     <item>
-      <title>Bitcoin&apos;s illiquid supply has exceeded 14.3 million coins, reaching an all-time high.</title>
-      <link>https://www.lookonchain.com/feeds/28058</link>
-      <description>On September 7th, as per the report by Coindesk, in late August, the illiquid supply of Bitcoin (that is, the amount of Bitcoin held by entities with almost no spending history) exceeded 14.3 million BTC, reaching a new record high.Over the past 30 days, the net increase in illiquid supply has reached 20,000 BTC. Among the current circulating supply of 19.9 million BTC, approximately 72% of the total supply is in an illiquid state, held by long-term holders and cold storage investors. This growth indicates that even during the recent market volatility, there is still a continuous accumulation trend. In mid-August, Bitcoin hit a new all-time high of $124,000 and then retraced by about 15%. Despite the price pullback, the illiquid supply continues to rise, suggesting that holders have not sold off due to short-term adjustments.</description>
-      <pubDate>Sun, 07 Sep 2025 15:43:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28058</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Tether CEO Reveals Company&apos;s Main Bitcoin Holding Address</title>
       <link>https://www.lookonchain.com/feeds/28061</link>
       <description>On September 7th, Paolo Ardoino, the CEO of Tether, stated in a post, &quot;The vast majority of our Bitcoin is held directly: bc1qjasf9z3h7w3jspkhtgatgpyvvzgpa2wwd2lr0eh5tx44reyn2k7sfc27a4&quot;. This address currently holds 77,447 BTC, with a value of $8.61 billion.</description>
-      <pubDate>Sun, 07 Sep 2025 15:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 15:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28061</guid>
       <category>crypto</category>
@@ -73,10 +70,30 @@
 
     </item>
     <item>
+      <title>Bitcoin&apos;s illiquid supply has exceeded 14.3 million coins, reaching an all-time high.</title>
+      <link>https://www.lookonchain.com/feeds/28058</link>
+      <description>On September 7th, as per the report by Coindesk, in late August, the illiquid supply of Bitcoin (that is, the amount of Bitcoin held by entities with almost no spending history) exceeded 14.3 million BTC, reaching a new record high.Over the past 30 days, the net increase in illiquid supply has reached 20,000 BTC. Among the current circulating supply of 19.9 million BTC, approximately 72% of the total supply is in an illiquid state, held by long-term holders and cold storage investors. This growth indicates that even during the recent market volatility, there is still a continuous accumulation trend. In mid-August, Bitcoin hit a new all-time high of $124,000 and then retraced by about 15%. Despite the price pullback, the illiquid supply continues to rise, suggesting that holders have not sold off due to short-term adjustments.</description>
+      <pubDate>Sun, 07 Sep 2025 14:55:30 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28058</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Cipher Mining: Mined 241 BTC in August, Bringing Total Holdings to 1414 BTC</title>
       <link>https://www.lookonchain.com/feeds/28060</link>
       <description>On September 7th, according to the report from Globenewswire, the Nasdaq-listed Bitcoin mining company Cipher Mining announced its unaudited production and operations update for August 2025. It was disclosed that the company mined 241 BTC in August. During the same period, it sold 42 BTC. Currently, it holds a total of 1414 BTC.</description>
-      <pubDate>Sun, 07 Sep 2025 15:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 14:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28060</guid>
       <category>crypto</category>
@@ -95,7 +112,7 @@
       <title>ether.fi Foundation: This week spent 73 ETH from protocol revenue to purchase 264,000 ETHFI tokens</title>
       <link>https://www.lookonchain.com/feeds/28059</link>
       <description>On September 7th, the ether.fi Foundation announced that &quot;this week, it has utilized 73 ETH (approximately $314,000) of protocol revenue to purchase 264,000 ETHFI. Approximately 155,000 ETHFI have been burned and approximately 108,000 ETHFI have been distributed to sETHFI holders.&quot;</description>
-      <pubDate>Sun, 07 Sep 2025 15:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 14:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28059</guid>
       <category>crypto</category>
@@ -111,27 +128,10 @@
 
     </item>
     <item>
-      <title>Polymarket currently reports a 6% probability on &quot;Trump stepping down as President this year.&quot;</title>
-      <link>https://www.lookonchain.com/feeds/28063</link>
-      <description>On September 8th, based on the information on the relevant page, the probability on Polymarket that &quot;Trump will resign as president this year&quot; is currently 6%.</description>
-      <pubDate>Sun, 07 Sep 2025 15:43:38 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28063</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
       <title>If Ethereum breaks above $4400, the total short liquidation volume on major CEXs will reach $1.312 billion.</title>
       <link>https://www.lookonchain.com/feeds/28057</link>
       <description>On September 7th, based on Coinglass data, if Ethereum breaks through $4400, the cumulative short liquidation intensity of mainstream CEX will amount to $1.312 billion.Conversely, if Ethereum drops below $4200, the cumulative long liquidation intensity of mainstream CEX will reach $1.227 billion.BlockBeats Note: The liquidation chart does not accurately display the number of contracts awaiting liquidation or the exact value of contracts being liquidated. The bars on the liquidation chart actually represent the significance of each liquidation cluster in relation to the adjacent liquidation clusters, that is, the intensity.Therefore, the liquidation chart shows to what extent the asset price reaching a certain level will be impacted. A higher &quot;liquidation bar&quot; indicates that when the price is reached, there will be a more intense reaction due to a liquidity cascade.</description>
-      <pubDate>Sun, 07 Sep 2025 14:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 14:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28057</guid>
       <category>crypto</category>
@@ -151,7 +151,7 @@
       <title>Haslet: No Plan to Reform the Federal Reserve Now</title>
       <link>https://www.lookonchain.com/feeds/28056</link>
       <description>On September 7th, Hassett, who is the Director of the White House National Economic Council, said, &quot;I don&apos;t have a plan to reform the Federal Reserve at this time.&quot; (Xinhua News Agency)</description>
-      <pubDate>Sun, 07 Sep 2025 14:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 14:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28056</guid>
       <category>crypto</category>
@@ -168,7 +168,7 @@
       <title>SharpLink CEO: Satoshi Nakamoto Could Return When Bitcoin Faces Quantum Computing Threat</title>
       <link>https://www.lookonchain.com/feeds/28055</link>
       <description>On September 7th, according to Decrypt, since Bitcoin&apos;s creator Satoshi Nakamoto left his last message in 2011 stating &quot;I&apos;ve moved on to other things,&quot; he has remained unidentifiable. However, Joseph Chalom, the Co-CEO of SharpLink Gaming, has put forward a &quot;bold theory&quot;: if Bitcoin faces a survival threat from quantum computing, Satoshi Nakamoto may make a reappearance.Some experts think that quantum computing could bring a &quot;survival crisis&quot; to Bitcoin in the next decade. The Bitcoin community has started to discuss how to make the network quantum-resistant. Some have proposed achieving quantum resistance through a hard fork, while others have suggested freezing the Bitcoin held by Satoshi Nakamoto that is vulnerable to quantum attacks.</description>
-      <pubDate>Sun, 07 Sep 2025 14:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 14:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28055</guid>
       <category>crypto</category>
@@ -187,7 +187,7 @@
       <title>Analyst: September Interest Rate Cut Likely, Options Traders Expect Stock Market to Remain Stable</title>
       <link>https://www.lookonchain.com/feeds/28054</link>
       <description>September 7th. Given that a rate cut by the Federal Reserve in September is almost a certainty, options traders generally anticipate that the stock market will trade steadily on Thursday prior to the release of CPI data. Nevertheless, if the data indicates an increase in inflation, this bet may conceal latent risks. The underlying logic for the market&apos;s expectation of a rate cut is quite straightforward: U.S. job growth has come to a standstill, and the economy requires stimulation. The weak employment data on Friday further reinforced this expectation, prompting investors to fully absorb the anticipated 25-basis-point rate cut by the Fed next week. The market&apos;s response to this was muted: U.S. stocks edged lower on Friday, the fear index inched up but still remained well below the crucial level of 20 and mostly stayed below this level since June.Looking ahead, options traders are wagering that the S&amp;P 500 index will witness around a 0.7% two-way fluctuation after Thursday&apos;s CPI rele</description>
-      <pubDate>Sun, 07 Sep 2025 13:43:38 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 13:55:30 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28054</guid>
       <category>crypto</category>
