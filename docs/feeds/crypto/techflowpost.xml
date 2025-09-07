@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 10:35:34 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 10:35:34 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 10:47:29 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 10:47:29 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>Numerai 创始人：大部分网站显示的 NMR TVL 数据有误，实际约为 2,000 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Numerai 创始人 Richard Craib 发推表示，「由于我们质押方式的特殊性，大部分网站显示的 NMR 总锁仓价值（TVL）数据是错误的。例如，CoinMarketCap 显示 400 万美元，但实际大约是 2,000 万美元。」</description>
+      <pubDate>Sun, 07 Sep 2025 10:39:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Bio Protocol 创始人：将推出 aubr.ai 终端，启动 IP-NFT 铸造及智能代理系统</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>Base 生态衍生品交易平台 Avantis 上线 AVNT 代币空投检查器，超过 65,000 个钱包有资格获得空投，空投申领将于 9 月 9 日 22:00 开始。8 月 27 日 Avantis 宣布将推出代币 AVNT，总供应量为 10 亿枚，社区合计分配 51%，其中空投分配 12.5%...</description>
       <pubDate>Sun, 07 Sep 2025 01:54:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>ETH 突破 4,300 USDT，24 小时涨幅 0.41%</title>
-      <link>https://www.techflowpost.com</link>
-      <description>据 HTX 行情数据，ETH 突破 4,300 USDT，现报 4,302.72 USDT，24 小时涨幅 0.41%。</description>
-      <pubDate>Sun, 07 Sep 2025 01:51:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
