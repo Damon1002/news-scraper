@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 05:47:38 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 05:47:38 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 05:58:43 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 05:58:43 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,46 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>El Salvador is celebrating the fourth anniversary of adopting Bitcoin as legal tender, currently holding 6,291.18 BTC.</title>
+      <link>https://www.lookonchain.com/feeds/28006</link>
+      <description>September 7th: On September 7, 2021, El Salvador officially became the first country in the world to adopt Bitcoin as legal tender. President Nayib Bukele led the El Salvadoran Congress to pass the &quot;Bitcoin Law&quot; in June 2021. This law stipulates that Bitcoin can be used for payments of goods, services, taxes, etc., along with the US dollar as legal tender. The Salvadoran government then launched the digital wallet &quot;Chivo,&quot; enabling citizens to store and use Bitcoin. It provides a $30 Bitcoin reward to registered users and also deployed Bitcoin ATMs nationwide to facilitate transactions.According to data from the Salvadoran Ministry of Finance website, El Salvador has accumulated an additional 8 Bitcoins in the past 7 days, bringing its total Bitcoin holdings to 6,291.18 Bitcoins, with a value of over $690 million.</description>
+      <pubDate>Sun, 07 Sep 2025 05:56:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28006</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>SEC and CFTC May Establish Joint Committee to End Cryptocurrency Regulation Dispute</title>
+      <link>https://www.lookonchain.com/feeds/28005</link>
+      <description>On September 7th, according to TheBlock, a proposed draft of a market structure bill presented in the U.S. Senate indicates the establishment of a joint SEC and CFTC committee in order to resolve the cryptocurrency regulatory dispute. The draft encompasses provisions to safeguard decentralized finance (DeFi) developers, clarify the regulatory treatment of airdrops, exempt decentralized physical infrastructure networks (DePINs) from securities laws, and more. Additionally, the bill mandates the U.S. Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) to set up a joint digital asset advisory committee to coordinate the two agencies&apos; distinct regulatory approaches to digital assets.In recent periods, the SEC and CFTC have enhanced their cooperation in cryptocurrency regulation and are scheduled to hold a public roundtable discussion on &quot;regulatory coordination priorities&quot; on September 29th. SEC Chairman Paul S. Atkins and Acting CFTC Chairwoman C</description>
+      <pubDate>Sun, 07 Sep 2025 05:48:50 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28005</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The current mainstream CEX and DEX funding rate display indicates a bearish market sentiment.</title>
       <link>https://www.lookonchain.com/feeds/28004</link>
       <description>On September 7th, based on Coinglass data, the current mainstream CEX and DEX funding rates suggest that the market has inclined towards bearishness. The specific funding rates are as presented in the following chart.BlockBeats Notes: The funding rate is a rate set by cryptocurrency exchanges to maintain the balance between the contract price and the underlying asset price. It is usually applicable to perpetual contracts and is a fund exchange mechanism between long and short traders. The trading platform does not charge this fee. It is used to adjust the cost or profit of traders holding contracts to keep the contract price close to the underlying asset price.When the funding rate is 0.01%, it represents the baseline rate. When the funding rate is greater than 0.01%, it indicates a generally bullish market. When the funding rate is less than 0.005%, it indicates a generally bearish market.</description>
-      <pubDate>Sun, 07 Sep 2025 05:40:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 05:40:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28004</guid>
       <category>crypto</category>
@@ -34,7 +70,7 @@
       <title>SOMI briefly broke through $1.15, with a 24-hour price increase expanding to 50.2%.</title>
       <link>https://www.lookonchain.com/feeds/28003</link>
       <description>On September 7th, based on HTX market data, Somnia (SOMI) briefly rose above $1.15 and is now trading at $1.04. It has seen a 24-hour price increase of 50.2% and is currently valued at $160 million.Somnia (SOMI) was previously listed on Binance&apos;s spot trading on September 2nd.</description>
-      <pubDate>Sun, 07 Sep 2025 05:16:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 05:16:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28003</guid>
       <category>crypto</category>
@@ -52,7 +88,7 @@
       <title>Linea: Next Week&apos;s Liquidity Incentive Plan will Distribute 160 Million LINEA Tokens</title>
       <link>https://www.lookonchain.com/feeds/28002</link>
       <description>On September 7th, Linea officially declared that the Linea Ignition liquidity incentive program in the next week will allocate 1.6 billion LINEA tokens as incentives. Previously, it was planned to be 1.5 billion tokens.The total reward for the Aave and Euler lending pools in USDC, USDT, and ETH is 1.28 billion LINEA tokens. And the total reward for trading on Etherex (trading pairs including USDC/ETH, WBTC/ETH, USDT/ETH, and ETH/REX) is 32 million LINEA tokens.</description>
-      <pubDate>Sun, 07 Sep 2025 04:46:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 04:57:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28002</guid>
       <category>crypto</category>
@@ -70,7 +106,7 @@
       <title>SEC Establishes a Special Task Force to Combat Cross-Border Transaction Fraud Targeting U.S. Investors</title>
       <link>https://www.lookonchain.com/feeds/28001</link>
       <description>September 7th. According to an official proclamation, the U.S. Securities and Exchange Commission (SEC) has declared the formation of a cross-border special task force with the aim of combating cross-border transaction fraud that poses a threat to U.S. investors. The initial emphasis of the cross-border special task force is to investigate potential violations of U.S. federal securities laws involving foreign companies, including potential market manipulation such as &quot;pump and dump&quot; schemes. The task force will also give special attention to &quot;gatekeepers,&quot; specifically auditors and underwriters that assist these companies in accessing the U.S. capital markets. Furthermore, the task force will review potential securities law violations related to companies in foreign jurisdictions.SEC Chairman Paul Atkins stated, &quot;We extend a warm welcome to companies from all over the world to access the U.S. capital markets. However, we will not show any tolerance for any bad actors - be it companie</description>
-      <pubDate>Sun, 07 Sep 2025 04:46:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 04:57:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28001</guid>
       <category>crypto</category>
@@ -87,7 +123,7 @@
       <title>24-Hour Real-Time Fund Flow In/Out Ranking:  WLFI Net Inflow of $28.61 million,  BNB Net Inflow of $12.80 million</title>
       <link>https://www.lookonchain.com/feeds/28000</link>
       <description>On September 7th, based on Coinglass data, the top net inflows of funds in the cryptocurrency spot market over the past 24 hours are as follows:- WLFI had a net inflow of $28.61 million.- BNB had a net inflow of $12.8 million.- OKB had a net inflow of $9.7 million.- SOMI had a net inflow of $8 million.- TRX had a net inflow of $4.55 million.The top net outflows of funds in the cryptocurrency spot market are as follows:- BTC had a net outflow of $120 million.- ETH had a net outflow of $79 million.- SOL had a net outflow of $56 million.- XRP had a net outflow of $25 million.- DOGE had a net outflow of $18 million.</description>
-      <pubDate>Sun, 07 Sep 2025 03:46:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:57:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28000</guid>
       <category>crypto</category>
@@ -105,7 +141,7 @@
       <title>Digital Asset Custodian Tangany Completes €10 Million Financing Round, Led by Baden-Württemberg Bank</title>
       <link>https://www.lookonchain.com/feeds/27998</link>
       <description>On September 7th, the BaFin-regulated digital asset custody provider Tangany completed a €10 million financing round. This round was led by Baader Bank, the venture capital arm Elevator Ventures of Raiffeisen Bank International, and Heliad Crypto Partners, the digital asset investment arm of Heliad AG. Existing shareholders such as HTGF and Nauta Capital also took part in this funding round, reaffirming their long-term support for the company.</description>
-      <pubDate>Sun, 07 Sep 2025 03:46:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:57:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27998</guid>
       <category>crypto</category>
@@ -123,7 +159,7 @@
       <title>Michael Saylor Enters Bloomberg Billionaires Index Top 500, Estimated Net Worth of $7.37 Billion</title>
       <link>https://www.lookonchain.com/feeds/27999</link>
       <description>On September 7th, Michael Saylor, the founder and CEO of Strategy, has witnessed a surge of $1 billion in his net worth since the start of the year. He has recently made his first appearance on the Bloomberg Billionaires Index top 500 list. Michael Saylor is ranked 491st on the Bloomberg Billionaires Index, with an estimated net worth of $7.37 billion, showing a 15.80% increase since January 1st. During the same period, the stock price of Strategy has risen by nearly 12%. Approximately $650 million of Michael Saylor&apos;s wealth is in cash, and the remaining $6.72 billion is tied to his ownership stake in Strategy.Other cryptocurrency billionaires on the Bloomberg list include Brian Armstrong, the CEO of Coinbase (ranked 234th, with a net worth of $12.8 billion) and CZ, the founder of Binance (ranked 40th, with a net worth of $44.5 billion).</description>
-      <pubDate>Sun, 07 Sep 2025 03:46:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:57:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27999</guid>
       <category>crypto</category>
@@ -141,7 +177,7 @@
       <title>WLFI has broken through $0.23, with a 24-hour growth of 28.15%.</title>
       <link>https://www.lookonchain.com/feeds/27997</link>
       <description>On September 7th, based on HTX market data, WLFI has exceeded $0.23 and is currently trading at $0.2329, with a 24-hour increase of 28.15%.</description>
-      <pubDate>Sun, 07 Sep 2025 03:46:46 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 03:57:50 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27997</guid>
       <category>crypto</category>
@@ -153,40 +189,6 @@
       <category>whale-watching</category>
       <category>initial-load</category>
       <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Orca Launches Wavebreak Testnet Token Issuance Platform</title>
-      <link>https://www.lookonchain.com/feeds/27996</link>
-      <description>On September 7th, the Solana liquidity protocol Orca announced the launch of its token issuance platform Wavebreak&apos;s testnet. It integrates CAPTCHA with the on-chain permission structure to prevent bots and snipers from front-running real users. Wavebreak provides proprietary anti-bot technology, permissionless token creation, a presale token points program, creator presale LP rewards, and daily rewards.</description>
-      <pubDate>Sun, 07 Sep 2025 03:46:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27996</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>The Wuxi Court in China Discloses &quot;Virtual Dollar&quot; Investment Case: An Investment of 80,000 RMB Only Converted to 0.1 RMB for Withdrawal</title>
-      <link>https://www.lookonchain.com/feeds/27995</link>
-      <description>September 7th. In Wuxi City, Jiangsu Province, China, the Intermediate People&apos;s Court disclosed a dismissed case related to investment in &quot;virtual US dollars.&quot; An overseas exchange platform, A, publicly promoted &quot;about 7% monthly returns&quot; and claimed that users could view their earnings in the platform account and withdraw funds at any time. Subsequently, Zhou Ming entrusted Wang Hao to purchase foreign exchange assets on Platform A and transferred 84,350 yuan to him. On the same day, Wang Hao transferred the 13,000 yuan worth of platform US dollars exchanged by Zhou Ming into Zhou Ming&apos;s platform account. Unexpectedly, Platform A suddenly collapsed, and the 13,000 US dollars in Zhou Ming&apos;s account could only be cashed out as 0.1 yuan in Chinese currency. In an attempt to recover the loss, Zhou Ming filed a lawsuit with the court, demanding that Wang Hao return his principal of 84,350 yuan and pay the corresponding fund occupation fee.The court, after hearing the case, held that Zhou</description>
-      <pubDate>Sun, 07 Sep 2025 02:46:46 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27995</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
 
     </item>
   </channel>
