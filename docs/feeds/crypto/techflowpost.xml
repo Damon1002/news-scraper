@@ -5,14 +5,25 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml</link>
     <description>Latest crypto news from 深潮</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 10:47:29 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 10:47:29 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 10:59:07 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 10:59:07 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/深潮.xml" rel="self" type="application/rss+xml"/>
     <generator>Multi-Source News Aggregator</generator>
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
+    <item>
+      <title>某鲸鱼从币安提取 1,036.6 万枚 DOGE，约 225 万美元</title>
+      <link>https://www.techflowpost.com</link>
+      <description>据 Onchain Lens 检测，某鲸鱼从币安提取 1036.6 万枚 DOGE，价值 225 万美元，据悉这些 DOGE 代币已在其钱包中闲置两年时间。</description>
+      <pubDate>Sun, 07 Sep 2025 10:49:00 +0000</pubDate>
+      <source>深潮</source>
+      <guid isPermaLink="true">https://www.techflowpost.com</guid>
+      <category>crypto</category>
+      <category>深潮</category>
+
+    </item>
     <item>
       <title>Numerai 创始人：大部分网站显示的 NMR TVL 数据有误，实际约为 2,000 万美元</title>
       <link>https://www.techflowpost.com</link>
@@ -271,17 +282,6 @@
       <link>https://www.techflowpost.com</link>
       <description>据链上分析师 Ai 姨（@ai_9684xtpa）监测，波段地址 (0x54d...e6029) 于 10 小时前以 4282 美元的价格买入 1354 枚 ETH，价值约 580 万美元。加仓后，其持有的 3477 枚 ETH 平均成本降至 4543 美元，目前浮亏 84.1 万美元。该地址此前...</description>
       <pubDate>Sun, 07 Sep 2025 02:02:00 +0000</pubDate>
-      <source>深潮</source>
-      <guid isPermaLink="true">https://www.techflowpost.com</guid>
-      <category>crypto</category>
-      <category>深潮</category>
-
-    </item>
-    <item>
-      <title>Avantis 上线 $AVNT 空投检查器，申领将于 9 月 9 日开始</title>
-      <link>https://www.techflowpost.com</link>
-      <description>Base 生态衍生品交易平台 Avantis 上线 AVNT 代币空投检查器，超过 65,000 个钱包有资格获得空投，空投申领将于 9 月 9 日 22:00 开始。8 月 27 日 Avantis 宣布将推出代币 AVNT，总供应量为 10 亿枚，社区合计分配 51%，其中空投分配 12.5%...</description>
-      <pubDate>Sun, 07 Sep 2025 01:54:00 +0000</pubDate>
       <source>深潮</source>
       <guid isPermaLink="true">https://www.techflowpost.com</guid>
       <category>crypto</category>
