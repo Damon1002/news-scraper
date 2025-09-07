@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Sep 2025 01:15:22 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Sep 2025 01:15:22 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 02:43:48 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 02:43:48 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,12 +14,70 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
-      <title>Musk: AI5 will be an epic-level chip, and AI6 is expected to be the best AI chip to date</title>
-      <link>https://www.lookonchain.com/feeds/27984</link>
-      <description>September 7th, Musk stated in a post that &quot;Today witnessed an excellent AI5 chip design review with the Tesla AI chip team. AI5 is a remarkable one, and AI6 has the potential to be the best AI chip to date. Shifting from two to a single architecture implies that all Tesla AI chip talents will concentrate on one outstanding chip. I believe that AI5 could be the best for all inference chips for models with around 250B params or less, offering the lowest silicon cost to date and the highest performance per watt. AI6 will be even more superior.&quot;</description>
-      <pubDate>Sun, 07 Sep 2025 01:08:30 +0000</pubDate>
+      <title>a16z Receives 1,428,000 HYPE Tokens, Valued at $66 Million</title>
+      <link>https://www.lookonchain.com/feeds/27991</link>
+      <description>On September 7th, according to the monitoring of @mlmabc, 8 hours ago, a16z received 1,428,000 HYPE from Anchorage Digital, with a value of $66.6 million.</description>
+      <pubDate>Sun, 07 Sep 2025 02:16:55 +0000</pubDate>
       <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27984</guid>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27991</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The whale who bought ETH at an average price of $4710 carried out a dollar-cost averaging strategy to buy an additional 1354 ETH.</title>
+      <link>https://www.lookonchain.com/feeds/27990</link>
+      <description>On September 7th, according to on-chain analyst Ai Yi (@ai_9684xtpa), the whale address &quot;0x54d...e6029&quot; purchased ETH at $4710 and is currently engaging in dollar-cost averaging. This address had previously bought 1354 ETH at $4282 (approximately $5.8 million). After this additional purchase, the average price for 3477 ETH has dropped to $4543. Currently, the address has an unrealized loss of $841,000.</description>
+      <pubDate>Sun, 07 Sep 2025 02:00:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27990</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>Vitalik: Ethereum Team Performs Strongly This Year, Will Achieve Key Milestones Through Short-Term Scalability Roadmap</title>
+      <link>https://www.lookonchain.com/feeds/27989</link>
+      <description>September 7th: Vitalik, a co-founder of Ethereum, posted an article indicating that the Ethereum team has performed admirably this year. They have made contributions in multiple aspects to guarantee Ethereum&apos;s long-term scalability, decentralization, and resilience. The team&apos;s ideas will be incorporated into the short-term scalability roadmap and they are expected to achieve key milestones.Vitalik&apos;s retweet reveals that Ethereum developers have proposed a minimal zkVM for Ethereum named &quot;leanVM&quot; and have optimized it for XMSS aggregation and recursion. Currently, the recursion time is 2.7 seconds, and they aim to achieve a 10x improvement.</description>
+      <pubDate>Sun, 07 Sep 2025 01:56:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27989</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>Avantis Launches AVNT Token Airdrop Checker, Claiming to Start on September 9</title>
+      <link>https://www.lookonchain.com/feeds/27988</link>
+      <description>On September 7th, the Base ecosystem derivative trading platform Avantis launched the AVNT token airdrop checker. More than 65,000 wallets are eligible for the airdrop. The airdrop claim will begin at 22:00 on September 9th.On August 27th, Avantis announced the launch of the AVNT token with a total supply of 1 billion. Community allocations account for 51%, and the airdrop allocation is 12.5%. Avantis had previously completed an $8 million Series A funding round in June of this year, led by Founders Fund and Pantera Capital, with participation from Symbolic Capital, SALT Fund, and Flowdesk.</description>
+      <pubDate>Sun, 07 Sep 2025 01:48:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27988</guid>
       <category>crypto</category>
       <category>lookonchain</category>
       <category>lookonchain</category>
@@ -31,10 +89,68 @@
 
     </item>
     <item>
+      <title>A newly created wallet withdrew 13 million WLFI from Binance, worth $2.84 million</title>
+      <link>https://www.lookonchain.com/feeds/27986</link>
+      <description>On September 7th, as monitored by LookOnChain, a newly established wallet withdrew 13 million WLFI from Binance 8 hours ago, with a value of $2.84 million.</description>
+      <pubDate>Sun, 07 Sep 2025 01:42:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27986</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>The whale that liquidated ETH at $4519 has bought back in, increasing their ETH holdings by 2321.7 coins.</title>
+      <link>https://www.lookonchain.com/feeds/27985</link>
+      <description>On September 7th, according to EmberCN&apos;s monitoring, a whale that had liquidated ETH at a price of $4,519 on August 15th to obtain double profits began buying ETH again 4 hours ago. This whale spent 9.917 million USDT to purchase 2,321.7 ETH at an average price of $4,272.</description>
+      <pubDate>Sun, 07 Sep 2025 01:42:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27985</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>whale</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>An address holding 10 or more BTC continues to accumulate throughout the year, offsetting the newly mined coins.</title>
+      <link>https://www.lookonchain.com/feeds/27987</link>
+      <description>On September 7th, as monitored by HODL15Capital, a total of 107,733 bitcoins have been mined since the start of the year.Addresses with 10 bitcoins or less have sold 27,333 bitcoins.Addresses holding between 10 and 100 bitcoins have obtained 4,154 bitcoins.Whale addresses with more than 100 bitcoins have acquired 130,912 bitcoins (which is equivalent to buying 100% of the newly mined bitcoins and an additional 23,179 bitcoins).</description>
+      <pubDate>Sun, 07 Sep 2025 01:42:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27987</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
       <title>The whale, who has profited $240.57 million from ETH, has deposited 21,178 ETH into Bitfinex.</title>
       <link>https://www.lookonchain.com/feeds/27983</link>
       <description>On September 7th, as per the monitoring of OnchainLens, a whale that had remained dormant for six years deposited 21,178 ETH into Bitfinex. This deposit was valued at $90.74 million. Subsequently, the whale sent 37,760 ETH to two new wallets, with a value of $161.82 million.The whale&apos;s wallet originally received 58,938 ETH from Bitfinex, which was worth $12.02 million. Currently, it has achieved a profit of $240.57 million on its ETH holdings.</description>
-      <pubDate>Sun, 07 Sep 2025 01:08:30 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 00:42:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27983</guid>
       <category>crypto</category>
@@ -53,10 +169,27 @@
 
     </item>
     <item>
+      <title>Musk: AI5 will be an epic-level chip, and AI6 is expected to be the best AI chip to date</title>
+      <link>https://www.lookonchain.com/feeds/27984</link>
+      <description>September 7th, Musk stated in a post that &quot;Today witnessed an excellent AI5 chip design review with the Tesla AI chip team. AI5 is a remarkable one, and AI6 has the potential to be the best AI chip to date. Shifting from two to a single architecture implies that all Tesla AI chip talents will concentrate on one outstanding chip. I believe that AI5 could be the best for all inference chips for models with around 250B params or less, offering the lowest silicon cost to date and the highest performance per watt. AI6 will be even more superior.&quot;</description>
+      <pubDate>Sun, 07 Sep 2025 00:42:55 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27984</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
       <title>The crypto market has experienced a slight decline in the past 24 hours, with the total market capitalization dropping to $3.891 trillion.</title>
       <link>https://www.lookonchain.com/feeds/27982</link>
       <description>On September 7th, according to Coingecko data, the total cryptocurrency market capitalization has decreased by 0.5% in the past 24 hours and dropped to $3.891 trillion. Based on HTX market information, Bitcoin briefly fell below $110,000 this morning and is currently trading at $110,292. Ethereum dropped below $4,300 and is now trading at $4,286. SOL briefly fell below $200 before rebounding to $201.2. The altcoin market has a mixed performance. The top gainers are:- SOMI is currently at $0.97, with a 24-hour increase of 62.3%.- NMR is currently at $17.5, with a 24-hour increase of 34.2%.- WLFI is currently at $0.2226, with a 24-hour increase of 22.3%.- MITO is currently at $0.224, with a 24-hour increase of 18.4%.The top losers are:- BIO is currently at $0.166, with a 24-hour decrease of 6%.- SYRUP is currently at $0.495, with a 24-hour decrease of 6%.- MKR is currently at $1715, with a 24-hour decrease of 5%.- SUN is currently at $0.02, with a 24-hour decrease of 4.9%.</description>
-      <pubDate>Sun, 07 Sep 2025 01:00:30 +0000</pubDate>
+      <pubDate>Sun, 07 Sep 2025 00:42:55 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/27982</guid>
       <category>crypto</category>
@@ -67,144 +200,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>NMR Short-Term Breakthrough $21, Surges Over 34.53% in 24 Hours</title>
-      <link>https://www.lookonchain.com/feeds/27981</link>
-      <description>On September 7th, according to HTX market data, Numerai (NMR) surged this morning and broke through $21. It is now trading at $17.55, with a 24-hour gain of 34.53%. Earlier on August 27th, it was reported that Numerai received a commitment for an investment of up to $500 million from JPMorgan Chase.</description>
-      <pubDate>Sun, 07 Sep 2025 00:56:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27981</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Galaxy Digital deposited 175,000 SOL to Coinbase, worth $35.65 million</title>
-      <link>https://www.lookonchain.com/feeds/27980</link>
-      <description>On September 7, as per the monitoring of LookOnChain, Galaxy Digital deposited 175,000 SOL into Coinbase 8 hours ago, with a value of $35.65 million.Since August 27, Galaxy Digital has made a total deposit of 935,000 SOL into Coinbase, amounting to $191 million.</description>
-      <pubDate>Sun, 07 Sep 2025 00:48:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27980</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A Whale Increases Short Positions on ETH and BTC, Total Position Exceeds $200 Million</title>
-      <link>https://www.lookonchain.com/feeds/27979</link>
-      <description>On September 7th, according to EmberCN&apos;s monitoring, a whale that initially took a long position on ETH and suffered a loss of $35.84 million switched to shorting BTC. Last night, the whale further increased their short position in BTC and also added a new short position on ETH. They currently hold a short position of $200 million with an unrealized gain of $1.5 million. Their positions are as follows:Short 1351 BTC at a leverage of 25 times, worth $150 million, with an entry price of $111,292 and a liquidation price of $114,770;Short 11,800 ETH at a leverage of 15 times, worth $50 million, with an entry price of $4,278 and a liquidation price of $4,798.</description>
-      <pubDate>Sun, 07 Sep 2025 00:40:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27979</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>Bitcoin Mining Difficulty Increased by 4.89% to 136.04T, Reaching a New All-Time High, with a Seven-Day Average Network Hash Rate of 947.79EH/s</title>
-      <link>https://www.lookonchain.com/feeds/27978</link>
-      <description>On September 7th, based on Cloverpool data, the Bitcoin mining difficulty underwent an adjustment at block height 913,248, experiencing a 4.89% increase to 136.04 T. The current average network hash rate over the past seven days is 947.79 EH/s.</description>
-      <pubDate>Sun, 07 Sep 2025 00:40:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27978</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>A Certain Ethereum Foundation-Linked Address Moves 4,000 ETH After 9 Years of Dormancy</title>
-      <link>https://www.lookonchain.com/feeds/27977</link>
-      <description>On September 7th, as monitored by Onchainlens, an address related to a certain Ethereum Foundation became dormant for 9 years and then transferred 4,000 ETH to a new wallet. The value of this transfer is $17.19 million.Addresses:- 0x0f08fd3f92ab62afcc372ea57eeef609b7114213- 0xACABE9d1bC52C3d94A50bc904288740563dd03B9</description>
-      <pubDate>Sun, 07 Sep 2025 00:32:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27977</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>Bitcoin briefly falls below $110,000</title>
-      <link>https://www.lookonchain.com/feeds/27976</link>
-      <description>On September 7th, based on HTX market data, Bitcoin briefly fell below $110,000, with a 0.38% decrease within the last 24 hours.</description>
-      <pubDate>Sat, 06 Sep 2025 18:14:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27976</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>A whale deposited 3711 ETH into a CEX at an average price of $4294, resulting in an unrealized gain of $1.417 million.</title>
-      <link>https://www.lookonchain.com/feeds/27975</link>
-      <description>On September 7th, according to the monitoring of on-chain analyst AI Auntie @ai_9684xtpa, it appears that the &quot;Whale who accumulated ETH at an average price of $3,912 two years ago&quot; has reduced their holdings. They recharged 3,711 ETH to Binance at a price of $4,294, with a total of about $15.93 million. If sold, they would make a profit of $1.417 million. Currently, the wallet still holds 3,000 ETH, with an unrealized gain of $1.13 million.</description>
-      <pubDate>Sat, 06 Sep 2025 17:14:30 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/27975</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>whale</category>
       <category>high-value</category>
 
     </item>
