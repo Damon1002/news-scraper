@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml</link>
     <description>Latest crypto news from LookOnChain</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Sep 2025 03:32:27 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Sep 2025 03:32:27 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 03:55:46 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 03:55:46 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/lookonchain.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,101 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>Venus Protocol: Assets of Phishing Incident Victims Have Been Restored in Equivalent Value Based on Today&apos;s Token Price</title>
+      <link>https://www.lookonchain.com/feeds/28107</link>
+      <description>On September 8th, the decentralized lending protocol Venus Protocol tweeted that after conducting due diligence, the team has officially returned the $11.4 million position to the victim Kuan Sun (@KuanSun1990) at the current token price.Previously, Venus Protocol released an analysis of a phishing attack stating that on September 2nd, user Kuan Sun suffered a loss of approximately $13 million. Within 13 hours, the Venus team took measures such as pausing the protocol and forcefully liquidating the attacker&apos;s wallet, successfully recovering all funds and restoring the normal operation of the protocol. A security audit confirmed that the protocol itself was not compromised.</description>
+      <pubDate>Mon, 08 Sep 2025 03:48:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28107</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Standard Chartered Bank: Expects the Federal Reserve to Cut Interest Rates by 50 Basis Points in September</title>
+      <link>https://www.lookonchain.com/feeds/28106</link>
+      <description>September 8th, Standard Chartered Bank: It is anticipated that the Federal Reserve will reduce interest rates by 50 basis points in September, which is greater than the previously estimated 25 basis points. (Caixin)</description>
+      <pubDate>Mon, 08 Sep 2025 03:48:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28106</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>Eric Trump Clarifies: Metaplanet is currently its sole partner in the Asian market</title>
+      <link>https://www.lookonchain.com/feeds/28105</link>
+      <description>September 8th: In light of the circulating community rumors regarding a photo showing Eric Trump, the son of former President Donald Trump, with a CEO of an Asian company, which might give rise to a purchase deal, Eric Trump took to the X platform to provide a clarification. He asserted that he had no knowledge of the person he was photographed with. He specifically made it clear that he was not affiliated with the relevant company. The photo in question was captured during a local event. The only company with which he is currently collaborating in the Asian region is Metaplanet.</description>
+      <pubDate>Mon, 08 Sep 2025 03:40:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28105</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+
+    </item>
+    <item>
+      <title>A certain savvy investor has increased their holdings to go long on BTC, ETH, HYPE, and other major tokens, with a total position value exceeding $17 million.</title>
+      <link>https://www.lookonchain.com/feeds/28103</link>
+      <description>On September 8th, according to on-chain data, a smart money whale increased its position this morning. It took long positions in mainstream tokens such as BTC, ETH, and HYPE, with a total position value exceeding 17 million US dollars.As of the time of this writing, the address holds a 40x long position in Bitcoin worth 8.33 million US dollars, a 20x long position in Ethereum worth 6.45 million US dollars, and a 5x long position in HYPE worth 836,000 US dollars.This address has achieved a total profit of over 15.61 million US dollars on Hyperliquid.</description>
+      <pubDate>Mon, 08 Sep 2025 03:32:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28103</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+      <category>eth</category>
+      <category>ethereum</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
+      <title>A certain user lost approximately $180,000 in assets due to signing a phishing transaction.</title>
+      <link>https://www.lookonchain.com/feeds/28104</link>
+      <description>On September 8th, according to the monitoring of Scam Sniffer, a user lost approximately 180,000 USDT as a result of signing a phishing transaction.</description>
+      <pubDate>Mon, 08 Sep 2025 03:32:54 +0000</pubDate>
+      <source>LookOnChain</source>
+      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28104</guid>
+      <category>crypto</category>
+      <category>lookonchain</category>
+      <category>lookonchain</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>on-chain</category>
+      <category>whale-watching</category>
+      <category>initial-load</category>
+      <category>high-value</category>
+
+    </item>
+    <item>
       <title>Crypto Fear &amp; Greed Index currently at 51, market sentiment holding steady.</title>
       <link>https://www.lookonchain.com/feeds/28102</link>
       <description>On September 8th, based on alternative data, the cryptocurrency fear and greed index for today is 51 (yesterday it was 44). Market sentiment remains stable and continues to be &quot;Neutral&quot;.Note: The threshold for the fear index is 0-100 and includes the following indicators: Volatility (25%) + Market Volume (25%) + Social Media Hype (15%) + Market Surveys (15%) + Bitcoin&apos;s Share of the Entire Market (10%) + Google Trends Analysis (10%).</description>
-      <pubDate>Mon, 08 Sep 2025 03:16:35 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:16:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28102</guid>
       <category>crypto</category>
@@ -34,7 +125,7 @@
       <title>Aster will hold its TGE on September 17th, and Aster Genesis Stage 2 is now live.</title>
       <link>https://www.lookonchain.com/feeds/28101</link>
       <description>September 8th. According to official channels, the decentralized exchange platform Aster is scheduled to conduct its TGE on September 17th, with the collection of airdrop inquiries. The tokenomics will be announced at a later time.Moreover, the Aster Genesis Stage 2 has been launched, which introduces a multi-dimensional scoring system. The scoring dimensions encompass transaction volume, the holding period of Aster assets, profit and loss status, etc.</description>
-      <pubDate>Mon, 08 Sep 2025 03:08:35 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:08:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28101</guid>
       <category>crypto</category>
@@ -51,7 +142,7 @@
       <title>Metaplanet Acquires an Additional 136 Bitcoin</title>
       <link>https://www.lookonchain.com/feeds/28100</link>
       <description>On September 8th, according to official channels, Metaplanet declared that it has augmented its stake in 136 Bitcoins. By September 8th, Metaplanet&apos;s overall Bitcoin holdings have increased to 20,136 coins, and the average purchase price is $103,196.</description>
-      <pubDate>Mon, 08 Sep 2025 03:08:35 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:08:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28100</guid>
       <category>crypto</category>
@@ -70,7 +161,7 @@
       <title>Less than ten days away from the Fed&apos;s September interest rate meeting, traders are starting to bet on an October rate cut</title>
       <link>https://www.lookonchain.com/feeds/28099</link>
       <description>September 8th. With fewer than ten days remaining until the Fed&apos;s September interest rate meeting, current market traders are placing high bets on a rate cut in September and simultaneously elevating the probability of a rate cut in October.According to CME&apos;s &quot;FedWatch&quot; data, the likelihood of the Fed not implementing a rate cut in September currently stands at 0, with a 90% chance of a 25-basis-point rate cut. This probability is reported to be 87% on Polymarket.Moreover, traders are beginning to make wagers on a rate cut in October. CME data indicates that if the Fed cuts rates in September, the probability of another 25-basis-point rate cut in October is 71.6%, which represents a substantial increase from last week&apos;s 48%.</description>
-      <pubDate>Mon, 08 Sep 2025 03:00:35 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:00:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28099</guid>
       <category>crypto</category>
@@ -84,30 +175,10 @@
 
     </item>
     <item>
-      <title>Ethereum-Based Stablecoins Hit a Total Market Cap of $165 Billion, Reaching an All-Time High</title>
-      <link>https://www.lookonchain.com/feeds/28097</link>
-      <description>On September 8th, based on Token Terminal data, the total market capitalization of stablecoins on Ethereum has reached $165 billion, setting a new record high.</description>
-      <pubDate>Mon, 08 Sep 2025 02:48:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28097</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>eth</category>
-      <category>ethereum</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
       <title>Bitunix Analyst: Escalation of Russia-Ukraine Conflict and Trump&apos;s Sanctions Posture Boost Market Risk-Off Sentiment</title>
       <link>https://www.lookonchain.com/feeds/28098</link>
       <description>September 8th: In the largest-scale airstrike since the Russian invasion began, a significant government building in the center of Kyiv caught fire, resulting in casualties and infrastructure damage in multiple regions. President Trump of the United States has made it explicit that he is ready to initiate the &quot;second-stage sanctions&quot; against Russia. Secretary Yellen of the U.S. Treasury has also disclosed that the U.S. and Europe may impose additional tariffs on countries purchasing Russian oil in order to further constrict Moscow&apos;s financial resources. In the macro market, as risk aversion intensifies, there is a resurgence of demand for U.S. bonds, and the U.S. dollar index remains within a certain range. Geopolitical conflicts and sanction risks may exert upward pressure on energy prices, further influencing inflation expectations. The market is focusing on the upcoming inflation data and the future policy direction of the Federal Reserve, with the potential for increased volatility</description>
-      <pubDate>Mon, 08 Sep 2025 02:48:35 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 02:54:54 +0000</pubDate>
       <source>LookOnChain</source>
       <guid isPermaLink="true">https://www.lookonchain.com/feeds/28098</guid>
       <category>crypto</category>
@@ -118,78 +189,6 @@
       <category>on-chain</category>
       <category>whale-watching</category>
       <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Binance Alpha Futures Section Witnesses Significant Token Price Surges, with MYX and TALE Leading the Way</title>
-      <link>https://www.lookonchain.com/feeds/28096</link>
-      <description>On September 8th, based on market data, certain tokens in the Binance Alpha sector experienced significant gains today. MYX and TALE took the lead. The details are as follows:MYX witnessed a 173.39% increase in the past 24 hours and is currently trading at $3.7;TA saw a 74% increase in the past 24 hours and is currently trading at $0.17706;TALE saw a 68% increase in the past 24 hours and is currently trading at $0.005185;TOWN saw a 56% increase in the past 24 hours and is currently trading at $0.006358.BlockBeats reminds users that the prices of these related tokens are highly volatile, and users should invest with caution.</description>
-      <pubDate>Mon, 08 Sep 2025 02:40:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28096</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>Frax Founder Discusses Hyperliquid USDH Competition: Interoperability Value Over Yield</title>
-      <link>https://www.lookonchain.com/feeds/28095</link>
-      <description>On September 8th, Sam Kazemian, the founder of Frax, stated in a social media post that the key insight of the Hyperliquid USDH event is that the true value of a stablecoin issuer lies in the interoperability and deep integration of the economic distribution chain rather than the obtainable sovereign bond yield.He stated that candidate parties, including Frax and Paxos, are willing to return 100% of the yield to Hyperliquid, but the actual value should far exceed yield sharing.</description>
-      <pubDate>Mon, 08 Sep 2025 02:40:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28095</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-
-    </item>
-    <item>
-      <title>A whale went long on PUMP with 5x leverage, with a total position of approximately $6.3 million.</title>
-      <link>https://www.lookonchain.com/feeds/28093</link>
-      <description>On September 8th, based on the monitoring of LookOnChain, a whale has established 3 wallets within the past 8 hours and gone long on PUMP with a leverage of 5 times. The total position is 1.31 billion PUMP tokens, which is equivalent to approximately $6.3 million.</description>
-      <pubDate>Mon, 08 Sep 2025 02:32:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28093</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>whale</category>
-      <category>high-value</category>
-
-    </item>
-    <item>
-      <title>SOMI, MYX, WLFI 24-Hour Liquidation Volume Surpasses Bitcoin</title>
-      <link>https://www.lookonchain.com/feeds/28094</link>
-      <description>On September 8th, according to Coinglass data, within the past 24 hours, the liquidation volume of SOMI, MYX, and WLFI all exceeded that of Bitcoin. Among them:- SOMI surged by more than 56% in the past 24 hours and is currently trading at $1.64. The liquidation volume in the past 24 hours was $17.4 million, mainly from short positions, and the current contract funding rate is negative.- MYX surged by more than 180% in the past 24 hours and is currently trading at $3.73. The liquidation volume in the past 24 hours was $13.5 million, mainly from short positions, and the current contract funding rate is positive.- WLFI surged by more than 2% in the past 24 hours and is currently trading at $0.23. The liquidation volume in the past 24 hours was $12.2 million, experiencing both long and short liquidations, and the current contract funding rate is positive.</description>
-      <pubDate>Mon, 08 Sep 2025 02:32:35 +0000</pubDate>
-      <source>LookOnChain</source>
-      <guid isPermaLink="true">https://www.lookonchain.com/feeds/28094</guid>
-      <category>crypto</category>
-      <category>lookonchain</category>
-      <category>lookonchain</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>on-chain</category>
-      <category>whale-watching</category>
-      <category>initial-load</category>
-      <category>btc</category>
-      <category>bitcoin</category>
 
     </item>
   </channel>
