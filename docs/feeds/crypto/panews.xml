@@ -5,8 +5,8 @@
     <link>https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml</link>
     <description>Latest crypto news from PANews</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Sep 2025 03:55:46 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Sep 2025 03:55:46 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 04:25:12 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 04:25:12 +0000</pubDate>
     <ttl>60</ttl>
     <category>crypto</category>
     <atom:link href="https://damon1002.github.io/news-scraper/feeds/crypto/panews.xml" rel="self" type="application/rss+xml"/>
@@ -14,10 +14,89 @@
     <managingEditor>noreply@github.com</managingEditor>
     <webMaster>noreply@github.com</webMaster>
     <item>
+      <title>巴克莱将美联储年内降息次数上调至3次</title>
+      <link>https://www.panewslab.com/zh/articles/eac85026-f511-47e4-9b32-7e3941eb615e</link>
+      <description>巴克莱将美联储年内降息次数上调至3次</description>
+      <pubDate>Mon, 08 Sep 2025 04:25:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/eac85026-f511-47e4-9b32-7e3941eb615e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>渣打预计美联储9月降息50个基点</title>
+      <link>https://www.panewslab.com/zh/articles/05c6b97c-212c-499f-922d-236d01dfdd6e</link>
+      <description>渣打预计美联储9月降息50个基点</description>
+      <pubDate>Mon, 08 Sep 2025 04:23:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/05c6b97c-212c-499f-922d-236d01dfdd6e</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
+      <title>以太坊现货 ETF 上周净流出7.88亿美元，创历史最高纪录</title>
+      <link>https://www.panewslab.com/zh/articles/c567befc-8f77-49b8-8c8e-b6f7f46135f6</link>
+      <description>以太坊现货 ETF 上周净流出7.88亿美元，创历史最高纪录</description>
+      <pubDate>Mon, 08 Sep 2025 04:21:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c567befc-8f77-49b8-8c8e-b6f7f46135f6</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>eth</category>
+      <category>ethereum</category>
+
+    </item>
+    <item>
+      <title>比特币现货 ETF 上周净流入 2.46 亿美元，持续两周净流入</title>
+      <link>https://www.panewslab.com/zh/articles/8fb49d52-e147-4129-ac3f-3ee3c26bf64b</link>
+      <description>比特币现货 ETF 上周净流入 2.46 亿美元，持续两周净流入</description>
+      <pubDate>Mon, 08 Sep 2025 04:19:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8fb49d52-e147-4129-ac3f-3ee3c26bf64b</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+      <category>btc</category>
+      <category>bitcoin</category>
+
+    </item>
+    <item>
+      <title>Chainlink CEO与SEC主席会谈推动资产链上化进程</title>
+      <link>https://www.panewslab.com/zh/articles/b945a5c8-6ea8-4242-b415-ef9b0e65d0f6</link>
+      <description>Chainlink CEO与SEC主席会谈推动资产链上化进程</description>
+      <pubDate>Mon, 08 Sep 2025 04:17:12 +0000</pubDate>
+      <source>PANews</source>
+      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b945a5c8-6ea8-4242-b415-ef9b0e65d0f6</guid>
+      <category>crypto</category>
+      <category>panews</category>
+      <category>panews</category>
+      <category>crypto</category>
+      <category>blockchain</category>
+      <category>chinese-crypto-news</category>
+
+    </item>
+    <item>
       <title>Venus Protocol正式归还Kuan Sun价值1140万美元头寸</title>
       <link>https://www.panewslab.com/zh/articles/c9b979ec-a275-46a8-b894-1650ff538a16</link>
       <description>Venus Protocol正式归还Kuan Sun价值1140万美元头寸</description>
-      <pubDate>Mon, 08 Sep 2025 03:55:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:15:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/c9b979ec-a275-46a8-b894-1650ff538a16</guid>
       <category>crypto</category>
@@ -32,7 +111,7 @@
       <title>我国人工智能企业数量已超5000家</title>
       <link>https://www.panewslab.com/zh/articles/2136c767-c59c-4e72-93c5-af5218edd7cd</link>
       <description>我国人工智能企业数量已超5000家</description>
-      <pubDate>Mon, 08 Sep 2025 03:53:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:13:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/2136c767-c59c-4e72-93c5-af5218edd7cd</guid>
       <category>crypto</category>
@@ -47,7 +126,7 @@
       <title>Metaplanet再购136枚比特币，总持仓量达20136枚</title>
       <link>https://www.panewslab.com/zh/articles/d37a5127-4d75-4a26-b346-1f7d053b17bc</link>
       <description>Metaplanet再购136枚比特币，总持仓量达20136枚</description>
-      <pubDate>Mon, 08 Sep 2025 03:51:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:11:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d37a5127-4d75-4a26-b346-1f7d053b17bc</guid>
       <category>crypto</category>
@@ -64,7 +143,7 @@
       <title>加密板块普遍反弹，AI 板块涨超3%，ETH 小幅下跌</title>
       <link>https://www.panewslab.com/zh/articles/8cfc9fca-9f90-416b-845a-29c495ffaef8</link>
       <description>加密板块普遍反弹，AI 板块涨超3%，ETH 小幅下跌</description>
-      <pubDate>Mon, 08 Sep 2025 03:49:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:09:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/8cfc9fca-9f90-416b-845a-29c495ffaef8</guid>
       <category>crypto</category>
@@ -81,7 +160,7 @@
       <title>Aster将于9月17日TGE，将向用户空投704万枚ASTER代币</title>
       <link>https://www.panewslab.com/zh/articles/6a3bd202-eaff-4d4f-8bd4-a4e970f0919d</link>
       <description>Aster将于9月17日TGE，将向用户空投704万枚ASTER代币</description>
-      <pubDate>Mon, 08 Sep 2025 03:47:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:07:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6a3bd202-eaff-4d4f-8bd4-a4e970f0919d</guid>
       <category>crypto</category>
@@ -96,7 +175,7 @@
       <title>ETH突破4300美元，日内涨幅 0.03%</title>
       <link>https://www.panewslab.com/zh/articles/d971tijd</link>
       <description>ETH突破4300美元，日内涨幅 0.03%</description>
-      <pubDate>Mon, 08 Sep 2025 03:45:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:05:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/d971tijd</guid>
       <category>crypto</category>
@@ -113,7 +192,7 @@
       <title>昨夜今晨重要资讯（9月7日-9月8日）</title>
       <link>https://www.panewslab.com/zh/articles/582af7eb-2d16-4cf9-b086-b425c32f89d7</link>
       <description>昨夜今晨重要资讯（9月7日-9月8日）</description>
-      <pubDate>Mon, 08 Sep 2025 03:43:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:03:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/582af7eb-2d16-4cf9-b086-b425c32f89d7</guid>
       <category>crypto</category>
@@ -128,7 +207,7 @@
       <title>铸帝控股宣布450万港元加密货币投资计划</title>
       <link>https://www.panewslab.com/zh/articles/114a324d-e93f-495b-8a64-83e1e65a9364</link>
       <description>铸帝控股宣布450万港元加密货币投资计划</description>
-      <pubDate>Mon, 08 Sep 2025 03:41:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 04:01:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/114a324d-e93f-495b-8a64-83e1e65a9364</guid>
       <category>crypto</category>
@@ -143,7 +222,7 @@
       <title>网络安全法修正草案提请全国人大常委会会议审议</title>
       <link>https://www.panewslab.com/zh/articles/6fd8b5da-2643-4baf-9682-d8417e3fe41a</link>
       <description>网络安全法修正草案提请全国人大常委会会议审议</description>
-      <pubDate>Mon, 08 Sep 2025 03:39:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:59:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/6fd8b5da-2643-4baf-9682-d8417e3fe41a</guid>
       <category>crypto</category>
@@ -158,7 +237,7 @@
       <title>韩国政府要求虚拟资产卖出资金用于购房时须报告</title>
       <link>https://www.panewslab.com/zh/articles/5651ae84-b64b-4efd-919c-2c778401e006</link>
       <description>韩国政府要求虚拟资产卖出资金用于购房时须报告</description>
-      <pubDate>Mon, 08 Sep 2025 03:37:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:57:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5651ae84-b64b-4efd-919c-2c778401e006</guid>
       <category>crypto</category>
@@ -173,7 +252,7 @@
       <title>工银亚洲、汇丰表态申请香港稳定币牌照</title>
       <link>https://www.panewslab.com/zh/articles/5efa5d38-7e1c-4cc9-bad4-2fceae25d8af</link>
       <description>工银亚洲、汇丰表态申请香港稳定币牌照</description>
-      <pubDate>Mon, 08 Sep 2025 03:35:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:55:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/5efa5d38-7e1c-4cc9-bad4-2fceae25d8af</guid>
       <category>crypto</category>
@@ -188,7 +267,7 @@
       <title>行情：WLD日内涨幅4.88%，ILV日内跌幅3.49%</title>
       <link>https://www.panewslab.com/zh/articles/i34bd5kq</link>
       <description>行情：WLD日内涨幅4.88%，ILV日内跌幅3.49%</description>
-      <pubDate>Mon, 08 Sep 2025 03:33:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:53:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/i34bd5kq</guid>
       <category>crypto</category>
@@ -203,7 +282,7 @@
       <title>以太坊上代币化黄金总量达24亿美元，年内增长近100%</title>
       <link>https://www.panewslab.com/zh/articles/fdb75987-ec3c-4e36-9e5a-edace9a33062</link>
       <description>以太坊上代币化黄金总量达24亿美元，年内增长近100%</description>
-      <pubDate>Mon, 08 Sep 2025 03:31:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:51:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/fdb75987-ec3c-4e36-9e5a-edace9a33062</guid>
       <category>crypto</category>
@@ -220,7 +299,7 @@
       <title>新加坡华侨银行推出10亿美元区块链数字美元商业票据计划</title>
       <link>https://www.panewslab.com/zh/articles/186d61f0-1c06-4b25-9e1c-97f8106c5988</link>
       <description>新加坡华侨银行推出10亿美元区块链数字美元商业票据计划</description>
-      <pubDate>Mon, 08 Sep 2025 03:29:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:49:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/186d61f0-1c06-4b25-9e1c-97f8106c5988</guid>
       <category>crypto</category>
@@ -235,88 +314,9 @@
       <title>新西兰金融市场管理局就代币化监管发起公众咨询</title>
       <link>https://www.panewslab.com/zh/articles/298d81f0-b289-42c1-943d-ccb5b0112dd7</link>
       <description>新西兰金融市场管理局就代币化监管发起公众咨询</description>
-      <pubDate>Mon, 08 Sep 2025 03:27:46 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 03:47:12 +0000</pubDate>
       <source>PANews</source>
       <guid isPermaLink="true">https://www.panewslab.com/zh/articles/298d81f0-b289-42c1-943d-ccb5b0112dd7</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>鲸鱼在HyperLiquid做多$PUMP获利，部分账户因高杠杆$BTC亏损为负</title>
-      <link>https://www.panewslab.com/zh/articles/3c1d046e-3989-4341-9ef4-d29586beee85</link>
-      <description>鲸鱼在HyperLiquid做多$PUMP获利，部分账户因高杠杆$BTC亏损为负</description>
-      <pubDate>Mon, 08 Sep 2025 03:25:46 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/3c1d046e-3989-4341-9ef4-d29586beee85</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>btc</category>
-      <category>bitcoin</category>
-
-    </item>
-    <item>
-      <title>富达在以太坊上推出的代币化国库基金FDIT资产规模已超2亿美元</title>
-      <link>https://www.panewslab.com/zh/articles/70870c3c-ec2c-455c-91cb-a5ba22aa3831</link>
-      <description>富达在以太坊上推出的代币化国库基金FDIT资产规模已超2亿美元</description>
-      <pubDate>Mon, 08 Sep 2025 03:23:46 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/70870c3c-ec2c-455c-91cb-a5ba22aa3831</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-      <category>eth</category>
-      <category>ethereum</category>
-
-    </item>
-    <item>
-      <title>韩国拟允许银行与非银行联合发行韩元稳定币</title>
-      <link>https://www.panewslab.com/zh/articles/0350cee8-bf55-499a-b46c-52b29b95e1f2</link>
-      <description>韩国拟允许银行与非银行联合发行韩元稳定币</description>
-      <pubDate>Mon, 08 Sep 2025 03:21:46 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/0350cee8-bf55-499a-b46c-52b29b95e1f2</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>Amber Group三个月后再从Binance提取468万枚WLD</title>
-      <link>https://www.panewslab.com/zh/articles/b31a7d31-2f34-48f5-a56d-8d251d29b8dd</link>
-      <description>Amber Group三个月后再从Binance提取468万枚WLD</description>
-      <pubDate>Mon, 08 Sep 2025 03:19:46 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b31a7d31-2f34-48f5-a56d-8d251d29b8dd</guid>
-      <category>crypto</category>
-      <category>panews</category>
-      <category>panews</category>
-      <category>crypto</category>
-      <category>blockchain</category>
-      <category>chinese-crypto-news</category>
-
-    </item>
-    <item>
-      <title>香港已有获得国企投资的基金正积极筹划币股联动项目</title>
-      <link>https://www.panewslab.com/zh/articles/b19d3081-0a6c-41e5-af7d-ab3622d6e17a</link>
-      <description>香港已有获得国企投资的基金正积极筹划币股联动项目</description>
-      <pubDate>Mon, 08 Sep 2025 03:17:46 +0000</pubDate>
-      <source>PANews</source>
-      <guid isPermaLink="true">https://www.panewslab.com/zh/articles/b19d3081-0a6c-41e5-af7d-ab3622d6e17a</guid>
       <category>crypto</category>
       <category>panews</category>
       <category>panews</category>
